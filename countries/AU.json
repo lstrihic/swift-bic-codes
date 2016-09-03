@@ -1,0 +1,5226 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "list": [
+    {
+      "bank": "Amp Bank Limited",
+      "branches": [
+        {
+          "branch": "Ret Branch",
+          "city": "Sydney",
+          "swift": "AMPBAU2SRET"
+        },
+        {
+          "branch": "Try Branch",
+          "city": "Sydney",
+          "swift": "AMPBAU2STRY"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "AMPBAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Arab Bank Australia Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "ARABAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Asx Operations Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "XASXAU2SXXX"
+        },
+        {
+          "branch": "Rtgs Settlement",
+          "city": "Sydney",
+          "swift": "XASXAU2SRTG"
+        }
+      ]
+    },
+    {
+      "bank": "Austraclear Limited",
+      "branches": [
+        {
+          "branch": "Bko 202",
+          "city": "Sydney",
+          "swift": "ACLRAU2S202"
+        },
+        {
+          "branch": "Bko 203",
+          "city": "Sydney",
+          "swift": "ACLRAU2S203"
+        },
+        {
+          "branch": "Bko 204",
+          "city": "Sydney",
+          "swift": "ACLRAU2S204"
+        },
+        {
+          "branch": "Bko 205",
+          "city": "Sydney",
+          "swift": "ACLRAU2S205"
+        },
+        {
+          "branch": "Bko 260",
+          "city": "Sydney",
+          "swift": "ACLRAU2S206"
+        },
+        {
+          "branch": "Bko 207",
+          "city": "Sydney",
+          "swift": "ACLRAU2S207"
+        },
+        {
+          "branch": "Bko 208",
+          "city": "Sydney",
+          "swift": "ACLRAU2S208"
+        },
+        {
+          "branch": "Bko 209",
+          "city": "Sydney",
+          "swift": "ACLRAU2S209"
+        },
+        {
+          "branch": "Bko 210",
+          "city": "Sydney",
+          "swift": "ACLRAU2S210"
+        },
+        {
+          "branch": "Bko 211",
+          "city": "Sydney",
+          "swift": "ACLRAU2S211"
+        },
+        {
+          "branch": "Bko 212",
+          "city": "Sydney",
+          "swift": "ACLRAU2S212"
+        },
+        {
+          "branch": "Bko 213",
+          "city": "Sydney",
+          "swift": "ACLRAU2S213"
+        },
+        {
+          "branch": "Bko 214",
+          "city": "Sydney",
+          "swift": "ACLRAU2S214"
+        },
+        {
+          "branch": "Bko 215",
+          "city": "Sydney",
+          "swift": "ACLRAU2S215"
+        },
+        {
+          "branch": "Bko 216",
+          "city": "Sydney",
+          "swift": "ACLRAU2S216"
+        },
+        {
+          "branch": "Bko 217",
+          "city": "Sydney",
+          "swift": "ACLRAU2S217"
+        },
+        {
+          "branch": "Bko 218",
+          "city": "Sydney",
+          "swift": "ACLRAU2S218"
+        },
+        {
+          "branch": "Bko 219",
+          "city": "Sydney",
+          "swift": "ACLRAU2S219"
+        },
+        {
+          "branch": "Bko 220",
+          "city": "Sydney",
+          "swift": "ACLRAU2S220"
+        },
+        {
+          "branch": "Bko 221",
+          "city": "Sydney",
+          "swift": "ACLRAU2S221"
+        },
+        {
+          "branch": "Bko 202",
+          "city": "Sydney",
+          "swift": "ACLRAU2S202"
+        },
+        {
+          "branch": "Bko 203",
+          "city": "Sydney",
+          "swift": "ACLRAU2S203"
+        },
+        {
+          "branch": "Bko 204",
+          "city": "Sydney",
+          "swift": "ACLRAU2S204"
+        },
+        {
+          "branch": "Bko 205",
+          "city": "Sydney",
+          "swift": "ACLRAU2S205"
+        },
+        {
+          "branch": "Bko 260",
+          "city": "Sydney",
+          "swift": "ACLRAU2S206"
+        },
+        {
+          "branch": "Bko 207",
+          "city": "Sydney",
+          "swift": "ACLRAU2S207"
+        },
+        {
+          "branch": "Bko 208",
+          "city": "Sydney",
+          "swift": "ACLRAU2S208"
+        },
+        {
+          "branch": "Bko 209",
+          "city": "Sydney",
+          "swift": "ACLRAU2S209"
+        },
+        {
+          "branch": "Bko 210",
+          "city": "Sydney",
+          "swift": "ACLRAU2S210"
+        },
+        {
+          "branch": "Bko 211",
+          "city": "Sydney",
+          "swift": "ACLRAU2S211"
+        },
+        {
+          "branch": "Bko 212",
+          "city": "Sydney",
+          "swift": "ACLRAU2S212"
+        },
+        {
+          "branch": "Bko 213",
+          "city": "Sydney",
+          "swift": "ACLRAU2S213"
+        },
+        {
+          "branch": "Bko 214",
+          "city": "Sydney",
+          "swift": "ACLRAU2S214"
+        },
+        {
+          "branch": "Bko 215",
+          "city": "Sydney",
+          "swift": "ACLRAU2S215"
+        },
+        {
+          "branch": "Bko 216",
+          "city": "Sydney",
+          "swift": "ACLRAU2S216"
+        },
+        {
+          "branch": "Bko 217",
+          "city": "Sydney",
+          "swift": "ACLRAU2S217"
+        },
+        {
+          "branch": "Bko 218",
+          "city": "Sydney",
+          "swift": "ACLRAU2S218"
+        },
+        {
+          "branch": "Bko 219",
+          "city": "Sydney",
+          "swift": "ACLRAU2S219"
+        },
+        {
+          "branch": "Bko 220",
+          "city": "Sydney",
+          "swift": "ACLRAU2S220"
+        },
+        {
+          "branch": "Bko 221",
+          "city": "Sydney",
+          "swift": "ACLRAU2S221"
+        },
+        {
+          "branch": "Bko 222",
+          "city": "Sydney",
+          "swift": "ACLRAU2S222"
+        },
+        {
+          "branch": "Bko 223",
+          "city": "Sydney",
+          "swift": "ACLRAU2S223"
+        },
+        {
+          "branch": "Bko 224",
+          "city": "Sydney",
+          "swift": "ACLRAU2S224"
+        },
+        {
+          "branch": "Bko 225",
+          "city": "Sydney",
+          "swift": "ACLRAU2S225"
+        },
+        {
+          "branch": "Bko 226",
+          "city": "Sydney",
+          "swift": "ACLRAU2S226"
+        },
+        {
+          "branch": "Bko 227",
+          "city": "Sydney",
+          "swift": "ACLRAU2S227"
+        },
+        {
+          "branch": "Bko 228",
+          "city": "Sydney",
+          "swift": "ACLRAU2S228"
+        },
+        {
+          "branch": "Bko 229",
+          "city": "Sydney",
+          "swift": "ACLRAU2S229"
+        },
+        {
+          "branch": "Bko 230",
+          "city": "Sydney",
+          "swift": "ACLRAU2S230"
+        },
+        {
+          "branch": "Bko 231",
+          "city": "Sydney",
+          "swift": "ACLRAU2S231"
+        },
+        {
+          "branch": "Bko 232",
+          "city": "Sydney",
+          "swift": "ACLRAU2S232"
+        },
+        {
+          "branch": "Bko 233",
+          "city": "Sydney",
+          "swift": "ACLRAU2S233"
+        },
+        {
+          "branch": "Bko 234",
+          "city": "Sydney",
+          "swift": "ACLRAU2S234"
+        },
+        {
+          "branch": "Bko 235",
+          "city": "Sydney",
+          "swift": "ACLRAU2S235"
+        },
+        {
+          "branch": "Bko 236",
+          "city": "Sydney",
+          "swift": "ACLRAU2S236"
+        },
+        {
+          "branch": "Bko 237",
+          "city": "Sydney",
+          "swift": "ACLRAU2S237"
+        },
+        {
+          "branch": "Bko 238",
+          "city": "Sydney",
+          "swift": "ACLRAU2S238"
+        },
+        {
+          "branch": "Bko 239",
+          "city": "Sydney",
+          "swift": "ACLRAU2S239"
+        },
+        {
+          "branch": "Bko 240",
+          "city": "Sydney",
+          "swift": "ACLRAU2S240"
+        },
+        {
+          "branch": "Bko 241",
+          "city": "Sydney",
+          "swift": "ACLRAU2S241"
+        },
+        {
+          "branch": "Bko 242",
+          "city": "Sydney",
+          "swift": "ACLRAU2S242"
+        },
+        {
+          "branch": "Bko 243",
+          "city": "Sydney",
+          "swift": "ACLRAU2S243"
+        },
+        {
+          "branch": "Bko 244",
+          "city": "Sydney",
+          "swift": "ACLRAU2S244"
+        },
+        {
+          "branch": "Bko 245",
+          "city": "Sydney",
+          "swift": "ACLRAU2S245"
+        },
+        {
+          "branch": "Bko 246",
+          "city": "Sydney",
+          "swift": "ACLRAU2S246"
+        },
+        {
+          "branch": "Bko 247",
+          "city": "Sydney",
+          "swift": "ACLRAU2S247"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "ACLRAU2SXXX"
+        },
+        {
+          "branch": "Austraclear Limited",
+          "city": "Sydney",
+          "swift": "ACLRAUSSXXX"
+        },
+        {
+          "branch": "Bko 201",
+          "city": "Sydney",
+          "swift": "ACLRAU2S201"
+        }
+      ]
+    },
+    {
+      "bank": "Australia And New Zealand Banking Group Limited",
+      "branches": [
+        {
+          "branch": "Ballarat",
+          "city": "Ballarat",
+          "swift": "ANZBAU3M516"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Adelaide",
+          "swift": "ANZBAU5AXXX"
+        },
+        {
+          "branch": "Bendigo",
+          "city": "Bendigo",
+          "swift": "ANZBAU3M535"
+        },
+        {
+          "branch": "Alice Springs",
+          "city": "Alice Springs",
+          "swift": "ANZBAU8D881"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Brisbane",
+          "swift": "ANZBAU4BXXX"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Canberra",
+          "swift": "ANZBAU2CXXX"
+        },
+        {
+          "branch": "Cairns",
+          "city": "Cairns",
+          "swift": "ANZBAU4B530"
+        },
+        {
+          "branch": "Fremantle",
+          "city": "Fremantle",
+          "swift": "ANZBAU6P307"
+        },
+        {
+          "branch": "Geelong",
+          "city": "Geelong",
+          "swift": "ANZBAU3M645"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Darwin",
+          "swift": "ANZBAU8DXXX"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Hobart",
+          "swift": "ANZBAU7HXXX"
+        },
+        {
+          "branch": "Launceston",
+          "city": "Launceston",
+          "swift": "ANZBAU7H042"
+        },
+        {
+          "branch": "Funds Management",
+          "city": "Melbourne",
+          "swift": "ANZBAU3MAFM"
+        },
+        {
+          "branch": "Melbourne 3000",
+          "city": "Melbourne",
+          "swift": "ANZBAU3MCLS"
+        },
+        {
+          "branch": "Group Treasury Operations",
+          "city": "Melbourne",
+          "swift": "ANZBAU3MGTO"
+        },
+        {
+          "branch": "Custodian Services",
+          "city": "Melbourne",
+          "swift": "ANZBAU3MNOM"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "ANZBAU3MXXX"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Perth",
+          "swift": "ANZBAU6PXXX"
+        },
+        {
+          "branch": "Newcastle",
+          "city": "Newcastle",
+          "swift": "ANZBAU2S780"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "ANZBAU2SXXX"
+        },
+        {
+          "branch": "Ballarat",
+          "city": "Ballarat",
+          "swift": "ANZBAU3M516"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Adelaide",
+          "swift": "ANZBAU5AXXX"
+        },
+        {
+          "branch": "Bendigo",
+          "city": "Bendigo",
+          "swift": "ANZBAU3M535"
+        },
+        {
+          "branch": "Alice Springs",
+          "city": "Alice Springs",
+          "swift": "ANZBAU8D881"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Brisbane",
+          "swift": "ANZBAU4BXXX"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Canberra",
+          "swift": "ANZBAU2CXXX"
+        },
+        {
+          "branch": "Cairns",
+          "city": "Cairns",
+          "swift": "ANZBAU4B530"
+        },
+        {
+          "branch": "Fremantle",
+          "city": "Fremantle",
+          "swift": "ANZBAU6P307"
+        },
+        {
+          "branch": "Geelong",
+          "city": "Geelong",
+          "swift": "ANZBAU3M645"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Darwin",
+          "swift": "ANZBAU8DXXX"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Hobart",
+          "swift": "ANZBAU7HXXX"
+        },
+        {
+          "branch": "Launceston",
+          "city": "Launceston",
+          "swift": "ANZBAU7H042"
+        },
+        {
+          "branch": "Funds Management",
+          "city": "Melbourne",
+          "swift": "ANZBAU3MAFM"
+        },
+        {
+          "branch": "Melbourne 3000",
+          "city": "Melbourne",
+          "swift": "ANZBAU3MCLS"
+        },
+        {
+          "branch": "Group Treasury Operations",
+          "city": "Melbourne",
+          "swift": "ANZBAU3MGTO"
+        },
+        {
+          "branch": "Custodian Services",
+          "city": "Melbourne",
+          "swift": "ANZBAU3MNOM"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "ANZBAU3MXXX"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Perth",
+          "swift": "ANZBAU6PXXX"
+        },
+        {
+          "branch": "Newcastle",
+          "city": "Newcastle",
+          "swift": "ANZBAU2S780"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "ANZBAU2SXXX"
+        },
+        {
+          "branch": "Surfers Paradise",
+          "city": "Surfers Paradise",
+          "swift": "ANZBAU4B704"
+        },
+        {
+          "branch": "Wollongong",
+          "city": "Wollongong",
+          "swift": "ANZBAU2S878"
+        },
+        {
+          "branch": "Townsville",
+          "city": "Townsville",
+          "swift": "ANZBAU4B730"
+        },
+        {
+          "branch": "Melbourne",
+          "city": "Melbourne",
+          "swift": "ANZBAU3MCFX"
+        }
+      ]
+    },
+    {
+      "bank": "Australian Settlements Limited",
+      "branches": [
+        {
+          "branch": "Canberra",
+          "city": "Canberra",
+          "swift": "ASLLAU2CGIO"
+        },
+        {
+          "branch": "Canberra",
+          "city": "Canberra",
+          "swift": "ASLLAU2CHBS"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Canberra",
+          "swift": "ASLLAU2CXXX"
+        },
+        {
+          "branch": "Canberra",
+          "city": "Canberra",
+          "swift": "ASLLAU2CASL"
+        },
+        {
+          "branch": "Gateway Credit Union",
+          "city": "Sydney",
+          "swift": "ASLLAU2CGTW"
+        },
+        {
+          "branch": "Armidale 2350",
+          "city": "Armidale",
+          "swift": "ASLLAU2CNEC"
+        },
+        {
+          "branch": "Lismore",
+          "city": "Lismore",
+          "swift": "ASLLAU2CSCU"
+        },
+        {
+          "branch": "Sydney",
+          "city": "Sydney",
+          "swift": "ASLLAU2CSGE"
+        }
+      ]
+    },
+    {
+      "bank": "Ayers Alliance Holdings Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "AYAHAU24XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Banco Santander, S.A.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "",
+          "swift": "BSCHAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bank Of America, N.A. Sydney",
+      "branches": [
+        {
+          "branch": "Sydney Nsw 2000",
+          "city": "Sydney",
+          "swift": "BOFAAUSXOBU"
+        },
+        {
+          "branch": "Ba Securities Australia Ltd",
+          "city": "Sydney",
+          "swift": "BOFAAUSXSAL"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "BOFAAUSXXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bank Of Baroda",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "",
+          "swift": "BARBAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bank Of China",
+      "branches": [
+        {
+          "branch": "Melbourne Branch",
+          "city": "Melbourne",
+          "swift": "BKCHAU2SMEL"
+        },
+        {
+          "branch": "Haymarket Branch",
+          "city": "Sydney",
+          "swift": "BKCHAU2SHMB"
+        }
+      ]
+    },
+    {
+      "bank": "Bank Of China (Australia) Limited",
+      "branches": [
+        {
+          "branch": "Box Hill Branch",
+          "city": "Box Hill",
+          "swift": "BKCHAU2ABXH"
+        },
+        {
+          "branch": "Chatswood",
+          "city": "Chatswood",
+          "swift": "BKCHAU2ACWD"
+        },
+        {
+          "branch": "Hurstville Branch",
+          "city": "Hurstville",
+          "swift": "BKCHAU2AHSV"
+        },
+        {
+          "branch": "Melbourne Branch",
+          "city": "Melbourne",
+          "swift": "BKCHAU2AMEL"
+        },
+        {
+          "branch": "Perth",
+          "city": "Perth",
+          "swift": "BKCHAU2APTH"
+        },
+        {
+          "branch": "Banking Dept",
+          "city": "Sydney",
+          "swift": "BKCHAU2ABKG"
+        },
+        {
+          "branch": "Haymarket",
+          "city": "Sydney",
+          "swift": "BKCHAU2AHMB"
+        },
+        {
+          "branch": "Parramatta",
+          "city": "Sydney",
+          "swift": "BKCHAU2APAR"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "BKCHAU2AXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bank Of China Limited, Sydney Branch",
+      "branches": [
+        {
+          "branch": "Box Hill Branch",
+          "city": "Box Hill",
+          "swift": "BKCHAU2SBXH"
+        },
+        {
+          "branch": "Brisbane Branch",
+          "city": "Brisbane",
+          "swift": "BKCHAU2SBRI"
+        },
+        {
+          "branch": "Chatswood",
+          "city": "Chatswood",
+          "swift": "BKCHAU2SCWD"
+        },
+        {
+          "branch": "Hurstville Branch",
+          "city": "Hurstville",
+          "swift": "BKCHAU2SHSV"
+        },
+        {
+          "branch": "Perth Branch",
+          "city": "Perth",
+          "swift": "BKCHAU2SPTH"
+        },
+        {
+          "branch": "Accounting Dept",
+          "city": "Sydney",
+          "swift": "BKCHAU2SACC"
+        },
+        {
+          "branch": "Banking Dept",
+          "city": "Sydney",
+          "swift": "BKCHAU2SBKG"
+        },
+        {
+          "branch": "Bills Department",
+          "city": "Sydney",
+          "swift": "BKCHAU2SBLS"
+        },
+        {
+          "branch": "Foreign Exchange Dept",
+          "city": "Sydney",
+          "swift": "BKCHAU2SFEX"
+        },
+        {
+          "branch": "Obu",
+          "city": "Sydney",
+          "swift": "BKCHAU2SOBU"
+        },
+        {
+          "branch": "Parramatta Dept",
+          "city": "Sydney",
+          "swift": "BKCHAU2SPAR"
+        },
+        {
+          "branch": "Risk Management Dept",
+          "city": "Sydney",
+          "swift": "BKCHAU2SRMD"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "BKCHAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bank Of Communications Co.,Ltd Sydney Branch",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "COMMAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bank Of Montreal",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "BOFMAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bank Of Queensland Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Brisbane",
+          "swift": "QBANAU4BXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bank Of Scotland Plc",
+      "branches": [
+        {
+          "branch": "Treasury",
+          "city": "Sydney",
+          "swift": "BOFSAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bank Of Tokyo-Mitsubishi Ufj Ltd., The",
+      "branches": [
+        {
+          "branch": "Sydney Branch",
+          "city": "Sydney",
+          "swift": "BOTKAU2XXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bank Of Western Australia Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Perth",
+          "swift": "BKWAAU6PXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Barclays Bank Plc",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "BARCAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Beirut Hellenic Bank Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "LIKIAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bendigo Bank Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Bendigo",
+          "swift": "BENDAU3BXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bnp Paribas Australia",
+      "branches": [
+        {
+          "branch": "Fixed Income And Treasury",
+          "city": "Sydney",
+          "swift": "BNPAAU2S200"
+        },
+        {
+          "branch": "Sydney Offshore Banking Unit Obu",
+          "city": "Sydney",
+          "swift": "BNPAAU2SOBU"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "BNPAAU2SXXX"
+        },
+        {
+          "branch": "Brisbane Branch",
+          "city": "Brisbane",
+          "swift": "BNPAAU2S400"
+        },
+        {
+          "branch": "Melbourne Branch",
+          "city": "Melbourne",
+          "swift": "BNPAAU2S300"
+        },
+        {
+          "branch": "Perth Branch",
+          "city": "Perth",
+          "swift": "BNPAAU2S600"
+        }
+      ]
+    },
+    {
+      "bank": "Bnp Paribas Fund Services Australasia Pty Limited",
+      "branches": [
+        {
+          "branch": "Securities Services Sydney Custody",
+          "city": "Sydney",
+          "swift": "AMPCAU2SCAH"
+        },
+        {
+          "branch": "Securities Services Sydney Custody Gt",
+          "city": "Sydney",
+          "swift": "AMPCAU2SGTX"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "AMPCAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bnp Paribas Securities Services, (Australia Branch)",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "PARBAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "China Construction Bank Corporation Sydney Branch",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "PCBCAU2SXXX"
+        },
+        {
+          "branch": "Offshore Banking Unit",
+          "city": "Sydney",
+          "swift": "PCBCAU2SOBU"
+        }
+      ]
+    },
+    {
+      "bank": "Citibank Limited, Sydney",
+      "branches": [
+        {
+          "branch": "Global Consumer Banking",
+          "city": "Sydney",
+          "swift": "CITIAU2XGCB"
+        },
+        {
+          "branch": "Real Time Gross Settlement",
+          "city": "Sydney",
+          "swift": "CITIAU2XRTG"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "CITIAU2XXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Citibank N.A",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "CITIAUSXXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Citigroup Global Markets Australia Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "SSBSAU2SXXX"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "CNSLAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Citigroup Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "CITIAU3XXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Colonial First State Investment Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "CFSMAU2SXXX"
+        },
+        {
+          "branch": "Exchange Traded Derivatives",
+          "city": "Sydney",
+          "swift": "CFSMAU3METD"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "CFSMAU3MXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Commonwealth Bank Of Australia Sydney",
+      "branches": [
+        {
+          "branch": "Brisbane",
+          "city": "Brisbane",
+          "swift": "CTBAAU2S400"
+        },
+        {
+          "branch": "Adelaide",
+          "city": "Adelaide",
+          "swift": "CTBAAU2S500"
+        },
+        {
+          "branch": "Darwin",
+          "city": "Darwin",
+          "swift": "CTBAAU2S800"
+        },
+        {
+          "branch": "Hobart",
+          "city": "Hobart",
+          "swift": "CTBAAU2S700"
+        },
+        {
+          "branch": "Melbourne Group Treasury Centre",
+          "city": "Melbourne",
+          "swift": "CTBAAU2S3FX"
+        },
+        {
+          "branch": "Exportimport Collections And Documentary Credits",
+          "city": "Melbourne",
+          "swift": "CTBAAU2S3OT"
+        },
+        {
+          "branch": "Perth",
+          "city": "Perth",
+          "swift": "CTBAAU2S600"
+        },
+        {
+          "branch": "Cls Control Function",
+          "city": "Sydney",
+          "swift": "CTBAAU2SCLS"
+        },
+        {
+          "branch": "Group Treasury Foreign Exchange Accounting And Settlements",
+          "city": "Sydney",
+          "swift": "CTBAAU2SFXD"
+        },
+        {
+          "branch": "International Trade Processing Centre",
+          "city": "Sydney",
+          "swift": "CTBAAU2SITS"
+        },
+        {
+          "branch": "Offshore Banking Unit",
+          "city": "Sydney",
+          "swift": "CTBAAU2SOBU"
+        },
+        {
+          "branch": "For Head Office And All Australian Branches",
+          "city": "Sydney",
+          "swift": "CTBAAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Credit Agricole Cib Australia Limited",
+      "branches": [
+        {
+          "branch": "Off Shore Banking Unit",
+          "city": "Sydney",
+          "swift": "BSUIAU2SOBU"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "BSUIAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Credit Suisse Ag, Sydney Branch",
+      "branches": [
+        {
+          "branch": "Private Banking",
+          "city": "Sydney",
+          "swift": "CRESAU2SPBS"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "CRESAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Credit Suisse Equities (Australia) Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "FPSLAU3MXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Credit Suisse Investment Services (Australia) Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "CRESAU2DXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Deutsche Bank Ag",
+      "branches": [
+        {
+          "branch": "Debt Securities Ops",
+          "city": "Sydney",
+          "swift": "DEUTAU2SDSO"
+        },
+        {
+          "branch": "Offshore Banking Unit",
+          "city": "Sydney",
+          "swift": "DEUTAU2SOBU"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "DEUTAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "First Commercial Bank",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Brisbane",
+          "swift": "FCBKAU4BXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Goldman Sachs Jbwere Financial Markets Pty Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "GOLDAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Heritage Building Society Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Toowoomba",
+          "swift": "HBSLAU4TXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Australian Industry Development Corporation",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "AUIDAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Australian Investment Exchange",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Perth",
+          "swift": "AUIEAU61XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Australian Market Automated Quotation (ausmaq) System Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "AUSQAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Australian Unity Funds Management",
+      "branches": [
+        {
+          "branch": "Aim-poms Service",
+          "city": "Melbourne",
+          "swift": "AUUNAU3MXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Aviva Investors Australia Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Southbank",
+          "swift": "AVIUAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Baker Young Stockbrokers Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Adelaide",
+          "swift": "BAYSAU51XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Balanced Equity Management Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "BEMTAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bankinvest",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "BSYDAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bell First Pacific Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Brisbane",
+          "swift": "HENDAU41XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bell Potter Securities",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "BPFXAU31XXX"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "BPFXAU3MXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bell Potter Securities Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "JOTPAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bellwether Partners Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "BEPTAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bennelong Funds Management Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "BEFMAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Betashares Capital Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "BEAIAUS1XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Beulah Capital",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "BEUAAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bgc Partners (australia) Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "BPUPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Biam Australia Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "BAUPAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Blackrock Asset Management Australia Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "BGIAAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bnp Paribas Securities Services, (australia Branch",
+      "branches": [
+        {
+          "branch": "Securities Services Sydney Global Custody",
+          "city": "Sydney",
+          "swift": "PARBAU2SISI"
+        },
+        {
+          "branch": "Securities Services Sydney Local Custody",
+          "city": "Sydney",
+          "swift": "PARBAU2SLCC"
+        },
+        {
+          "branch": "Securities Services Sydney Master Custody",
+          "city": "Sydney",
+          "swift": "PARBAU2SMCY"
+        },
+        {
+          "branch": "Bp2s Australia-new Zealand Activity",
+          "city": "Sydney",
+          "swift": "PARBAU2SNZL"
+        }
+      ]
+    },
+    {
+      "bank": "Bny Australia Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "BONYAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bny Mellon Asset Management Australia Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "MGIVAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bridges Financial Services Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "BFSPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "British American Tobacco Australia Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Eastgardens",
+          "swift": "BATSAUA1XXX"
+        }
+      ]
+    },
+    {
+      "bank": "British American Tobacco Manufacturing Australia Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Eastgardens",
+          "swift": "BATSAUB1XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bt Australia Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "BUTAAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bt Funds Management Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "FUMAAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bt Investment Management (re) Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "IVMMAUS1XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bt Portfolio Services Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "BTFGAU21XXX"
+        },
+        {
+          "branch": "Bt Portfolio Services Pty Ltd",
+          "city": "Sydney",
+          "swift": "BTFGAUA1XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Btig Australia Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "BTAUAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bungeeltap Investments Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "FASTAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Burdett Buckeridge Young Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "BUBYAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Caledonia Investments Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "CALIAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Cameron Securities Pty. Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "CMSCAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Canaccord Genuity (australia) Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "CAYAAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Cass Comm Limited",
+      "branches": [
+        {
+          "branch": "Adelaide",
+          "city": "Adelaide",
+          "swift": "ICLFAU3105A"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "ICLFAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Cb-clpf Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "IMORAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Cba Equities Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "CBEQAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Ccz Statton Equities Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "CSEPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Ceres Capital Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "CECYAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Challenger Financial Services Group Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "CFSGAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Oversea-Chinese Banking Corporation Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "OCBCAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Rabobank Australia Branch",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "RABOAUSSXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Rabobank Australia Limited (Formerly Piba)",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "RABOAU2BXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Rbc Dexia Investor Services Trust",
+      "branches": [
+        {
+          "branch": "Rbc Dexia Platform Client",
+          "city": "Sydney",
+          "swift": "ROYCAUSGCSL"
+        },
+        {
+          "branch": "Rbc Dexia Platform Client",
+          "city": "Sydney",
+          "swift": "ROYCAUSGNTH"
+        },
+        {
+          "branch": "Rbc Dexia Platform Client",
+          "city": "Sydney",
+          "swift": "ROYCAUSGPWF"
+        },
+        {
+          "branch": "Rbc Dexia Platform Client",
+          "city": "Sydney",
+          "swift": "ROYCAUSGSUM"
+        },
+        {
+          "branch": "Rbc Dexia Platform Client",
+          "city": "Sydney",
+          "swift": "ROYCAUSGTLK"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "ROYCAUSGXXX"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "ROYCAUSSXXX"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "ROYCAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Rbs Group (Australia) Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "ABNAAU2SXXX"
+        },
+        {
+          "branch": "Offshore Banking Unit",
+          "city": "Sydney",
+          "swift": "ABNAAU2SOBU"
+        }
+      ]
+    },
+    {
+      "bank": "Reserve Bank Of Australia",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "RSBKAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Royal Bank Of Canada",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "ROYCAU2SXXX"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "RBDOAUB1XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Royal Bank Of Scotland Plc",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "RBOSAU2SXXX"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "RBOSAU2XXXX"
+        }
+      ]
+    },
+    {
+      "bank": "St.George Bank, A Division Of Westpac Banking Corporation",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "SGBLAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Standard Chartered Bank, Australia",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "SCBLAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "State Bank Of India",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "SBINAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "State Street Bank And Trust Company, Sydney Branch",
+      "branches": [
+        {
+          "branch": "Offshore Banking Unit",
+          "city": "Sydney",
+          "swift": "SBOSAU2XOBU"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "SBOSAU2XXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Sumitomo Mitsui Banking Corporation Sydney Branch",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "SMBCAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Suncorp-Metway Limited",
+      "branches": [
+        {
+          "branch": "Retail Foreign Currency Services",
+          "city": "Brisbane",
+          "swift": "METWAU4BFCS"
+        },
+        {
+          "branch": "International Trade Finance",
+          "city": "Brisbane",
+          "swift": "METWAU4BITF"
+        },
+        {
+          "branch": "Treasury Operations",
+          "city": "Brisbane",
+          "swift": "METWAU4BTSY"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Brisbane",
+          "swift": "METWAU4BXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Swiss Reinsurance Company",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "SWREAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Taiwan Business Bank, Sydney Branch",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "MBBTAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Taiwan Cooperative Bank Sydney Branch",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "TACBAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "The Bank Of New York Mellon, Sydney",
+      "branches": [
+        {
+          "branch": "Sydney",
+          "city": "Sydney",
+          "swift": "BNYMAU2SCTA"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "BNYMAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "The Hongkong And Shanghai Banking Corporation Limited, Australian Branch",
+      "branches": [
+        {
+          "branch": "Cls Division",
+          "city": "Sydney",
+          "swift": "HSBCAU2SCLS"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "HSBCAU2SXXX"
+        },
+        {
+          "branch": "Australian Branch",
+          "city": "Sydney",
+          "swift": "HSBCAU2SBAP"
+        }
+      ]
+    },
+    {
+      "bank": "The Royal Bank Of Scotland N.V. (Australia)",
+      "branches": [
+        {
+          "branch": "Offshore Banking Unit",
+          "city": "Sydney",
+          "swift": "ABNAAU2BOBU"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "ABNAAU2BXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Travelex Gbp Australia Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "COOKAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Travelex Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "TRAVAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Ubs Ag Australia Branch",
+      "branches": [
+        {
+          "branch": "Branch Foa",
+          "city": "Sydney",
+          "swift": "UBSWAU2SFOA"
+        },
+        {
+          "branch": "Off Bank Unit",
+          "city": "Sydney",
+          "swift": "UBSWAU2SOBU"
+        },
+        {
+          "branch": "Wma Dept",
+          "city": "Sydney",
+          "swift": "UBSWAU2SWMA"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "UBSWAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "United Overseas Bank Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "UOVBAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Westlb, Sydney Branch",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "WELAAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Westpac Banking Corporation",
+      "branches": [
+        {
+          "branch": "Offshore Banking Unit",
+          "city": "Sydney",
+          "swift": "WPACAU2FOBU"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "WPACAU2FXXX"
+        },
+        {
+          "branch": "For All New South Wales Branches",
+          "city": "Sydney",
+          "swift": "WPACAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Woori Bank",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "",
+          "swift": "HVBKAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "1770 Capital Partners",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "CPANAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "90 West Asset Management Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "WEAEAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "A.b.s. White And Co. Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "ABWHAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Aaa Shares Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Adelaide",
+          "swift": "MOFCAU51XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Aberdeen Asset Management Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "ABEMAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Abn Amro Clearing Sydney Pty Ltd. (formely Known As Fortis Clearing Sydney Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "FCSPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Acorn Capital",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "ACCAAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Acs Broker Services Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "ACBRAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Advance Asset Management Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "AAMNAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Agora Asset Management Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "AGAMAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Agricultural Bank Of China Sydney Branch",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "ABOCAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Airlie Funds Management Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "AFMTAUS1XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Alpha Investment Management Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "AIMPAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Amp Capital Investors Limted",
+      "branches": [
+        {
+          "branch": "Basket Swaps Trans",
+          "city": "Sydney",
+          "swift": "AMCIAU21BSW"
+        },
+        {
+          "branch": "Collateral Mgmt",
+          "city": "Sydney",
+          "swift": "AMCIAU21COL"
+        },
+        {
+          "branch": "Ut Pay Direction",
+          "city": "Sydney",
+          "swift": "AMCIAU21UDP"
+        },
+        {
+          "branch": "Ut No Cash",
+          "city": "Sydney",
+          "swift": "AMCIAU21UNC"
+        },
+        {
+          "branch": "Ut Standard",
+          "city": "Sydney",
+          "swift": "AMCIAU21UST"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "AMCIAU2XXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Amp Life Limited",
+      "branches": [
+        {
+          "branch": "Sydney",
+          "city": "Sydney",
+          "swift": "AMLIAU21CMT"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "AMLIAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Andrew West And Co Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "ANWEAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Anz Securities Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "ANZSAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Aot Australia Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "AOAPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Apn Funds Management Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "APFNAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Argonaut Securities Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Perth",
+          "swift": "AREEAU61XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Arnhem Investment Management",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "AIMGAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Arrium Finance Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "ARUMAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Asteron",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "ASTEAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Asx Settlement And Transfer Corporation Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "CAETAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Atom Funds Management Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "ATFAAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Attunga Capital Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "ATCYAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Ausbil Dexia Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "AUSDAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Auspac Securities Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "AUSEAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Austock Securities Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "AUBPAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Australian Bullion Exchange Limited Trading As Abx Global",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Brisbane",
+          "swift": "ABXAAU41XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Australian Clearing Exchange Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "RDSPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Australian Ethical Investment Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Canberra",
+          "swift": "AUEIAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Australian Executor Trustees Limite",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "AETLAUSXXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Custody Execution And Clearing Services (australia) Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "HSAPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Custom Credit Copr. Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "CUCCAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Custom House Currency Exchange (australia) Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "CHFXAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "D J Carmichael Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Perth",
+          "swift": "CARHAU61XXX"
+        }
+      ]
+    },
+    {
+      "bank": "D2mx Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "DTMXAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Daiwa Capital Markets Australia Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "DWHKAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Daiwa Capital Markets Stockbroking Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "DWSBAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Dalton Nicol Reid",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Brisbane",
+          "swift": "DANDAU41XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Darlington Investment Services",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "DISEAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Deutsche Asset Management (australia) Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "MGALAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Deutsche Capital Markets Australia Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "DCMAAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Deutsche Holdings Australia Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "BACLAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Deutsche Securities",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "DEECAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Deutsche Securities Australia Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "DEUTAUT1XXX"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "DMGSAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Dicksons Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "DICSAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Direct Portfolio Services Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "DIPSAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "E Trade Australia Securities Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "TRUUAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Eaustbond Proprietary Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "EAUSAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Ec Pohl And Co",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Coast Queensland",
+          "swift": "POHLAU41XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Eight Investment Partners Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "EIPPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Foster Stockbroking Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "FSTPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Franklin Templeton Investments Australia Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "FTIAAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Freeman Fox Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Brisbane",
+          "swift": "LANCAU41XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Fsp Equities Management Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "FSEMAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Fundbpo",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "FBPOAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Fw Holst And Co Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "HOLPAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Genesis Investment Management Australia Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Craigieburn",
+          "swift": "GIMUAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Giorgio Armani Australia Pty Ltd",
+      "branches": [
+        {
+          "branch": "Giorgio Armani Australia Pty Ltd",
+          "city": "Sydney",
+          "swift": "GAFIAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Glebe Asset Management Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "GLAGAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Global Value Investors Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "GLVIAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Gmo Australia Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "GMOAAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Gmp Securities Australia Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Perth",
+          "swift": "GSAPAU61XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Gold Corporation",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Perth",
+          "swift": "GCOPAU61XXX"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Perth",
+          "swift": "GCOPAU6PXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Goldman Sachs And Partners Australia Futures Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "GSPAAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Goldman Sachs Australia Llc",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "GOLDAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Goldman Sachs Australia Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "JBWLAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Goldman Sachs Jbwere Capital Markets Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "JBWEAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Green Line Investor Services Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "POSEAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Gresham Securities Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "GSELAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Guild Capital Asset Management Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Hawthorn",
+          "swift": "GCAMAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Hambros Equities Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "HAEQAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Hartleys Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Perth",
+          "swift": "HARPAU61XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Harvey Bayley And Co.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Hobart",
+          "swift": "HAEYAU71XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Hastings Funds Management Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "HAFNAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Headland Capital Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "HECTAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Herschel Asset Management Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "HEAMAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Hewlett-packard Australia Pty. Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Blackburn",
+          "swift": "HEAPAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Hfa Asset Management",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Brisbane",
+          "swift": "HFAMAU41XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Hg Asia Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "ASAAAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Hogan And Partners",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Perth",
+          "swift": "HOGPAU61XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Hsbc Securities",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "JACAAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Hub24 Custodial Services Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "HSEPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Hudson Conway Investments Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Southbank",
+          "swift": "HCIPAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Hunter Hall Investment Management Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "HHIMAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Icap Futures (australia) Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "IFAYAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Ifm Australian Super Buyback Portfolio",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "IASBAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Ifm Australian Super Passive Australian Equities",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "IASPAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Ifm Cbus Buyback Portfolio",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "ICBFAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Ifm Cbus Passive Australian Equities",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "ICPAAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Ifm Hesta Buyback Portfolio",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "IHBOAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Ioof Funds Management",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "IOFMAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Iress Market Technology Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "IRESAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Itg Australia Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "BUROAU21XXX"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Melbourne Vic",
+          "swift": "ITGAAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Jardine Fleming Australia Securities Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "JFASAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Jdv Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Perth",
+          "swift": "JDVDAU61XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Jf Capital Partners Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne Victoria",
+          "swift": "CPPNAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Jfom Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "JARDAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Jm Asset Management",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "ASMEAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Joseph Palmer And Sons",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "JPALAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Jp Morgan Investment Management Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "MOIMAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Jp Morgan Securities Australia Limited",
+      "branches": [
+        {
+          "branch": "Melbourne 3000",
+          "city": "Melbourne",
+          "swift": "JPMSAU2103M"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "JPMSAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "K.j. Polkinghorne And Co. Pty. Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "POLKAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "K2 Asset Management",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "ASNTAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Karara Capital Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "KARAAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Katana Capital Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Perth",
+          "swift": "KATAAU61XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Keb Australia Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "KOEXAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Kelbourne Securities Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "KESEAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Kima Capital Management Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "KICAAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Kirke Securities Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Perth",
+          "swift": "KIRKAU61XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Kis Capital Partners Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "KCPPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Ifm Hesta Passive Australian Equities",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "IHPAAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Ifm Hostplus Buyback Portfolio",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "IHBPAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Ifm Hostplus Passive Australian Equities",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "IHPUAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Ifm Investors Pty Ltd",
+      "branches": [
+        {
+          "branch": "Ifm Investors Pty Ltd",
+          "city": "Melbourne",
+          "swift": "IFMPAUA1XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Ifm Lef Pst Tax Exempt Option",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "ILPAAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Ifm Lef Pst Taxed Option",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "ILPTAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Ifm Vision Super Buyback Portfolio",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "IVSUAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Imperia Investment Group Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "IIGPAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Incitec Pivot Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Southbank",
+          "swift": "IPLXAU3MXXX"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Southbank",
+          "swift": "IPLXAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Industry Funds Management Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "IFMPAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Inpex Operations Australia Pty Ltd",
+      "branches": [
+        {
+          "branch": "Inpex Operations Australia Pty Ltd",
+          "city": "Perth",
+          "swift": "INPXAU61XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Instinet Australia Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "ISNTAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Instinet Australia Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "IACSAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Intelligent Investor Funds",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Rushcutters Bay",
+          "swift": "ITIFAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Intersuisse Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "INSUAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Intrinsic Investment Management Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "IIMYAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Investec Securities",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "IVECAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Investment Administration Services Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Manly",
+          "swift": "MOPTAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Investors Mutual Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "INMUAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Invia Custodian Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "INUPAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "L1 Capital",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "CTPAAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Laminar Group Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "LAGPAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Lands Kirwan Tong Stockbrokers Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "LKTSAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Lb Management Pty Ltd As Trustee Laguna Bay Capital Mt",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Brisbane",
+          "swift": "MPTLAU41XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Legg Mason Asset Management Australia Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "CAGUAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Lehman Brothers Australia Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "GRSUAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Lehman Brothers Australia Securities Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "LBATAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Lfg Holdings Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "LFGHAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Lhc Capital",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "LHCCAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Lincoln Indicators Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "LIIDAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Linwar Securities Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "LIEPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Liquid Capital Australia Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "LCATAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Liquidnet Australia Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "LIAPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Lloyds Bank Plc Australia Branch",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "LOYDAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Lodestar Capital Partners Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "LCPPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Lodge Partners Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "LODGAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Lonsec Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "LONSAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Macarthurcook Funds Management Real Estate Investment Managers",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "MFUGAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Macquarie Capital Securities (australia) Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "MSAUAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Macquarie Investment Management Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "MACQAU2IXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Macquarie Securities (australia) Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "MACQAU2EXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Macquarie-private Broking",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "MAPBAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Magellan Asset Management",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "MGAGAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Marathon Asset Management Australia Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "MAMUAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Mason Stevens Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "MATYAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Maxim Asset Management Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "SIMPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Mba Investments Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "MBIPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Mckinley Wilson Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "MCWIAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Mercantile Credits Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "MECSAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Mercer Investment Consulting",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "MICTAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Merrill Lynch (australia) Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "MELMAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Merrill Lynch Equities Austrailia Ltd. Melbourne",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "MLEAAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Merrill Lynch Private (australia) Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "ROACAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Mf Global Australia Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Brisbane",
+          "swift": "MFAUAU41XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Midland Securities Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "MSLAAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Millennium Wealth",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "MILWAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Mir Investment Management Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "MIMAAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Mm And E Capital",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "MMECAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Mmc Asset Management Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "MMAMAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Moelis Australia Securities Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "MASYAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Montagu Stockbrokers Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Perth",
+          "swift": "MONPAU61XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Monterrey Investment Management Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "MIMGAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Montgomery Investment Management",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "MOIGAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Moody's Investors Service Pty. Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "MIEPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Morgan Stanley Australia Securities Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "MSDIAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Morgan Stanley International Incorporated",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "MSIIAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Morgan Stanley Investment Management",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "MSIMAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Morgan Stanley Wealth Management Australia Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne Vic",
+          "swift": "MSSYAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Morphic Asset Management Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "MAAYAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Morrison Securities Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "MOEPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Mst Capital Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "MSCTAUS1XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Mwh Capital Pty Ltd",
+      "branches": [
+        {
+          "branch": "Mwh Capital Pty Ltd",
+          "city": "Melbourne",
+          "swift": "MWCPAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Nabinvest Capital Partners Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "NBNVAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Naos Asset Management Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "NAOSAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "National Australia Securities Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Docklands",
+          "swift": "NAAEAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "National Online Trading Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Perth",
+          "swift": "NAOTAU61XXX"
+        }
+      ]
+    },
+    {
+      "bank": "National Westminster Finance Australia Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "NWFAAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "New South Wales Treasury Corporation",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "NSWTAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Nicholas-applegate Capital Management-a Californialimited Partnership",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "NACAAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Nike Australia Pty. Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Abbotsford",
+          "swift": "NIKEAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Perennial Investment Partners",
+      "branches": [
+        {
+          "branch": "Perennial Investment Partners-domestic",
+          "city": "Melbourne",
+          "swift": "PEIPAU31MEL"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "PEIPAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Perennial Investment Partners Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne Victoria",
+          "swift": "PEIAAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Perpetual Investments",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "PERNAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Pershing Securities Australia Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "PFSAAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Petra Capital Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "PEAPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Phoenix Soft Corp Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "PSCLAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Pimco Australia Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "PIMAAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Plan B",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Perth",
+          "swift": "PLNNAU61XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Plan B Trustees Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Perth",
+          "swift": "PLANAU61XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Platinium Asset Management",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "PLAGAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Plato Investment Management Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "PLIMAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Platypus Asset Management Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "PLSMAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Portfolio Partners Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "PORPAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Prema Capital Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "ODDLAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Prime Partners",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Gladesville",
+          "swift": "PRRAAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Prime Value Asset Management Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "PVAAAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Prodigal Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "PPTYAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Qbe Insurance",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "QBEGAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Qbe Management Services Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "QMSPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Qed Capital Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "QECPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Qic Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Brisbane",
+          "swift": "QICBAU41XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Qsuper Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Brisbane",
+          "swift": "QSUPAU41XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Queensland Treasury Corporation",
+      "branches": [
+        {
+          "branch": "Queensland Treasury Corporation",
+          "city": "Brisbane Queensland",
+          "swift": "QLDTAU4BXXX"
+        }
+      ]
+    },
+    {
+      "bank": "R And D Heslop Holdings Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "AXAAAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Rare Infrastructure Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "RAIRAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Rbc Capital Markets",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "RBCMAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Rbc Investor Services Trust, Australian Branch",
+      "branches": [
+        {
+          "branch": "Rbc Dexia Platform Client",
+          "city": "Sydney",
+          "swift": "ROYCAUSGMPT"
+        },
+        {
+          "branch": "Rbc Dexia Platform Client",
+          "city": "Sydney",
+          "swift": "ROYCAUSGSYN"
+        }
+      ]
+    },
+    {
+      "bank": "Rbs Morgans Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Brisbane",
+          "swift": "ABAOAU41XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Rcm Capital Management Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "ADSAAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Redpoint Investment Management Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "REDTAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Resolution Capital Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "RECPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Resource Real Estate Global Property Securities (australia) Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Brisbane",
+          "swift": "RREGAU41XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Reynolds And Co. Pty Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "REYNAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Rsle Holdings Corporation Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Mirrabooka",
+          "swift": "RHCPAU61XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Russell Investment Group Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "RUIGAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Samsung Electronics Australia Pty. Ltd.",
+      "branches": [
+        {
+          "branch": "Seau",
+          "city": "Homebush Bay",
+          "swift": "SECTAU21560"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Homebush Bay",
+          "swift": "SECTAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Sandhurst Trustees Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Bendigo",
+          "swift": "SATRAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Schroder Investment Management Australia Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "SIMAAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Schroders Investment Management Australia Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "SIASAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Scott Foster And Partners",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "SCOTAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Select Asset Management Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "SESMAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Seneca Trading Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "STPYAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Sentinel Financial Group Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Perth",
+          "swift": "SFGPAU61XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Sg Hiscock And Company Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "HICNAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Shadforths Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Hobart",
+          "swift": "SHADAU71XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Shaw Stockbroking Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "SHSGAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Sinclair Knight Merz Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "St. Leonards",
+          "swift": "SKMGAU2SXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Smallco Investment Manager Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "SMIAAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Smf Funds Management Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "SMFMAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Smf Superoptions Proprietary Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "HAMRAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Smith New Court Australia Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "SNCAAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Societe Generale, Australia Branch",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "SOGEAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Solaris Investment Management Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Brisbane",
+          "swift": "SOITAU41XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Souls Funds Management Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "SOFGAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "South West Slopes Credit Union Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Young",
+          "swift": "SWSRAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Southern Cross Equities Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "INARAU21XXX"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "SOCQAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Spectrum Asset Management Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "SPAGAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "St Helens Capital Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "STHEAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "State One Stockbroking Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Perth",
+          "swift": "STOTAU61XXX"
+        }
+      ]
+    },
+    {
+      "bank": "State Street Australia Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "SSALAU2XXXX"
+        }
+      ]
+    },
+    {
+      "bank": "State Street Global Advisors Australia Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "SSGDAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Statton Securities",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "STATAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Sumitomo Mitsui Finance Australia Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "SIFAAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Sumitomo Trust Finance (australia) Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "SUMAAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Suncorp Custodian Services",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "SUCVAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Suncorp Life And Super",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "SULUAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Super Investment Management Pty Ltd",
+      "branches": [
+        {
+          "branch": "Super Investment Management Pty Ltd",
+          "city": "Melbourne",
+          "swift": "SIAYAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Tasman Foreign Exchange Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "TFEPAUS1XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Taurus Funds Management",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "TAFGAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Taylor Collison Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Adelaide",
+          "swift": "TAYLAU51XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Telstra Super Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "TSUPAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Tfp Group (wa) Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "TFGPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "The Australian National Registry Of Emissions Units",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Canberra",
+          "swift": "ANRMAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "The Trust Company Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "TRCUAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "The Vault Australia Pty Ltd",
+      "branches": [
+        {
+          "branch": "The Vault Australia Pty Ltd",
+          "city": "Sydney",
+          "swift": "VAAPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Third Party Platform Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "TPPPAUS1XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Thonemann Robertson Thompson Pty Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "THONAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Three Fish Asset Management Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "TFAAAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Timber Hill Australia Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "THAPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Tir Securities (australia) Pty. Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "STIRAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Tolhurst Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "TOLNAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Totus Alpha Management Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "TAMTAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Tower Australia Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "TOAUAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Transmarket Trading Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "TRTPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Treasury Group",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "TRGPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Tribeca Investment Partners Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "JIMPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Tricom Equities Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "TREQAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Tyndall Investment Management",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "TYINAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Ubs Global Asset Management (australia) Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "UGAMAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Ubs Securities Australia Ltd",
+      "branches": [
+        {
+          "branch": "New Ubs Aust Bic Post Settlement System Migration",
+          "city": "Sydney",
+          "swift": "UWAEAU21SSE"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "UWAEAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Ubs Wealth Management Australia Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "UPCAAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Ugl Engineering Pty Ltd",
+      "branches": [
+        {
+          "branch": "Ugl Engineering Pty Ltd",
+          "city": "North Sydney",
+          "swift": "UGLLAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Ugl Services Pty Ltd",
+      "branches": [
+        {
+          "branch": "Ugl Services Pty Ltd",
+          "city": "North Sydney",
+          "swift": "DTZLAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Unaval Holdings Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "HECSAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Unisuper Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "UNMAAU31XXX"
+        },
+        {
+          "branch": "Aim/poms Service",
+          "city": "Melbourne",
+          "swift": "UNMAAU3MXXX"
+        },
+        {
+          "branch": "Aim-poms Service",
+          "city": "Melbourne",
+          "swift": "UNMAAUM1XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Vanguard Investments Australia Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Southbank",
+          "swift": "VGRDAU3MXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Veritas Securities Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "VERCAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Vertex Capital Management Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "VECMAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Vichingo Global Investors Fund",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "VGIFAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Victorian Funds Management Corporation",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "VFMCAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Vinton Smith, Dougall Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "VINTAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Wallara Asset Management Pty. Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "WALAAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Warakirri Asset Management Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "WAMAAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Wesfarmers Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Perth",
+          "swift": "WEFFAU6PXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Westpac Securities Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "WSECAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "White Outsourcing Pty Limited",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "WHTEAU2SXXX"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "WHTEAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "White Outsourcing Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "WFMPAU21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "William Noall Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Melbourne",
+          "swift": "NOALAU31XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Wilson Asset Management (international) Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "WAMIAUS1XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Wilson Htm Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Brisbane",
+          "swift": "WIHTAU41XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Wkj Pty Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Brisbane",
+          "swift": "PEJOAU41XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Zurich Financial Services Australia Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sydney",
+          "swift": "ZFSSAU21XXX"
+        }
+      ]
+    }
+  ]
+}
