@@ -1,0 +1,671 @@
+{
+  "country": "Croatia",
+  "country_code": "HR",
+  "list": [
+    {
+      "bank": "Banco Popolare Croatia D.D.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "BPCRHR22XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Banka Kovanica D.D.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Varazdin",
+          "swift": "SKOVHR22XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Banka Splitsko-Dalmatinska D.D.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Split",
+          "swift": "DALMHR22XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bks Bank D.D.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Rijeka",
+          "swift": "BFKKHR22XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Centar Banka D.D.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "CBZGHR2XXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Croatia Banka D.D.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "CROAHR2XXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Croatian Bank For Reconstruction And Development/Hbor/",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "HKBOHR2XXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Erste And Steiermaerkische Bank D.D.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Rijeka",
+          "swift": "ESBCHR22XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Financijska Agencija",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "FNAGHR22XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Hrvatska Narodna Banka (Croatian National Bank)",
+      "branches": [
+        {
+          "branch": "Domestic Payment System",
+          "city": "Zagreb",
+          "swift": "NBHRHR2DXXX"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "NBHRHR2XXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Hrvatska Postanska Banka D.D.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "HPBZHR2XXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Hypo Alpe-Adria-Bank D.D.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "HAABHR22XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Imex Banka Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Split",
+          "swift": "IMXXHR22XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Intercapital Securities Ltd.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "INUIHR22XXX"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "INUIHR21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Istarska Kreditna Banka Joint Stock Companny",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Umag",
+          "swift": "ISKBHR2XXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Jadranska Banka D.D. Sibenik",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Sibenik",
+          "swift": "JADRHR2XXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Karlovacka Banka D.D.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Karlovac",
+          "swift": "KALCHR2XXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Kreditna Banka Zagreb D.D.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "KREZHR2XXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Nava Banka D.D.Zagreb",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "NAVBHR22XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Otp Banka Hrvatska D.D.",
+      "branches": [
+        {
+          "branch": "Dubrovnik",
+          "city": "Dubrovnik",
+          "swift": "OTPVHR2XDUB"
+        },
+        {
+          "branch": "52000 Pula",
+          "city": "Pula",
+          "swift": "OTPVHR2XPUL"
+        },
+        {
+          "branch": "Rijeka",
+          "city": "Rijeka",
+          "swift": "OTPVHR2XRJK"
+        },
+        {
+          "branch": "Sibenik",
+          "city": "Sibenik",
+          "swift": "OTPVHR2XSIB"
+        },
+        {
+          "branch": "44000 Sisak",
+          "city": "Sisak",
+          "swift": "OTPVHR2XSIS"
+        },
+        {
+          "branch": "21000 Split",
+          "city": "Split",
+          "swift": "OTPVHR2XSPL"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Zadar",
+          "swift": "OTPVHR2XXXX"
+        },
+        {
+          "branch": "23000 Zadar",
+          "city": "Zadar",
+          "swift": "OTPVHR2XZAD"
+        },
+        {
+          "branch": "10000 Zagreb",
+          "city": "Zagreb",
+          "swift": "OTPVHR2XZAG"
+        }
+      ]
+    },
+    {
+      "bank": "Partner Banka D.D. Zagreb",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "PAZGHR2XXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Podravska Banka D.D.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Koprivnica",
+          "swift": "PDKCHR2XXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Primorska Banka D.D Rijeka",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Rijeka",
+          "swift": "SPRMHR22XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Privredna Banka Zagreb D.D.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "PBZGHR2XXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Raiffeisenbank Austria D.D. Zagreb",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "RZBHHR2XXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Samoborska Banka D.D.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Samobor",
+          "swift": "SMBRHR22XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Slatinska Banka Dd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Slatina",
+          "swift": "SBSLHR2XXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Societe Generale-Splitska Banka Dd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Split",
+          "swift": "SOGEHR22XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Sredisnje Klirinsko Depozitarno Drustvo D.D.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "SDAHHR22XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Stedbanka D.D.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "STEDHR22XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Tesla Stedna Banka D.D.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "ASBZHR22XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Vaba D.D. Banka Varazdin",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Varazdin",
+          "swift": "VBVZHR22XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Veneto Banka Dd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "CCBZHR2XXXX"
+        }
+      ]
+    },
+    {
+      "bank": "Volksbank D.D.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "VBCRHR22XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Zagrebacka Banka Dd",
+      "branches": [
+        {
+          "branch": "Bjelovar Branch",
+          "city": "Bjelovar",
+          "swift": "ZABAHR2XBJE"
+        },
+        {
+          "branch": "Djurdjevac Branch",
+          "city": "Djurdjevac",
+          "swift": "ZABAHR2XDJU"
+        },
+        {
+          "branch": "Dubrovnik Branch",
+          "city": "Dubrovnik",
+          "swift": "ZABAHR2XDUB"
+        },
+        {
+          "branch": "Krizevci Branch",
+          "city": "Krizevci",
+          "swift": "ZABAHR2XKRI"
+        },
+        {
+          "branch": "Nova Gradiska Branch",
+          "city": "Nova Gradiska",
+          "swift": "ZABAHR2XNOV"
+        },
+        {
+          "branch": "Makarska Branch",
+          "city": "Makarska",
+          "swift": "ZABAHR2XMAK"
+        },
+        {
+          "branch": "Porec Branch",
+          "city": "Porec",
+          "swift": "ZABAHR2XPOR"
+        },
+        {
+          "branch": "Osijek Branch",
+          "city": "Osijek",
+          "swift": "ZABAHR2XOSI"
+        },
+        {
+          "branch": "Pula Branch",
+          "city": "Pula",
+          "swift": "ZABAHR2XPUL"
+        },
+        {
+          "branch": "Rijeka Branch",
+          "city": "Rijeka",
+          "swift": "ZABAHR2XRIJ"
+        },
+        {
+          "branch": "Rovinj Branch",
+          "city": "Rovinj",
+          "swift": "ZABAHR2XROV"
+        },
+        {
+          "branch": "Sibenik Branch",
+          "city": "Sibenik",
+          "swift": "ZABAHR2XSIB"
+        },
+        {
+          "branch": "Split Branch",
+          "city": "Split",
+          "swift": "ZABAHR2XSPL"
+        },
+        {
+          "branch": "Umag Branch",
+          "city": "Umag",
+          "swift": "ZABAHR2XUMA"
+        },
+        {
+          "branch": "Zadar Branch",
+          "city": "Zadar",
+          "swift": "ZABAHR2XZAD"
+        },
+        {
+          "branch": "Zabok Branch",
+          "city": "Zabok",
+          "swift": "ZABAHR2XZAB"
+        },
+        {
+          "branch": "Virovitica Branch",
+          "city": "Virovitica",
+          "swift": "ZABAHR2XVIR"
+        },
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "ZABAHR2XXXX"
+        }
+      ]
+    },
+    {
+      "bank": "International Discovery Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "IDISHR21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Agram Brokeri D.d.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "AGBOHR21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Aktiv Broker D.o.o.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "AKBDHR21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Allianz B",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "ALLNHR21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Antea Brokeri D.o.o.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "ANBOHR21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Auctor D.o.o.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "AUDOHR21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Bat Hrvatska D.o.o.",
+      "branches": [
+        {
+          "branch": "Bat Hrvatska D.o.o.",
+          "city": "Zagreb",
+          "swift": "BATSHR21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Credos D.o.o.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "CDDOHR21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Fima Securities Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Varazdin",
+          "swift": "FMVZHR21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Greenhouse Gases National Registry",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "GGNRHR21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Hita Vrijednosnice D.d",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "HIVRHR21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Icam Ltd",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "ICMMHR21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Jur-prom Moto D.o.o.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "JUMDHR21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Kentbank D.d.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "KENBHR22XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Raiffeisen Investment",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "RAIVHR21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Rast D.o.o.",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Varazdin",
+          "swift": "RSDOHR21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Skdd-ccp Smart Clear D.d.",
+      "branches": [
+        {
+          "branch": "Skdd-ccp Smart Clear D.d.",
+          "city": "Zagreb",
+          "swift": "CCPHHR21XXX"
+        }
+      ]
+    },
+    {
+      "bank": "Zagreb Stock Exchange",
+      "branches": [
+        {
+          "branch": "Head Office",
+          "city": "Zagreb",
+          "swift": "XZAGHR21XXX"
+        }
+      ]
+    }
+  ]
+}
