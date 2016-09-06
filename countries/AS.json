@@ -1,0 +1,27 @@
+{
+  "country_name": "American Samoa",
+  "alpha_2": "AS",
+  "country_code": "016",
+  "banks": [
+    {
+      "bank_name": "Bank Of Hawaii-american Samoa Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fagatogo",
+          "swift_code": "BOHIASP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Anz Amerika Samoa Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pago Pago",
+          "swift_code": "ANZBASPAXXX"
+        }
+      ]
+    }
+  ]
+}

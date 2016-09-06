@@ -1,0 +1,327 @@
+{
+  "country_name": "Angola",
+  "alpha_2": "AO",
+  "country_code": "024",
+  "banks": [
+    {
+      "bank_name": "Standard Chartered Bank Angola Sa",
+      "branches": [
+        {
+          "branch_name": "Standard Chartered Bank Angola Sa",
+          "city": "Luanda",
+          "swift_code": "SCBLAOLUXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "SCBLAOL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Bank De Angola S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "SBICAOLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ministerio Das Financas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "MDFNAOLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finibanco Angola S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "FBCOAOLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bpc-banco De Poupanca E Credito",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "BPCLAOLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bmf-banco Bai Microfinancas, Sarl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "NOSAAOLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bci-mobiliaria, Construcao E Gestao Imobiliaria, S.a.r.l.",
+      "branches": [
+        {
+          "branch_name": "Bci-mobiliaria, Construcao E Gestao Imobiliaria, S.a.r.l.",
+          "city": "Luanda",
+          "swift_code": "IMOBAOL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bci-banco De Comercio E Industria",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "BCIDAOLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Vtb Africa, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "VTBLAOLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Valor Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "BVBXAOLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Totta De Angola, S.a.r.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "BCGTAOLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Sol Sarl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "SOLOAOLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Regional Do Keve, Sarl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "BRDKAOLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Privado Atlantico",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "PRTLAOLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Para Promocao E Desenvolvimento",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "BPDAAOLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional De Angola",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "BNANAOLDXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "BNANAOLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Millennium Angola Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "BCOMAOLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Kwanza Invest Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "BKIAAOLUXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "BQCAAOLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Poupanca E Credito Sarl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "CGDIAOL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Negocios Internacional",
+      "branches": [
+        {
+          "branch_name": "Luanda",
+          "city": "Luanda",
+          "swift_code": "BNICAOLU052"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "BNICAOLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Fomento Sarl Angola",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "BFMXAOLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Fomento Angola Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "BFABAOL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Desenvolvimento De Angola",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "BDAAAOLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Comercial Do Huambo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Huambo",
+          "swift_code": "BCHUAOLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Comercial Angolano",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "COMLAOLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bic, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "BCCBAOLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Angolano Negocios E Comercio",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "ANCEAOLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Angolano De Investimentos, Sarl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "BAIPAOLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Espirito Santo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luanda",
+          "swift_code": "BESCAOLUXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "BESCGB2LXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "New York,Ny",
+          "swift_code": "BESCUS33XXX"
+        }
+      ]
+    }
+  ]
+}

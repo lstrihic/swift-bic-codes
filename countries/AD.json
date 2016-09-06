@@ -1,0 +1,77 @@
+{
+  "country_name": "Andorra",
+  "alpha_2": "AD",
+  "country_code": "020",
+  "banks": [
+    {
+      "bank_name": "Result Internacional Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Andorra La Vella",
+          "swift_code": "RINSADA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mora Banc Sau",
+      "branches": [
+        {
+          "branch_name": "Mora Banc Sau",
+          "city": "Les Escaldes",
+          "swift_code": "BINAADB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mora Banc Grup Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Andorra La Vella",
+          "swift_code": "BINAADADXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Andorra",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Andorra La Vella",
+          "swift_code": "CRDAADADXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Privada D'andorra S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Les Escaldes",
+          "swift_code": "CASBADADXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banc Sabadell D'andorra",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Andorra La Vella",
+          "swift_code": "BSANADADXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Andorra Banc Agricol Reig S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Les Escaldes",
+          "swift_code": "BACAADADXXX"
+        }
+      ]
+    }
+  ]
+}

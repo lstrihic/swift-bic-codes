@@ -1,0 +1,337 @@
+{
+  "country_name": "Albania",
+  "alpha_2": "AL",
+  "country_code": "008",
+  "banks": [
+    {
+      "bank_name": "Veneto Banka Sh.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tirana",
+          "swift_code": "ITSVALTRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Bank Of Albania Sh.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tirana",
+          "swift_code": "AAISALTRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Bank Sh.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tirana",
+          "swift_code": "UNALALTRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tirana Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Durres",
+          "swift_code": "TIRBALTRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Raiffeisen Bank Sh.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lac",
+          "swift_code": "SGSBALTXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Procredit Bank Sh. A. Albania (formerly Fefad Bank",
+      "branches": [
+        {
+          "branch_name": "Durres Branch",
+          "city": "Durres",
+          "swift_code": "FEFAALTRDUR"
+        },
+        {
+          "branch_name": "Fier Branch",
+          "city": "Fier",
+          "swift_code": "FEFAALTRFIE"
+        },
+        {
+          "branch_name": "Tirana Branch",
+          "city": "Tirana",
+          "swift_code": "FEFAALTRTIR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Durres",
+          "swift_code": "FEFAALTRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Posta Shqiptare Sh.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tirana",
+          "swift_code": "SHQHALT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ministry Of Finance Of Albania",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tirana",
+          "swift_code": "MIFBALTRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intesa Sanpaolo Bank Albania Sh.a.",
+      "branches": [
+        {
+          "branch_name": "Rr Barrikadave Branch",
+          "city": "Tirana",
+          "swift_code": "USALALTR010"
+        },
+        {
+          "branch_name": "Lapraka Branch",
+          "city": "Tirana",
+          "swift_code": "USALALTR020"
+        },
+        {
+          "branch_name": "Durres Train Station Branch",
+          "city": "Durres",
+          "swift_code": "USALALTRDR2"
+        },
+        {
+          "branch_name": "Durres Main Branch",
+          "city": "Durres",
+          "swift_code": "USALALTRDUR"
+        },
+        {
+          "branch_name": "Elbasan Branch",
+          "city": "Elbasan",
+          "swift_code": "USALALTRELB"
+        },
+        {
+          "branch_name": "Fier Branch",
+          "city": "Fier",
+          "swift_code": "USALALTRFIE"
+        },
+        {
+          "branch_name": "Gjirokastra Branch",
+          "city": "Gjirokastra",
+          "swift_code": "USALALTRGJR"
+        },
+        {
+          "branch_name": "Kavaja Branch",
+          "city": "Kavaje",
+          "swift_code": "USALALTRKJ1"
+        },
+        {
+          "branch_name": "Korce Branch",
+          "city": "Korce",
+          "swift_code": "USALALTRKOR"
+        },
+        {
+          "branch_name": "Lushnja Branch",
+          "city": "Lushnje",
+          "swift_code": "USALALTRLUS"
+        },
+        {
+          "branch_name": "Lezha Branch",
+          "city": "Lezhe",
+          "swift_code": "USALALTRLZH"
+        },
+        {
+          "branch_name": "Shkodra Branch",
+          "city": "Shkoder",
+          "swift_code": "USALALTRSH1"
+        },
+        {
+          "branch_name": "Vlora Rr Sadik Zotaj Branch",
+          "city": "Vlore",
+          "swift_code": "USALALTRVL2"
+        },
+        {
+          "branch_name": "Vlora Main Branch",
+          "city": "Vlore",
+          "swift_code": "USALALTRVLR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tirana",
+          "swift_code": "USALALTRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Investment Bank-albania Sh.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tirana",
+          "swift_code": "FINVALTRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Bank Of Albania",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tirana",
+          "swift_code": "CBOAALTRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole Albania Bank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tirana",
+          "swift_code": "EMPOALTRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credins Bank Sh.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kamez",
+          "swift_code": "CDISALTRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "British American Tobacco-albania Sh.p.k.",
+      "branches": [
+        {
+          "branch_name": "British American Tobacco-albania Sh.p.k.",
+          "city": "Tirana",
+          "swift_code": "BATSALT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banka Societe Generale Albania",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Durres",
+          "swift_code": "PUPPALTRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banka Nbg Albania Sh.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Durres",
+          "swift_code": "ETHNALTXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banka Kombetare Tregtare Sh.a.",
+      "branches": [
+        {
+          "branch_name": "Kosovo Operations",
+          "city": "Tirana",
+          "swift_code": "NCBAALTXKSO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tirana",
+          "swift_code": "NCBAALTXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Albania",
+      "branches": [
+        {
+          "branch_name": "Dega Elbasan",
+          "city": "Elbasan",
+          "swift_code": "STANALT1ELX"
+        },
+        {
+          "branch_name": "Dega Gjirokastra",
+          "city": "Gjirokastra",
+          "swift_code": "STANALT1GJX"
+        },
+        {
+          "branch_name": "Dega Korca",
+          "city": "Korce",
+          "swift_code": "STANALT1KOX"
+        },
+        {
+          "branch_name": "Dega Lushnja",
+          "city": "Lushnje",
+          "swift_code": "STANALT1LUX"
+        },
+        {
+          "branch_name": "Dega Shkodra",
+          "city": "Shkoder",
+          "swift_code": "STANALT1SHX"
+        },
+        {
+          "branch_name": "Sporteli I Bonove Te Thesarit Bsh",
+          "city": "Tirana",
+          "swift_code": "STANALT1SPX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tirana",
+          "swift_code": "STANALTRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alpha Bank Albania",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tirana",
+          "swift_code": "CRBAALTRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tirana",
+          "swift_code": "ICOAALTRXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Moscow",
+          "swift_code": "ICBMRUMMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Serrekunda",
+          "swift_code": "ICBGGMGSXXX"
+        }
+      ]
+    }
+  ]
+}

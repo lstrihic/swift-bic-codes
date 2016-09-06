@@ -1,0 +1,2427 @@
+{
+  "country_name": "Afghanistan",
+  "alpha_2": "AF",
+  "country_code": "004",
+  "banks": [
+    {
+      "bank_name": "Pashtany Bank",
+      "branches": [
+        {
+          "branch_name": "Kabul",
+          "city": "Kabul",
+          "swift_code": "PIBAAFKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Pakistan, Kabul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kabul",
+          "swift_code": "NBPAAFKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mortgage And Construction Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kabul",
+          "swift_code": "CBMOAFK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maiwand Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kabul",
+          "swift_code": "MWBKAFKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kabul Bank",
+      "branches": [
+        {
+          "branch_name": "Kabul",
+          "city": "Kabul",
+          "swift_code": "KABUAFKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial Development Bank Of Afghanistan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kabul",
+          "swift_code": "IDTBAFK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ghazanfar Bank",
+      "branches": [
+        {
+          "branch_name": "Kabul",
+          "city": "Kabul",
+          "swift_code": "GHBKAFKAISW"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kabul",
+          "swift_code": "GHBKAFKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Microfinance Bank Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Shash Darak Kabul Branch",
+          "city": "Kabul",
+          "swift_code": "FMFBAFKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Da Afghanistan Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kabul",
+          "swift_code": "AFGBAFKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banke Millie Afghan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kabul",
+          "swift_code": "BMAFAFKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Alfalah Limited (afghanistan-kabul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kabul",
+          "swift_code": "ALFHAFKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Alfalah Limited",
+      "branches": [
+        {
+          "branch_name": "Afghanistan-herat Branch",
+          "city": "Herat",
+          "swift_code": "ALFHAFKA803"
+        },
+        {
+          "branch_name": "Gawadar",
+          "city": "Gawadar",
+          "swift_code": "ALFHPKKA002"
+        },
+        {
+          "branch_name": "North Napier Road Branch",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA003"
+        },
+        {
+          "branch_name": "F B Area Branch",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA004"
+        },
+        {
+          "branch_name": "Hyderi North Nazimabad Branch",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA010"
+        },
+        {
+          "branch_name": "Stock Exchange Branch",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA012"
+        },
+        {
+          "branch_name": "Marriot Road Branch",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA013"
+        },
+        {
+          "branch_name": "Defence Housing Authority Branch",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA014"
+        },
+        {
+          "branch_name": "Bahadurabad Branch",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA016"
+        },
+        {
+          "branch_name": "Gulistan-e-jauhar Branch",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA017"
+        },
+        {
+          "branch_name": "P E C H S Branch",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA020"
+        },
+        {
+          "branch_name": "Timber Market Branch",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA021"
+        },
+        {
+          "branch_name": "Korangi Bypass Branch",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA022"
+        },
+        {
+          "branch_name": "Eidgah Branch",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA024"
+        },
+        {
+          "branch_name": "Tipu Sultan Road Branch",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA025"
+        },
+        {
+          "branch_name": "Vehari Road",
+          "city": "Multan",
+          "swift_code": "ALFHPKKA038"
+        },
+        {
+          "branch_name": "Allama Iqbal Town Branch",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA042"
+        },
+        {
+          "branch_name": "Shadman Colony Branch",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA044"
+        },
+        {
+          "branch_name": "Shah Alam Market Branch",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA046"
+        },
+        {
+          "branch_name": "Tufail Road Branch",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA047"
+        },
+        {
+          "branch_name": "Stock Exchange Branch",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA048"
+        },
+        {
+          "branch_name": "Satellite Town Branch Gujranwala",
+          "city": "Gujranwala",
+          "swift_code": "ALFHPKKA203"
+        },
+        {
+          "branch_name": "Jamrud Road Pashawar",
+          "city": "Peshawar",
+          "swift_code": "ALFHPKKA204"
+        },
+        {
+          "branch_name": "Gt Road Taxila Branch",
+          "city": "Taxila",
+          "swift_code": "ALFHPKKA205"
+        },
+        {
+          "branch_name": "Grain Market Islamabad",
+          "city": "Islamabad",
+          "swift_code": "ALFHPKKA206"
+        },
+        {
+          "branch_name": "Bhara Khau Branch Islamabad",
+          "city": "Islamabad",
+          "swift_code": "ALFHPKKA207"
+        },
+        {
+          "branch_name": "Samnabad Faisalabad",
+          "city": "Faisalabad",
+          "swift_code": "ALFHPKKA208"
+        },
+        {
+          "branch_name": "Khurrian Wala Branch",
+          "city": "Faisalabad",
+          "swift_code": "ALFHPKKA209"
+        },
+        {
+          "branch_name": "Wapda Town Lahore",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA210"
+        },
+        {
+          "branch_name": "Skardu Branch",
+          "city": "Skardu",
+          "swift_code": "ALFHPKKA211"
+        },
+        {
+          "branch_name": "Akbar Road Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA212"
+        },
+        {
+          "branch_name": "Steel Market Branch Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA213"
+        },
+        {
+          "branch_name": "Quaidabad Branch",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA214"
+        },
+        {
+          "branch_name": "Chak Pull No 111 Br Sargodha",
+          "city": "Sargodha",
+          "swift_code": "ALFHPKKA215"
+        },
+        {
+          "branch_name": "Malir City Branch",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA216"
+        },
+        {
+          "branch_name": "Loralai Branch",
+          "city": "Loralai",
+          "swift_code": "ALFHPKKA217"
+        },
+        {
+          "branch_name": "Turbat Branch",
+          "city": "Turbat",
+          "swift_code": "ALFHPKKA218"
+        },
+        {
+          "branch_name": "Azam Cloth Market Branch",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA219"
+        },
+        {
+          "branch_name": "Dha Extension Lahore Branch",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA220"
+        },
+        {
+          "branch_name": "Shad Bag Branch",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA221"
+        },
+        {
+          "branch_name": "West Wharf Branch Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA222"
+        },
+        {
+          "branch_name": "Sea View",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA163"
+        },
+        {
+          "branch_name": "Bahawalnagar",
+          "city": "Bahawalnagar",
+          "swift_code": "ALFHPKKA164"
+        },
+        {
+          "branch_name": "Khanpur",
+          "city": "Khanpur",
+          "swift_code": "ALFHPKKA165"
+        },
+        {
+          "branch_name": "Mauza Taliri",
+          "city": "Multan",
+          "swift_code": "ALFHPKKA166"
+        },
+        {
+          "branch_name": "Nazimabad",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA167"
+        },
+        {
+          "branch_name": "Wazirabad",
+          "city": "Wazirabad",
+          "swift_code": "ALFHPKKA168"
+        },
+        {
+          "branch_name": "Dinga",
+          "city": "Gujrat",
+          "swift_code": "ALFHPKKA169"
+        },
+        {
+          "branch_name": "Double Road Quetta",
+          "city": "Quetta",
+          "swift_code": "ALFHPKKA170"
+        },
+        {
+          "branch_name": "Saddar",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA171"
+        },
+        {
+          "branch_name": "Mianwali",
+          "city": "Mianwali",
+          "swift_code": "ALFHPKKA172"
+        },
+        {
+          "branch_name": "Joharabad",
+          "city": "Khushab",
+          "swift_code": "ALFHPKKA173"
+        },
+        {
+          "branch_name": "Mandi Faziabad",
+          "city": "Mandi Faziabad",
+          "swift_code": "ALFHPKKA174"
+        },
+        {
+          "branch_name": "Montgomry Road",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA175"
+        },
+        {
+          "branch_name": "Bhera",
+          "city": "Sargodha",
+          "swift_code": "ALFHPKKA176"
+        },
+        {
+          "branch_name": "Khanna",
+          "city": "Rawalpindi",
+          "swift_code": "ALFHPKKA177"
+        },
+        {
+          "branch_name": "Talagang",
+          "city": "Islamabad",
+          "swift_code": "ALFHPKKA178"
+        },
+        {
+          "branch_name": "Oghi",
+          "city": "Manshera",
+          "swift_code": "ALFHPKKA179"
+        },
+        {
+          "branch_name": "Muree",
+          "city": "Murree",
+          "swift_code": "ALFHPKKA180"
+        },
+        {
+          "branch_name": "Market Branch Hyderabad",
+          "city": "Hyderabad",
+          "swift_code": "ALFHPKKA181"
+        },
+        {
+          "branch_name": "Jamshed Road",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA182"
+        },
+        {
+          "branch_name": "Ahmedpur East Branch",
+          "city": "Ahmadpur East",
+          "swift_code": "ALFHPKKA122"
+        },
+        {
+          "branch_name": "Dharki Branch",
+          "city": "Dharki",
+          "swift_code": "ALFHPKKA123"
+        },
+        {
+          "branch_name": "Ghotki Branch",
+          "city": "Ghotki",
+          "swift_code": "ALFHPKKA124"
+        },
+        {
+          "branch_name": "Haroonabad Branch",
+          "city": "Harunabad",
+          "swift_code": "ALFHPKKA125"
+        },
+        {
+          "branch_name": "Hasilpur Branch",
+          "city": "Hasilpur",
+          "swift_code": "ALFHPKKA126"
+        },
+        {
+          "branch_name": "Nawabshah Branch",
+          "city": "Nawabshah",
+          "swift_code": "ALFHPKKA127"
+        },
+        {
+          "branch_name": "Hawksbay Road Branch",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA128"
+        },
+        {
+          "branch_name": "Chakwal Branch",
+          "city": "Chakwal",
+          "swift_code": "ALFHPKKA129"
+        },
+        {
+          "branch_name": "F-10 Markaz Branch",
+          "city": "Islamabad",
+          "swift_code": "ALFHPKKA131"
+        },
+        {
+          "branch_name": "Mirpur Khas Branch",
+          "city": "Mirpur",
+          "swift_code": "ALFHPKKA132"
+        },
+        {
+          "branch_name": "Brandreth Road",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA133"
+        },
+        {
+          "branch_name": "Ghari Shahu",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA134"
+        },
+        {
+          "branch_name": "Gulshan Chowrangi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA135"
+        },
+        {
+          "branch_name": "Muridke",
+          "city": "Muridke",
+          "swift_code": "ALFHPKKA136"
+        },
+        {
+          "branch_name": "Model Town",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA137"
+        },
+        {
+          "branch_name": "Mansehra",
+          "city": "Mansehra",
+          "swift_code": "ALFHPKKA138"
+        },
+        {
+          "branch_name": "Peshawar Road",
+          "city": "Rawalpindi",
+          "swift_code": "ALFHPKKA139"
+        },
+        {
+          "branch_name": "Airport Road",
+          "city": "Rawalpindi",
+          "swift_code": "ALFHPKKA140"
+        },
+        {
+          "branch_name": "Hazro",
+          "city": "Attock",
+          "swift_code": "ALFHPKKA141"
+        },
+        {
+          "branch_name": "Chitral",
+          "city": "Chitral",
+          "swift_code": "ALFHPKKA142"
+        },
+        {
+          "branch_name": "Model Town Br Quetta Cantt",
+          "city": "Quetta",
+          "swift_code": "ALFHPKKA183"
+        },
+        {
+          "branch_name": "Khanewal",
+          "city": "Khanewal",
+          "swift_code": "ALFHPKKA184"
+        },
+        {
+          "branch_name": "Sharukne Alam",
+          "city": "Multan",
+          "swift_code": "ALFHPKKA185"
+        },
+        {
+          "branch_name": "Peepal Mandi",
+          "city": "Peshawar",
+          "swift_code": "ALFHPKKA186"
+        },
+        {
+          "branch_name": "Babar Chowk Faisalabad",
+          "city": "Faisalabad",
+          "swift_code": "ALFHPKKA187"
+        },
+        {
+          "branch_name": "Pir Mahal",
+          "city": "Pirmahal",
+          "swift_code": "ALFHPKKA188"
+        },
+        {
+          "branch_name": "Jauhar Chowrangi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA189"
+        },
+        {
+          "branch_name": "Dina",
+          "city": "Dina",
+          "swift_code": "ALFHPKKA190"
+        },
+        {
+          "branch_name": "Kamra",
+          "city": "Attock",
+          "swift_code": "ALFHPKKA191"
+        },
+        {
+          "branch_name": "Depalpur",
+          "city": "Depalpur",
+          "swift_code": "ALFHPKKA192"
+        },
+        {
+          "branch_name": "Fateh Jang",
+          "city": "Fatehjang",
+          "swift_code": "ALFHPKKA193"
+        },
+        {
+          "branch_name": "Nagan Chowrangi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA194"
+        },
+        {
+          "branch_name": "Johar Town Lahore",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA195"
+        },
+        {
+          "branch_name": "Gulshan-e-hadeed",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA196"
+        },
+        {
+          "branch_name": "Lodhran Branch",
+          "city": "Lodhran",
+          "swift_code": "ALFHPKKA197"
+        },
+        {
+          "branch_name": "Bosan Road Branch Multan",
+          "city": "Multan",
+          "swift_code": "ALFHPKKA198"
+        },
+        {
+          "branch_name": "Jahania Branch",
+          "city": "Jahania",
+          "swift_code": "ALFHPKKA199"
+        },
+        {
+          "branch_name": "Chowk Sadiqabad Road Rawalpindi",
+          "city": "Rawalpindi",
+          "swift_code": "ALFHPKKA200"
+        },
+        {
+          "branch_name": "Kahuta Branch",
+          "city": "Kahuta",
+          "swift_code": "ALFHPKKA201"
+        },
+        {
+          "branch_name": "Bhakkar Branch",
+          "city": "Bhakkar",
+          "swift_code": "ALFHPKKA202"
+        },
+        {
+          "branch_name": "Haripur",
+          "city": "Haripur",
+          "swift_code": "ALFHPKKA143"
+        },
+        {
+          "branch_name": "Kotla",
+          "city": "Gujrat",
+          "swift_code": "ALFHPKKA144"
+        },
+        {
+          "branch_name": "Garden East",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA145"
+        },
+        {
+          "branch_name": "I-8 Markaz",
+          "city": "Islamabad",
+          "swift_code": "ALFHPKKA146"
+        },
+        {
+          "branch_name": "G-9 Markaz",
+          "city": "Islamabad",
+          "swift_code": "ALFHPKKA147"
+        },
+        {
+          "branch_name": "F-8 Markaz",
+          "city": "Islamabad",
+          "swift_code": "ALFHPKKA148"
+        },
+        {
+          "branch_name": "Gujar Khan",
+          "city": "Gujar Khan",
+          "swift_code": "ALFHPKKA149"
+        },
+        {
+          "branch_name": "Kallar Syedan",
+          "city": "Islamabad",
+          "swift_code": "ALFHPKKA150"
+        },
+        {
+          "branch_name": "Mirpur, Azad Jammu And Kashmir",
+          "city": "Mirpur",
+          "swift_code": "ALFHPKKA151"
+        },
+        {
+          "branch_name": "Larkana",
+          "city": "Larkana",
+          "swift_code": "ALFHPKKA152"
+        },
+        {
+          "branch_name": "Chuburji",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA153"
+        },
+        {
+          "branch_name": "Bannu",
+          "city": "Bannu",
+          "swift_code": "ALFHPKKA154"
+        },
+        {
+          "branch_name": "Dha Phase Iv, Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA155"
+        },
+        {
+          "branch_name": "Dha Phase Ii Lahore",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA156"
+        },
+        {
+          "branch_name": "Cavalry Ground",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA157"
+        },
+        {
+          "branch_name": "Sheikhupura Road Faisalabad",
+          "city": "Faisalabad",
+          "swift_code": "ALFHPKKA158"
+        },
+        {
+          "branch_name": "Jaranwala",
+          "city": "Faisalabad",
+          "swift_code": "ALFHPKKA159"
+        },
+        {
+          "branch_name": "Gojra",
+          "city": "Faisalabad",
+          "swift_code": "ALFHPKKA160"
+        },
+        {
+          "branch_name": "Main Market Gulberg",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA161"
+        },
+        {
+          "branch_name": "Gizri",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA162"
+        },
+        {
+          "branch_name": "Sadiqabad Branch",
+          "city": "Sadiqabad",
+          "swift_code": "ALFHPKKA052"
+        },
+        {
+          "branch_name": "Peoples Colony Branch",
+          "city": "Faisalabad",
+          "swift_code": "ALFHPKKA054"
+        },
+        {
+          "branch_name": "Burewala Branch",
+          "city": "Burewala",
+          "swift_code": "ALFHPKKA055"
+        },
+        {
+          "branch_name": "Wah Cantt Branch",
+          "city": "Rawalpindi",
+          "swift_code": "ALFHPKKA056"
+        },
+        {
+          "branch_name": "D I Khan Branch",
+          "city": "Dera Ismail Khan",
+          "swift_code": "ALFHPKKA057"
+        },
+        {
+          "branch_name": "Jhang Branch",
+          "city": "Jhang",
+          "swift_code": "ALFHPKKA058"
+        },
+        {
+          "branch_name": "Quetta Ganji Branch",
+          "city": "Quetta",
+          "swift_code": "ALFHPKKA059"
+        },
+        {
+          "branch_name": "Ravi Road Branch",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA061"
+        },
+        {
+          "branch_name": "Sheikhupura Branch",
+          "city": "Sheikhupura",
+          "swift_code": "ALFHPKKA062"
+        },
+        {
+          "branch_name": "Baghbanpura Branch",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA063"
+        },
+        {
+          "branch_name": "Peshawar City Branch",
+          "city": "Peshawar",
+          "swift_code": "ALFHPKKA064"
+        },
+        {
+          "branch_name": "Liberty Market Branch",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA065"
+        },
+        {
+          "branch_name": "Shaahdin Manzil Branch",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA066"
+        },
+        {
+          "branch_name": "Abbottabad Branch",
+          "city": "Abbottabad",
+          "swift_code": "ALFHPKKA068"
+        },
+        {
+          "branch_name": "Okara Branch",
+          "city": "Okara",
+          "swift_code": "ALFHPKKA069"
+        },
+        {
+          "branch_name": "Jhelum Branch",
+          "city": "Jhelum",
+          "swift_code": "ALFHPKKA070"
+        },
+        {
+          "branch_name": "Lala Musa Branch",
+          "city": "Lala Musa",
+          "swift_code": "ALFHPKKA071"
+        },
+        {
+          "branch_name": "Mian Channu Branch",
+          "city": "Mian Channu",
+          "swift_code": "ALFHPKKA073"
+        },
+        {
+          "branch_name": "Mandi Bahauddin Branch",
+          "city": "Mandi Bahauddin",
+          "swift_code": "ALFHPKKA074"
+        },
+        {
+          "branch_name": "Dera Ghazi Khan Branch",
+          "city": "Dera Ghazi Khan",
+          "swift_code": "ALFHPKKA075"
+        },
+        {
+          "branch_name": "Raiwind Road Branch",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA076"
+        },
+        {
+          "branch_name": "Mingora Swat Branch",
+          "city": "Swat",
+          "swift_code": "ALFHPKKA078"
+        },
+        {
+          "branch_name": "Toba Tek Singh Branch",
+          "city": "Toba Tek Singh",
+          "swift_code": "ALFHPKKA079"
+        },
+        {
+          "branch_name": "Hangu Branch",
+          "city": "Hangu",
+          "swift_code": "ALFHPKKA080"
+        },
+        {
+          "branch_name": "I-10 Markaz Branch",
+          "city": "Islamabad",
+          "swift_code": "ALFHPKKA082"
+        },
+        {
+          "branch_name": "Jinnah Road Branch",
+          "city": "Rawalpindi",
+          "swift_code": "ALFHPKKA083"
+        },
+        {
+          "branch_name": "Bahawalpur Branch",
+          "city": "Bahawalpur",
+          "swift_code": "ALFHPKKA085"
+        },
+        {
+          "branch_name": "Kohat Branch",
+          "city": "Kohat",
+          "swift_code": "ALFHPKKA086"
+        },
+        {
+          "branch_name": "Landhi Branch",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA088"
+        },
+        {
+          "branch_name": "Tariq Road Branch",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA089"
+        },
+        {
+          "branch_name": "Shershah Branch",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA091"
+        },
+        {
+          "branch_name": "Malir Cantt Branch",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA092"
+        },
+        {
+          "branch_name": "Urdu Bazar Branch",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA093"
+        },
+        {
+          "branch_name": "Ferozpur Road Branch",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA094"
+        },
+        {
+          "branch_name": "Shahdara Branch",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA095"
+        },
+        {
+          "branch_name": "Walton Road Branch",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA096"
+        },
+        {
+          "branch_name": "Cutpiece Branch",
+          "city": "Baluchistan",
+          "swift_code": "ALFHPKKA097"
+        },
+        {
+          "branch_name": "Chaklala Scheme Iii Branch",
+          "city": "Rawalpindi",
+          "swift_code": "ALFHPKKA098"
+        },
+        {
+          "branch_name": "College Road Branch",
+          "city": "Rawalpindi",
+          "swift_code": "ALFHPKKA100"
+        },
+        {
+          "branch_name": "Lalazar Branch",
+          "city": "Rawalpindi",
+          "swift_code": "ALFHPKKA101"
+        },
+        {
+          "branch_name": "Hayatabad Branch",
+          "city": "Peshawar",
+          "swift_code": "ALFHPKKA102"
+        },
+        {
+          "branch_name": "G T Road Peshawar Branch",
+          "city": "Peshawar",
+          "swift_code": "ALFHPKKA103"
+        },
+        {
+          "branch_name": "Minerva Road Branch",
+          "city": "Faisalabad",
+          "swift_code": "ALFHPKKA104"
+        },
+        {
+          "branch_name": "Bhalwal Branch",
+          "city": "Bhalwal",
+          "swift_code": "ALFHPKKA105"
+        },
+        {
+          "branch_name": "Susan Road Branch",
+          "city": "Faisalabad",
+          "swift_code": "ALFHPKKA106"
+        },
+        {
+          "branch_name": "Rail Bazar Branch",
+          "city": "Faisalabad",
+          "swift_code": "ALFHPKKA107"
+        },
+        {
+          "branch_name": "Yarn Market Branch",
+          "city": "Faisalabad",
+          "swift_code": "ALFHPKKA108"
+        },
+        {
+          "branch_name": "Hussain Agahi Branch",
+          "city": "Multan",
+          "swift_code": "ALFHPKKA109"
+        },
+        {
+          "branch_name": "Chowk Shaheedain Branch",
+          "city": "Multan",
+          "swift_code": "ALFHPKKA110"
+        },
+        {
+          "branch_name": "Chiniot Branch",
+          "city": "Chiniot",
+          "swift_code": "ALFHPKKA111"
+        },
+        {
+          "branch_name": "Daska Branch",
+          "city": "Daska",
+          "swift_code": "ALFHPKKA112"
+        },
+        {
+          "branch_name": "Hafizabad Branch",
+          "city": "Hafizabad",
+          "swift_code": "ALFHPKKA113"
+        },
+        {
+          "branch_name": "Kharian Branch",
+          "city": "Kharian",
+          "swift_code": "ALFHPKKA114"
+        },
+        {
+          "branch_name": "Arifwala Branch",
+          "city": "Arifwala",
+          "swift_code": "ALFHPKKA115"
+        },
+        {
+          "branch_name": "Chichawatni Branch",
+          "city": "Chichawatni",
+          "swift_code": "ALFHPKKA116"
+        },
+        {
+          "branch_name": "Kasur Branch",
+          "city": "Kasur",
+          "swift_code": "ALFHPKKA117"
+        },
+        {
+          "branch_name": "Pakpattan Branch",
+          "city": "Pakpattan",
+          "swift_code": "ALFHPKKA118"
+        },
+        {
+          "branch_name": "Gilgit Branch",
+          "city": "Gilgit",
+          "swift_code": "ALFHPKKA119"
+        },
+        {
+          "branch_name": "Attock Branch",
+          "city": "Attock",
+          "swift_code": "ALFHPKKA120"
+        },
+        {
+          "branch_name": "Chaman Branch",
+          "city": "Baluchistan",
+          "swift_code": "ALFHPKKA121"
+        },
+        {
+          "branch_name": "Garden West Branch Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA284"
+        },
+        {
+          "branch_name": "Quaid-e-azam Road Br Multan Cantt",
+          "city": "Multan",
+          "swift_code": "ALFHPKKA285"
+        },
+        {
+          "branch_name": "Khayaban-e-mslim Br Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA286"
+        },
+        {
+          "branch_name": "Bombay Bazar Branch Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA287"
+        },
+        {
+          "branch_name": "Pakistan Chowk Branch Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA288"
+        },
+        {
+          "branch_name": "F-7 Markaz",
+          "city": "Islamabad",
+          "swift_code": "ALFHPKKA404"
+        },
+        {
+          "branch_name": "Stock Exchange Islamabad Branch",
+          "city": "Islamabad",
+          "swift_code": "ALFHPKKA407"
+        },
+        {
+          "branch_name": "Islamic Banking, Main Branch, Gulberg",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA501"
+        },
+        {
+          "branch_name": "Islamic Banking, Y Block Dha Branch",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA502"
+        },
+        {
+          "branch_name": "Islamic Banking, Kutchery Bazar Branch",
+          "city": "Faisalabad",
+          "swift_code": "ALFHPKKA503"
+        },
+        {
+          "branch_name": "Islamic Banking, Jinnah Avenue Branch",
+          "city": "Islamabad",
+          "swift_code": "ALFHPKKA504"
+        },
+        {
+          "branch_name": "Islamic Banking, Uni Towers Branch",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA505"
+        },
+        {
+          "branch_name": "Ibd Mcload Road Branch",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA506"
+        },
+        {
+          "branch_name": "Ibd Gujranwala Branch",
+          "city": "Gujranwala",
+          "swift_code": "ALFHPKKA507"
+        },
+        {
+          "branch_name": "Islamic Banking, New Garden Town Branch",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA508"
+        },
+        {
+          "branch_name": "Islamic Banking, Jamrud Road Branch",
+          "city": "Peshawar",
+          "swift_code": "ALFHPKKA509"
+        },
+        {
+          "branch_name": "Ibd Johar Town Branch",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA510"
+        },
+        {
+          "branch_name": "Ibd Medical College Road Branch",
+          "city": "Faisalabad",
+          "swift_code": "ALFHPKKA511"
+        },
+        {
+          "branch_name": "Ibd Shahra-e-faisal Branch",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA512"
+        },
+        {
+          "branch_name": "Islamic Banking, Bosan Road Branch",
+          "city": "Multan",
+          "swift_code": "ALFHPKKA513"
+        },
+        {
+          "branch_name": "Kotli Branch",
+          "city": "Kotli",
+          "swift_code": "ALFHPKKA264"
+        },
+        {
+          "branch_name": "Samanabad Branch Lahore",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA265"
+        },
+        {
+          "branch_name": "Karim Block Allama Iqbal Town Br Lhr",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA266"
+        },
+        {
+          "branch_name": "Faizabad Branch Rawalpindi",
+          "city": "Rawalpindi",
+          "swift_code": "ALFHPKKA267"
+        },
+        {
+          "branch_name": "Bagh Sardaran Branch Rawalpindi",
+          "city": "Rawalpindi",
+          "swift_code": "ALFHPKKA268"
+        },
+        {
+          "branch_name": "Kutchery Road Branch Gujrat",
+          "city": "Gujrat",
+          "swift_code": "ALFHPKKA269"
+        },
+        {
+          "branch_name": "Renala Khurd Branch",
+          "city": "Renala Khurd",
+          "swift_code": "ALFHPKKA270"
+        },
+        {
+          "branch_name": "Rawat Branch",
+          "city": "Rawat",
+          "swift_code": "ALFHPKKA271"
+        },
+        {
+          "branch_name": "Waisa Branch",
+          "city": "Tehsil Hazro",
+          "swift_code": "ALFHPKKA272"
+        },
+        {
+          "branch_name": "Adyala Road Branch Rawalpindi",
+          "city": "Rawalpindi",
+          "swift_code": "ALFHPKKA273"
+        },
+        {
+          "branch_name": "Nowshera Branch",
+          "city": "Nowshera",
+          "swift_code": "ALFHPKKA274"
+        },
+        {
+          "branch_name": "Charsadda Branch",
+          "city": "Charsadda",
+          "swift_code": "ALFHPKKA275"
+        },
+        {
+          "branch_name": "Sibi Branch",
+          "city": "Sibi",
+          "swift_code": "ALFHPKKA276"
+        },
+        {
+          "branch_name": "Islampura Branch Lahore",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA277"
+        },
+        {
+          "branch_name": "Shahabpura Branch Sialkot",
+          "city": "Sialkot",
+          "swift_code": "ALFHPKKA278"
+        },
+        {
+          "branch_name": "Layyah Branch",
+          "city": "Layyah",
+          "swift_code": "ALFHPKKA279"
+        },
+        {
+          "branch_name": "Yazman Branch Distt Bahawalpur",
+          "city": "Yazman",
+          "swift_code": "ALFHPKKA280"
+        },
+        {
+          "branch_name": "Qaboola Branch",
+          "city": "Qaboola",
+          "swift_code": "ALFHPKKA281"
+        },
+        {
+          "branch_name": "Chillas Branch",
+          "city": "Chillas",
+          "swift_code": "ALFHPKKA282"
+        },
+        {
+          "branch_name": "Muzaffarabad Branch",
+          "city": "Muzaffarabad",
+          "swift_code": "ALFHPKKA283"
+        },
+        {
+          "branch_name": "Bund Road Branch Lahore",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA243"
+        },
+        {
+          "branch_name": "Shakargarh Branch",
+          "city": "Shakargarh",
+          "swift_code": "ALFHPKKA244"
+        },
+        {
+          "branch_name": "Jacobabad Branch",
+          "city": "Jacobabad",
+          "swift_code": "ALFHPKKA245"
+        },
+        {
+          "branch_name": "Pishin Branch",
+          "city": "Pishin",
+          "swift_code": "ALFHPKKA246"
+        },
+        {
+          "branch_name": "Choa Saidan Shah Branch",
+          "city": "Choa Saidan Shah",
+          "swift_code": "ALFHPKKA247"
+        },
+        {
+          "branch_name": "Sabzi Mandi Branch Faisalabad",
+          "city": "Faisalabad",
+          "swift_code": "ALFHPKKA248"
+        },
+        {
+          "branch_name": "Swabi Branch",
+          "city": "Swabi",
+          "swift_code": "ALFHPKKA249"
+        },
+        {
+          "branch_name": "Hussainabad Branch Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA250"
+        },
+        {
+          "branch_name": "Chenab Nagar Rabwah Branch",
+          "city": "Chenab Nagar",
+          "swift_code": "ALFHPKKA251"
+        },
+        {
+          "branch_name": "Eme Society Branch Lahore",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA252"
+        },
+        {
+          "branch_name": "Havelian Branch",
+          "city": "Havelian",
+          "swift_code": "ALFHPKKA253"
+        },
+        {
+          "branch_name": "Bakhshi Pul Branch",
+          "city": "Peshawar",
+          "swift_code": "ALFHPKKA255"
+        },
+        {
+          "branch_name": "Ichra Branch Lahore",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA256"
+        },
+        {
+          "branch_name": "Kamoke Branch Gujranwala",
+          "city": "Gujranwala",
+          "swift_code": "ALFHPKKA257"
+        },
+        {
+          "branch_name": "Tando Adam Branch",
+          "city": "Tando Adam",
+          "swift_code": "ALFHPKKA258"
+        },
+        {
+          "branch_name": "Sanghar Branch",
+          "city": "Sanghar",
+          "swift_code": "ALFHPKKA259"
+        },
+        {
+          "branch_name": "Bhowana Bazar Br Faisalabad",
+          "city": "Faisalabad",
+          "swift_code": "ALFHPKKA260"
+        },
+        {
+          "branch_name": "Phalia Branch Distt Mandi Bahauddin",
+          "city": "Phalia",
+          "swift_code": "ALFHPKKA261"
+        },
+        {
+          "branch_name": "Satellite Town Br Sargodha",
+          "city": "Sargodha",
+          "swift_code": "ALFHPKKA262"
+        },
+        {
+          "branch_name": "F-11 Markaz Branch Islamabad",
+          "city": "Islamabad",
+          "swift_code": "ALFHPKKA263"
+        },
+        {
+          "branch_name": "Samberial Branch",
+          "city": "Sialkot",
+          "swift_code": "ALFHPKKA223"
+        },
+        {
+          "branch_name": "Jalalpur Bhattia",
+          "city": "Hafizabad",
+          "swift_code": "ALFHPKKA224"
+        },
+        {
+          "branch_name": "Norowal Branch",
+          "city": "Narowal",
+          "swift_code": "ALFHPKKA225"
+        },
+        {
+          "branch_name": "Nankana Sahib Branch",
+          "city": "Sahib",
+          "swift_code": "ALFHPKKA226"
+        },
+        {
+          "branch_name": "Pattoki Branch",
+          "city": "Kasur",
+          "swift_code": "ALFHPKKA227"
+        },
+        {
+          "branch_name": "Fortress Stadium Branch Lahore",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA228"
+        },
+        {
+          "branch_name": "Bedian Road Lahore Branch",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA229"
+        },
+        {
+          "branch_name": "Battagram Branch",
+          "city": "Battagram",
+          "swift_code": "ALFHPKKA230"
+        },
+        {
+          "branch_name": "Lakkar Mandi Ghorghushti Branch",
+          "city": "Attock",
+          "swift_code": "ALFHPKKA231"
+        },
+        {
+          "branch_name": "Abul Hasan Ispahani Rd Br Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA232"
+        },
+        {
+          "branch_name": "Liaquatabad Branch Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA233"
+        },
+        {
+          "branch_name": "G-11 Markaz Branch Islamabad",
+          "city": "Islamabad",
+          "swift_code": "ALFHPKKA234"
+        },
+        {
+          "branch_name": "Chishtian Branch",
+          "city": "Chishtian",
+          "swift_code": "ALFHPKKA235"
+        },
+        {
+          "branch_name": "Samundri Branch",
+          "city": "Samundri",
+          "swift_code": "ALFHPKKA236"
+        },
+        {
+          "branch_name": "Tarnol Branch",
+          "city": "Tarnol",
+          "swift_code": "ALFHPKKA237"
+        },
+        {
+          "branch_name": "Liaquat Bazar Branch Quetta",
+          "city": "Quetta",
+          "swift_code": "ALFHPKKA238"
+        },
+        {
+          "branch_name": "Zarar Shaheed Rd Guldasht Town Br",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA239"
+        },
+        {
+          "branch_name": "Urdu Baza Branch Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA240"
+        },
+        {
+          "branch_name": "Tench Bhatta Br Rawalpindi Cantt",
+          "city": "Rawalpindi",
+          "swift_code": "ALFHPKKA241"
+        },
+        {
+          "branch_name": "Adamjee Road Saddar Branch",
+          "city": "Rawalpindi",
+          "swift_code": "ALFHPKKA242"
+        },
+        {
+          "branch_name": "Ibd Misri Shah Branch Lahore",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA574"
+        },
+        {
+          "branch_name": "Ibd Kahna Nau Branch Lahore",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA575"
+        },
+        {
+          "branch_name": "Ibd Kabirwala Branch",
+          "city": "Kabirwala",
+          "swift_code": "ALFHPKKA576"
+        },
+        {
+          "branch_name": "Ibd Shahkot Branch",
+          "city": "Shahkot",
+          "swift_code": "ALFHPKKA577"
+        },
+        {
+          "branch_name": "Ibd Kot Addu Branch",
+          "city": "Kot Addu",
+          "swift_code": "ALFHPKKA578"
+        },
+        {
+          "branch_name": "Ibd Gulberg Road Branch Faisalabad",
+          "city": "Faisalabad",
+          "swift_code": "ALFHPKKA579"
+        },
+        {
+          "branch_name": "Ibd-bahawalpur Branch",
+          "city": "Bahawalpur",
+          "swift_code": "ALFHPKKA580"
+        },
+        {
+          "branch_name": "Forex Branch",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA970"
+        },
+        {
+          "branch_name": "Badami Bagh Lahore",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKABBL"
+        },
+        {
+          "branch_name": "Centralized Export Department",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKACED"
+        },
+        {
+          "branch_name": "Centralized Guarantees Department",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKACGD"
+        },
+        {
+          "branch_name": "Centralized Imports Department",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKACID"
+        },
+        {
+          "branch_name": "Centralized Import And Guarantees Department",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKACIG"
+        },
+        {
+          "branch_name": "Centralized Islamic Trade",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKACIT"
+        },
+        {
+          "branch_name": "Clifton Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKACLK"
+        },
+        {
+          "branch_name": "Cloth Market Branch, Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKACMK"
+        },
+        {
+          "branch_name": "Centralized Remittance Department",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKACRD"
+        },
+        {
+          "branch_name": "Circular Road, Lahore",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKACRL"
+        },
+        {
+          "branch_name": "Defence Lahore",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKADEL"
+        },
+        {
+          "branch_name": "Faisalabad Branch",
+          "city": "Faisalabad",
+          "swift_code": "ALFHPKKAFSD"
+        },
+        {
+          "branch_name": "Ibd Sargodha",
+          "city": "Sargodha",
+          "swift_code": "ALFHPKKA534"
+        },
+        {
+          "branch_name": "Ibd Pindi Ghab Branch",
+          "city": "Gheb",
+          "swift_code": "ALFHPKKA535"
+        },
+        {
+          "branch_name": "Chuhng Br Ibd",
+          "city": "Chuchung",
+          "swift_code": "ALFHPKKA536"
+        },
+        {
+          "branch_name": "Ibd Hyderabad Branch",
+          "city": "Hyderabad",
+          "swift_code": "ALFHPKKA537"
+        },
+        {
+          "branch_name": "Ibd Quetta Branch",
+          "city": "Quetta",
+          "swift_code": "ALFHPKKA538"
+        },
+        {
+          "branch_name": "Ibd Site",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA539"
+        },
+        {
+          "branch_name": "Ibd F.b. Area Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA540"
+        },
+        {
+          "branch_name": "Ibd Port Qasim",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA541"
+        },
+        {
+          "branch_name": "Ibd Shah Alam",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA542"
+        },
+        {
+          "branch_name": "Kot Abdul Malik",
+          "city": "Sheikhupura",
+          "swift_code": "ALFHPKKA543"
+        },
+        {
+          "branch_name": "Ibd Canal Rd Faisalabad",
+          "city": "Faisalabad",
+          "swift_code": "ALFHPKKA544"
+        },
+        {
+          "branch_name": "Ibd Gujrat",
+          "city": "Hassan Abdal",
+          "swift_code": "ALFHPKKA545"
+        },
+        {
+          "branch_name": "Ibd I-9 Islamabad Branch",
+          "city": "Islamabad",
+          "swift_code": "ALFHPKKA546"
+        },
+        {
+          "branch_name": "Ibd Abbotabad",
+          "city": "Abbottabad",
+          "swift_code": "ALFHPKKA547"
+        },
+        {
+          "branch_name": "Ibd Dhudial Distt Chakwal",
+          "city": "Chakwal",
+          "swift_code": "ALFHPKKA548"
+        },
+        {
+          "branch_name": "Ibd Khushab Branch",
+          "city": "Khushab",
+          "swift_code": "ALFHPKKA549"
+        },
+        {
+          "branch_name": "Ibd Sangla Hill Branch",
+          "city": "Sangla Hill",
+          "swift_code": "ALFHPKKA550"
+        },
+        {
+          "branch_name": "Ibd Kamalia Branch",
+          "city": "Kamalia",
+          "swift_code": "ALFHPKKA551"
+        },
+        {
+          "branch_name": "Ibd Vehari Branch",
+          "city": "Vehari",
+          "swift_code": "ALFHPKKA552"
+        },
+        {
+          "branch_name": "Ibd Mailsi Branch",
+          "city": "Mailsi",
+          "swift_code": "ALFHPKKA553"
+        },
+        {
+          "branch_name": "Ibd Cantt Branch",
+          "city": "Rawalpindi",
+          "swift_code": "ALFHPKKA514"
+        },
+        {
+          "branch_name": "Ibd Khadim Ali Road Branch",
+          "city": "Sialkot",
+          "swift_code": "ALFHPKKA515"
+        },
+        {
+          "branch_name": "Ibd Rahim Yar Khan",
+          "city": "Rahimyar Khan",
+          "swift_code": "ALFHPKKA516"
+        },
+        {
+          "branch_name": "Ibd Korangi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA517"
+        },
+        {
+          "branch_name": "Ibd Gulshan",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA518"
+        },
+        {
+          "branch_name": "Ibd Gulishtan-e-jauhar",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA519"
+        },
+        {
+          "branch_name": "Ibd Jodia Bazar",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA520"
+        },
+        {
+          "branch_name": "Ibd Gulshan-e-ravi",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA521"
+        },
+        {
+          "branch_name": "Ibd Zarrar Sheed",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA522"
+        },
+        {
+          "branch_name": "Ibd Quartaba Chowk",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA523"
+        },
+        {
+          "branch_name": "Ibd Mughalpura",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA524"
+        },
+        {
+          "branch_name": "Ibd Dhoraji",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA525"
+        },
+        {
+          "branch_name": "Ibd Multan Road",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA526"
+        },
+        {
+          "branch_name": "Ibd Wahdat Road Lahore",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA527"
+        },
+        {
+          "branch_name": "Ibd Dha Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA528"
+        },
+        {
+          "branch_name": "Ibd North Nazimabad",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA529"
+        },
+        {
+          "branch_name": "Ibd G-10 Markaz Islamabad",
+          "city": "Islamabad",
+          "swift_code": "ALFHPKKA530"
+        },
+        {
+          "branch_name": "Ibd Satellite Town",
+          "city": "Rawalpindi",
+          "swift_code": "ALFHPKKA531"
+        },
+        {
+          "branch_name": "Ibd Dera Ismail Khan",
+          "city": "Dera Ismail Khan",
+          "swift_code": "ALFHPKKA532"
+        },
+        {
+          "branch_name": "Ibd Satyana Road Faisalabad",
+          "city": "Faisalabad",
+          "swift_code": "ALFHPKKA533"
+        },
+        {
+          "branch_name": "Ibd Bewal Branch",
+          "city": "Bewal",
+          "swift_code": "ALFHPKKA554"
+        },
+        {
+          "branch_name": "Ibd Sarai Alamgir Branch",
+          "city": "Sarai Alamgir",
+          "swift_code": "ALFHPKKA555"
+        },
+        {
+          "branch_name": "Ibd Jalalpur Jattan Branch",
+          "city": "Jalalpur Jattan",
+          "swift_code": "ALFHPKKA556"
+        },
+        {
+          "branch_name": "Ibd Hasan Abdal Branch",
+          "city": "Hasan Abdal",
+          "swift_code": "ALFHPKKA557"
+        },
+        {
+          "branch_name": "Ibd Mumtazabad Branch Multan",
+          "city": "Multan",
+          "swift_code": "ALFHPKKA558"
+        },
+        {
+          "branch_name": "Ibd North Karachi Branch Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA559"
+        },
+        {
+          "branch_name": "Ibd Orangi Town Branch Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA560"
+        },
+        {
+          "branch_name": "Ibd Clifton Branch Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA561"
+        },
+        {
+          "branch_name": "Ibd Saddar Branch Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA562"
+        },
+        {
+          "branch_name": "Ibd Nazimabad Branch Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA563"
+        },
+        {
+          "branch_name": "Ibd Shershah Brnch Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKA564"
+        },
+        {
+          "branch_name": "Ibd Masjid Road Branch Quetta",
+          "city": "Quetta",
+          "swift_code": "ALFHPKKA565"
+        },
+        {
+          "branch_name": "Ibd Sukkur Branch",
+          "city": "Sukkur",
+          "swift_code": "ALFHPKKA566"
+        },
+        {
+          "branch_name": "Ibd, Dha Phase-ii Branch Islamabad",
+          "city": "Islamabad",
+          "swift_code": "ALFHPKKA567"
+        },
+        {
+          "branch_name": "Ibd, E-11 Branch Islamabad",
+          "city": "Islamabad",
+          "swift_code": "ALFHPKKA568"
+        },
+        {
+          "branch_name": "Ibd Bahria Town Branch Islamabad",
+          "city": "Islamabad",
+          "swift_code": "ALFHPKKA569"
+        },
+        {
+          "branch_name": "Ibd Khayan-e-sir Syed Rawalpindi",
+          "city": "Rawalpindi",
+          "swift_code": "ALFHPKKA570"
+        },
+        {
+          "branch_name": "Ibd Azam Cloth Mkt Branch Lahore",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA571"
+        },
+        {
+          "branch_name": "Ibd College Road Township Br Lhr",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA572"
+        },
+        {
+          "branch_name": "Ibd Daroghawala Branch Lahore",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKA573"
+        },
+        {
+          "branch_name": "Rahimyar Khan Branch",
+          "city": "Rahimyar Khan",
+          "swift_code": "ALFHPKKARYK"
+        },
+        {
+          "branch_name": "Shahrah-e-faisal Branch, Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKASFK"
+        },
+        {
+          "branch_name": "Sargodha Branch",
+          "city": "Sargodha",
+          "swift_code": "ALFHPKKASGD"
+        },
+        {
+          "branch_name": "S.i.t.e. Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKASIK"
+        },
+        {
+          "branch_name": "Sialkot Branch",
+          "city": "Sialkot",
+          "swift_code": "ALFHPKKASKT"
+        },
+        {
+          "branch_name": "Sattelite Town, Rawalpindi",
+          "city": "Rawalpindi",
+          "swift_code": "ALFHPKKASTR"
+        },
+        {
+          "branch_name": "Sukkur Branch",
+          "city": "Sukkur",
+          "swift_code": "ALFHPKKASUK"
+        },
+        {
+          "branch_name": "Sahiwal Branch",
+          "city": "Sahiwal",
+          "swift_code": "ALFHPKKASWL"
+        },
+        {
+          "branch_name": "Township, Lahore",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKATSL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKAXXX"
+        },
+        {
+          "branch_name": "Gulberg Branch, Lahore",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKAGBL"
+        },
+        {
+          "branch_name": "Gulshan-e-iqbal Branch, Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKAGIK"
+        },
+        {
+          "branch_name": "Gujrat Branch",
+          "city": "Gujrat",
+          "swift_code": "ALFHPKKAGUT"
+        },
+        {
+          "branch_name": "Gujranwala Branch",
+          "city": "Gujranwala",
+          "swift_code": "ALFHPKKAGWL"
+        },
+        {
+          "branch_name": "Hyderabad Branch",
+          "city": "Hyderabad",
+          "swift_code": "ALFHPKKAHYD"
+        },
+        {
+          "branch_name": "Islamabad Branch",
+          "city": "Islamabad",
+          "swift_code": "ALFHPKKAISL"
+        },
+        {
+          "branch_name": "Jodia Bazar Branch, Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKAJBK"
+        },
+        {
+          "branch_name": "Korangi Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKAKBK"
+        },
+        {
+          "branch_name": "Lda Plaza Branch, Lahore",
+          "city": "Lahore",
+          "swift_code": "ALFHPKKALDA"
+        },
+        {
+          "branch_name": "Markaz Branch, Islamabad",
+          "city": "Islamabad",
+          "swift_code": "ALFHPKKAMBI"
+        },
+        {
+          "branch_name": "Main Branch Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKAMBK"
+        },
+        {
+          "branch_name": "M.a. Jinnah Road, Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKAMJK"
+        },
+        {
+          "branch_name": "Mardan Branch",
+          "city": "Mardan",
+          "swift_code": "ALFHPKKAMRD"
+        },
+        {
+          "branch_name": "Multan Branch",
+          "city": "Multan",
+          "swift_code": "ALFHPKKAMUL"
+        },
+        {
+          "branch_name": "North Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKANIK"
+        },
+        {
+          "branch_name": "Paper Market Karachi",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKAPMK"
+        },
+        {
+          "branch_name": "Pashawar Branch",
+          "city": "Peshawar",
+          "swift_code": "ALFHPKKAPSW"
+        },
+        {
+          "branch_name": "Quetta Branch",
+          "city": "Quetta",
+          "swift_code": "ALFHPKKAQUT"
+        },
+        {
+          "branch_name": "Remittance Processing Unit",
+          "city": "Karachi",
+          "swift_code": "ALFHPKKARPU"
+        },
+        {
+          "branch_name": "Rawalpindi Branch",
+          "city": "Rawalpindi",
+          "swift_code": "ALFHPKKARWP"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bakhtar Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kabul",
+          "swift_code": "BKRBAFKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Azizi Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kabul",
+          "swift_code": "AZBAAFKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Afghanistan International Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kabul",
+          "swift_code": "AFIBAFKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Afghanistan Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kabul",
+          "swift_code": "TBAAAFKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Afgan United Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kabul",
+          "swift_code": "AFGUAFKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Habib Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kabul",
+          "swift_code": "HABBAFKAXXX"
+        },
+        {
+          "branch_name": "New York Ny",
+          "city": "New York,Ny",
+          "swift_code": "HABBUS33WNY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "New York,Ny",
+          "swift_code": "HABBUS33XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "HABBSGSGXXX"
+        },
+        {
+          "branch_name": "Habib Bank Limited",
+          "city": "Victoria",
+          "swift_code": "HABBSCSCXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Victoria",
+          "swift_code": "HABBSCS1XXX"
+        },
+        {
+          "branch_name": "Abu Dhabi",
+          "city": "Abu Dhabi",
+          "swift_code": "HABBAEA10AA"
+        },
+        {
+          "branch_name": "Sharjah",
+          "city": "Sharjah",
+          "swift_code": "HABBAEA10AS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dubai",
+          "swift_code": "HABBAEADXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Male",
+          "swift_code": "HABBMVMVXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Muttrah",
+          "swift_code": "HBZUOMM1XXX"
+        },
+        {
+          "branch_name": "Cloth Market Branch",
+          "city": "Karachi",
+          "swift_code": "HABBPKKA004"
+        },
+        {
+          "branch_name": "Foreign Exchange Branch-habib Square",
+          "city": "Karachi",
+          "swift_code": "HABBPKKA007"
+        },
+        {
+          "branch_name": "S I T E Corporate Centre",
+          "city": "Karachi",
+          "swift_code": "HABBPKKA009"
+        },
+        {
+          "branch_name": "Napier Road Branch",
+          "city": "Karachi",
+          "swift_code": "HABBPKKA023"
+        },
+        {
+          "branch_name": "Nursery Branch",
+          "city": "Karachi",
+          "swift_code": "HABBPKKA027"
+        },
+        {
+          "branch_name": "Saddar Branch",
+          "city": "Karachi",
+          "swift_code": "HABBPKKA033"
+        },
+        {
+          "branch_name": "S D V Branch",
+          "city": "Karachi",
+          "swift_code": "HABBPKKA034"
+        },
+        {
+          "branch_name": "Tariq Road Branch",
+          "city": "Karachi",
+          "swift_code": "HABBPKKA038"
+        },
+        {
+          "branch_name": "Corporate Sub-centre-pia Branch",
+          "city": "Karachi",
+          "swift_code": "HABBPKKA048"
+        },
+        {
+          "branch_name": "Station Road Branch",
+          "city": "Hyderabad",
+          "swift_code": "HABBPKKA068"
+        },
+        {
+          "branch_name": "Frere Road Branch",
+          "city": "Sukkur",
+          "swift_code": "HABBPKKA082"
+        },
+        {
+          "branch_name": "Bank Square Branch",
+          "city": "Gujranwala",
+          "swift_code": "HABBPKKA109"
+        },
+        {
+          "branch_name": "Circular Road Branch",
+          "city": "Gujrat",
+          "swift_code": "HABBPKKA111"
+        },
+        {
+          "branch_name": "Shaheed Road Branch",
+          "city": "Jhang",
+          "swift_code": "HABBPKKA114"
+        },
+        {
+          "branch_name": "Badami Bagh Branch",
+          "city": "Lahore",
+          "swift_code": "HABBPKKA122"
+        },
+        {
+          "branch_name": "Brandreth Road Branch",
+          "city": "Lahore",
+          "swift_code": "HABBPKKA124"
+        },
+        {
+          "branch_name": "Cantonment Branch",
+          "city": "Lahore",
+          "swift_code": "HABBPKKA125"
+        },
+        {
+          "branch_name": "Shah Alam Market Branch",
+          "city": "Lahore",
+          "swift_code": "HABBPKKA134"
+        },
+        {
+          "branch_name": "The Mall Branch",
+          "city": "Lahore",
+          "swift_code": "HABBPKKA135"
+        },
+        {
+          "branch_name": "Circular Road Branch",
+          "city": "Faisalabad",
+          "swift_code": "HABBPKKA143"
+        },
+        {
+          "branch_name": "Pak Ac-reconciliation Division-h O K",
+          "city": "Karachi",
+          "swift_code": "HABBPKKAREC"
+        },
+        {
+          "branch_name": "Central Processing Unit-global Operations",
+          "city": "Karachi",
+          "swift_code": "HABBPKKATIC"
+        },
+        {
+          "branch_name": "Head Office-treasury",
+          "city": "Karachi",
+          "swift_code": "HABBPKKATRY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "HABBPKKAXXX"
+        },
+        {
+          "branch_name": "Main Bazar Branch",
+          "city": "Wazirabad",
+          "swift_code": "HABBPKKA464"
+        },
+        {
+          "branch_name": "K-i-area-corporate Centre",
+          "city": "Karachi",
+          "swift_code": "HABBPKKA523"
+        },
+        {
+          "branch_name": "Bahadurabad Branch",
+          "city": "Karachi",
+          "swift_code": "HABBPKKA526"
+        },
+        {
+          "branch_name": "M F Elahi Bldg Branch",
+          "city": "Sialkot",
+          "swift_code": "HABBPKKA541"
+        },
+        {
+          "branch_name": "Wapda House Branch",
+          "city": "Lahore",
+          "swift_code": "HABBPKKA552"
+        },
+        {
+          "branch_name": "Corporate Centre",
+          "city": "Sialkot",
+          "swift_code": "HABBPKKA574"
+        },
+        {
+          "branch_name": "Peco Road Branch",
+          "city": "Lahore",
+          "swift_code": "HABBPKKA589"
+        },
+        {
+          "branch_name": "Cda Civic Centre Branch",
+          "city": "Islamabad",
+          "swift_code": "HABBPKKA602"
+        },
+        {
+          "branch_name": "Opp High Court Branch",
+          "city": "Lahore",
+          "swift_code": "HABBPKKA617"
+        },
+        {
+          "branch_name": "Complex Branch",
+          "city": "Quetta",
+          "swift_code": "HABBPKKA649"
+        },
+        {
+          "branch_name": "G T Road Branch",
+          "city": "Gujranwala",
+          "swift_code": "HABBPKKA682"
+        },
+        {
+          "branch_name": "D Ground P Colony Branch",
+          "city": "Faisalabad",
+          "swift_code": "HABBPKKA683"
+        },
+        {
+          "branch_name": "Panorama Centre Branch",
+          "city": "Lahore",
+          "swift_code": "HABBPKKA741"
+        },
+        {
+          "branch_name": "Madina Town Branch",
+          "city": "Faisalabad",
+          "swift_code": "HABBPKKA748"
+        },
+        {
+          "branch_name": "Central Branch",
+          "city": "Karachi",
+          "swift_code": "HABBPKKA786"
+        },
+        {
+          "branch_name": "S D V Branch",
+          "city": "Rawalpindi",
+          "swift_code": "HABBPKKA814"
+        },
+        {
+          "branch_name": "Allama Iqbal Road Branch",
+          "city": "Faisalabad",
+          "swift_code": "HABBPKKA852"
+        },
+        {
+          "branch_name": "Islamabad Corporate Centre",
+          "city": "Islamabad",
+          "swift_code": "HABBPKKA874"
+        },
+        {
+          "branch_name": "Corporate Centre",
+          "city": "Peshawar",
+          "swift_code": "HABBPKKA959"
+        },
+        {
+          "branch_name": "Obu-k E P Z Branch",
+          "city": "Karachi",
+          "swift_code": "HABBPKKAEPZ"
+        },
+        {
+          "branch_name": "Jinnah Chowk Branch",
+          "city": "Sahiwal",
+          "swift_code": "HABBPKKA147"
+        },
+        {
+          "branch_name": "Hussain Agahi Br Multan Branch",
+          "city": "Multan",
+          "swift_code": "HABBPKKA150"
+        },
+        {
+          "branch_name": "Corporate Centre",
+          "city": "Faisalabad",
+          "swift_code": "HABBPKKA152"
+        },
+        {
+          "branch_name": "Cantt Branch",
+          "city": "Rawalpindi",
+          "swift_code": "HABBPKKA155"
+        },
+        {
+          "branch_name": "City Branch",
+          "city": "Rawalpindi",
+          "swift_code": "HABBPKKA156"
+        },
+        {
+          "branch_name": "Kutchery Bazar Branch",
+          "city": "Sargodha",
+          "swift_code": "HABBPKKA162"
+        },
+        {
+          "branch_name": "City Branch",
+          "city": "Sialkot",
+          "swift_code": "HABBPKKA166"
+        },
+        {
+          "branch_name": "Wah Cantt Branch",
+          "city": "Wah Cantt",
+          "swift_code": "HABBPKKA170"
+        },
+        {
+          "branch_name": "Main Market Gulberg Centre Branch",
+          "city": "Lahore",
+          "swift_code": "HABBPKKA172"
+        },
+        {
+          "branch_name": "Main Branch",
+          "city": "Mirpur",
+          "swift_code": "HABBPKKA190"
+        },
+        {
+          "branch_name": "Cantonment Branch",
+          "city": "Multan",
+          "swift_code": "HABBPKKA211"
+        },
+        {
+          "branch_name": "F T C Corporate Centre",
+          "city": "Karachi",
+          "swift_code": "HABBPKKA216"
+        },
+        {
+          "branch_name": "City Branch",
+          "city": "Peshawar",
+          "swift_code": "HABBPKKA223"
+        },
+        {
+          "branch_name": "Cantonment Branch",
+          "city": "Peshawar",
+          "swift_code": "HABBPKKA224"
+        },
+        {
+          "branch_name": "Jinnah Road Branch",
+          "city": "Quetta",
+          "swift_code": "HABBPKKA229"
+        },
+        {
+          "branch_name": "Centre Branch",
+          "city": "Lahore",
+          "swift_code": "HABBPKKA242"
+        },
+        {
+          "branch_name": "Corporate Centre",
+          "city": "Hyderabad",
+          "swift_code": "HABBPKKA260"
+        },
+        {
+          "branch_name": "Corporate Centre",
+          "city": "Multan",
+          "swift_code": "HABBPKKA270"
+        },
+        {
+          "branch_name": "Small Industrial Estate Branch",
+          "city": "Sialkot",
+          "swift_code": "HABBPKKA285"
+        },
+        {
+          "branch_name": "L D A Plaza Branch",
+          "city": "Lahore",
+          "swift_code": "HABBPKKA315"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Paris",
+          "swift_code": "HABBFRPPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "HABBKENXXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "HABBLBBEXXX"
+        }
+      ]
+    }
+  ]
+}

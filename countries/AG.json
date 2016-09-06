@@ -1,0 +1,187 @@
+{
+  "country_name": "Antigua and Barbuda",
+  "alpha_2": "AG",
+  "country_code": "028",
+  "banks": [
+    {
+      "bank_name": "V.t.i. Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. John's",
+          "swift_code": "VTIBAGA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trium Bank And Trust Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. John's",
+          "swift_code": "TBTLAGAGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbtt Bank Carribean Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. John ' S",
+          "swift_code": "RBTTAGAGXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Castries",
+          "swift_code": "RBTTLCLCXXX"
+        },
+        {
+          "branch_name": "Bequia",
+          "city": "Bequia",
+          "swift_code": "RBTTVCVC022"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kingstown",
+          "swift_code": "RBTTVCVCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pkb Privatbank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. John's",
+          "swift_code": "PKBSAGA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "North International Bank, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. John's",
+          "swift_code": "NOITAGAGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meinl Bank (antigua) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. John's",
+          "swift_code": "MBALAGAGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Government Of Antigua And Barbuda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. John's",
+          "swift_code": "GVABAGAGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Bank Of Commerce, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. John ' S",
+          "swift_code": "GBCLAGAGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eastern Caribbean Amalgamated Bank Ltd. (ecab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Coolidge",
+          "swift_code": "ECABAGAGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Davos International Bank, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. John's",
+          "swift_code": "DANLAGAGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caribbean Union Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. John's",
+          "swift_code": "CUNBAGAGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brs Banque S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. John's",
+          "swift_code": "BRSFAGAGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Boi Bank Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. John's",
+          "swift_code": "BOIBAGAGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Antigua Overseas Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. John ' S",
+          "swift_code": "AOBKAGAGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Antigua Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. John's",
+          "swift_code": "ANCBAGAGXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "St. John's",
+          "swift_code": "AOBAAGA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abi Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. John ' S",
+          "swift_code": "ANBIAGAGXXX"
+        }
+      ]
+    }
+  ]
+}

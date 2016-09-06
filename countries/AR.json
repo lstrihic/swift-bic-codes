@@ -1,0 +1,1617 @@
+{
+  "country_name": "Argentina",
+  "alpha_2": "AR",
+  "country_code": "032",
+  "banks": [
+    {
+      "bank_name": "Vw Argentina S.a.",
+      "branches": [
+        {
+          "branch_name": "Vw Argentina S.a.",
+          "city": "General",
+          "swift_code": "ARGNARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vanexva Bursatil Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "VNXBARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tutelar Compania Financiera S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "TUCFARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Transcambio S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "GFTCARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Transatlantica Sa",
+      "branches": [
+        {
+          "branch_name": "Transatlantica Sa",
+          "city": "Rosario",
+          "swift_code": "TRTNARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tavelli Y Cia.s.a.sociedad De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "TAVEARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "T.p.c.g. Capital S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "TPCGARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sbs Sociedad De Bolsa S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "SBSOARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronics Argentina S.a.",
+      "branches": [
+        {
+          "branch_name": "Seasa",
+          "city": "Buenos Aires",
+          "swift_code": "SECTARB1830"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "SECTARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Royal Bank Of Scotland Nv (suc Argentina",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "ABNAARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Raymond James Argentina Sociedad De Bolsa Sociedadanonima",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "RAJRARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rabello Y Cia S.a. Sociedad De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "RABCARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Puente Hnos. S.a.",
+      "branches": [
+        {
+          "branch_name": "Puente Hnos. S.a.",
+          "city": "Buenos Aires",
+          "swift_code": "CALPARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nuevo Banco Del Chaco S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BACHARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De La Pampa S.e.m.",
+      "branches": [
+        {
+          "branch_name": "6300 Santa Rosa",
+          "city": "Santa Rosa",
+          "swift_code": "PAMPARBA001"
+        },
+        {
+          "branch_name": "6360 General Pico",
+          "city": "General Pico",
+          "swift_code": "PAMPARBA200"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "PAMPARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De La Ciudad De Buenos Aires",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BACIARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Inversion Y Comercio Exterior S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BICXARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Galicia Y Buenos Aires",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "GABAARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Formosa S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Formosa",
+          "swift_code": "BFSAARBFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Corrientes S.a.",
+      "branches": [
+        {
+          "branch_name": "Banco De Corrientes S.a.",
+          "city": "Corrientes",
+          "swift_code": "BCORARBCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Credicoop Cooperativo Limitado",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BCOOARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Cooperativo Del Este Argentino Ltdo.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "CESTARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Comafi S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "QUILARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Columbia S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "CLLUARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Cmf S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "CMFBARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Central De La Republica Argentina",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BCRAARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bradesco Argentina S/a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BBDEARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "American Express Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "AEIBARB1XXX"
+        },
+        {
+          "branch_name": "Islamabad",
+          "city": "Islamabad",
+          "swift_code": "AEIBPKK1ISL"
+        },
+        {
+          "branch_name": "Lahore",
+          "city": "Lahore",
+          "swift_code": "AEIBPKK1LHE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "AEIBPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abaco Cia. Financiera S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "ACIAARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jpmorgan Chase Bank, N.A.",
+      "branches": [
+        {
+          "branch_name": "Test Key And Bke Administration",
+          "city": "Buenos Aires",
+          "swift_code": "CHASARBAKEY"
+        },
+        {
+          "branch_name": "N A Sucursal Buenos Aires-treasury Services",
+          "city": "Buenos Aires",
+          "swift_code": "CHASARBATSS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "CHASARBAXXX"
+        },
+        {
+          "branch_name": "Test Key And Bke Administration",
+          "city": "Manama",
+          "swift_code": "CHASBHBMKEY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "CHASBHBMXXX"
+        },
+        {
+          "branch_name": "Direct Custody And Clearing",
+          "city": "Sydney",
+          "swift_code": "CHASAU2XDCC"
+        },
+        {
+          "branch_name": "Jpmorgan Chase Bank Na, Sao Paulo Branch",
+          "city": "New York,Ny",
+          "swift_code": "CHASUS33BRA"
+        },
+        {
+          "branch_name": "New York Ny",
+          "city": "New York",
+          "swift_code": "CHASUS31HPQ"
+        },
+        {
+          "branch_name": "Multibank Reporting",
+          "city": "New York",
+          "swift_code": "CHASUS33ICM"
+        },
+        {
+          "branch_name": "Telex And S W I F T Message Enquiries",
+          "city": "Taipei",
+          "swift_code": "CHASTWTXENQ"
+        },
+        {
+          "branch_name": "Test Key And Bke Administration",
+          "city": "Taipei",
+          "swift_code": "CHASTWTXKEY"
+        },
+        {
+          "branch_name": "Trade Service Department",
+          "city": "Taipei",
+          "swift_code": "CHASTWTXTSD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CHASTWTXXXX"
+        },
+        {
+          "branch_name": "Corporate Actions Instructions",
+          "city": "Bournemouth",
+          "swift_code": "CHASGB21CAI"
+        },
+        {
+          "branch_name": "Acce Collateral Management",
+          "city": "London",
+          "swift_code": "CHASGB2LACM"
+        },
+        {
+          "branch_name": "Asset Management",
+          "city": "London",
+          "swift_code": "CHASGB2LMAM"
+        },
+        {
+          "branch_name": "Dcc Melbourne Swifts To Jpm Wss Tlm",
+          "city": "London",
+          "swift_code": "CHASGB2LMEL"
+        },
+        {
+          "branch_name": "Dcc New Zealand Swifts To Jpm Wss Tlm",
+          "city": "London",
+          "swift_code": "CHASGB2LNZL"
+        },
+        {
+          "branch_name": "Securities Lending",
+          "city": "London",
+          "swift_code": "CHASGB2LSEL"
+        },
+        {
+          "branch_name": "Global Custody Weekend Processing",
+          "city": "London",
+          "swift_code": "CHASGB2LWEP"
+        },
+        {
+          "branch_name": "Ib Non Custody Client",
+          "city": "London",
+          "swift_code": "CHASGB4LIBN"
+        },
+        {
+          "branch_name": "Threadneedle Investments",
+          "city": "Swindon",
+          "swift_code": "CHASGB4LTAM"
+        },
+        {
+          "branch_name": "Loans Operations Department",
+          "city": "Ho Chi Minh City",
+          "swift_code": "CHASVNVXAGY"
+        },
+        {
+          "branch_name": "Deposit Operations Department",
+          "city": "Ho Chi Minh City",
+          "swift_code": "CHASVNVXDEP"
+        },
+        {
+          "branch_name": "Payment Operations Department",
+          "city": "Ho Chi Minh City",
+          "swift_code": "CHASVNVXMTS"
+        },
+        {
+          "branch_name": "Fx Operations",
+          "city": "Ho Chi Minh City",
+          "swift_code": "CHASVNVXSFX"
+        },
+        {
+          "branch_name": "Global Market Operations Department",
+          "city": "Ho Chi Minh City",
+          "swift_code": "CHASVNVXTRO"
+        },
+        {
+          "branch_name": "Trade Operations Department",
+          "city": "Ho Chi Minh City",
+          "swift_code": "CHASVNVXTSD"
+        },
+        {
+          "branch_name": "Wholesale Customer Services Unit",
+          "city": "Ho Chi Minh City",
+          "swift_code": "CHASVNVXWCS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "CHASVNVXXXX"
+        },
+        {
+          "branch_name": "Private Banking",
+          "city": "Paris",
+          "swift_code": "CHASFRPPIPB"
+        },
+        {
+          "branch_name": "Trade Service Department",
+          "city": "Tokyo",
+          "swift_code": "CHASJPJTTSD"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De La Republica Oriental Del Uruguay",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BROUARBAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BROUBRSPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "New York,Ny",
+          "swift_code": "BROUUS33XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "BROUUYMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De La Provincia De Buenos Aires",
+      "branches": [
+        {
+          "branch_name": "Bahia Blanca Branch",
+          "city": "Bahia Blanca",
+          "swift_code": "PRBAARBABAH"
+        },
+        {
+          "branch_name": "Departamento De Contabilidad International Branch",
+          "city": "Buenos Aires",
+          "swift_code": "PRBAARBADIV"
+        },
+        {
+          "branch_name": "La Plata House",
+          "city": "La Plata",
+          "swift_code": "PRBAARBALPT"
+        },
+        {
+          "branch_name": "7600 Mar Del Plata",
+          "city": "Mar Del Plata",
+          "swift_code": "PRBAARBAMP1"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "PRBAARBAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "PRBABRSPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "PRBACLR1XXX"
+        },
+        {
+          "branch_name": "Grand Cayman Branch",
+          "city": "Georgetown Pa",
+          "swift_code": "PRBAKYKYXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "PRBAESM1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "PRBAVEC1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "PRBAPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De La Nacion Argentina",
+      "branches": [
+        {
+          "branch_name": "Bahia Blanca Branch",
+          "city": "Bahia Blanca",
+          "swift_code": "NACNARBABAH"
+        },
+        {
+          "branch_name": "Casa Central",
+          "city": "Buenos Aires",
+          "swift_code": "NACNARBACCL"
+        },
+        {
+          "branch_name": "Concordia Branch",
+          "city": "Concordia",
+          "swift_code": "NACNARBACON"
+        },
+        {
+          "branch_name": "Cordoba Branch",
+          "city": "Cordoba",
+          "swift_code": "NACNARBACOR"
+        },
+        {
+          "branch_name": "Corrientes Branch",
+          "city": "Corrientes",
+          "swift_code": "NACNARBACTS"
+        },
+        {
+          "branch_name": "Mendoza Branch",
+          "city": "Mendoza",
+          "swift_code": "NACNARBAMEN"
+        },
+        {
+          "branch_name": "Mar Del Plata Branch",
+          "city": "Mar Del Plata",
+          "swift_code": "NACNARBAMPL"
+        },
+        {
+          "branch_name": "Neuquen Branch",
+          "city": "Neuquen",
+          "swift_code": "NACNARBANEU"
+        },
+        {
+          "branch_name": "Pergamino Branch",
+          "city": "Pergamino",
+          "swift_code": "NACNARBAPER"
+        },
+        {
+          "branch_name": "Posadas Branch",
+          "city": "Posadas",
+          "swift_code": "NACNARBAPOS"
+        },
+        {
+          "branch_name": "Rafaela Branch",
+          "city": "Rafaela",
+          "swift_code": "NACNARBARAF"
+        },
+        {
+          "branch_name": "Rio Cuarto Branch",
+          "city": "Rio Cuarto",
+          "swift_code": "NACNARBARCU"
+        },
+        {
+          "branch_name": "Reconquista Branch",
+          "city": "Reconquista",
+          "swift_code": "NACNARBAREC"
+        },
+        {
+          "branch_name": "Rosario Branch",
+          "city": "Rosario",
+          "swift_code": "NACNARBAROS"
+        },
+        {
+          "branch_name": "Salta Branch",
+          "city": "Salta",
+          "swift_code": "NACNARBASAL"
+        },
+        {
+          "branch_name": "Santa Fe Branch",
+          "city": "Santa Fe",
+          "swift_code": "NACNARBASFE"
+        },
+        {
+          "branch_name": "San Juan Branch",
+          "city": "San Juan",
+          "swift_code": "NACNARBASJU"
+        },
+        {
+          "branch_name": "San Miguel De Tucuman Branch",
+          "city": "San Miguel De Tucuman",
+          "swift_code": "NACNARBASMT"
+        },
+        {
+          "branch_name": "San Rafael Branch",
+          "city": "San Rafael",
+          "swift_code": "NACNARBASRA"
+        },
+        {
+          "branch_name": "Villa Maria Branch",
+          "city": "Villa Maria",
+          "swift_code": "NACNARBAVMA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "NACNARBAXXX"
+        },
+        {
+          "branch_name": "Sucursal Rio De Janeiro",
+          "city": "Rio De Janeiro",
+          "swift_code": "NACNBRSPRJO"
+        },
+        {
+          "branch_name": "Sucursal San Paulo",
+          "city": "Sao Paulo",
+          "swift_code": "NACNBRSPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Santa Cruz De La Sierra",
+          "swift_code": "NACNBOLPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "NACNCLRMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "New York,Ny",
+          "swift_code": "NACNUS33XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "NACNUYMMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "NACNPAPAXXX"
+        },
+        {
+          "branch_name": "Villarrica",
+          "city": "Villarrica",
+          "swift_code": "NACNPYPA0P3"
+        },
+        {
+          "branch_name": "Concepcion",
+          "city": "Concepcion",
+          "swift_code": "NACNPYPA0PC"
+        },
+        {
+          "branch_name": "Encarnacion",
+          "city": "Encarnacion",
+          "swift_code": "NACNPYPA0PE"
+        },
+        {
+          "branch_name": "Sucursal Asuncion",
+          "city": "Asuncion",
+          "swift_code": "NACNPYPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nuevo Banco De Santa Fe S.a.",
+      "branches": [
+        {
+          "branch_name": "Rosario",
+          "city": "Rosario",
+          "swift_code": "BPSFARBA000"
+        },
+        {
+          "branch_name": "Santa Fe",
+          "city": "Santa Fe",
+          "swift_code": "BPSFARBA500"
+        },
+        {
+          "branch_name": "San Juan",
+          "city": "San Juan",
+          "swift_code": "BPSFARBAA45"
+        },
+        {
+          "branch_name": "Rio Gallegos",
+          "city": "Rio Gallegos",
+          "swift_code": "BPSFARBAA86"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BPSFARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nuevo Banco De Entre Rios S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Parana (entre Rios",
+          "swift_code": "BERAARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Patagonia S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BSUDARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion De Servicios Financieros S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "FSERARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Casa Lerchundi Sacif",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cordoba",
+          "swift_code": "CALSARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Markets",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "CAKRARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cambio Santiago Sa",
+      "branches": [
+        {
+          "branch_name": "Cambio Santiago Sa",
+          "city": "Mendoza",
+          "swift_code": "CSNTARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cambio Garcia Navarro, Ramaglio Y Cia. S.a.",
+      "branches": [
+        {
+          "branch_name": "Cambio Garcia Navarro, Ramaglio Y Cia. S.a.",
+          "city": "Mar Del Plata",
+          "swift_code": "CGNRARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cambio Excursiones Turismo Columbus S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "COLUARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja De Valores S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "CAVLARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Boston Inversora De Valores S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BOIVARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bolsa De Comercio Rosario",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rosario",
+          "swift_code": "XROSARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas-succursale De Buenos Aires",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BNPAARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bbva-banco Frances S.a.",
+      "branches": [
+        {
+          "branch_name": "7600 Mar Del Plata",
+          "city": "Mar Del Plata",
+          "swift_code": "BFRPARB10B6"
+        },
+        {
+          "branch_name": "3230 Paso De Los Libres",
+          "city": "Paso De Los Libres",
+          "swift_code": "BFRPARB10B7"
+        },
+        {
+          "branch_name": "5000 Cordoba",
+          "city": "Cordoba",
+          "swift_code": "BFRPARB10BC"
+        },
+        {
+          "branch_name": "2000 Rosario",
+          "city": "Rosario",
+          "swift_code": "BFRPARB10BR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BFRPARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankers Trust Rio De La Plata Sacf",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BKTRARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankers Trust Argentina S.a., Sociedad De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BTABARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Supervielle",
+      "branches": [
+        {
+          "branch_name": "Operaciones Centralizadas",
+          "city": "Buenos Aires",
+          "swift_code": "BSUPARBADOC"
+        },
+        {
+          "branch_name": "Dto Comercio Exterior",
+          "city": "Buenos Aires",
+          "swift_code": "BSUPARBAEXT"
+        },
+        {
+          "branch_name": "Dto Operaciones De Mercado",
+          "city": "Buenos Aires",
+          "swift_code": "BSUPARBAFIN"
+        },
+        {
+          "branch_name": "Dto Operaciones De Titulos",
+          "city": "Buenos Aires",
+          "swift_code": "BSUPARBATIT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BSUPARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Santander Rio S.a.",
+      "branches": [
+        {
+          "branch_name": "Securities Services System",
+          "city": "Buenos Aires",
+          "swift_code": "BSCHARBASSS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BSCHARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Saenz S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BSAEARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Roela S.a.",
+      "branches": [
+        {
+          "branch_name": "Sucursal Alem",
+          "city": "Cordoba",
+          "swift_code": "ROEBARB10B2"
+        },
+        {
+          "branch_name": "Sucursal Justo",
+          "city": "Cordoba",
+          "swift_code": "ROEBARB10B3"
+        },
+        {
+          "branch_name": "Sucursal San Martin",
+          "city": "Cordoba",
+          "swift_code": "ROEBARB10B4"
+        },
+        {
+          "branch_name": "1048 Buenos Aires",
+          "city": "Buenos Aires",
+          "swift_code": "ROEBARB10BA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cordoba",
+          "swift_code": "ROEBARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Provincia De Tierra Del Fuego",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "TTFAARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Piano S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BAPIARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Municipal De Rosario",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rosario",
+          "swift_code": "MUNRARBRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Meridian S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BMRDARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Mercurio S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "CMERARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Mariva S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "MARIARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Macro S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BOSUARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Itau Argentina S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "ITAUARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Interfinanzas S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BIINARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Interamericano De Desarrollo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "IDESARB1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "BOIDCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Industrial S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "NBIAARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Hipotecario S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BHIPARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Finansur S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BFSUARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Del Tucuman S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Miguel De Tucuman",
+          "swift_code": "BDTUARBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Del Chubut S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BPCHARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Valores",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BAVAARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Servicios Y Transacciones Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BSTIARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Santa Cruz S A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio Gallegos",
+          "swift_code": "BPSCARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De San Juan Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Juan",
+          "swift_code": "BSJUARBJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De La Provincia Del Neuquen S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BPNEARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De La Provincia De Cordoba",
+      "branches": [
+        {
+          "branch_name": "Gerencia De Comercio Exterior",
+          "city": "Cordoba",
+          "swift_code": "CORDARBACOR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "CORDARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Multifinanzas Compania Financiera S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "MFCFARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moody's Latin America, Calificadora De Riesgo S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "MLACARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Montemar Compania Financiera S.a.",
+      "branches": [
+        {
+          "branch_name": "San Juan",
+          "city": "San Juan",
+          "swift_code": "MCFIARB10B3"
+        },
+        {
+          "branch_name": "San Rafael",
+          "city": "San Rafael",
+          "swift_code": "MCFIARB10BS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Mendoza",
+          "swift_code": "MCFIARB1XXX"
+        },
+        {
+          "branch_name": "Montemar Compania Financiera S.a.",
+          "city": "Mendoza",
+          "swift_code": "MCFIARBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Metropolis Compania Financiera S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "MCFAARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merchant Bank Argentina",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "MEARARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercado De Valores De Buenos Aires Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "XBUEARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercado De Valores De Buenos Aires S.a.-merval",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "XMEVARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mba Banco De Inversiones Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "MBINARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inversur S.r.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Tome",
+          "swift_code": "INVEARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inversora S.a. Compania Financiera",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "La Plata",
+          "swift_code": "CFINARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inversiones Unidas S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "INUNARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inversionaria Argentina S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "IANAARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial And Commercial Bank Of China (argentina)s.a.",
+      "branches": [
+        {
+          "branch_name": "Global Custody Department",
+          "city": "Buenos Aires",
+          "swift_code": "ICBKARBAGCD"
+        },
+        {
+          "branch_name": "Industrial And Commercial Bank Of China (argentina)s.a.",
+          "city": "Buenos Aires",
+          "swift_code": "ICBKARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank Argentina Sa",
+      "branches": [
+        {
+          "branch_name": "3000 Santa Fe",
+          "city": "Santa Fe",
+          "swift_code": "BACOARB1022"
+        },
+        {
+          "branch_name": "1832 Lomas De Zamora",
+          "city": "Lomas De Zamora",
+          "swift_code": "BACOARB1023"
+        },
+        {
+          "branch_name": "Resistencia Branch",
+          "city": "Resistencia",
+          "swift_code": "BACOARB1024"
+        },
+        {
+          "branch_name": "5500 Mendoza",
+          "city": "Mendoza",
+          "swift_code": "BACOARB10B2"
+        },
+        {
+          "branch_name": "Rosario",
+          "city": "Rosario",
+          "swift_code": "BACOARB10B3"
+        },
+        {
+          "branch_name": "Salta",
+          "city": "Salta",
+          "swift_code": "BACOARB10B4"
+        },
+        {
+          "branch_name": "San Miguel De Tucuman",
+          "city": "San Miguel De Tucuman",
+          "swift_code": "BACOARB10B5"
+        },
+        {
+          "branch_name": "Concepcion Branch",
+          "city": "Concepcion Del Uruguay",
+          "swift_code": "BACOARB10B6"
+        },
+        {
+          "branch_name": "Avellaneda Branch",
+          "city": "Avellaneda",
+          "swift_code": "BACOARB10B7"
+        },
+        {
+          "branch_name": "Alto Palermo Branch",
+          "city": "Buenos Aires",
+          "swift_code": "BACOARB10B8"
+        },
+        {
+          "branch_name": "Avenida De Mayo Branch",
+          "city": "Buenos Aires",
+          "swift_code": "BACOARB10BB"
+        },
+        {
+          "branch_name": "5000 Cordoba",
+          "city": "Cordoba",
+          "swift_code": "BACOARB10BC"
+        },
+        {
+          "branch_name": "Belgrano Branch",
+          "city": "Buenos Aires",
+          "swift_code": "BACOARB10BD"
+        },
+        {
+          "branch_name": "Cabildo Branch",
+          "city": "Buenos Aires",
+          "swift_code": "BACOARB10BE"
+        },
+        {
+          "branch_name": "Centro Branch",
+          "city": "Buenos Aires",
+          "swift_code": "BACOARB10BF"
+        },
+        {
+          "branch_name": "Constitucion Branch",
+          "city": "Buenos Aires",
+          "swift_code": "BACOARB10BG"
+        },
+        {
+          "branch_name": "Florida Branch",
+          "city": "Florida",
+          "swift_code": "BACOARB10BH"
+        },
+        {
+          "branch_name": "La Plata Branch",
+          "city": "La Plata",
+          "swift_code": "BACOARB10BI"
+        },
+        {
+          "branch_name": "Las Heras Branch",
+          "city": "Buenos Aires",
+          "swift_code": "BACOARB10BJ"
+        },
+        {
+          "branch_name": "Liniers Branch",
+          "city": "Buenos Aires",
+          "swift_code": "BACOARB10BK"
+        },
+        {
+          "branch_name": "Mar Del Plata Branch",
+          "city": "Mar Del Plata",
+          "swift_code": "BACOARB10BL"
+        },
+        {
+          "branch_name": "Nunez Branch",
+          "city": "Buenos Aires",
+          "swift_code": "BACOARB10BM"
+        },
+        {
+          "branch_name": "Olivos Branch",
+          "city": "Olivos",
+          "swift_code": "BACOARB10BN"
+        },
+        {
+          "branch_name": "Once Branch",
+          "city": "Buenos Aires",
+          "swift_code": "BACOARB10BP"
+        },
+        {
+          "branch_name": "Palermo Branch",
+          "city": "Buenos Aires",
+          "swift_code": "BACOARB10BQ"
+        },
+        {
+          "branch_name": "Saavedra Branch",
+          "city": "Buenos Aires",
+          "swift_code": "BACOARB10BR"
+        },
+        {
+          "branch_name": "San Fernando Branch",
+          "city": "San Fernando",
+          "swift_code": "BACOARB10BS"
+        },
+        {
+          "branch_name": "San Isidro Branch",
+          "city": "San Isidro",
+          "swift_code": "BACOARB10BT"
+        },
+        {
+          "branch_name": "San Martin Branch",
+          "city": "San Martin",
+          "swift_code": "BACOARB10BU"
+        },
+        {
+          "branch_name": "Shopping Soleil Branch",
+          "city": "Boulogne-sur-mer",
+          "swift_code": "BACOARB10BV"
+        },
+        {
+          "branch_name": "Tribunales Branch",
+          "city": "Buenos Aires",
+          "swift_code": "BACOARB10BW"
+        },
+        {
+          "branch_name": "Vicente Lopez Branch",
+          "city": "Vicente Lopez",
+          "swift_code": "BACOARB10BY"
+        },
+        {
+          "branch_name": "Villa Crespo Branch",
+          "city": "Buenos Aires",
+          "swift_code": "BACOARB10BZ"
+        },
+        {
+          "branch_name": "Capital Markets Department",
+          "city": "Buenos Aires",
+          "swift_code": "BACOARBARCM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BACOARBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Garcia Navarroy Cia. S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bahia Blanca",
+          "swift_code": "GANCARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fitch Argentina Calificadora De Riesgo S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "FRIPARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera Buenos Aires S.a.l. Y C.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "BUEAARB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buenos Aires",
+          "swift_code": "DEUTARBAXXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "country_name": "Armenia",
+  "alpha_2": "AM",
+  "country_code": "051",
+  "banks": [
+    {
+      "bank_name": "Vtb Bank (armenia) Cjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yerevan",
+          "swift_code": "ARMJAM22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unibank C.j.s.c",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yerevan",
+          "swift_code": "UNIJAM22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Promethey Bank Llc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yerevan",
+          "swift_code": "PRMLAM22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Procredit Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yerevan",
+          "swift_code": "PRCBAM22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ineco Joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yerevan",
+          "swift_code": "INJSAM22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank Armenia (formerly Midland Armenia Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yerevan",
+          "swift_code": "MIDLAM22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Haypost Cjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yerevan",
+          "swift_code": "HACJAM21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit-service Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yerevan",
+          "swift_code": "CRDTAM21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Converse Bank Cjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yerevan",
+          "swift_code": "COVBAM22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Armenia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yerevan",
+          "swift_code": "CBRAAM22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Byblos Bank Armenia Cjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yerevan",
+          "swift_code": "BYBAAM22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bta Bank Cjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yerevan",
+          "swift_code": "BTAIAM22XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "AEBKBY2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Artsakhbank Cjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yerevan",
+          "swift_code": "ARTSAM22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Armswissbank Cjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yerevan",
+          "swift_code": "ARSJAM22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Armenian Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yerevan",
+          "swift_code": "ARDEAM22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Armeconombank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yerevan",
+          "swift_code": "ARECAM22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Armbusinessbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yerevan",
+          "swift_code": "ARMNAM22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Areximbank-gazprombank Group Closed Joint-stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yerevan",
+          "swift_code": "RKASAM22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ardshininvest Bank Cjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yerevan",
+          "swift_code": "ASHBAM22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Araratbank Ojsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yerevan",
+          "swift_code": "ARMCAM22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Anelik Bank Cjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yerevan",
+          "swift_code": "ANIKAM22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ameriabank (formerly Armimpexbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yerevan",
+          "swift_code": "ARMIAM22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Acba-credit Agricole Bank Cjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yerevan",
+          "swift_code": "AGCAAM22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Depository Of Armenia Ojsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yerevan",
+          "swift_code": "CDAMAM22XXX"
+        }
+      ]
+    }
+  ]
+}

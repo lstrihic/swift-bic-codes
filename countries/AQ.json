@@ -1,0 +1,102 @@
+{
+  "country_name": "Anguilla",
+  "alpha_2": "AI",
+  "country_code": "660",
+  "banks": [
+    {
+      "bank_name": "Scotiabank Anguilla Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "The Valley",
+          "swift_code": "NOSCAIAIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Anguilla Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "The Valley",
+          "swift_code": "ANGUAIAIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Government Of Anguilla",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "The Valley",
+          "swift_code": "GVANAIAIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Firstcaribbean International Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "The Valley",
+          "swift_code": "FCIBAIAIXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "St. John's",
+          "swift_code": "FCIBAGAGXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Belize City",
+          "swift_code": "FCIBBZBZXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Basseterre",
+          "swift_code": "FCIBKNSKXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Castries",
+          "swift_code": "FCIBLCLCXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kingstown",
+          "swift_code": "FCIBVCVCXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Philipsburg",
+          "swift_code": "FCIBSXSMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tortola",
+          "swift_code": "FCIBVGVGXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Roseau",
+          "swift_code": "FCIBDMDMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "St. George's",
+          "swift_code": "FCIBGDGDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caribbean Commercial Bank (ang) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "The Valley",
+          "swift_code": "CABNAIAIXXX"
+        }
+      ]
+    }
+  ]
+}
