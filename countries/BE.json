@@ -1,0 +1,4452 @@
+{
+  "country_name": "Belgium",
+  "alpha_2": "BE",
+  "country_code": "056",
+  "banks": [
+    {
+      "bank_name": "Leen-en Depositokas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ieper",
+          "swift_code": "LEDSBE81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ledent En Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Knokke-heist",
+          "swift_code": "LDENBE81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Le Peigne",
+      "branches": [
+        {
+          "branch_name": "Le Peigne",
+          "city": "Brussels",
+          "swift_code": "LPEIBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lazard Freres Gestion Belgique",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "LFGBBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lawaisse Philippe En Co, Gcv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kortrijk",
+          "swift_code": "LWAIBE81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "La Cambre Funds Bruxelles",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "CAFXBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Krefima N.v./s.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "KREFBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kempen En Co. Belgie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "KECOBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kbc Lease Holding Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Leuven",
+          "swift_code": "FDCOBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Zoetis Treasury Center Bvba Financial Department",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zaventem",
+          "swift_code": "ZOETBEBBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Zaventem",
+          "swift_code": "ZOETBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Upar",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "UPANBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Royal Park Investments",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "RPINBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Njr Investment",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "NJRIBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nedee And Co C.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "NEDEBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nateus Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "NANLBE21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "NANLBE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "N.v. Creditmar",
+      "branches": [
+        {
+          "branch_name": "Maatschappelijke Zetel",
+          "city": "Antwerpen",
+          "swift_code": "CRARBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Munters Roger Et Cie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "MUROBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Monabanq Societe Anonyme",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tournai",
+          "swift_code": "COVEBE71XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mkg-bank Belgien (branch Of Mce Bank Gmbh",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kontich",
+          "swift_code": "MBBMBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mignon Hanart Declerck Sprl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "MDELBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Michel Goffin Et Cie S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "MIGOBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merit Capital",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Berchem",
+          "swift_code": "MEPTBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Melis En Co, Vof",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Melsele",
+          "swift_code": "MELSBE91XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Melice Et Cie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "MELCBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Medirect Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "MBWMBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mapfre Re",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "MPPFBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Loginvest Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "LOGIBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Loge Et Associes, Sprl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "LOGEBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Liekens R.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "LIEKBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Leo Stevens En Cie Bvba",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "LSTVBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Leleux Partners Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "LEPSBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Leleux Associated Brokers Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Soignies",
+          "swift_code": "JLECBE71XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ronflette Et Cie, Sprl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Charleroi",
+          "swift_code": "RONFBE61XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Robeco",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "RBCOBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Riga Et Cie, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wavre",
+          "swift_code": "RIGABEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Reyers Beauvois De Villenfagne Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "RETSBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Remy Freres Et Fils S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "REFFBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rampelbergs Et Cie Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "RMPLBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rabobank International Antwerp Branch-corporate Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Berchem",
+          "swift_code": "RABOBE23XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "R.b. Et F. Ropsy Et Cie, Sprl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "ROPSBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "R. Havaux Et Cie, Scs",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "HAVABEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Q-park Financial Services Nv",
+      "branches": [
+        {
+          "branch_name": "Q-park Financial Services Nv",
+          "city": "Diegem",
+          "swift_code": "QPFSBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Procapital Belgium",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "PBELBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pire Et Cie Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Charleroi",
+          "swift_code": "PIREBE61XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ph. Et Y. De Coster Sprl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "PYDEBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "P.e. Securities, Sprl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "PESCBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "P. Spriet En Co, Bvba",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "SPRIBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "P And V Assurances",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "ASUUBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orbit Private Asset Management Sarl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "OPAABE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Option Trading Company Sa/nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "OTCSBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Omega Pharma Capital Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nazareth",
+          "swift_code": "OMEGBE9AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "U.b.b., Sc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "SUBCBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tunz.com",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "TUNZBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trax Naamloze Vennootschap",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mechelen",
+          "swift_code": "TRAXBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thieren En Co, Veg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "THIEBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thibaut Luc En Co Financiers Nw",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "THLFBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tessenderlo Chemie Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "MMMVBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Succursale Credit Foncier De France",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "CFFRBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stora Finacial Services (brussels",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "SFSRBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Street Bank Europe Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "SBOSBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sofiholding Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "SOFIBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Financiere G.p. Philippson Et Co Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "SOFPBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Financiere Et Fonciere",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "SOFFBEB1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "New York",
+          "swift_code": "SOFFUS31XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Geneva",
+          "swift_code": "SOFFCHG1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "SOFFESM1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Amsterdam",
+          "swift_code": "SOFFNL21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Frankfurt Am Main",
+          "swift_code": "SOFFDEF1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Financiere Et De Gestion Texaf Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "TSFGBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sirius International Insurance Corp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Liege",
+          "swift_code": "SIIIBE41XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sibeka, Societe D'entreprise Et D'investissements Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "SSDDBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Schretlen And Co. N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "SCRTBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saxo Bank Belgique",
+      "branches": [
+        {
+          "branch_name": "Saxo Bank Belgique",
+          "city": "Brussels",
+          "swift_code": "SAXBBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronics Benelux Belgium",
+      "branches": [
+        {
+          "branch_name": "Sebn-b",
+          "city": "Vilvoorde",
+          "swift_code": "SECTBEB14B2"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Vilvoorde",
+          "swift_code": "SECTBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sagip S.a. (s.a. De Gestion, D'investissement Et De Participation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BNPABEBSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wullaert En Co Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "YWULBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wpp Group Services Snc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "WPPGBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Winterthur Assurances",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "WIAUBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Weghsteen En Driege Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gent",
+          "swift_code": "WBDWBE91XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Weekers Et Partners, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "WEEKBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wal.agri Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sombreffe",
+          "swift_code": "WALGBE61XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wabco Financial Services Bvba",
+      "branches": [
+        {
+          "branch_name": "Wabco Financial Services Bvba",
+          "city": "Brussels",
+          "swift_code": "WABCBEBBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "WABCBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Volkswagen Finance Belgium",
+      "branches": [
+        {
+          "branch_name": "Volkswagen Finance Belgium",
+          "city": "Brussels",
+          "swift_code": "VOFBBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Viatour, De Cock, Hermesse Et Deblanc, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Liege",
+          "swift_code": "VDHDBE41XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Verhaegen, Goossens, De Roeck En Co Naamloze Vennootschap",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "VEGRBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vercammen En Co, Cgv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lier",
+          "swift_code": "VCAMBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vanherreweghe",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "VANHBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Van Herreweghe, Sprl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "VHRRBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Van Goolen En Co Bvba",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "VOBVBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Van Goethem En Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "VGOEBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Van Glabbeek En Co Bvba Beursvennootschap",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "VGLABE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Van De Put En Co, Effectenbank-banque De Titres",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "VAPEBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Van Bauwel And Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "BAUWBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "V. Hermans, Sprl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "VHERBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J. Quatannens En Co Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Anzegem",
+          "swift_code": "QUATBE81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Isabel Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "ISAZBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Iris Securities, Ste. Coop.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "IRISBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Bank Nv Belgian Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "INGBBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hypotheekmaatschappij De Beide Vlaanderen Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kortemark",
+          "swift_code": "HYBVBE81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hypotheek-, Beleggingsmaatschappij En Spaarbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "HBMSBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hulpkas Voor Volkskrediet N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Aalst",
+          "swift_code": "HUVVBE91XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Houlihan Rovers S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "HNRSBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hewlett-packard Coordination Center C.v.b.a./s.c.r.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "HCCCBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hewlett-packard Belgium S.p.r.l./ B.v.b.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "HEBBBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Group S-sociaal Secretariaat V.z.w",
+      "branches": [
+        {
+          "branch_name": "Group S-sociaal Secretariaat V.z.w",
+          "city": "Brussels",
+          "swift_code": "GSSSBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Binckbank Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "BIBLBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bhw Bausparkasse Ag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BHBEBEB1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Verona",
+          "swift_code": "BHBEIT22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Beurs Van Antwerpen (antwerp Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "XANTBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bemo Holding Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BEMBBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Belhyperion",
+      "branches": [
+        {
+          "branch_name": "Belhyperion",
+          "city": "Brussels",
+          "swift_code": "BELHBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Belgian National Registry",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BENGBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Beeckmans, Van Gaver Et Cie, Scs",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "BGHVBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Baudoux Vertongen Et Cie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BAUVBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Internationale A Luxembourg Belgisch Bijka Ntoor / Succursale De Belgique",
+      "branches": [
+        {
+          "branch_name": "Banque Internationale A Luxembourg Belgisch Bijka Ntoor / Succursale De Belgique",
+          "city": "Brussels",
+          "swift_code": "BILLBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Dreze",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Verviers",
+          "swift_code": "BDREBE41XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De Luxembourg, Succursale De Belgique",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Arlon",
+          "swift_code": "BLUXBE41XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Centrale Populaire Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BCPOBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Bcp S.a. Luxembourg-succursale De Belgique",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BMECBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of New York (luxembourg)sa, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "IRVTBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bancontact-mistercash Sa/nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BCMCBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "B And Bt Nv",
+      "branches": [
+        {
+          "branch_name": "Wommelgem",
+          "city": "Antwerpen",
+          "swift_code": "BNDDBE21326"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "BNDDBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Axa Belgium",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Watermael",
+          "swift_code": "AXBIBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aveve Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Merksem",
+          "swift_code": "AVEVBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Auxifina Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "AUXIBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Audi Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "AUETBE21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "AUETBE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Goffin-lannoy Et Cie, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "GOLABEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dierickx Leys En Cie Effectenbank Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "DIERBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chevron Phillips Chemicals International Nv",
+      "branches": [
+        {
+          "branch_name": "Chevron Phillips Chemicals International Nv",
+          "city": "Overijse",
+          "swift_code": "CPCHBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Century Investment",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "CEIPBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Centre For Exchange And Clearing",
+      "branches": [
+        {
+          "branch_name": "1040 Brussels",
+          "city": "Brussels",
+          "swift_code": "BCSMBEB1STT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BCSMBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Centrale Kredietverlening",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Waregem",
+          "swift_code": "CEKVBE81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Centea",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "HSAABE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cels Securities N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "GUSEBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caterpillar Finance France Sa",
+      "branches": [
+        {
+          "branch_name": "Succursale Belge",
+          "city": "Brussels",
+          "swift_code": "CAFFBEB1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Saint Denis",
+          "swift_code": "CAFFFR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carrefour Finance Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "CAFIBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cardif Leven",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "CAFVBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital And Finance Asset Management Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "CFENBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caisse D'epargne La Famille",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "FCECBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caisse D'epargne De La Ville De Nivelles",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nivelles",
+          "swift_code": "CEVNBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brussels Exchanges Clearing House Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "XBFOBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brugs Leenkrediet Bvba",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BRLEBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Branquart Costermans Securities Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BCSEBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bpost Banque Bpost Bank Bpost Bank",
+      "branches": [
+        {
+          "branch_name": "Restricted Use",
+          "city": "Brussels",
+          "swift_code": "BPOTBEB1ISA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BPOTBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bny Mellon Csd Sa/nv",
+      "branches": [
+        {
+          "branch_name": "Bny Mellon Csd Sa/nv",
+          "city": "Brussels",
+          "swift_code": "GCSDBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Private Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BPPBBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bkcp Securities Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Knokke-heist",
+          "swift_code": "BUSSBE81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bioparticipations Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Marquain",
+          "swift_code": "BIOABE71XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dexia Securities Belgium Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BASCBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank A.g.",
+      "branches": [
+        {
+          "branch_name": "Brussels",
+          "city": "Brussels",
+          "swift_code": "DEUTBEBEUNP"
+        }
+      ]
+    },
+    {
+      "bank_name": "Delta Beursvennootschap, Bvba",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gent",
+          "swift_code": "BONVBE91XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Delande Et Cie Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "DELNBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Degroof Securities, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "DEGFBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Declercq And Co G.c.v. Beursvennootschap",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "DEGBBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "De Posson Et Cie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "POSSBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "De Mulder",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beerse",
+          "swift_code": "DMULBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "De Moffarts, Rolin Jacquemyns S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "MOFFBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "De Buck En Cie N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gent",
+          "swift_code": "DBUCBE91XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "De Boodt Et Cie, Gcv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "DBOOBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Davenport Vermogensbeheer Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Roeselare",
+          "swift_code": "DAVRBE81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Damien Courtens, Sprl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "DAMCBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credishop S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "CREPBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credimo N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asse",
+          "swift_code": "CREOBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credibe Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "OCCHBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cm-cic Belgium",
+      "branches": [
+        {
+          "branch_name": "Cm-cic Banque Transatlantique",
+          "city": "Brussels",
+          "swift_code": "CMCIBEB1BTB"
+        },
+        {
+          "branch_name": "Cm-cic Securities Belgium",
+          "city": "Diegem",
+          "swift_code": "CMCIBEB1SEC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "CMCIBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clearnet Brussels Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "CLIQBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Choppinet Sprl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "CHOCBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Goethals En Co, Gcv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Aalst",
+          "swift_code": "GOETBE91XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gestrabel, Sprl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "GEBLBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fuji Bank, Ltd., The, Brussels Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "FUJIBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fps Health",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "FPHEBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortuneo Belgium",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "FTNOBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ford Credit Europe Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "FORDBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finpartner",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Berchem",
+          "swift_code": "FNNPBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finacor",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "FINRBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "F. Van Lanschot Bankiers N.v. Belgisch Bijkantoor",
+      "branches": [
+        {
+          "branch_name": "F. Van Lanschot Bankiers N.v. Belgisch Bijkantoor",
+          "city": "Antwerpen",
+          "swift_code": "FVLBBE2EXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "F. Delcour, A. Vancrayebeck Et F. Sacre, Sprl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Liege",
+          "swift_code": "DEVSBE41XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Euronext Brussels Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "ENXBBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Euroclear Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "TRGGBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ethias Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Liege",
+          "swift_code": "NAETBE21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Liege",
+          "swift_code": "NAETBE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Etex S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "ETEXBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Es Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "SECUBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Energy Europe Invest",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "ENEIBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Electrabel Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "ELERBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Easdaq S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "XEASBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Driege En Co, Bvba",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gent",
+          "swift_code": "DRIEBE91XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Chaabi Du Maroc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BCDMBEBBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BCDMBEB1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Amsterdam",
+          "swift_code": "BCDMNL22XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ng Amsterdam",
+          "swift_code": "BCDMNL21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Paris",
+          "swift_code": "BCDMFRPPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Milano",
+          "swift_code": "BCDMITM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of China (Luxembourg) S.A. Brussels Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BKCHBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Baroda (Brussels Branch)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BARBBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of America, N.A. Antwerp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "BOFABE3XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank J. Van Breda And Co Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "JVBABE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Delen Nv",
+      "branches": [
+        {
+          "branch_name": "Antwerpen",
+          "city": "Antwerpen",
+          "swift_code": "DELEBE22NRA"
+        },
+        {
+          "branch_name": "Antwerpen",
+          "city": "Antwerpen",
+          "swift_code": "DELEBE22THE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "DELEBE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Santander Central Hispano",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BSCHBEBRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bilbao Vizcaya Argentaria S.A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BBVABEBBXXX"
+        },
+        {
+          "branch_name": "Treasury Department",
+          "city": "Madrid",
+          "swift_code": "BBVAESMMFXD"
+        },
+        {
+          "branch_name": "For All Remaining Unlisted Branches",
+          "city": "Madrid",
+          "swift_code": "BBVAESMMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "BBVATWTPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "BBVAGB2LXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Frankfurt Am Main",
+          "swift_code": "BBVADEFFXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Milano",
+          "swift_code": "BBVAITMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Monte Paschi Belgio",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BMPBBEBBXXX"
+        },
+        {
+          "branch_name": "Brussels",
+          "city": "Brussels",
+          "swift_code": "BMPBBEBBTGT"
+        }
+      ]
+    },
+    {
+      "bank_name": "Axa Bank Europe (Formerly Axa Bank Belgium)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Berchem",
+          "swift_code": "AXABBE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Attijariwafa Bank (Formerly Wafabank)",
+      "branches": [
+        {
+          "branch_name": "Antwerpen",
+          "city": "Antwerpen",
+          "swift_code": "WAFABEBBANT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "WAFABEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atos Worldline",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "ATWSBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Argenta",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "ARSPBE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Antwerpse Diamantbank N.V.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "ADIABE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Accord",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "La Hulpe",
+          "swift_code": "ACCOBEB3XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abn Amro Bank N.V. Belgian Branch",
+      "branches": [
+        {
+          "branch_name": "International Diamond And Jewelry Group",
+          "city": "Antwerpen",
+          "swift_code": "ABNABE2AIDJ"
+        },
+        {
+          "branch_name": "International Private Clients Department",
+          "city": "Berchem",
+          "swift_code": "ABNABE2AIPC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Berchem",
+          "swift_code": "FTSBBE22XXX"
+        },
+        {
+          "branch_name": "Moneyou",
+          "city": "Antwerpen",
+          "swift_code": "ABNABE2AMYO"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abe Clearing Sas/Eba Clearing",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "EBATBEBBXXX"
+        },
+        {
+          "branch_name": "Collateral Account",
+          "city": "Paris",
+          "swift_code": "EBAPFRPPCOL"
+        },
+        {
+          "branch_name": "Pre-settlement Account",
+          "city": "Paris",
+          "swift_code": "EBAPFRPPPSA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Paris",
+          "swift_code": "EBAPFRPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aareal Bank Ag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "AARBBEB1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "AARBESM1XXX"
+        },
+        {
+          "branch_name": "10719 Berlin",
+          "city": "Berlin",
+          "swift_code": "AARBDE5W100"
+        },
+        {
+          "branch_name": "45128 Essen",
+          "city": "Essen",
+          "swift_code": "AARBDE5W360"
+        },
+        {
+          "branch_name": "60329 Frankfurt Am Main",
+          "city": "Frankfurt Am Main",
+          "swift_code": "AARBDE5W500"
+        },
+        {
+          "branch_name": "20095 Hamburg",
+          "city": "Hamburg",
+          "swift_code": "AARBDE5W200"
+        },
+        {
+          "branch_name": "30159 Hannover",
+          "city": "Hannover",
+          "swift_code": "AARBDE5W250"
+        },
+        {
+          "branch_name": "04109 Leipzig",
+          "city": "Leipzig",
+          "swift_code": "AARBDE5W860"
+        },
+        {
+          "branch_name": "55128 Mainz",
+          "city": "Mainz",
+          "swift_code": "AARBDE5W550"
+        },
+        {
+          "branch_name": "81677 Muenchen",
+          "city": "Muenchen",
+          "swift_code": "AARBDE5W700"
+        },
+        {
+          "branch_name": "70191 Stuttgart",
+          "city": "Stuttgart",
+          "swift_code": "AARBDE5W600"
+        },
+        {
+          "branch_name": "65189 Wiesbaden",
+          "city": "Wiesbaden",
+          "swift_code": "AARBDE5W108"
+        },
+        {
+          "branch_name": "Gf-bk01",
+          "city": "Wiesbaden",
+          "swift_code": "AARBDE5WDOM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Wiesbaden",
+          "swift_code": "AARBDE5WXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Associated Stockbrokers, Bvba",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "ASSTBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Solvay Cicc S.A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "SOLVBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Leleux Associated Brokers",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "LABEBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa), Aalst",
+      "branches": [
+        {
+          "branch_name": "9300 Aalst",
+          "city": "Aalst",
+          "swift_code": "BBRUBEBB930"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Bank S.A./N.V. (Formerly Genrale Bank N.V. Kortrijk)",
+      "branches": [
+        {
+          "branch_name": "8500 Kortrijk",
+          "city": "Kortrijk",
+          "swift_code": "GEBABEBB04A"
+        }
+      ]
+    },
+    {
+      "bank_name": "Euroclear Bank S.A / N.V",
+      "branches": [
+        {
+          "branch_name": "Brussels",
+          "city": "Brussels",
+          "swift_code": "MGTCBEBECLT"
+        },
+        {
+          "branch_name": "Euroclear Belgium-cik Settlement Exclusively",
+          "city": "Brussels",
+          "swift_code": "MGTCBEBEE01"
+        },
+        {
+          "branch_name": "Eses Impact Eb",
+          "city": "Brussels",
+          "swift_code": "MGTCBEBEEB2"
+        },
+        {
+          "branch_name": "Eses Impact Eb",
+          "city": "Brussels",
+          "swift_code": "MGTCBEBEEBE"
+        },
+        {
+          "branch_name": "1210 Brussels",
+          "city": "Brussels",
+          "swift_code": "MGTCBEBEECL"
+        },
+        {
+          "branch_name": "Eses Impact Eb",
+          "city": "Brussels",
+          "swift_code": "MGTCBEBEEF2"
+        },
+        {
+          "branch_name": "Eses Impact Eb",
+          "city": "Brussels",
+          "swift_code": "MGTCBEBEEFR"
+        },
+        {
+          "branch_name": "Eses Impact Eb",
+          "city": "Brussels",
+          "swift_code": "MGTCBEBEEN2"
+        },
+        {
+          "branch_name": "Eses Impact Eb",
+          "city": "Brussels",
+          "swift_code": "MGTCBEBEENL"
+        },
+        {
+          "branch_name": "Fundsettle",
+          "city": "Brussels",
+          "swift_code": "MGTCBEBEFND"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "MGTCBEBEXXX"
+        },
+        {
+          "branch_name": "Brussels",
+          "city": "Brussels",
+          "swift_code": "MGTCBEBEE14"
+        },
+        {
+          "branch_name": "Business Branch",
+          "city": "Brussels",
+          "swift_code": "MGTCBEBEE16"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commerzbank Ag,The,Brussels Branch",
+      "branches": [
+        {
+          "branch_name": "Administration",
+          "city": "Brussels",
+          "swift_code": "COBABEBXTBU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "COBABEBXXXX"
+        },
+        {
+          "branch_name": "2600 Antwerpen",
+          "city": "Antwerpen",
+          "swift_code": "COBABEB1022"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank International Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "CITIBEBXXXX"
+        },
+        {
+          "branch_name": "Restricted Use Citibank Madrid Target 2",
+          "city": "Madrid",
+          "swift_code": "CITIESMXSEC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CITIESMXXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "CITISESXXXX"
+        },
+        {
+          "branch_name": "Central Account Maintenance Unit",
+          "city": "London",
+          "swift_code": "CITTGB2LCMU"
+        },
+        {
+          "branch_name": "European Loans Agency",
+          "city": "London",
+          "swift_code": "CITTGB2LELA"
+        },
+        {
+          "branch_name": "Private Banking Group",
+          "city": "London",
+          "swift_code": "CITTGB2LPBG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "CITTGB2LXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "CTPRGB21XXX"
+        },
+        {
+          "branch_name": "Citibank Lisbon Target 2",
+          "city": "Lisbon",
+          "swift_code": "CITIPTPXSEC"
+        },
+        {
+          "branch_name": "Sucursal Em Portugal",
+          "city": "Lisbon",
+          "swift_code": "CITIPTPXXXX"
+        },
+        {
+          "branch_name": "Sucursal Financeira Exterior",
+          "city": "Funchal",
+          "swift_code": "CITIPTPXMAD"
+        },
+        {
+          "branch_name": "Restricted Use Citibank Paris Target 2",
+          "city": "Paris",
+          "swift_code": "CITIFRPPSEC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Paris",
+          "swift_code": "CITIFRPPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "CITIDKKXXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Milano",
+          "swift_code": "CITTITMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Belgium Nv/Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "CTBKBEBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Centea Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "SPAABE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Celio International",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "CEINBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cbc Banque S.A.",
+      "branches": [
+        {
+          "branch_name": "All Offices",
+          "city": "Brussels",
+          "swift_code": "CREGBEBBXXX"
+        },
+        {
+          "branch_name": "Bic To Be Used In The Nbb-sss For Identifying Cbc Client Account",
+          "city": "Brussels",
+          "swift_code": "CREGBEBBNBB"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carfin Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Louvain-La-Neuve",
+          "swift_code": "CARGBEBLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital At Work Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "CAPWBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caisse Interprofessionnelle De Depots Et De Virements De Titres",
+      "branches": [
+        {
+          "branch_name": "Issuer Agent Coupon",
+          "city": "Brussels",
+          "swift_code": "ESESBEBBIAC"
+        },
+        {
+          "branch_name": "Issuer Agent Dividend",
+          "city": "Brussels",
+          "swift_code": "ESESBEBBIAD"
+        },
+        {
+          "branch_name": "Brussels",
+          "city": "Brussels",
+          "swift_code": "ESESBEBBINT"
+        },
+        {
+          "branch_name": "Brussels",
+          "city": "Brussels",
+          "swift_code": "ESESBEBBLE1"
+        },
+        {
+          "branch_name": "Brussels",
+          "city": "Brussels",
+          "swift_code": "ESESBEBBLE2"
+        },
+        {
+          "branch_name": "Securities And Coupon Center",
+          "city": "Brussels",
+          "swift_code": "ESESBEBBSCC"
+        },
+        {
+          "branch_name": "Target2",
+          "city": "Brussels",
+          "swift_code": "ESESBEBBT2X"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "ESESBEBBXXX"
+        },
+        {
+          "branch_name": "Brussels",
+          "city": "Brussels",
+          "swift_code": "ESESBEBBFDB"
+        }
+      ]
+    },
+    {
+      "bank_name": "Byblos Bank Europe S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BYBBBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bpost",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "PCHQBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Securities Services, Brussels Branch",
+      "branches": [
+        {
+          "branch_name": "Paribas Multidirect Custody And Clearing Mdcc",
+          "city": "Brussels",
+          "swift_code": "PARBBEBZMDC"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Securities Services, Belgium",
+      "branches": [
+        {
+          "branch_name": "Brussels",
+          "city": "Brussels",
+          "swift_code": "PARBBEBZISI"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "PARBBEBZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas S.A. Belgium - Belgium Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BNPABEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Ip Belgium Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "FIMGBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bmce Euroservices",
+      "branches": [
+        {
+          "branch_name": "Bmce Euroservices",
+          "city": "Brussels",
+          "swift_code": "BMEUBEB1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BMEUESM1XXX"
+        },
+        {
+          "branch_name": "Bmce Euroservices",
+          "city": "London",
+          "swift_code": "BMEUGB21XXX"
+        },
+        {
+          "branch_name": "Bmce Euroservices",
+          "city": "Ja Amsterdam",
+          "swift_code": "BMEUNL21XXX"
+        },
+        {
+          "branch_name": "Bmce Euroservices",
+          "city": "Paris",
+          "swift_code": "BMEUFRP1XXX"
+        },
+        {
+          "branch_name": "Bmce Euroservices",
+          "city": "Frankfurt Am Main",
+          "swift_code": "BMEUDEF1XXX"
+        },
+        {
+          "branch_name": "Bmce Euroservices",
+          "city": "Milano",
+          "swift_code": "BMEUITM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Privee Edmond De Rothschild Europe, Belgianbranch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "PRIBBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Nationale De Belgique",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "ECMSBEBBXXX"
+        },
+        {
+          "branch_name": "Current Accounts Division",
+          "city": "Brussels",
+          "swift_code": "NBBEBEBB203"
+        },
+        {
+          "branch_name": "Securities Clearing System",
+          "city": "Brussels",
+          "swift_code": "NBBEBEBB216"
+        },
+        {
+          "branch_name": "Nbb-sss",
+          "city": "Brussels",
+          "swift_code": "NBBEBEBB223"
+        },
+        {
+          "branch_name": "Back Office Division",
+          "city": "Brussels",
+          "swift_code": "NBBEBEBB243"
+        },
+        {
+          "branch_name": "Accounts Division",
+          "city": "Brussels",
+          "swift_code": "NBBEBEBB273"
+        },
+        {
+          "branch_name": "Nbb-eses Contingency Account",
+          "city": "Brussels",
+          "swift_code": "NBBEBEBBCAC"
+        },
+        {
+          "branch_name": "Cec Technical Account",
+          "city": "Brussels",
+          "swift_code": "NBBEBEBBCEC"
+        },
+        {
+          "branch_name": "Brussels",
+          "city": "Brussels",
+          "swift_code": "NBBEBEBBCON"
+        },
+        {
+          "branch_name": "Nbb-eses Mirro-technical Account",
+          "city": "Brussels",
+          "swift_code": "NBBEBEBBECL"
+        },
+        {
+          "branch_name": "Euroclear Settlement Services",
+          "city": "Brussels",
+          "swift_code": "NBBEBEBBEOC"
+        },
+        {
+          "branch_name": "Nbb-eses Cross-ncb Position With Bdf",
+          "city": "Brussels",
+          "swift_code": "NBBEBEBBFRX"
+        },
+        {
+          "branch_name": "Nbb-sss Mirror-technical Account",
+          "city": "Brussels",
+          "swift_code": "NBBEBEBBMAC"
+        },
+        {
+          "branch_name": "Nbb-eses Cross Ncb Position With Dnb",
+          "city": "Brussels",
+          "swift_code": "NBBEBEBBNLX"
+        },
+        {
+          "branch_name": "Ovp Technical Account",
+          "city": "Brussels",
+          "swift_code": "NBBEBEBBOVP"
+        },
+        {
+          "branch_name": "Belgian Treasury",
+          "city": "Brussels",
+          "swift_code": "NBBEBEBBTRE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "NBBEBEBBXXX"
+        },
+        {
+          "branch_name": "Brussels",
+          "city": "Brussels",
+          "swift_code": "NBBEBEBBDCK"
+        },
+        {
+          "branch_name": "Brussels",
+          "city": "Brussels",
+          "swift_code": "NBBEBEBBGLB"
+        },
+        {
+          "branch_name": "Witholding Tax",
+          "city": "Brussels",
+          "swift_code": "NBBEBEBBWTX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Eni S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "ENIBBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Degroof",
+      "branches": [
+        {
+          "branch_name": "Target 2 Securities Participation",
+          "city": "Brussels",
+          "swift_code": "DEGRBEBBTG2"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "DEGRBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ethias Vie, Association Dassurances Mutuelles",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Liege",
+          "swift_code": "ETHVBE44XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ethias Droit Commun, Association Dass. Mutuelles",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Liege",
+          "swift_code": "ETHDBE44XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ethias Banque Sa Ethias Bank Nv",
+      "branches": [
+        {
+          "branch_name": "Brussels",
+          "city": "Brussels",
+          "swift_code": "ETHIBEBBRTG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "ETHIBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Epbf",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Watermael Boitsfort",
+          "swift_code": "EPBFBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dexia Fund Services Belgium",
+      "branches": [
+        {
+          "branch_name": "Fund Administration",
+          "city": "Brussels",
+          "swift_code": "DXFSBEBBFAD"
+        },
+        {
+          "branch_name": "Shareholders Services",
+          "city": "Brussels",
+          "swift_code": "DXFSBEBBSHS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "DXFSBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dexia Bank Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "GKCCBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dexia Asset Management Belgique Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "DXAMBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Sa/Nv",
+      "branches": [
+        {
+          "branch_name": "Antwerpen",
+          "city": "Antwerpen",
+          "swift_code": "BDCHBE22610"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BDCHBE22611"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BDCHBE22XXX"
+        },
+        {
+          "branch_name": "Gent",
+          "city": "Gent",
+          "swift_code": "BDCHBE22613"
+        },
+        {
+          "branch_name": "Liege",
+          "city": "Liege",
+          "swift_code": "BDCHBE22612"
+        }
+      ]
+    },
+    {
+      "bank_name": "Demir-Halk Bank (Nederland) N.V. Brussels Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "DHBNBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Delta Lloyd Bank Nv (Belgium)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BNAGBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Professionnel Sa / Beroepskrediet Nv",
+      "branches": [
+        {
+          "branch_name": "Target2",
+          "city": "Brussels",
+          "swift_code": "BKCPBEBBTGT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BKCPBEBBXXX"
+        },
+        {
+          "branch_name": "Bkcp",
+          "city": "Brussels",
+          "swift_code": "BKCPBEB1BKB"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole Van Moer Courtens",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "CVMCBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Europe Bank N.V. Antwerp Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "FBHLBE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole Sa/Landbouwkrediet Nv Brussels",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "NICABEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole Cib Belgium",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "CRLYBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cph Banque",
+      "branches": [
+        {
+          "branch_name": "Tournai",
+          "city": "Tournai",
+          "swift_code": "CPHBBE75TG2"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tournai",
+          "swift_code": "CPHBBE75XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporate Express Shared Service Center (Europe) Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hasselt",
+          "swift_code": "CEXPBE33XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commission Des Communautes Europeennes",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "EUCOBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Bank S.A./N.V. (Formerly Genrale Bank N.V. Gent)",
+      "branches": [
+        {
+          "branch_name": "9000 Gent",
+          "city": "Gent",
+          "swift_code": "GEBABEBB05A"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Bank S.A./N.V. (Formerly Generale Bank N.V.St. Niklaas)",
+      "branches": [
+        {
+          "branch_name": "9100 Sint-niklaas",
+          "city": "Sint-Niklaas",
+          "swift_code": "GEBABEBB01B"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Bank S.A./N.V. (Formerly Generale Bank N.V. Turnhout)",
+      "branches": [
+        {
+          "branch_name": "2300 Turnhout",
+          "city": "Turnhout",
+          "swift_code": "GEBABEBB08D"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Bank S.A./N.V. (Formerly Generale Bank N.V. Tienen)",
+      "branches": [
+        {
+          "branch_name": "3300 Tienen",
+          "city": "Tienen",
+          "swift_code": "GEBABEBB08C"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Bank S.A./N.V. (Formerly Generale Bank N.V. Roeselare)",
+      "branches": [
+        {
+          "branch_name": "8800 Roeselare",
+          "city": "Roeselare",
+          "swift_code": "GEBABEBB05B"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Bank S.A./N.V. (Formerly Generale Bank N.V. Ninove)",
+      "branches": [
+        {
+          "branch_name": "9400 Ninove",
+          "city": "Ninove",
+          "swift_code": "GEBABEBB18B"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Bank S.A./N.V. (Formerly Generale Bank N.V. Mechelen)",
+      "branches": [
+        {
+          "branch_name": "2800 Mechelen",
+          "city": "Mechelen",
+          "swift_code": "GEBABEBB08B"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Bank S.A./N.V. (Formerly Generale Bank N.V. Leuven)",
+      "branches": [
+        {
+          "branch_name": "3000 Leuven",
+          "city": "Leuven",
+          "swift_code": "GEBABEBB08A"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Bank S.A./N.V. (Formerly Generale Bank N.V. Hasselt)",
+      "branches": [
+        {
+          "branch_name": "3500 Hasselt",
+          "city": "Hasselt",
+          "swift_code": "GEBABEBB14A"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Bank S.A./N.V. (Formerly Generale Bank N.V. Genk)",
+      "branches": [
+        {
+          "branch_name": "3600 Genk",
+          "city": "Genk",
+          "swift_code": "GEBABEBB08E"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Bank S.A./N.V. (Formerly Generale Bank N.V. Brugge)",
+      "branches": [
+        {
+          "branch_name": "8000 Brugge",
+          "city": "Brugge",
+          "swift_code": "GEBABEBB13A"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Bank S.A./N.V. (Formerly Generale Bank N.V. Antwerpen)",
+      "branches": [
+        {
+          "branch_name": "2000 Antwerpen",
+          "city": "Antwerpen",
+          "swift_code": "GEBABEBB18A"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Bank S.A./N.V. (Formerly Generale Bank N.V. Aalst)",
+      "branches": [
+        {
+          "branch_name": "9320 Aalst",
+          "city": "Aalst",
+          "swift_code": "GEBABEBB01A"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiere Remy Cointreau Sa/Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "FRCSBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fce Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "FCEFBE21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "FEEFGB21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Amsterdam",
+          "swift_code": "FCEENL21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "FCEFPTP1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Rueil Malmaison",
+          "swift_code": "FCEFFR21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Saint Germain-en-laye",
+          "swift_code": "FPLRFR21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Peristeri",
+          "swift_code": "FOGRGRA1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Roma",
+          "swift_code": "FCEFITR1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "FCEFIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fastnet Belgium",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "FNETBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "F. Van Lanschot Bankiers Belgie N.V.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "FVLBBE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Euroclear Belgium (Previously Known As Cik Belgium)",
+      "branches": [
+        {
+          "branch_name": "Settlement Department",
+          "city": "Brussels",
+          "swift_code": "CIKBBEBBCLR"
+        },
+        {
+          "branch_name": "Domestic Investment Funds Settlement",
+          "city": "Brussels",
+          "swift_code": "CIKBBEBBDIF"
+        },
+        {
+          "branch_name": "Eses Acpt 1",
+          "city": "Brussels",
+          "swift_code": "CIKBBEBBEA1"
+        },
+        {
+          "branch_name": "Eses Acpt 2",
+          "city": "Brussels",
+          "swift_code": "CIKBBEBBEA2"
+        },
+        {
+          "branch_name": "Eses Acpt 3",
+          "city": "Brussels",
+          "swift_code": "CIKBBEBBEA3"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "CIKBBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Europabank N.V.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gent",
+          "swift_code": "EURBBE99XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa) Antwerpen",
+      "branches": [
+        {
+          "branch_name": "2000 Antwerpen",
+          "city": "Antwerpen",
+          "swift_code": "BBRUBEBB200"
+        }
+      ]
+    },
+    {
+      "bank_name": "Icici Bank Uk Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "ICICBE2XXXX"
+        },
+        {
+          "branch_name": "Leicester",
+          "city": "Leicester",
+          "swift_code": "ICICGB2L125"
+        },
+        {
+          "branch_name": "Knightsbridge",
+          "city": "London",
+          "swift_code": "ICICGB2L081"
+        },
+        {
+          "branch_name": "Southhall",
+          "city": "London",
+          "swift_code": "ICICGB2L128"
+        },
+        {
+          "branch_name": "Wembley",
+          "city": "London",
+          "swift_code": "ICICGB2L129"
+        },
+        {
+          "branch_name": "Clearing Services",
+          "city": "London",
+          "swift_code": "ICICGB2LCLR"
+        },
+        {
+          "branch_name": "Eba Clearing Branch",
+          "city": "London",
+          "swift_code": "ICICGB2LEBA"
+        },
+        {
+          "branch_name": "Retail",
+          "city": "London",
+          "swift_code": "ICICGB2LRTL"
+        },
+        {
+          "branch_name": "Treasury",
+          "city": "London",
+          "swift_code": "ICICGB2LTSY"
+        },
+        {
+          "branch_name": "Ukio-retail",
+          "city": "London",
+          "swift_code": "ICICGB2LUKR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "ICICGB2LXXX"
+        },
+        {
+          "branch_name": "Manchester",
+          "city": "Manchester",
+          "swift_code": "ICICGB2L127"
+        },
+        {
+          "branch_name": "Uk Faster Payments",
+          "city": "London",
+          "swift_code": "ICICGB2LFPS"
+        },
+        {
+          "branch_name": "Germany",
+          "city": "Frankfurt Am Main",
+          "swift_code": "ICICDEFFCLR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Frankfurt Am Main",
+          "swift_code": "ICICDEFFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Icbc Brussels Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "ICBKBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Habib Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "HABBBEBBXXX"
+        },
+        {
+          "branch_name": "Offshore Banking Unit",
+          "city": "Manama",
+          "swift_code": "HABBBHBMOBU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "HABBBHBMXXX"
+        },
+        {
+          "branch_name": "Chittagong",
+          "city": "Chittagong",
+          "swift_code": "HABBBDDH0CH"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "HABBBDDHXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "HABBLKLCXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Istanbul",
+          "swift_code": "HABBTRISXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Rotterdam",
+          "swift_code": "HABBNL2RXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. Waremme)",
+      "branches": [
+        {
+          "branch_name": "4300 Waremme",
+          "city": "Waremme",
+          "swift_code": "GEBABEBB07C"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. Verviers)",
+      "branches": [
+        {
+          "branch_name": "4800 Verviers",
+          "city": "Verviers",
+          "swift_code": "GEBABEBB12A"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. Tournai)",
+      "branches": [
+        {
+          "branch_name": "7500 Tournai",
+          "city": "Tournai",
+          "swift_code": "GEBABEBB11A"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. Nivelles)",
+      "branches": [
+        {
+          "branch_name": "1400 Nivelles",
+          "city": "Nivelles",
+          "swift_code": "GEBABEBB06B"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. Namur)",
+      "branches": [
+        {
+          "branch_name": "5000 Namur",
+          "city": "Namur",
+          "swift_code": "GEBABEBB10A"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. Mons)",
+      "branches": [
+        {
+          "branch_name": "7000 Mons",
+          "city": "Mons",
+          "swift_code": "GEBABEBB09A"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. Liege)",
+      "branches": [
+        {
+          "branch_name": "4000 Liege",
+          "city": "Liege",
+          "swift_code": "GEBABEBB07A"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. La Louviere)",
+      "branches": [
+        {
+          "branch_name": "7100 La Louviere",
+          "city": "La Louviere",
+          "swift_code": "GEBABEBB06A"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. Huy)",
+      "branches": [
+        {
+          "branch_name": "4500 Huy",
+          "city": "Huy",
+          "swift_code": "GEBABEBB07B"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. Charleroi)",
+      "branches": [
+        {
+          "branch_name": "6000 Charleroi",
+          "city": "Charleroi",
+          "swift_code": "GEBABEBB03A"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. Brussels)",
+      "branches": [
+        {
+          "branch_name": "1000 Brussels",
+          "city": "Brussels",
+          "swift_code": "GEBABEBB00A"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. Arlon)",
+      "branches": [
+        {
+          "branch_name": "6700 Arlon",
+          "city": "Arlon",
+          "swift_code": "GEBABEBB02A"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Banque S.A./N.V. (Formerly Generale De Banque S.A. (Head Office) Brussels)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "GEBABEBB36A"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Bank S.A./N.V. Brussels",
+      "branches": [
+        {
+          "branch_name": "Brussels",
+          "city": "Brussels",
+          "swift_code": "GEBABEBBALM"
+        },
+        {
+          "branch_name": "Equity Trading Lse",
+          "city": "Brussels",
+          "swift_code": "GEBABEBBLDN"
+        },
+        {
+          "branch_name": "Proprietary Trading Equities",
+          "city": "Brussels",
+          "swift_code": "GEBABEBBSSD"
+        },
+        {
+          "branch_name": "All Belgian Offices",
+          "city": "Brussels",
+          "swift_code": "GEBABEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Keytrade Bank Sa/Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "KEYTBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kbc Securities N.V.",
+      "branches": [
+        {
+          "branch_name": "Bic To Identify Cashaccount At Nbb Used For Clearstream Banking Lux",
+          "city": "Antwerpen",
+          "swift_code": "KBSEBE22CBL"
+        },
+        {
+          "branch_name": "Brussels",
+          "city": "Brussels",
+          "swift_code": "KBSEBE22882"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "KBSEBE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kbc Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "KBCABEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jp Morgan International Bank",
+      "branches": [
+        {
+          "branch_name": "Mom Department",
+          "city": "Brussels",
+          "swift_code": "JPMGBEBBMOM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "JPMGBEBBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Frankfurt Am Main",
+          "swift_code": "JPMGDEFFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Johnson Controls International Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Diegem",
+          "swift_code": "JOCIBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jc General Services Cvba",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beerse",
+          "swift_code": "JOJOBE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.P. Morgan Europe Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "CHASBEE1XXX"
+        },
+        {
+          "branch_name": "Telex And S W I F T Message Enquiries",
+          "city": "London",
+          "swift_code": "CHASGB22ENQ"
+        },
+        {
+          "branch_name": "Global Derivative Services",
+          "city": "London",
+          "swift_code": "CHASGB22GDS"
+        },
+        {
+          "branch_name": "Global Master Custody",
+          "city": "London",
+          "swift_code": "CHASGB22GMC"
+        },
+        {
+          "branch_name": "Test Key And Bke Administration",
+          "city": "London",
+          "swift_code": "CHASGB22KEY"
+        },
+        {
+          "branch_name": "London",
+          "city": "London",
+          "swift_code": "CHASGB22PBI"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "CHASGB22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ingram Micro Coordination Center Bvba",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilvoorde",
+          "swift_code": "INGRBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa), Mons",
+      "branches": [
+        {
+          "branch_name": "7000 Mons",
+          "city": "Mons",
+          "swift_code": "BBRUBEBB700"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa), Liege",
+      "branches": [
+        {
+          "branch_name": "4000 Liege",
+          "city": "Liege",
+          "swift_code": "BBRUBEBB400"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa), Leuven",
+      "branches": [
+        {
+          "branch_name": "3000 Leuven",
+          "city": "Leuven",
+          "swift_code": "BBRUBEBB300"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa), Kortrijk",
+      "branches": [
+        {
+          "branch_name": "8500 Kortrijk",
+          "city": "Kortrijk",
+          "swift_code": "BBRUBEBB850"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa), Hasselt",
+      "branches": [
+        {
+          "branch_name": "3500 Hasselt",
+          "city": "Hasselt",
+          "swift_code": "BBRUBEBB350"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa), Gent",
+      "branches": [
+        {
+          "branch_name": "9000 Gent",
+          "city": "Gent",
+          "swift_code": "BBRUBEBB900"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa), Charleroi",
+      "branches": [
+        {
+          "branch_name": "6000 Charleroi",
+          "city": "Charleroi",
+          "swift_code": "BBRUBEBB600"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa), Brussels",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BBRUBEBB010"
+        },
+        {
+          "branch_name": "Branch",
+          "city": "Brussels",
+          "swift_code": "BBRUBEBB100"
+        },
+        {
+          "branch_name": "Continuous Linked Settlement",
+          "city": "Brussels",
+          "swift_code": "BBRUBEBBCLS"
+        },
+        {
+          "branch_name": "Mt940 Routing India",
+          "city": "Brussels",
+          "swift_code": "BBRUBEBBVYS"
+        },
+        {
+          "branch_name": "All Branches",
+          "city": "Brussels",
+          "swift_code": "BBRUBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Belgium Nv/Sa (Formerly Bank Brussels Lambert Sa), Brugge",
+      "branches": [
+        {
+          "branch_name": "8000 Brugge",
+          "city": "Brugge",
+          "swift_code": "BBRUBEBB800"
+        }
+      ]
+    },
+    {
+      "bank_name": "Solutia Services International Sca",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "SSIABEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shizuoka Bank (Europe) S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "SHIZBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sg Private Banking Belgium",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gent",
+          "swift_code": "SGPBBE99XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sca Capital Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Diegem",
+          "swift_code": "SCCPBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Santander Benelux Sa",
+      "branches": [
+        {
+          "branch_name": "Brussels",
+          "city": "Brussels",
+          "swift_code": "BSCHBEBBBLX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BSCHBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rothschild Belgique",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "RCBPBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Record Bank Nv",
+      "branches": [
+        {
+          "branch_name": "Gent",
+          "city": "Gent",
+          "swift_code": "HBKABE22TA2"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Gent",
+          "swift_code": "HBKABE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rabobank International Antwerp Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "RABOBE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Puilaetco Dewaay Private Bankers",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "PUILBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Petercam S.A.",
+      "branches": [
+        {
+          "branch_name": "Back-office Clients Not In Custody",
+          "city": "Brussels",
+          "swift_code": "PECSBEBB009"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "PECSBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Obk-Bank",
+      "branches": [
+        {
+          "branch_name": "Gent",
+          "city": "Gent",
+          "swift_code": "OBKBBE99MNP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Gent",
+          "swift_code": "OBKBBE99XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nv Ikea Service Centre Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zaventem",
+          "swift_code": "IKEABEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nibc Bank N.V",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "DNIBBE21XXX"
+        },
+        {
+          "branch_name": "Retail Markets Branch 1",
+          "city": "Den Haag",
+          "swift_code": "DNIBNL2GRM1"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Den Haag",
+          "swift_code": "DNIBNL2GXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nexans Services Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "NEXABEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mts Associated Markets",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BMTSBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mizuho Corporate Bank Nederland N.V. Brussels Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "MHCBBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lombard Odier Darier Hentsch (Belgique) S.A.",
+      "branches": [
+        {
+          "branch_name": "Ndp Dept",
+          "city": "Brussels",
+          "swift_code": "LOCYBEBBNDP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "LOCYBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Antwerps Beroepskrediet Cv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antwerpen",
+          "swift_code": "ABERBE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alena Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "ALENBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agfa-gevaert Nv",
+      "branches": [
+        {
+          "branch_name": "Agfa-gevaert Nv",
+          "city": "Mortsel",
+          "swift_code": "AGFGBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ag Insurance",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "ISSUBEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Volkswagen Group Services Sa/Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "VWAGBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Volkswagen Bank Gmbh",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Diegem",
+          "swift_code": "VOWABEB1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "VOWAGB21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Braunschweig",
+          "swift_code": "VOWADE2BXXX"
+        },
+        {
+          "branch_name": "Group Teasury",
+          "city": "Wolfsburg",
+          "swift_code": "VOWADE2BKDT"
+        },
+        {
+          "branch_name": "Volkswagen Bank Gmbh",
+          "city": "Braunschweig",
+          "swift_code": "VOWADE2BNL1"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "VOWAGRA1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Milano",
+          "swift_code": "VOWAITMMXXX"
+        },
+        {
+          "branch_name": "37137 Verona",
+          "city": "Verona",
+          "swift_code": "VOWAITMM002"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vf Europe Bvba",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bornem",
+          "swift_code": "VFCOBE2BXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vdk Spaarbank Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gent",
+          "swift_code": "VDSPBE22XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Gent",
+          "swift_code": "VDSPBE91XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Taiwan Bank S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "UTWBBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Belgium Sa/Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "UBSWBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Triodos Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "TRIOBEBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Royal Bank Of Scotland N.V. (Belgium)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "ABNABEBRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Bank Of New York Mellon, Brussels Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "BNYMBEBBXXX"
+        },
+        {
+          "branch_name": "3rd Party Funds Orders Execution Service",
+          "city": "Brussels",
+          "swift_code": "BNYMBEBBFND"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Bank Of New York Mellon Sa/Nv",
+      "branches": [
+        {
+          "branch_name": "Global Brokerage",
+          "city": "Brussels",
+          "swift_code": "IRVTBEBBBKR"
+        },
+        {
+          "branch_name": "Global Securities Services Dept",
+          "city": "Brussels",
+          "swift_code": "IRVTBEBBGSS"
+        },
+        {
+          "branch_name": "International Master Custody",
+          "city": "Brussels",
+          "swift_code": "IRVTBEBBIMC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brussels",
+          "swift_code": "IRVTBEBBXXX"
+        },
+        {
+          "branch_name": "Allianz Discretionary Mandates",
+          "city": "Brussels",
+          "swift_code": "IRVTBEBBADM"
+        },
+        {
+          "branch_name": "Brussels",
+          "city": "Brussels",
+          "swift_code": "IRVTBEBBBSK"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Paris",
+          "swift_code": "BNYMFRPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swift Headquarters",
+      "branches": [
+        {
+          "branch_name": "Security Management Centre",
+          "city": "Brussels",
+          "swift_code": "SWHQBECACIO"
+        },
+        {
+          "branch_name": "Brussels",
+          "city": "Brussels",
+          "swift_code": "SWHTBEBBAC1"
+        },
+        {
+          "branch_name": "Brussels",
+          "city": "Brussels",
+          "swift_code": "SWHTBEBBAC2"
+        },
+        {
+          "branch_name": "Brussels",
+          "city": "Brussels",
+          "swift_code": "SWHTBEBBAC3"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "La Hulpe",
+          "swift_code": "SWLIBEBBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "La Hulpe",
+          "swift_code": "SWTDBEBBXXX"
+        },
+        {
+          "branch_name": "La Hulpe",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBEBB111"
+        },
+        {
+          "branch_name": "Administration Services",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBEBBADS"
+        },
+        {
+          "branch_name": "Broadcast Requests Only",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBEBBBCT"
+        },
+        {
+          "branch_name": "Customer Billing Services",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBEBBBIL"
+        },
+        {
+          "branch_name": "End-to-end Ordering Department",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBEBBE2E"
+        },
+        {
+          "branch_name": "Swift Training Department",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBEBBEDU"
+        },
+        {
+          "branch_name": "Corporate Events Department",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBEBBEVE"
+        },
+        {
+          "branch_name": "Finance Division",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBEBBFIN"
+        },
+        {
+          "branch_name": "General Management",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBEBBGMT"
+        },
+        {
+          "branch_name": "Swift Logistics Dept",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBEBBLOG"
+        },
+        {
+          "branch_name": "Membership Management",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBEBBMEM"
+        },
+        {
+          "branch_name": "Marketing",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBEBBMKT"
+        },
+        {
+          "branch_name": "Product Management Division",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBEBBPRM"
+        },
+        {
+          "branch_name": "Quality Engineering Department",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBEBBQED"
+        },
+        {
+          "branch_name": "Sales Division-general",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBEBBSAL"
+        },
+        {
+          "branch_name": "Swiftnet Fin Migration",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBEBBSNF"
+        },
+        {
+          "branch_name": "Standards Department",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBEBBSTD"
+        },
+        {
+          "branch_name": "Telecom Projects",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBEBBTLC"
+        },
+        {
+          "branch_name": "Interfaces Technical Support Department",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBEBBTSD"
+        },
+        {
+          "branch_name": "S W I F T Transition Team",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBEBBTTT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBEBBXXX"
+        },
+        {
+          "branch_name": "S W I F T Key Certificate Center",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBECACKC"
+        },
+        {
+          "branch_name": "S W I F T Card Management Center",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBECACMC"
+        },
+        {
+          "branch_name": "Encryptor Acknowledgement",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBECAENC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "La Hulpe",
+          "swift_code": "SWHTBEBBXXX"
+        },
+        {
+          "branch_name": "La Hulpe",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBEBBREF"
+        },
+        {
+          "branch_name": "Shareholding",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBEBBSHR"
+        },
+        {
+          "branch_name": "Membership Management",
+          "city": "La Hulpe",
+          "swift_code": "SWHQBEBBBRD"
+        }
+      ]
+    }
+  ]
+}

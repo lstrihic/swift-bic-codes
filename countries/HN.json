@@ -1,0 +1,472 @@
+{
+  "country_name": "Honduras",
+  "alpha_2": "HN",
+  "country_code": "340",
+  "banks": [
+    {
+      "bank_name": "Sonival, Casa De Bolsa, S. A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "SOABHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Servigiros Casa De Cambio S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "SEAIHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Odef Financiera S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Pedro Sula",
+          "swift_code": "ODFIHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lafise Valores Casa De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "LVCBHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fomento Financiero, S.a. Casa De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "FFCBHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Financiera Comercial Hondurena S.a. (banco Ficohsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "FCOHHNTEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Financiera Centroamericana S.a. Ficensa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "CABFHNTEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Ficohsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "FIHOHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Del Pais,s.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Pedro Sula",
+          "swift_code": "PISAHNTEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Occidente S.a.",
+      "branches": [
+        {
+          "branch_name": "San Pedro Sula",
+          "city": "San Pedro Sula",
+          "swift_code": "BOCCHNTESPS"
+        },
+        {
+          "branch_name": "Santa Rosa De Copan",
+          "city": "Santa Rosa De Copan",
+          "swift_code": "BOCCHNTESRC"
+        },
+        {
+          "branch_name": "Tegucigalpa",
+          "city": "Tegucigalpa",
+          "swift_code": "BOCCHNTETGU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Santa Rosa De Copan",
+          "swift_code": "BOCCHNTEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Los Trabajadores S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "TSBOHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Las Fuerzas Armadas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "BLFAHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Honduras, S.a.",
+      "branches": [
+        {
+          "branch_name": "Banco De Honduras, S.a.",
+          "city": "Tegucigalpa",
+          "swift_code": "HONAHNT2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De America Central Honduras, S.a.(bac Bamer",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "BMILHNTEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Davivienda Honduras, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "BGAHHNTEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Cuscatlan De Honduras",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "BACUHNTEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Continental, S.a.",
+      "branches": [
+        {
+          "branch_name": "La Ceiba",
+          "city": "La Ceiba",
+          "swift_code": "CSPSHNTE0TC"
+        },
+        {
+          "branch_name": "Danli",
+          "city": "Danli",
+          "swift_code": "CSPSHNTE0TD"
+        },
+        {
+          "branch_name": "Tegucigalpa",
+          "city": "Tegucigalpa",
+          "swift_code": "CSPSHNTE0TE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "San Pedro Sula",
+          "swift_code": "CSPSHNTEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Central De Honduras Banco Central",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "BCEHHNTTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Central De Honduras",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "BCEHHNTEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Azteca De Honduras, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "AZTKHNTEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Atlantida",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "ATTDHNTEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arrendamientos Y Creditos Atlantida, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "ARCDHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "America Cdc Casa De Cambio S.a.de C.f.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Pedro Sula",
+          "swift_code": "ACSAHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera Solidaria, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Pedro Sula",
+          "swift_code": "FIODHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera Finca Honduras",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "FIFHHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera Crediq Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "FIRQHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera Codimersa Edificio Codimersa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santa Rosa Copan",
+          "swift_code": "FCEOHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion Financiera Internacional (cofinter",
+      "branches": [
+        {
+          "branch_name": "Corporacion Financiera Internacional (cofinter",
+          "city": "Tegucigalpa",
+          "swift_code": "CFNIHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Continental Casa De Bolsa, S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Pedro Sula",
+          "swift_code": "CNCSHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Hondurena De Valores Y Liquidacion (cehval",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Pedro Sula",
+          "swift_code": "CHVLHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Casa Del Bolsa Promociones E Inversiones En Bolsa, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Pedro Sula Cortes",
+          "swift_code": "CBPNHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Casa De Cambio Roble Viejo S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "CCRVHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Casa De Cambio",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa Fco.",
+          "swift_code": "CSAIHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Casa De Bolsa De Valores S.a. (cabval",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "CBVCHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Sogerin S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Pedro Sula",
+          "swift_code": "SOGBHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Procredit Honduras S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "PRCBHNTEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Popular S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "POUUHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional De Desarrollo Agricola",
+      "branches": [
+        {
+          "branch_name": "Comayaguela",
+          "city": "Comayaguela",
+          "swift_code": "DEAGHNT1022"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Comayaguela",
+          "swift_code": "DEAGHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Municipal Autonomo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "BMAUHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Lafise,s.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "BCCEHNTEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Hondureno Del Cafe S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "BHCAHNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Hondureno Del Cafe",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "BHCAHNTHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Grupo El Ahorro Hondureno S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "BCHOHNT1XXX"
+        }
+      ]
+    }
+  ]
+}

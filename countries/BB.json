@@ -1,0 +1,252 @@
+{
+  "country_name": "Barbados",
+  "alpha_2": "BB",
+  "country_code": "052",
+  "banks": [
+    {
+      "bank_name": "Transcom Bank (barbados) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bridgetown",
+          "swift_code": "TRBOBBB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Royal Bank Of Canada (caribbean) Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Michael",
+          "swift_code": "RCCABBB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Republic Bank (barbados) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bridgetown",
+          "swift_code": "BNBABBBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbc Royal Bank (barbados) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bridgetown",
+          "swift_code": "ROYCBBBBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bridgetown",
+          "swift_code": "RBTTBBBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbc Barbados Trading Bank Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Michael",
+          "swift_code": "RBTOBBBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Occidental Bank Barbados (ltd",
+      "branches": [
+        {
+          "branch_name": "Occidental Bank Barbados (ltd",
+          "city": "St. Michael",
+          "swift_code": "OCCIBBB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercom Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bridgetown",
+          "swift_code": "MERMBBB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J And T Bank And Trust",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bridgetown",
+          "swift_code": "JTBTBBBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Glenhuron Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bridgetown",
+          "swift_code": "GLEBBBB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Firstcaribbean International Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Michael",
+          "swift_code": "FCIBBBBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Firstcaribbean International Bank (offshore) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Christchurch",
+          "swift_code": "FCIBBBB2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Citizens Bank (barbados) Ltd. The Mutual Building",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bridgetown",
+          "swift_code": "FCTTBBBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dgm Bank And Trust Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bridgetown",
+          "swift_code": "DGRRBBB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Consolidated Finance Co Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Christchurch",
+          "swift_code": "CNFIBBBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citicorp Merchant Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Michael",
+          "swift_code": "CITIBBBBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "CIMETTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cidel Bank And Trust Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Michael",
+          "swift_code": "CTBLBBBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cibc Trust And Merchant Bank (barbados) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bridgetown",
+          "swift_code": "CTMBBBB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cibc Offshore Banking Services Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Michael",
+          "swift_code": "COBVBBBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Barbados",
+      "branches": [
+        {
+          "branch_name": "Bridgetown",
+          "city": "Bridgetown",
+          "swift_code": "CBABBBB1ACC"
+        },
+        {
+          "branch_name": "Bridgetown",
+          "city": "Bridgetown",
+          "swift_code": "CBABBBB1BSE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bridgetown",
+          "swift_code": "CBABBBBBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bridgetown",
+          "swift_code": "CBABBBBGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caribbean Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Michael",
+          "swift_code": "CDEVBBBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barbados Central Securities Depository Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bridgetown",
+          "swift_code": "BCSDBBB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amicorp Bank And Trust Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bridgetown",
+          "swift_code": "AMIBBBBBXXX"
+        }
+      ]
+    }
+  ]
+}

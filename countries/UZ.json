@@ -1,0 +1,457 @@
+{
+  "country_name": "Uzbekistan",
+  "alpha_2": "UZ",
+  "country_code": "860",
+  "banks": [
+    {
+      "bank_name": "Uzbekistan Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "XSTEUZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uzbekistan Republican Currency Exchange, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "XCUEUZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ut-bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "UZTUUZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Universal Commodity Exchange 'tashkent'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "XCETUZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Universal Broker's Exchange 'tashkent'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "XUNIUZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Universal Bank Private Joint-stock Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "City / Kokany",
+          "swift_code": "POUNUZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Turon Joint-stock Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Andijan Branch",
+          "city": "Andijan",
+          "swift_code": "TUROUZ21AND"
+        },
+        {
+          "branch_name": "Bukhara Branch",
+          "city": "Bukhara",
+          "swift_code": "TUROUZ21BUH"
+        },
+        {
+          "branch_name": "Chilanzar Branch",
+          "city": "Tashkent",
+          "swift_code": "TUROUZ21CHL"
+        },
+        {
+          "branch_name": "Fergana Branch",
+          "city": "Ferghana",
+          "swift_code": "TUROUZ21FER"
+        },
+        {
+          "branch_name": "Jizzah Branch",
+          "city": "Jizzah",
+          "swift_code": "TUROUZ21JIZ"
+        },
+        {
+          "branch_name": "Karshi Branch",
+          "city": "Karshi",
+          "swift_code": "TUROUZ21KAR"
+        },
+        {
+          "branch_name": "Khorezm Branch",
+          "city": "Urgench",
+          "swift_code": "TUROUZ21KHR"
+        },
+        {
+          "branch_name": "Khamza Branch",
+          "city": "Tashkent",
+          "swift_code": "TUROUZ21KHZ"
+        },
+        {
+          "branch_name": "Mirobod Branch",
+          "city": "Tashkent",
+          "swift_code": "TUROUZ21MIR"
+        },
+        {
+          "branch_name": "Namangan Branch",
+          "city": "Namangan",
+          "swift_code": "TUROUZ21NAM"
+        },
+        {
+          "branch_name": "Navoi Branch",
+          "city": "Navoi",
+          "swift_code": "TUROUZ21NAV"
+        },
+        {
+          "branch_name": "Nukus Branch",
+          "city": "Nukus",
+          "swift_code": "TUROUZ21NUK"
+        },
+        {
+          "branch_name": "Samarkand Branch",
+          "city": "Samarkand",
+          "swift_code": "TUROUZ21SAM"
+        },
+        {
+          "branch_name": "Shakhrisabz Branch",
+          "city": "Shakhrisabz",
+          "swift_code": "TUROUZ21SHK"
+        },
+        {
+          "branch_name": "Surkhandarya Branch",
+          "city": "Termez",
+          "swift_code": "TUROUZ21SUR"
+        },
+        {
+          "branch_name": "Syrdarya Branch",
+          "city": "Gulistan",
+          "swift_code": "TUROUZ21SYR"
+        },
+        {
+          "branch_name": "Zangiota Branch",
+          "city": "Zangiota",
+          "swift_code": "TUROUZ21ZAN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "TUROUZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trustbank, Private Open Joint Stock-exchange Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "TRSAUZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Joint-stock Commercial Bank Asaka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "ASBKUZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Commercial People-bank Of The Republic Of Uzbekistan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "SCPEUZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ravnaq Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "RVBKUZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Private Bank 'davr Bank'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "DVRBUZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orient Finans Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "ORFBUZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ojsc Microcreditbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "OJMIUZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank For Foreign Economic Activity Of The Republic Of Uzbekistan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "NBFAUZ2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Microcreditbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "MICDUZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Khorezm Interregion Commodity Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "XKCEUZ31XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Khamkorbank Akb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Andizhan",
+          "swift_code": "KHKKUZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kdb Bank Uzbekistan Cjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "KODBUZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kapitalbank, Oakb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "KACHUZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Joint Stock Commercial Bank Savdogar",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "JSCSUZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Joint Stock Commercial Bank 'agrobank'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "PAKHUZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ipoteka-bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "UZHOUZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Infinbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "INFBUZ2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit-standard Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "CRIDUZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of The Republic Uzbekistan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "CBUZUZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Ipak Yuli, Open Joint-stock Innovation Commercial",
+      "branches": [
+        {
+          "branch_name": "Chilanzar",
+          "city": "Tashkent",
+          "swift_code": "INIPUZ21CHL"
+        },
+        {
+          "branch_name": "Mirabad Branch",
+          "city": "Tashkent",
+          "swift_code": "INIPUZ21MRB"
+        },
+        {
+          "branch_name": "Mirzo Ulugbek Branch",
+          "city": "Tashkent",
+          "swift_code": "INIPUZ21MUB"
+        },
+        {
+          "branch_name": "Namangan",
+          "city": "Namangan",
+          "swift_code": "INIPUZ21NAM"
+        },
+        {
+          "branch_name": "Navoi Branch",
+          "city": "Navoi",
+          "swift_code": "INIPUZ21NAV"
+        },
+        {
+          "branch_name": "Sagbon",
+          "city": "Tashkent",
+          "swift_code": "INIPUZ21SGB"
+        },
+        {
+          "branch_name": "Shakhrisabz",
+          "city": "Shakhrisabz",
+          "swift_code": "INIPUZ21SHZ"
+        },
+        {
+          "branch_name": "Regional Branch Umar",
+          "city": "Samarkand",
+          "swift_code": "INIPUZ21UMA"
+        },
+        {
+          "branch_name": "Urikzor Branch",
+          "city": "Tashkent",
+          "swift_code": "INIPUZ21URB"
+        },
+        {
+          "branch_name": "Yakkasaray Branch",
+          "city": "Tashkent",
+          "swift_code": "INIPUZ21YKB"
+        },
+        {
+          "branch_name": "Yangiyul",
+          "city": "Yangiyul",
+          "swift_code": "INIPUZ21YNG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "INIPUZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asia Alliance Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "ASACUZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alokabank Joint Stock Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "JSCLUZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "'uzbek Industrial And Construction Bank' Open Joint-stock Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "UJSIUZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "'qishloq Qurilish Bank' Open Joint-stock Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tashkent",
+          "swift_code": "GJSOUZ22XXX"
+        }
+      ]
+    }
+  ]
+}

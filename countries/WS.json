@@ -1,0 +1,97 @@
+{
+  "country_name": "Samoa",
+  "alpha_2": "WS",
+  "country_code": "882",
+  "banks": [
+    {
+      "bank_name": "Westpac Bank Samoa Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Apia",
+          "swift_code": "PCOBWSWSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samoa Commercial Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Apia",
+          "swift_code": "SCOBWSWSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pacific Trade Bank Samoa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Apia",
+          "swift_code": "PTRMWSWSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Samoa Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Apia",
+          "swift_code": "NBSLWSWSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Business Bank Corporation Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Apia",
+          "swift_code": "IBBIWSW1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Independent Investment Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Apia",
+          "swift_code": "ININWSW1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Samoa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Apia",
+          "swift_code": "CBSAWSWSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "British American Tobacco (samoa) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Apia",
+          "swift_code": "BATSWSA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Anz Bank (samoa) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Apia",
+          "swift_code": "ANZBWSWWXXX"
+        }
+      ]
+    }
+  ]
+}

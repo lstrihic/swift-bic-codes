@@ -1,0 +1,4652 @@
+{
+  "country_name": "Bangladesh",
+  "alpha_2": "BD",
+  "country_code": "050",
+  "banks": [
+    {
+      "bank_name": "Woori Bank, Dhaka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "HVBKBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uttara Bank Limited",
+      "branches": [
+        {
+          "branch_name": "International Division",
+          "city": "Dhaka",
+          "swift_code": "UTBLBDDH431"
+        },
+        {
+          "branch_name": "Local Office",
+          "city": "Dhaka",
+          "swift_code": "UTBLBDDH432"
+        },
+        {
+          "branch_name": "Dilkusha Branch",
+          "city": "Dhaka",
+          "swift_code": "UTBLBDDH433"
+        },
+        {
+          "branch_name": "Chawk Bazar Dhaka Branch",
+          "city": "Dhaka",
+          "swift_code": "UTBLBDDH434"
+        },
+        {
+          "branch_name": "Foreign Exchange Branch",
+          "city": "Dhaka",
+          "swift_code": "UTBLBDDH435"
+        },
+        {
+          "branch_name": "Islampur Branch",
+          "city": "Dhaka",
+          "swift_code": "UTBLBDDH436"
+        },
+        {
+          "branch_name": "Narayanganj",
+          "city": "Narayanganj",
+          "swift_code": "UTBLBDDH437"
+        },
+        {
+          "branch_name": "Ramna Branch",
+          "city": "Dhaka",
+          "swift_code": "UTBLBDDH438"
+        },
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "UTBLBDDH439"
+        },
+        {
+          "branch_name": "Sylhet Branch",
+          "city": "Sylhet",
+          "swift_code": "UTBLBDDH440"
+        },
+        {
+          "branch_name": "Comilla Branch",
+          "city": "Comilla",
+          "swift_code": "UTBLBDDH441"
+        },
+        {
+          "branch_name": "Khatungonj Branch",
+          "city": "Chittagong",
+          "swift_code": "UTBLBDDH442"
+        },
+        {
+          "branch_name": "Sir Iqbal Road Branch",
+          "city": "Khulna",
+          "swift_code": "UTBLBDDH443"
+        },
+        {
+          "branch_name": "Barisal Branch",
+          "city": "Barisal",
+          "swift_code": "UTBLBDDH444"
+        },
+        {
+          "branch_name": "Shaheb Bazar Branch",
+          "city": "Rajshahi",
+          "swift_code": "UTBLBDDH445"
+        },
+        {
+          "branch_name": "Rangpur Branch",
+          "city": "Rangpur",
+          "swift_code": "UTBLBDDH446"
+        },
+        {
+          "branch_name": "Bogra Branch",
+          "city": "Bogra",
+          "swift_code": "UTBLBDDH447"
+        },
+        {
+          "branch_name": "Moulavi Bazar Branch",
+          "city": "Dhaka",
+          "swift_code": "UTBLBDDH448"
+        },
+        {
+          "branch_name": "Bangabandhu Avenue Branch",
+          "city": "Dhaka",
+          "swift_code": "UTBLBDDH449"
+        },
+        {
+          "branch_name": "Laldighi Branch",
+          "city": "Chittagong",
+          "swift_code": "UTBLBDDH450"
+        },
+        {
+          "branch_name": "Treasury Back Office",
+          "city": "Dhaka",
+          "swift_code": "UTBLBDDHTDB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "UTBLBDDHXXX"
+        },
+        {
+          "branch_name": "Shantinagar Branch",
+          "city": "Dhaka",
+          "swift_code": "UTBLBDDH451"
+        },
+        {
+          "branch_name": "Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "UTBLBDDH452"
+        },
+        {
+          "branch_name": "Banijya Shakha Branch",
+          "city": "Dhaka",
+          "swift_code": "UTBLBDDH453"
+        },
+        {
+          "branch_name": "Nawabpur Branch",
+          "city": "Dhaka",
+          "swift_code": "UTBLBDDH454"
+        },
+        {
+          "branch_name": "Kawran Bazar Branch",
+          "city": "Dhaka",
+          "swift_code": "UTBLBDDH455"
+        },
+        {
+          "branch_name": "Jessore Branch",
+          "city": "Jessore",
+          "swift_code": "UTBLBDDH456"
+        },
+        {
+          "branch_name": "Pallabi Branch",
+          "city": "Dhaka",
+          "swift_code": "UTBLBDDH457"
+        },
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "UTBLBDDH458"
+        },
+        {
+          "branch_name": "Mymensingh Branch",
+          "city": "Mymensingh",
+          "swift_code": "UTBLBDDH459"
+        },
+        {
+          "branch_name": "Epz Branch",
+          "city": "Dhaka",
+          "swift_code": "UTBLBDDH460"
+        },
+        {
+          "branch_name": "Kalabagan Branch",
+          "city": "Dhaka",
+          "swift_code": "UTBLBDDH461"
+        },
+        {
+          "branch_name": "Darus-salam Road Branch",
+          "city": "Dhaka",
+          "swift_code": "UTBLBDDH462"
+        },
+        {
+          "branch_name": "Satmasjid Road Branch",
+          "city": "Dhaka",
+          "swift_code": "UTBLBDDH463"
+        },
+        {
+          "branch_name": "English Road Branch",
+          "city": "Dhaka",
+          "swift_code": "UTBLBDDH464"
+        },
+        {
+          "branch_name": "Uttara Branch",
+          "city": "Dhaka",
+          "swift_code": "UTBLBDDH465"
+        },
+        {
+          "branch_name": "Pabna Branch",
+          "city": "Pabna",
+          "swift_code": "UTBLBDDH466"
+        },
+        {
+          "branch_name": "Natore Branch",
+          "city": "Nator",
+          "swift_code": "UTBLBDDH467"
+        },
+        {
+          "branch_name": "Sunamgonj Branch",
+          "city": "Sunamganj",
+          "swift_code": "UTBLBDDH468"
+        },
+        {
+          "branch_name": "Naogaon Branch",
+          "city": "Naogaon",
+          "swift_code": "UTBLBDDH469"
+        },
+        {
+          "branch_name": "Haluaghat Branch, Uttar Bazar, Haluaghat, Mymensingh",
+          "city": "Mymensingh",
+          "swift_code": "UTBLBDDH470"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Commercial Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "UCBLBDDHAGB"
+        },
+        {
+          "branch_name": "Bogra Branch",
+          "city": "Bogra",
+          "swift_code": "UCBLBDDHBGR"
+        },
+        {
+          "branch_name": "Bijoynagar Branch",
+          "city": "Dhaka",
+          "swift_code": "UCBLBDDHBJN"
+        },
+        {
+          "branch_name": "Banani Branch",
+          "city": "Dhaka",
+          "swift_code": "UCBLBDDHBNB"
+        },
+        {
+          "branch_name": "Bangshal Branch",
+          "city": "Dhaka",
+          "swift_code": "UCBLBDDHBNG"
+        },
+        {
+          "branch_name": "Elephant Road Branch",
+          "city": "Dhaka",
+          "swift_code": "UCBLBDDHEPR"
+        },
+        {
+          "branch_name": "Foreign Exchange Branch,dhaka",
+          "city": "Dhaka",
+          "swift_code": "UCBLBDDHFEX"
+        },
+        {
+          "branch_name": "Gulshan Avenue Branch",
+          "city": "Dhaka",
+          "swift_code": "UCBLBDDHGAB"
+        },
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "UCBLBDDHGSN"
+        },
+        {
+          "branch_name": "Jubilee Road Branch",
+          "city": "Chittagong",
+          "swift_code": "UCBLBDDHJBR"
+        },
+        {
+          "branch_name": "Kawran Bazar Branch",
+          "city": "Dhaka",
+          "swift_code": "UCBLBDDHKBZ"
+        },
+        {
+          "branch_name": "Kadamtali Branch",
+          "city": "Chittagong",
+          "swift_code": "UCBLBDDHKDM"
+        },
+        {
+          "branch_name": "Khulna Branch",
+          "city": "Khulna",
+          "swift_code": "UCBLBDDHKLN"
+        },
+        {
+          "branch_name": "Khatunganj",
+          "city": "Chittagong",
+          "swift_code": "UCBLBDDHKTG"
+        },
+        {
+          "branch_name": "Moulvi Bazar Branch",
+          "city": "Dhaka",
+          "swift_code": "UCBLBDDHMBD"
+        },
+        {
+          "branch_name": "Mohakhali Branch",
+          "city": "Dhaka",
+          "swift_code": "UCBLBDDHMKH"
+        },
+        {
+          "branch_name": "North Brook Hall Road Branch",
+          "city": "Dhaka",
+          "swift_code": "UCBLBDDHNBH"
+        },
+        {
+          "branch_name": "Naya Bazar Branch",
+          "city": "Dhaka",
+          "swift_code": "UCBLBDDHNBZ"
+        },
+        {
+          "branch_name": "Narayanganj Branch",
+          "city": "Narayanganj",
+          "swift_code": "UCBLBDDHNGJ"
+        },
+        {
+          "branch_name": "Nawabpur Branch",
+          "city": "Dhaka",
+          "swift_code": "UCBLBDDHNWP"
+        },
+        {
+          "branch_name": "Principal Branch",
+          "city": "Dhaka",
+          "swift_code": "UCBLBDDHPRB"
+        },
+        {
+          "branch_name": "Rajshahi Branch",
+          "city": "Rajshahi",
+          "swift_code": "UCBLBDDHRJH"
+        },
+        {
+          "branch_name": "Rangpur Branch",
+          "city": "Rangpur",
+          "swift_code": "UCBLBDDHRNG"
+        },
+        {
+          "branch_name": "Sylhet Branch",
+          "city": "Sylhet",
+          "swift_code": "UCBLBDDHSYL"
+        },
+        {
+          "branch_name": "Uttara Branch",
+          "city": "Dhaka",
+          "swift_code": "UCBLBDDHUTR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "UCBLBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Union Bank Limited",
+          "city": "Dhaka",
+          "swift_code": "UBLDBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trust Bank Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Principal Branch",
+          "city": "Dhaka",
+          "swift_code": "TTBLBDDH002"
+        },
+        {
+          "branch_name": "Sena Kalyan Bhaban Branch",
+          "city": "Dhaka",
+          "swift_code": "TTBLBDDH003"
+        },
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "TTBLBDDH012"
+        },
+        {
+          "branch_name": "Dhanmondi Branch",
+          "city": "Dhaka",
+          "swift_code": "TTBLBDDH014"
+        },
+        {
+          "branch_name": "Khatunganj",
+          "city": "Chittagong",
+          "swift_code": "TTBLBDDH015"
+        },
+        {
+          "branch_name": "Gulshan Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "TTBLBDDH016"
+        },
+        {
+          "branch_name": "Dilkusha Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "TTBLBDDH017"
+        },
+        {
+          "branch_name": "Cda Avenue Branch",
+          "city": "Chittagong",
+          "swift_code": "TTBLBDDH020"
+        },
+        {
+          "branch_name": "Sylhet Corporate Branch",
+          "city": "Sylhet",
+          "swift_code": "TTBLBDDH021"
+        },
+        {
+          "branch_name": "Millennium Branch",
+          "city": "Dhaka",
+          "swift_code": "TTBLBDDH022"
+        },
+        {
+          "branch_name": "Uttara Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "TTBLBDDH023"
+        },
+        {
+          "branch_name": "Halishahar Branch",
+          "city": "Chittagong",
+          "swift_code": "TTBLBDDH024"
+        },
+        {
+          "branch_name": "Karwan Bazar Branch",
+          "city": "Dhaka",
+          "swift_code": "TTBLBDDH030"
+        },
+        {
+          "branch_name": "Narayangonj Branch",
+          "city": "Narayanganj",
+          "swift_code": "TTBLBDDH035"
+        },
+        {
+          "branch_name": "Khulna Branch",
+          "city": "Khulna",
+          "swift_code": "TTBLBDDH040"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "TTBLBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Premier Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "PRMRBDDHAGR"
+        },
+        {
+          "branch_name": "Banani Branch",
+          "city": "Dhaka",
+          "swift_code": "PRMRBDDHBNN"
+        },
+        {
+          "branch_name": "Dhanmondi Branch",
+          "city": "Dhaka",
+          "swift_code": "PRMRBDDHDHN"
+        },
+        {
+          "branch_name": "Dilkusha Branch",
+          "city": "Dhaka",
+          "swift_code": "PRMRBDDHDIL"
+        },
+        {
+          "branch_name": "Elephant Road Branch",
+          "city": "Dhaka",
+          "swift_code": "PRMRBDDHELE"
+        },
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "PRMRBDDHGUL"
+        },
+        {
+          "branch_name": "Imamgonj Branch",
+          "city": "Dhaka",
+          "swift_code": "PRMRBDDHIMG"
+        },
+        {
+          "branch_name": "Kawranbazar Branch",
+          "city": "Dhaka",
+          "swift_code": "PRMRBDDHKBR"
+        },
+        {
+          "branch_name": "Khulna Branch",
+          "city": "Khulna",
+          "swift_code": "PRMRBDDHKLN"
+        },
+        {
+          "branch_name": "Khatungonj Branch",
+          "city": "Chittagong",
+          "swift_code": "PRMRBDDHKTG"
+        },
+        {
+          "branch_name": "Islami Banking Branch, Mohakhali",
+          "city": "Dhaka",
+          "swift_code": "PRMRBDDHMHK"
+        },
+        {
+          "branch_name": "Motijheel Branch",
+          "city": "Dhaka",
+          "swift_code": "PRMRBDDHMTJ"
+        },
+        {
+          "branch_name": "Narayangonj Branch",
+          "city": "Narayanganj",
+          "swift_code": "PRMRBDDHNRG"
+        },
+        {
+          "branch_name": "Uttara Branch",
+          "city": "Dhaka",
+          "swift_code": "PRMRBDDHUTT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "PRMRBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Farmers Bank Limited",
+      "branches": [
+        {
+          "branch_name": "The Farmers Bank Limited",
+          "city": "Dhaka",
+          "swift_code": "FRMSBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Principal Branch",
+          "city": "Dhaka",
+          "swift_code": "SDBLBDDH102"
+        },
+        {
+          "branch_name": "Khatungonj Branch",
+          "city": "Chittagong",
+          "swift_code": "SDBLBDDH103"
+        },
+        {
+          "branch_name": "Imamgonj Branch",
+          "city": "Dhaka",
+          "swift_code": "SDBLBDDH104"
+        },
+        {
+          "branch_name": "Topkhana Road",
+          "city": "Dhaka",
+          "swift_code": "SDBLBDDH105"
+        },
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "SDBLBDDH107"
+        },
+        {
+          "branch_name": "Khulna Branch",
+          "city": "Khulna",
+          "swift_code": "SDBLBDDH108"
+        },
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "SDBLBDDH109"
+        },
+        {
+          "branch_name": "Sylhet Branch",
+          "city": "Sylhet",
+          "swift_code": "SDBLBDDH110"
+        },
+        {
+          "branch_name": "Jubilee Road Branch",
+          "city": "Chittagong",
+          "swift_code": "SDBLBDDH112"
+        },
+        {
+          "branch_name": "Foreign Ex Branch",
+          "city": "Dhaka",
+          "swift_code": "SDBLBDDH113"
+        },
+        {
+          "branch_name": "Dhanmondi Branch",
+          "city": "Dhaka",
+          "swift_code": "SDBLBDDH114"
+        },
+        {
+          "branch_name": "Uttara Model Town Branch",
+          "city": "Dhaka",
+          "swift_code": "SDBLBDDH115"
+        },
+        {
+          "branch_name": "Narayangonj Branch",
+          "city": "Dhaka",
+          "swift_code": "SDBLBDDH116"
+        },
+        {
+          "branch_name": "Gulshan-1 Branch",
+          "city": "Dhaka",
+          "swift_code": "SDBLBDDH117"
+        },
+        {
+          "branch_name": "Dhaka",
+          "city": "Dhaka",
+          "swift_code": "SDBLBDDH118"
+        },
+        {
+          "branch_name": "Banani Branch",
+          "city": "Dhaka",
+          "swift_code": "SDBLBDDH119"
+        },
+        {
+          "branch_name": "Mirpur Branch",
+          "city": "Dhaka",
+          "swift_code": "SDBLBDDH120"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "SDBLBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Southeast Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Agargaon Branch",
+          "city": "Dhaka",
+          "swift_code": "SEBDBDDHAGA"
+        },
+        {
+          "branch_name": "Agrabad Branch, Chittagong",
+          "city": "Chittagong",
+          "swift_code": "SEBDBDDHAGR"
+        },
+        {
+          "branch_name": "Banani Branch",
+          "city": "Dhaka",
+          "swift_code": "SEBDBDDHBAN"
+        },
+        {
+          "branch_name": "Bangshal Branch, Dhaka",
+          "city": "Dhaka",
+          "swift_code": "SEBDBDDHBNG"
+        },
+        {
+          "branch_name": "Cda Avenue Branch",
+          "city": "Chittagong",
+          "swift_code": "SEBDBDDHCDA"
+        },
+        {
+          "branch_name": "Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "SEBDBDDHCRP"
+        },
+        {
+          "branch_name": "Dhanmondi Branch, Dhaka",
+          "city": "Dhaka",
+          "swift_code": "SEBDBDDHDHN"
+        },
+        {
+          "branch_name": "New Eskaton Branch",
+          "city": "Dhaka",
+          "swift_code": "SEBDBDDHESK"
+        },
+        {
+          "branch_name": "Gulshan Branch, Dhaka",
+          "city": "Dhaka",
+          "swift_code": "SEBDBDDHGUL"
+        },
+        {
+          "branch_name": "Imamganj Branch, Dhaka",
+          "city": "Dhaka",
+          "swift_code": "SEBDBDDHIMG"
+        },
+        {
+          "branch_name": "Jubilee Road Branch, Chittagong",
+          "city": "Chittagong",
+          "swift_code": "SEBDBDDHJUB"
+        },
+        {
+          "branch_name": "Khulna Branch",
+          "city": "Khulna",
+          "swift_code": "SEBDBDDHKLN"
+        },
+        {
+          "branch_name": "Karwan Bazar Branch",
+          "city": "Dhaka",
+          "swift_code": "SEBDBDDHKRN"
+        },
+        {
+          "branch_name": "Khatunganj Branch, Chittagong",
+          "city": "Chittagong",
+          "swift_code": "SEBDBDDHKTG"
+        },
+        {
+          "branch_name": "Laldighirpar Branch, Sylhet",
+          "city": "Sylhet",
+          "swift_code": "SEBDBDDHLDP"
+        },
+        {
+          "branch_name": "Motijheel Branch Islamic Banking",
+          "city": "Dhaka",
+          "swift_code": "SEBDBDDHMIB"
+        },
+        {
+          "branch_name": "Narayanganj Branch",
+          "city": "Narayanganj",
+          "swift_code": "SEBDBDDHNAR"
+        },
+        {
+          "branch_name": "New Elephant Road Branch",
+          "city": "Dhaka",
+          "swift_code": "SEBDBDDHNER"
+        },
+        {
+          "branch_name": "Off-shore Banking Unit Obu, Cepz",
+          "city": "Chittagong",
+          "swift_code": "SEBDBDDHOBC"
+        },
+        {
+          "branch_name": "Dhaka",
+          "city": "Dhaka",
+          "swift_code": "SEBDBDDHOBU"
+        },
+        {
+          "branch_name": "Principal Branch, Dhaka",
+          "city": "Dhaka",
+          "swift_code": "SEBDBDDHSPB"
+        },
+        {
+          "branch_name": "Shyamoli Branch",
+          "city": "Dhaka",
+          "swift_code": "SEBDBDDHSYM"
+        },
+        {
+          "branch_name": "Uttara Branch",
+          "city": "Dhaka",
+          "swift_code": "SEBDBDDHUTT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "SEBDBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "South Bangla Agriculture And Commerce Bank Limited",
+      "branches": [
+        {
+          "branch_name": "South Bangla Agriculture And Commerce Bank Limited",
+          "city": "Dhaka",
+          "swift_code": "SBACBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sonali Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Agrabad Corporate Branch, Chittagong",
+          "city": "Chittagong",
+          "swift_code": "BSONBDDHAGR"
+        },
+        {
+          "branch_name": "Banga Bandhu Avenue Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "BSONBDDHBBA"
+        },
+        {
+          "branch_name": "Sonali Bank Limited, Bahaddarhat Branch, Chittagong",
+          "city": "Chittagong",
+          "swift_code": "BSONBDDHBHT"
+        },
+        {
+          "branch_name": "Corporate Branch Bogra",
+          "city": "Bogra",
+          "swift_code": "BSONBDDHBOG"
+        },
+        {
+          "branch_name": "Brahmanbaria Br",
+          "city": "Brahmanbaria",
+          "swift_code": "BSONBDDHBRM"
+        },
+        {
+          "branch_name": "B Wapda Bhaban Corporate Branch, Motijheel",
+          "city": "Dhaka",
+          "swift_code": "BSONBDDHBWP"
+        },
+        {
+          "branch_name": "Comilla Corporate Br",
+          "city": "Comilla",
+          "swift_code": "BSONBDDHCCB"
+        },
+        {
+          "branch_name": "Chapai Nawabgonj Br",
+          "city": "Chapainawabganj",
+          "swift_code": "BSONBDDHCHP"
+        },
+        {
+          "branch_name": "Cantonment Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "BSONBDDHCNT"
+        },
+        {
+          "branch_name": "Laldighi Corporate Branch",
+          "city": "Chittagong",
+          "swift_code": "BSONBDDHCTG"
+        },
+        {
+          "branch_name": "Sonali Bank Limited, Chhatak Branch, Sunamganj",
+          "city": "Sunamganj",
+          "swift_code": "BSONBDDHCTK"
+        },
+        {
+          "branch_name": "Chowk Bazar Br",
+          "city": "Dhaka",
+          "swift_code": "BSONBDDHCWK"
+        },
+        {
+          "branch_name": "Daulatpur Corporate Branch",
+          "city": "Khulna",
+          "swift_code": "BSONBDDHDAU"
+        },
+        {
+          "branch_name": "Dargagate Corporate Branch, Dargagate",
+          "city": "Sylhet",
+          "swift_code": "BSONBDDHDGT"
+        },
+        {
+          "branch_name": "Dhanmondi Branch",
+          "city": "Dhaka",
+          "swift_code": "BSONBDDHDHN"
+        },
+        {
+          "branch_name": "Dilkusha Corporate Branch, Dhaka",
+          "city": "Dhaka",
+          "swift_code": "BSONBDDHDIL"
+        },
+        {
+          "branch_name": "Corporate Branch Dinajpur",
+          "city": "Dinajpur",
+          "swift_code": "BSONBDDHDNJ"
+        },
+        {
+          "branch_name": "Foreign Currency Management Division, Head Office",
+          "city": "Dhaka",
+          "swift_code": "BSONBDDHFCD"
+        },
+        {
+          "branch_name": "Foreign Exchange Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "BSONBDDHFEB"
+        },
+        {
+          "branch_name": "Green Road Br",
+          "city": "Dhaka",
+          "swift_code": "BSONBDDHGRN"
+        },
+        {
+          "branch_name": "Sirajgonj Branch",
+          "city": "Sirajganj",
+          "swift_code": "BSONBDDHSRJ"
+        },
+        {
+          "branch_name": "Wage Earners Corporate Branch, Dhaka",
+          "city": "Dhaka",
+          "swift_code": "BSONBDDHWEB"
+        },
+        {
+          "branch_name": "Wage Earners Br",
+          "city": "Chittagong",
+          "swift_code": "BSONBDDHWEC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "BSONBDDHXXX"
+        },
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "BSONBDDHGUL"
+        },
+        {
+          "branch_name": "Hotel Sheraton Br Dhaka",
+          "city": "Dhaka",
+          "swift_code": "BSONBDDHHST"
+        },
+        {
+          "branch_name": "Jessore Corp Br",
+          "city": "Jessore",
+          "swift_code": "BSONBDDHJSR"
+        },
+        {
+          "branch_name": "Khatungonj Br",
+          "city": "Chittagong",
+          "swift_code": "BSONBDDHKHA"
+        },
+        {
+          "branch_name": "Khulna Corporate Branch",
+          "city": "Khulna",
+          "swift_code": "BSONBDDHKHU"
+        },
+        {
+          "branch_name": "Kushtia Br",
+          "city": "Kushtia",
+          "swift_code": "BSONBDDHKST"
+        },
+        {
+          "branch_name": "Foreign Exchange Branch, Narayangonj",
+          "city": "Narayanganj",
+          "swift_code": "BSONBDDHLAD"
+        },
+        {
+          "branch_name": "Lalmonirhat Br",
+          "city": "Rangpur",
+          "swift_code": "BSONBDDHLAL"
+        },
+        {
+          "branch_name": "Local Office",
+          "city": "Dhaka",
+          "swift_code": "BSONBDDHLOD"
+        },
+        {
+          "branch_name": "Foreign Exchange Br Moulvi Bazar, Sylhet",
+          "city": "Moulvibazar",
+          "swift_code": "BSONBDDHMLV"
+        },
+        {
+          "branch_name": "Sonali Bank Ltd Mymensingh Corp Br",
+          "city": "Mymensingh",
+          "swift_code": "BSONBDDHMYM"
+        },
+        {
+          "branch_name": "Narayangong Corporate Branch, Narayangong",
+          "city": "Narayanganj",
+          "swift_code": "BSONBDDHNAR"
+        },
+        {
+          "branch_name": "Rajshahi Corporate Br",
+          "city": "Rajshahi",
+          "swift_code": "BSONBDDHRAJ"
+        },
+        {
+          "branch_name": "Ramna Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "BSONBDDHRAM"
+        },
+        {
+          "branch_name": "Corporate Branch Rangpur",
+          "city": "Rangpur",
+          "swift_code": "BSONBDDHRNG"
+        },
+        {
+          "branch_name": "Railway Building Branch",
+          "city": "Chittagong",
+          "swift_code": "BSONBDDHRWB"
+        },
+        {
+          "branch_name": "Satkhira Br",
+          "city": "Satkhira",
+          "swift_code": "BSONBDDHSAT"
+        },
+        {
+          "branch_name": "Sadarghat Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "BSONBDDHSDR"
+        },
+        {
+          "branch_name": "Shilpa Bhaban Corporate Branch, Dhaka",
+          "city": "Dhaka",
+          "swift_code": "BSONBDDHSLP"
+        },
+        {
+          "branch_name": "Sunamgonj Br",
+          "city": "Sunamganj",
+          "swift_code": "BSONBDDHSNG"
+        }
+      ]
+    },
+    {
+      "bank_name": "Social Islami Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Agrabad Branch, Chittagong",
+          "city": "Chittagong",
+          "swift_code": "SOIVBDDHAGB"
+        },
+        {
+          "branch_name": "Banani",
+          "city": "Dhaka",
+          "swift_code": "SOIVBDDHBAN"
+        },
+        {
+          "branch_name": "Babubazar Branch, Dhaka",
+          "city": "Dhaka",
+          "swift_code": "SOIVBDDHBBR"
+        },
+        {
+          "branch_name": "Bogra Branch, Bogra",
+          "city": "Bogra",
+          "swift_code": "SOIVBDDHBOG"
+        },
+        {
+          "branch_name": "Centralized Trade Processing Unit Ctpu",
+          "city": "Dhaka",
+          "swift_code": "SOIVBDDHCTP"
+        },
+        {
+          "branch_name": "Foreign Exchange Branch",
+          "city": "Dhaka",
+          "swift_code": "SOIVBDDHFEX"
+        },
+        {
+          "branch_name": "Gulshan Branch, Dhaka",
+          "city": "Dhaka",
+          "swift_code": "SOIVBDDHGUL"
+        },
+        {
+          "branch_name": "Jubilee Road",
+          "city": "Chittagong Chittagong",
+          "swift_code": "SOIVBDDHJUB"
+        },
+        {
+          "branch_name": "Khulna Branch",
+          "city": "Khulna",
+          "swift_code": "SOIVBDDHKHU"
+        },
+        {
+          "branch_name": "Khatungonj Branch",
+          "city": "Chittagong",
+          "swift_code": "SOIVBDDHKTJ"
+        },
+        {
+          "branch_name": "Moulvibazar Branch, Dhaka",
+          "city": "Dhaka",
+          "swift_code": "SOIVBDDHMVR"
+        },
+        {
+          "branch_name": "Narayanganj",
+          "city": "Narayanganj",
+          "swift_code": "SOIVBDDHNGJ"
+        },
+        {
+          "branch_name": "Offshore Banking Unit",
+          "city": "Dhaka",
+          "swift_code": "SOIVBDDHOBU"
+        },
+        {
+          "branch_name": "Principal Branch, Dhaka",
+          "city": "Dhaka",
+          "swift_code": "SOIVBDDHPRN"
+        },
+        {
+          "branch_name": "Rajshahi Branch",
+          "city": "Rajshahi",
+          "swift_code": "SOIVBDDHRAJ"
+        },
+        {
+          "branch_name": "Sylhet Branch",
+          "city": "Sylhet",
+          "swift_code": "SOIVBDDHSYL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "SOIVBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shajalal Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "SHAJBDD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shahjalal Islami Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Kawran Bazar Branch",
+          "city": "Dhaka",
+          "swift_code": "SJBLBDD1KWR"
+        },
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "SJBLBDDHAGB"
+        },
+        {
+          "branch_name": "Banani Branch",
+          "city": "Dhaka",
+          "swift_code": "SJBLBDDHBAN"
+        },
+        {
+          "branch_name": "Banani",
+          "city": "Dhaka",
+          "swift_code": "SJBLBDDHBNA"
+        },
+        {
+          "branch_name": "Bangshal Branch",
+          "city": "Dhaka",
+          "swift_code": "SJBLBDDHBNG"
+        },
+        {
+          "branch_name": "2-b Gulshan South Avenue 4th Floor",
+          "city": "Dhaka",
+          "swift_code": "SJBLBDDHCPC"
+        },
+        {
+          "branch_name": "Dhanmondi Branch",
+          "city": "Dhaka",
+          "swift_code": "SJBLBDDHDHN"
+        },
+        {
+          "branch_name": "Dhaka Main Branch",
+          "city": "Dhaka",
+          "swift_code": "SJBLBDDHDMB"
+        },
+        {
+          "branch_name": "Eskaton Fantasia",
+          "city": "Dhaka",
+          "swift_code": "SJBLBDDHESK"
+        },
+        {
+          "branch_name": "Foreign Exchange Branch",
+          "city": "Dhaka",
+          "swift_code": "SJBLBDDHFEX"
+        },
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "SJBLBDDHGUL"
+        },
+        {
+          "branch_name": "Jessore",
+          "city": "Jessore",
+          "swift_code": "SJBLBDDHJSR"
+        },
+        {
+          "branch_name": "Chittagong",
+          "city": "Chittagong",
+          "swift_code": "SJBLBDDHJUB"
+        },
+        {
+          "branch_name": "T K Bhaban",
+          "city": "Dhaka",
+          "swift_code": "SJBLBDDHKAW"
+        },
+        {
+          "branch_name": "Khulna",
+          "city": "Khulna",
+          "swift_code": "SJBLBDDHKHU"
+        },
+        {
+          "branch_name": "Khulna Branch",
+          "city": "Khulna",
+          "swift_code": "SJBLBDDHKLN"
+        },
+        {
+          "branch_name": "Khatunganj Branch",
+          "city": "Chittagong",
+          "swift_code": "SJBLBDDHKTG"
+        },
+        {
+          "branch_name": "Mitford Branch",
+          "city": "Dhaka",
+          "swift_code": "SJBLBDDHMFB"
+        },
+        {
+          "branch_name": "Karim Chamber",
+          "city": "Dhaka",
+          "swift_code": "SJBLBDDHMOT"
+        },
+        {
+          "branch_name": "Narayanganj Branch",
+          "city": "Dhaka",
+          "swift_code": "SJBLBDDHNGJ"
+        },
+        {
+          "branch_name": "Offshore Banking Unit",
+          "city": "Dhaka",
+          "swift_code": "SJBLBDDHOBU"
+        },
+        {
+          "branch_name": "Satmoshjid",
+          "city": "Dhaka",
+          "swift_code": "SJBLBDDHSAT"
+        },
+        {
+          "branch_name": "Satmoshjid Branch",
+          "city": "Dhaka",
+          "swift_code": "SJBLBDDHSMR"
+        },
+        {
+          "branch_name": "Sylhet Branch",
+          "city": "Sylhet",
+          "swift_code": "SJBLBDDHSYL"
+        },
+        {
+          "branch_name": "Uttara Branch",
+          "city": "Dhaka",
+          "swift_code": "SJBLBDDHUTR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "SJBLBDDHXXX"
+        },
+        {
+          "branch_name": "Jubilee Road",
+          "city": "Chittagong",
+          "swift_code": "SJBLBDD1JUB"
+        },
+        {
+          "branch_name": "Narayanganj Branch",
+          "city": "Dhaka",
+          "swift_code": "SJBLBDD1NGJ"
+        },
+        {
+          "branch_name": "Offshore Banking Unit",
+          "city": "Dhaka",
+          "swift_code": "SJBLBDD1OBU"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ses Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "SEOFBDD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ses Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "SESEBDD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scl Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "SCSOBDD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sar Securities Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "SEROBDD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bangladesh Development Bank Limited (bdbl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "BDDBBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bangladesh Commerce Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Principal Branch",
+          "city": "Dhaka",
+          "swift_code": "BCBLBDDH013"
+        },
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "BCBLBDDH014"
+        },
+        {
+          "branch_name": "Bangshal Branch",
+          "city": "Dhaka",
+          "swift_code": "BCBLBDDH015"
+        },
+        {
+          "branch_name": "Tanbazar Branch",
+          "city": "Narayanganj",
+          "swift_code": "BCBLBDDH016"
+        },
+        {
+          "branch_name": "Moulavi Bazar Branch",
+          "city": "Dhaka",
+          "swift_code": "BCBLBDDH017"
+        },
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "BCBLBDDH018"
+        },
+        {
+          "branch_name": "Dilkusha Branch",
+          "city": "Dhaka",
+          "swift_code": "BCBLBDDH019"
+        },
+        {
+          "branch_name": "Jubilee Road Branch",
+          "city": "Chittagong",
+          "swift_code": "BCBLBDDH020"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "BCBLBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bangladesh Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "BBHOBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al-arafah Islami Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "1000 Dhaka",
+          "city": "Dhaka",
+          "swift_code": "ALARBDDH066"
+        },
+        {
+          "branch_name": "1000 Dhaka",
+          "city": "Dhaka",
+          "swift_code": "ALARBDDH067"
+        },
+        {
+          "branch_name": "Khulna",
+          "city": "Khulna",
+          "swift_code": "ALARBDDH068"
+        },
+        {
+          "branch_name": "Chittagong",
+          "city": "Chittagong",
+          "swift_code": "ALARBDDH069"
+        },
+        {
+          "branch_name": "3100 Sylhet",
+          "city": "Sylhet",
+          "swift_code": "ALARBDDH070"
+        },
+        {
+          "branch_name": "Bogra",
+          "city": "Bogra",
+          "swift_code": "ALARBDDH071"
+        },
+        {
+          "branch_name": "Chittagong",
+          "city": "Chittagong",
+          "swift_code": "ALARBDDH072"
+        },
+        {
+          "branch_name": "Rajshahi",
+          "city": "Rajshahi",
+          "swift_code": "ALARBDDH073"
+        },
+        {
+          "branch_name": "Dhaka",
+          "city": "Dhaka",
+          "swift_code": "ALARBDDH074"
+        },
+        {
+          "branch_name": "1000 Dhaka",
+          "city": "Dhaka",
+          "swift_code": "ALARBDDH075"
+        },
+        {
+          "branch_name": "Chittagong",
+          "city": "Chittagong",
+          "swift_code": "ALARBDDH076"
+        },
+        {
+          "branch_name": "Dhaka",
+          "city": "Dhaka",
+          "swift_code": "ALARBDDH077"
+        },
+        {
+          "branch_name": "Sayedpur Branch",
+          "city": "Nilphamari",
+          "swift_code": "ALARBDDH078"
+        },
+        {
+          "branch_name": "Dhaka",
+          "city": "Dhaka",
+          "swift_code": "ALARBDDH079"
+        },
+        {
+          "branch_name": "Dilkusha Branch",
+          "city": "Dilkusha",
+          "swift_code": "ALARBDDH080"
+        },
+        {
+          "branch_name": "New Elephant Road Branch",
+          "city": "Dhaka",
+          "swift_code": "ALARBDDH081"
+        },
+        {
+          "branch_name": "Uttara Branch",
+          "city": "Dhaka",
+          "swift_code": "ALARBDDH082"
+        },
+        {
+          "branch_name": "Jatrabari Branch",
+          "city": "Dhaka",
+          "swift_code": "ALARBDDH083"
+        },
+        {
+          "branch_name": "Dhanmondi Branch",
+          "city": "Dhaka",
+          "swift_code": "ALARBDDH084"
+        },
+        {
+          "branch_name": "North South Road Branch",
+          "city": "Dhaka",
+          "swift_code": "ALARBDDH085"
+        },
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "ALARBDDH086"
+        },
+        {
+          "branch_name": "O R Nizam Road Branch",
+          "city": "Chittagong",
+          "swift_code": "ALARBDDH087"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "ALARBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agrani Bank,ramna Branch,dhaka(phaka",
+      "branches": [
+        {
+          "branch_name": "Ramna Branch,dhaka",
+          "city": "Dhaka",
+          "swift_code": "AGBKBDDH005"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agrani Bank Limited",
+      "branches": [
+        {
+          "branch_name": "International Division,dhaka",
+          "city": "Dhaka",
+          "swift_code": "AGBKBDDH000"
+        },
+        {
+          "branch_name": "Principal Branch, Dhaka",
+          "city": "Dhaka",
+          "swift_code": "AGBKBDDH001"
+        },
+        {
+          "branch_name": "Bangabandhu Avenue Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "AGBKBDDH002"
+        },
+        {
+          "branch_name": "Moulvi Bazar Branch,dhaka",
+          "city": "Dhaka",
+          "swift_code": "AGBKBDDH003"
+        },
+        {
+          "branch_name": "Amin Court Branch,dhaka",
+          "city": "Dhaka",
+          "swift_code": "AGBKBDDH004"
+        },
+        {
+          "branch_name": "Foreign Exchange Branch,dhaka",
+          "city": "Dhaka",
+          "swift_code": "AGBKBDDH006"
+        },
+        {
+          "branch_name": "Sadarghat Branch",
+          "city": "Dhaka",
+          "swift_code": "AGBKBDDH007"
+        },
+        {
+          "branch_name": "Banani Branch",
+          "city": "Dhaka",
+          "swift_code": "AGBKBDDH008"
+        },
+        {
+          "branch_name": "B B Road Corp Br",
+          "city": "Narayanganj",
+          "swift_code": "AGBKBDDH009"
+        },
+        {
+          "branch_name": "Court Road Branch",
+          "city": "Narayanganj",
+          "swift_code": "AGBKBDDH010"
+        },
+        {
+          "branch_name": "Faridpur Branch",
+          "city": "Faridpur",
+          "swift_code": "AGBKBDDH011"
+        },
+        {
+          "branch_name": "Wasa Branch",
+          "city": "Dhaka",
+          "swift_code": "AGBKBDDH012"
+        },
+        {
+          "branch_name": "Dhaka",
+          "city": "Dhaka",
+          "swift_code": "AGBKBDDH013"
+        },
+        {
+          "branch_name": "Nawabpur Road Branch",
+          "city": "Dhaka",
+          "swift_code": "AGBKBDDH014"
+        },
+        {
+          "branch_name": "Commercial Area Branch,chittagong",
+          "city": "Chittagong",
+          "swift_code": "AGBKBDDH015"
+        },
+        {
+          "branch_name": "Asadgonj Branch",
+          "city": "Chittagong",
+          "swift_code": "AGBKBDDH016"
+        },
+        {
+          "branch_name": "Laldighi East Branch, Chittagong",
+          "city": "Chittagong",
+          "swift_code": "AGBKBDDH017"
+        },
+        {
+          "branch_name": "Agrabad Jahan Bld Corp Br",
+          "city": "Chittagong",
+          "swift_code": "AGBKBDDH018"
+        },
+        {
+          "branch_name": "Rajgonj Branch",
+          "city": "Comilla",
+          "swift_code": "AGBKBDDH020"
+        },
+        {
+          "branch_name": "Laldighirpar Branch",
+          "city": "Sylhet",
+          "swift_code": "AGBKBDDH021"
+        },
+        {
+          "branch_name": "Chowmohoni Branch",
+          "city": "Noakhali",
+          "swift_code": "AGBKBDDH022"
+        },
+        {
+          "branch_name": "Sir Iqbal Road Branch,khulna",
+          "city": "Khulna",
+          "swift_code": "AGBKBDDH023"
+        },
+        {
+          "branch_name": "Jessore Branch",
+          "city": "Jessore",
+          "swift_code": "AGBKBDDH024"
+        },
+        {
+          "branch_name": "Shaheb Bazar Branch",
+          "city": "Rajshahi",
+          "swift_code": "AGBKBDDH027"
+        },
+        {
+          "branch_name": "Thana Road Br",
+          "city": "Bogra",
+          "swift_code": "AGBKBDDH029"
+        },
+        {
+          "branch_name": "Maldapatty Branch",
+          "city": "Dinajpur",
+          "swift_code": "AGBKBDDH030"
+        },
+        {
+          "branch_name": "Hakimpur Br",
+          "city": "Dinajpur",
+          "swift_code": "AGBKBDDH031"
+        },
+        {
+          "branch_name": "Clay Road Br",
+          "city": "Khulna",
+          "swift_code": "AGBKBDDH032"
+        },
+        {
+          "branch_name": "B Wapda Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "AGBKBDDH033"
+        },
+        {
+          "branch_name": "Purana Paltan Branch",
+          "city": "Dhaka",
+          "swift_code": "AGBKBDDH034"
+        },
+        {
+          "branch_name": "Epz Branch",
+          "city": "Chittagong",
+          "swift_code": "AGBKBDDH035"
+        },
+        {
+          "branch_name": "Green Road Br",
+          "city": "Dhaka",
+          "swift_code": "AGBKBDDH036"
+        },
+        {
+          "branch_name": "New Market Branch,ctg",
+          "city": "Chittagong",
+          "swift_code": "AGBKBDDH039"
+        },
+        {
+          "branch_name": "Sheraton Hotel Branch",
+          "city": "Dhaka",
+          "swift_code": "AGBKBDDH040"
+        },
+        {
+          "branch_name": "Strand Road Br",
+          "city": "Chittagong",
+          "swift_code": "AGBKBDDH041"
+        },
+        {
+          "branch_name": "Foreign Currency Management Division",
+          "city": "Dhaka",
+          "swift_code": "AGBKBDDH099"
+        },
+        {
+          "branch_name": "Chittagong",
+          "city": "Chittagong",
+          "swift_code": "AGBKBDDH0CH"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "AGBKBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Adarsha Securities (pvt.) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "ADSPBDD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abdus Samad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "ABDABDD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abdul Latif Miah",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "ABLMBDD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abdul Hye",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "ABDYBDD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abdul Haque And Sons Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "ABDHBDD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "A.f.m. Shamsuddin",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "SHAMBDD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hongkong And Shanghai Banking Corporation Ltd, The",
+      "branches": [
+        {
+          "branch_name": "Chittagong",
+          "city": "Chittagong",
+          "swift_code": "HSBCBDDHCHG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "HSBCBDDHXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Labuan",
+          "swift_code": "HSBCMYKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asian Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "ASDBBDD1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "ASDBPHMMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ASDBIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rupali Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "RUPBBDDHAGC"
+        },
+        {
+          "branch_name": "Chhoto Bazar Branch",
+          "city": "Mymensingh",
+          "swift_code": "RUPBBDDHCBM"
+        },
+        {
+          "branch_name": "9202 Khulna",
+          "city": "Khulna",
+          "swift_code": "RUPBBDDHDPK"
+        },
+        {
+          "branch_name": "Johnson Road Branch",
+          "city": "Dhaka",
+          "swift_code": "RUPBBDDHJRD"
+        },
+        {
+          "branch_name": "Local Office, Dhaka",
+          "city": "Dhaka",
+          "swift_code": "RUPBBDDHLOD"
+        },
+        {
+          "branch_name": "Mira Bazar Branch",
+          "city": "Sylhet",
+          "swift_code": "RUPBBDDHMBS"
+        },
+        {
+          "branch_name": "Motijheel Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "RUPBBDDHMCD"
+        },
+        {
+          "branch_name": "Mitford Branch",
+          "city": "Dhaka",
+          "swift_code": "RUPBBDDHMFD"
+        },
+        {
+          "branch_name": "Purana Paltan Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "RUPBBDDHPPD"
+        },
+        {
+          "branch_name": "Ramna Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "RUPBBDDHRBD"
+        },
+        {
+          "branch_name": "Remittance Division",
+          "city": "Dhaka",
+          "swift_code": "RUPBBDDHREM"
+        },
+        {
+          "branch_name": "Foreign Exchange Corporate Branch, Dhaka",
+          "city": "Dhaka",
+          "swift_code": "RUPBBDDHRFB"
+        },
+        {
+          "branch_name": "Rupali Sadan Branch, Chittagong",
+          "city": "Chittagong",
+          "swift_code": "RUPBBDDHRSC"
+        },
+        {
+          "branch_name": "Rupali Sadan Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "RUPBBDDHRSD"
+        },
+        {
+          "branch_name": "Shams-building Branch, Khulna",
+          "city": "Khulna",
+          "swift_code": "RUPBBDDHSBK"
+        },
+        {
+          "branch_name": "Shaheb Bazar Branch",
+          "city": "Rajshahi",
+          "swift_code": "RUPBBDDHSBR"
+        },
+        {
+          "branch_name": "Shaista Khan Road S K Road Branch, Narayangonj",
+          "city": "Narayanganj",
+          "swift_code": "RUPBBDDHSKN"
+        },
+        {
+          "branch_name": "Tcb Bhaban Branch",
+          "city": "Dhaka",
+          "swift_code": "RUPBBDDHTCB"
+        },
+        {
+          "branch_name": "Thana Road Branch",
+          "city": "Bogra",
+          "swift_code": "RUPBBDDHTRB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "RUPBBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Imtiyaz Husain And Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "IMHUBDD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Idlc Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "IDLCBDD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Icb Islamic Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Principal Office",
+          "city": "Dhaka",
+          "swift_code": "BBSHBDDH002"
+        },
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "BBSHBDDH003"
+        },
+        {
+          "branch_name": "Khatunganj Branch",
+          "city": "Chittagong",
+          "swift_code": "BBSHBDDH005"
+        },
+        {
+          "branch_name": "Vip Road Branch",
+          "city": "Dhaka",
+          "swift_code": "BBSHBDDH006"
+        },
+        {
+          "branch_name": "Sylhet Branch",
+          "city": "Sylhet",
+          "swift_code": "BBSHBDDH007"
+        },
+        {
+          "branch_name": "Narayanganj Branch",
+          "city": "Narayanganj",
+          "swift_code": "BBSHBDDH008"
+        },
+        {
+          "branch_name": "Khulna Branch",
+          "city": "Khulna",
+          "swift_code": "BBSHBDDH015"
+        },
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "BBSHBDDH025"
+        },
+        {
+          "branch_name": "Babubazar Branch",
+          "city": "Dhaka",
+          "swift_code": "BBSHBDDH029"
+        },
+        {
+          "branch_name": "Nawabpur Branch",
+          "city": "Dhaka",
+          "swift_code": "BBSHBDDH030"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "BBSHBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Security Islami Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Agrabad",
+          "city": "Chittagong",
+          "swift_code": "FSEBBDDHAGR"
+        },
+        {
+          "branch_name": "Banani Branch",
+          "city": "Dhaka",
+          "swift_code": "FSEBBDDHBAN"
+        },
+        {
+          "branch_name": "Bangshal",
+          "city": "Dhaka",
+          "swift_code": "FSEBBDDHBNG"
+        },
+        {
+          "branch_name": "Dhanmondi Branch",
+          "city": "Dhaka",
+          "swift_code": "FSEBBDDHDHA"
+        },
+        {
+          "branch_name": "Dilkusha",
+          "city": "Dhaka",
+          "swift_code": "FSEBBDDHDIL"
+        },
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "FSEBBDDHGUL"
+        },
+        {
+          "branch_name": "Jubilee Road Branch",
+          "city": "Chittagong",
+          "swift_code": "FSEBBDDHJUB"
+        },
+        {
+          "branch_name": "Khatungong",
+          "city": "Chittagong",
+          "swift_code": "FSEBBDDHKTG"
+        },
+        {
+          "branch_name": "Mohakhali",
+          "city": "Dhaka",
+          "swift_code": "FSEBBDDHMKH"
+        },
+        {
+          "branch_name": "Sylhet Branch",
+          "city": "Sylhet",
+          "swift_code": "FSEBBDDHSYL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "FSEBBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Export Import Bank Of Bangladesh Ltd",
+      "branches": [
+        {
+          "branch_name": "Motijheel Branch",
+          "city": "Dhaka",
+          "swift_code": "EXBKBDDH001"
+        },
+        {
+          "branch_name": "Panthapath Branch",
+          "city": "Dhaka",
+          "swift_code": "EXBKBDDH002"
+        },
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "EXBKBDDH003"
+        },
+        {
+          "branch_name": "Khatungonj Branch",
+          "city": "Chittagong",
+          "swift_code": "EXBKBDDH004"
+        },
+        {
+          "branch_name": "Imamgonj Branch",
+          "city": "Dhaka",
+          "swift_code": "EXBKBDDH006"
+        },
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "EXBKBDDH007"
+        },
+        {
+          "branch_name": "Nawabpur Branch",
+          "city": "Dhaka",
+          "swift_code": "EXBKBDDH010"
+        },
+        {
+          "branch_name": "Narayangonj Branch",
+          "city": "Narayanganj",
+          "swift_code": "EXBKBDDH011"
+        },
+        {
+          "branch_name": "Rajuk Avenue Branch",
+          "city": "Dhaka",
+          "swift_code": "EXBKBDDH013"
+        },
+        {
+          "branch_name": "New Eskaton Branch",
+          "city": "Dhaka",
+          "swift_code": "EXBKBDDH014"
+        },
+        {
+          "branch_name": "Uttara",
+          "city": "Dhaka",
+          "swift_code": "EXBKBDDH015"
+        },
+        {
+          "branch_name": "Mirpur Branch",
+          "city": "Dhaka",
+          "swift_code": "EXBKBDDH017"
+        },
+        {
+          "branch_name": "Jubilee Road",
+          "city": "Chittagong",
+          "swift_code": "EXBKBDDH018"
+        },
+        {
+          "branch_name": "Elephant Road Branch",
+          "city": "Dhaka",
+          "swift_code": "EXBKBDDH019"
+        },
+        {
+          "branch_name": "Bogra Branch",
+          "city": "Bogra",
+          "swift_code": "EXBKBDDH021"
+        },
+        {
+          "branch_name": "Malibagh Branch",
+          "city": "Dhaka",
+          "swift_code": "EXBKBDDH023"
+        },
+        {
+          "branch_name": "C D A Avenue Branch",
+          "city": "Chittagong",
+          "swift_code": "EXBKBDDH026"
+        },
+        {
+          "branch_name": "Bashundhara Road Branch",
+          "city": "Dhaka",
+          "swift_code": "EXBKBDDH029"
+        },
+        {
+          "branch_name": "Karwan Bazar Branch",
+          "city": "Dhaka",
+          "swift_code": "EXBKBDDH035"
+        },
+        {
+          "branch_name": "Head Office Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "EXBKBDDH039"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "EXBKBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Equity Partners Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "EPSRBDD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eastern Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "EBLDBDDH001"
+        },
+        {
+          "branch_name": "Principal Branch",
+          "city": "Dhaka",
+          "swift_code": "EBLDBDDH002"
+        },
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "EBLDBDDH003"
+        },
+        {
+          "branch_name": "Khulna Branch",
+          "city": "Khulna",
+          "swift_code": "EBLDBDDH004"
+        },
+        {
+          "branch_name": "Motijheel Branch",
+          "city": "Dhaka",
+          "swift_code": "EBLDBDDH005"
+        },
+        {
+          "branch_name": "Khatungonj Branch",
+          "city": "Chittagong",
+          "swift_code": "EBLDBDDH006"
+        },
+        {
+          "branch_name": "English Road Branch",
+          "city": "Dhaka",
+          "swift_code": "EBLDBDDH007"
+        },
+        {
+          "branch_name": "Laldighir Paar Branch",
+          "city": "Sylhet",
+          "swift_code": "EBLDBDDH008"
+        },
+        {
+          "branch_name": "Moulvi Bazar Branch",
+          "city": "Sylhet",
+          "swift_code": "EBLDBDDH009"
+        },
+        {
+          "branch_name": "Jessore Branch",
+          "city": "Jessore",
+          "swift_code": "EBLDBDDH010"
+        },
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "EBLDBDDH011"
+        },
+        {
+          "branch_name": "Jubilee Road Branch",
+          "city": "Chittagong",
+          "swift_code": "EBLDBDDH012"
+        },
+        {
+          "branch_name": "Chawk Mughultuly Branch",
+          "city": "Dhaka",
+          "swift_code": "EBLDBDDH013"
+        },
+        {
+          "branch_name": "Sonargaon Road Branch",
+          "city": "Dhaka",
+          "swift_code": "EBLDBDDH014"
+        },
+        {
+          "branch_name": "Station Road Branch",
+          "city": "Chittagong",
+          "swift_code": "EBLDBDDH015"
+        },
+        {
+          "branch_name": "Rajshahi Branch",
+          "city": "Rajshahi",
+          "swift_code": "EBLDBDDH016"
+        },
+        {
+          "branch_name": "Dhanmondi Branch",
+          "city": "Dhaka",
+          "swift_code": "EBLDBDDH017"
+        },
+        {
+          "branch_name": "Bogra Branch",
+          "city": "Bogra",
+          "swift_code": "EBLDBDDH018"
+        },
+        {
+          "branch_name": "O R Nizam Road Brach",
+          "city": "Chittagong",
+          "swift_code": "EBLDBDDH019"
+        },
+        {
+          "branch_name": "Chouhatta Branch",
+          "city": "Sylhet",
+          "swift_code": "EBLDBDDH020"
+        },
+        {
+          "branch_name": "Mirpur Branch",
+          "city": "Dhaka",
+          "swift_code": "EBLDBDDH021"
+        },
+        {
+          "branch_name": "Uttara Branch",
+          "city": "Dhaka",
+          "swift_code": "EBLDBDDH022"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "EBLDBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dutch-bangla Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Local Office",
+          "city": "Dhaka",
+          "swift_code": "DBBLBDDH101"
+        },
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "DBBLBDDH102"
+        },
+        {
+          "branch_name": "Banani Branch",
+          "city": "Dhaka",
+          "swift_code": "DBBLBDDH103"
+        },
+        {
+          "branch_name": "Nababpur Branch",
+          "city": "Dhaka",
+          "swift_code": "DBBLBDDH104"
+        },
+        {
+          "branch_name": "Motijheel Foreign Exchange Branch",
+          "city": "Dhaka",
+          "swift_code": "DBBLBDDH105"
+        },
+        {
+          "branch_name": "Narayangonj Branch",
+          "city": "Narayanganj",
+          "swift_code": "DBBLBDDH106"
+        },
+        {
+          "branch_name": "Kawran Bazar Branch",
+          "city": "Dhaka",
+          "swift_code": "DBBLBDDH107"
+        },
+        {
+          "branch_name": "Baburhat Branch",
+          "city": "Narsinghdi",
+          "swift_code": "DBBLBDDH109"
+        },
+        {
+          "branch_name": "Dhanmondi Branch",
+          "city": "Dhaka",
+          "swift_code": "DBBLBDDH110"
+        },
+        {
+          "branch_name": "B B Road Branch",
+          "city": "Narayanganj",
+          "swift_code": "DBBLBDDH111"
+        },
+        {
+          "branch_name": "Mohakhali Branch",
+          "city": "Dhaka",
+          "swift_code": "DBBLBDDH114"
+        },
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "DBBLBDDH116"
+        },
+        {
+          "branch_name": "Uttara Branch",
+          "city": "Dhaka",
+          "swift_code": "DBBLBDDH117"
+        },
+        {
+          "branch_name": "Islampur Branch",
+          "city": "Dhaka",
+          "swift_code": "DBBLBDDH118"
+        },
+        {
+          "branch_name": "Dhaka Epz Branch",
+          "city": "Dhaka",
+          "swift_code": "DBBLBDDH122"
+        },
+        {
+          "branch_name": "Khatungonj Branch",
+          "city": "Chittagong",
+          "swift_code": "DBBLBDDH155"
+        },
+        {
+          "branch_name": "Centralized Trade Services",
+          "city": "Dhaka",
+          "swift_code": "DBBLBDDHCTS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "DBBLBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dhaka Stock Exchange Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "XDHABDD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dhaka Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Local Office",
+          "city": "Dhaka",
+          "swift_code": "DHBLBDDH101"
+        },
+        {
+          "branch_name": "Bangshal Branch",
+          "city": "Dhaka",
+          "swift_code": "DHBLBDDH102"
+        },
+        {
+          "branch_name": "Banani Branch",
+          "city": "Dhaka",
+          "swift_code": "DHBLBDDH103"
+        },
+        {
+          "branch_name": "Imamganj Branch",
+          "city": "Dhaka",
+          "swift_code": "DHBLBDDH104"
+        },
+        {
+          "branch_name": "Narayanganj Branch",
+          "city": "Dhaka",
+          "swift_code": "DHBLBDDH105"
+        },
+        {
+          "branch_name": "Foreign Exchange Branch",
+          "city": "Dhaka",
+          "swift_code": "DHBLBDDH107"
+        },
+        {
+          "branch_name": "Dhanmondi Branch",
+          "city": "Dhaka",
+          "swift_code": "DHBLBDDH109"
+        },
+        {
+          "branch_name": "Kawran Bazar Branch",
+          "city": "Dhaka",
+          "swift_code": "DHBLBDDH110"
+        },
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "DHBLBDDH201"
+        },
+        {
+          "branch_name": "Khatunganj Branch",
+          "city": "Chittagong",
+          "swift_code": "DHBLBDDH202"
+        },
+        {
+          "branch_name": "Jubilee Road Branch",
+          "city": "Chittagong",
+          "swift_code": "DHBLBDDH203"
+        },
+        {
+          "branch_name": "Uttara Branch",
+          "city": "Dhaka",
+          "swift_code": "DHBLBDDH204"
+        },
+        {
+          "branch_name": "Laldighirpar Branch",
+          "city": "Sylhet",
+          "swift_code": "DHBLBDDH301"
+        },
+        {
+          "branch_name": "Offshore Branch",
+          "city": "Dhaka",
+          "swift_code": "DHBLBDDH991"
+        },
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "DHBLBDDHGUL"
+        },
+        {
+          "branch_name": "Islami Banking Branch",
+          "city": "Dhaka",
+          "swift_code": "DHBLBDDHIB1"
+        },
+        {
+          "branch_name": "Trade Operation",
+          "city": "Chittagong",
+          "swift_code": "DHBLBDDHTOC"
+        },
+        {
+          "branch_name": "Trade Operation",
+          "city": "Dhaka",
+          "swift_code": "DHBLBDDHTOD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "DHBLBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Bank Of Ceylon Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "CCEYBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "City Bank Limited The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "CIBLBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "British American Tobacco Bangladesh Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "BATSBDA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brac Epl Stock Brokerage Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "BETBBDD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brac Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "BRAKBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Basic Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Main Branch",
+          "city": "Dhaka",
+          "swift_code": "BKSIBDDH002"
+        },
+        {
+          "branch_name": "Khatungonj Branch",
+          "city": "Chittagong",
+          "swift_code": "BKSIBDDH004"
+        },
+        {
+          "branch_name": "Bangshal Branch",
+          "city": "Dhaka",
+          "swift_code": "BKSIBDDH006"
+        },
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "BKSIBDDH008"
+        },
+        {
+          "branch_name": "Shantinagar Branch",
+          "city": "Dhaka",
+          "swift_code": "BKSIBDDH009"
+        },
+        {
+          "branch_name": "Bogra Branch",
+          "city": "Bogra",
+          "swift_code": "BKSIBDDH012"
+        },
+        {
+          "branch_name": "Jubilee Road Branch",
+          "city": "Chittagong",
+          "swift_code": "BKSIBDDH013"
+        },
+        {
+          "branch_name": "Tanbazar Branch",
+          "city": "Narayanganj",
+          "swift_code": "BKSIBDDH014"
+        },
+        {
+          "branch_name": "Dilkusha Branch",
+          "city": "Dhaka",
+          "swift_code": "BKSIBDDH015"
+        },
+        {
+          "branch_name": "Asadgonj Branch",
+          "city": "Chittagong",
+          "swift_code": "BKSIBDDH016"
+        },
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "BKSIBDDH021"
+        },
+        {
+          "branch_name": "Mirpur Branch",
+          "city": "Dhaka",
+          "swift_code": "BKSIBDDH022"
+        },
+        {
+          "branch_name": "Babubazar Branch",
+          "city": "Dhaka",
+          "swift_code": "BKSIBDDH023"
+        },
+        {
+          "branch_name": "Maulvibazar Branch",
+          "city": "Dhaka",
+          "swift_code": "BKSIBDDH024"
+        },
+        {
+          "branch_name": "Khulna Branch",
+          "city": "Khulna",
+          "swift_code": "BKSIBDDH025"
+        },
+        {
+          "branch_name": "Zindabazar Branch",
+          "city": "Sylhet",
+          "swift_code": "BKSIBDDH026"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "BKSIBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Asia Ltd",
+      "branches": [
+        {
+          "branch_name": "Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "BALBBDDH002"
+        },
+        {
+          "branch_name": "Principal Office",
+          "city": "Dhaka",
+          "swift_code": "BALBBDDH003"
+        },
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "BALBBDDH004"
+        },
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "BALBBDDH005"
+        },
+        {
+          "branch_name": "Scotia Branch",
+          "city": "Dhaka",
+          "swift_code": "BALBBDDH007"
+        },
+        {
+          "branch_name": "Mcb-dilkusha Branch",
+          "city": "Dhaka",
+          "swift_code": "BALBBDDH008"
+        },
+        {
+          "branch_name": "Mcb-seikh Mujib Road Branch",
+          "city": "Chittagong",
+          "swift_code": "BALBBDDH009"
+        },
+        {
+          "branch_name": "Mcb Banani Branch",
+          "city": "Dhaka",
+          "swift_code": "BALBBDDH012"
+        },
+        {
+          "branch_name": "Khatungonj Branch",
+          "city": "Chittagong",
+          "swift_code": "BALBBDDH013"
+        },
+        {
+          "branch_name": "Mitford Branch",
+          "city": "Dhaka",
+          "swift_code": "BALBBDDH014"
+        },
+        {
+          "branch_name": "Uttara Branch",
+          "city": "Dhaka",
+          "swift_code": "BALBBDDH015"
+        },
+        {
+          "branch_name": "North South Road Branch",
+          "city": "Dhaka",
+          "swift_code": "BALBBDDH017"
+        },
+        {
+          "branch_name": "Cda Avenue Branch",
+          "city": "Chittagong",
+          "swift_code": "BALBBDDH018"
+        },
+        {
+          "branch_name": "Station Road Branch",
+          "city": "Chittagong",
+          "swift_code": "BALBBDDH022"
+        },
+        {
+          "branch_name": "Epz Branch",
+          "city": "Chittagong",
+          "swift_code": "BALBBDDH027"
+        },
+        {
+          "branch_name": "Mohakhali Branch",
+          "city": "Dhaka",
+          "swift_code": "BALBBDDH028"
+        },
+        {
+          "branch_name": "Anderkilla Branch",
+          "city": "Chittagong",
+          "swift_code": "BALBBDDH030"
+        },
+        {
+          "branch_name": "Central Trade Services Unit",
+          "city": "Dhaka",
+          "swift_code": "BALBBDDHCTS"
+        },
+        {
+          "branch_name": "Off-shore Banking Unit",
+          "city": "Chittagong",
+          "swift_code": "BALBBDDHOBU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "BALBBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Alfalah Limited (bangladesh-dhaka Branch",
+      "branches": [
+        {
+          "branch_name": "Gulshan Branch Dhaka",
+          "city": "Dhaka",
+          "swift_code": "ALFHBDDH702"
+        },
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "ALFHBDDH703"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "ALFHBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bangladesh Post",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "BDSHBDD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bangladesh Krishi Bank",
+      "branches": [
+        {
+          "branch_name": "Agrabad Cor Branch",
+          "city": "Chittagong",
+          "swift_code": "BKBABDDHAGD"
+        },
+        {
+          "branch_name": "Banani Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "BKBABDDHBNN"
+        },
+        {
+          "branch_name": "Chawk Bazar Branch",
+          "city": "Dhaka",
+          "swift_code": "BKBABDDHCWK"
+        },
+        {
+          "branch_name": "Kawran Bazar Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "BKBABDDHKBB"
+        },
+        {
+          "branch_name": "Khulna Corporate Branch",
+          "city": "Khulna",
+          "swift_code": "BKBABDDHKLN"
+        },
+        {
+          "branch_name": "Kushtia Branch",
+          "city": "Kushtia",
+          "swift_code": "BKBABDDHKST"
+        },
+        {
+          "branch_name": "Local Principal Office",
+          "city": "Dhaka",
+          "swift_code": "BKBABDDHLPO"
+        },
+        {
+          "branch_name": "Narayanganj Branch",
+          "city": "Narayanganj",
+          "swift_code": "BKBABDDHNGJ"
+        },
+        {
+          "branch_name": "Sholo Shahar Branch",
+          "city": "Chittagong",
+          "swift_code": "BKBABDDHSHO"
+        },
+        {
+          "branch_name": "Sharsha Branch",
+          "city": "Jessore",
+          "swift_code": "BKBABDDHSRS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "BKBABDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pubali Bank Limited",
+      "branches": [
+        {
+          "branch_name": "International Division, Head Office",
+          "city": "Dhaka",
+          "swift_code": "PUBABDDH194"
+        },
+        {
+          "branch_name": "Motijheel Branch",
+          "city": "Dhaka",
+          "swift_code": "PUBABDDH195"
+        },
+        {
+          "branch_name": "B B Avenue Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "PUBABDDH196"
+        },
+        {
+          "branch_name": "Sadarghat Branch",
+          "city": "Dhaka",
+          "swift_code": "PUBABDDH197"
+        },
+        {
+          "branch_name": "Chawk Bazar Branch",
+          "city": "Dhaka",
+          "swift_code": "PUBABDDH198"
+        },
+        {
+          "branch_name": "Dhaka Stadium Branch",
+          "city": "Dhaka",
+          "swift_code": "PUBABDDH199"
+        },
+        {
+          "branch_name": "Foreign Exchange Branch",
+          "city": "Dhaka",
+          "swift_code": "PUBABDDH200"
+        },
+        {
+          "branch_name": "Principal Branch",
+          "city": "Dhaka",
+          "swift_code": "PUBABDDH201"
+        },
+        {
+          "branch_name": "Narayangonj Branch",
+          "city": "Narayanganj",
+          "swift_code": "PUBABDDH202"
+        },
+        {
+          "branch_name": "Mymensingh Main Branch",
+          "city": "Mymensingh",
+          "swift_code": "PUBABDDH203"
+        },
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "PUBABDDH204"
+        },
+        {
+          "branch_name": "Khatungonj Branch",
+          "city": "Chittagong",
+          "swift_code": "PUBABDDH205"
+        },
+        {
+          "branch_name": "Cda Branch",
+          "city": "Chittagong",
+          "swift_code": "PUBABDDH206"
+        },
+        {
+          "branch_name": "Laldighi East Branch",
+          "city": "Chittagong",
+          "swift_code": "PUBABDDH207"
+        },
+        {
+          "branch_name": "Sylhet Main Branch",
+          "city": "Sylhet",
+          "swift_code": "PUBABDDH208"
+        },
+        {
+          "branch_name": "Comilla Branch",
+          "city": "Comilla",
+          "swift_code": "PUBABDDH209"
+        },
+        {
+          "branch_name": "Panthapath Branch",
+          "city": "Dhaka",
+          "swift_code": "PUBABDDH210"
+        },
+        {
+          "branch_name": "Khulna Main Branch",
+          "city": "Khulna",
+          "swift_code": "PUBABDDH211"
+        },
+        {
+          "branch_name": "Barisal Branch",
+          "city": "Barisal",
+          "swift_code": "PUBABDDH212"
+        },
+        {
+          "branch_name": "Rajshahi Branch",
+          "city": "Rajshahi",
+          "swift_code": "PUBABDDH213"
+        },
+        {
+          "branch_name": "Sunamganj Branch",
+          "city": "Sunamganj",
+          "swift_code": "PUBABDDH214"
+        },
+        {
+          "branch_name": "Karwan Bazar Branch",
+          "city": "Dhaka",
+          "swift_code": "PUBABDDH215"
+        },
+        {
+          "branch_name": "Mohakhali Branch",
+          "city": "Dhaka",
+          "swift_code": "PUBABDDH216"
+        },
+        {
+          "branch_name": "Moghbazar Branch",
+          "city": "Dhaka",
+          "swift_code": "PUBABDDH217"
+        },
+        {
+          "branch_name": "Dargagate Branch",
+          "city": "Sylhet",
+          "swift_code": "PUBABDDH218"
+        },
+        {
+          "branch_name": "Farmgate Branch",
+          "city": "Dhaka",
+          "swift_code": "PUBABDDH219"
+        },
+        {
+          "branch_name": "Nayapaltan Branch",
+          "city": "Dhaka",
+          "swift_code": "PUBABDDH220"
+        },
+        {
+          "branch_name": "Jessore Branch",
+          "city": "Jessore",
+          "swift_code": "PUBABDDH221"
+        },
+        {
+          "branch_name": "Bangshal Branch",
+          "city": "Dhaka",
+          "swift_code": "PUBABDDH222"
+        },
+        {
+          "branch_name": "Gulshan Model Town Branch",
+          "city": "Dhaka",
+          "swift_code": "PUBABDDH223"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "PUBABDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prime Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Motijheel Branch",
+          "city": "Dhaka",
+          "swift_code": "PRBLBDDH001"
+        },
+        {
+          "branch_name": "Khatunganj Branch",
+          "city": "Chittagong",
+          "swift_code": "PRBLBDDH002"
+        },
+        {
+          "branch_name": "Moulvi Bazar Branch",
+          "city": "Dhaka",
+          "swift_code": "PRBLBDDH003"
+        },
+        {
+          "branch_name": "Khulna Branch",
+          "city": "Khulna",
+          "swift_code": "PRBLBDDH004"
+        },
+        {
+          "branch_name": "Islamic Banking Branch",
+          "city": "Dhaka",
+          "swift_code": "PRBLBDDH005"
+        },
+        {
+          "branch_name": "Sylhet Branch",
+          "city": "Sylhet",
+          "swift_code": "PRBLBDDH006"
+        },
+        {
+          "branch_name": "Mohakhali Branch",
+          "city": "Dhaka",
+          "swift_code": "PRBLBDDH007"
+        },
+        {
+          "branch_name": "Barisal Branch",
+          "city": "Barisal",
+          "swift_code": "PRBLBDDH008"
+        },
+        {
+          "branch_name": "Rajshahi Branch",
+          "city": "Rajshahi",
+          "swift_code": "PRBLBDDH009"
+        },
+        {
+          "branch_name": "Kawran Bazar Branch",
+          "city": "Dhaka",
+          "swift_code": "PRBLBDDH010"
+        },
+        {
+          "branch_name": "Elephant Road Branch",
+          "city": "Dhaka",
+          "swift_code": "PRBLBDDH011"
+        },
+        {
+          "branch_name": "Narayanganj Branch",
+          "city": "Narayanganj",
+          "swift_code": "PRBLBDDH012"
+        },
+        {
+          "branch_name": "Mouchak Branch",
+          "city": "Dhaka",
+          "swift_code": "PRBLBDDH013"
+        },
+        {
+          "branch_name": "Ganakbari Branch,savar",
+          "city": "Dhaka",
+          "swift_code": "PRBLBDDH014"
+        },
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "PRBLBDDH015"
+        },
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "PRBLBDDH016"
+        },
+        {
+          "branch_name": "Jubilee Road Branch",
+          "city": "Chittagong",
+          "swift_code": "PRBLBDDH017"
+        },
+        {
+          "branch_name": "Jessore Branch",
+          "city": "Jessore",
+          "swift_code": "PRBLBDDH018"
+        },
+        {
+          "branch_name": "Foreign Exchange Branch",
+          "city": "Dhaka",
+          "swift_code": "PRBLBDDH019"
+        },
+        {
+          "branch_name": "Banani Branch",
+          "city": "Dhaka",
+          "swift_code": "PRBLBDDH020"
+        },
+        {
+          "branch_name": "Uttara Branch",
+          "city": "Dhaka",
+          "swift_code": "PRBLBDDH021"
+        },
+        {
+          "branch_name": "Bogra Branch",
+          "city": "Bogra",
+          "swift_code": "PRBLBDDH022"
+        },
+        {
+          "branch_name": "Sat Masjid Road Branch",
+          "city": "Dhaka",
+          "swift_code": "PRBLBDDH023"
+        },
+        {
+          "branch_name": "Sbc Tower Branch",
+          "city": "Dhaka",
+          "swift_code": "PRBLBDDH024"
+        },
+        {
+          "branch_name": "Laldighi East Branch",
+          "city": "Chittagong",
+          "swift_code": "PRBLBDDH025"
+        },
+        {
+          "branch_name": "Bangshal Branch",
+          "city": "Dhaka",
+          "swift_code": "PRBLBDDH026"
+        },
+        {
+          "branch_name": "Or Nizam Road Branch",
+          "city": "Chittagong",
+          "swift_code": "PRBLBDDH027"
+        },
+        {
+          "branch_name": "Court Road,moulvibazar",
+          "city": "Sylhet",
+          "swift_code": "PRBLBDDH028"
+        },
+        {
+          "branch_name": "International Division",
+          "city": "Dhaka",
+          "swift_code": "PRBLBDDH099"
+        },
+        {
+          "branch_name": "Obu Adamjee Epz",
+          "city": "Narayanganj",
+          "swift_code": "PRBLBDDHAEZ"
+        },
+        {
+          "branch_name": "Obu Chittagong Epz",
+          "city": "Chittagong",
+          "swift_code": "PRBLBDDHCEZ"
+        },
+        {
+          "branch_name": "Obu Dhaka Epz",
+          "city": "Dhaka",
+          "swift_code": "PRBLBDDHDEZ"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "PRBLBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "One Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Principal Branch",
+          "city": "Dhaka",
+          "swift_code": "ONEBBDDH001"
+        },
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "ONEBBDDH002"
+        },
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "ONEBBDDH003"
+        },
+        {
+          "branch_name": "Khatungonj Branch",
+          "city": "Chittagong",
+          "swift_code": "ONEBBDDH004"
+        },
+        {
+          "branch_name": "Ganakbari Epz Branch",
+          "city": "Savar",
+          "swift_code": "ONEBBDDH005"
+        },
+        {
+          "branch_name": "Uttara Branch",
+          "city": "Dhaka",
+          "swift_code": "ONEBBDDH006"
+        },
+        {
+          "branch_name": "Imamgonj Branch",
+          "city": "Dhaka",
+          "swift_code": "ONEBBDDH008"
+        },
+        {
+          "branch_name": "Mirpur Branch",
+          "city": "Dhaka",
+          "swift_code": "ONEBBDDH011"
+        },
+        {
+          "branch_name": "Kawran Bazar Branch",
+          "city": "Dhaka",
+          "swift_code": "ONEBBDDH012"
+        },
+        {
+          "branch_name": "Dhanmondi Branch",
+          "city": "Dhaka",
+          "swift_code": "ONEBBDDH013"
+        },
+        {
+          "branch_name": "Jessore Branch",
+          "city": "Jessore",
+          "swift_code": "ONEBBDDH014"
+        },
+        {
+          "branch_name": "Narayanganj Branch",
+          "city": "Narayanganj",
+          "swift_code": "ONEBBDDH017"
+        },
+        {
+          "branch_name": "Banani Branch",
+          "city": "Dhaka",
+          "swift_code": "ONEBBDDH018"
+        },
+        {
+          "branch_name": "Motijheel Branch",
+          "city": "Dhaka",
+          "swift_code": "ONEBBDDH020"
+        },
+        {
+          "branch_name": "Kakrail Branch",
+          "city": "Dhaka",
+          "swift_code": "ONEBBDDH022"
+        },
+        {
+          "branch_name": "Jubilee Road Branch",
+          "city": "Chittagong",
+          "swift_code": "ONEBBDDH023"
+        },
+        {
+          "branch_name": "Progoti Sharani Branch",
+          "city": "Dhaka",
+          "swift_code": "ONEBBDDH025"
+        },
+        {
+          "branch_name": "Elephant Road Branch",
+          "city": "Dhaka",
+          "swift_code": "ONEBBDDH027"
+        },
+        {
+          "branch_name": "Laldighirpar Branch",
+          "city": "Sylhet",
+          "swift_code": "ONEBBDDH051"
+        },
+        {
+          "branch_name": "Offshore Banking Unit",
+          "city": "Dhaka",
+          "swift_code": "ONEBBDDHOBU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "ONEBBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nrb Global Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Nrb Global Bank Limited",
+          "city": "Dhaka",
+          "swift_code": "NGBLBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nrb Commercial Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "NRBBBDDHGUL"
+        },
+        {
+          "branch_name": "Principal Branch",
+          "city": "Dhaka",
+          "swift_code": "NRBBBDDHPRB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "NRBBBDDHXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "NRBBBDD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nrb Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Nrb Bank Limited",
+          "city": "Dhaka",
+          "swift_code": "NRBDBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Credit And Commerce Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "NCCLBDDHAGB"
+        },
+        {
+          "branch_name": "Babubazar Branch",
+          "city": "Dhaka",
+          "swift_code": "NCCLBDDHBBB"
+        },
+        {
+          "branch_name": "Bangshal Branch",
+          "city": "Dhaka",
+          "swift_code": "NCCLBDDHBNB"
+        },
+        {
+          "branch_name": "Dilkusha Branch",
+          "city": "Dhaka",
+          "swift_code": "NCCLBDDHDLB"
+        },
+        {
+          "branch_name": "Dhanmondi Branch",
+          "city": "Dhaka",
+          "swift_code": "NCCLBDDHDMB"
+        },
+        {
+          "branch_name": "Foreign Exchange Branch",
+          "city": "Dhaka",
+          "swift_code": "NCCLBDDHFEB"
+        },
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "NCCLBDDHGSB"
+        },
+        {
+          "branch_name": "International Division",
+          "city": "Dhaka",
+          "swift_code": "NCCLBDDHHID"
+        },
+        {
+          "branch_name": "Jubilee Road Branch",
+          "city": "Chittagong",
+          "swift_code": "NCCLBDDHJRB"
+        },
+        {
+          "branch_name": "Jessore Branch",
+          "city": "Jessore",
+          "swift_code": "NCCLBDDHJSB"
+        },
+        {
+          "branch_name": "Khulna Branch",
+          "city": "Khulna",
+          "swift_code": "NCCLBDDHKLB"
+        },
+        {
+          "branch_name": "Khatungonj Branch",
+          "city": "Chittagong",
+          "swift_code": "NCCLBDDHKTB"
+        },
+        {
+          "branch_name": "Kawranbazar Branch",
+          "city": "Dhaka",
+          "swift_code": "NCCLBDDHKWB"
+        },
+        {
+          "branch_name": "Laldighirpar Branch",
+          "city": "Sylhet",
+          "swift_code": "NCCLBDDHLDB"
+        },
+        {
+          "branch_name": "Malibagh Branch",
+          "city": "Dhaka",
+          "swift_code": "NCCLBDDHMBB"
+        },
+        {
+          "branch_name": "Mitford Branch",
+          "city": "Dhaka",
+          "swift_code": "NCCLBDDHMFD"
+        },
+        {
+          "branch_name": "Moghbazar Branch",
+          "city": "Dhaka",
+          "swift_code": "NCCLBDDHMGB"
+        },
+        {
+          "branch_name": "Motijheel Branch",
+          "city": "Dhaka",
+          "swift_code": "NCCLBDDHMTB"
+        },
+        {
+          "branch_name": "Narayanganj Branch,taramia Mansion,187-bangabandhu Road,narayanganj",
+          "city": "Narayanganj",
+          "swift_code": "NCCLBDDHNGB"
+        },
+        {
+          "branch_name": "O R Nizam Road Branch",
+          "city": "Chittagong",
+          "swift_code": "NCCLBDDHORN"
+        },
+        {
+          "branch_name": "Rangpur Branch",
+          "city": "Rangpur",
+          "swift_code": "NCCLBDDHRPB"
+        },
+        {
+          "branch_name": "Uttara Branch",
+          "city": "Dhaka",
+          "swift_code": "NCCLBDDHUTB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "NCCLBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Dilkusha Branch",
+          "city": "Dhaka",
+          "swift_code": "NBLBBDDH001"
+        },
+        {
+          "branch_name": "Khatungonj Branch",
+          "city": "Chittagong",
+          "swift_code": "NBLBBDDH002"
+        },
+        {
+          "branch_name": "Imamganj Branch",
+          "city": "Dhaka",
+          "swift_code": "NBLBBDDH003"
+        },
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "NBLBBDDH004"
+        },
+        {
+          "branch_name": "Rajshahi Branch",
+          "city": "Rajshahi",
+          "swift_code": "NBLBBDDH005"
+        },
+        {
+          "branch_name": "Rangpur Branch",
+          "city": "Rangpur",
+          "swift_code": "NBLBBDDH006"
+        },
+        {
+          "branch_name": "Khulna Branch",
+          "city": "Khulna",
+          "swift_code": "NBLBBDDH007"
+        },
+        {
+          "branch_name": "Sylhet Branch",
+          "city": "Sylhet",
+          "swift_code": "NBLBBDDH008"
+        },
+        {
+          "branch_name": "Narayanganj Branch",
+          "city": "Narayanganj",
+          "swift_code": "NBLBBDDH010"
+        },
+        {
+          "branch_name": "Bangshal Branch",
+          "city": "Dhaka",
+          "swift_code": "NBLBBDDH012"
+        },
+        {
+          "branch_name": "Barisal Branch",
+          "city": "Barisal",
+          "swift_code": "NBLBBDDH013"
+        },
+        {
+          "branch_name": "Bogra Branch",
+          "city": "Bogra",
+          "swift_code": "NBLBBDDH014"
+        },
+        {
+          "branch_name": "Elephant Road Branch",
+          "city": "Dhaka",
+          "swift_code": "NBLBBDDH015"
+        },
+        {
+          "branch_name": "Jubilee Road Branch",
+          "city": "Chittagong",
+          "swift_code": "NBLBBDDH016"
+        },
+        {
+          "branch_name": "95 Court Road,moulvibazar",
+          "city": "Moulvibazar",
+          "swift_code": "NBLBBDDH019"
+        },
+        {
+          "branch_name": "Foreign Exchange Branch",
+          "city": "Dhaka",
+          "swift_code": "NBLBBDDH021"
+        },
+        {
+          "branch_name": "Brahmanbaria Branch",
+          "city": "Brahmanbaria",
+          "swift_code": "NBLBBDDH022"
+        },
+        {
+          "branch_name": "Satkhira Branch",
+          "city": "Satkhira",
+          "swift_code": "NBLBBDDH024"
+        },
+        {
+          "branch_name": "Mymensingh Branch",
+          "city": "Mymensingh",
+          "swift_code": "NBLBBDDH026"
+        },
+        {
+          "branch_name": "Jessore Branch",
+          "city": "Jessore",
+          "swift_code": "NBLBBDDH029"
+        },
+        {
+          "branch_name": "Banani Branch",
+          "city": "Dhaka",
+          "swift_code": "NBLBBDDH106"
+        },
+        {
+          "branch_name": "New Eskaton Branch",
+          "city": "Dhaka",
+          "swift_code": "NBLBBDDH111"
+        },
+        {
+          "branch_name": "Offshore Banking Unit, Mohakhali",
+          "city": "Dhaka",
+          "swift_code": "NBLBBDDH998"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "NBLBBDDHXXX"
+        },
+        {
+          "branch_name": "Babu Bazar Branch",
+          "city": "Dhaka",
+          "swift_code": "NBLBBDDH031"
+        },
+        {
+          "branch_name": "Malibagh Branch",
+          "city": "Dhaka",
+          "swift_code": "NBLBBDDH032"
+        },
+        {
+          "branch_name": "Pabna Branch",
+          "city": "Pabna",
+          "swift_code": "NBLBBDDH036"
+        },
+        {
+          "branch_name": "Naogaon Branch",
+          "city": "Naogaon",
+          "swift_code": "NBLBBDDH039"
+        },
+        {
+          "branch_name": "Mohakhali Branch",
+          "city": "Dhaka",
+          "swift_code": "NBLBBDDH043"
+        },
+        {
+          "branch_name": "Kawran Bazar Branch",
+          "city": "Dhaka",
+          "swift_code": "NBLBBDDH048"
+        },
+        {
+          "branch_name": "North Brook Hall Road Branch",
+          "city": "Dhaka",
+          "swift_code": "NBLBBDDH049"
+        },
+        {
+          "branch_name": "Chapainawabganj Branch",
+          "city": "Chapainawabganj",
+          "swift_code": "NBLBBDDH053"
+        },
+        {
+          "branch_name": "Islampur Branch",
+          "city": "Dhaka",
+          "swift_code": "NBLBBDDH054"
+        },
+        {
+          "branch_name": "Motijheel Branch",
+          "city": "Dhaka",
+          "swift_code": "NBLBBDDH058"
+        },
+        {
+          "branch_name": "Sheikh Mujib Road Branch",
+          "city": "Chittagong",
+          "swift_code": "NBLBBDDH060"
+        },
+        {
+          "branch_name": "Joypurhat Branch",
+          "city": "Joypurhat",
+          "swift_code": "NBLBBDDH062"
+        },
+        {
+          "branch_name": "Dhanmondi Branch",
+          "city": "Dhaka",
+          "swift_code": "NBLBBDDH063"
+        },
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "NBLBBDDH067"
+        },
+        {
+          "branch_name": "Uttara Branch",
+          "city": "Dhaka",
+          "swift_code": "NBLBBDDH068"
+        },
+        {
+          "branch_name": "Mirpur Branch",
+          "city": "Dhaka",
+          "swift_code": "NBLBBDDH069"
+        },
+        {
+          "branch_name": "Z H Sikder Womens Medical College Br",
+          "city": "Dhaka",
+          "swift_code": "NBLBBDDH073"
+        },
+        {
+          "branch_name": "Jamalpur Branch",
+          "city": "Jamalpur",
+          "swift_code": "NBLBBDDH075"
+        },
+        {
+          "branch_name": "Sherpur Branch",
+          "city": "Sherpur",
+          "swift_code": "NBLBBDDH076"
+        },
+        {
+          "branch_name": "Pragati Sarani Branch",
+          "city": "Dhaka",
+          "swift_code": "NBLBBDDH098"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mutual Trust Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "MTBLBDDHAGB"
+        },
+        {
+          "branch_name": "Babu Bazar Branch",
+          "city": "Dhaka",
+          "swift_code": "MTBLBDDHBBB"
+        },
+        {
+          "branch_name": "Dhanmondi Branch",
+          "city": "Dhaka",
+          "swift_code": "MTBLBDDHDHA"
+        },
+        {
+          "branch_name": "Dilkusha Branch",
+          "city": "Dhaka",
+          "swift_code": "MTBLBDDHDIL"
+        },
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "MTBLBDDHGUL"
+        },
+        {
+          "branch_name": "Jubilee Road Branch",
+          "city": "Chittagong",
+          "swift_code": "MTBLBDDHJUB"
+        },
+        {
+          "branch_name": "Khatungonj Branch",
+          "city": "Chittagong",
+          "swift_code": "MTBLBDDHKTG"
+        },
+        {
+          "branch_name": "Offshore Banking Unit",
+          "city": "Dhaka",
+          "swift_code": "MTBLBDDHOBU"
+        },
+        {
+          "branch_name": "Principal Branch",
+          "city": "Dhaka",
+          "swift_code": "MTBLBDDHPBR"
+        },
+        {
+          "branch_name": "Panthapath Branch",
+          "city": "Dhaka",
+          "swift_code": "MTBLBDDHPPB"
+        },
+        {
+          "branch_name": "Progati Sarani Branch",
+          "city": "Dhaka",
+          "swift_code": "MTBLBDDHPSB"
+        },
+        {
+          "branch_name": "Trade Services",
+          "city": "Chittagong",
+          "swift_code": "MTBLBDDHTSC"
+        },
+        {
+          "branch_name": "Trade Services",
+          "city": "Dhaka",
+          "swift_code": "MTBLBDDHTSD"
+        },
+        {
+          "branch_name": "Trade Services, Motijheel Sub-centre",
+          "city": "Dhaka",
+          "swift_code": "MTBLBDDHTSM"
+        },
+        {
+          "branch_name": "Uttara Model Town Branch",
+          "city": "Dhaka",
+          "swift_code": "MTBLBDDHUTR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "MTBLBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mtb Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "MTSUBDD1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "MTSRBDD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Modhumoti Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Modhumoti Bank Limited",
+          "city": "Dhaka",
+          "swift_code": "MODHBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Midland Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Midland Bank Limited",
+          "city": "Dhaka",
+          "swift_code": "MDBLBDDH352"
+        },
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "MDBLBDDH353"
+        },
+        {
+          "branch_name": "Midland Bank Limited",
+          "city": "Dhaka",
+          "swift_code": "MDBLBDDHXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "MDBLBDD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercantile Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Main Branch",
+          "city": "Dhaka",
+          "swift_code": "MBLBBDDH001"
+        },
+        {
+          "branch_name": "Kawran Bazar Branch",
+          "city": "Dhaka",
+          "swift_code": "MBLBBDDH002"
+        },
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "MBLBBDDH003"
+        },
+        {
+          "branch_name": "Rajshahi Branch",
+          "city": "Rajshahi",
+          "swift_code": "MBLBBDDH005"
+        },
+        {
+          "branch_name": "Dhanmondi Branch",
+          "city": "Dhaka",
+          "swift_code": "MBLBBDDH006"
+        },
+        {
+          "branch_name": "Banani Branch",
+          "city": "Dhaka",
+          "swift_code": "MBLBBDDH007"
+        },
+        {
+          "branch_name": "Sylhet Branch",
+          "city": "Sylhet",
+          "swift_code": "MBLBBDDH008"
+        },
+        {
+          "branch_name": "Naogaon Branch",
+          "city": "Naogaon",
+          "swift_code": "MBLBBDDH009"
+        },
+        {
+          "branch_name": "Khatungonj Branch",
+          "city": "Chittagong",
+          "swift_code": "MBLBBDDH010"
+        },
+        {
+          "branch_name": "Nayabazar Branch",
+          "city": "Dhaka",
+          "swift_code": "MBLBBDDH011"
+        },
+        {
+          "branch_name": "Mohakhali Branch",
+          "city": "Dhaka",
+          "swift_code": "MBLBBDDH012"
+        },
+        {
+          "branch_name": "Motijheel Branch",
+          "city": "Dhaka",
+          "swift_code": "MBLBBDDH013"
+        },
+        {
+          "branch_name": "Elephant Road Branch",
+          "city": "Dhaka",
+          "swift_code": "MBLBBDDH014"
+        },
+        {
+          "branch_name": "Mirpur Branch",
+          "city": "Dhaka",
+          "swift_code": "MBLBBDDH015"
+        },
+        {
+          "branch_name": "Jubilee Road Branch",
+          "city": "Chittagong",
+          "swift_code": "MBLBBDDH016"
+        },
+        {
+          "branch_name": "Uttara Branch",
+          "city": "Dhaka",
+          "swift_code": "MBLBBDDH017"
+        },
+        {
+          "branch_name": "Bogra Branch",
+          "city": "Bogra",
+          "swift_code": "MBLBBDDH018"
+        },
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "MBLBBDDH019"
+        },
+        {
+          "branch_name": "Bijoynagar Branch",
+          "city": "Dhaka",
+          "swift_code": "MBLBBDDH020"
+        },
+        {
+          "branch_name": "Satmasjid Rd Branch",
+          "city": "Dhaka",
+          "swift_code": "MBLBBDDH021"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "MBLBBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meghna Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Meghna Bank Limited",
+          "city": "Dhaka",
+          "swift_code": "MGBLBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lankabangla Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "VBSEBDD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Janata Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Asadgonj Corporate Branch",
+          "city": "Chittagong",
+          "swift_code": "JANBBDDHADG"
+        },
+        {
+          "branch_name": "Bangabandhu Road Corporate Branch",
+          "city": "Narayanganj",
+          "swift_code": "JANBBDDHBNG"
+        },
+        {
+          "branch_name": "Bogra Corporate Branch",
+          "city": "Bogra",
+          "swift_code": "JANBBDDHBOG"
+        },
+        {
+          "branch_name": "Barisal Corporate Branch",
+          "city": "Barisal",
+          "swift_code": "JANBBDDHBSL"
+        },
+        {
+          "branch_name": "Comilla Branch",
+          "city": "Comilla",
+          "swift_code": "JANBBDDHCCN"
+        },
+        {
+          "branch_name": "Foreign Exchange Corporate Branch",
+          "city": "Chittagong",
+          "swift_code": "JANBBDDHCDA"
+        },
+        {
+          "branch_name": "Dilkusha Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "JANBBDDHDCB"
+        },
+        {
+          "branch_name": "Dinajpur Corporate Branch",
+          "city": "Dinajpur",
+          "swift_code": "JANBBDDHDNJ"
+        },
+        {
+          "branch_name": "Elephant Road Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "JANBBDDHELE"
+        },
+        {
+          "branch_name": "Faridpur Corporate Branch",
+          "city": "Faridpur",
+          "swift_code": "JANBBDDHFAR"
+        },
+        {
+          "branch_name": "Foreign Exchange Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "JANBBDDHFEC"
+        },
+        {
+          "branch_name": "Sylhet Branch",
+          "city": "Sylhet",
+          "swift_code": "JANBBDDHFES"
+        },
+        {
+          "branch_name": "Farmgate Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "JANBBDDHFGD"
+        },
+        {
+          "branch_name": "Gandaria Corporate Branch",
+          "city": "Dhaka-dhaka",
+          "swift_code": "JANBBDDHGRB"
+        },
+        {
+          "branch_name": "Imamgonj Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "JANBBDDHIMA"
+        },
+        {
+          "branch_name": "Janata Bhaban Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "JANBBDDHJBC"
+        },
+        {
+          "branch_name": "Local Office",
+          "city": "Dhaka",
+          "swift_code": "JANBBDDHJBD"
+        },
+        {
+          "branch_name": "M K Road Corporate Branch",
+          "city": "Jessore",
+          "swift_code": "JANBBDDHJMK"
+        },
+        {
+          "branch_name": "Ramna Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "JANBBDDHJRD"
+        },
+        {
+          "branch_name": "Wasa Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "JANBBDDHJWC"
+        },
+        {
+          "branch_name": "Topkhana Road Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "JANBBDDHTKD"
+        },
+        {
+          "branch_name": "Uttara Model Town Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "JANBBDDHUMC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "JANBBDDHXXX"
+        },
+        {
+          "branch_name": "Kamal Ataturk Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "JANBBDDHKAC"
+        },
+        {
+          "branch_name": "K D Ghosh Road Corporate Branch",
+          "city": "Khulna",
+          "swift_code": "JANBBDDHKDA"
+        },
+        {
+          "branch_name": "Kawran Bazar Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "JANBBDDHKRN"
+        },
+        {
+          "branch_name": "Laldighi East Corporate Branch",
+          "city": "Chittagong",
+          "swift_code": "JANBBDDHLDE"
+        },
+        {
+          "branch_name": "Motijheel Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "JANBBDDHMCA"
+        },
+        {
+          "branch_name": "Moghbazar Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "JANBBDDHMGB"
+        },
+        {
+          "branch_name": "Mohammadpur Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "JANBBDDHMPD"
+        },
+        {
+          "branch_name": "Mymensingh Corporate Branch",
+          "city": "Mymensingh",
+          "swift_code": "JANBBDDHMYN"
+        },
+        {
+          "branch_name": "Netaiganj Corporate Branch",
+          "city": "Narayanganj",
+          "swift_code": "JANBBDDHNGN"
+        },
+        {
+          "branch_name": "New Market Branch",
+          "city": "Dhaka",
+          "swift_code": "JANBBDDHNMD"
+        },
+        {
+          "branch_name": "Noapara Corporate Branch",
+          "city": "Noapara",
+          "swift_code": "JANBBDDHNPJ"
+        },
+        {
+          "branch_name": "Non-resident Bangladeshi Branch",
+          "city": "Dhaka",
+          "swift_code": "JANBBDDHNRB"
+        },
+        {
+          "branch_name": "Postha Branch",
+          "city": "Dhaka",
+          "swift_code": "JANBBDDHPBD"
+        },
+        {
+          "branch_name": "Rajshahi Corporate Branch",
+          "city": "Rajshahi",
+          "swift_code": "JANBBDDHRAJ"
+        },
+        {
+          "branch_name": "Rajuk Bhaban Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "JANBBDDHRBC"
+        },
+        {
+          "branch_name": "Rangpur Corporate Branch",
+          "city": "Rangpur",
+          "swift_code": "JANBBDDHRNP"
+        },
+        {
+          "branch_name": "Shadharan Bima Bhaban Corporate Branch",
+          "city": "Chittagong",
+          "swift_code": "JANBBDDHSBB"
+        },
+        {
+          "branch_name": "Sheikh Mujib Road Corporate Branch",
+          "city": "Chittagong",
+          "swift_code": "JANBBDDHSMS"
+        },
+        {
+          "branch_name": "Shantinagar Corporate Branch",
+          "city": "Dhaka",
+          "swift_code": "JANBBDDHSNB"
+        },
+        {
+          "branch_name": "Speedy Remitance Cell, Overseas Banking Deptt ,9th Flr , H O ,",
+          "city": "Dhaka",
+          "swift_code": "JANBBDDHSRC"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jamuna Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Mohakhali Branch",
+          "city": "Dhaka",
+          "swift_code": "JAMUBDDH035"
+        },
+        {
+          "branch_name": "Moulvi Bazar Branch",
+          "city": "Dhaka",
+          "swift_code": "JAMUBDDH036"
+        },
+        {
+          "branch_name": "Dilkusha Branch",
+          "city": "Dhaka",
+          "swift_code": "JAMUBDDH037"
+        },
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "JAMUBDDH038"
+        },
+        {
+          "branch_name": "Sonargaon Road Branch",
+          "city": "Dhaka",
+          "swift_code": "JAMUBDDH039"
+        },
+        {
+          "branch_name": "Nayabazar Branch",
+          "city": "Dhaka",
+          "swift_code": "JAMUBDDH040"
+        },
+        {
+          "branch_name": "Shantinagar Branch",
+          "city": "Dhaka",
+          "swift_code": "JAMUBDDH041"
+        },
+        {
+          "branch_name": "Khatungonj Branch",
+          "city": "Chittagong",
+          "swift_code": "JAMUBDDH042"
+        },
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "JAMUBDDH043"
+        },
+        {
+          "branch_name": "Naogaon Branch",
+          "city": "Naogaon",
+          "swift_code": "JAMUBDDH044"
+        },
+        {
+          "branch_name": "Foreign Exchange Branch",
+          "city": "Dhaka",
+          "swift_code": "JAMUBDDH045"
+        },
+        {
+          "branch_name": "Narayanganj Branch",
+          "city": "Narayanganj",
+          "swift_code": "JAMUBDDH047"
+        },
+        {
+          "branch_name": "Dhanmondi Branch",
+          "city": "Dhaka",
+          "swift_code": "JAMUBDDH048"
+        },
+        {
+          "branch_name": "Jublee Road Islamic Banking Branch",
+          "city": "Chittagong",
+          "swift_code": "JAMUBDDH049"
+        },
+        {
+          "branch_name": "Rajshahi Branch",
+          "city": "Rajshahi",
+          "swift_code": "JAMUBDDH050"
+        },
+        {
+          "branch_name": "Motijheel",
+          "city": "Dhaka",
+          "swift_code": "JAMUBDDH051"
+        },
+        {
+          "branch_name": "Dholaikhal",
+          "city": "Dhaka",
+          "swift_code": "JAMUBDDH052"
+        },
+        {
+          "branch_name": "Banani",
+          "city": "Dhaka",
+          "swift_code": "JAMUBDDH053"
+        },
+        {
+          "branch_name": "Uttara",
+          "city": "Dhaka",
+          "swift_code": "JAMUBDDH054"
+        },
+        {
+          "branch_name": "Bhatiyari",
+          "city": "Chittagong",
+          "swift_code": "JAMUBDDH055"
+        },
+        {
+          "branch_name": "Mirpur Branch",
+          "city": "Dhaka",
+          "swift_code": "JAMUBDDH056"
+        },
+        {
+          "branch_name": "Off-shore Banking Unit,dhaka",
+          "city": "Dhaka",
+          "swift_code": "JAMUBDDH520"
+        },
+        {
+          "branch_name": "Trade Finance Processing Center",
+          "city": "Chittagong",
+          "swift_code": "JAMUBDDHTFC"
+        },
+        {
+          "branch_name": "Trade Finance Processing Center",
+          "city": "Dhaka",
+          "swift_code": "JAMUBDDHTFP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "JAMUBDDHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Islami Bank Bangladesh Ltd",
+      "branches": [
+        {
+          "branch_name": "Local Office",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH102"
+        },
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "IBBLBDDH103"
+        },
+        {
+          "branch_name": "Sylhet Branch",
+          "city": "Sylhet",
+          "swift_code": "IBBLBDDH104"
+        },
+        {
+          "branch_name": "Chawk Mugaltuly Branch",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH105"
+        },
+        {
+          "branch_name": "Khatungonj Branch",
+          "city": "Chittagong",
+          "swift_code": "IBBLBDDH106"
+        },
+        {
+          "branch_name": "Khulna Branch",
+          "city": "Khulna",
+          "swift_code": "IBBLBDDH107"
+        },
+        {
+          "branch_name": "Narayanganj Branch",
+          "city": "Narayanganj",
+          "swift_code": "IBBLBDDH108"
+        },
+        {
+          "branch_name": "Foreign Exchange Branch",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH109"
+        },
+        {
+          "branch_name": "Islampur Branch",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH110"
+        },
+        {
+          "branch_name": "Barisal Branch",
+          "city": "Barisal",
+          "swift_code": "IBBLBDDH111"
+        },
+        {
+          "branch_name": "Bogra Branch",
+          "city": "Bogra",
+          "swift_code": "IBBLBDDH112"
+        },
+        {
+          "branch_name": "Rajshahi Branch",
+          "city": "Rajshahi",
+          "swift_code": "IBBLBDDH113"
+        },
+        {
+          "branch_name": "Pabna Branch",
+          "city": "Pabna",
+          "swift_code": "IBBLBDDH115"
+        },
+        {
+          "branch_name": "Nawabpur Branch",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH118"
+        },
+        {
+          "branch_name": "Narsingdi Branch",
+          "city": "Narsinghdi",
+          "swift_code": "IBBLBDDH119"
+        },
+        {
+          "branch_name": "1000 Dhaka",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH123"
+        },
+        {
+          "branch_name": "Anderkilla Branch",
+          "city": "Chittagong",
+          "swift_code": "IBBLBDDH124"
+        },
+        {
+          "branch_name": "Jessore Branch",
+          "city": "Jessore",
+          "swift_code": "IBBLBDDH125"
+        },
+        {
+          "branch_name": "Chaumuhani Branch",
+          "city": "Noakhali",
+          "swift_code": "IBBLBDDH126"
+        },
+        {
+          "branch_name": "New Market Branch",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH129"
+        },
+        {
+          "branch_name": "Shyamoli Branch",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH209"
+        },
+        {
+          "branch_name": "Mirpur-1 Branch",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH210"
+        },
+        {
+          "branch_name": "Head Office Complex Branch",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH213"
+        },
+        {
+          "branch_name": "Elephant Road Branch",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH215"
+        },
+        {
+          "branch_name": "Karwan Bazar Branch",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH222"
+        },
+        {
+          "branch_name": "V I P Road Branch",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH223"
+        },
+        {
+          "branch_name": "Rampura Branch",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH226"
+        },
+        {
+          "branch_name": "Gulshan Circle-1 Branch",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH276"
+        },
+        {
+          "branch_name": "Motijheel Branch",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH311"
+        },
+        {
+          "branch_name": "Foreign Remittance Division",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDHFRD"
+        },
+        {
+          "branch_name": "Foreign Trade Processing Division",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDHFTD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDHXXX"
+        },
+        {
+          "branch_name": "Mirpur Branch",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH131"
+        },
+        {
+          "branch_name": "Chapainawabganj Branch",
+          "city": "Chapainawabganj",
+          "swift_code": "IBBLBDDH132"
+        },
+        {
+          "branch_name": "Kushtia Branch",
+          "city": "Kushtia",
+          "swift_code": "IBBLBDDH133"
+        },
+        {
+          "branch_name": "Noapara Branch",
+          "city": "Jessore",
+          "swift_code": "IBBLBDDH135"
+        },
+        {
+          "branch_name": "Farmgate Branch",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH136"
+        },
+        {
+          "branch_name": "Jubilee Road Branch",
+          "city": "Chittagong",
+          "swift_code": "IBBLBDDH137"
+        },
+        {
+          "branch_name": "Dinajpur Branch",
+          "city": "Dinajpur",
+          "swift_code": "IBBLBDDH138"
+        },
+        {
+          "branch_name": "Mouchak Branch",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH145"
+        },
+        {
+          "branch_name": "Saidpur Branch",
+          "city": "Nilphamari",
+          "swift_code": "IBBLBDDH152"
+        },
+        {
+          "branch_name": "Ramna Branch",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH157"
+        },
+        {
+          "branch_name": "Station Road Branch",
+          "city": "Chittagong",
+          "swift_code": "IBBLBDDH167"
+        },
+        {
+          "branch_name": "Madhabdi Branch",
+          "city": "Narsinghdi",
+          "swift_code": "IBBLBDDH171"
+        },
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH177"
+        },
+        {
+          "branch_name": "Bangshal Branch",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH179"
+        },
+        {
+          "branch_name": "Mohakhali Branch",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH191"
+        },
+        {
+          "branch_name": "Sadarghat Branch",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH197"
+        },
+        {
+          "branch_name": "Pahartali Branch",
+          "city": "Chittagong",
+          "swift_code": "IBBLBDDH202"
+        },
+        {
+          "branch_name": "Dhanmondi Branch",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH205"
+        },
+        {
+          "branch_name": "Paltan Branch",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH206"
+        },
+        {
+          "branch_name": "Uttara Branch",
+          "city": "Dhaka",
+          "swift_code": "IBBLBDDH207"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Finance Investment And Commerce Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Motijheel Branch",
+          "city": "Dhaka",
+          "swift_code": "IFICBDDH001"
+        },
+        {
+          "branch_name": "Gulshan Branch",
+          "city": "Dhaka",
+          "swift_code": "IFICBDDH002"
+        },
+        {
+          "branch_name": "Narayanganj Branch",
+          "city": "Narayanganj",
+          "swift_code": "IFICBDDH003"
+        },
+        {
+          "branch_name": "Moulvibazar Branch",
+          "city": "Dhaka",
+          "swift_code": "IFICBDDH004"
+        },
+        {
+          "branch_name": "Islampur Branch",
+          "city": "Dhaka",
+          "swift_code": "IFICBDDH005"
+        },
+        {
+          "branch_name": "Dhanmondi Branch",
+          "city": "Dhaka",
+          "swift_code": "IFICBDDH006"
+        },
+        {
+          "branch_name": "Federation Branch",
+          "city": "Dhaka",
+          "swift_code": "IFICBDDH008"
+        },
+        {
+          "branch_name": "Bangshal Branch",
+          "city": "Dhaka",
+          "swift_code": "IFICBDDH011"
+        },
+        {
+          "branch_name": "Elephant Road Branch",
+          "city": "Dhaka",
+          "swift_code": "IFICBDDH014"
+        },
+        {
+          "branch_name": "Kawran Bazar Branch",
+          "city": "Dhaka",
+          "swift_code": "IFICBDDH017"
+        },
+        {
+          "branch_name": "Uttara Branch",
+          "city": "Dhaka",
+          "swift_code": "IFICBDDH024"
+        },
+        {
+          "branch_name": "Nawabpur Branch",
+          "city": "Dhaka",
+          "swift_code": "IFICBDDH029"
+        },
+        {
+          "branch_name": "Agrabad Branch",
+          "city": "Chittagong",
+          "swift_code": "IFICBDDH030"
+        },
+        {
+          "branch_name": "Khatunganj Branch",
+          "city": "Chittagong",
+          "swift_code": "IFICBDDH031"
+        },
+        {
+          "branch_name": "Sylhet Branch",
+          "city": "Sylhet",
+          "swift_code": "IFICBDDH033"
+        },
+        {
+          "branch_name": "Terri Bazar Branch",
+          "city": "Chittagong",
+          "swift_code": "IFICBDDH036"
+        },
+        {
+          "branch_name": "Khulna Branch",
+          "city": "Khulna",
+          "swift_code": "IFICBDDH060"
+        },
+        {
+          "branch_name": "Jessore Branch",
+          "city": "Jessore",
+          "swift_code": "IFICBDDH061"
+        },
+        {
+          "branch_name": "Noapara Branch",
+          "city": "Noapara",
+          "swift_code": "IFICBDDH063"
+        },
+        {
+          "branch_name": "Satkhira Branch",
+          "city": "Satkhira",
+          "swift_code": "IFICBDDH065"
+        },
+        {
+          "branch_name": "Rajshahi Branch",
+          "city": "Rajshahi",
+          "swift_code": "IFICBDDH080"
+        },
+        {
+          "branch_name": "Bogra Branch",
+          "city": "Bogra",
+          "swift_code": "IFICBDDH082"
+        },
+        {
+          "branch_name": "International Division",
+          "city": "Dhaka",
+          "swift_code": "IFICBDDH099"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "IFICBDDHXXX"
+        }
+      ]
+    }
+  ]
+}

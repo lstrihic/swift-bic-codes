@@ -1,0 +1,242 @@
+{
+  "country_name": "Liechtenstein",
+  "alpha_2": "LI",
+  "country_code": "438",
+  "banks": [
+    {
+      "bank_name": "The National Emissions Trading Registry Of Liechtenstein",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vaduz",
+          "swift_code": "NETILI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J And T International Anstalt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruggell",
+          "swift_code": "ITATLI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hilti Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Schaan",
+          "swift_code": "HILTLI22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cs Trust Liechtenstein",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vaduz",
+          "swift_code": "TLIELI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cs Life And Pensions",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vaduz",
+          "swift_code": "LPENLI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Alpinum Ag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vaduz",
+          "swift_code": "BALPLI22XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Vaduz",
+          "swift_code": "NECULI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Baloise Life Liechtenstein Ag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Balzers",
+          "swift_code": "BAIHLI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Valartis Bank (Liechtenstein) Ag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gamprin-Bendern",
+          "swift_code": "HYIBLI22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Neue Bank Ag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vaduz",
+          "swift_code": "NBANLI22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Raiffeisen Bank (Liechtenstein) Ag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vaduz",
+          "swift_code": "RAIBLI22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Verwaltungs Und Privat Bank Ag",
+      "branches": [
+        {
+          "branch_name": "Business Unit Liechtenstein",
+          "city": "Triesen",
+          "swift_code": "VPBVLI2XLIC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Vaduz",
+          "swift_code": "VPBVLI2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Liechtensteinische Landesbank Aktiengesellschaft",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vaduz",
+          "swift_code": "LILALI2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lgt Bank Ag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vaduz",
+          "swift_code": "BLFLLI2XXXX"
+        },
+        {
+          "branch_name": "Conv Shareklasse Gbp",
+          "city": "Vaduz",
+          "swift_code": "BLFLLI2X224"
+        },
+        {
+          "branch_name": "Eq Nam Shareklasse Eur",
+          "city": "Vaduz",
+          "swift_code": "BLFLLI2X225"
+        },
+        {
+          "branch_name": "Lgt Slc Eq Jp Usd B",
+          "city": "Vaduz",
+          "swift_code": "BLFLLI2X252"
+        },
+        {
+          "branch_name": "Lgt Slc Eq Jp Usd I1",
+          "city": "Vaduz",
+          "swift_code": "BLFLLI2X253"
+        },
+        {
+          "branch_name": "M-m Conv Shareklasse Eur",
+          "city": "Vaduz",
+          "swift_code": "BLFLLI2X495"
+        },
+        {
+          "branch_name": "M-m Conv Shareklasse Chf",
+          "city": "Vaduz",
+          "swift_code": "BLFLLI2X496"
+        },
+        {
+          "branch_name": "Ex Custody",
+          "city": "Vaduz",
+          "swift_code": "BLFLLI2XEXC"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kaiser Ritter Partner Privatbank Ag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vaduz",
+          "swift_code": "SERBLI22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Efg Bank Von Ernst Ag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vaduz",
+          "swift_code": "EFGBLI22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Centrum Bank Ag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vaduz",
+          "swift_code": "CBKVLI2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Pasche (Liechtenstein) Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vaduz",
+          "swift_code": "SFBALI22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Frick And Co Aktiengesellschaft",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Balzers",
+          "swift_code": "BFRILI22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Bank Ag",
+      "branches": [
+        {
+          "branch_name": "Union Bank Ag",
+          "city": "Vaduz",
+          "swift_code": "UNIVLI22XXX"
+        }
+      ]
+    }
+  ]
+}

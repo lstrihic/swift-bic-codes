@@ -1,0 +1,3697 @@
+{
+  "country_name": "Sweden",
+  "alpha_2": "SE",
+  "country_code": "752",
+  "banks": [
+    {
+      "bank_name": "Weavering Capital Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "WECPSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Ag Switzerland Stockholm Bankfilial",
+      "branches": [
+        {
+          "branch_name": "Bankfilial",
+          "city": "Stockholm",
+          "swift_code": "UBSWSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trustly Group Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "TRLYSESSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trioptima Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "TRIISES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Triental Ab",
+      "branches": [
+        {
+          "branch_name": "Triental Ab",
+          "city": "Stockholm",
+          "swift_code": "TRNLSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trevise Private Banking Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "TPBSSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trader Fondkommission Tfk Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "TRFTSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thenberg And Kinde Fondkommission Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Goteborg",
+          "swift_code": "THKFSEG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Telge Krafthandel Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sodertalje",
+          "swift_code": "TEKASE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Td Tech Data Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "TEDTSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tamm And Partners Fondkommission Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "TAPFSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "T.rowe Price Global Investment",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "TPGISES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Systematic Capital Nordic Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SYCNSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swedish Emissions Trading Registry",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Eskilstuna",
+          "swift_code": "SETGSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swedish Capital Trust Kb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SWCTSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swedish Capital Trust And Credit Union Ef",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SCTRSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swedish Bankers' Association",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SWAISES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swedbank Robur Kapitalforvaltning Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SWRKSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swedbank Robur Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ROBRSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swedbank Hypotek Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SPIBSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Svenska Finansmaklarna Ab",
+      "branches": [
+        {
+          "branch_name": "Svenska Finansmaklarna Ab",
+          "city": "Uppsala",
+          "swift_code": "SVFNSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wassum Vardepappersaktiebolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "WAVASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Volvo Treasury Aktiebolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Goteborg",
+          "swift_code": "VOTRSEG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Volvo Car Corporation",
+      "branches": [
+        {
+          "branch_name": "Volvo Car Corporation",
+          "city": "Goteborg",
+          "swift_code": "VCARSEGGXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Goteborg",
+          "swift_code": "VCARSEG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vattenfall Power Management Aktiebolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "VPMASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vastra Gotalands Lan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kungshamn",
+          "swift_code": "VAGLSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Valbay Intl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "VAILSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unitfond Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsingborg",
+          "swift_code": "UNTTSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Svensk Kraftmakling Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SVKRSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Superfund Asset Management Gmbh",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SAMHSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Strukturinvest Fondkommission (fk) Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Goteborg",
+          "swift_code": "STFDSEG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Strategiq Fondkommissin Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Goteborg",
+          "swift_code": "STFMSEG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Strand Kapitalforvaltning Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "STKISES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stockholm Corporate Finance Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "STTFSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stella Asset Management Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Malmo",
+          "swift_code": "STTGSEM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Statoil Energi Forvaltning Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "STEFSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Statkraft Financial Energy Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "STFGSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stadshypotek Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SHYBSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stadshypotek Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "STAYSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Spp Spar Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "PPSPSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sponsor Stiftelseforvaltning Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SPSESES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparbanken Syd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ystad",
+          "swift_code": "SPSDSE21XXX"
+        },
+        {
+          "branch_name": "Sparbanken Syd",
+          "city": "Ystad",
+          "swift_code": "SPSDSE31XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparbanken Oresund Ab(publ",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Malmo",
+          "swift_code": "GRIPSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Solidar Fondservice I Sverige Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Umea",
+          "swift_code": "SOFVSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Soderberg And Partners Placeringsradgivning Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SOPDSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skf International Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Goteborg",
+          "swift_code": "SKFISEG1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Goteborg",
+          "swift_code": "SKFISEGAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skelleftea Kraft Energihandel Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skelleftea",
+          "swift_code": "SKKESE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skanska Financial Services Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Solna",
+          "swift_code": "SKFSSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sapa Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SAPASESSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Santander Consumer Bank As Norge",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Solna",
+          "swift_code": "SAONSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronics Nordic Ab",
+      "branches": [
+        {
+          "branch_name": "Sssa",
+          "city": "Upplands Vaesby",
+          "swift_code": "SECTSES1453"
+        },
+        {
+          "branch_name": "Sena",
+          "city": "Stockholm",
+          "swift_code": "SECTSES14F0"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SECTSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Salusansvar Bank Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SALUSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rudius Capital And Trust Kb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "RUCTSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rpm Risk And Portfolio Management Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "RRPMSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rp Martin Stockholm Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "UBFASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Royal Savings And Loan Ekonomisk Forening",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "RSLESES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Returnplus Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "RETUSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Resurs Bank Aktiebolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsingborg",
+          "swift_code": "RESUSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Remium Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "REMISES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Redeye Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "REEESES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Quesada Kapitalforvaltning Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "QUKASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prior And Nilsson Fond-och",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "PNFOSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pri Stiftelsetjnst Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Goteborg",
+          "swift_code": "PRSFSEG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Providence Custodians Kb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "PCUSSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Posten Fondkommission Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "PFKOSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Plain Capital Asset Management Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kalmar",
+          "swift_code": "PCAASE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Peak Partners Kapitalfoervaltning Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "PEPPSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pan Capital Aktiebolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "PAATSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skandiabanken Fondkommission Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SKBFSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skandiabanken Aktiebolag (publ).",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SKIASET1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skandia Insurance Company Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SKICSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skandia Capital Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SKCPSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sjunde Ap-fonden",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SJAPSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sip Nordic Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SINRSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shepherd Energy Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nacka",
+          "swift_code": "SHEGSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sfk Svensk Forvaltningskonsult Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jonkoping",
+          "swift_code": "SFSFSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Siemens Financial Services Ab, Sivuliike Suomessa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Umea",
+          "swift_code": "SFSUSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Servisen Fondkommission Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SERVSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sempra Metals Limited, U.k., Filial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SEMFSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sek Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SEECSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sgp-svenska Garantiprodukter Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Goteborg",
+          "swift_code": "SGSGSEG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sedermera Fondkommission Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Angelholm",
+          "swift_code": "SEFDSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Seb Wealth Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SEWMSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Seb Trygg Liv Pensionstjanst Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Goteborg",
+          "swift_code": "STLPSEG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Schott And Tour Capital Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SCTPSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scandinavian Brokers Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SCRKSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scandem Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Orebro",
+          "swift_code": "SCADSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Schroderinvestment Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SCNASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Laensfoersaekringar Sak Foersaekrings Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "LASFSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Laensfoersaekringar Fondfoervaltning Ab",
+      "branches": [
+        {
+          "branch_name": "Pension 2010",
+          "city": "Stockholm",
+          "swift_code": "LAFOSES1010"
+        },
+        {
+          "branch_name": "Pension 2015",
+          "city": "Stockholm",
+          "swift_code": "LAFOSES1015"
+        },
+        {
+          "branch_name": "Pension 2020",
+          "city": "Stockholm",
+          "swift_code": "LAFOSES1020"
+        },
+        {
+          "branch_name": "Pension 2025",
+          "city": "Stockholm",
+          "swift_code": "LAFOSES1025"
+        },
+        {
+          "branch_name": "Pension 2030",
+          "city": "Stockholm",
+          "swift_code": "LAFOSES1030"
+        },
+        {
+          "branch_name": "Pension 2035",
+          "city": "Stockholm",
+          "swift_code": "LAFOSES1035"
+        },
+        {
+          "branch_name": "Pension 2040",
+          "city": "Stockholm",
+          "swift_code": "LAFOSES1040"
+        },
+        {
+          "branch_name": "Pension 2045",
+          "city": "Stockholm",
+          "swift_code": "LAFOSES1045"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "LAFOSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kinaden Sparkassa Ek For",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "KISPSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Julius Baer Nordic",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "JBNOSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jr Soederberg Asset Management Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SOAGSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ipm Informed Portfolio Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "IIPMSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investerum Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "IVVRSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inverness Bostadsfond Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "INODSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inobiz Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "INOZSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ini Private Ekonomisk Foerening",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "IPEFSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Independent Investment Group Sweden",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Umea",
+          "swift_code": "IIGSSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Indecap Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "INPPSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ikano Banken Ab (publ",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almhult",
+          "swift_code": "IKANSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "If Skadefoersakring Ab (publ",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bergshamra",
+          "swift_code": "IFPCSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ica Banken Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Solna",
+          "swift_code": "IBCASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Iam Strategic S.a., Luxembourg, Filial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ISLFSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Humle Kapitalforvaltning Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "HUKASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsb Bank Ab (publ",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "HSBBSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hinc Asset Management Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "HIAASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hewlett-packard, Sverige, Aktiebolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "HESRSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Overseas Trust Scandinavia Kb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "OVTCSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Stratega 50",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "NOGTSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Michael Ostlund And Compay Fondkommission Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "MOFKSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meetoo Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "MEEOSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Max Matthiessen Vardepapper Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "MAMVSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Matteus Fondkommission",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "MAFOSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Markedskraft Sverige, Filial Till Markedskraft Asa Norge",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "MSFISES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Marginalen Bank Bankaktiebolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "MARGSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mangold Fondkommission Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "MAFDSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Malarenergi Forsaljning Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vasteras",
+          "swift_code": "MAFJSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lynx Asset Management Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "LYAASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lkab",
+      "branches": [
+        {
+          "branch_name": "Lkab",
+          "city": "Lulea",
+          "swift_code": "LKABSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Liv Nya Vaerlden",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "LINESES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lendtech Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "LENTSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lehman Brothers International (europe",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "LBIESES1XXX"
+        },
+        {
+          "branch_name": "Lbie Prime Broker",
+          "city": "London",
+          "swift_code": "SLIIGB2LPBR"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lcm Sweden Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "LCSWSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lcl Asset Management Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "LCAMSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Larsson And Nordqvist Asset Management Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Malmo",
+          "swift_code": "LNAMSEM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lansfoersakringar Bank Aktiebolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "LANFSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lancelot Asset Management Aktiebolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "LAMKSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lage Jonason Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "LAJOSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Laensfoersaeringar Liv Foersaekring Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "LALFSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Stratega 30",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "NOTGSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Stratega 100",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "NOTESES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Stabil Sverige",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "NOSVSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Investment Management Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "NOIESES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Generationsfond 1980-84",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "NONRSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Generationsfond 1970-74",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "NOGOSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Generationsfond 1960-64",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "NOGDSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Generationsfond 1950-54",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "NOGNSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Generationsfond 1945-49",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "NOGASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Bank Ab (publ",
+      "branches": [
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "NDEASESSFDS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Newsec Corporate Finance Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "NECFSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nektar Asset Management Ab For The Fund Nektar",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "NAMFSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Naventi Kapitalforvaltning Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Uppsala",
+          "swift_code": "NAKASE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nasdaq Omx Stockholm Ab",
+      "branches": [
+        {
+          "branch_name": "Derivatives",
+          "city": "Stockholm",
+          "swift_code": "OMECSESSDVP"
+        },
+        {
+          "branch_name": "External",
+          "city": "Stockholm",
+          "swift_code": "OMECSESSEXT"
+        },
+        {
+          "branch_name": "Clearing",
+          "city": "Stockholm",
+          "swift_code": "OMECSESSNOC"
+        },
+        {
+          "branch_name": "Treasury",
+          "city": "Stockholm",
+          "swift_code": "OMECSESSTRE"
+        }
+      ]
+    },
+    {
+      "bank_name": "Myrberg And Wiklund Fondkommission Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "MYWOSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mp Investment Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "IVVMSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Monetar Pensionsforvaltning Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "MOPNSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mobilis Kapitalforvaltning Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsingborg",
+          "swift_code": "MOKASE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mind Bank Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Goteborg",
+          "swift_code": "MNNDSEG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Overseas Credit Union Scandinavia Ekonomiska Foerening",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "OCUSSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ostkraft Energihandel Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vaxjo",
+          "swift_code": "OSENSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ostgota Brandstodsbolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Linkoping",
+          "swift_code": "OSBRSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orkla Securities Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ORKESES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oresundskraft Energy Trading Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsingborg",
+          "swift_code": "ORETSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oof Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "OOFFSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oak Capital Group Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "OACGSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nya Marknaden",
+      "branches": [
+        {
+          "branch_name": "Sb Mm New Market Convertibles",
+          "city": "Stockholm",
+          "swift_code": "XSNMSES1CNV"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "XSNMSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Northern Spirit Capital Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "NOPCSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordiska Fondkommission Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "NOFNSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordisk Fondservice Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Umea",
+          "swift_code": "NOFDSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordic Savings And Trust Credit Union Ekonomisk Forening",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "NSTRSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordic Heritage Trust Kb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "NOHRSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordic Growth Market Ngm Aktiebolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "NGMNSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordic Fixed Income",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "NFIXSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordic Financial Trust Kb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "NOFTSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordic Equities Fondkommission Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "NOEDSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordic Equites Fondkommission Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "NOEOSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Stratega 70",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "NOERSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Neonet Securities Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "NEFOSESSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mfex Mutual Funds Exchange Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "MFEXSESSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lansforsakringar Bank Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ELLFSESSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Landshypotek Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "LAHYSESSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kommuninvest I Sverige Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Orebro",
+          "swift_code": "KIABSE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kepler Capital Markets",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "KELASES1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Paris",
+          "swift_code": "JBBRFRPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jpmorgan Europe Limited, Stockholm Filial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "CHASSESSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hq Bank Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "HQFKSESSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Bank Sa/Nv, Branch Sweden",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "FTSBSESSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Forsakringsbolaget Alecta, Omsesidigt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ALTASESSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Forex Bank Aktiebolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "FORXSESAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "FORXSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Euroclear Sweden Ab",
+      "branches": [
+        {
+          "branch_name": "Vpc Abs Account Operator",
+          "city": "Stockholm",
+          "swift_code": "VPCSSESSVKI"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "VPCSSESSXXX"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "VPCSSESSCLP"
+        }
+      ]
+    },
+    {
+      "bank_name": "E. Oehman J.Or Fk Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "OHMJSESSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dnb Bank Asa, Filial Sverige",
+      "branches": [
+        {
+          "branch_name": "Cls Nostro Agent Control Branch",
+          "city": "Stockholm",
+          "swift_code": "DNBASESXCLS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "DNBASESXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Danske Bank As, Sverige Filial",
+      "branches": [
+        {
+          "branch_name": "Cls Services",
+          "city": "Stockholm",
+          "swift_code": "DABASESXCLS"
+        },
+        {
+          "branch_name": "Danske Concensus",
+          "city": "Stockholm",
+          "swift_code": "DABASESXCON"
+        },
+        {
+          "branch_name": "Trade Finance, Stockholm",
+          "city": "Stockholm",
+          "swift_code": "DABASESXSTO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "DABASESXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Danske Bank",
+      "branches": [
+        {
+          "branch_name": "Trade Finance, Gothenburg",
+          "city": "Goteborg",
+          "swift_code": "DABASESXGBG"
+        },
+        {
+          "branch_name": "Chaps Return",
+          "city": "London",
+          "swift_code": "DABAGB2LRTN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "DABAGB2LXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Hamburg",
+          "swift_code": "DABADEHHXXX"
+        },
+        {
+          "branch_name": "As Settlements",
+          "city": "Hamburg",
+          "swift_code": "DABADEHHS85"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "DABAFIHXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole Cib Sweden Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "BSUISESSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankgirocentralen Bgc Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "BGABSESGXXX"
+        },
+        {
+          "branch_name": "Multilateral Settlement",
+          "city": "Stockholm",
+          "swift_code": "BGABSESSMUL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "BGABSESSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alandsbanken Sverige Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "AABASESSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "H. Lunden Kapitalforvaltning Aktiebolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "LFKBSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financial Ppc Group Sweden Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "FPGSSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "E Trade Sverige Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "EXTASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Catella Fondfoervaltning Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "CAFDSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "B And P Fund Services Aktiebolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "FUSASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aktiebolaget Sek Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "AKSSSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aarhuskarlshamn Finance Ab",
+      "branches": [
+        {
+          "branch_name": "Aarhuskarlshamn Finance Ab",
+          "city": "Malmo",
+          "swift_code": "AAKFSEM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "A-sec Outsourcing Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ASOUSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "A-brokers Ab.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ABROSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Asset Management B.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "INGVSES1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "S-gravenhage",
+          "swift_code": "INGKNL21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Swedish National Debt Office",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SNDOSESSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Royal Bank Of Scotland N.V. (Nordic)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ABNASESSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Teliasonera Ab (Publ)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "TLSNSESSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swedish Export Credit Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SEKXSESSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sveriges Riksbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "RIKSSESSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stockholmsborsen Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "OMECSESSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparbanken Oresund Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Malmo",
+          "swift_code": "FINNSESEXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Malmo",
+          "swift_code": "FINNSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skandinaviska Enskilda Banken",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Malmo",
+          "swift_code": "ESSESESMXXX"
+        },
+        {
+          "branch_name": "10640 Stockholm",
+          "city": "Stockholm",
+          "swift_code": "ESSESESSCLS"
+        },
+        {
+          "branch_name": "Enskilda Securities",
+          "city": "Stockholm",
+          "swift_code": "ESSESESSENS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ESSESESSXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Goteborg",
+          "swift_code": "ESSESESGXXX"
+        },
+        {
+          "branch_name": "Oslo",
+          "city": "Oslo",
+          "swift_code": "ESSENOKXCLS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "ESSENOKXXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "ESSEFIHXXXX"
+        },
+        {
+          "branch_name": "Copenhagen",
+          "city": "Copenhagen",
+          "swift_code": "ESSEDKKKCLS"
+        },
+        {
+          "branch_name": "Enskilda Securities",
+          "city": "Copenhagen",
+          "swift_code": "ESSEDKKKENS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "ESSEDKKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skandiabanken",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SKIASESSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sbab Statens Bostadsfinansieringsaktiebolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SBAVSESSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Om Broker Services Ab",
+      "branches": [
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSABR"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSAOI"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSAZA"
+        },
+        {
+          "branch_name": "Bpf",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSBPF"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSCDV"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSCSS"
+        },
+        {
+          "branch_name": "10578 Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSDEU"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSEKF"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSEVI"
+        },
+        {
+          "branch_name": "Gtm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSGTM"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSHQB"
+        },
+        {
+          "branch_name": "Hum",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSHUM"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSJBN"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSKAS"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSKBC"
+        },
+        {
+          "branch_name": "Lfb",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSLFB"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSMCO"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSNET"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSNFM"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSNNS"
+        },
+        {
+          "branch_name": "10578 Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSNOB"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSSBA"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSSOT"
+        },
+        {
+          "branch_name": "10578 Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSSPF"
+        },
+        {
+          "branch_name": "10578 Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSSPG"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSSUN"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSTTR"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSUBS"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSVDM"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSWDR"
+        },
+        {
+          "branch_name": "Wea",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSWEA"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSWFL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSXXX"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "OMBSSESSSPP"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordnet Bank Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bromma",
+          "swift_code": "NNSESE22XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "NNSESES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Bank Ab (Publ)",
+      "branches": [
+        {
+          "branch_name": "Nordea Bank Markets",
+          "city": "Stockholm",
+          "swift_code": "NDEASESSNBM"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "NDEASESSNCL"
+        },
+        {
+          "branch_name": "Plusgirot",
+          "city": "Stockholm",
+          "swift_code": "NDEASESSPGI"
+        },
+        {
+          "branch_name": "Stockholm",
+          "city": "Stockholm",
+          "swift_code": "NDEASESSRCC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "NDEASESSXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Goteborg",
+          "swift_code": "NDEASEGGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aktiebolaget Navigare",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "AKNVSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aktiebolaget Electrolux",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ELETSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aig Global Investment (europe) Ltd Uk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "AGIESES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agenta",
+      "branches": [
+        {
+          "branch_name": "Agenta",
+          "city": "Uddevalla",
+          "swift_code": "AGETSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Afa Insurance",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "AFAISES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Advisor Kapitalforvaltning I Stockholm",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ADKTSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Advice Kapitalforvaltning Aktiebolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ADKASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Adapto Advisors Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ADADSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Acta Kapitalforvaltning, Filial Till",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "AKFTSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Accumulate Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ACCMSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ability Asset Management Scandinavia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Goteborg",
+          "swift_code": "AAMISEG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abg Sundal Collier Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ABUCSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abg Securities As (norge), Filial Stockholm",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ASNFSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aberdeen Property Investors Indirect",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "APIISES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aberdeen Property Fund Management Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "APFASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abb Aros Fondkommission Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ABBFSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ab Volvo",
+      "branches": [
+        {
+          "branch_name": "Ab Volvo",
+          "city": "Gothenburg",
+          "swift_code": "ABVOSEGGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ab Stena Finans",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Goteborg",
+          "swift_code": "SEFSSEG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ab Investor Group Finance",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "INUFSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Avanza Bank Holding Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "AVZASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Avanza Bank Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "AVANSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asia Growth Investors Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ASGISES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "As Parex Banka, Lettland Filial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "PALISES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aros Securities Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ARSCSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aragon Securities Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ARSBSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aqurat Fondkommision Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Danderyd",
+          "swift_code": "AQFOSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aps Capital Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "APSCSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Andra Ap-fonden",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Goteborg",
+          "swift_code": "ANAFSEG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amplion Strukturkapital Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "AMSRSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amf Pensionsforsakrings Ab",
+      "branches": [
+        {
+          "branch_name": "Amf Pensionsforsakrings Ab",
+          "city": "Stockholm",
+          "swift_code": "AMPNSES1AIM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "AMPNSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alternativa Aktiemarknaden I Sverige Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ALKSSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alsback Forvaltning Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ALORSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alpen Ressourcen Sparkassa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ALRPSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alm And Partners Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ALPNSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alfred Berg Fonder Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ALEDSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alfa Kraft Aktiebolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ALKKSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aktietorget",
+      "branches": [
+        {
+          "branch_name": "Sb Mm Aktietorget-cotr",
+          "city": "Stockholm",
+          "swift_code": "XSATSES1CNV"
+        },
+        {
+          "branch_name": "Sb Mm Aktietorget",
+          "city": "Stockholm",
+          "swift_code": "XSATSES1EMA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "XSATSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aktieinvest Fk Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "AIVESES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Catella Corporate Finance Aktiebolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "CCFASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Case Asset Management Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "CSAESES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carnegie Investment Bank Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "CARNSES1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "DSETGB21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carnegie Asset Management Fondsmaeglerselskab A/s Danmark Filial Sverige",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "CAGKSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carlson Noren Macro Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hovas",
+          "swift_code": "CNMUSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Trust Company Scandinavia Kb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "CTCSSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital C Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "CPTLSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Candm Funds Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "CAUUSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Burgundy Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "BURDSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brummer And Partners",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "BRPSSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brevik Kapitalforvaltning Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "BRKISES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Blackrock Investment Management (uk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "BLIGSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Invik Luxembourg Filial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "INLASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankaktiebolaget Avanza",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "AVASSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank2 Bankaktiebolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ANKASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of China (luxembourg) S.a. Stockholm Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "BKCHSESSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banclear Trust Kb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "BTRSSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Baltic Trust Kb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "BLTSSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bab Bankernas Automatbolag Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "BAUBSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "E Trade Bank A/s,danmark,sverige Filial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "TRDSSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dunova Kapitalforvaltning Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "DUKASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dnb Nor Asset Management Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "DNAASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dnb Asset Management Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "DNBASE21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "DNBASESSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dlp Capital Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "DLCASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "D Carnegie Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "DSETSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole Cheuvreux Nordic Aktiebolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "CINSSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Continetal Savings And Loan Ef.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "CSLASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Contender Kapital And Forvaltning Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "COKFSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Consortum Capital Investments Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "COTVSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Concensus Fondkommission Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "COFOSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Compare Kapitalforvaltning Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ornskoldsvik",
+          "swift_code": "COKPSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Coeli Fonder Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "COONSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cmc Markets Uk Plc, Svensk Filial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "CMSFSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cerdo Bankpartner Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsingborg",
+          "swift_code": "CERDSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Centum Kapitalfa-rvaltning Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "CEKPSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Celebi Kapitalforvaltning Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "CEKASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cb Asset Management Aktiebolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ASMKSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Catella Kapitalforvaltning Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "CAKASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fim Kapitalforvaltning Ab Finland",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "FIKFSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Festival International Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "FEIRSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fair Investments Sweden Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Djursholm",
+          "swift_code": "FIEWSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eyer Fondkommission Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Goteborg",
+          "swift_code": "EYFOSEG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Exchange Finans Europe Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "EXFESES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Evli Bank Abp, Stockholmsfilial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "EVATSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "European Trustees And Fiduciaries Association (etfa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ETFASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eturn Capital Management Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vallingby",
+          "swift_code": "ETCASE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Erik Penser Bankaktiebolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ERPFSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ericsson Money Services Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ERICSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Enter Kapitalforvaltning Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "ENKASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eminova Fk Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "EMIOSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ekf Enskild Kapitalfoervaltning Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "EKFSSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Egl Sverige Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Malmo",
+          "swift_code": "EGSVSEM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "East Capital Aktiebolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "EACASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "E.on Trading Nordic Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Malmo",
+          "swift_code": "EOTNSEM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "E. Ohman J Or Kapitalforvaltning",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "OHJKSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "E. Ohman J Or Capital Ab",
+      "branches": [
+        {
+          "branch_name": "Exchange Traded Investment Products",
+          "city": "Stockholm",
+          "swift_code": "OHCASES1SMK"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "OHCASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "E. Oehman J:or Fondkommission Aktiebolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "EOJFSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gunther And Wikberg Kapitalforvaltning Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "GUWKSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Glue Finance Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "GLUESES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Invest Finansformedling Sverige",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Linkoping",
+          "swift_code": "GIFVSE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ge Money Bank Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "MONYSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Garantum Fondkommission Aktiebolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "GAFKSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gadd And Co Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "GADDSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fund Management Group Asa Norge Filial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "FMGASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Franklin Templeton Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "FRTMSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fourth Swedish National Pension Fund",
+      "branches": [
+        {
+          "branch_name": "Aim-poms Service",
+          "city": "Stockholm",
+          "swift_code": "FAPFSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortum Portfolio Services Oy Finland Filial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "FPSFSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortum Portfolio Services Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "FOPSSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Forsta Ap-fonden",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "FOAPSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Forsakringsaktiebolaget Skandia Publ",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "SDIASES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fondkompassen Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "FONNSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Folksam Spar Aktiebolag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "FOLKSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Foersaekrings Ab Agria",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "FOIRSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fm Fondmarknaden Ab Uat Fondab Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "FOUFSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fitch Nordic Region (frl Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "FRIPSES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fisher And Partners",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stockholm",
+          "swift_code": "FIPRSES1XXX"
+        }
+      ]
+    }
+  ]
+}

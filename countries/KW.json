@@ -1,0 +1,897 @@
+{
+  "country_name": "Kuwait",
+  "alpha_2": "KW",
+  "country_code": "414",
+  "banks": [
+    {
+      "bank_name": "Union Securities Brokerage. Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "UNSOKWK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Warba Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "WRBAKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuwait China Investment Company Ksc",
+      "branches": [
+        {
+          "branch_name": "Aim-poms Service",
+          "city": "Sharq",
+          "swift_code": "KCICKWKMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuwait Clearing Company S.a.k.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "KCCKKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuwait Bahrain International Exchange Company Ksc, Kuwait",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "KBEXKWKFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kfic Financial Brokerage",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "KFFBKWK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investment Dar Company K.s.c.c, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "TIDCKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Financial Line Exchange Co.k.s.c.(closed",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Safat",
+          "swift_code": "IFLCKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial Bank Of Kuwait K.s.c., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "IBKUKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Independent Petroleum Group",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jabriya",
+          "swift_code": "IPGHKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuwait Airways Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Safat",
+          "swift_code": "KACCKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Icbc Kuwait Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "ICBKKWK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gulf Investment Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "GCORKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gulf Custody Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Safat",
+          "swift_code": "GCCOKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gulf Bank, K.s.c.",
+      "branches": [
+        {
+          "branch_name": "Trade Finance",
+          "city": "Kuwait",
+          "swift_code": "GULBKWKWTFS"
+        },
+        {
+          "branch_name": "Treasury Operations",
+          "city": "Kuwait",
+          "swift_code": "GULBKWKWTRO"
+        },
+        {
+          "branch_name": "Vostro-kd Department",
+          "city": "Kuwait",
+          "swift_code": "GULBKWKWVOS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "GULBKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Investment House",
+      "branches": [
+        {
+          "branch_name": "Global Investment House-client Account",
+          "city": "Kuwait",
+          "swift_code": "GIHKKWKWCLT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Safat",
+          "swift_code": "GIHKKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Securities Brokerage Company S.a.k.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Safat",
+          "swift_code": "FSBOKWK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Etemadco Exchange Company W.l.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "ETEMKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Bank Of Kuwait Sak,the",
+      "branches": [
+        {
+          "branch_name": "Head Office Branch",
+          "city": "Safat",
+          "swift_code": "COMBKWKWA01"
+        },
+        {
+          "branch_name": "Abdullah Al-salem Street Branch",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA02"
+        },
+        {
+          "branch_name": "Airport Branch",
+          "city": "Farwania",
+          "swift_code": "COMBKWKWA04"
+        },
+        {
+          "branch_name": "Abd Mubarak Branch",
+          "city": "Safat",
+          "swift_code": "COMBKWKWA05"
+        },
+        {
+          "branch_name": "Fahaheel Branch",
+          "city": "Fahaheel",
+          "swift_code": "COMBKWKWA06"
+        },
+        {
+          "branch_name": "Jahra Branch",
+          "city": "Jahra",
+          "swift_code": "COMBKWKWA07"
+        },
+        {
+          "branch_name": "Khaitan Branch",
+          "city": "Khaitan",
+          "swift_code": "COMBKWKWA08"
+        },
+        {
+          "branch_name": "Fahd Al Salem Br",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA09"
+        },
+        {
+          "branch_name": "Omariya Branch",
+          "city": "Omaria",
+          "swift_code": "COMBKWKWA10"
+        },
+        {
+          "branch_name": "Ajial Complex Branch",
+          "city": "Fahaheel",
+          "swift_code": "COMBKWKWA11"
+        },
+        {
+          "branch_name": "Sabahiya Branch",
+          "city": "Sabahiya",
+          "swift_code": "COMBKWKWA12"
+        },
+        {
+          "branch_name": "Sulaibikhat Branch",
+          "city": "Sulaibikhat",
+          "swift_code": "COMBKWKWA13"
+        },
+        {
+          "branch_name": "Ea Ahmadi Branch",
+          "city": "Ahmadi",
+          "swift_code": "COMBKWKWA14"
+        },
+        {
+          "branch_name": "Khaldiya Branch",
+          "city": "Khaldiya",
+          "swift_code": "COMBKWKWA15"
+        },
+        {
+          "branch_name": "Hawalli Branch",
+          "city": "Hawalli",
+          "swift_code": "COMBKWKWA16"
+        },
+        {
+          "branch_name": "Mina Abdulla Branch",
+          "city": "Mina Abdulla",
+          "swift_code": "COMBKWKWA17"
+        },
+        {
+          "branch_name": "Rumaithiya Branch",
+          "city": "Rumaithiya",
+          "swift_code": "COMBKWKWA18"
+        },
+        {
+          "branch_name": "Ardhiya Branch",
+          "city": "Ardhiya",
+          "swift_code": "COMBKWKWA19"
+        },
+        {
+          "branch_name": "Beirut St Branch",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA20"
+        },
+        {
+          "branch_name": "Shuwaikh Branch",
+          "city": "Shuwaikh",
+          "swift_code": "COMBKWKWA21"
+        },
+        {
+          "branch_name": "Mansouriya",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA44"
+        },
+        {
+          "branch_name": "Al-rai",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA45"
+        },
+        {
+          "branch_name": "West Mishrif Branch",
+          "city": "West Mishrif",
+          "swift_code": "COMBKWKWA46"
+        },
+        {
+          "branch_name": "Phone Banking Services",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA47"
+        },
+        {
+          "branch_name": "Souk Al Salmiya Branch",
+          "city": "Salmiya",
+          "swift_code": "COMBKWKWA48"
+        },
+        {
+          "branch_name": "Salwa Branch",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA51"
+        },
+        {
+          "branch_name": "Bneid Al Gar Branch",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA52"
+        },
+        {
+          "branch_name": "Traders Mall",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA53"
+        },
+        {
+          "branch_name": "Sabah Al Salem",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA54"
+        },
+        {
+          "branch_name": "South Surra",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA55"
+        },
+        {
+          "branch_name": "Al Naeem",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA56"
+        },
+        {
+          "branch_name": "Al-rabia Branch",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA57"
+        },
+        {
+          "branch_name": "Al-dhow",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA58"
+        },
+        {
+          "branch_name": "Al Sour Street Branch",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA60"
+        },
+        {
+          "branch_name": "Dasma",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA62"
+        },
+        {
+          "branch_name": "Jeleeb Shoyokh",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA63"
+        },
+        {
+          "branch_name": "Hadiya",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA64"
+        },
+        {
+          "branch_name": "Messilah",
+          "city": "Messilah",
+          "swift_code": "COMBKWKWA65"
+        },
+        {
+          "branch_name": "Fahaheel",
+          "city": "Fahaheel",
+          "swift_code": "COMBKWKWA66"
+        },
+        {
+          "branch_name": "Regaee",
+          "city": "Regaee",
+          "swift_code": "COMBKWKWA67"
+        },
+        {
+          "branch_name": "New Head Office Branch",
+          "city": "Safat",
+          "swift_code": "COMBKWKWB00"
+        },
+        {
+          "branch_name": "Commercial Services Department",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWCOM"
+        },
+        {
+          "branch_name": "Foreign Exchange Department",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWFXS"
+        },
+        {
+          "branch_name": "Guarantees Department",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWGTT"
+        },
+        {
+          "branch_name": "International Division",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWINT"
+        },
+        {
+          "branch_name": "Letters Of Credit Department",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWLCS"
+        },
+        {
+          "branch_name": "Custody Department",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWSEC"
+        },
+        {
+          "branch_name": "S W I F T Support Department",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWSWI"
+        },
+        {
+          "branch_name": "Telex Department",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWTLX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWXXX"
+        },
+        {
+          "branch_name": "Salmiya Branch",
+          "city": "Salmiya",
+          "swift_code": "COMBKWKWA23"
+        },
+        {
+          "branch_name": "Messilah Branch",
+          "city": "Messilah",
+          "swift_code": "COMBKWKWA24"
+        },
+        {
+          "branch_name": "Al Muhalab Center Branch",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA25"
+        },
+        {
+          "branch_name": "Ahmad Al Jaber Street",
+          "city": "Sharq",
+          "swift_code": "COMBKWKWA26"
+        },
+        {
+          "branch_name": "Farwania Coop Branch",
+          "city": "Farwania",
+          "swift_code": "COMBKWKWA27"
+        },
+        {
+          "branch_name": "Vegetable Market Branch",
+          "city": "Shuwaikh",
+          "swift_code": "COMBKWKWA28"
+        },
+        {
+          "branch_name": "Beirut Street Branch",
+          "city": "Hawalli",
+          "swift_code": "COMBKWKWA2O"
+        },
+        {
+          "branch_name": "Salhiya Branch",
+          "city": "Safat",
+          "swift_code": "COMBKWKWA30"
+        },
+        {
+          "branch_name": "Ministries Complex Branch",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA31"
+        },
+        {
+          "branch_name": "Al-yarmouk Branch",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA32"
+        },
+        {
+          "branch_name": "Ras Salmiya Branch",
+          "city": "Salmiya",
+          "swift_code": "COMBKWKWA33"
+        },
+        {
+          "branch_name": "Sixth Ring Road Branch",
+          "city": "Farwania",
+          "swift_code": "COMBKWKWA34"
+        },
+        {
+          "branch_name": "Jabriya Branch",
+          "city": "Jabriya",
+          "swift_code": "COMBKWKWA35"
+        },
+        {
+          "branch_name": "Al Andalus Branch",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA36"
+        },
+        {
+          "branch_name": "Free Trade Zone Branch",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA38"
+        },
+        {
+          "branch_name": "Souk Sharq Branch",
+          "city": "Sharq",
+          "swift_code": "COMBKWKWA39"
+        },
+        {
+          "branch_name": "Private Banking Unit",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA40"
+        },
+        {
+          "branch_name": "Dhaher Branch",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA41"
+        },
+        {
+          "branch_name": "Um Al Haiman Branch",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA42"
+        },
+        {
+          "branch_name": "Kuwait Magic",
+          "city": "Kuwait",
+          "swift_code": "COMBKWKWA43"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Kuwait",
+      "branches": [
+        {
+          "branch_name": "Banking Operations Department-kwd Only",
+          "city": "Kuwait",
+          "swift_code": "CBKUKWKWBOD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "CBKUKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Efg Hermes Ifa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "EFHIKWK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union National Bank-kuwait",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "UNBEKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uae Exchange Centre Wll",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Safat",
+          "swift_code": "UAEXKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Savings And Credit Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Safat",
+          "swift_code": "SACBKWK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Institution For Social Security,the",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "PISUKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sharq Financial Brokerage Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "SHFBKWK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oman Exchange Co. Wll",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Safat",
+          "swift_code": "OMANKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Noor Financial Investment Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "NFICKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Investments Company K.s.c. (closed",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Safat",
+          "swift_code": "NICKKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuwait Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Safat",
+          "swift_code": "XKUWKWK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuwait Petroleum Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Safat",
+          "swift_code": "KPCOKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuwait Investment Projects Company-assets Management Closed Shareholding Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Safat",
+          "swift_code": "KMCOKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuwait Investment Authority",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "KIAKKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuwait International Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "KWIBKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuwait Investment Company (s.a.k.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "KICOKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuwait International Finance Co. S.a.k.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "KUIFKWK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuwait India International Exchange Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Safat",
+          "swift_code": "KIICKWK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuwait Fund For Arab Economic Development",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "KFAEKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuwait Financial Centre S.a.k.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "KFCEKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuwait Finance House (k.s.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Safat",
+          "swift_code": "KFHOKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Burgan Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "BRGNKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Boubyan Bank (k.s.c",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "BBYNKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Kuwait",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "BNPAKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bayt Al Mal Investment Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Safat",
+          "swift_code": "BAYTKWK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bahrain Exchange Company Wll",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Safat",
+          "swift_code": "BECXKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Fund For Economic And Social Development",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "AFEDKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Almuzaini Exchange Company Ksc (closed",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "AAACKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alahli Bank Of Kuwait K.s.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "ABKKKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Rajhi Bank, Kuwait",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "RJHIKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Mulla International Exchange Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "AMIEKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Mal Investment Company K.s.c. (closed",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Safat",
+          "swift_code": "AMKCKWK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ahli United Bank K.s.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "BKMEKWKWXXX"
+        }
+      ]
+    }
+  ]
+}

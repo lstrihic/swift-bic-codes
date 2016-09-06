@@ -1,0 +1,3262 @@
+{
+  "country_name": "Malaysia",
+  "alpha_2": "MY",
+  "country_code": "458",
+  "banks": [
+    {
+      "bank_name": "Klang Securities Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Klang, Selangor",
+          "swift_code": "KLANMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Schroders Malaysia (l) Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Labuan",
+          "swift_code": "SMBLMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Schroder (malaysia) Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "SMSBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sbb Unit Trust Management B Erhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "SBUTMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sbb Securities Sdn. Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ipoh, Perak",
+          "swift_code": "SSSHMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sarawak Securities Futures Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuching, Sarawak",
+          "swift_code": "SSFOMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronics Display (m) Sdn.bhd.",
+      "branches": [
+        {
+          "branch_name": "Sdma",
+          "city": "Seremban",
+          "swift_code": "SECTMY21510"
+        },
+        {
+          "branch_name": "Sema",
+          "city": "Port Klang, Selangor",
+          "swift_code": "SECTMY21520"
+        },
+        {
+          "branch_name": "Sme",
+          "city": "Kuala Lumpur",
+          "swift_code": "SECTMY215F0"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Seremban",
+          "swift_code": "SECTMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ptb Unit Trust Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Terengganu, Terengganu",
+          "swift_code": "PUTBMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ong Research (malaysia) Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "ORMSMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maybank International Labuan Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Labuan",
+          "swift_code": "MBBEMY2LXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mayban Securities Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "MAYSMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mayban Futures Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "MAYFMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yamaichi Advisory Services (malaysia) Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "YASMMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thong And Kay Hian Securities Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Penang, Penang",
+          "swift_code": "TKHOMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ta Securities Holdings Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "BOTLMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ta Securities Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "SETAMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ta Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kota Bahru, Kelantan",
+          "swift_code": "LEKEMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ta Investment Management Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "TAUTMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ta Futures Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "TAFRMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Syarikat Soon Theam Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Penang, Penang",
+          "swift_code": "SSTDMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Supreme Finance (m) Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "SUFBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sun Hung Kai Investment Services Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "SUNHMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Saadiq Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "SCSRMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Southern Investment Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "PERDMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Southern Finance Co Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "UMFBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "South Johor Securities Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Batu Pahat",
+          "swift_code": "SJSSMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sj Securities Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Petaling Jaya, Selangor",
+          "swift_code": "SJSEMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sime Securities Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "UMSSMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Short Deposits (malaysia) Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "SDMBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sharikat Nominee Bumiputra Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "SNBBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sg Securities (singapore) Custodial Services Pte. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Kl Branch",
+          "city": "Kuala Lumpur",
+          "swift_code": "SGSEMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sfsb Services (melaka) Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Malacca, Malacca",
+          "swift_code": "SFDBMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Seagroatt And Campbell Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "SEACMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Y.k. Fung Securities Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ipoh, Perak",
+          "swift_code": "FSSBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wk Securities Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuantan, Pahang",
+          "swift_code": "SESBMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wk Options And Futures Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuantan, Pahang",
+          "swift_code": "WKOFMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wah Tat Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Kuching Sarawak",
+          "city": "Kuching, Sarawak",
+          "swift_code": "WTBBMY3103K"
+        },
+        {
+          "branch_name": "Kuala Lumpur",
+          "city": "Kuala Lumpur",
+          "swift_code": "WTBBMY310KL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sibu, Sarawak",
+          "swift_code": "WTBBMY31XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Volkswagen Group Malaysia",
+      "branches": [
+        {
+          "branch_name": "Volkswagen Group Malaysia",
+          "city": "Kuala Lumpur",
+          "swift_code": "VOGMMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vickers Ballas Research (m) Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "VIBRMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Utama Wardley Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "UWDYMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Utama Merchant Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "UMBBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Upen Securities Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kangar, Perlis",
+          "swift_code": "USSBMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uob Securities Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "UOBSMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uob Kay Hian Securities (m) Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kota Kinabalu, Sabah",
+          "swift_code": "INNOMY41XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Securities Malaysia Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "USMSMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thong-khjc Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Penang, Penang",
+          "swift_code": "THKHMYP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mayban Finance Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "MFINMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mayban Discount Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "MAYDMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Manulife Asset Management Services Berhad",
+      "branches": [
+        {
+          "branch_name": "All Branch",
+          "city": "Kuala Lumpur",
+          "swift_code": "MAMIMYK1ALL"
+        },
+        {
+          "branch_name": "Manulife Asset Management Services Berhad",
+          "city": "Kuala Lumpur",
+          "swift_code": "MAMIMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Malpac Management Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seremban",
+          "swift_code": "SSSDMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Malaysian Industrial Development Finance Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "MAIDMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Malaysian Electronic Payment System (1997) Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "MEPSMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Malaysia Lng Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bintulu",
+          "swift_code": "MLNGMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Malayan Banking Berhad (maybank",
+      "branches": [
+        {
+          "branch_name": "Cash Management Department",
+          "city": "Kuala Lumpur",
+          "swift_code": "MBBEMYKLWEB"
+        }
+      ]
+    },
+    {
+      "bank_name": "Malacca Securities Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Melaka",
+          "swift_code": "MLLAMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Macquarie Capital Securities (malaysia) Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "MACQMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "M And A Securities Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ipoh, Perak",
+          "swift_code": "PTBBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Libra Options And Financial Futures Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "LOFFMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Libra Capital Management Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "LCMSMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Leong And Co Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "LEONMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Labuan Securities Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Labuan",
+          "swift_code": "LABNMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kumpulan Wang Persaraan (diperbadankan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "KWAPMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuala Lumpur City Securities Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "KLCEMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ocbc Securities (melaka) Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Malacca, Malacca",
+          "swift_code": "OSMSMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Novatel Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Petaling Jaya, Selangor",
+          "swift_code": "NOSBMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nomura Securities Malaysia Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "NMRSMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nomura Malaysia Sdn. Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "NMSBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nikko Advisory Services (malaysia) Son. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "NKSCMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nava Sc Securities Research (m) Sdn Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "SCSEMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Multi-purpose Unit Trust Management Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "MPUTMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Morgan Grenfell And Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "MGCOMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mohaiyani Securities Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Petaling Jaya, Selangor",
+          "swift_code": "MSSBMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mimb Investment Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "MIMBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Midf Amanah Investment Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "MIDFMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercury Securities Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Butterworth, Penang",
+          "swift_code": "MERYMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercedes-benz Services Malaysia Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "MBSMMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mega International Commercial Bank Co., Ltd. Labuan Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Labuan",
+          "swift_code": "ICBCMY2LXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mbf Unit Trust Management Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "MBFUMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mbf Securities Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Muar, Johor",
+          "swift_code": "MBFSMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mbf Finance Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "MBFFMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maybank Islamic Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "MBISMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maybank Investment Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "MAVBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Primeinvestcorp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johor Bahru, Johor",
+          "swift_code": "PRNVMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pm Securities Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "PENSMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Piv Services Sdn Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "PIVSMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pica (m) Corporation Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "PCOSMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Phileo Allied Securities Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ipoh, Perak",
+          "swift_code": "PPSSMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Phileo Allied Option And Financial Futures Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "POFFMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pg Asia Investment Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Labuan",
+          "swift_code": "AINEMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pesaka Jardine Fleming Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "PEJFMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Permodalan Nasional Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "PERMMYK1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "PERMMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Permodalan Bsn Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "PBSNMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pengurusan Kumipa Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuantan, Pahang",
+          "swift_code": "PKUMMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pelaburan Johor Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johor Bahru, Johor",
+          "swift_code": "PJBJMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pb Securities Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "SECSMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pb Futures Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "PBFBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Panasonic Financial Centre (malaysia) Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Petaling Jaya, Selangor",
+          "swift_code": "PANAMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pacific Mutual Fund Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Petaling Jaya, Selangor",
+          "swift_code": "PMFBMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pab Unit Trust Management Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "AUTMMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Osk Futures And Options Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "OSKFMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Osk And Partners Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "OSPSMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saham Sabah Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kota Kinabalu, Sabah",
+          "swift_code": "SASBMY41XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sabah Development Bank Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kota Kinabalu, Sabah",
+          "swift_code": "SDBEMY41XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rsle Holding (labuan) Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Labuan",
+          "swift_code": "RHLCMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rsi Capital Holdings Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "RCHBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Royal Savings And Loan Ef",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "ROSLMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rhb Investment Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "RHBMMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rhb Futures Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "RHBFMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rhb Excel Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "RHBKMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rashid And Zaki Derivatives Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "RNZDMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rakyat Merchant Bankers Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "RMBBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Mutual Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "KLMFMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Islamic Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "PIBEMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Investment Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "SMBBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Finance Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "PFBEMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kimara Equities Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seremban, Negri Sembilan",
+          "swift_code": "KIMAMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kenanga Dmg Futures Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "KDMGMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ke-zan Securities Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "KEZAMYK1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Penang, Penang",
+          "swift_code": "KEZNMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kaf-astley And Pearce Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "KAAPMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "K And N Kenaga Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "KKENMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jupiter Securities Sdn. Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "JUPSMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jp Morgan Chase Bank, Na Labuan Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Labuan",
+          "swift_code": "CHASMY2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jf Apex Securities Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kajang",
+          "swift_code": "APEXMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jf Apex Futures Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kajang, Selangor",
+          "swift_code": "JFAFMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jf Apex",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bintang",
+          "swift_code": "JFAPMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.p. Morgan Securities (malaysia) Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "CHASMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.p. Morgan Chase Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Labuan",
+          "swift_code": "CHASMYL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.m. Sassoon Research (malaysia) Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "SRMSMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inter-pacific Securities Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "INSSMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Insurance Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "INIHMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "India International Bank (malaysia) Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "IIMBMYKLXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "IIMBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Research (malaysia) Sdn. Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "JACLMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hong Leong Finance Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "HLFBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hlg Unit Trust Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "HUTMMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Tokyo-Mitsubishi Ufj (Malaysia) Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "BOTKMYKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Nova Scotia Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "NOSCMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of China (Malaysia) Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "BKCHMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of America, Malaysia Berhad",
+      "branches": [
+        {
+          "branch_name": "Labuan",
+          "city": "Labuan",
+          "swift_code": "BOFAMY2XLBN"
+        },
+        {
+          "branch_name": "Kuala Lumpur",
+          "city": "Kuala Lumpur",
+          "swift_code": "BOFAMY2XGRC"
+        },
+        {
+          "branch_name": "Kuala Lumpur",
+          "city": "Kuala Lumpur",
+          "swift_code": "BOFAMY2XLMY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "BOFAMY2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Negara Malaysia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "BNMAMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Muamalat Malaysia Berhad (6175-W)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "BMMBMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Islam Malaysia Berhad Labuan Offshore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Labuan",
+          "swift_code": "BISLMYKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Islam Malaysia Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "BIMBMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bangkok Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "BKKBMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asian Finance Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "AFBQMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amislamic Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "AISLMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alliance Bank Malaysia Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "MFBBMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ambank (M) Berhad",
+      "branches": [
+        {
+          "branch_name": "Labuan Offshore Branch Licensed Labuan Bank No 080097d",
+          "city": "Labuan",
+          "swift_code": "ARBKMYKLLAB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "ARBKMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Kerjasama Rakyat Malaysia Berhad (Bank Rakyat)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "BKRMMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Rajhi Banking And Investment Corporation (Malaysia) Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "RJHIMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Affin Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "PHBMMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aminvestment Bank Berhad (Formerly Known As Ammerchant Bank Berhad)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "AMMBMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Affin Islamic Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "AIBBMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hlg Futures Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "HLGFMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Perusahaan Kecil And Sederhana Malaysia Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "MSMEMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hdm Futures Sdn. Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "HDMFMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abn Amro Hoare Govett Asia Clearing Services Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "HGASMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "A.a. Anthony And Co Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Penang, Penang",
+          "swift_code": "ANTOMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amanah Saham Sarawak Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuching, Sarawak",
+          "swift_code": "SSWKMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oversea-Chinese Banking Corp. Ltd, Labuan Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Labuan",
+          "swift_code": "OCBCMYKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ocbc Bank (Malaysia) Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "OCBCMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ocbc Al-Amin Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "OABBMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Osk Investment Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "OSKIMYKLXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "OSSBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nomura Asset Management Malaysia Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "NOCMMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mizuho Corporate Bank (Malaysia) Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "MHCBMYKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Middle East Investment Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Labuan",
+          "swift_code": "MEIBMYKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc (Malaysia) Trustee Berhad",
+      "branches": [
+        {
+          "branch_name": "Global Wealth Solutions",
+          "city": "Kuala Lumpur",
+          "swift_code": "HSTMMYKLGWS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "HSTMMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hong Leong Investment Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "HLIVMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Export-Import Bank Of Malaysia Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "EXMBMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecm Libra Investment Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "ECMLMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dbs Bank Ltd, Labuan Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Labuan",
+          "swift_code": "DBSSMY2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Amanah Malaysia Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "HMABMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cimb-Principal Asset Management Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "CANHMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hong Leong Islamic Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "HLIBMYKLXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "EIBBMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cimb Investment Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "COIMMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cimb Bank Berhad, Labuan Offshore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Labuan",
+          "swift_code": "CIBBMY2LXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cimb Islamic Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "CTBBMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Berhad",
+      "branches": [
+        {
+          "branch_name": "Penang Branch",
+          "city": "Georgetown",
+          "swift_code": "CITIMYKLPEN"
+        },
+        {
+          "branch_name": "Johor Bahru Branch",
+          "city": "Johor Bahru, Johor",
+          "swift_code": "CITIMYKLJOD"
+        },
+        {
+          "branch_name": "Lab",
+          "city": "Kuala Lumpur",
+          "swift_code": "CITIMYKLLAB"
+        },
+        {
+          "branch_name": "Jalan Ampang",
+          "city": "Kuala Lumpur",
+          "swift_code": "CITIMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank (Malaysia) Berhad",
+      "branches": [
+        {
+          "branch_name": "Labuan Branch",
+          "city": "Labuan",
+          "swift_code": "DEUTMYKLBLB"
+        },
+        {
+          "branch_name": "Kuala Lumpur",
+          "city": "Kuala Lumpur",
+          "swift_code": "DEUTMYKLF4C"
+        },
+        {
+          "branch_name": "Kuala Lumpur",
+          "city": "Kuala Lumpur",
+          "swift_code": "DEUTMYKLGMO"
+        },
+        {
+          "branch_name": "Kuala Lumpur",
+          "city": "Kuala Lumpur",
+          "swift_code": "DEUTMYKLIBW"
+        },
+        {
+          "branch_name": "International Islamic Banking, Malaysia Branch",
+          "city": "Kuala Lumpur",
+          "swift_code": "DEUTMYKLISB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "DEUTMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hong Leong Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Johor Bahru Johor",
+          "city": "Johor Bahru, Johor",
+          "swift_code": "HLBBMYKLJBU"
+        },
+        {
+          "branch_name": "Kuching Sarawak",
+          "city": "Kuching, Sarawak",
+          "swift_code": "HLBBMYKLKCH"
+        },
+        {
+          "branch_name": "Islamic Banking Unit",
+          "city": "Kuala Lumpur",
+          "swift_code": "HLBBMYKLIBU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "HLBBMYKLXXX"
+        },
+        {
+          "branch_name": "Penang Penang",
+          "city": "Penang, Penang",
+          "swift_code": "HLBBMYKLPNG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "EOBBMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cimb Bank (L) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Labuan",
+          "swift_code": "CIBBMYKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Malaysia Berhad",
+      "branches": [
+        {
+          "branch_name": "Bnppm Islamic Banking Window",
+          "city": "Kuala Lumpur",
+          "swift_code": "BNPAMYKLSPI"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "BNPAMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Pertanian Malaysia Berhad-Agrobank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "AGOBMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercedes-Benz Malaysia Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "DABEMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Malaysian Airline System Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Subang",
+          "swift_code": "MAYHMY22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Malayan Banking Berhad (Maybank)",
+      "branches": [
+        {
+          "branch_name": "Trade Finance Center",
+          "city": "Butterworth, Penang",
+          "swift_code": "MBBEMYKLBWC"
+        },
+        {
+          "branch_name": "Ipoh Perak",
+          "city": "Ipoh, Perak",
+          "swift_code": "MBBEMYKLIPH"
+        },
+        {
+          "branch_name": "Johor Bahru Johor",
+          "city": "Johor Bahru, Johor",
+          "swift_code": "MBBEMYKLJOB"
+        },
+        {
+          "branch_name": "Kota Kinabalu Sabah",
+          "city": "Kota Kinabalu, Sabah",
+          "swift_code": "MBBEMYKLKIN"
+        },
+        {
+          "branch_name": "Bangsar Baru Branch",
+          "city": "Kuala Lumpur",
+          "swift_code": "MBBEMYKLBAN"
+        },
+        {
+          "branch_name": "Bukit Bintang Branch",
+          "city": "Kuala Lumpur",
+          "swift_code": "MBBEMYKLBBG"
+        },
+        {
+          "branch_name": "Custodian Services Department",
+          "city": "Kuala Lumpur",
+          "swift_code": "MBBEMYKLCSD"
+        },
+        {
+          "branch_name": "Kepong Branch",
+          "city": "Kuala Lumpur",
+          "swift_code": "MBBEMYKLKEP"
+        },
+        {
+          "branch_name": "Trade Finance Center",
+          "city": "Kuala Lumpur",
+          "swift_code": "MBBEMYKLKLC"
+        },
+        {
+          "branch_name": "Pudu Branch",
+          "city": "Kuala Lumpur",
+          "swift_code": "MBBEMYKLPUD"
+        },
+        {
+          "branch_name": "Subang Airport",
+          "city": "Kuala Lumpur",
+          "swift_code": "MBBEMYKLSUB"
+        },
+        {
+          "branch_name": "Wisma Sime Darby Branch",
+          "city": "Kuala Lumpur",
+          "swift_code": "MBBEMYKLWSD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "MBBEMYKLXXX"
+        },
+        {
+          "branch_name": "Pasir Gudang Johor",
+          "city": "Pasir Gudang, Johor",
+          "swift_code": "MBBEMYKLPSG"
+        },
+        {
+          "branch_name": "Penang Penang",
+          "city": "Penang, Penang",
+          "swift_code": "MBBEMYKLPEN"
+        },
+        {
+          "branch_name": "Trade Finance Center",
+          "city": "Penang, Penang",
+          "swift_code": "MBBEMYKLPGC"
+        },
+        {
+          "branch_name": "Port Klang Selangor",
+          "city": "Port Klang, Selangor",
+          "swift_code": "MBBEMYKLPKG"
+        },
+        {
+          "branch_name": "Trade Finance Center",
+          "city": "Shah Alam, Selangor",
+          "swift_code": "MBBEMYKLSAC"
+        },
+        {
+          "branch_name": "Shah Alam Selangor",
+          "city": "Shah Alam, Selangor",
+          "swift_code": "MBBEMYKLSHA"
+        },
+        {
+          "branch_name": "Trade Finance Center",
+          "city": "Petaling Jaya, Selangor",
+          "swift_code": "MBBEMYKLPJC"
+        },
+        {
+          "branch_name": "Petaling Jaya Selangor",
+          "city": "Petaling Jaya, Selangor",
+          "swift_code": "MBBEMYKLPJY"
+        },
+        {
+          "branch_name": "Yong Shook Lin Branch",
+          "city": "Petaling Jaya, Selangor",
+          "swift_code": "MBBEMYKLYSL"
+        },
+        {
+          "branch_name": "Seremban Negri Sembilan",
+          "city": "Seremban, Negri Sembilan",
+          "swift_code": "MBBEMYKLSBN"
+        },
+        {
+          "branch_name": "Malacca Malacca",
+          "city": "Malacca, Malacca",
+          "swift_code": "MBBEMYKLMAL"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuwait Finance House (Malaysia) Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "KFHOMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maybank International (L) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Labuan",
+          "swift_code": "MBBEMYKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kaf Investment Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "KAFBMYKLXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "KAFDMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.P.Morgan Chase Bank Berhad, Kuala Lumpur",
+      "branches": [
+        {
+          "branch_name": "Test Key And Bke Administration",
+          "city": "Kuala Lumpur",
+          "swift_code": "CHASMYKXKEY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "CHASMYKXXXX"
+        },
+        {
+          "branch_name": "Jpmorgan Securities-malaysia",
+          "city": "Kuala Lumpur",
+          "swift_code": "CHASMYKXSEC"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial And Commercial Bank Of China (Malaysia) Berhad.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "ICBKMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Islamic Liquidity Management Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "IILMMYKLXXX"
+        },
+        {
+          "branch_name": "International Islamic Liquidity Management Corporation",
+          "city": "Kuala Lumpur",
+          "swift_code": "IILMMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank Malaysia Berhad, Malaysia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "HBMBMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cimb Futures Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "CIMFMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hwangdbs Investment Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Penang, Penang",
+          "swift_code": "HDSBMY2PXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cagamas Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "CAGAMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Investment Bank (labuan) Limited (cib Labuan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Labuan",
+          "swift_code": "CINBMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bursa Malaysia Securities Clearing Sendirian Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "BMSCMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bursa Malaysia Depository Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "MCDSMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bumiputra Merchant Bankers Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "BMBBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bsn Merchant Bank Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "BSNMMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "British American Tobacco Gsd (kuala Lumpur) Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "British American Tobacco Gsd (kuala Lumpur) Sdn Bhd",
+          "city": "Petaling Jaya, Selangor",
+          "swift_code": "BATSMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bimb Unit Trust Management Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "BUTMMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bursa Malaysia Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "XKLSMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bbmb Unit Trust Management Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "BBUTMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bimb Securities Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "BSDBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bbmb Securities Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "BSSBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bursa Malaysia Derivatives Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "XLOFMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bbmb Kewangan Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "BKEWMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bat Aspac Service Centre Sdn. Bhd",
+      "branches": [
+        {
+          "branch_name": "Bat Aspac Service Centre Sdn. Bhd",
+          "city": "Kuala Lumpur",
+          "swift_code": "BATSMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bbmb Discount House Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "BDHBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays De Zoete Wedd (malaysia) Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "BZWLMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bbmb Futures Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "BBFTMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Simpanan Nasional Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "BSNAMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Overseas Bank (Malaysia) Berhad",
+      "branches": [
+        {
+          "branch_name": "Custodian And Nominees Department",
+          "city": "Kuala Lumpur",
+          "swift_code": "UOVBMYKLCND"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "UOVBMYKLXXX"
+        },
+        {
+          "branch_name": "Kluang Johor",
+          "city": "Kluang, Johor",
+          "swift_code": "UOVBMYK101J"
+        },
+        {
+          "branch_name": "Jalan Dato Hamzah Branch",
+          "city": "Klang, Selangor",
+          "swift_code": "UOVBMYK101K"
+        },
+        {
+          "branch_name": "Butterworth Penang",
+          "city": "Butterworth, Penang",
+          "swift_code": "UOVBMYK101P"
+        },
+        {
+          "branch_name": "Kota Bahru Kelantan",
+          "city": "Kota Bahru, Kelantan",
+          "swift_code": "UOVBMYK101T"
+        },
+        {
+          "branch_name": "Raub Pahang",
+          "city": "Raub, Pahang",
+          "swift_code": "UOVBMYK1022"
+        },
+        {
+          "branch_name": "Seremban Negri Sembilan",
+          "city": "Seremban",
+          "swift_code": "UOVBMYK1023"
+        },
+        {
+          "branch_name": "Jalan Othman Branch",
+          "city": "Petaling Jaya, Selangor",
+          "swift_code": "UOVBMYK1024"
+        },
+        {
+          "branch_name": "Jalan Tengah Branch",
+          "city": "Petaling Jaya, Selangor",
+          "swift_code": "UOVBMYK1025"
+        },
+        {
+          "branch_name": "Bentong Pahang",
+          "city": "Bentong, Pahang",
+          "swift_code": "UOVBMYK1026"
+        },
+        {
+          "branch_name": "Malacca Malacca",
+          "city": "Malacca, Malacca",
+          "swift_code": "UOVBMYK1027"
+        },
+        {
+          "branch_name": "Ipoh Perak",
+          "city": "Ipoh, Perak",
+          "swift_code": "UOVBMYK102H"
+        },
+        {
+          "branch_name": "Johor Bahru Johor",
+          "city": "Johor Bahru, Johor",
+          "swift_code": "UOVBMYK102J"
+        },
+        {
+          "branch_name": "Jalan Meru",
+          "city": "Klang, Selangor",
+          "swift_code": "UOVBMYK102K"
+        },
+        {
+          "branch_name": "Lebuh Bishop",
+          "city": "Penang, Penang",
+          "swift_code": "UOVBMYK102P"
+        },
+        {
+          "branch_name": "Kuantan Pahang",
+          "city": "Kuantan, Pahang",
+          "swift_code": "UOVBMYK102T"
+        },
+        {
+          "branch_name": "Kulai Johor",
+          "city": "Kulai, Johor",
+          "swift_code": "UOVBMYK103J"
+        },
+        {
+          "branch_name": "Kuching Sarawak",
+          "city": "Kuching, Sarawak",
+          "swift_code": "UOVBMYK103K"
+        },
+        {
+          "branch_name": "Lebuh Pantai",
+          "city": "Penang, Penang",
+          "swift_code": "UOVBMYK103P"
+        },
+        {
+          "branch_name": "Kuala Terengganu Terengganu",
+          "city": "Kuala Terengganu, Terengganu",
+          "swift_code": "UOVBMYK103T"
+        },
+        {
+          "branch_name": "Sandakan Sabah",
+          "city": "Sandakan, Sabah",
+          "swift_code": "UOVBMYK1042"
+        },
+        {
+          "branch_name": "Tuaran Sabah",
+          "city": "Tuaran, Sabah",
+          "swift_code": "UOVBMYK1043"
+        },
+        {
+          "branch_name": "Kota Kinabalu Sabah",
+          "city": "Kota Kinabalu, Sabah",
+          "swift_code": "UOVBMYK104K"
+        },
+        {
+          "branch_name": "Jalan Raja Laut",
+          "city": "Kuala Lumpur",
+          "swift_code": "UOVBMYK10K1"
+        },
+        {
+          "branch_name": "Medan Pasar Branch",
+          "city": "Kuala Lumpur",
+          "swift_code": "UOVBMYK10K2"
+        },
+        {
+          "branch_name": "Jalan Pudu",
+          "city": "Kuala Lumpur",
+          "swift_code": "UOVBMYK10K3"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unicorn International Islamic Bank Malaysia Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "UIIBMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Royal Bank Of Scotland N.V., (Labuan) Branch (Formerly Known As Abn Amro Bank N.V., Labuan Branch)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Labuan",
+          "swift_code": "ABNAMY2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sumitomo Mitsui Banking Corporation Malaysia Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "SMBCMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank Malaysia Berhad",
+      "branches": [
+        {
+          "branch_name": "Labuan Offshore Banking Unit Only",
+          "city": "Labuan",
+          "swift_code": "SCBLMYKXLAB"
+        },
+        {
+          "branch_name": "All Offices In Malaysia",
+          "city": "Kuala Lumpur",
+          "swift_code": "SCBLMYKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Royal Bank Of Scotland Berhad (301932-A)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "ABNAMYKLXXX"
+        },
+        {
+          "branch_name": "Penang Penang",
+          "city": "Penang, Penang",
+          "swift_code": "ABNAMYKLPNG"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rhb Islamic Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "RHBAMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rhb Bank (L) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Labuan",
+          "swift_code": "RHBBMYKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Bank (L) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Labuan",
+          "swift_code": "PBLLMYKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Overseas Bank Limited Labuan Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Labuan",
+          "swift_code": "UOVBMY2LXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Petroliam Nasional Berhad",
+      "branches": [
+        {
+          "branch_name": "Klcc",
+          "city": "Kuala Lumpur",
+          "swift_code": "PTROMYKLFSD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "PTROMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Petronas Carigali Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "PCGLMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amanah Saham Mic-tpg Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "ASMIMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amanah Saham Kedah Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Alor Setar, Kedah",
+          "swift_code": "KUTMMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amanah Mutual Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "MMBHMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alor Setar Securities Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Alor Setar, Kedah",
+          "swift_code": "ALOSMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Petronas Trading Corporation Sdn. Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "PTRDMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amanah Merchant Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "MBAMMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alliance Islamic Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "ALSRMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Atas Capital And Stock Brokerage House Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Labuan",
+          "swift_code": "ACSBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amanah Futures And Options Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "AFOBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aia Berhad",
+      "branches": [
+        {
+          "branch_name": "Aia Berhad",
+          "city": "Kuala Lumpur",
+          "swift_code": "AIBEMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alliance International Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kota Kinabalu, Sabah",
+          "swift_code": "HHBSMY41XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amanah Butler Malaysia Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "AMBMMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Affin Investment Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "AFUOMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Atas Bullion Trading House (l) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "ABTHMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Affin Discount Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "AFIDMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Affin Merchant Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "PMBBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alliance Investment Futures Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "KLFFMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abrar Futures Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "ABFUMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Pembangunan Malaysia Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "PEMBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Muamalat Malaysia Berhad (6175-w",
+      "branches": [
+        {
+          "branch_name": "Trade Finance",
+          "city": "Kuala Lumpur",
+          "swift_code": "BMMBMYKLTFD"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agrobank Islamic",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "AGISMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abrar Discounts Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "ISCAMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Avenue Securities Sdn.bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "AVSSMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asm Mara Unit Trust Management Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "ASMMMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asian Trade Investment Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Labuan",
+          "swift_code": "ATBLMY2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Avenue Securities Sdn Bdh",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "CHABMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asian And Euro-america Merchant Bankers (malaysia) Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "AEAMMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asia Pacific Banking Group Malaysia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "APGTMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asia Commercial Finance (m) Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "ACFBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aof Futures Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "AOFMMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aseambankers Malaysia Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "MBEAMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ammb Investment Services Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "AMUTMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Malaysian Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "ARMDMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amsecurities Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "AMSDMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ammb Futures Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "ARFBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amfb Holdings Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "AMFBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amcredit Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "AMCBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amanah Short Deposits Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "SDEPMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Halim Securities Sdn Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Petaling Jaya, Selangor",
+          "swift_code": "HALIMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ha Options And Financial Futures",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "HAOFMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "G.k. Goh Securities Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "GOSPMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fulton Prebon (malaysia) Sdn. Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "FPMBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Industri Malaysia Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "BKIMMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fidelity Asia Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Labuan",
+          "swift_code": "FABEMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fa Securities Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Terengganu, Terengganu",
+          "swift_code": "FASEMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Employees Provident Fund Board",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "KWSPMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daiwa Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "DAICMYK1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "DAREJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecmlibra Investment Bank Bhd Bangunan Ecm Libra",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "EIBEMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eon Finance Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "EONFMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Crosby Research Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "CRSHMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Securities (malaysia) Sdn. Bhd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "CSFBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eoncap Securities Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "ESSHMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clsa Securities Malaysia Sdn. Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "CSMSMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Corporation (malaysia) Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "CCMBMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Lyonnais Securities Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "CLSAMYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citigroup Global Market Malaysia Sdn Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "CITIMY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cimb Wealth Advisors Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Petaling Jaya, Selangor",
+          "swift_code": "BPTMMY21XXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "country_name": "Israel",
+  "alpha_2": "IL",
+  "country_code": "376",
+  "banks": [
+    {
+      "bank_name": "Trade Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "TRADILI1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Poalim Sahar Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "POSHILI1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Telecommunication R And D-israel",
+      "branches": [
+        {
+          "branch_name": "Yakum 3743754",
+          "city": "Yakum",
+          "swift_code": "SECTILI1432"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Yakum",
+          "swift_code": "SECTILI1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Israel Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nesher",
+          "swift_code": "ARISILI1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Bank Of Israel Ltd",
+      "branches": [
+        {
+          "branch_name": "Haifa",
+          "city": "Haifa",
+          "swift_code": "UNBKILITHAI"
+        },
+        {
+          "branch_name": "Jerusalem",
+          "city": "Jerusalem",
+          "swift_code": "UNBKILITJLM"
+        },
+        {
+          "branch_name": "International Branch",
+          "city": "Tel-Aviv",
+          "swift_code": "UNBKILITINT"
+        },
+        {
+          "branch_name": "Tel-aviv Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "UNBKILITTLV"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "UNBKILITXXX"
+        },
+        {
+          "branch_name": "Diamond Branch",
+          "city": "Ramat-Gan",
+          "swift_code": "UNBKILITDMD"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tel-Aviv Stock Exchange Clearing House",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "XTAEILITXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "IGBTILITXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tel Aviv Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "XTAEILICXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "XTAEILIBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "XTAEILIMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pacific Mediterranean Investment Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Herzelia Pituach",
+          "swift_code": "PAMIILI1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ofek Securities And Investments Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "OFSIILI1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meitav Brokerage Services Gaon Trade) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "MBSGILI1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Magna Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "MGATILI1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Leader And Co. Investments",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "LEINILI1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Israel Credit Cards Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Givatayim",
+          "swift_code": "ICCEILI1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Israel Brokerage And Investment Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "ISBNILI1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investsoft Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Haifa",
+          "swift_code": "IVSOILI1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank Plc, Tel Aviv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "HSBCILITXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fs Mizrahi Tefahot Bank Ltd Ramat Gan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramat-Gan",
+          "swift_code": "MITGILI1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Five Capital Markets Ltd.",
+      "branches": [
+        {
+          "branch_name": "Five Capital Markets Ltd.",
+          "city": "Haifa",
+          "swift_code": "FIPKILI1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Excellence Nessuah Brokerage Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramat-Gan",
+          "swift_code": "ZNNXILI1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ds Stock Exchange Services Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "STXSILI1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Contech Lp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Herzeliya",
+          "swift_code": "CONHILI1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citigroup Financial Products Israel Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "CFPSILI1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brevan Howard (israel) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramat-Gan",
+          "swift_code": "BRHRILI1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Israel",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "BNPAILI1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "BNPAILITXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Batucha Securities And Investments Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "BASVILI1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barak Capital G.t Limited",
+      "branches": [
+        {
+          "branch_name": "Barak Capital G.t Limited",
+          "city": "Tel-Aviv",
+          "swift_code": "BRTPILI1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Yahav For Goverment Employees Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jerusalem",
+          "swift_code": "BYAHILI1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercantile Discount Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "BARDILITXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First International Bank Of Israel Ltd.,The",
+      "branches": [
+        {
+          "branch_name": "Diamond Exchange Branch",
+          "city": "Ramat-Gan",
+          "swift_code": "FIRBILITDEX"
+        },
+        {
+          "branch_name": "Tel-aviv",
+          "city": "Tel-Aviv",
+          "swift_code": "FIRBILITCBR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "FIRBILITXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dexia Israel Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "OTHHILITXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "OTHHILI1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Israel Postal Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jerusalem",
+          "swift_code": "IPOAILIJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Poaley Agudat Israel Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "PAGIILITXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Otsar Ha-Hayal Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramat-Gan",
+          "swift_code": "OTSHILITXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Jerusalem Ltd. Tel-Aviv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "JERSILITXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Israel",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jerusalem",
+          "swift_code": "BOICILIJXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jerusalem",
+          "swift_code": "ISRAILIJXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jerusalem",
+          "swift_code": "ISRAILIRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Massad Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tel-Aviv",
+          "swift_code": "MASBILITXXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "country_name": "Kiribati",
+  "alpha_2": "KI",
+  "country_code": "296",
+  "banks": [
+    {
+      "bank_name": "Anz Bank (kiribati) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tarawa",
+          "swift_code": "BKIRKIKIXXX"
+        }
+      ]
+    }
+  ]
+}

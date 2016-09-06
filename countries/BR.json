@@ -1,0 +1,3257 @@
+{
+  "country_name": "Brazil",
+  "alpha_2": "BR",
+  "country_code": "076",
+  "banks": [
+    {
+      "bank_name": "Xp Investimentos Cctvm Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "IVCCBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wwi Administracao De Recursos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "WWARBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Um Investimentos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "UMINBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ts-tristar Imperial, Securities And Finance Ltda Service Centre Imperial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Goiania",
+          "swift_code": "TISNBRD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tov Corretora De Titulos, Cambio E Valores Mobiliarios Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "TCTCBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tov Cctvm Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "TOVCBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fator-doria Atherino S/a Cv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "FADABRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fator S.a. Corretora De Valores",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "FATOBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Equity Cp-ccv S/a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "EQCCBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Empresa Brasileira De Correios E Telegrafos-ect",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brasilia",
+          "swift_code": "EBCTBRD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Elite Ccvm Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "ELCCBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Distribuidora Bank Of Boston Dtvm S/a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "DIBDBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Cv S/a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "DEUTBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cruzeiro Do Sul Corretora De Valores",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "CSCVBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Hedging Griffo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "HEDGBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse First Boston Sa Ctvm",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "CSFBBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cotacao Distribuidora De Titulos E Valores Mobs S/a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "CDTVBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Credito Rural Do Oeste Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bahia",
+          "swift_code": "CCRLBRB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa Central Credito Rural Rgs Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Porto Alegre",
+          "swift_code": "CCCRBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Convencao S/a Corretora De Valores E Cambio",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "CCVCBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Concordia Sa Cvmcc",
+      "branches": [
+        {
+          "branch_name": "01069 900 Sao Paulo",
+          "city": "Sao Paulo",
+          "swift_code": "CNCVBRR1001"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "CNCVBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Companhia Providencia Industria E Comercio",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Jose Dos Pinhais",
+          "swift_code": "CPICBRP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Coinvalores Ccvm Ltda.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "COCCBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cm Capital Markets Cctvm Ltda.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "CAKCBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "City Ccvm Ltda.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "CICCBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citigroup Global Markets Brasil Cctvm Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "CGMBBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Titulo Corretora De Valores S/a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "TITUBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prudential Do Brasil Seguros De Vida Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "PBSVBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jpm Cor De Cam Titu E Val Mob S/a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "JPMCBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jpm Cctvm S/a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "JPCCBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jp Morgan Distribuidora",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "JODIBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Itau Asset Management",
+      "branches": [
+        {
+          "branch_name": "Itau Asset Management",
+          "city": "Sao Paulo",
+          "swift_code": "ITSABRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intra S/a Ccv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "INCVBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial And Commercial Bank Of China(brazil",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "ICBKBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Indosuez W.i. Carr Securities (brazil) Dtvm S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "WICABRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Indosuez Capital Dtvm S/a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "DTVMBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Icap Do Brasil Dtvm Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "ICBDBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank Brasil S.a.-banco Multiplo",
+      "branches": [
+        {
+          "branch_name": "Hss Funds",
+          "city": "Curitiba",
+          "swift_code": "BCBBBRPRFDS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gradual C.c.t.v.m. Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "GRADBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Geracao Futuro Corretora De Valores Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "GFCVBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Geracao Corretora De Valores Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "GERABRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gbm Brasil Dtvm S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "GBBDBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gavea Investimentos Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "GAIVBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Garantia Dtvm S/a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "GADTBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fitch Ratings Brasil Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "FRIPBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finasa-suplicy C.c.v.m. S/a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "FISUBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finabank Corretora De Cambio Titulos E Valores Mobiliarios Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "FCCTBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fibra Asset Management Distribuidora De Titulos E Valores Mobiliarios Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "FDTVBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prosper S/a Cvc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "PRVVBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prime S/a Corretora De Cambio E Valores",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "PRCCBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Planner Corretora De Valores S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "PLAEBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Planibanc Cv S/a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "PLACBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Petra-personal Trader Corretora De Titulos E Valores Mobiliarios Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Curitiba",
+          "swift_code": "PTRABRP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Parana Banco S.a.",
+      "branches": [
+        {
+          "branch_name": "Parana Banco S.a.",
+          "city": "Curitiba",
+          "swift_code": "PARABRP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Novinvest S/a Cvm",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "NOCVBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Novacao S/a Ccvm",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "NOCCBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nova Futura D.t.v.m. Ltda.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "NOFVBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Multiplic Cvm S/a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "MUCVBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Multiplic Banco De Investimento S/a",
+      "branches": [
+        {
+          "branch_name": "Rio De Janeiro",
+          "city": "Rio De Janeiro",
+          "swift_code": "MUBABRS10RJ"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "MUBABRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moody's America Latina Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "MOATBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mirae Asset Securities (brasil) C.t.v.m. Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "MACBBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Midbank-banco De Investimento S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "MIINBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch S.a. Corretora De Titulos E Valores Mobiliarios",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "MLCVBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch Dtvm",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "MLDTBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Magliano S.a. Corretora De Cambio E Valores Mobiliarios",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "MCALBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Link S/a Cctvm",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "LICTBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Liberal S/a Cor De Cam E Val Mob",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "LIBEBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Theca Corretora De Cambio, Titulos E Valores Mobiliarios Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "THECBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Royal Bank Of Scotland Brasil S.a.-banco De Investimento",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "RBOSBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tese Gestao De Investimentos Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "TEGIBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Talarico Corretora De Cambio E Titulos Mobiliariosltda.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "TALABRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stock S/a Cor De Cam E Val",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "SCCVBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Squanto Investimentos Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "SQINBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Spinelli S/a-corretora De Valores Mobiliarios E Cambio",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "SCVCBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Special Settlement And Custody System (selic",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "SSCSBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Socopa Sociedade Corretora Paulista S/a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "SCPABRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Slw Corretora De Valores E Cambio Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "SCVBBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scotiabank Brasil S.a.-banco Multiplo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "NOSCBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Schahin Ccvm S/a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "SCHVBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Santander Brasil S/a Ctvm",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "SABVBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronica Da Amazonia Ltda.",
+      "branches": [
+        {
+          "branch_name": "Seda",
+          "city": "Sao Paulo",
+          "swift_code": "SECTBRS1820"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "SECTBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "S.hayata Corretora De Cambio S.a.",
+      "branches": [
+        {
+          "branch_name": "S.hayata Corretora De Cambio S.a.",
+          "city": "Sao Paulo",
+          "swift_code": "SHDCBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Royal Bank Of Canada (brasil) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "ROYCBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rmc S/a Sc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "RMCRBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Renascenca Distribuidora De Titulos E Valores Mobiliarios Ltda.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "RDTVBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Quantia Dtvm Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "QUCCBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Investimentos Credit Suisse (Brasil) S.A.",
+      "branches": [
+        {
+          "branch_name": "01451-020 Sao Paulo",
+          "city": "Sao Paulo",
+          "swift_code": "BIGABRRJSPO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BIGABRRJXXX"
+        },
+        {
+          "branch_name": "Hedging Griffo",
+          "city": "Sao Paulo",
+          "swift_code": "BIGABRRJHGF"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Daycoval S/A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "DAYCBRSPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "DAYCKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Da Amazonia S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Belem",
+          "swift_code": "AMABBRABXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Credit Agricole Brasil Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BAGBBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Cooperativo Sicredi Sa - Bansicredi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Porto Alegre",
+          "swift_code": "BCSIBRRSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Confidence De Cambio Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BKCOBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Citibank Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "CITIBRBRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Central Do Brasil",
+      "branches": [
+        {
+          "branch_name": "Sede",
+          "city": "Brasilia",
+          "swift_code": "BCBRBRDFBSA"
+        },
+        {
+          "branch_name": "Depto. De Operacoes Internacionais",
+          "city": "Brasilia",
+          "swift_code": "BCBRBRDFINT"
+        },
+        {
+          "branch_name": "Depto. Da Divida Externa E De Relacoes Internacionais",
+          "city": "Brasilia",
+          "swift_code": "BCBRBRDFORG"
+        },
+        {
+          "branch_name": "Sistema Nacional De Cambio",
+          "city": "Brasilia",
+          "swift_code": "BCBRBRDFSNC"
+        },
+        {
+          "branch_name": "Banco Central Do Brasil",
+          "city": "Brasilia",
+          "swift_code": "BCBRBRDFXXX"
+        },
+        {
+          "branch_name": "Banco Central Do Brasil",
+          "city": "Rio De Janeiro",
+          "swift_code": "BCBRBRDFRJO"
+        },
+        {
+          "branch_name": "Banco Central Do Brasil",
+          "city": "Sao Paulo",
+          "swift_code": "BCBRBRDFSPO"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Cargill S/A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BCBZBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Caixa Geral-Brasil S/A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "CGDIBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bva Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "BVABBRRJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Btg Pactual S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "BPABBRRJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Brj S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "BRJBBRRJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bradesco S.A.",
+      "branches": [
+        {
+          "branch_name": "Belem",
+          "city": "Belem",
+          "swift_code": "BBDEBRSPBLM"
+        },
+        {
+          "branch_name": "Belo Horizonte",
+          "city": "Belo Horizonte",
+          "swift_code": "BBDEBRSPBHE"
+        },
+        {
+          "branch_name": "Blumenau",
+          "city": "Blumenau",
+          "swift_code": "BBDEBRSPBNU"
+        },
+        {
+          "branch_name": "Brasilia",
+          "city": "Brasilia",
+          "swift_code": "BBDEBRSPBSA"
+        },
+        {
+          "branch_name": "Campinas",
+          "city": "Campinas",
+          "swift_code": "BBDEBRSPCAS"
+        },
+        {
+          "branch_name": "Curitiba",
+          "city": "Curitiba",
+          "swift_code": "BBDEBRSPCTA"
+        },
+        {
+          "branch_name": "Fortaleza",
+          "city": "Fortaleza",
+          "swift_code": "BBDEBRSPFLA"
+        },
+        {
+          "branch_name": "Franca",
+          "city": "Franca",
+          "swift_code": "BBDEBRSPFAC"
+        },
+        {
+          "branch_name": "Joinville",
+          "city": "Joinville",
+          "swift_code": "BBDEBRSPJVE"
+        },
+        {
+          "branch_name": "Banco Bradesco S.A.",
+          "city": "Manaus",
+          "swift_code": "BBDEBRSPMNS"
+        },
+        {
+          "branch_name": "Novo Hamburgo",
+          "city": "Novo Hamburgo",
+          "swift_code": "BBDEBRSPNHO"
+        },
+        {
+          "branch_name": "Porto Alegre",
+          "city": "Porto Alegre",
+          "swift_code": "BBDEBRSPPAE"
+        },
+        {
+          "branch_name": "Recife",
+          "city": "Recife",
+          "swift_code": "BBDEBRSPRCE"
+        },
+        {
+          "branch_name": "Rio De Janeiro",
+          "city": "Rio De Janeiro",
+          "swift_code": "BBDEBRSPRJO"
+        },
+        {
+          "branch_name": "Salvador",
+          "city": "Salvador",
+          "swift_code": "BBDEBRSPSDR"
+        },
+        {
+          "branch_name": "Santos",
+          "city": "Santos",
+          "swift_code": "BBDEBRSPSTS"
+        },
+        {
+          "branch_name": "Bradex",
+          "city": "Sao Paulo",
+          "swift_code": "BBDEBRSPBEX"
+        },
+        {
+          "branch_name": "Bank Reconciliation",
+          "city": "Sao Paulo",
+          "swift_code": "BBDEBRSPCON"
+        },
+        {
+          "branch_name": "Cash Management",
+          "city": "Sao Paulo",
+          "swift_code": "BBDEBRSPCSH"
+        },
+        {
+          "branch_name": "Matriz",
+          "city": "Sao Paulo",
+          "swift_code": "BBDEBRSPMTZ"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BBDEBRSPOCO"
+        },
+        {
+          "branch_name": "Branch",
+          "city": "Sao Paulo",
+          "swift_code": "BBDEBRSPSPO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BBDEBRSPXXX"
+        },
+        {
+          "branch_name": "Vitoria",
+          "city": "Vitoria",
+          "swift_code": "BBDEBRSPVTA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BBDEKYKYXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "New York,Ny",
+          "swift_code": "BBDEUS33XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bnp Paribas Brasil S/A",
+      "branches": [
+        {
+          "branch_name": "Banco Bnp Paribas Brasil S-a",
+          "city": "Brasilia",
+          "swift_code": "BNPABRSPB2S"
+        },
+        {
+          "branch_name": "Sao Paolo Branch",
+          "city": "Sao Paulo",
+          "swift_code": "BNPABRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bmf De Servicos De Liq.E De Custodia S.A.",
+      "branches": [
+        {
+          "branch_name": "Sao Paulo",
+          "city": "Sao Paulo",
+          "swift_code": "BBMFBRSPDBL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BBMFBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bbm S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "BBINBRRJXXX"
+        },
+        {
+          "branch_name": "Sao Paulo",
+          "city": "Sao Paulo",
+          "swift_code": "BBINBRR10SP"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Barclays Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BCLYBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Alfa De Investimento S.A., Sao Paulo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "AUFABRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Abc Brasil S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "ABCBBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chase Fleming S.a. Ccvm",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "GRAPBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Zogbi Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BCRSBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Fator Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BFATBRS1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BFATBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ativa S/a Corretora De Titulos Cambio E Valores",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "ACTCBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of China Brasil S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BKCHBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banif-Banco Internacional Do Funchal (Brasil), Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BNIFBRRJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banestes S.A. - Banco Do Estado Do Espirito Santo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vitoria",
+          "swift_code": "BEESBRRJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Westlb Do Brasil S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "WELABRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Votorantim S.A.",
+      "branches": [
+        {
+          "branch_name": "Sao Paulo",
+          "city": "Sao Paulo",
+          "swift_code": "BAVOBRSPCST"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BAVOBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Modal S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "MODABRRJXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Grand Cayman",
+          "swift_code": "MODAKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Merrill Lynch De Investimentos S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "MLBOBRSPXXX"
+        },
+        {
+          "branch_name": "Trades",
+          "city": "Sao Paulo",
+          "swift_code": "MLBOBRSXTRA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "MLBOBRSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Mercantil Do Brasil S.A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Belo Horizonte",
+          "swift_code": "BMBRBRRBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BMBRKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Keb Do Brasil S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "KOEXBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Kdb Do Brasil S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "KODBBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Jp Morgan S.A.",
+      "branches": [
+        {
+          "branch_name": "Direct Custody Clearing",
+          "city": "Sao Paulo",
+          "swift_code": "CHASBRSPDCC"
+        },
+        {
+          "branch_name": "Global Core Capabilities",
+          "city": "Sao Paulo",
+          "swift_code": "CHASBRSPGCC"
+        },
+        {
+          "branch_name": "Test Key And Bke Administration",
+          "city": "Sao Paulo",
+          "swift_code": "CHASBRSPKEY"
+        },
+        {
+          "branch_name": "Jpmorgan Ts Management",
+          "city": "Sao Paulo",
+          "swift_code": "CHASBRSPTSM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "CHASBRSPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "CHASMXMXXXX"
+        },
+        {
+          "branch_name": "Global Treasury Services",
+          "city": "Mexico",
+          "swift_code": "CHASMXMXGTS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Jbs S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BJBSBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Itau Bba S.A.",
+      "branches": [
+        {
+          "branch_name": "Belo Horizonte Branch",
+          "city": "Belo Horizonte",
+          "swift_code": "CBBABRSPBHE"
+        },
+        {
+          "branch_name": "Campinas Branch",
+          "city": "Campinas",
+          "swift_code": "CBBABRSPCAS"
+        },
+        {
+          "branch_name": "Porto Alegre Branch",
+          "city": "Porto Alegre",
+          "swift_code": "CBBABRSPPAE"
+        },
+        {
+          "branch_name": "Rio De Janeiro Branch",
+          "city": "Rio De Janeiro",
+          "swift_code": "CBBABRSPRJO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "CBBABRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Intercap Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "ICAPBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Indusval S/A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "IDVLBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Industrial E Comercial S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BICBBRSPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BICBKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Industrial Do Brasil S/A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BIBRBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Fibra S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "FIBIBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Do Nordeste Do Brasil S/A",
+      "branches": [
+        {
+          "branch_name": "30140 Belo Horizonte",
+          "city": "Belo Horizonte",
+          "swift_code": "BNBRBRCFBHE"
+        },
+        {
+          "branch_name": "60025 Fortaleza",
+          "city": "Fortaleza",
+          "swift_code": "BNBRBRCFFLA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Fortaleza",
+          "swift_code": "BNBRBRCFXXX"
+        },
+        {
+          "branch_name": "57020 Maceio",
+          "city": "Maceio",
+          "swift_code": "BNBRBRCFMCO"
+        },
+        {
+          "branch_name": "59025 Natal",
+          "city": "Natal",
+          "swift_code": "BNBRBRCFNTL"
+        },
+        {
+          "branch_name": "50060 Recife",
+          "city": "Recife",
+          "swift_code": "BNBRBRCFRCE"
+        },
+        {
+          "branch_name": "20041 Rio De Janeiro",
+          "city": "Rio De Janeiro",
+          "swift_code": "BNBRBRCFRJO"
+        },
+        {
+          "branch_name": "40010 Salvador",
+          "city": "Salvador",
+          "swift_code": "BNBRBRCFSDR"
+        },
+        {
+          "branch_name": "01310 Sao Paulo",
+          "city": "Sao Paulo",
+          "swift_code": "BNBRBRCFSPO"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Do Estado Do Rio Grande Do Sul S/A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Porto Alegre",
+          "swift_code": "BRGSBRRSPAE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Porto Alegre",
+          "swift_code": "BRGSBRRSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Do Brasil S.A",
+      "branches": [
+        {
+          "branch_name": "Gecex Belem",
+          "city": "Belem",
+          "swift_code": "BRASBRRJBLM"
+        },
+        {
+          "branch_name": "Gecex Belo Horizonte",
+          "city": "Belo Horizonte",
+          "swift_code": "BRASBRRJBHE"
+        },
+        {
+          "branch_name": "Gecex Blumenau",
+          "city": "Blumenau",
+          "swift_code": "BRASBRRJBNU"
+        },
+        {
+          "branch_name": "Gecex Campinas",
+          "city": "Campinas",
+          "swift_code": "BRASBRRJCAS"
+        },
+        {
+          "branch_name": "Gecex Brasilia",
+          "city": "Brasilia",
+          "swift_code": "BRASBRRJBSA"
+        },
+        {
+          "branch_name": "Swift For Corporates-dicom",
+          "city": "Brasilia",
+          "swift_code": "BRASBRRJGFN"
+        },
+        {
+          "branch_name": "Prepaid Card Dicar",
+          "city": "Brasilia",
+          "swift_code": "BRASBRRJPPC"
+        },
+        {
+          "branch_name": "S W I F T Support Interfaceinfrastructure",
+          "city": "Brasilia",
+          "swift_code": "BRASBRRJSUP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brasilia",
+          "swift_code": "BRASBRRJXXX"
+        },
+        {
+          "branch_name": "Gecex Caxias Do Sul",
+          "city": "Caxias Do Sul",
+          "swift_code": "BRASBRRJCSL"
+        },
+        {
+          "branch_name": "Gecex Curitiba",
+          "city": "Curitiba",
+          "swift_code": "BRASBRRJCTA"
+        },
+        {
+          "branch_name": "Gecex Fortaleza",
+          "city": "Fortaleza",
+          "swift_code": "BRASBRRJFLA"
+        },
+        {
+          "branch_name": "Gecex Manaus",
+          "city": "Manaus",
+          "swift_code": "BRASBRRJMNS"
+        },
+        {
+          "branch_name": "Gecex Porto Alegre",
+          "city": "Porto Alegre",
+          "swift_code": "BRASBRRJPAE"
+        },
+        {
+          "branch_name": "Gecex Recife",
+          "city": "Recife",
+          "swift_code": "BRASBRRJRCE"
+        },
+        {
+          "branch_name": "Gecex Ribeirao Preto",
+          "city": "Ribeirao Preto",
+          "swift_code": "BRASBRRJRPO"
+        },
+        {
+          "branch_name": "Adr American Depositary Receipts Dimec",
+          "city": "Rio De Janeiro",
+          "swift_code": "BRASBRRJADR"
+        },
+        {
+          "branch_name": "Account Reconciliation And Statements Coger",
+          "city": "Rio De Janeiro",
+          "swift_code": "BRASBRRJCGR"
+        },
+        {
+          "branch_name": "Account Reconciliation And Statements",
+          "city": "Rio De Janeiro",
+          "swift_code": "BRASBRRJRJ1"
+        },
+        {
+          "branch_name": "Internacional Cash Management And Foreign Exchange Difindimec",
+          "city": "Rio De Janeiro",
+          "swift_code": "BRASBRRJRJ3"
+        },
+        {
+          "branch_name": "Gecex Rio De Janeiro",
+          "city": "Rio De Janeiro",
+          "swift_code": "BRASBRRJRJO"
+        },
+        {
+          "branch_name": "Gecex Salvador",
+          "city": "Salvador",
+          "swift_code": "BRASBRRJSDR"
+        },
+        {
+          "branch_name": "Financial Institutions Dirin",
+          "city": "Sao Paulo",
+          "swift_code": "BRASBRRJIBR"
+        },
+        {
+          "branch_name": "Gecex Sao Paulo Iii",
+          "city": "Sao Paulo",
+          "swift_code": "BRASBRRJOCO"
+        },
+        {
+          "branch_name": "Gecex Sao Paulo I",
+          "city": "Sao Paulo",
+          "swift_code": "BRASBRRJSBO"
+        },
+        {
+          "branch_name": "Gecex Sao Paulo Ii",
+          "city": "Sao Paulo",
+          "swift_code": "BRASBRRJSPO"
+        },
+        {
+          "branch_name": "Gecex Vitoria",
+          "city": "Vitoria",
+          "swift_code": "BRASBRRJVTA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "BRASCLRMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BRASESMMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "BRASGB2LXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Miami,Fl",
+          "swift_code": "BRASUS3MXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "New York,Ny",
+          "swift_code": "BRASUS33XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Paris",
+          "swift_code": "BRASFRPPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Frankfurt Am Main",
+          "swift_code": "BRASDEFFXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "BRASJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Tokyo-Mitsubishi Ufj Brasil S/A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BOTKBRSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Sumitomo Mitsui Brasileiro S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "SUBRBRSPXXX"
+        },
+        {
+          "branch_name": "Brasilia",
+          "city": "Brasilia",
+          "swift_code": "SUBRBRS10DF"
+        },
+        {
+          "branch_name": "Belo Horizonte",
+          "city": "Belo Horizonte",
+          "swift_code": "SUBRBRS10RB"
+        },
+        {
+          "branch_name": "Rio De Janeiro",
+          "city": "Rio De Janeiro",
+          "swift_code": "SUBRBRS10RJ"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "SUBRKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Standard De Investimentos S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "SBLLBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Sofisa S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BSBSBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Societe Generale Brasil S/A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BSOGBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Schahin S/A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "SCHABRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Santander (Brasil) S.A.",
+      "branches": [
+        {
+          "branch_name": "Sao Paulo",
+          "city": "Sao Paulo",
+          "swift_code": "BSCHBRSPGEB"
+        },
+        {
+          "branch_name": "Securities Department",
+          "city": "Sao Paulo",
+          "swift_code": "BSCHBRSPSEC"
+        },
+        {
+          "branch_name": "Sao Paulo Branch",
+          "city": "Sao Paulo",
+          "swift_code": "BSCHBRSPSPO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BSCHBRSPXXX"
+        },
+        {
+          "branch_name": "Asset Management",
+          "city": "Sao Paulo",
+          "swift_code": "BSCHBRSPAST"
+        },
+        {
+          "branch_name": "Sao Paulo",
+          "city": "Sao Paulo",
+          "swift_code": "BSCHBRSPBKR"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Safra S.A.",
+      "branches": [
+        {
+          "branch_name": "Rio De Janeiro",
+          "city": "Rio De Janeiro",
+          "swift_code": "SAFRBRSPRJO"
+        },
+        {
+          "branch_name": "Sao Paulo",
+          "city": "Sao Paulo",
+          "swift_code": "SAFRBRSPSPO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "SAFRBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Rural S.A.",
+      "branches": [
+        {
+          "branch_name": "Belo Horizonte",
+          "city": "Belo Horizonte",
+          "swift_code": "RUBABRRBSIM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Belo Horizonte",
+          "swift_code": "RUBABRRBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Rendimento S/A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "RENDBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Rabobank International Brasil S/A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "RABOBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Pine S.A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "PBBRBRSPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "PBBRKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Panamericano S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BPNMBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Paulista S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "PAULBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional De Desenvolvimento Economico E Social - Bndes",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "NACDBRRJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Morgan Stanley Dean Witter S.A.",
+      "branches": [
+        {
+          "branch_name": "Sao Paulo",
+          "city": "Sao Paulo",
+          "swift_code": "MSDWBRSPTSY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "MSDWBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Icatu Dtvm Ltda.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "ICATBRRJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank Brasil S.A. - Banco Multiplo",
+      "branches": [
+        {
+          "branch_name": "66000 Belem",
+          "city": "Belem",
+          "swift_code": "BCBBBRPRBLM"
+        },
+        {
+          "branch_name": "30190 Belo Horizonte",
+          "city": "Belo Horizonte",
+          "swift_code": "BCBBBRPRBHE"
+        },
+        {
+          "branch_name": "89010 Blumenau",
+          "city": "Blumenau",
+          "swift_code": "BCBBBRPRBNU"
+        },
+        {
+          "branch_name": "13012-100 Campinas",
+          "city": "Campinas",
+          "swift_code": "BCBBBRPRCAS"
+        },
+        {
+          "branch_name": "80010 Curitiba",
+          "city": "Curitiba",
+          "swift_code": "BCBBBRPRCTA"
+        },
+        {
+          "branch_name": "Treasury Operations",
+          "city": "Curitiba",
+          "swift_code": "BCBBBRPRTSY"
+        },
+        {
+          "branch_name": "60055 Fortaleza",
+          "city": "Fortaleza",
+          "swift_code": "BCBBBRPRFLA"
+        },
+        {
+          "branch_name": "89200 Joinville",
+          "city": "Joinville",
+          "swift_code": "BCBBBRPRJVE"
+        },
+        {
+          "branch_name": "69005 Manaus",
+          "city": "Manaus",
+          "swift_code": "BCBBBRPRMNS"
+        },
+        {
+          "branch_name": "83200 Paranagua",
+          "city": "Paranagua",
+          "swift_code": "BCBBBRPRPNG"
+        },
+        {
+          "branch_name": "90020 Porto Alegre",
+          "city": "Porto Alegre",
+          "swift_code": "BCBBBRPRPAE"
+        },
+        {
+          "branch_name": "51020 Recife",
+          "city": "Recife",
+          "swift_code": "BCBBBRPRRCE"
+        },
+        {
+          "branch_name": "20011 Rio De Janeiro",
+          "city": "Rio De Janeiro",
+          "swift_code": "BCBBBRPRRJO"
+        },
+        {
+          "branch_name": "11013 Santos",
+          "city": "Santos",
+          "swift_code": "BCBBBRPRSTS"
+        },
+        {
+          "branch_name": "41820-020 Salvador",
+          "city": "Salvador",
+          "swift_code": "BCBBBRPRSDR"
+        },
+        {
+          "branch_name": "Global Custody",
+          "city": "Sao Paulo",
+          "swift_code": "BCBBBRPRCGB"
+        },
+        {
+          "branch_name": "Sao Paulo",
+          "city": "Sao Paulo",
+          "swift_code": "BCBBBRPRCOR"
+        },
+        {
+          "branch_name": "Sao Paulo",
+          "city": "Sao Paulo",
+          "swift_code": "BCBBBRPRNET"
+        },
+        {
+          "branch_name": "Offshore Funds",
+          "city": "Sao Paulo",
+          "swift_code": "BCBBBRPROFS"
+        },
+        {
+          "branch_name": "01412 Sao Paulo",
+          "city": "Sao Paulo",
+          "swift_code": "BCBBBRPRSPO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BCBBBRPRXXX"
+        },
+        {
+          "branch_name": "29010 Vitoria",
+          "city": "Vitoria",
+          "swift_code": "BCBBBRPRVTA"
+        }
+      ]
+    },
+    {
+      "bank_name": "Goldman Sachs Do Brasil Corretora De Valores Mobiliarios Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "GSBCBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Goldman Sachs Do Brasil Banco Multiplo S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "GOLDBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Estratagia Investimentos S/A Corretora De Valores",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "ESTRBRRJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Didier Levy Banco De Cambio S/A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BEXSBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank S.A. - Banco Alemao",
+      "branches": [
+        {
+          "branch_name": "20090-000 Rio De Janeiro",
+          "city": "Rio De Janeiro",
+          "swift_code": "DEUTBRSPRJO"
+        },
+        {
+          "branch_name": "04717 Sao Paulo",
+          "city": "Sao Paulo",
+          "swift_code": "DEUTBRSPSPO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "DEUTBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Companhia Brasileira De Liquidacao E Custodia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "CLCBBRRJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Camara Interbancaria De Pagamentos-Cip",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "CCIPBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa Economica Federal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "CEFXBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brb-Banco De Brasilia S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brasilia",
+          "swift_code": "BRBSBRDFXXX"
+        },
+        {
+          "branch_name": "01000 Sao Paulo",
+          "city": "Sao Paulo",
+          "swift_code": "BRBSBRD1SPA"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bram-Bradesco Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BBDMBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bpn Brasil Banco Multiplo S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BPBMBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bolsa De Mercadorias E Futuros - Bm E F",
+      "branches": [
+        {
+          "branch_name": "Diretoria De Liquidacao E Custodia",
+          "city": "Sao Paulo",
+          "swift_code": "XBMFBRSPCRD"
+        },
+        {
+          "branch_name": "Departamento De Custodia",
+          "city": "Sao Paulo",
+          "swift_code": "XBMFBRSPDBL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "XBMFBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bny Mellon Servicos Financeiros Dtvm Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "BNYMBRRJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bmf - Camara De Derivativos",
+      "branches": [
+        {
+          "branch_name": "Diretoria De Liquidacao E Custodia",
+          "city": "Sao Paulo",
+          "swift_code": "XBMFBRBRCRD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "XBMFBRBRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bes Investimento Do Brasil S/A-Banco De Investimento",
+      "branches": [
+        {
+          "branch_name": "Bes Securities",
+          "city": "Sao Paulo",
+          "swift_code": "BESBBRSPBES"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BESBBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bdmg-Banco De Desenvolvimento De Minas Gerais",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Belo Horizonte",
+          "swift_code": "BDMGBRRBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Anz Participacoes E Servicoes Ltda.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "ANZBBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Anglo Ferrous Brazil S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "ANFEBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "American Express Bank (brasil) Banco Multiplo S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "AEIBBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alpes C.c.t.v.m. Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "ALPVBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alfa Ccvm S/a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "ALCCBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agora Cor De Titul E Val Mob",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "AGORBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agenda Ccvm Ltda.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "AGCVBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Accesstage Tecnologia Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "ACSTBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abn Amro Securities (brasil) Corretora De Valores Mobiliarios Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "AASBBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Votorantim Corretora De Tit E Val Mob Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "VCTMBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vale S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "VAEEBRRJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Starexport Trading S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Bernardo Do Campo",
+          "swift_code": "DATRBRSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank (Brasil) S.A.-Banco De Investimento",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "SCBLBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Petroleo Brasileiro S.A.-Petrobras",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "PEBRBRRJXXX"
+        },
+        {
+          "branch_name": "Petrobras Bolivia",
+          "city": "Rio De Janeiro",
+          "swift_code": "PEBRBRRJ001"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nestle Brazil Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "NESNBRSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nbc Bank Brasil Sa Bank Multiplo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Porto Alegre",
+          "swift_code": "COMEBRRSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Morgan Stanley",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "MSSPBRS1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "MSMCMXMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercedes-Benz Do Brasil Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Bernardo Do Campo",
+          "swift_code": "DABEBRSXXXX"
+        },
+        {
+          "branch_name": "Industrial Accounts",
+          "city": "Sao Bernardo Do Campo",
+          "swift_code": "DABEBRSXIBA"
+        }
+      ]
+    },
+    {
+      "bank_name": "Itau Unibanco S/A",
+      "branches": [
+        {
+          "branch_name": "Blumenau",
+          "city": "Blumenau",
+          "swift_code": "ITAUBRSPBNU"
+        },
+        {
+          "branch_name": "Belo Horizonte",
+          "city": "Belo Horizonte",
+          "swift_code": "ITAUBRSPBHE"
+        },
+        {
+          "branch_name": "Campinas",
+          "city": "Campinas",
+          "swift_code": "ITAUBRSPCAS"
+        },
+        {
+          "branch_name": "Curitiba",
+          "city": "Curitiba",
+          "swift_code": "ITAUBRSPCTA"
+        },
+        {
+          "branch_name": "Joinville",
+          "city": "Joinville",
+          "swift_code": "ITAUBRSPJVE"
+        },
+        {
+          "branch_name": "Novo Hamburgo",
+          "city": "Novo Hamburgo",
+          "swift_code": "ITAUBRSPNHO"
+        },
+        {
+          "branch_name": "Porto Alegre",
+          "city": "Porto Alegre",
+          "swift_code": "ITAUBRSPPAE"
+        },
+        {
+          "branch_name": "Rio De Janeiro",
+          "city": "Rio De Janeiro",
+          "swift_code": "ITAUBRSPRJO"
+        },
+        {
+          "branch_name": "Assessoria Adr",
+          "city": "Sao Paulo",
+          "swift_code": "ITAUBRSPADR"
+        },
+        {
+          "branch_name": "Gerencia De Fundos E Carteiras Internacional",
+          "city": "Sao Paulo",
+          "swift_code": "ITAUBRSPINT"
+        },
+        {
+          "branch_name": "Gerencia De Fundos E Carteiras Internacional",
+          "city": "Sao Paulo",
+          "swift_code": "ITAUBRSPISS"
+        },
+        {
+          "branch_name": "Custodia Local",
+          "city": "Sao Paulo",
+          "swift_code": "ITAUBRSPLOC"
+        },
+        {
+          "branch_name": "Superintendencia Administrativa Operacional",
+          "city": "Sao Paulo",
+          "swift_code": "ITAUBRSPSAO"
+        },
+        {
+          "branch_name": "Sao Paulo",
+          "city": "Sao Paulo",
+          "swift_code": "ITAUBRSPSPO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "ITAUBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Do Estado Do Para S.a.",
+      "branches": [
+        {
+          "branch_name": "Banco Do Estado Do Para S.a.",
+          "city": "Belem",
+          "swift_code": "BEPABRABXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Do Estado De Sergipe S.a.",
+      "branches": [
+        {
+          "branch_name": "49000 Aracaju",
+          "city": "Aracaju",
+          "swift_code": "SEEBBRR10B2"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Aracaju",
+          "swift_code": "SEEBBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Do Estado De Goias S A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "BESGBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Dimensao",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "BDAOBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Digibanco S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "DBDIBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Desenvolvimento Do Parana Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "BADPBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Desenvolvimento Do Estado Do Rio De Janeiro Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "BDEJBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Desenvolvimento Do Estado Da Bahia S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Salvador",
+          "swift_code": "DBAHBRB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Desenvolvimento Do Espirito Santo Sa-bandes",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vitoria",
+          "swift_code": "BDOEBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Cruzeiro Do Sul S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BCSLBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Chase Fleming Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "GRBABRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Cacique S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BCUEBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bonsucesso Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Belo Horizonte",
+          "swift_code": "BBONBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bmg S.a.",
+      "branches": [
+        {
+          "branch_name": "20031-000 Rio De Janeiro",
+          "city": "Rio De Janeiro",
+          "swift_code": "BMBCBRR10RJ"
+        },
+        {
+          "branch_name": "01419-002 Sao Paulo",
+          "city": "Sao Paulo",
+          "swift_code": "BMBCBRR10SP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Belo Horizonte",
+          "swift_code": "BMBCBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Azteca Do Brasil S/a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Recife",
+          "swift_code": "AZTKBRCRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Arbi S/a",
+      "branches": [
+        {
+          "branch_name": "Rio De Janeiro",
+          "city": "Rio De Janeiro",
+          "swift_code": "ARBBBRS10RJ"
+        },
+        {
+          "branch_name": "Porto Alegre",
+          "city": "Porto Alegre",
+          "swift_code": "ARBBBRS10RS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "ARBBBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Abn Amro S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "ABNABRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aureum Sociedade Corretora De Cambio E Valores Mobiliarios Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Curitiba",
+          "swift_code": "AUREBRP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ativa S/a Ctv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "ATCTBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Woori Bank Do Brasil",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "HVBKBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Ubs Pactual S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "BOMGBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Topazio S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Porto Alegre",
+          "swift_code": "TOPZBRRSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Sul America S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BSUABRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Ribeirao Preto S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ribeirao Preto",
+          "swift_code": "BRPOBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Regional De Desenvolvimento Do Extremo Sul",
+      "branches": [
+        {
+          "branch_name": "88020-000 Florianopolis",
+          "city": "Florianopolis",
+          "swift_code": "RDESBRP10RF"
+        },
+        {
+          "branch_name": "90010-140 Porto Alegre",
+          "city": "Porto Alegre",
+          "swift_code": "RDESBRP10RS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Curitiba",
+          "swift_code": "RDESBRP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Ourinvest S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "OURIBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Original S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BORIBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nossa Caixa S/a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "NCXXBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Noroeste Chemical Investimento",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "NOCIBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional De Credito Cooperativo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brasilia",
+          "swift_code": "BNCCBRD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Mineiro S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Belo Horizonte",
+          "swift_code": "MINBBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Mercantil S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Recife",
+          "swift_code": "BMBOBRC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Maxima",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "BMAXBRRJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Luso Brasileiro S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BLBCBRSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Itaubank S.a",
+      "branches": [
+        {
+          "branch_name": "Rio De Janeiro",
+          "city": "Rio De Janeiro",
+          "swift_code": "FNBBBRB1RJO"
+        },
+        {
+          "branch_name": "Sao Paulo Branch",
+          "city": "Sao Paulo",
+          "swift_code": "FNBBBRB1SPO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "FNBBBRB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Inter-atlantico De Investimento",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "BIAIBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Goldmine S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "BOGOBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco General Motors S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BGEMBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cetro Ctvm Ltda.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Porto Alegre",
+          "swift_code": "CECTBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cetip S.a. Balcao Organizado De Ativos E Derivativos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "CTIPBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cetip / Central De Custodia E De Liquidacao Financeira De Titulos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "CETIBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa Economica Do Estado Do Io Grande Do Sul Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caxias Do Sul",
+          "swift_code": "CEESBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brasil Plural Cctvm Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "FLCEBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brascan S/a Corretora De Titulos E Valores",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BCDTBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bradessco S.a. Corretora Tvm",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BBDCBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bradesco S/a Ctvm",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BRCTBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bolsa De Valores Do Rio De Janeiro",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "XRIOBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bolsa De Valores De Sao Paulo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "XBSPBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bittencourt S/a Ctvc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "BICTBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bgc Liquidez Dtvm Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "BGLDBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bbm I Gestao De Recursos Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "BBMIBRRJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bb Distr. De Titulos E Valores Mobls. S/a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rio De Janeiro",
+          "swift_code": "DTVOBRR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Baring Securities Brazil",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BSECBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Ctvm S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "BACVBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banko Sumitomo Mitsui Brasileiro S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "SCBRBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankboston, N.a. Brazil",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "FNBBBRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bandeirantes Credito Imobiliario",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Paulo",
+          "swift_code": "CIMBBRS1XXX"
+        }
+      ]
+    }
+  ]
+}

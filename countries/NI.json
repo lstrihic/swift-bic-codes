@@ -1,0 +1,172 @@
+{
+  "country_name": "Nicaragua",
+  "alpha_2": "NI",
+  "country_code": "558",
+  "banks": [
+    {
+      "bank_name": "Central Nicaragueense De Valores, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Managua",
+          "swift_code": "CNVCNIM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional De Desarrollo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Managua",
+          "swift_code": "BNDENIM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Procredit Nicaragua",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Managua",
+          "swift_code": "PRCBNIMAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Lafise Bancentro, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Managua",
+          "swift_code": "BCCENIMAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Europeo De Centro America, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Managua",
+          "swift_code": "BEUCNIM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Prestamos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Managua",
+          "swift_code": "BPRENIM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De La Vivienda De Nicaragua",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Managua",
+          "swift_code": "BVISNIM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De La Produccion S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Managua",
+          "swift_code": "BAPRNIMAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Exportacion",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Managua",
+          "swift_code": "EXPTNIM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Credito Popular",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Managua",
+          "swift_code": "CRPONIM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Centro America",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Managua",
+          "swift_code": "BCEANIM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Citibank De Nicaragua, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Managua",
+          "swift_code": "BUNONIMAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Mercantil",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Managua",
+          "swift_code": "BMRCNIM1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "BAMRCWC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De America Central",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Managua",
+          "swift_code": "BAMCNIMAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Central De Nicaragua",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Managua",
+          "swift_code": "BCNINIMAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Finanzas, S.a.(bdf",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Managua",
+          "swift_code": "BBDFNIMAXXX"
+        }
+      ]
+    }
+  ]
+}

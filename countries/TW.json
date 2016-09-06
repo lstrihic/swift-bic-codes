@@ -1,0 +1,7727 @@
+{
+  "country_name": "Taiwan, Province of China",
+  "alpha_2": "TW",
+  "country_code": "158",
+  "banks": [
+    {
+      "bank_name": "Winner Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chung Li",
+          "swift_code": "WINRTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wells Fargo Bank, N.a., Taipei Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "PNBPTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wells Fargo Bank N.a., Taipei Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "WFBITWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Well-phone Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "WEPWTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Waterland Securities Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "WSERTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wanshing Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "WANSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wan Tai Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chiayi",
+          "swift_code": "WATSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wan Sheng Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "WSSETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wall Street Sec. Co Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taichung",
+          "swift_code": "WALTTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "W.i. Carr (taiwan) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "WICATWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Universal Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "UNVETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "UNIITWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unite And Prosper Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "UNTPTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Bank Of Taiwan",
+      "branches": [
+        {
+          "branch_name": "Business Department",
+          "city": "Taipei",
+          "swift_code": "UBOTTWTP001"
+        },
+        {
+          "branch_name": "Taoyuan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "UBOTTWTP003"
+        },
+        {
+          "branch_name": "Nanking East Road Branch",
+          "city": "Taipei",
+          "swift_code": "UBOTTWTP005"
+        },
+        {
+          "branch_name": "East Taipei Branch",
+          "city": "Taipei",
+          "swift_code": "UBOTTWTP009"
+        },
+        {
+          "branch_name": "Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "UBOTTWTP010"
+        },
+        {
+          "branch_name": "Minchuan Branch",
+          "city": "Taichung",
+          "swift_code": "UBOTTWTP062"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "UBOTTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Securities Pte. Ltd. Taipei Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "UBSWTW21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Global Asset Management (taiwan) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "UBSATWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Ag Taipei Branch",
+      "branches": [
+        {
+          "branch_name": "Taipei Branch",
+          "city": "Taipei",
+          "swift_code": "UBSWTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tzoong Fwu Sec. Co Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nantou",
+          "swift_code": "TZOFTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Typhone Securities Co Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "TYPHTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tung San Sec. Co Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taitung",
+          "swift_code": "TUNNTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yung Shin Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "YUSCTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yung Sheng Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "YUSETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yung Li Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "YUNSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yung Chuan Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tao-yuan",
+          "swift_code": "YUCETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yung Chong Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "YUCSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yuanta Securities Investment Trust Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "YSITTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yuanta Securities Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "YCPSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yuanta Commercial Bank Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Taipei",
+          "city": "Taipei",
+          "swift_code": "APBKTWTH035"
+        },
+        {
+          "branch_name": "Kaohsiung",
+          "city": "Kaohsiung",
+          "swift_code": "APBKTWTH127"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "APBKTWTHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yuan-lin Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Changhua",
+          "swift_code": "YULSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yuan Tung Securities Co Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaohsiung",
+          "swift_code": "YUTSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yu Li Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Changhua",
+          "swift_code": "YULITWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Young Ming Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "YOMSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ying Yi Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaohsiung",
+          "swift_code": "YINSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yie Chang Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tainan",
+          "swift_code": "CHAUTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yang-fa Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taichung",
+          "swift_code": "YANSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wu Gou Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Changhua",
+          "swift_code": "GOUETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Worldwide Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "WORSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Worldsec Capital Management Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "WCCMTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sino-japan Securities Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SIJSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Torng Dah Sec. Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaohsiung",
+          "swift_code": "TORDTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ta Yun Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "YUNETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ta Shing Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "I-lan",
+          "swift_code": "SHIITWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taya Securities Co Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tainan",
+          "swift_code": "TAYCTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taiwan Stock Exchange Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "XTAITWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taiwan Shin Kong Commercial Bank Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Dong Taipei Branch",
+          "city": "Taipei",
+          "swift_code": "MKTBTWTP028"
+        },
+        {
+          "branch_name": "Sha Lu Branch",
+          "city": "Taichung",
+          "swift_code": "MKTBTWTP106"
+        },
+        {
+          "branch_name": "Nan Dong Branch",
+          "city": "Taipei",
+          "swift_code": "MKTBTWTP110"
+        },
+        {
+          "branch_name": "Cheng Nei Branch",
+          "city": "Taipei",
+          "swift_code": "MKTBTWTP116"
+        },
+        {
+          "branch_name": "Song-an Branch",
+          "city": "Taipei",
+          "swift_code": "MKTBTWTP134"
+        },
+        {
+          "branch_name": "Chin Cheng Branch",
+          "city": "Taipei",
+          "swift_code": "MKTBTWTP143"
+        },
+        {
+          "branch_name": "Nei Hu Branch",
+          "city": "Taipei",
+          "swift_code": "MKTBTWTP152"
+        },
+        {
+          "branch_name": "Nan Gang Branch",
+          "city": "Taipei",
+          "swift_code": "MKTBTWTP189"
+        },
+        {
+          "branch_name": "Hsin Chu Branch",
+          "city": "Hsinchu",
+          "swift_code": "MKTBTWTP213"
+        },
+        {
+          "branch_name": "Jhongli Branch",
+          "city": "Jhongli",
+          "swift_code": "MKTBTWTP222"
+        },
+        {
+          "branch_name": "Taoyuan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "MKTBTWTP231"
+        },
+        {
+          "branch_name": "Sin Pu Branch",
+          "city": "Banciao",
+          "swift_code": "MKTBTWTP338"
+        },
+        {
+          "branch_name": "Taichung Branch",
+          "city": "Taichung",
+          "swift_code": "MKTBTWTP347"
+        },
+        {
+          "branch_name": "Chung Kang Branch",
+          "city": "Taichung",
+          "swift_code": "MKTBTWTP356"
+        },
+        {
+          "branch_name": "Da Dun Branch",
+          "city": "Taichung",
+          "swift_code": "MKTBTWTP383"
+        },
+        {
+          "branch_name": "Yuanlin Branch",
+          "city": "Yuan-lin",
+          "swift_code": "MKTBTWTP392"
+        },
+        {
+          "branch_name": "East Tainan Branch",
+          "city": "Tainan",
+          "swift_code": "MKTBTWTP417"
+        },
+        {
+          "branch_name": "Da Li Branch",
+          "city": "Taichung",
+          "swift_code": "MKTBTWTP426"
+        },
+        {
+          "branch_name": "Changhua Branch",
+          "city": "Changhua",
+          "swift_code": "MKTBTWTP444"
+        },
+        {
+          "branch_name": "Business Department",
+          "city": "Taipei",
+          "swift_code": "MKTBTWTP499"
+        },
+        {
+          "branch_name": "Dan Feng Branch",
+          "city": "Sinjhuang",
+          "swift_code": "MKTBTWTP505"
+        },
+        {
+          "branch_name": "Hsin Sheng S Road Branch",
+          "city": "Taipei",
+          "swift_code": "MKTBTWTP523"
+        },
+        {
+          "branch_name": "Hsin Tien Branch",
+          "city": "Hsintien",
+          "swift_code": "MKTBTWTP569"
+        },
+        {
+          "branch_name": "Ba De Branch",
+          "city": "De City",
+          "swift_code": "MKTBTWTP596"
+        },
+        {
+          "branch_name": "Chang An Branch",
+          "city": "Taipei",
+          "swift_code": "MKTBTWTP611"
+        },
+        {
+          "branch_name": "Chiayi Branch",
+          "city": "Chia Yi",
+          "swift_code": "MKTBTWTP620"
+        },
+        {
+          "branch_name": "Feng Shan Branch",
+          "city": "Kaohsiung",
+          "swift_code": "MKTBTWTP648"
+        },
+        {
+          "branch_name": "Tainan Branch",
+          "city": "Tainan",
+          "swift_code": "MKTBTWTP657"
+        },
+        {
+          "branch_name": "North Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "MKTBTWTP806"
+        },
+        {
+          "branch_name": "Chung Hwa Branch",
+          "city": "Taichung",
+          "swift_code": "MKTBTWTP833"
+        },
+        {
+          "branch_name": "Cheng De Branch",
+          "city": "Taipei",
+          "swift_code": "MKTBTWTP842"
+        },
+        {
+          "branch_name": "Dun Nan Branch",
+          "city": "Taipei",
+          "swift_code": "MKTBTWTP851"
+        },
+        {
+          "branch_name": "Siang Shang Branch",
+          "city": "Taichung",
+          "swift_code": "MKTBTWTP912"
+        },
+        {
+          "branch_name": "Feng Yuan Branch",
+          "city": "Fengyuan",
+          "swift_code": "MKTBTWTP930"
+        },
+        {
+          "branch_name": "Ping Tung Branch",
+          "city": "Pingtung",
+          "swift_code": "MKTBTWTP958"
+        },
+        {
+          "branch_name": "Chi Hsien Branch",
+          "city": "Kaohsiung",
+          "swift_code": "MKTBTWTP985"
+        },
+        {
+          "branch_name": "Offshore Banking Unit",
+          "city": "Taipei",
+          "swift_code": "MKTBTWTPOBU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "MKTBTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tao Yuan Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tao-yuan",
+          "swift_code": "TAYETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taiwan Shin Kong Commercial Bank Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SKBKTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taiwan Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "TAICTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taiwan International Securities Corp",
+      "branches": [
+        {
+          "branch_name": "Shilin Branch",
+          "city": "Taipei",
+          "swift_code": "TAIETWT1SHI"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "TAIETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taiwan Development Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "TADETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taiwan Depository And Clearing Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "TDCCTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taiwan Cooperative Bank",
+      "branches": [
+        {
+          "branch_name": "Jhongshan Lu Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP002"
+        },
+        {
+          "branch_name": "Yanping Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP004"
+        },
+        {
+          "branch_name": "Sanchong Branch",
+          "city": "Sanchung",
+          "swift_code": "TACBTWTP010"
+        },
+        {
+          "branch_name": "Banciao Branch",
+          "city": "Banciao",
+          "swift_code": "TACBTWTP011"
+        },
+        {
+          "branch_name": "Tao-yuan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "TACBTWTP015"
+        },
+        {
+          "branch_name": "Hsinchu Branch",
+          "city": "Hsinchu",
+          "swift_code": "TACBTWTP017"
+        },
+        {
+          "branch_name": "Miaoli Branch",
+          "city": "Miao Li",
+          "swift_code": "TACBTWTP018"
+        },
+        {
+          "branch_name": "Fongyuan Branch",
+          "city": "Taichung",
+          "swift_code": "TACBTWTP020"
+        },
+        {
+          "branch_name": "Shalu Branch",
+          "city": "Taichung",
+          "swift_code": "TACBTWTP021"
+        },
+        {
+          "branch_name": "Taichung Branch",
+          "city": "Taichung",
+          "swift_code": "TACBTWTP022"
+        },
+        {
+          "branch_name": "Changhua Branch",
+          "city": "Changhua",
+          "swift_code": "TACBTWTP023"
+        },
+        {
+          "branch_name": "Yuanlin Branch",
+          "city": "Yuan-lin",
+          "swift_code": "TACBTWTP024"
+        },
+        {
+          "branch_name": "Nantou Branch",
+          "city": "Nantou",
+          "swift_code": "TACBTWTP025"
+        },
+        {
+          "branch_name": "Chiayi Branch",
+          "city": "Chia Yi",
+          "swift_code": "TACBTWTP028"
+        },
+        {
+          "branch_name": "Tainan Branch",
+          "city": "Tainan",
+          "swift_code": "TACBTWTP030"
+        },
+        {
+          "branch_name": "Chenggong Branch",
+          "city": "Tainan",
+          "swift_code": "TACBTWTP031"
+        },
+        {
+          "branch_name": "Fongshan Branch",
+          "city": "Kaohsiung",
+          "swift_code": "TACBTWTP032"
+        },
+        {
+          "branch_name": "Gangshan Branch",
+          "city": "Kaohsiung",
+          "swift_code": "TACBTWTP033"
+        },
+        {
+          "branch_name": "Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "TACBTWTP034"
+        },
+        {
+          "branch_name": "Siande Branch",
+          "city": "Kaohsiung",
+          "swift_code": "TACBTWTP035"
+        },
+        {
+          "branch_name": "Yuansin Branch",
+          "city": "Changhua",
+          "swift_code": "TACBTWTP560"
+        },
+        {
+          "branch_name": "Jhucian Branch",
+          "city": "Hsinchu",
+          "swift_code": "TACBTWTP563"
+        },
+        {
+          "branch_name": "Hsinchu Science-based Industrial Park Branch",
+          "city": "Hsinchu",
+          "swift_code": "TACBTWTP564"
+        },
+        {
+          "branch_name": "Yunlin Branch",
+          "city": "Yuan-lin",
+          "swift_code": "TACBTWTP566"
+        },
+        {
+          "branch_name": "Rende Branch",
+          "city": "Tainan",
+          "swift_code": "TACBTWTP570"
+        },
+        {
+          "branch_name": "Dong Chiayi Branch",
+          "city": "Chia Yi",
+          "swift_code": "TACBTWTP584"
+        },
+        {
+          "branch_name": "Wujhou Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTPAAA"
+        },
+        {
+          "branch_name": "Cianjhen Branch",
+          "city": "Kaohsiung",
+          "swift_code": "TACBTWTPAAB"
+        },
+        {
+          "branch_name": "Lujhu Branch",
+          "city": "Kaohsiung",
+          "swift_code": "TACBTWTPAAC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "TACBTWTPXXX"
+        },
+        {
+          "branch_name": "Kaohsiung Science-based Park Branch",
+          "city": "Kaohsiung",
+          "swift_code": "TACBTWTP318"
+        },
+        {
+          "branch_name": "Pingjhong Branch",
+          "city": "Pingtung",
+          "swift_code": "TACBTWTP579"
+        },
+        {
+          "branch_name": "Bei Shihlin Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP508"
+        },
+        {
+          "branch_name": "Sihu Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP510"
+        },
+        {
+          "branch_name": "Sinjhong Branch",
+          "city": "Taichung",
+          "swift_code": "TACBTWTP516"
+        },
+        {
+          "branch_name": "Jhonggang Branch",
+          "city": "Taichung",
+          "swift_code": "TACBTWTP517"
+        },
+        {
+          "branch_name": "Chihkan Branch",
+          "city": "Tainan",
+          "swift_code": "TACBTWTP521"
+        },
+        {
+          "branch_name": "Gangdu Branch",
+          "city": "Kaohsiung",
+          "swift_code": "TACBTWTP524"
+        },
+        {
+          "branch_name": "Cisian Branch",
+          "city": "Kaohsiung",
+          "swift_code": "TACBTWTP525"
+        },
+        {
+          "branch_name": "Shihcyuan Branch",
+          "city": "Kaohsiung",
+          "swift_code": "TACBTWTP527"
+        },
+        {
+          "branch_name": "Bansin Branch",
+          "city": "Banciao",
+          "swift_code": "TACBTWTP531"
+        },
+        {
+          "branch_name": "Nan Sanchong Branch",
+          "city": "Sanchung",
+          "swift_code": "TACBTWTP532"
+        },
+        {
+          "branch_name": "Jhanghe Branch",
+          "city": "Jhonghe",
+          "swift_code": "TACBTWTP534"
+        },
+        {
+          "branch_name": "Baociao Branch",
+          "city": "Sindian",
+          "swift_code": "TACBTWTP535"
+        },
+        {
+          "branch_name": "Sintai Branch",
+          "city": "Sinjhuang",
+          "swift_code": "TACBTWTP536"
+        },
+        {
+          "branch_name": "Nan Sijhih Branch",
+          "city": "Sijhih",
+          "swift_code": "TACBTWTP538"
+        },
+        {
+          "branch_name": "Bei Luodong Branch",
+          "city": "Yilan",
+          "swift_code": "TACBTWTP541"
+        },
+        {
+          "branch_name": "Dong Taoyuan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "TACBTWTP543"
+        },
+        {
+          "branch_name": "Lisin Branch",
+          "city": "Jhongli",
+          "swift_code": "TACBTWTP544"
+        },
+        {
+          "branch_name": "Nankan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "TACBTWTP545"
+        },
+        {
+          "branch_name": "Dong Jhubei Branch",
+          "city": "Hsinchu",
+          "swift_code": "TACBTWTP551"
+        },
+        {
+          "branch_name": "Fongjhong Branch",
+          "city": "Fongyuan",
+          "swift_code": "TACBTWTP554"
+        },
+        {
+          "branch_name": "Dong Sinjhuang Branch",
+          "city": "Sinjhuang",
+          "swift_code": "TACBTWTP098"
+        },
+        {
+          "branch_name": "Dali Branch",
+          "city": "Dali",
+          "swift_code": "TACBTWTP102"
+        },
+        {
+          "branch_name": "Offshore Banking Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP106"
+        },
+        {
+          "branch_name": "40255 Taichung",
+          "city": "Taichung",
+          "swift_code": "TACBTWTP107"
+        },
+        {
+          "branch_name": "Ping Nan Branch",
+          "city": "Pingtung",
+          "swift_code": "TACBTWTP122"
+        },
+        {
+          "branch_name": "Bei Hsinchu Branch",
+          "city": "Hsinchu",
+          "swift_code": "TACBTWTP124"
+        },
+        {
+          "branch_name": "Wannei Branch",
+          "city": "Kaohsiung",
+          "swift_code": "TACBTWTP128"
+        },
+        {
+          "branch_name": "Jhubei Branch",
+          "city": "Hsinchu",
+          "swift_code": "TACBTWTP131"
+        },
+        {
+          "branch_name": "Shuanghe Branch",
+          "city": "Jhonghe",
+          "swift_code": "TACBTWTP144"
+        },
+        {
+          "branch_name": "Tucheng Branch",
+          "city": "Tu Cheng",
+          "swift_code": "TACBTWTP145"
+        },
+        {
+          "branch_name": "Yongkang Branch",
+          "city": "Tainan",
+          "swift_code": "TACBTWTP153"
+        },
+        {
+          "branch_name": "Neihu Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP156"
+        },
+        {
+          "branch_name": "Erchong Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP158"
+        },
+        {
+          "branch_name": "Kaohsiung Software Park Branch",
+          "city": "Kaohsiung",
+          "swift_code": "TACBTWTP352"
+        },
+        {
+          "branch_name": "Zihciang Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP501"
+        },
+        {
+          "branch_name": "Jhongshan Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP502"
+        },
+        {
+          "branch_name": "Dunnan Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP503"
+        },
+        {
+          "branch_name": "Jhonglun Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP504"
+        },
+        {
+          "branch_name": "World Trade Center Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP505"
+        },
+        {
+          "branch_name": "Yanji Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP506"
+        },
+        {
+          "branch_name": "Nanjing Donglu Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP041"
+        },
+        {
+          "branch_name": "Datong Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP043"
+        },
+        {
+          "branch_name": "Jhongsiao Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP045"
+        },
+        {
+          "branch_name": "Sinjhuang Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP049"
+        },
+        {
+          "branch_name": "Jhongsing Branch",
+          "city": "Taichung",
+          "swift_code": "TACBTWTP050"
+        },
+        {
+          "branch_name": "Taipei Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP054"
+        },
+        {
+          "branch_name": "Business Department",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP056"
+        },
+        {
+          "branch_name": "Sanmin Branch",
+          "city": "Kaohsiung",
+          "swift_code": "TACBTWTP059"
+        },
+        {
+          "branch_name": "Chengdong Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP060"
+        },
+        {
+          "branch_name": "Jhonghe Branch",
+          "city": "Jhonghe",
+          "swift_code": "TACBTWTP062"
+        },
+        {
+          "branch_name": "Dong Sanchong",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP067"
+        },
+        {
+          "branch_name": "Wucyuan Branch",
+          "city": "Taichung",
+          "swift_code": "TACBTWTP069"
+        },
+        {
+          "branch_name": "Da-an Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP076"
+        },
+        {
+          "branch_name": "Mincyuan Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP077"
+        },
+        {
+          "branch_name": "Sinyi Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP083"
+        },
+        {
+          "branch_name": "Chang An Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP088"
+        },
+        {
+          "branch_name": "Minzu Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP090"
+        },
+        {
+          "branch_name": "Fusing Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP091"
+        },
+        {
+          "branch_name": "Minsheng Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP093"
+        },
+        {
+          "branch_name": "Song-jiang Branch",
+          "city": "Taipei",
+          "swift_code": "TACBTWTP095"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taiwan International Mercantile Exchange Corp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "XIMETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taishin International Bank",
+      "branches": [
+        {
+          "branch_name": "Dunnan Branch",
+          "city": "Taipei",
+          "swift_code": "TSIBTWTP002"
+        },
+        {
+          "branch_name": "Chen Tong Branch",
+          "city": "Taipei",
+          "swift_code": "TSIBTWTP003"
+        },
+        {
+          "branch_name": "Taichung Branch",
+          "city": "Taichung",
+          "swift_code": "TSIBTWTP007"
+        },
+        {
+          "branch_name": "Tainan Branch",
+          "city": "Tainan",
+          "swift_code": "TSIBTWTP010"
+        },
+        {
+          "branch_name": "Nanking E Road Branch",
+          "city": "Taipei",
+          "swift_code": "TSIBTWTP011"
+        },
+        {
+          "branch_name": "Linya Branch",
+          "city": "Kaohsiung",
+          "swift_code": "TSIBTWTP015"
+        },
+        {
+          "branch_name": "Obu Branch",
+          "city": "Taipei",
+          "swift_code": "TSIBTWTP019"
+        },
+        {
+          "branch_name": "Nantun Branch",
+          "city": "Taichung",
+          "swift_code": "TSIBTWTP054"
+        },
+        {
+          "branch_name": "Keelung Rd Branch",
+          "city": "Taipei",
+          "swift_code": "TSIBTWTP073"
+        },
+        {
+          "branch_name": "Guandongciao Branch",
+          "city": "Hsinchu",
+          "swift_code": "TSIBTWTP100"
+        },
+        {
+          "branch_name": "Shifu Branch",
+          "city": "Taichung",
+          "swift_code": "TSIBTWTP105"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "TSIBTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taipei Fubon Commercial Bank Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Business Department",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP200"
+        },
+        {
+          "branch_name": "Chengtung Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP220"
+        },
+        {
+          "branch_name": "Trust Department",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP250"
+        },
+        {
+          "branch_name": "Shihlin Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP300"
+        },
+        {
+          "branch_name": "Chunghsiao Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP305"
+        },
+        {
+          "branch_name": "Lungchiang Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP307"
+        },
+        {
+          "branch_name": "Yenping Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP310"
+        },
+        {
+          "branch_name": "Pate Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP340"
+        },
+        {
+          "branch_name": "Chungshan Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP350"
+        },
+        {
+          "branch_name": "Peitou Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP360"
+        },
+        {
+          "branch_name": "Taan Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP370"
+        },
+        {
+          "branch_name": "Tatung Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP380"
+        },
+        {
+          "branch_name": "Chiencheng Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP410"
+        },
+        {
+          "branch_name": "Nankang Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP420"
+        },
+        {
+          "branch_name": "Chingmei Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP430"
+        },
+        {
+          "branch_name": "Neihu Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP440"
+        },
+        {
+          "branch_name": "Tunhua Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP450"
+        },
+        {
+          "branch_name": "Minsheng Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP454"
+        },
+        {
+          "branch_name": "Hsinyi Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP460"
+        },
+        {
+          "branch_name": "Taipei World Trade Center Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP462"
+        },
+        {
+          "branch_name": "Jenai Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP704"
+        },
+        {
+          "branch_name": "Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "TPBKTWTP705"
+        },
+        {
+          "branch_name": "Tainan Branch",
+          "city": "Tainan",
+          "swift_code": "TPBKTWTP711"
+        },
+        {
+          "branch_name": "Anho Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP715"
+        },
+        {
+          "branch_name": "Panchiao Branch",
+          "city": "Panchiao",
+          "swift_code": "TPBKTWTP721"
+        },
+        {
+          "branch_name": "Hsinchu Branch",
+          "city": "Hsinchu",
+          "swift_code": "TPBKTWTP725"
+        },
+        {
+          "branch_name": "Financial Markets Group",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTPFMG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTPXXX"
+        },
+        {
+          "branch_name": "Sungchiang Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP470"
+        },
+        {
+          "branch_name": "Hoping Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP480"
+        },
+        {
+          "branch_name": "Chengchung Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP500"
+        },
+        {
+          "branch_name": "Nanmen Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP510"
+        },
+        {
+          "branch_name": "Fuhsing Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP520"
+        },
+        {
+          "branch_name": "Hsisung Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP530"
+        },
+        {
+          "branch_name": "Changan Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP540"
+        },
+        {
+          "branch_name": "Offshore Banking Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP560"
+        },
+        {
+          "branch_name": "Tunho Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP570"
+        },
+        {
+          "branch_name": "Tungmen Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP580"
+        },
+        {
+          "branch_name": "Chunglun Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP590"
+        },
+        {
+          "branch_name": "Keelung Road Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP600"
+        },
+        {
+          "branch_name": "Chinhua Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP610"
+        },
+        {
+          "branch_name": "Sungnan Branch",
+          "city": "Taipei",
+          "swift_code": "TPBKTWTP620"
+        },
+        {
+          "branch_name": "Kangtu Branch",
+          "city": "Kaohsiung",
+          "swift_code": "TPBKTWTP660"
+        },
+        {
+          "branch_name": "Chungkang Branch",
+          "city": "Taichung",
+          "swift_code": "TPBKTWTP671"
+        },
+        {
+          "branch_name": "Hsinchuang Branch",
+          "city": "Hsinchuang",
+          "swift_code": "TPBKTWTP672"
+        },
+        {
+          "branch_name": "Taoyuan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "TPBKTWTP673"
+        },
+        {
+          "branch_name": "Anping Branch",
+          "city": "Tainan",
+          "swift_code": "TPBKTWTP674"
+        },
+        {
+          "branch_name": "Houpu Branch",
+          "city": "Panchiao",
+          "swift_code": "TPBKTWTP677"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tainan Securities Co Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tainan",
+          "swift_code": "TANETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taichung Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Shalu Branch",
+          "city": "Taichung",
+          "swift_code": "TCBBTWTH044"
+        },
+        {
+          "branch_name": "East Fengyuan Branch",
+          "city": "Fengyuan",
+          "swift_code": "TCBBTWTH047"
+        },
+        {
+          "branch_name": "Tsaotun Branch",
+          "city": "Tsaotun",
+          "swift_code": "TCBBTWTH055"
+        },
+        {
+          "branch_name": "Yuanlin Branch",
+          "city": "Changhua",
+          "swift_code": "TCBBTWTH067"
+        },
+        {
+          "branch_name": "Homei Branch",
+          "city": "Homei",
+          "swift_code": "TCBBTWTH068"
+        },
+        {
+          "branch_name": "Taipei Branch",
+          "city": "Taipei",
+          "swift_code": "TCBBTWTH092"
+        },
+        {
+          "branch_name": "Sung Shan Branch",
+          "city": "Taipei",
+          "swift_code": "TCBBTWTH101"
+        },
+        {
+          "branch_name": "Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "TCBBTWTH103"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taichung",
+          "swift_code": "TCBBTWTHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tai Chin Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tao-yuan",
+          "swift_code": "TACCTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tai An Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taichung",
+          "swift_code": "TIISTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tah Shin Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "TASSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tachan Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CHAETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ta-tung Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tainan",
+          "swift_code": "TUNCTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ta Sheng Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taichung",
+          "swift_code": "SHEETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ta Fu Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tainan",
+          "swift_code": "TAFUTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ta Chung Ho Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CHUCTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ta Chong Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Kaohsiung",
+          "city": "Kaohsiung",
+          "swift_code": "OURBTWTP001"
+        },
+        {
+          "branch_name": "Taipei",
+          "city": "Taipei",
+          "swift_code": "OURBTWTP008"
+        },
+        {
+          "branch_name": "Offshore Banking Branch",
+          "city": "Taipei",
+          "swift_code": "OURBTWTP019"
+        },
+        {
+          "branch_name": "Treasury Department",
+          "city": "Taipei",
+          "swift_code": "OURBTWTP917"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "OURBTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ta Ching Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CHICTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ta Chiang Securities Corp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CHIETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "T.w. Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "TWSETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sunrise Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Taipei",
+          "city": "Taipei",
+          "swift_code": "SUNTTWT10TP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tainan",
+          "swift_code": "SUNTTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sunpont Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SUNRTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sunny Bank",
+      "branches": [
+        {
+          "branch_name": "Business Department",
+          "city": "Taipei",
+          "swift_code": "SUNYTWTP001"
+        },
+        {
+          "branch_name": "Shih Pai Branch",
+          "city": "Taipei",
+          "swift_code": "SUNYTWTP002"
+        },
+        {
+          "branch_name": "She Tzu Branch",
+          "city": "Taipei",
+          "swift_code": "SUNYTWTP008"
+        },
+        {
+          "branch_name": "Chen Kung Branch",
+          "city": "Taipei",
+          "swift_code": "SUNYTWTP013"
+        },
+        {
+          "branch_name": "Mucha Branch",
+          "city": "Taipei",
+          "swift_code": "SUNYTWTP017"
+        },
+        {
+          "branch_name": "Chungshing Branch",
+          "city": "Taipei",
+          "swift_code": "SUNYTWTP021"
+        },
+        {
+          "branch_name": "Chungho Branch",
+          "city": "Taipei",
+          "swift_code": "SUNYTWTP023"
+        },
+        {
+          "branch_name": "Yung Ho Branch",
+          "city": "Yung Ho",
+          "swift_code": "SUNYTWTP025"
+        },
+        {
+          "branch_name": "Panchiao Branch",
+          "city": "Panchiao",
+          "swift_code": "SUNYTWTP027"
+        },
+        {
+          "branch_name": "Taoyuan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "SUNYTWTP038"
+        },
+        {
+          "branch_name": "Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "SUNYTWTP061"
+        },
+        {
+          "branch_name": "Jong-hwa Branch",
+          "city": "Tainan",
+          "swift_code": "SUNYTWTP062"
+        },
+        {
+          "branch_name": "Taichung Branch",
+          "city": "Taichung",
+          "swift_code": "SUNYTWTP076"
+        },
+        {
+          "branch_name": "Nei Hu Branch",
+          "city": "Taipei",
+          "swift_code": "SUNYTWTP078"
+        },
+        {
+          "branch_name": "Linsen Branch",
+          "city": "Hsinchu",
+          "swift_code": "SUNYTWTP081"
+        },
+        {
+          "branch_name": "Hsin Hsing Branch",
+          "city": "Kaohsiung",
+          "swift_code": "SUNYTWTP082"
+        },
+        {
+          "branch_name": "Sih Wei Branch",
+          "city": "Kaohsiung",
+          "swift_code": "SUNYTWTP086"
+        },
+        {
+          "branch_name": "Liwen Branch",
+          "city": "Kaohsiung",
+          "swift_code": "SUNYTWTP095"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SUNYTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sun-fund Securities Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SFSETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sun Young Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tainan",
+          "swift_code": "SUYSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sumitomo Mitsui Banking Corporation Taipei Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SMBCTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sun Do Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tainan",
+          "swift_code": "SUNCTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank, Taipei Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SCBLTWTXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank (taiwan) Limited",
+      "branches": [
+        {
+          "branch_name": "Opics-fmo Fx/mm",
+          "city": "Taipei",
+          "swift_code": "SCBLTWT1FMO"
+        },
+        {
+          "branch_name": "Custodial Service Department",
+          "city": "Taipei",
+          "swift_code": "SCBLTWTPCUS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SCBLTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale, Taipei Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SOGETWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sinopac Securities Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "NATETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Top Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaohsiung",
+          "swift_code": "TOPSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Top Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaohsiung",
+          "swift_code": "TOPPTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tong Tay Sec. Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaohsiung",
+          "swift_code": "TONTTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tong Shing Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaohsiung",
+          "swift_code": "TONSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ting Tai Sec. Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pingtung",
+          "swift_code": "TINTTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ting Shing Sec. Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pingtung",
+          "swift_code": "TINHTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ting Kong International Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "TKISTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ting Kong Integrated Sec Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "TKIETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ting Fa Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taichung",
+          "swift_code": "TINETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Toronto-dominion Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "TDOMTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Sun Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SUNSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Standard Bank Of South Africa Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SBZATWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Hongkong And Shanghai Banking Corporation Ltd.",
+      "branches": [
+        {
+          "branch_name": "Obu Branch",
+          "city": "Taipei",
+          "swift_code": "HSBCTW2POBU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "HSBCTW2PXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Bank Of New York Mellon, Taipei Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "IRVTTWTXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Bank Of East Asia Limited, Taipei Branch",
+      "branches": [
+        {
+          "branch_name": "Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BEASTWTPKAO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "BEASTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ten Yo Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "TENSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ten Lie Securities Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaohsiung",
+          "swift_code": "TELSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ten Jen Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "TEJSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tayuan Securities Co Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "TAYUTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sing Hau Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yunlin",
+          "swift_code": "SIHSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shinhong Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SHNSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shin Ying Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tainan",
+          "swift_code": "SHYSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shin Lung Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Keelung",
+          "swift_code": "SHLITWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shin Fong Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SHFUTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shin Fan Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chia Yi",
+          "swift_code": "SHFCTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shih Ling Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yunlin",
+          "swift_code": "SHLRTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sheng Hoh Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SHHCTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sheng Fa Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chunghua",
+          "swift_code": "SHESTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shei Ching Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Miao Li",
+          "swift_code": "SHCSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Share Long Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SHLUTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shanghai Commercial And Savings Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Savings Department Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP003"
+        },
+        {
+          "branch_name": "Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "SCSBTWTP004"
+        },
+        {
+          "branch_name": "Cheng Chung Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP006"
+        },
+        {
+          "branch_name": "Taichung Branch",
+          "city": "Taichung",
+          "swift_code": "SCSBTWTP008"
+        },
+        {
+          "branch_name": "East Taipei Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP009"
+        },
+        {
+          "branch_name": "Tainan Branch",
+          "city": "Tainan",
+          "swift_code": "SCSBTWTP010"
+        },
+        {
+          "branch_name": "Tao-yuan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "SCSBTWTP011"
+        },
+        {
+          "branch_name": "North Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "SCSBTWTP012"
+        },
+        {
+          "branch_name": "San Chung Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP013"
+        },
+        {
+          "branch_name": "Pan Chiao Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP014"
+        },
+        {
+          "branch_name": "Yung Ho Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP015"
+        },
+        {
+          "branch_name": "Yuan Lin Branch",
+          "city": "Changhua",
+          "swift_code": "SCSBTWTP016"
+        },
+        {
+          "branch_name": "Hsin Yi Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP018"
+        },
+        {
+          "branch_name": "Min Sheng Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP019"
+        },
+        {
+          "branch_name": "Chung Hsiao Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP020"
+        },
+        {
+          "branch_name": "Lung Shang Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP021"
+        },
+        {
+          "branch_name": "Nei Hu Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP022"
+        },
+        {
+          "branch_name": "Chung Shan Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP023"
+        },
+        {
+          "branch_name": "Jen Ai Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP024"
+        },
+        {
+          "branch_name": "Hsin Chuang Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP025"
+        },
+        {
+          "branch_name": "East Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "SCSBTWTP069"
+        },
+        {
+          "branch_name": "Chu Pei Branch",
+          "city": "Hsinchu",
+          "swift_code": "SCSBTWTP070"
+        },
+        {
+          "branch_name": "Sung Chiang Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP071"
+        },
+        {
+          "branch_name": "Zhong Ke Branch",
+          "city": "Taichung",
+          "swift_code": "SCSBTWTP072"
+        },
+        {
+          "branch_name": "Guan Yin Branch",
+          "city": "Tao-yuan",
+          "swift_code": "SCSBTWTP073"
+        },
+        {
+          "branch_name": "North Taoyuan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "SCSBTWTP074"
+        },
+        {
+          "branch_name": "Dan Feng Branch",
+          "city": "Hsinchuang",
+          "swift_code": "SCSBTWTP075"
+        },
+        {
+          "branch_name": "North Xinzhuang Branch",
+          "city": "New Taipei City",
+          "swift_code": "SCSBTWTP076"
+        },
+        {
+          "branch_name": "Nantun Branch",
+          "city": "Taichung",
+          "swift_code": "SCSBTWTP077"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTPXXX"
+        },
+        {
+          "branch_name": "Pingtung Branch",
+          "city": "Pingtung",
+          "swift_code": "SCSBTWTP046"
+        },
+        {
+          "branch_name": "San Ming Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP047"
+        },
+        {
+          "branch_name": "Hua Chiang Branch",
+          "city": "Panchiao",
+          "swift_code": "SCSBTWTP048"
+        },
+        {
+          "branch_name": "Feng Yuan Branch",
+          "city": "Taichung",
+          "swift_code": "SCSBTWTP049"
+        },
+        {
+          "branch_name": "Feng Shan Branch",
+          "city": "Kaohsiung",
+          "swift_code": "SCSBTWTP050"
+        },
+        {
+          "branch_name": "Tien Mou Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP051"
+        },
+        {
+          "branch_name": "Shu Lin Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP052"
+        },
+        {
+          "branch_name": "Keelung Branch",
+          "city": "Keelung",
+          "swift_code": "SCSBTWTP053"
+        },
+        {
+          "branch_name": "Yang Mei Branch",
+          "city": "Tao-yuan",
+          "swift_code": "SCSBTWTP054"
+        },
+        {
+          "branch_name": "Nei Hu Technology Park Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP055"
+        },
+        {
+          "branch_name": "North Chung Ho Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP056"
+        },
+        {
+          "branch_name": "Hsi Hu Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP057"
+        },
+        {
+          "branch_name": "Erh Chung Branch",
+          "city": "Sanchung",
+          "swift_code": "SCSBTWTP059"
+        },
+        {
+          "branch_name": "Yen Ping Branch",
+          "city": "Chung Li",
+          "swift_code": "SCSBTWTP060"
+        },
+        {
+          "branch_name": "Nan Kan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "SCSBTWTP061"
+        },
+        {
+          "branch_name": "Nangang Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP062"
+        },
+        {
+          "branch_name": "North Hsinchu Branch",
+          "city": "Hsinchu",
+          "swift_code": "SCSBTWTP063"
+        },
+        {
+          "branch_name": "Yilan Branch",
+          "city": "Yilan",
+          "swift_code": "SCSBTWTP065"
+        },
+        {
+          "branch_name": "Wen Shan Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP066"
+        },
+        {
+          "branch_name": "Dun Pei Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP068"
+        },
+        {
+          "branch_name": "Chung Li Branch",
+          "city": "Tao-yuan",
+          "swift_code": "SCSBTWTP026"
+        },
+        {
+          "branch_name": "Offshore Banking Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP027"
+        },
+        {
+          "branch_name": "Sung Shan Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP028"
+        },
+        {
+          "branch_name": "Hsin Tien Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP029"
+        },
+        {
+          "branch_name": "Chien Chin Branch",
+          "city": "Kaohsiung",
+          "swift_code": "SCSBTWTP030"
+        },
+        {
+          "branch_name": "Sung Nan Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP031"
+        },
+        {
+          "branch_name": "Lu Chou Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP032"
+        },
+        {
+          "branch_name": "Chungho Branch",
+          "city": "Chungho",
+          "swift_code": "SCSBTWTP033"
+        },
+        {
+          "branch_name": "Hsinchu Branch",
+          "city": "Hsinchu",
+          "swift_code": "SCSBTWTP034"
+        },
+        {
+          "branch_name": "Chung Kang Branch",
+          "city": "Taichung",
+          "swift_code": "SCSBTWTP035"
+        },
+        {
+          "branch_name": "Shih Lin Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP036"
+        },
+        {
+          "branch_name": "East Tainan Branch",
+          "city": "Tainan",
+          "swift_code": "SCSBTWTP037"
+        },
+        {
+          "branch_name": "Yung Kang City Branch",
+          "city": "Tainan",
+          "swift_code": "SCSBTWTP038"
+        },
+        {
+          "branch_name": "North Sanchung Branch",
+          "city": "Sanchung",
+          "swift_code": "SCSBTWTP039"
+        },
+        {
+          "branch_name": "Nanking East Rd Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP040"
+        },
+        {
+          "branch_name": "Tali Branch",
+          "city": "Taichung",
+          "swift_code": "SCSBTWTP041"
+        },
+        {
+          "branch_name": "Tu Cheng Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP042"
+        },
+        {
+          "branch_name": "World Trade Center Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP043"
+        },
+        {
+          "branch_name": "Cheng Teh Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP044"
+        },
+        {
+          "branch_name": "Hsi Chih Branch",
+          "city": "Taipei",
+          "swift_code": "SCSBTWTP045"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sg Securities (hk) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SGSLTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Schroder Securities (taiwan) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SCSLTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sanho Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SANITWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sanchung Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SANRTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronics Taiwan Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Set",
+          "city": "Taipei",
+          "swift_code": "SECTTWT16A0"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SECTTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sakura Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taichung",
+          "swift_code": "SAKCTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Riches Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panchiao",
+          "swift_code": "RICSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jih Feng Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Changhua",
+          "swift_code": "JIFSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jey Fong Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaohsiung",
+          "swift_code": "JEFSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jeou Diing Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taichung",
+          "swift_code": "JEDSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jeng Jyi Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tainan",
+          "swift_code": "JEJSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jee Mach Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chen / Nantou",
+          "swift_code": "JEMSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "James Capel Asia Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "JCALTWT1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "JCALTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.p. Morgan Securities (taiwan) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "JPMSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.p. Morgan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "JMSATWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Imperial Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chiayi",
+          "swift_code": "IMPSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ibt Securities Co., Ltd Xinyi Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "ISXBTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ibt Securities Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "IBSCTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ibm",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "IBMTTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "I-feng Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hsinchu",
+          "swift_code": "FENETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hwatai Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "HTBKTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hwa-tai Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "HWTSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hung Fu Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "HUNSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hualian Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hualian",
+          "swift_code": "HUASTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hua Nan Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "ESSTTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hua Nan Commercial Bank, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Trust Department",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP069"
+        },
+        {
+          "branch_name": "Offshore Banking Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP070"
+        },
+        {
+          "branch_name": "Chuxu Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP101"
+        },
+        {
+          "branch_name": "Chen Nei Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP103"
+        },
+        {
+          "branch_name": "Tataochen Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP104"
+        },
+        {
+          "branch_name": "Chienchen Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP105"
+        },
+        {
+          "branch_name": "Chungshan Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP106"
+        },
+        {
+          "branch_name": "Yuanshan Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP107"
+        },
+        {
+          "branch_name": "Cheng Tung Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP108"
+        },
+        {
+          "branch_name": "Hsimen Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP109"
+        },
+        {
+          "branch_name": "Nan Sungshan Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP110"
+        },
+        {
+          "branch_name": "Jen Ai Road Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP111"
+        },
+        {
+          "branch_name": "Nanking East Road Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP112"
+        },
+        {
+          "branch_name": "Hsinsheng Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP113"
+        },
+        {
+          "branch_name": "Tatung Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP114"
+        },
+        {
+          "branch_name": "Sungshan Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP115"
+        },
+        {
+          "branch_name": "Chung Lun Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP116"
+        },
+        {
+          "branch_name": "Nanmen Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP117"
+        },
+        {
+          "branch_name": "Gongguan Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP118"
+        },
+        {
+          "branch_name": "Sin Yi Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP119"
+        },
+        {
+          "branch_name": "Tung Ling Branch",
+          "city": "Kaohsiung City",
+          "swift_code": "HNBKTWTP701"
+        },
+        {
+          "branch_name": "Hsinshing Branch",
+          "city": "Kaohsiung",
+          "swift_code": "HNBKTWTP702"
+        },
+        {
+          "branch_name": "Kaohsiung Sanmin Branch",
+          "city": "Kaohsiung",
+          "swift_code": "HNBKTWTP703"
+        },
+        {
+          "branch_name": "Lingya Branch",
+          "city": "Kaohsiung",
+          "swift_code": "HNBKTWTP704"
+        },
+        {
+          "branch_name": "Qianzhen Branch",
+          "city": "Kaohsiung",
+          "swift_code": "HNBKTWTP705"
+        },
+        {
+          "branch_name": "Kaohsiung Po-ai Branch",
+          "city": "Kaohsiung",
+          "swift_code": "HNBKTWTP706"
+        },
+        {
+          "branch_name": "Nan-kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "HNBKTWTP707"
+        },
+        {
+          "branch_name": "Tung-kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "HNBKTWTP708"
+        },
+        {
+          "branch_name": "Da Chang Branch",
+          "city": "Kaohsiung",
+          "swift_code": "HNBKTWTP709"
+        },
+        {
+          "branch_name": "Pei-kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "HNBKTWTP710"
+        },
+        {
+          "branch_name": "Nanzi Branch",
+          "city": "Kaohsiung",
+          "swift_code": "HNBKTWTP711"
+        },
+        {
+          "branch_name": "Zuoying Branch",
+          "city": "Kaohsiung",
+          "swift_code": "HNBKTWTP712"
+        },
+        {
+          "branch_name": "Gangshan Branch",
+          "city": "Kaohsiung City",
+          "swift_code": "HNBKTWTP719"
+        },
+        {
+          "branch_name": "Fengshan Branch",
+          "city": "Kaohsiung",
+          "swift_code": "HNBKTWTP720"
+        },
+        {
+          "branch_name": "Luchu Branch",
+          "city": "Kaohsiung",
+          "swift_code": "HNBKTWTP721"
+        },
+        {
+          "branch_name": "Renwu Branch",
+          "city": "Kaohsiung",
+          "swift_code": "HNBKTWTP722"
+        },
+        {
+          "branch_name": "Li Tsu Nei Branch",
+          "city": "Kaohsiung",
+          "swift_code": "HNBKTWTP751"
+        },
+        {
+          "branch_name": "Wu Chia Branch",
+          "city": "Kaohsiung",
+          "swift_code": "HNBKTWTP752"
+        },
+        {
+          "branch_name": "Guanghua Branch",
+          "city": "Kaohsiung",
+          "swift_code": "HNBKTWTP753"
+        },
+        {
+          "branch_name": "Xiaogang Branch",
+          "city": "Kaohsiung",
+          "swift_code": "HNBKTWTP760"
+        },
+        {
+          "branch_name": "Douliu Branch",
+          "city": "Douliu City",
+          "swift_code": "HNBKTWTP540"
+        },
+        {
+          "branch_name": "Huwei Branch",
+          "city": "Yunlin",
+          "swift_code": "HNBKTWTP541"
+        },
+        {
+          "branch_name": "Xiluo Branch",
+          "city": "Yunlin",
+          "swift_code": "HNBKTWTP542"
+        },
+        {
+          "branch_name": "Beigang Branch",
+          "city": "Yunlin",
+          "swift_code": "HNBKTWTP543"
+        },
+        {
+          "branch_name": "Chiayi Branch",
+          "city": "Chia Yi",
+          "swift_code": "HNBKTWTP600"
+        },
+        {
+          "branch_name": "Chia Nan Branch",
+          "city": "Chai",
+          "swift_code": "HNBKTWTP601"
+        },
+        {
+          "branch_name": "Puzi Branch",
+          "city": "Chai",
+          "swift_code": "HNBKTWTP602"
+        },
+        {
+          "branch_name": "Xinying Branch",
+          "city": "Tainan",
+          "swift_code": "HNBKTWTP620"
+        },
+        {
+          "branch_name": "Madou Branch",
+          "city": "Tainan",
+          "swift_code": "HNBKTWTP621"
+        },
+        {
+          "branch_name": "Yung Kang Branch",
+          "city": "Tainan",
+          "swift_code": "HNBKTWTP622"
+        },
+        {
+          "branch_name": "Tainan Branch",
+          "city": "Tainan",
+          "swift_code": "HNBKTWTP640"
+        },
+        {
+          "branch_name": "Tung-tainan Branch",
+          "city": "Tainan City",
+          "swift_code": "HNBKTWTP642"
+        },
+        {
+          "branch_name": "Shi-tainan Branch",
+          "city": "Tainan",
+          "swift_code": "HNBKTWTP643"
+        },
+        {
+          "branch_name": "Pei-tainan Branch",
+          "city": "Tainan",
+          "swift_code": "HNBKTWTP644"
+        },
+        {
+          "branch_name": "Nandu Branch",
+          "city": "Tainan",
+          "swift_code": "HNBKTWTP645"
+        },
+        {
+          "branch_name": "Annan Branch",
+          "city": "Tainan",
+          "swift_code": "HNBKTWTP646"
+        },
+        {
+          "branch_name": "Jen Der Branch",
+          "city": "Tainan",
+          "swift_code": "HNBKTWTP647"
+        },
+        {
+          "branch_name": "Sin Shih Branch",
+          "city": "Tainan",
+          "swift_code": "HNBKTWTP648"
+        },
+        {
+          "branch_name": "Jinhua Branch",
+          "city": "Tainan",
+          "swift_code": "HNBKTWTP681"
+        },
+        {
+          "branch_name": "Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "HNBKTWTP700"
+        },
+        {
+          "branch_name": "Chingshui Branch",
+          "city": "Taichung",
+          "swift_code": "HNBKTWTP402"
+        },
+        {
+          "branch_name": "Shi-fengyuan Branch",
+          "city": "Taichung",
+          "swift_code": "HNBKTWTP403"
+        },
+        {
+          "branch_name": "Taichung Branch",
+          "city": "Taichung",
+          "swift_code": "HNBKTWTP420"
+        },
+        {
+          "branch_name": "Nan-taichung Branch",
+          "city": "Taichung",
+          "swift_code": "HNBKTWTP422"
+        },
+        {
+          "branch_name": "Pei-taichung Branch",
+          "city": "Taichung",
+          "swift_code": "HNBKTWTP423"
+        },
+        {
+          "branch_name": "Taichungkang Road Branch",
+          "city": "Taichung",
+          "swift_code": "HNBKTWTP424"
+        },
+        {
+          "branch_name": "Dali Branch",
+          "city": "Taichung",
+          "swift_code": "HNBKTWTP425"
+        },
+        {
+          "branch_name": "Shui Nan Branch",
+          "city": "Taichung",
+          "swift_code": "HNBKTWTP426"
+        },
+        {
+          "branch_name": "Wu Chyuan Branch",
+          "city": "Taichung",
+          "swift_code": "HNBKTWTP427"
+        },
+        {
+          "branch_name": "Ta Chia Branch",
+          "city": "Taichung",
+          "swift_code": "HNBKTWTP429"
+        },
+        {
+          "branch_name": "Taiping Branch",
+          "city": "Taichung",
+          "swift_code": "HNBKTWTP430"
+        },
+        {
+          "branch_name": "Zhongke Branch",
+          "city": "Taichung",
+          "swift_code": "HNBKTWTP431"
+        },
+        {
+          "branch_name": "Shalu Branch",
+          "city": "Taichung",
+          "swift_code": "HNBKTWTP451"
+        },
+        {
+          "branch_name": "Caotun Branch",
+          "city": "Nantou",
+          "swift_code": "HNBKTWTP500"
+        },
+        {
+          "branch_name": "Nantou Branch",
+          "city": "Nantou",
+          "swift_code": "HNBKTWTP501"
+        },
+        {
+          "branch_name": "Changhua Branch",
+          "city": "Changhua",
+          "swift_code": "HNBKTWTP520"
+        },
+        {
+          "branch_name": "Hemei Branch",
+          "city": "Chunghua",
+          "swift_code": "HNBKTWTP521"
+        },
+        {
+          "branch_name": "Yuanlin Branch",
+          "city": "Changhua",
+          "swift_code": "HNBKTWTP522"
+        },
+        {
+          "branch_name": "Lugang Branch",
+          "city": "Changhua",
+          "swift_code": "HNBKTWTP523"
+        },
+        {
+          "branch_name": "Xihu Branch",
+          "city": "Changhua",
+          "swift_code": "HNBKTWTP524"
+        },
+        {
+          "branch_name": "Pa Teh Branch",
+          "city": "Bade City",
+          "swift_code": "HNBKTWTP247"
+        },
+        {
+          "branch_name": "Gueishan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "HNBKTWTP248"
+        },
+        {
+          "branch_name": "Longtan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "HNBKTWTP249"
+        },
+        {
+          "branch_name": "Daxi Branch",
+          "city": "Tao-yuan",
+          "swift_code": "HNBKTWTP250"
+        },
+        {
+          "branch_name": "Nei Li Branch",
+          "city": "Tao-yuan",
+          "swift_code": "HNBKTWTP251"
+        },
+        {
+          "branch_name": "Lin Kou Branch",
+          "city": "Tao-yuan",
+          "swift_code": "HNBKTWTP252"
+        },
+        {
+          "branch_name": "Guanyin Branch",
+          "city": "Tao-yuan",
+          "swift_code": "HNBKTWTP260"
+        },
+        {
+          "branch_name": "Dayuan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "HNBKTWTP262"
+        },
+        {
+          "branch_name": "Hsinchu Branch",
+          "city": "Hsinchu",
+          "swift_code": "HNBKTWTP300"
+        },
+        {
+          "branch_name": "Zhudong Branch",
+          "city": "Hsinchu",
+          "swift_code": "HNBKTWTP301"
+        },
+        {
+          "branch_name": "Chu Ko Branch",
+          "city": "Hsinchu",
+          "swift_code": "HNBKTWTP302"
+        },
+        {
+          "branch_name": "Hsin Feng Branch",
+          "city": "Hsinchu",
+          "swift_code": "HNBKTWTP310"
+        },
+        {
+          "branch_name": "Lioujia Branch",
+          "city": "Zhubei City",
+          "swift_code": "HNBKTWTP313"
+        },
+        {
+          "branch_name": "Chu Nan Branch",
+          "city": "Miao",
+          "swift_code": "HNBKTWTP320"
+        },
+        {
+          "branch_name": "Toufen Branch",
+          "city": "Miao Li",
+          "swift_code": "HNBKTWTP321"
+        },
+        {
+          "branch_name": "Miaoli Branch",
+          "city": "Miao",
+          "swift_code": "HNBKTWTP322"
+        },
+        {
+          "branch_name": "Chupei Branch",
+          "city": "Hsinchu",
+          "swift_code": "HNBKTWTP323"
+        },
+        {
+          "branch_name": "Tachung Branch",
+          "city": "Hsinchu",
+          "swift_code": "HNBKTWTP351"
+        },
+        {
+          "branch_name": "Fengyuan Branch",
+          "city": "Fengyuan",
+          "swift_code": "HNBKTWTP400"
+        },
+        {
+          "branch_name": "Tungshih Branch",
+          "city": "Taichung Dist.",
+          "swift_code": "HNBKTWTP401"
+        },
+        {
+          "branch_name": "Chang Shu Wan Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP192"
+        },
+        {
+          "branch_name": "Taishan Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP193"
+        },
+        {
+          "branch_name": "San Hsia Branch",
+          "city": "New Taipei City",
+          "swift_code": "HNBKTWTP194"
+        },
+        {
+          "branch_name": "Wen Shan Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP195"
+        },
+        {
+          "branch_name": "Yingge Branch",
+          "city": "New Taipei City",
+          "swift_code": "HNBKTWTP196"
+        },
+        {
+          "branch_name": "North Hsin Chuang Branch",
+          "city": "New Taipei City",
+          "swift_code": "HNBKTWTP197"
+        },
+        {
+          "branch_name": "Pei Tucheng Branch",
+          "city": "New Taipei City",
+          "swift_code": "HNBKTWTP198"
+        },
+        {
+          "branch_name": "Linkou Station Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP199"
+        },
+        {
+          "branch_name": "Keelung Branch",
+          "city": "Keelung",
+          "swift_code": "HNBKTWTP200"
+        },
+        {
+          "branch_name": "Keelung Kangko Branch",
+          "city": "Keelung City",
+          "swift_code": "HNBKTWTP201"
+        },
+        {
+          "branch_name": "Qidu Branch",
+          "city": "Keelung",
+          "swift_code": "HNBKTWTP211"
+        },
+        {
+          "branch_name": "Lotung Branch",
+          "city": "Yilan",
+          "swift_code": "HNBKTWTP220"
+        },
+        {
+          "branch_name": "Yilan Branch",
+          "city": "Yilan",
+          "swift_code": "HNBKTWTP221"
+        },
+        {
+          "branch_name": "Taoyuan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "HNBKTWTP240"
+        },
+        {
+          "branch_name": "Chungli Branch",
+          "city": "Chung Li",
+          "swift_code": "HNBKTWTP241"
+        },
+        {
+          "branch_name": "Yang Mei Branch",
+          "city": "Tao-yuan",
+          "swift_code": "HNBKTWTP242"
+        },
+        {
+          "branch_name": "Li-chagn Branch",
+          "city": "Tao-yuan",
+          "swift_code": "HNBKTWTP243"
+        },
+        {
+          "branch_name": "Pei-taoyuan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "HNBKTWTP244"
+        },
+        {
+          "branch_name": "Nan Kan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "HNBKTWTP245"
+        },
+        {
+          "branch_name": "Pingzhen Branch",
+          "city": "Tao-yuan",
+          "swift_code": "HNBKTWTP246"
+        },
+        {
+          "branch_name": "Nan Yungho Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP169"
+        },
+        {
+          "branch_name": "Shi-sanchung Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP170"
+        },
+        {
+          "branch_name": "Nan-sanchung Branch",
+          "city": "New Taipei City",
+          "swift_code": "HNBKTWTP171"
+        },
+        {
+          "branch_name": "Shuangho Branch",
+          "city": "New Taipei",
+          "swift_code": "HNBKTWTP172"
+        },
+        {
+          "branch_name": "Hsintai Branch",
+          "city": "New Taipei",
+          "swift_code": "HNBKTWTP173"
+        },
+        {
+          "branch_name": "Erh Chung Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP174"
+        },
+        {
+          "branch_name": "Pan Hsin Branch",
+          "city": "New Taipei City",
+          "swift_code": "HNBKTWTP175"
+        },
+        {
+          "branch_name": "Wu Ku Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP176"
+        },
+        {
+          "branch_name": "Beitou Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP178"
+        },
+        {
+          "branch_name": "Hsi Hu Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP179"
+        },
+        {
+          "branch_name": "Chi Sui Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP180"
+        },
+        {
+          "branch_name": "Fuhe Branch",
+          "city": "New Taipei City",
+          "swift_code": "HNBKTWTP182"
+        },
+        {
+          "branch_name": "Nan Shih Chiao Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP183"
+        },
+        {
+          "branch_name": "Pei Luzhou Branch",
+          "city": "New Taipei City",
+          "swift_code": "HNBKTWTP184"
+        },
+        {
+          "branch_name": "Lu Zhou Branch",
+          "city": "New Taipei City",
+          "swift_code": "HNBKTWTP185"
+        },
+        {
+          "branch_name": "Tu Cheng Branch",
+          "city": "New Taipei City",
+          "swift_code": "HNBKTWTP186"
+        },
+        {
+          "branch_name": "Pei Hsin Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP187"
+        },
+        {
+          "branch_name": "Tianmu Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP189"
+        },
+        {
+          "branch_name": "Nei Hu Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP190"
+        },
+        {
+          "branch_name": "Shulin Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP191"
+        },
+        {
+          "branch_name": "Huai Sheng Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP147"
+        },
+        {
+          "branch_name": "Zhong Hua Road Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP148"
+        },
+        {
+          "branch_name": "Hsin Wei Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP149"
+        },
+        {
+          "branch_name": "Pu Chien Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP151"
+        },
+        {
+          "branch_name": "Shih Pai Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP152"
+        },
+        {
+          "branch_name": "Jui Hsiang Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP153"
+        },
+        {
+          "branch_name": "Taita Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP154"
+        },
+        {
+          "branch_name": "Shih Mao Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP156"
+        },
+        {
+          "branch_name": "Wan Hua Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP157"
+        },
+        {
+          "branch_name": "Nan Kang Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP158"
+        },
+        {
+          "branch_name": "Hua Jiang Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP159"
+        },
+        {
+          "branch_name": "Panchiao Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP160"
+        },
+        {
+          "branch_name": "Sanchung Branch",
+          "city": "New Taipei",
+          "swift_code": "HNBKTWTP161"
+        },
+        {
+          "branch_name": "Pei San Chung Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP162"
+        },
+        {
+          "branch_name": "Hsinchuang Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP163"
+        },
+        {
+          "branch_name": "Yungho Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP164"
+        },
+        {
+          "branch_name": "Chung Ho Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP165"
+        },
+        {
+          "branch_name": "Hsintien Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP166"
+        },
+        {
+          "branch_name": "Danshui Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP167"
+        },
+        {
+          "branch_name": "Xizhi Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP168"
+        },
+        {
+          "branch_name": "Chungshiao East Road Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP120"
+        },
+        {
+          "branch_name": "Ho Ping Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP121"
+        },
+        {
+          "branch_name": "Shuangyuan Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP122"
+        },
+        {
+          "branch_name": "Shihlin Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP123"
+        },
+        {
+          "branch_name": "Tung-taipei Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP124"
+        },
+        {
+          "branch_name": "Da An Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP125"
+        },
+        {
+          "branch_name": "Ming Shen Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP126"
+        },
+        {
+          "branch_name": "Fushing Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP127"
+        },
+        {
+          "branch_name": "Lungchiang Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP128"
+        },
+        {
+          "branch_name": "Yongji Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP129"
+        },
+        {
+          "branch_name": "Tunhua Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP130"
+        },
+        {
+          "branch_name": "Chung Hsing Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP131"
+        },
+        {
+          "branch_name": "Dazhi Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP132"
+        },
+        {
+          "branch_name": "Tun Ho Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP133"
+        },
+        {
+          "branch_name": "Donghu Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP134"
+        },
+        {
+          "branch_name": "Dongxing Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP136"
+        },
+        {
+          "branch_name": "Peinankang Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP137"
+        },
+        {
+          "branch_name": "Muzha Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP138"
+        },
+        {
+          "branch_name": "Nan-neihu Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP143"
+        },
+        {
+          "branch_name": "Chang An Branch",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTP145"
+        },
+        {
+          "branch_name": "Kaohsiung Guilin Branch",
+          "city": "Kaohsiung",
+          "swift_code": "HNBKTWTP765"
+        },
+        {
+          "branch_name": "Pingtung Branch",
+          "city": "Pingtung",
+          "swift_code": "HNBKTWTP800"
+        },
+        {
+          "branch_name": "Nei Pu Branch",
+          "city": "Pingtung",
+          "swift_code": "HNBKTWTP801"
+        },
+        {
+          "branch_name": "Chaozhou Branch",
+          "city": "Pingtung",
+          "swift_code": "HNBKTWTP802"
+        },
+        {
+          "branch_name": "Jiadong Branch",
+          "city": "Pingtung",
+          "swift_code": "HNBKTWTP813"
+        },
+        {
+          "branch_name": "Hualien Branch",
+          "city": "Hualien",
+          "swift_code": "HNBKTWTP820"
+        },
+        {
+          "branch_name": "Taitung Branch",
+          "city": "Taitung",
+          "swift_code": "HNBKTWTP830"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "HNBKTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hua Hsin Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hsinchu",
+          "swift_code": "HUHSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rich Soon Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "RISSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mizuho Bank, Ltd., Kaohsiung Branch",
+      "branches": [
+        {
+          "branch_name": "Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "MHCBTWTPKAO"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kung Cheng Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Changhua",
+          "swift_code": "KUCSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuanz Ho Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Changhua",
+          "swift_code": "KUAETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuang Long Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hualian",
+          "swift_code": "KULSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuang I Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "KUASTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kong Cheng Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "KOCSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kleinwort Benson Securities Limited, Taiwan Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "KBENTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kingtex Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "KINETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kingston Securites Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "KINSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "King's Town Bank",
+      "branches": [
+        {
+          "branch_name": "Business Dept",
+          "city": "Tainan",
+          "swift_code": "TNBBTWTN001"
+        },
+        {
+          "branch_name": "Chia-yi Branch",
+          "city": "Chia Yi",
+          "swift_code": "TNBBTWTN004"
+        },
+        {
+          "branch_name": "Hu-wei Branch",
+          "city": "Yunlin",
+          "swift_code": "TNBBTWTN007"
+        },
+        {
+          "branch_name": "Hsin-shih Branch",
+          "city": "Tainan",
+          "swift_code": "TNBBTWTN029"
+        },
+        {
+          "branch_name": "Taipei Branch",
+          "city": "Taipei",
+          "swift_code": "TNBBTWTN053"
+        },
+        {
+          "branch_name": "Offshore Banking Branch",
+          "city": "Tainan",
+          "swift_code": "TNBBTWTN068"
+        },
+        {
+          "branch_name": "Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "TNBBTWTN069"
+        },
+        {
+          "branch_name": "Taichung Branch",
+          "city": "Taichung",
+          "swift_code": "TNBBTWTN070"
+        },
+        {
+          "branch_name": "Chung-cheng Branch",
+          "city": "Kaohsiung",
+          "swift_code": "TNBBTWTN077"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tainan",
+          "swift_code": "TNBBTWTNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "King's International Securities Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hsinchu",
+          "swift_code": "KIISTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "King Hoe Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "KIHSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "King Group Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaohsiung",
+          "swift_code": "KIGSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "King Fong Securities Co.,ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fongyuan",
+          "swift_code": "KIFCTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kgi Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Kgi Securities Co. Ltd.",
+          "city": "Taipei",
+          "swift_code": "KGISTWTPXXX"
+        },
+        {
+          "branch_name": "Xinyi",
+          "city": "Taipei",
+          "swift_code": "SECHTWT1016"
+        },
+        {
+          "branch_name": "Chengzhong Branch",
+          "city": "Taipei",
+          "swift_code": "SECHTWT1027"
+        },
+        {
+          "branch_name": "Zhongshan",
+          "city": "Taipei",
+          "swift_code": "SECHTWT1029"
+        },
+        {
+          "branch_name": "Taipei Branch",
+          "city": "Taipei",
+          "swift_code": "SECHTWT1068"
+        },
+        {
+          "branch_name": "Zhongshan Branch",
+          "city": "Taipei",
+          "swift_code": "SECHTWT1291"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SECHTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Keelung International Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Keelung",
+          "swift_code": "KEISTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kao Sheng Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaohsiung",
+          "swift_code": "KASSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ju Ding Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaohsiung",
+          "swift_code": "DINETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jih Sun Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "JISSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jih Sun International Bank (formerly Baodao Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "JSIBTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jih Fu Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "JIHSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch Securities Taiwan Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "MLTATWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch Securities (taiwan) Limited",
+      "branches": [
+        {
+          "branch_name": "Taipei",
+          "city": "Taipei",
+          "swift_code": "MLTATWTXFFO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "MLTATWTXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Masterlink Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Duennan Branch",
+          "city": "Taipei",
+          "swift_code": "MASCTWT1001"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "MASCTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mao Sheng Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chiayi",
+          "swift_code": "MAHCTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Macquarie Capital Securities Limited, Taiwan Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "BSECTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lucky Leader Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Changhua",
+          "swift_code": "LULSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Li Tai Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "TAIUTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lg Display Taiwan Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "LGDTTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lehman Brothers (taiwan) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "LEBTTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Leaders Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "LEASTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Land Bank Of Taiwan",
+      "branches": [
+        {
+          "branch_name": "Keelung Branch",
+          "city": "Keelung",
+          "swift_code": "LBOTTWTP002"
+        },
+        {
+          "branch_name": "Chungho Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP003"
+        },
+        {
+          "branch_name": "Nankang Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP004"
+        },
+        {
+          "branch_name": "Taipei Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP005"
+        },
+        {
+          "branch_name": "Mingchuan Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP006"
+        },
+        {
+          "branch_name": "Kuting Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP007"
+        },
+        {
+          "branch_name": "Changan Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP008"
+        },
+        {
+          "branch_name": "Shihlin Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP009"
+        },
+        {
+          "branch_name": "Sanchung Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP010"
+        },
+        {
+          "branch_name": "Yilan Branch",
+          "city": "Yilan",
+          "swift_code": "LBOTTWTP011"
+        },
+        {
+          "branch_name": "Tao-yuan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "LBOTTWTP013"
+        },
+        {
+          "branch_name": "Chungli Branch",
+          "city": "Chung Li",
+          "swift_code": "LBOTTWTP014"
+        },
+        {
+          "branch_name": "Shihmen Branch",
+          "city": "Tao-yuan",
+          "swift_code": "LBOTTWTP015"
+        },
+        {
+          "branch_name": "Hsinchu Branch",
+          "city": "Hsinchu",
+          "swift_code": "LBOTTWTP016"
+        },
+        {
+          "branch_name": "Chutung Branch",
+          "city": "Hsinchu",
+          "swift_code": "LBOTTWTP017"
+        },
+        {
+          "branch_name": "Miaoli Branch",
+          "city": "Miao Li",
+          "swift_code": "LBOTTWTP020"
+        },
+        {
+          "branch_name": "Fengyuan Branch",
+          "city": "Taichung",
+          "swift_code": "LBOTTWTP022"
+        },
+        {
+          "branch_name": "Ta-chia Branch",
+          "city": "Taichung",
+          "swift_code": "LBOTTWTP023"
+        },
+        {
+          "branch_name": "Taichung Branch",
+          "city": "Taichung",
+          "swift_code": "LBOTTWTP024"
+        },
+        {
+          "branch_name": "Nan Tou Branch",
+          "city": "Nantou",
+          "swift_code": "LBOTTWTP025"
+        },
+        {
+          "branch_name": "Taishan Branch",
+          "city": "New Taipei",
+          "swift_code": "LBOTTWTP134"
+        },
+        {
+          "branch_name": "Jhong Ke Branch",
+          "city": "Taichung",
+          "swift_code": "LBOTTWTP135"
+        },
+        {
+          "branch_name": "Cheng Tung Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP140"
+        },
+        {
+          "branch_name": "Sungnan Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP141"
+        },
+        {
+          "branch_name": "Linkou Branch",
+          "city": "Tao-yuan",
+          "swift_code": "LBOTTWTP143"
+        },
+        {
+          "branch_name": "Donghu Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP148"
+        },
+        {
+          "branch_name": "Itri Branch",
+          "city": "Chutung Town",
+          "swift_code": "LBOTTWTP156"
+        },
+        {
+          "branch_name": "Beisanchong Branch",
+          "city": "New Taipei",
+          "swift_code": "LBOTTWTP157"
+        },
+        {
+          "branch_name": "Yuan Tong Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP158"
+        },
+        {
+          "branch_name": "Baozhong Branch",
+          "city": "New Taipei City",
+          "swift_code": "LBOTTWTP163"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTPXXX"
+        },
+        {
+          "branch_name": "Tung Hsinchu Branch",
+          "city": "Hsinchu",
+          "swift_code": "LBOTTWTP103"
+        },
+        {
+          "branch_name": "Hsinshih Branch",
+          "city": "Tainan",
+          "swift_code": "LBOTTWTP104"
+        },
+        {
+          "branch_name": "Poai Branch",
+          "city": "Kaohsiung",
+          "swift_code": "LBOTTWTP105"
+        },
+        {
+          "branch_name": "Chunglun Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP106"
+        },
+        {
+          "branch_name": "Hua Chiang Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP107"
+        },
+        {
+          "branch_name": "Chu Pei Branch",
+          "city": "Hsinchu",
+          "swift_code": "LBOTTWTP108"
+        },
+        {
+          "branch_name": "Nanhsinchuang Branch",
+          "city": "New Taipei City",
+          "swift_code": "LBOTTWTP111"
+        },
+        {
+          "branch_name": "Shalu Branch",
+          "city": "Taichung",
+          "swift_code": "LBOTTWTP113"
+        },
+        {
+          "branch_name": "Nantaoyuan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "LBOTTWTP114"
+        },
+        {
+          "branch_name": "Hsichih Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP115"
+        },
+        {
+          "branch_name": "Xiaogang Branch",
+          "city": "Kaohsiung",
+          "swift_code": "LBOTTWTP117"
+        },
+        {
+          "branch_name": "Hsingong Branch",
+          "city": "Hsinchu",
+          "swift_code": "LBOTTWTP118"
+        },
+        {
+          "branch_name": "Wu Jih Branch",
+          "city": "Taichung",
+          "swift_code": "LBOTTWTP119"
+        },
+        {
+          "branch_name": "Shi-hu Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP120"
+        },
+        {
+          "branch_name": "Beituen Branch",
+          "city": "Taichung",
+          "swift_code": "LBOTTWTP122"
+        },
+        {
+          "branch_name": "Dah An Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP123"
+        },
+        {
+          "branch_name": "Peichungli Branch",
+          "city": "Jhongli",
+          "swift_code": "LBOTTWTP124"
+        },
+        {
+          "branch_name": "Kuangfu Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP129"
+        },
+        {
+          "branch_name": "North Taoyuan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "LBOTTWTP131"
+        },
+        {
+          "branch_name": "Tien Mu Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP133"
+        },
+        {
+          "branch_name": "Ling Ya Branch",
+          "city": "Kaohsiung",
+          "swift_code": "LBOTTWTP078"
+        },
+        {
+          "branch_name": "Hsinyi Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP079"
+        },
+        {
+          "branch_name": "Tu Cheng Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP080"
+        },
+        {
+          "branch_name": "Tanshui",
+          "city": "New Taipei City",
+          "swift_code": "LBOTTWTP081"
+        },
+        {
+          "branch_name": "Tsao Tun Branch",
+          "city": "Nantou",
+          "swift_code": "LBOTTWTP082"
+        },
+        {
+          "branch_name": "Tungtainan Branch",
+          "city": "Tainan",
+          "swift_code": "LBOTTWTP083"
+        },
+        {
+          "branch_name": "Hsinchuang Branch",
+          "city": "New Taipei",
+          "swift_code": "LBOTTWTP086"
+        },
+        {
+          "branch_name": "Shuangho Branch",
+          "city": "New Taipei",
+          "swift_code": "LBOTTWTP087"
+        },
+        {
+          "branch_name": "Fuhsin Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP090"
+        },
+        {
+          "branch_name": "Offshore Banking Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP092"
+        },
+        {
+          "branch_name": "Wenshan Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP093"
+        },
+        {
+          "branch_name": "Chung Kang Branch",
+          "city": "Taichung",
+          "swift_code": "LBOTTWTP094"
+        },
+        {
+          "branch_name": "Tungpachiao Branch",
+          "city": "New Taipei",
+          "swift_code": "LBOTTWTP095"
+        },
+        {
+          "branch_name": "Nankan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "LBOTTWTP096"
+        },
+        {
+          "branch_name": "Chienkuo Branch",
+          "city": "Kaohsiung",
+          "swift_code": "LBOTTWTP097"
+        },
+        {
+          "branch_name": "Shu Lin Branch",
+          "city": "New Taipei",
+          "swift_code": "LBOTTWTP098"
+        },
+        {
+          "branch_name": "Tungtaipei Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP099"
+        },
+        {
+          "branch_name": "Hsisanchung Branch",
+          "city": "New Taipei City",
+          "swift_code": "LBOTTWTP100"
+        },
+        {
+          "branch_name": "Nantaichung Branch",
+          "city": "Taichung",
+          "swift_code": "LBOTTWTP101"
+        },
+        {
+          "branch_name": "Changchuen Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP102"
+        },
+        {
+          "branch_name": "Hsinhsing Branch",
+          "city": "Kaohsiung",
+          "swift_code": "LBOTTWTP054"
+        },
+        {
+          "branch_name": "Hsitaichung Branch",
+          "city": "Taichung",
+          "swift_code": "LBOTTWTP055"
+        },
+        {
+          "branch_name": "Huwei Branch",
+          "city": "Yunlin",
+          "swift_code": "LBOTTWTP056"
+        },
+        {
+          "branch_name": "Jenai Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP057"
+        },
+        {
+          "branch_name": "Chunghsiao Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP058"
+        },
+        {
+          "branch_name": "Chung Cheng Branch",
+          "city": "Kaohsiung",
+          "swift_code": "LBOTTWTP059"
+        },
+        {
+          "branch_name": "Hsintien Branch",
+          "city": "Hsintien",
+          "swift_code": "LBOTTWTP061"
+        },
+        {
+          "branch_name": "Peitainan Branch",
+          "city": "Tainan",
+          "swift_code": "LBOTTWTP062"
+        },
+        {
+          "branch_name": "Sungshan Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP063"
+        },
+        {
+          "branch_name": "Neihu Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP064"
+        },
+        {
+          "branch_name": "Shanming Branch",
+          "city": "Kaohsiung",
+          "swift_code": "LBOTTWTP065"
+        },
+        {
+          "branch_name": "Minxiong Branch",
+          "city": "Chia Yi",
+          "swift_code": "LBOTTWTP066"
+        },
+        {
+          "branch_name": "Ta Ser Branch",
+          "city": "Kaohsiung",
+          "swift_code": "LBOTTWTP067"
+        },
+        {
+          "branch_name": "Chien-cheng Branch",
+          "city": "Kaohsiung",
+          "swift_code": "LBOTTWTP069"
+        },
+        {
+          "branch_name": "Luzhu Branch",
+          "city": "Kaohsiung",
+          "swift_code": "LBOTTWTP070"
+        },
+        {
+          "branch_name": "Wu Chia Branch",
+          "city": "Kaohsiung",
+          "swift_code": "LBOTTWTP071"
+        },
+        {
+          "branch_name": "Taiping Branch",
+          "city": "Taichung",
+          "swift_code": "LBOTTWTP072"
+        },
+        {
+          "branch_name": "Tun Hua Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP074"
+        },
+        {
+          "branch_name": "Luchou Branch",
+          "city": "Lujhou",
+          "swift_code": "LBOTTWTP076"
+        },
+        {
+          "branch_name": "North Taichung Branch",
+          "city": "Taichung",
+          "swift_code": "LBOTTWTP077"
+        },
+        {
+          "branch_name": "Yuanlin Branch",
+          "city": "Changhua",
+          "swift_code": "LBOTTWTP026"
+        },
+        {
+          "branch_name": "Touliu Branch",
+          "city": "Touliu",
+          "swift_code": "LBOTTWTP027"
+        },
+        {
+          "branch_name": "Peikang Branch",
+          "city": "Yunlin",
+          "swift_code": "LBOTTWTP028"
+        },
+        {
+          "branch_name": "Chiayi Branch",
+          "city": "Chia Yi",
+          "swift_code": "LBOTTWTP029"
+        },
+        {
+          "branch_name": "Hsinying Branch",
+          "city": "Hsinying",
+          "swift_code": "LBOTTWTP030"
+        },
+        {
+          "branch_name": "Yungkang Branch",
+          "city": "Tainan",
+          "swift_code": "LBOTTWTP031"
+        },
+        {
+          "branch_name": "Tainan Branch",
+          "city": "Tainan",
+          "swift_code": "LBOTTWTP032"
+        },
+        {
+          "branch_name": "Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "LBOTTWTP033"
+        },
+        {
+          "branch_name": "Kangshan Branch",
+          "city": "Kang Shan",
+          "swift_code": "LBOTTWTP034"
+        },
+        {
+          "branch_name": "Pingtung Branch",
+          "city": "Pingtung",
+          "swift_code": "LBOTTWTP036"
+        },
+        {
+          "branch_name": "Cingnian Branch",
+          "city": "Kaohsiung",
+          "swift_code": "LBOTTWTP038"
+        },
+        {
+          "branch_name": "Kin Men Branch",
+          "city": "Kin-men",
+          "swift_code": "LBOTTWTP039"
+        },
+        {
+          "branch_name": "Department Of Business",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP041"
+        },
+        {
+          "branch_name": "Hoping Branch",
+          "city": "Taipei",
+          "swift_code": "LBOTTWTP045"
+        },
+        {
+          "branch_name": "Changhua Branch",
+          "city": "Chunghua",
+          "swift_code": "LBOTTWTP047"
+        },
+        {
+          "branch_name": "Chung Shan Branch",
+          "city": "Kaohsiung",
+          "swift_code": "LBOTTWTP048"
+        },
+        {
+          "branch_name": "Yungho Branch",
+          "city": "New Taipei",
+          "swift_code": "LBOTTWTP049"
+        },
+        {
+          "branch_name": "Panchiao Branch",
+          "city": "Panchiao",
+          "swift_code": "LBOTTWTP050"
+        },
+        {
+          "branch_name": "Fengshan Branch",
+          "city": "Fengshan",
+          "swift_code": "LBOTTWTP051"
+        },
+        {
+          "branch_name": "Hu Kou Branch",
+          "city": "Hsinchu",
+          "swift_code": "LBOTTWTP052"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lakeview Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "LAKSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lai Fwu Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yunlin",
+          "swift_code": "LAFETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kwang-sheng Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panchiao",
+          "swift_code": "KWSSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kwang Ming Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tao-yuan",
+          "swift_code": "KWMSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuotong Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaohsiung",
+          "swift_code": "KUOSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuo-yuh Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yunlin",
+          "swift_code": "KUYSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuo Hua Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "KUHSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuo Bao Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taichung",
+          "swift_code": "KUBETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prudential Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "PBSITWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Primasia Securities Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "YKSTTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "President Securities Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "PREETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Polaris Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "POLSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Po-hon Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "I-lan",
+          "swift_code": "HONRTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pei Cheng Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "PECCTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pao-shun Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Changhua",
+          "swift_code": "PASRTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pao Shin Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taichung",
+          "swift_code": "PASUTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pacific Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Nan-ching Branch",
+          "city": "Taipei",
+          "swift_code": "PACSTWT1NCH"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "PACSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Overseas Credit And Securities Incorporated",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "OCSITWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oversea-chinese Banking Corporation Limited, Taipei Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "OCBCTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oriental Union Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaohsiung",
+          "swift_code": "ORUSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oriental Securities Corp",
+      "branches": [
+        {
+          "branch_name": "Min-sheng Branch",
+          "city": "Taipei",
+          "swift_code": "ORMBTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oriental Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "ORISTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nikko Securities Co. Ltd (taipei Branch),the",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "NSTCTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "New Hundred King Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaohsiung",
+          "swift_code": "NHKSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nan Tou Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nantou",
+          "swift_code": "NATUTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Morgan Stanley Taiwan Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "MSILTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mizuho Bank, Ltd.,taipei Branch",
+      "branches": [
+        {
+          "branch_name": "Taipei Branch",
+          "city": "Taipei",
+          "swift_code": "MHCBTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsin Tao Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tao-yuan",
+          "swift_code": "HSTETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Golden Circle Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "GOCUTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "First Securities Inc.",
+          "city": "Taipei",
+          "swift_code": "FIUITWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dbs Bank (taiwan) Ltd",
+      "branches": [
+        {
+          "branch_name": "Taipei Branch",
+          "city": "Taipei",
+          "swift_code": "DBSSTWTPIBD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "DBSSTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Concord International Securities Co Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tainan",
+          "swift_code": "COICTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chia Yi Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CHISTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bao Chen Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Ching-nien Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BACTTWT1CHN"
+        },
+        {
+          "branch_name": "Min-chuan Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BACTTWT1MCH"
+        },
+        {
+          "branch_name": "Taipei Branch",
+          "city": "Taipei",
+          "swift_code": "BACTTWT1TAP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kaohsiung",
+          "swift_code": "BACTTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Taipei",
+      "branches": [
+        {
+          "branch_name": "Treasury Department",
+          "city": "Taipei",
+          "swift_code": "BOTPTWTP002"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "BOTPTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Panhsin",
+      "branches": [
+        {
+          "branch_name": "Minsheng Branch",
+          "city": "Taipei",
+          "swift_code": "BBBKTWTP035"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "BBBKTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Kaohsiung",
+      "branches": [
+        {
+          "branch_name": "Savings Department",
+          "city": "Kaohsiung",
+          "swift_code": "BKAOTWT1103"
+        },
+        {
+          "branch_name": "Chien-chin Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKAOTWT1202"
+        },
+        {
+          "branch_name": "San-min Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKAOTWT1203"
+        },
+        {
+          "branch_name": "Chienchen Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKAOTWT1212"
+        },
+        {
+          "branch_name": "Wu-fu Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKAOTWT1240"
+        },
+        {
+          "branch_name": "Business Department",
+          "city": "Kaohsiung",
+          "swift_code": "BKAOTWTK101"
+        },
+        {
+          "branch_name": "Hsiao-kang Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKAOTWTK210"
+        },
+        {
+          "branch_name": "Nantze Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKAOTWTK218"
+        },
+        {
+          "branch_name": "Bkaotwtk228",
+          "city": "Taipei",
+          "swift_code": "BKAOTWTK228"
+        },
+        {
+          "branch_name": "Tai Chung Branch",
+          "city": "Taichung",
+          "swift_code": "BKAOTWTK229"
+        },
+        {
+          "branch_name": "Taipei Branch",
+          "city": "Taipei",
+          "swift_code": "BKAOTWTK238"
+        },
+        {
+          "branch_name": "Bkaotwtk245",
+          "city": "Taipei",
+          "swift_code": "BKAOTWTK245"
+        },
+        {
+          "branch_name": "Offshore Banking Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKAOTWTKOBU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kaohsiung",
+          "swift_code": "BKAOTWTKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Communications, Taipei Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "COMMTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of China Limited Taipei Branch",
+      "branches": [
+        {
+          "branch_name": "Rmb Clearing Center",
+          "city": "Taipei",
+          "swift_code": "BKCHTWTP888"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "BKCHTWTPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "BKCHTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of America, N.a. Taipei",
+      "branches": [
+        {
+          "branch_name": "Offshore Banking Branch",
+          "city": "Taipei",
+          "swift_code": "BOFATW2XGRA"
+        },
+        {
+          "branch_name": "Taipei Offshore Banking Branch",
+          "city": "Taipei",
+          "swift_code": "BOFATW2XTOB"
+        },
+        {
+          "branch_name": "Taipei Branch",
+          "city": "Taipei",
+          "swift_code": "BOFATW2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bangkok Bank Public Company Limited Taipei Branch",
+      "branches": [
+        {
+          "branch_name": "Taichung",
+          "city": "Taichung",
+          "swift_code": "BKKBTWT10TH"
+        },
+        {
+          "branch_name": "Offshore Banking Branch",
+          "city": "Taipei",
+          "swift_code": "BKKBTWTPOBU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "BKKBTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bae-nian Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Miao Li",
+          "swift_code": "BANUTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Baan Shinn Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "BASRTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Audi Taiwan",
+      "branches": [
+        {
+          "branch_name": "Audi Taiwan",
+          "city": "Taipei",
+          "swift_code": "AUTWTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Anz Bank (taiwan) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "ANZBTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Antay Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaohsiung",
+          "swift_code": "ANTETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aia International, Taiwan Branch",
+      "branches": [
+        {
+          "branch_name": "Aia International, Taiwan Branch",
+          "city": "Taipei",
+          "swift_code": "AITATWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Acumen Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taichung",
+          "swift_code": "ACUSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wealth Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "WEASTWT1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "WEASPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "FIRSTWT1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "FIRSKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cheng Yu Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaohsiung",
+          "swift_code": "CHECTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chan Yuan Stock Broker Corp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Keelung",
+          "swift_code": "CYSBTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of China Taipei",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CBCTTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cathay United Bank",
+      "branches": [
+        {
+          "branch_name": "Taichung",
+          "city": "Taichung",
+          "swift_code": "TFITTWT10TH"
+        },
+        {
+          "branch_name": "Kaohsiung",
+          "city": "Kaohsiung",
+          "swift_code": "TFITTWT10TK"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "TFITTWT1XXX"
+        },
+        {
+          "branch_name": "Nanking E Road Branch",
+          "city": "Taipei",
+          "swift_code": "UWCBTWTP003"
+        },
+        {
+          "branch_name": "Trust Department",
+          "city": "Taipei",
+          "swift_code": "UWCBTWTP004"
+        },
+        {
+          "branch_name": "Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "UWCBTWTP005"
+        },
+        {
+          "branch_name": "Taichung",
+          "city": "Taichung",
+          "swift_code": "UWCBTWTP006"
+        },
+        {
+          "branch_name": "Taipei Branch",
+          "city": "Taipei",
+          "swift_code": "UWCBTWTP007"
+        },
+        {
+          "branch_name": "Yungho Branch",
+          "city": "Yung Ho",
+          "swift_code": "UWCBTWTP009"
+        },
+        {
+          "branch_name": "Tainan",
+          "city": "Tainan",
+          "swift_code": "UWCBTWTP010"
+        },
+        {
+          "branch_name": "Chungshiao Branch",
+          "city": "Taipei",
+          "swift_code": "UWCBTWTP011"
+        },
+        {
+          "branch_name": "Tienmou Branch",
+          "city": "Taipei",
+          "swift_code": "UWCBTWTP012"
+        },
+        {
+          "branch_name": "West Taichung Branch",
+          "city": "Taichung",
+          "swift_code": "UWCBTWTP013"
+        },
+        {
+          "branch_name": "East Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "UWCBTWTP014"
+        },
+        {
+          "branch_name": "Hsinyi Branch",
+          "city": "Taipei",
+          "swift_code": "UWCBTWTP015"
+        },
+        {
+          "branch_name": "Kuangfu Branch",
+          "city": "Taipei",
+          "swift_code": "UWCBTWTP016"
+        },
+        {
+          "branch_name": "Panchiao",
+          "city": "Panchiao",
+          "swift_code": "UWCBTWTP017"
+        },
+        {
+          "branch_name": "Fuhsin Branch",
+          "city": "Taipei",
+          "swift_code": "UWCBTWTP018"
+        },
+        {
+          "branch_name": "Minchuang Branch",
+          "city": "Taipei",
+          "swift_code": "UWCBTWTP019"
+        },
+        {
+          "branch_name": "Daan Branch",
+          "city": "Taipei",
+          "swift_code": "UWCBTWTP020"
+        },
+        {
+          "branch_name": "Chen Kung Branch",
+          "city": "Tainan",
+          "swift_code": "UWCBTWTP063"
+        },
+        {
+          "branch_name": "World Trade Center Branch",
+          "city": "Taipei",
+          "swift_code": "UWCBTWTP065"
+        },
+        {
+          "branch_name": "Labuan Offshore Branch",
+          "city": "Taipei",
+          "swift_code": "UWCBTWTP602"
+        },
+        {
+          "branch_name": "Chu Lai Branch",
+          "city": "Taipei",
+          "swift_code": "UWCBTWTP604"
+        },
+        {
+          "branch_name": "Finance Division Treasury Department",
+          "city": "Taipei",
+          "swift_code": "UWCBTWTP800"
+        },
+        {
+          "branch_name": "Taipei",
+          "city": "Taipei",
+          "swift_code": "UWCBTWTPSGP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "UWCBTWTPXXX"
+        },
+        {
+          "branch_name": "Sanchuang Branch",
+          "city": "Sanchung",
+          "swift_code": "UWCBTWTP021"
+        },
+        {
+          "branch_name": "Chungli",
+          "city": "Chung Li",
+          "swift_code": "UWCBTWTP022"
+        },
+        {
+          "branch_name": "Yuanlin Branch",
+          "city": "Yuan-lin",
+          "swift_code": "UWCBTWTP023"
+        },
+        {
+          "branch_name": "Anho Branch",
+          "city": "Taipei",
+          "swift_code": "UWCBTWTP027"
+        },
+        {
+          "branch_name": "Sunjiang Branch",
+          "city": "Taipei",
+          "swift_code": "UWCBTWTP028"
+        },
+        {
+          "branch_name": "Lingya Branch",
+          "city": "Kaohsiung",
+          "swift_code": "UWCBTWTP029"
+        },
+        {
+          "branch_name": "Offshore Banking Unit",
+          "city": "Taipei",
+          "swift_code": "UWCBTWTP033"
+        },
+        {
+          "branch_name": "Taoyuan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "UWCBTWTP034"
+        },
+        {
+          "branch_name": "Fongyuan Branch",
+          "city": "Fengyuan",
+          "swift_code": "UWCBTWTP035"
+        },
+        {
+          "branch_name": "Chiayi Branch",
+          "city": "Chia Yi",
+          "swift_code": "UWCBTWTP036"
+        },
+        {
+          "branch_name": "Sungshan Branch",
+          "city": "Taipei",
+          "swift_code": "UWCBTWTP037"
+        },
+        {
+          "branch_name": "Chianjin Branch",
+          "city": "Kaohsiung",
+          "swift_code": "UWCBTWTP038"
+        },
+        {
+          "branch_name": "Hsinchu Branch",
+          "city": "Hsinchu",
+          "swift_code": "UWCBTWTP040"
+        },
+        {
+          "branch_name": "Yeongkong Branch",
+          "city": "Tainan",
+          "swift_code": "UWCBTWTP041"
+        },
+        {
+          "branch_name": "Hsinsheng Branch",
+          "city": "Taipei",
+          "swift_code": "UWCBTWTP044"
+        },
+        {
+          "branch_name": "Chingshui Branch",
+          "city": "Taichung",
+          "swift_code": "UWCBTWTP046"
+        },
+        {
+          "branch_name": "Changhwa Branch",
+          "city": "Changhua",
+          "swift_code": "UWCBTWTP047"
+        },
+        {
+          "branch_name": "Wuchuan Branch",
+          "city": "Taichung",
+          "swift_code": "UWCBTWTP050"
+        },
+        {
+          "branch_name": "Hsinhsing Branch",
+          "city": "Kaohsiung",
+          "swift_code": "UWCBTWTP052"
+        },
+        {
+          "branch_name": "Tunnan Branch",
+          "city": "Taipei",
+          "swift_code": "UWCBTWTP053"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cathay Securities Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CTSCTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cathay Life Insurance Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CTHYTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Castle Securities Broker Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tainan",
+          "swift_code": "CASKTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Securities Corporation",
+      "branches": [
+        {
+          "branch_name": "Da-an Branch",
+          "city": "Taipei",
+          "swift_code": "SECCTWT1001"
+        },
+        {
+          "branch_name": "Dunhua Branch",
+          "city": "Taipei",
+          "swift_code": "SECCTWT1002"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SECCTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Calastone",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CLLTTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "C.f. Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SEUITWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bridge Stone Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chen / Ping",
+          "swift_code": "BRSETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas, Taipei Branch",
+      "branches": [
+        {
+          "branch_name": "Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BNPATWTPKAO"
+        },
+        {
+          "branch_name": "Taipei Branch",
+          "city": "Taipei",
+          "swift_code": "BNPATWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Securities (taiwan) Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "BPSTTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bat Taiwan Logistics Ltd",
+      "branches": [
+        {
+          "branch_name": "Bat Taiwan Logistics Ltd",
+          "city": "Taipei",
+          "swift_code": "BATSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bat Services Ltd",
+      "branches": [
+        {
+          "branch_name": "Bat Services Ltd",
+          "city": "Taipei",
+          "swift_code": "BATSTW21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays De Zoete Wedd Asia International Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "BZWLTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Capital Securities Taiwan Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "BCSCTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Bank Plc, Taipei Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "BARCTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bao-hung Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "BHSETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citigroup Global Markets Taiwan Securities Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SSMBTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citicorp International Securities Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CTISTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Taiwan Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CITITW2XXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CITITWTXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cimb Securities Limited, Taiwan Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CSAHTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chyuan Hsing Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chiayi",
+          "swift_code": "CHHITWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chyuan Horng Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "I-lan",
+          "swift_code": "CHHRTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chung-hsin Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tao-yuan",
+          "swift_code": "CHHUTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chung Nourn Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taichung",
+          "swift_code": "CHNSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chung Kang Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taichung",
+          "swift_code": "CHKETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chung Hsing Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taichung",
+          "swift_code": "CHHCTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chuan Tai Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tao-yuan",
+          "swift_code": "CHTCTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chu Tung Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hsinchu",
+          "swift_code": "CHTETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chu Pei Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hsinchu",
+          "swift_code": "CHPSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ching Shing Securities Co.,ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Miao Li",
+          "swift_code": "CHSRTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "China Development Industrial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CDIBTWTPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CHIDTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "China Construction Bank Corporation Ltd. Taipei Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "PCBCTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "China Bills Finance Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CBFCTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chin Kang Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaohsiung",
+          "swift_code": "CHKSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chian Yeou Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nantou",
+          "swift_code": "CHYSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dashin Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "International Department",
+          "city": "Taipei",
+          "swift_code": "DASRTWT1INT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "DASRTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Danli Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaohsiung",
+          "swift_code": "DANTTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dar-jan Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaohsiung",
+          "swift_code": "DAJSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daiwa Securities Smbc-cathay Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "DAWATWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daiaky Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tainan",
+          "swift_code": "DAIRTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dah Chang Securities Co.,ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panchiao",
+          "swift_code": "DACSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Da Chung Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taichung",
+          "swift_code": "CHUETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ctbc Bank Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Corporate Trust Operation And Service Center",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP003"
+        },
+        {
+          "branch_name": "Treasury Department",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP004"
+        },
+        {
+          "branch_name": "Bade Branch",
+          "city": "Bade City",
+          "swift_code": "CTCBTWTP012"
+        },
+        {
+          "branch_name": "Tunpei Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP015"
+        },
+        {
+          "branch_name": "Linkou Branch",
+          "city": "Tao-yuan",
+          "swift_code": "CTCBTWTP023"
+        },
+        {
+          "branch_name": "Taichung Branch",
+          "city": "Taichung",
+          "swift_code": "CTCBTWTP026"
+        },
+        {
+          "branch_name": "Jhupei Branch",
+          "city": "Hsinchu",
+          "swift_code": "CTCBTWTP034"
+        },
+        {
+          "branch_name": "Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CTCBTWTP037"
+        },
+        {
+          "branch_name": "Nantun Branch",
+          "city": "Taichung",
+          "swift_code": "CTCBTWTP045"
+        },
+        {
+          "branch_name": "Dali Branch",
+          "city": "Taichung",
+          "swift_code": "CTCBTWTP056"
+        },
+        {
+          "branch_name": "Tainan Branch",
+          "city": "Tainan",
+          "swift_code": "CTCBTWTP059"
+        },
+        {
+          "branch_name": "Sanchung Branch",
+          "city": "Sanchung",
+          "swift_code": "CTCBTWTP060"
+        },
+        {
+          "branch_name": "North Taichung Mini Branch",
+          "city": "Taichung",
+          "swift_code": "CTCBTWTP067"
+        },
+        {
+          "branch_name": "Chengtung Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP071"
+        },
+        {
+          "branch_name": "Nantou Branch",
+          "city": "Nantou",
+          "swift_code": "CTCBTWTP078"
+        },
+        {
+          "branch_name": "Chiayi Branch",
+          "city": "Chia Yi",
+          "swift_code": "CTCBTWTP082"
+        },
+        {
+          "branch_name": "Rende Mini Branch",
+          "city": "Tainan",
+          "swift_code": "CTCBTWTP090"
+        },
+        {
+          "branch_name": "Chunglun Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP093"
+        },
+        {
+          "branch_name": "Danshuei Mini Branch",
+          "city": "New Taipei",
+          "swift_code": "CTCBTWTP101"
+        },
+        {
+          "branch_name": "Central Tainan Branch",
+          "city": "Tainan",
+          "swift_code": "CTCBTWTP104"
+        },
+        {
+          "branch_name": "Danfong Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP761"
+        },
+        {
+          "branch_name": "North Sindian Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP772"
+        },
+        {
+          "branch_name": "Sijhih Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP783"
+        },
+        {
+          "branch_name": "Jincheng Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP794"
+        },
+        {
+          "branch_name": "Shulin Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP808"
+        },
+        {
+          "branch_name": "Nashihjiao Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP819"
+        },
+        {
+          "branch_name": "North Sinjhuang Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP820"
+        },
+        {
+          "branch_name": "South Taoyuan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "CTCBTWTP853"
+        },
+        {
+          "branch_name": "North Taoyuan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "CTCBTWTP864"
+        },
+        {
+          "branch_name": "Jingguo Branch",
+          "city": "Hsinchu",
+          "swift_code": "CTCBTWTP875"
+        },
+        {
+          "branch_name": "Banking Department",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP901"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTPXXX"
+        },
+        {
+          "branch_name": "Youchang Mini Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CTCBTWTP565"
+        },
+        {
+          "branch_name": "Jiangcuei Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP576"
+        },
+        {
+          "branch_name": "Donghu Mini Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP587"
+        },
+        {
+          "branch_name": "Jhongyuan Branch",
+          "city": "Jhongli",
+          "swift_code": "CTCBTWTP598"
+        },
+        {
+          "branch_name": "Daan Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP602"
+        },
+        {
+          "branch_name": "North Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CTCBTWTP613"
+        },
+        {
+          "branch_name": "Chengde Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP624"
+        },
+        {
+          "branch_name": "Fusing Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP635"
+        },
+        {
+          "branch_name": "Shihpai Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP646"
+        },
+        {
+          "branch_name": "Chengbei Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP657"
+        },
+        {
+          "branch_name": "Wanhua Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP668"
+        },
+        {
+          "branch_name": "Sisong Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP679"
+        },
+        {
+          "branch_name": "Beitou Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP680"
+        },
+        {
+          "branch_name": "Anhe Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP691"
+        },
+        {
+          "branch_name": "Datong Mini Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP705"
+        },
+        {
+          "branch_name": "Rueiguang Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP716"
+        },
+        {
+          "branch_name": "Yilan Branch",
+          "city": "Yilan",
+          "swift_code": "CTCBTWTP727"
+        },
+        {
+          "branch_name": "Minsheng Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP738"
+        },
+        {
+          "branch_name": "Jhonghe Branch",
+          "city": "New Taipei",
+          "swift_code": "CTCBTWTP749"
+        },
+        {
+          "branch_name": "Chongsin Branch",
+          "city": "New Taipei",
+          "swift_code": "CTCBTWTP750"
+        },
+        {
+          "branch_name": "Tocheng Branch",
+          "city": "Tu Cheng",
+          "swift_code": "CTCBTWTP369"
+        },
+        {
+          "branch_name": "Toufen Branch",
+          "city": "Miao",
+          "swift_code": "CTCBTWTP370"
+        },
+        {
+          "branch_name": "Keelung Branch",
+          "city": "Keelung",
+          "swift_code": "CTCBTWTP381"
+        },
+        {
+          "branch_name": "Fengyuan Branch",
+          "city": "Fengyuan",
+          "swift_code": "CTCBTWTP392"
+        },
+        {
+          "branch_name": "Tianmu Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP406"
+        },
+        {
+          "branch_name": "Bansin Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP417"
+        },
+        {
+          "branch_name": "Changhua Branch",
+          "city": "Changhua",
+          "swift_code": "CTCBTWTP428"
+        },
+        {
+          "branch_name": "Kaohsiung East Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CTCBTWTP439"
+        },
+        {
+          "branch_name": "Chunghwa Branch",
+          "city": "Tainan",
+          "swift_code": "CTCBTWTP440"
+        },
+        {
+          "branch_name": "Neihu Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP451"
+        },
+        {
+          "branch_name": "Touliu Branch",
+          "city": "Touliu",
+          "swift_code": "CTCBTWTP462"
+        },
+        {
+          "branch_name": "Wen Hsin Branch",
+          "city": "Taichung",
+          "swift_code": "CTCBTWTP473"
+        },
+        {
+          "branch_name": "Chung Yang Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP484"
+        },
+        {
+          "branch_name": "Yongji Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP495"
+        },
+        {
+          "branch_name": "Cianjhen Mini Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CTCBTWTP509"
+        },
+        {
+          "branch_name": "Nan Kan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "CTCBTWTP510"
+        },
+        {
+          "branch_name": "Yonghe Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP521"
+        },
+        {
+          "branch_name": "Gongyi Branch",
+          "city": "Taichung",
+          "swift_code": "CTCBTWTP532"
+        },
+        {
+          "branch_name": "Shinfu Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP543"
+        },
+        {
+          "branch_name": "Jingguo Branch",
+          "city": "Hsinchu",
+          "swift_code": "CTCBTWTP554"
+        },
+        {
+          "branch_name": "Baoqiang Branch",
+          "city": "New Taipei City",
+          "swift_code": "CTCBTWTP260"
+        },
+        {
+          "branch_name": "Cingnian Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CTCBTWTP263"
+        },
+        {
+          "branch_name": "Hsinchung Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP266"
+        },
+        {
+          "branch_name": "Guangfu Branch",
+          "city": "Hsinchu",
+          "swift_code": "CTCBTWTP267"
+        },
+        {
+          "branch_name": "Huashan Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP271"
+        },
+        {
+          "branch_name": "Gangshan Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CTCBTWTP274"
+        },
+        {
+          "branch_name": "Tao-yuan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "CTCBTWTP277"
+        },
+        {
+          "branch_name": "Long Jiang Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP282"
+        },
+        {
+          "branch_name": "Shihlin Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP285"
+        },
+        {
+          "branch_name": "Chungkang Branch",
+          "city": "Taichung",
+          "swift_code": "CTCBTWTP288"
+        },
+        {
+          "branch_name": "Chenggong Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP293"
+        },
+        {
+          "branch_name": "East Minsheng Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP296"
+        },
+        {
+          "branch_name": "Hsinchu Branch",
+          "city": "Hsinchu",
+          "swift_code": "CTCBTWTP299"
+        },
+        {
+          "branch_name": "Wunshan Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP300"
+        },
+        {
+          "branch_name": "Lujhou Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP303"
+        },
+        {
+          "branch_name": "Sindian Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP314"
+        },
+        {
+          "branch_name": "Yuanlin Branch",
+          "city": "Yuan-lin",
+          "swift_code": "CTCBTWTP325"
+        },
+        {
+          "branch_name": "Hualien Branch",
+          "city": "Hsinchu",
+          "swift_code": "CTCBTWTP336"
+        },
+        {
+          "branch_name": "Gungguan Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP347"
+        },
+        {
+          "branch_name": "Yungkang Branch",
+          "city": "Tainan",
+          "swift_code": "CTCBTWTP358"
+        },
+        {
+          "branch_name": "Yiwun Branch",
+          "city": "Tao-yuan",
+          "swift_code": "CTCBTWTP204"
+        },
+        {
+          "branch_name": "Pingtung Branch",
+          "city": "Pingtung",
+          "swift_code": "CTCBTWTP207"
+        },
+        {
+          "branch_name": "Trust Dept",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP211"
+        },
+        {
+          "branch_name": "Mincyuan West Road Br",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP212"
+        },
+        {
+          "branch_name": "Dongmen Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP215"
+        },
+        {
+          "branch_name": "Fubei Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP218"
+        },
+        {
+          "branch_name": "West Tainan Branch",
+          "city": "Tainan",
+          "swift_code": "CTCBTWTP222"
+        },
+        {
+          "branch_name": "Jiali Branch",
+          "city": "Tainan",
+          "swift_code": "CTCBTWTP223"
+        },
+        {
+          "branch_name": "Sinbantecyu Branch",
+          "city": "New Taipei City",
+          "swift_code": "CTCBTWTP226"
+        },
+        {
+          "branch_name": "Fongshan Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CTCBTWTP229"
+        },
+        {
+          "branch_name": "Wujia Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CTCBTWTP230"
+        },
+        {
+          "branch_name": "Bo-ai Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CTCBTWTP234"
+        },
+        {
+          "branch_name": "San He Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP237"
+        },
+        {
+          "branch_name": "Yainji Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP241"
+        },
+        {
+          "branch_name": "Obu Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP244"
+        },
+        {
+          "branch_name": "Yan Hang Branch",
+          "city": "Tainan",
+          "swift_code": "CTCBTWTP245"
+        },
+        {
+          "branch_name": "Jian Tan Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP248"
+        },
+        {
+          "branch_name": "Sinyi Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP252"
+        },
+        {
+          "branch_name": "Sungshan Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP255"
+        },
+        {
+          "branch_name": "North Lujhou Branch",
+          "city": "New Taipei City",
+          "swift_code": "CTCBTWTP259"
+        },
+        {
+          "branch_name": "Hueijhong Mini Branch",
+          "city": "Taichung",
+          "swift_code": "CTCBTWTP156"
+        },
+        {
+          "branch_name": "Shueinan Branch",
+          "city": "Taichung",
+          "swift_code": "CTCBTWTP159"
+        },
+        {
+          "branch_name": "Situn Mini Branch",
+          "city": "Taichung",
+          "swift_code": "CTCBTWTP160"
+        },
+        {
+          "branch_name": "Tunnan Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP163"
+        },
+        {
+          "branch_name": "Loh Dong Branch",
+          "city": "Luodong",
+          "swift_code": "CTCBTWTP164"
+        },
+        {
+          "branch_name": "East Lujhou Branch",
+          "city": "Lujhou",
+          "swift_code": "CTCBTWTP167"
+        },
+        {
+          "branch_name": "Minzu Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CTCBTWTP171"
+        },
+        {
+          "branch_name": "Panchiao Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP174"
+        },
+        {
+          "branch_name": "Nan Jungli Branch",
+          "city": "Tao-yuan",
+          "swift_code": "CTCBTWTP175"
+        },
+        {
+          "branch_name": "Mujha Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP178"
+        },
+        {
+          "branch_name": "South Kaohsiung Br",
+          "city": "Kaohsiung",
+          "swift_code": "CTCBTWTP182"
+        },
+        {
+          "branch_name": "Chunghsiao Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP185"
+        },
+        {
+          "branch_name": "Banhe Mini Branch",
+          "city": "New Taipei",
+          "swift_code": "CTCBTWTP186"
+        },
+        {
+          "branch_name": "East Hualien Branch",
+          "city": "Hualien",
+          "swift_code": "CTCBTWTP189"
+        },
+        {
+          "branch_name": "Baoshan Branch",
+          "city": "Hsinchu",
+          "swift_code": "CTCBTWTP190"
+        },
+        {
+          "branch_name": "Jiouru Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CTCBTWTP193"
+        },
+        {
+          "branch_name": "Sinsing Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CTCBTWTP196"
+        },
+        {
+          "branch_name": "Hualien",
+          "city": "Hualien",
+          "swift_code": "CTCBTWTP197"
+        },
+        {
+          "branch_name": "Nanking East Road Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP200"
+        },
+        {
+          "branch_name": "North Tianmu Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP201"
+        },
+        {
+          "branch_name": "Taipei Down Town Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP107"
+        },
+        {
+          "branch_name": "Shizheng Branch",
+          "city": "Taichung",
+          "swift_code": "CTCBTWTP108"
+        },
+        {
+          "branch_name": "Huei Long Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP112"
+        },
+        {
+          "branch_name": "East Tainan Branch",
+          "city": "Tainan",
+          "swift_code": "CTCBTWTP115"
+        },
+        {
+          "branch_name": "Sun Ming Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CTCBTWTP118"
+        },
+        {
+          "branch_name": "Dazhi Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP119"
+        },
+        {
+          "branch_name": "Jingmei Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP120"
+        },
+        {
+          "branch_name": "Erchongpu Mini Branch",
+          "city": "New Taipei",
+          "swift_code": "CTCBTWTP123"
+        },
+        {
+          "branch_name": "Taitung Mini Branch",
+          "city": "Taitung City",
+          "swift_code": "CTCBTWTP126"
+        },
+        {
+          "branch_name": "Chungli Branch",
+          "city": "Chung Li",
+          "swift_code": "CTCBTWTP129"
+        },
+        {
+          "branch_name": "Songho Branch",
+          "city": "Yung Ho",
+          "swift_code": "CTCBTWTP130"
+        },
+        {
+          "branch_name": "Neili Mini Branch",
+          "city": "Chung Li",
+          "swift_code": "CTCBTWTP131"
+        },
+        {
+          "branch_name": "Fujin Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP134"
+        },
+        {
+          "branch_name": "South Tainan Branch",
+          "city": "Tainan",
+          "swift_code": "CTCBTWTP137"
+        },
+        {
+          "branch_name": "Chungshan Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP141"
+        },
+        {
+          "branch_name": "Chong Cing Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP142"
+        },
+        {
+          "branch_name": "Jhan Cian Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP145"
+        },
+        {
+          "branch_name": "Sinying Branch",
+          "city": "Tainan",
+          "swift_code": "CTCBTWTP148"
+        },
+        {
+          "branch_name": "Jen Ai Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP152"
+        },
+        {
+          "branch_name": "Chang An Branch",
+          "city": "Taipei",
+          "swift_code": "CTCBTWTP153"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cs Futures Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CSFUTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse First Boston",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CSISTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Ag, Taipei Securities Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CSFBTWTEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Ag, Taipei Bank Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CRESTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Lyonnais Finance Taiwan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "LYHOTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole Securities (taiwan) Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CYSITWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cota Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "COBKTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cosmos Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "COSUTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cosmos Bank, Taiwan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "New Taipei",
+          "swift_code": "CSMBTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Concord Security Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CSSETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Concord Securities Corp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CONETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financial Information Service Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "TWIPTWTBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "TWIPTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fidelity Investments Securities (taiwan) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "FIDITWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Feng Shan Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaohsiung",
+          "swift_code": "FESSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Feng Long Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taichung",
+          "swift_code": "FELSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Far Fame Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "FAFSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Far Eastern International Bank",
+      "branches": [
+        {
+          "branch_name": "Business Department",
+          "city": "Taipei",
+          "swift_code": "FEINTWTP001"
+        },
+        {
+          "branch_name": "Taipei Shiang Yang Branch",
+          "city": "Taipei",
+          "swift_code": "FEINTWTP002"
+        },
+        {
+          "branch_name": "Yihsien Branch",
+          "city": "Taipei",
+          "swift_code": "FEINTWTP003"
+        },
+        {
+          "branch_name": "Taoyuan Branch",
+          "city": "Taipei",
+          "swift_code": "FEINTWTP004"
+        },
+        {
+          "branch_name": "Taichung Kungyi Branch",
+          "city": "Taichung",
+          "swift_code": "FEINTWTP005"
+        },
+        {
+          "branch_name": "Tainan Branch",
+          "city": "Taipei",
+          "swift_code": "FEINTWTP006"
+        },
+        {
+          "branch_name": "Kaohsiung Wu Fu Branch",
+          "city": "Kaohsiung",
+          "swift_code": "FEINTWTP007"
+        },
+        {
+          "branch_name": "Hsinchu Linshen Branch",
+          "city": "Hsinchu",
+          "swift_code": "FEINTWTP010"
+        },
+        {
+          "branch_name": "Kaohsiung Chungcheng Branch",
+          "city": "Kaohsiung",
+          "swift_code": "FEINTWTP011"
+        },
+        {
+          "branch_name": "Trust Banking Department",
+          "city": "Taipei",
+          "swift_code": "FEINTWTP012"
+        },
+        {
+          "branch_name": "Yungho Branch",
+          "city": "Taipei",
+          "swift_code": "FEINTWTP019"
+        },
+        {
+          "branch_name": "Hsinchu Sience Based Industrial Park Branch",
+          "city": "Hsinchu",
+          "swift_code": "FEINTWTP023"
+        },
+        {
+          "branch_name": "Sung Shan Branch",
+          "city": "Taipei",
+          "swift_code": "FEINTWTP027"
+        },
+        {
+          "branch_name": "Obu Branch",
+          "city": "Taipei",
+          "swift_code": "FEINTWTPOBU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "FEINTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "F.k. Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hualien",
+          "swift_code": "SERITWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Export-import Bank Of The Republic Of China, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "EROCTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Everising Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tainan",
+          "swift_code": "EVEUTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Evergreen Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "EVESTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Everglory Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "I-lan",
+          "swift_code": "EVECTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ever Trust Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chungho",
+          "swift_code": "EVTSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ever Rich Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "EVRSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ever Advance Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "EVASTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Erahsian Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Keelung",
+          "swift_code": "ERASTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Entie Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Hsin Yi Branch",
+          "city": "Taipei",
+          "swift_code": "ENTITWTP002"
+        },
+        {
+          "branch_name": "Business Department",
+          "city": "Taipei",
+          "swift_code": "ENTITWTP003"
+        },
+        {
+          "branch_name": "Taoyuan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "ENTITWTP005"
+        },
+        {
+          "branch_name": "Taichung Branch",
+          "city": "Taichung",
+          "swift_code": "ENTITWTP007"
+        },
+        {
+          "branch_name": "Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "ENTITWTP008"
+        },
+        {
+          "branch_name": "Yen Ping Branch",
+          "city": "Taipei",
+          "swift_code": "ENTITWTP011"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "ENTITWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "E. Sun Commercial Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Obu Branch",
+          "city": "Taipei",
+          "swift_code": "ESUNTWTPOBU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "ESUNTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Ag, Taipei Branch",
+      "branches": [
+        {
+          "branch_name": "Taipei",
+          "city": "Taipei",
+          "swift_code": "DEUTTWTPGMO"
+        },
+        {
+          "branch_name": "Deutsche Bank Ag, Taipei Branch-lmp",
+          "city": "Taipei",
+          "swift_code": "DEUTTWTPLMP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "DEUTTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dbs Bank Ltd, Taipei Branch",
+      "branches": [
+        {
+          "branch_name": "Taipei Branch",
+          "city": "Taipei",
+          "swift_code": "DBSSTWTXIBD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "DBSSTWTXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fushan Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "FUSCTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Full Sun Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "FUSETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Full Long Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "FULSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Full Chuen Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taichung",
+          "swift_code": "FUCSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fuh-hwa Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "FHSCTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fubon Securities Company Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "FUSOTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fubon Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "FUSRTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fubon Securities Co. Ltd, Head Office",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "FUSRTW21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fu Shing Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yunlin",
+          "swift_code": "SHIUTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fu Hung Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tainan",
+          "swift_code": "HUNETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortunes Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "FOTUTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortune Target Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chiayi",
+          "swift_code": "FOTCTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortune Securities Co, Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Miao Li",
+          "swift_code": "FOTETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Formosa Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "FORITWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fore Most Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "FOMSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fong-yin Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaohsiung",
+          "swift_code": "FOYSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fong Shing Securities Co, Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fongyuan",
+          "swift_code": "FOSETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fitch Ratings Limited (taiwan Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "FRIPTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Taiwan Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "FTTSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsin Hua Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Changhua",
+          "swift_code": "HSHSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsin Chu Science Park Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hsinchu",
+          "swift_code": "HCSPTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsilo Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yunlin",
+          "swift_code": "HSISTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank (taiwan) Limited",
+      "branches": [
+        {
+          "branch_name": "Correspondent Banking Services",
+          "city": "Taipei",
+          "swift_code": "HSBCTWTPCBS"
+        },
+        {
+          "branch_name": "Obu Branch",
+          "city": "Taipei",
+          "swift_code": "HSBCTWTPOBU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "HSBCTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Horizon Securities Co.,ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "HOSETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hong Hwa Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaohsiung",
+          "swift_code": "HOHSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hong Fu Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tao-yuan",
+          "swift_code": "HONETWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hon Tai Securities Co Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "HTTSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ho Shin Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "SHICTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "High Top Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panchiao",
+          "swift_code": "HITSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hai Pa Wang Securities Corp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "HAWSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Great Wall Securities Co, Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "GRWSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Great Fortune Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "GRFSTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Grand Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hsinchu",
+          "swift_code": "GRASTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Grand China Wealth Management Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "GCWMTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Grand Cathay Securities Corporation",
+      "branches": [
+        {
+          "branch_name": "Min Chuan Branch",
+          "city": "Taipei",
+          "swift_code": "GRCATWT1MCH"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "GRCATWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Goldman Sachs (asia) Llc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "GSATTWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Golden Securities International Corp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "GOSITWT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Golden Gate Securities Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chung Li",
+          "swift_code": "GOGSTWT1XXX"
+        }
+      ]
+    }
+  ]
+}

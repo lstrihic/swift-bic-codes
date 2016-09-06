@@ -1,0 +1,4332 @@
+{
+  "country_name": "Poland",
+  "alpha_2": "PL",
+  "country_code": "616",
+  "banks": [
+    {
+      "bank_name": "Zulawski Bank Spoldzielczy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nowy Dwor",
+          "swift_code": "ZUSPPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "X-trade Brokers Dom Maklerski Spowka Akcyjna",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "TBDMPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wschodni Bank Spoldzielczy W Chelmie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chelm",
+          "swift_code": "SPCLPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wood And Company Financial Services A.s. Polish Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "WCFSPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Warszawski Bank Spoldzielczy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "SBOWPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Warsaw Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "XWARPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Warminsko-mazurski Bank Spoldzielczy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pisz",
+          "swift_code": "WASDPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Warminski Bank Spoldzielczy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jonkowo",
+          "swift_code": "WBSJPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vw Poznan",
+      "branches": [
+        {
+          "branch_name": "Vw Poznan",
+          "city": "Poznan",
+          "swift_code": "POZNPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Volkswagen Bank Polska S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "VOWAPLP9XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vanquis Bank Limited (spolka Z Ograniczona Odpowiedzialnosci",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "VANQPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unicredit Ca Ib Polska Spoka Akcyjna",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "UPSAPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tuir Warta S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "WARTPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trigon Dom Maklerski S.a.",
+      "branches": [
+        {
+          "branch_name": "Trigon Dom Maklerski S.a.",
+          "city": "Krakow",
+          "swift_code": "TROMPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Toyota Bank Polska S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "TOBAPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Polish Registry Of Allowances",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "POROPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Svenska Handelsbanken Ab Spolka Akcyjna Oddzial W Polsce",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "HANDPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Suprema Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "SUSRPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Spoldzielczy Bank Rzemiosla I Rolnictwa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wolomin",
+          "swift_code": "SKBBPLPWXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Wolomin",
+          "swift_code": "SPZRPLP1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Wolomin",
+          "swift_code": "SKBBPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Spoldzielczy Bank Rozwoju",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Szepietowo",
+          "swift_code": "SPRWPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Spoldzielczy Bank Powiatowy W Piaskach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Piaski",
+          "swift_code": "SPPPPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Spolka Akcyjna Oddzial W Polsce",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "SOGEPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Slaski Bank Spoldzielczy Silesia W Katowicach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Katowice",
+          "swift_code": "SPTTPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skandinaviska Enskilda Banken Ab, Spolka Akcyjna, Oddzial W Polsce",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "ESSEPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skandia Zycie Towarzystwo Ubezpierc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "SZTUPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sgb-bank S.a. (formerly Gospodarczy Bank Wielkopolski S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Poznan",
+          "swift_code": "GBWCPLPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Secus Asset Management Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Katowice",
+          "swift_code": "SESNPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Santander Consumer Bank Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wroclaw",
+          "swift_code": "SCFBPLPWXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Wroclaw",
+          "swift_code": "SATNPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronics Poland Co.",
+      "branches": [
+        {
+          "branch_name": "Sepol",
+          "city": "Warszawa",
+          "swift_code": "SECTPLP14D0"
+        },
+        {
+          "branch_name": "Wronki",
+          "city": "Wronki",
+          "swift_code": "SECTPLP14N1"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "SECTPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rejonowy Bank Spoldzielczy W Bychawie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bychawa",
+          "swift_code": "RESHPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbs Bank (polska) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "ABNAPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Raiffeisen Bank Polska S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "RCBWPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rabobank Polska Spolka Akcyjna",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "RABOPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Icbc Poland Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "ICBKPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Idea Bank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "IEEAPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Icap (poland)sp. Z O.o.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "ICPLPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank Polska S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "HSBCPLPSXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "HSBCPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gospodarczy Bank Spoldzielczy W Barlinku",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barlinek",
+          "swift_code": "GOPBPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Getin Noble Bank Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Katowice",
+          "swift_code": "GBGCPLPKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fm Bank Pbp Spolka Akcyjna",
+      "branches": [
+        {
+          "branch_name": "00-394 Warszawa",
+          "city": "Warszawa",
+          "swift_code": "PBPBPLPWFMB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "PBPBPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fitch Polska Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "FRIPPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First International Traders Dom Maklerski Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "FITMPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fiat Bank Polska Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "FBPLPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Express Bank Spoldzielczy W Rzeszowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rzeszow",
+          "swift_code": "EXSRPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Euro Bank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wroclaw",
+          "swift_code": "EBSAPLPRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dz Bank Ag S.a. Poland Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "GENOPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Doradztwo Dla Polskich Przedsiebiorstw Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "DDPPPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dom Maklerski Tms Brokers S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "DMTBPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dom Maklerski Raiffeisen Bank Polska S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "DMRPPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dom Maklerski Polonia Net Sa (brokerage House",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Krakow",
+          "swift_code": "DMPNPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dom Maklerski Penetrator Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Krakow",
+          "swift_code": "DOMPPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dom Maklerski Pekao",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "DOMKPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dom Maklerski Navigator Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "DOMNPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pzu Asset Managemet Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "PZUAPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Opera-kwiatkowski I Wspolnicy Spolka Komandytowoakcyjna",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "OWSKPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Luzycki Bank Spoldzielczy W Lubaniu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luban",
+          "swift_code": "SPUUPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lukas Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tarnowskie Gory",
+          "swift_code": "LUKSPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lg Display Poland Sp. Zo.o.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wroclaw",
+          "swift_code": "LGDTPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Legg Mason Zarzadzanie Aktywami S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "LMZAPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "La Caixa, Oddzial W Polsce",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "CAIXPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kurpiowski Bank Spoldzielczy W Myszyncu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Myszyniec",
+          "swift_code": "SPYYPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Krakowski Bank Spoldzielczy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Krakow",
+          "swift_code": "KRSPPLPKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Krajowa Spoldzielcza Kasa Oszczednosciowo-kredytowa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sopot",
+          "swift_code": "SKOKPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Krajowa Izba Rozliczeniowa S.a. (kir S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "EKIRPLP1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "EKIRPLPDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kompania Piwowarska S.a.",
+      "branches": [
+        {
+          "branch_name": "Poznan",
+          "city": "Poznan",
+          "swift_code": "KOPWPLP1KPW"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Poznan",
+          "swift_code": "KOPWPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kdpw S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "KDPWPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kdpw Ccp",
+      "branches": [
+        {
+          "branch_name": "Warszawa",
+          "city": "Warszawa",
+          "swift_code": "KCCPPLPWOTC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "KCCPPLPWXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "KCCPPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kbc Securities N.v. Branch In Poland",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "KBSEPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ipopema Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "IPSEPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investors Dom Maklerski S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "IDMAPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Towarzystwo Funduszy Inwestycyjnych S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "ITFIPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Securities Spowka Akcyjna W Warszawie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "INURPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Investment Management (polska) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "IIMPPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Bank Slaski Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Katowice",
+          "swift_code": "INGBPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Idea Bank Spolka Akcyjna",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "IEEAPLPAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "IEEAPLA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Opera Dom Maklerski Spowka Z Ograniczona Odpowiedzialnoscia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "ODMSPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Bank Polska S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gdynia",
+          "swift_code": "NDEAPLP2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Noble Bank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "NBLLPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Depository For Securities (kdpw Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "KDPWPLPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Narodowy Bank Polski",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "NBPLPLPAXXX"
+        },
+        {
+          "branch_name": "Pln-rtgs Only",
+          "city": "Warszawa",
+          "swift_code": "NBPLPLPDDSP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "NBPLPLPDXXX"
+        },
+        {
+          "branch_name": "Warszawa",
+          "city": "Warszawa",
+          "swift_code": "NBPLPLPWBAN"
+        },
+        {
+          "branch_name": "Internal Routing",
+          "city": "Warszawa",
+          "swift_code": "NBPLPLPWKIR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "NBPLPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nadwislanski Bank Spoldzielczy W Solcu Zdroju",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Solec-zdroj",
+          "swift_code": "NSSZPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nadwislanski Bank Spoldzielczy W Pulawach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "NBSPPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nadsanski Bank Spoldzielczy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stalowa Wola",
+          "swift_code": "SPSWPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Millennium Dom Maklerski S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "MDOMPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Miedzypowiatowy Bank Spoldzielczy W Myszkowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Myszkow",
+          "swift_code": "MISZPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Miedzygminny Bank Spoldzielczy W Zbuczynie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zbuczyn",
+          "swift_code": "MISUPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meritum Bank Icb S.a.",
+      "branches": [
+        {
+          "branch_name": "Poznan Branch",
+          "city": "Poznan",
+          "swift_code": "BWEUPLPWPOZ"
+        },
+        {
+          "branch_name": "Wroclaw Branch",
+          "city": "Wroclaw",
+          "swift_code": "BWEUPLPWWRO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bydgoszcz",
+          "swift_code": "BWEUPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercurius Dom Maklerski Sp. Z.o.o.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "MDMZPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercedes-benz Bank Polska S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "MBBPPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mbank S.a. (formerly Bre Bank S.a.",
+      "branches": [
+        {
+          "branch_name": "Custody Department",
+          "city": "Warszawa",
+          "swift_code": "BREXPLPWCUS"
+        },
+        {
+          "branch_name": "10-448 Olsztyn",
+          "city": "Olsztyn",
+          "swift_code": "BREXPLPWOLS"
+        },
+        {
+          "branch_name": "Opole Branch",
+          "city": "Opole",
+          "swift_code": "BREXPLPWOPO"
+        },
+        {
+          "branch_name": "Corporate Branch",
+          "city": "Torun",
+          "swift_code": "BREXPLPWTOR"
+        },
+        {
+          "branch_name": "Branch",
+          "city": "Warszawa",
+          "swift_code": "BREXPLPWWA1"
+        },
+        {
+          "branch_name": "Warszawa Ii Branch",
+          "city": "Warszawa",
+          "swift_code": "BREXPLPWWA2"
+        },
+        {
+          "branch_name": "Warszawa Iii Branch",
+          "city": "Warszawa",
+          "swift_code": "BREXPLPWWA3"
+        },
+        {
+          "branch_name": "Corporate Branch",
+          "city": "Warszawa",
+          "swift_code": "BREXPLPWWA4"
+        },
+        {
+          "branch_name": "Corporate Branch",
+          "city": "Walbrzych",
+          "swift_code": "BREXPLPWWAL"
+        },
+        {
+          "branch_name": "50-010 Wroclaw",
+          "city": "Wroclaw",
+          "swift_code": "BREXPLPWWRO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "BREXPLPWXXX"
+        },
+        {
+          "branch_name": "Zielona Gora Branch",
+          "city": "Zielona Gora",
+          "swift_code": "BREXPLPWZIE"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mazurski Bank Spoldzielczy W Gizycku",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gizycko",
+          "swift_code": "MASZPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mazowiecki Bank Spoldzielczy W Lomiankach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lomianki",
+          "swift_code": "MAPNPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mazowia Bank Spoldzielczy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gora",
+          "swift_code": "SGOKPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Malopolski Bank Spoldzielczy W Wieliczce",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wieliczka",
+          "swift_code": "SPWLPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Proservice Agent Transferowy Sp Z O.o.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "PSATPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Powszechna Kasa Oszczednosci Bank Polski Sa",
+      "branches": [
+        {
+          "branch_name": "Pko Bp Securities",
+          "city": "Warszawa",
+          "swift_code": "BPKOPLP1SEC"
+        },
+        {
+          "branch_name": "Pko O Regionalny W Bialymstoku",
+          "city": "Bialystok",
+          "swift_code": "BPKOPLPWBIA"
+        },
+        {
+          "branch_name": "Custody Services Division",
+          "city": "Warszawa",
+          "swift_code": "BPKOPLPWCSD"
+        },
+        {
+          "branch_name": "Io Gdynia",
+          "city": "Gdynia",
+          "swift_code": "BPKOPLPWGDG"
+        },
+        {
+          "branch_name": "Io Gorzow Wielkopolski",
+          "city": "Gorzow Wielkopolski",
+          "swift_code": "BPKOPLPWGOA"
+        },
+        {
+          "branch_name": "Oddzial Katowice",
+          "city": "Katowice",
+          "swift_code": "BPKOPLPWKAB"
+        },
+        {
+          "branch_name": "Oddzial Krakow",
+          "city": "Krakow",
+          "swift_code": "BPKOPLPWKRD"
+        },
+        {
+          "branch_name": "Oddzial Lodz",
+          "city": "Lodz",
+          "swift_code": "BPKOPLPWLDA"
+        },
+        {
+          "branch_name": "Oddzial Lublin",
+          "city": "Lublin",
+          "swift_code": "BPKOPLPWLUA"
+        },
+        {
+          "branch_name": "Oddzial Olsztyn",
+          "city": "Olsztyn",
+          "swift_code": "BPKOPLPWOLS"
+        },
+        {
+          "branch_name": "Oddzial Poznan",
+          "city": "Poznan",
+          "swift_code": "BPKOPLPWPOA"
+        },
+        {
+          "branch_name": "Head Office-treasury Department",
+          "city": "Warszawa",
+          "swift_code": "BPKOPLPWTDH"
+        },
+        {
+          "branch_name": "Oddzial Bydgoszcz",
+          "city": "Bydgoszcz",
+          "swift_code": "BPKOPLPWTOB"
+        },
+        {
+          "branch_name": "Oddzial Warszawa",
+          "city": "Warszawa",
+          "swift_code": "BPKOPLPWWAA"
+        },
+        {
+          "branch_name": "Oddzial Wroclaw",
+          "city": "Wroclaw",
+          "swift_code": "BPKOPLPWWRD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lublin",
+          "swift_code": "BPKOPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Powislanski Bank Spoldzielczy W Kwidzynie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kwidzyn",
+          "swift_code": "POSWPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Powiatowy Bank Spoldzielczy W Zlotoryi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zlotoryja",
+          "swift_code": "POSRPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Powiatowy Bank Spoldzielczy W Zamos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zamosc",
+          "swift_code": "POSZPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Powiatowy Bank Spoldzielczy W Tomaszowie Mazowieckim",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Inowlodz",
+          "swift_code": "PBSTPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Powiatowy Bank Spoldzielczy W Sokolowie Podlaskim",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sokolow Podlaski",
+          "swift_code": "PSSOPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Powiatowy Bank Spoldzielczy W Kedzierzynie-kozlu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kedzierzyn Kozle",
+          "swift_code": "POSDPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Poludniowo-mazowiecki Bs W Jedlinsku",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jedlinsk",
+          "swift_code": "SPJEPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Polski Bank Spoldzielczy W Wyszkowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wyszkow",
+          "swift_code": "POSYPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Polish-american Mortgage Bank Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "PAMBPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Podlasko-mazurski Bank Spoldzielczy W Zabludowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zabludow",
+          "swift_code": "POSLPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Podkarpacki Bank Spoldzielczy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sanok",
+          "swift_code": "PODSPLA1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sanok",
+          "swift_code": "PODSPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pocztowy Bank Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bydgoszcz",
+          "swift_code": "POCZPLP4XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Plus Bank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Poznan",
+          "swift_code": "IVSEPLPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pko Towarzystwo Funduszy Inwestycyjnych Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "PTFIPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pekao Bank Hipoteczny Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "HYVEPLP2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Panstwowe Przedsiebiorstwo Uzytecznosci Publicznej 'poczta Polska'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "POPOPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orzesko-knurowski Bank Spoldzielczy Z Siedziba W Knurowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Knurow",
+          "swift_code": "OSSKPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Teresinie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Teresin",
+          "swift_code": "BSTRPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Tarnowskich Gorach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tarnowskie Gory",
+          "swift_code": "SPTHPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Tarnobrzegu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tarnobrzeg",
+          "swift_code": "SPTOPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Tarczynie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tarczyn",
+          "swift_code": "SPTZPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Szczytnie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Szczytno",
+          "swift_code": "SPZZPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Szczekocinach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Szczekociny",
+          "swift_code": "SPZNPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Szczebrzeszynie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Szczebrzeszyn",
+          "swift_code": "SPZBPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Suchedniowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Suchedniow",
+          "swift_code": "SPSNPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Strzegowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Strzegowo",
+          "swift_code": "BSSTPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Strykowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Strykow",
+          "swift_code": "SSTYPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Srodzie Slaskiej",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sroda",
+          "swift_code": "SPSJPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Sokolach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sokoly",
+          "swift_code": "BSSOPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Slomnikach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Slomniki",
+          "swift_code": "SPOIPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Skoczowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skoczow",
+          "swift_code": "SPOCPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Skierniewicach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skierniewice",
+          "swift_code": "SPIKPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Skaryszewie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skaryszew",
+          "swift_code": "SKARPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Rzeszowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rzeszow",
+          "swift_code": "SPZEPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Rymanowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rymanow",
+          "swift_code": "SPRYPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Rutce Tartak",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rutka Tartak",
+          "swift_code": "SPUTPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Rozanie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rozan",
+          "swift_code": "SPONPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dom Maklerski Idm Spowka Akcyjna",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Krakow",
+          "swift_code": "DOMDPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caspar Asset Management Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Poznan",
+          "swift_code": "CSSNPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Zwoleniu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zwolen",
+          "swift_code": "SPZOPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Zurominie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zuromin",
+          "swift_code": "SPZUPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Zorach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zory",
+          "swift_code": "SPZCPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Zgierzu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zgierz",
+          "swift_code": "SPZGPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Zawadzkiem",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zawadzkie",
+          "swift_code": "SPZDPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Zatorze",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zator",
+          "swift_code": "SPZTPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Zambrowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zambrow",
+          "swift_code": "SPZMPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Zaluskach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zaluski",
+          "swift_code": "BSZSPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Zaganiu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zagan",
+          "swift_code": "SPZAPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Zabkowicach Slaskich",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zabkowice Slaskie",
+          "swift_code": "SPZSPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Wysokiem Mazowieckiem",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wysokie Mazowieckie",
+          "swift_code": "SPWMPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Wolbromiu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wolbrom",
+          "swift_code": "SPWBPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Wiskitkach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wiskitki",
+          "swift_code": "SPWSPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Wegorzewie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wegorzewo",
+          "swift_code": "SPWGPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Wasewie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wasewo",
+          "swift_code": "WASWPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Warce",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warka",
+          "swift_code": "BSWRPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Ustroniu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ustron",
+          "swift_code": "SPUSPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Tworogu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tworog",
+          "swift_code": "SPTWPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Trzebnicy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Trzebnica",
+          "swift_code": "SPTEPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Trzebielu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zary",
+          "swift_code": "SPTBPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bz Wbk Aib Asset Management S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Poznan",
+          "swift_code": "WASMPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bs Zychlin",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zychlin",
+          "swift_code": "ZCCHPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bs Strzelce",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Strzelce",
+          "swift_code": "STRZPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bs Stara Biala",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stara Biala",
+          "swift_code": "STIIPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bs Nowy Staw",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nowy Staw",
+          "swift_code": "NOSWPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bs Biezun",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Biezun",
+          "swift_code": "BIEZPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Biuro Maklerskie Bank Dnb Nord Polska S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Radom",
+          "swift_code": "BMDNPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bieszczadzki Bank Spoldzielczy W Ustrzykach Dolnych",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ustrzyki Dolne",
+          "swift_code": "BSUOPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Beskidzki Dom Maklerski Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bielsko Biala",
+          "swift_code": "BEDMPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Beskidzki Bank Spoldzielczy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bielsko Biala",
+          "swift_code": "SPBBPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spowdzielczy W Czersku",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Czersk",
+          "swift_code": "SPCEPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spowdzielczy W Szydwowcu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Szydlowiec",
+          "swift_code": "BSSZPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spolzielczy W Mikolajkach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mikolajki",
+          "swift_code": "SPMOPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzileczy W Jasionce",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jasionka",
+          "swift_code": "SPJAPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczyw Konskowoli",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Konskowola",
+          "swift_code": "SPKLPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy Ziemi Piotrkowskiej",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Piotrkow Trybunalski",
+          "swift_code": "ZIPIPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy Ziemi Lowickiej W Lowiczu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lowicz",
+          "swift_code": "BSZLPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy Ziemi Leczyckiej W Leczycy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Leczyca",
+          "swift_code": "SZLLPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy Ziemi Krasnickiej W Krasniku",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Krasnik",
+          "swift_code": "SZKKPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dom Maklerski Dfp Sp. Z O.o.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lodz",
+          "swift_code": "DMDPPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dom Maklerski Bz Wbk S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Poznan",
+          "swift_code": "DOMWPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dom Maklerski Banku Ochrony Srodowiska Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "DMOSPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dom Maklerski Banku Handlowego Spowka Akcyjna",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "DOMHPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dom Maklerski Banku Bps S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "DOMSPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dom Maklerski Amerbrokers Spowka Akcyjna",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "DOMAPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dom Maklerski Afs",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "DMAFPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dom Inwestycyjny Xelion Sp. Z O.o.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "DOIXPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dom Inwestycyjny Nehrebetius S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Krakow",
+          "swift_code": "DOINPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dom Inwestycyjny Bre Banku S.a.(bre Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "DIBRPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Polska S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "DEUTPLPXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Pbc S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "DEUTPLPKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Db Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "SCCUPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Danske Bank A/s S.a. Odzial W Polsce",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "DABAPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ctbs S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "CTBSPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole Bank Polska S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wroclaw",
+          "swift_code": "AGRIPLPRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Union Investment Management (polska) Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "CUIMPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cinkciarz.pl Sp. Z O.o.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zielona Gora",
+          "swift_code": "CINKPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Brokerage Office Pekao S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "CBOPPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Raszynie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Raszyn",
+          "swift_code": "SPRSPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Radzyniu Podlaskim",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Radzyn Podlaski",
+          "swift_code": "SPRPPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Raciazu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Raciaz",
+          "swift_code": "BSRAPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Lubartowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lubartow",
+          "swift_code": "PSSLPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Losicach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Losice",
+          "swift_code": "SPOHPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy Ilow",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ilow",
+          "swift_code": "SPILPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy Glowaczow",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Glowaczow",
+          "swift_code": "SPWCPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy Bialystok",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bialystok",
+          "swift_code": "BSBAPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy Halinow",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Halinow",
+          "swift_code": "SPHLPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy Czechowice-dziedzice-bestwina",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Czechowice-dziedzice",
+          "swift_code": "SPCDPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy 'pa-co-bank'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pabianice",
+          "swift_code": "SOPBPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Brodnicy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brodnica",
+          "swift_code": "SPBOPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy 'wspolna Praca' W Kutnie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kutno",
+          "swift_code": "BSWPPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy 'bank Rolnikow' W Opolu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Opole",
+          "swift_code": "SPRKPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczo-ludowy W Elblagu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Elblag",
+          "swift_code": "SBLEPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Inicjatyw Spoleczno-ekonomicznych S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "BISPPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Olsztynku",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Olsztynek",
+          "swift_code": "SPOYPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Obszy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Obsza",
+          "swift_code": "SPZYPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Nowym Targu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nowy Targ",
+          "swift_code": "SPNTPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Nowym Dworze Mazowieckim",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nowy Dwor Mazowiecki",
+          "swift_code": "SNDMPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Nowym Saczu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nowy Sacz",
+          "swift_code": "SPNCPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Nowej Soli",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nowa Sol",
+          "swift_code": "SPWOPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Nieliszu Z/s W Stawie Noakowskim",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nielisz",
+          "swift_code": "SNSNPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Nasielsku",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nasielsk",
+          "swift_code": "SPNIPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Narwi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Narew",
+          "swift_code": "SPNWPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Naleczowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Naleczow",
+          "swift_code": "SPNLPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Mszczonowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mszczonow",
+          "swift_code": "MSZCPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Mszanie Dolnej",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mszana",
+          "swift_code": "SPZLPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Monkach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monki",
+          "swift_code": "SPMCPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Mlawie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mlawa",
+          "swift_code": "BSMLPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Miliczu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Milicz",
+          "swift_code": "SPIIPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Minsku Mazowieckim",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk Mazowiecki",
+          "swift_code": "SPMMPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Mielcu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mielec",
+          "swift_code": "POMIPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Malborku",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Malbork",
+          "swift_code": "SPMLPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Miedzyrzecu Podlaskim",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Miedzyrzec Podlaski",
+          "swift_code": "SPMSPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Lubnianach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lubniany",
+          "swift_code": "SPLUPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "'erste Securities Polska' Spowka Akcyjna",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "ERSPPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Volkswagen Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "VOWAPLP1XXX"
+        },
+        {
+          "branch_name": "Finance",
+          "city": "Villers Cotterets",
+          "swift_code": "VOWAFR21FIS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Saint Denis",
+          "swift_code": "VOWAFR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mbank S.A. (Formerly Bre Bank S.A.)",
+      "branches": [
+        {
+          "branch_name": "Bialystok Branch",
+          "city": "Bialystok",
+          "swift_code": "BREXPLPWBIA"
+        },
+        {
+          "branch_name": "Bielsko Biala Branch",
+          "city": "Bielsko Biala",
+          "swift_code": "BREXPLPWBIB"
+        },
+        {
+          "branch_name": "Bydgoszcz Branch",
+          "city": "Bydgoszcz",
+          "swift_code": "BREXPLPWBYD"
+        },
+        {
+          "branch_name": "Czestochowa Branch",
+          "city": "Czestochowa",
+          "swift_code": "BREXPLPWCZE"
+        },
+        {
+          "branch_name": "Gdansk",
+          "city": "Gdansk",
+          "swift_code": "BREXPLPWGDA"
+        },
+        {
+          "branch_name": "Gdynia Branch",
+          "city": "Gdynia",
+          "swift_code": "BREXPLPWGDY"
+        },
+        {
+          "branch_name": "Gorzow Wielkopolski Branch",
+          "city": "Gorzow Wielkopolski",
+          "swift_code": "BREXPLPWGOR"
+        },
+        {
+          "branch_name": "Kalisz Branch",
+          "city": "Kalisz",
+          "swift_code": "BREXPLPWKAL"
+        },
+        {
+          "branch_name": "Regional Operation Center",
+          "city": "Katowice",
+          "swift_code": "BREXPLPWRCO"
+        },
+        {
+          "branch_name": "Katowice",
+          "city": "Katowice",
+          "swift_code": "BREXPLPWKAT"
+        },
+        {
+          "branch_name": "Kielce Branch",
+          "city": "Kielce",
+          "swift_code": "BREXPLPWKIE"
+        },
+        {
+          "branch_name": "Corporate Branch",
+          "city": "Koszalin",
+          "swift_code": "BREXPLPWKOS"
+        },
+        {
+          "branch_name": "31-503 Krakow",
+          "city": "Krakow",
+          "swift_code": "BREXPLPWKRA"
+        },
+        {
+          "branch_name": "Internet Banking",
+          "city": "Lodz",
+          "swift_code": "BREXPLPWMBK"
+        },
+        {
+          "branch_name": "Retail Banking",
+          "city": "Lodz",
+          "swift_code": "BREXPLPWMUL"
+        },
+        {
+          "branch_name": "90-063 Lodz",
+          "city": "Lodz",
+          "swift_code": "BREXPLPWLOD"
+        },
+        {
+          "branch_name": "20-950 Lublin",
+          "city": "Lublin",
+          "swift_code": "BREXPLPWLUB"
+        },
+        {
+          "branch_name": "Corporate Branch",
+          "city": "Nowy Sacz",
+          "swift_code": "BREXPLPWNWS"
+        },
+        {
+          "branch_name": "60-967 Poznan",
+          "city": "Poznan",
+          "swift_code": "BREXPLPWPOZ"
+        },
+        {
+          "branch_name": "Rybnik Branch",
+          "city": "Rybnik",
+          "swift_code": "BREXPLPWRYB"
+        },
+        {
+          "branch_name": "Rzeszow Branch",
+          "city": "Rzeszow",
+          "swift_code": "BREXPLPWRZE"
+        },
+        {
+          "branch_name": "70-556 Szczecin",
+          "city": "Szczecin",
+          "swift_code": "BREXPLPWSZC"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mbank Hipoteczny Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "RHBHPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dnb Bank Polska S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "MHBFPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abs Bank Spoldzielczy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Andrychow",
+          "swift_code": "SPAYPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Bransku",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bransk",
+          "swift_code": "SPBNPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Bilgoraju",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bilgoraj",
+          "swift_code": "SPBJPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Bielsku Podlaskim",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bielsk Podlaski",
+          "swift_code": "MAKIPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Blazowej",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Blazowa",
+          "swift_code": "SPBWPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Bieczu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Biecz",
+          "swift_code": "SPBUPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Bialobrzegach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bialobrzegi",
+          "swift_code": "BSBIPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Bialej Rawskiej",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Biala Rawska",
+          "swift_code": "SPBSPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Belsku Duzym",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Belsk Duzy",
+          "swift_code": "BELDPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aig Bank Polska S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wroclaw",
+          "swift_code": "AIPOPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Andrespolu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Andrespol",
+          "swift_code": "SPAOPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Aleksandrowie Lodzkim",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Aleksandrow Lodzki",
+          "swift_code": "SPEOPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Belchatowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Belchatow",
+          "swift_code": "SBELPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Baborowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baborow",
+          "swift_code": "SPOBPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy Rzemiosla W Radomiu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Radom",
+          "swift_code": "SPOZPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Bialej Podlaskiej",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Biala Podlaska",
+          "swift_code": "SPBPPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy Rzemiosla W Lodzi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lodz",
+          "swift_code": "BSRLPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy Rzemiosla W Krakowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Krakow",
+          "swift_code": "SPZKPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy Muszyna-krynica Zdroj",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Muszyna",
+          "swift_code": "SPUZPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy Mazowsze W Plocku",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Plock",
+          "swift_code": "SPMPPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arcelormittal Poland Spolka Akcyjna",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Katowice",
+          "swift_code": "USINPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy Nadarzyn",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nadarzyn",
+          "swift_code": "SPNDPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Glinojecku",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Glinojeck",
+          "swift_code": "SPGIPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Glogowku",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Glogowek",
+          "swift_code": "SPGOPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Gasocinie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gasocin",
+          "swift_code": "GASBPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Gabinie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gabin",
+          "swift_code": "SPGBPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Garwolinie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Garwolin",
+          "swift_code": "SPGAPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Dzialdowie Z/s W Lidzbarku",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lidzbark",
+          "swift_code": "DZLKPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Dynowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dynow",
+          "swift_code": "SPDYPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Dobrzeniu Wielkim",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dobrzen Wielki",
+          "swift_code": "SPDWPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Gliwicach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gliwice",
+          "swift_code": "SPGWPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Dobczycach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dobczyce",
+          "swift_code": "SPDOPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Dolhobyczowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dolhobyczow",
+          "swift_code": "SPOLPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Cieszynie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cieszyn",
+          "swift_code": "SPCNPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Chynowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chynow",
+          "swift_code": "SPCYPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Chrzanowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chrzanow",
+          "swift_code": "SPCRPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Chojnowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chojnow",
+          "swift_code": "SPCJPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Chemnie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chelmno",
+          "swift_code": "CULMPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Busku-zdroju",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Busko-zdroj",
+          "swift_code": "SPUKPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Lipsku",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lipsko",
+          "swift_code": "SLIPPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Czyzewie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Czyzew",
+          "swift_code": "SPCZPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Lesznowoli",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lesznowola",
+          "swift_code": "BSLCPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Ciechanowcu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ciechanowiec",
+          "swift_code": "SPCCPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Glogowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Glogow",
+          "swift_code": "SPOGPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Lipnie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lipno",
+          "swift_code": "LIPNPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Limanowej",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limanowa",
+          "swift_code": "SPLMPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Lesnicy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Strzelce Opolskie",
+          "swift_code": "SPLYPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Legionowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Legionowo",
+          "swift_code": "SPLGPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Lesniowicach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lesniowice",
+          "swift_code": "SPLWPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Krzeszowicach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Krzeszowice",
+          "swift_code": "SPKZPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Lapach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lapy",
+          "swift_code": "BSLPPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Kroscienku N/d",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kroscienko",
+          "swift_code": "SPRUPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Krasnymstawie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Krasnystaw",
+          "swift_code": "SPKYPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Krosniewicach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Krosniewice",
+          "swift_code": "BSKRPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Ksiezpolu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ksiezpol",
+          "swift_code": "SPIPPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Laszczowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Laszczow",
+          "swift_code": "SPACPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Krapkowicach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Krapkowice",
+          "swift_code": "SPKKPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Kleszczowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kleszczow",
+          "swift_code": "KLESPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Kielcach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kielce",
+          "swift_code": "SPEHPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Ketach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kety",
+          "swift_code": "SPKTPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Konskich",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Konskie",
+          "swift_code": "SPKCPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Karczewie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karczew",
+          "swift_code": "BSKAPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Kamiennej Gorze",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kamienna Gora",
+          "swift_code": "SPKEPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Kadzidle",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kadzidlo",
+          "swift_code": "SPDDPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Kozuchowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kozuchow",
+          "swift_code": "SPOUPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Jasiencu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jasieniec",
+          "swift_code": "SPJSPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Jaroslawiu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jaroslaw",
+          "swift_code": "SPOAPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Jablonce",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jablonka",
+          "swift_code": "SPJBPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Izbicy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Izbica",
+          "swift_code": "SPIZPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Ilzy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ilza",
+          "swift_code": "SPIYPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Ilowej",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ilowa",
+          "swift_code": "SPIWPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Grudusku",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Grudusk",
+          "swift_code": "BSGRPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Grojcu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Grojec",
+          "swift_code": "BSGJPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Grodzisku Mazowieckim",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Grodzisk Mazowiecki",
+          "swift_code": "SPGZPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Goworowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Goworowo",
+          "swift_code": "BSGOPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Jordanowie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jordanow",
+          "swift_code": "SPJOPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Gogolinie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gogolin",
+          "swift_code": "SPGNPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Glownie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Glowno",
+          "swift_code": "BSGLPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Pultusku",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pultusk",
+          "swift_code": "SPPUPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Przysusze",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Przysucha",
+          "swift_code": "MGRZPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Przedborzu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Przedborz",
+          "swift_code": "SPERPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Proszowicach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Proszowice",
+          "swift_code": "SPPWPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Przeworsku",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Przeworsk",
+          "swift_code": "SPPZPLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Rabie Wyznej",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Raba Wyzna",
+          "swift_code": "SPRJPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Poniatowej",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Poniatowa",
+          "swift_code": "SPPNPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Poddebicach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Poddebice",
+          "swift_code": "SPPEPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Plonsku",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Plonsk",
+          "swift_code": "PLONPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Pionkach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pionki",
+          "swift_code": "BSPIPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Pawlowicach",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pawlowice",
+          "swift_code": "SPWWPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Ostrowi Mazowieckiej",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ostrow Mazowiecka",
+          "swift_code": "SPOMPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Hajnowce",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hajnowka",
+          "swift_code": "HAJNPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Ostrolece",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ostroleka",
+          "swift_code": "OSTRPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Oswiecimiu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oswiecim",
+          "swift_code": "SPOWPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Otwocku",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Otwock",
+          "swift_code": "BSOTPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Piasecznie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Piaseczno",
+          "swift_code": "SPPIPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Opocznie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Opoczno",
+          "swift_code": "SPOPPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Spoldzielczy W Jastrzebiu Zdroju",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jastrzebie Zdroj",
+          "swift_code": "SPJZPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Securities Poland Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "PARBPLPXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas S.A. Branch In Poland",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "BNPAPLPXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bondspot S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "BONPPLP9XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Bank Polska S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "PPABPLPKXXX"
+        },
+        {
+          "branch_name": "Bielsko Biala Branch",
+          "city": "Bielsko Biala",
+          "swift_code": "PPABPLP1BB1"
+        },
+        {
+          "branch_name": "Bydgoszcz Branch",
+          "city": "Bydgoszcz",
+          "swift_code": "PPABPLP1BY1"
+        },
+        {
+          "branch_name": "Chestochowa Branch",
+          "city": "Czestochowa",
+          "swift_code": "PPABPLP1CZ1"
+        },
+        {
+          "branch_name": "Gdansk Branch",
+          "city": "Gdansk",
+          "swift_code": "PPABPLP1GD1"
+        },
+        {
+          "branch_name": "Gliwice Branch",
+          "city": "Gliwice",
+          "swift_code": "PPABPLP1GL1"
+        },
+        {
+          "branch_name": "Gdynia Branch",
+          "city": "Gdynia",
+          "swift_code": "PPABPLP1GY1"
+        },
+        {
+          "branch_name": "Personal Banking Sub-branch",
+          "city": "Katowice",
+          "swift_code": "PPABPLP1KF1"
+        },
+        {
+          "branch_name": "Kielce Branch",
+          "city": "Kielce",
+          "swift_code": "PPABPLP1KI1"
+        },
+        {
+          "branch_name": "1st Krakow Branch",
+          "city": "Krakow",
+          "swift_code": "PPABPLP1KR1"
+        },
+        {
+          "branch_name": "2nd Krakow Branch",
+          "city": "Krakow",
+          "swift_code": "PPABPLP1KR2"
+        },
+        {
+          "branch_name": "3rd Krakow Branch",
+          "city": "Krakow",
+          "swift_code": "PPABPLP1KR3"
+        },
+        {
+          "branch_name": "Katowice Branch",
+          "city": "Katowice",
+          "swift_code": "PPABPLP1KT1"
+        },
+        {
+          "branch_name": "Lodz Branch",
+          "city": "Lodz",
+          "swift_code": "PPABPLP1LD1"
+        },
+        {
+          "branch_name": "Personal Banking Sub-branch",
+          "city": "Lodz",
+          "swift_code": "PPABPLP1LF1"
+        },
+        {
+          "branch_name": "Lublin Branch",
+          "city": "Lublin",
+          "swift_code": "PPABPLP1LU1"
+        },
+        {
+          "branch_name": "10012 Olsztyn",
+          "city": "Olsztyn",
+          "swift_code": "PPABPLP1OL1"
+        },
+        {
+          "branch_name": "45058 Opole",
+          "city": "Opole",
+          "swift_code": "PPABPLP1OP1"
+        },
+        {
+          "branch_name": "Personal Banking Sub-branch",
+          "city": "Poznan",
+          "swift_code": "PPABPLP1PF1"
+        },
+        {
+          "branch_name": "Poznan Branch",
+          "city": "Poznan",
+          "swift_code": "PPABPLP1PO1"
+        },
+        {
+          "branch_name": "35069 Rzeszow",
+          "city": "Rzeszow",
+          "swift_code": "PPABPLP1RZ1"
+        },
+        {
+          "branch_name": "Szczecin Branch",
+          "city": "Szczecin",
+          "swift_code": "PPABPLP1SZ1"
+        },
+        {
+          "branch_name": "87100 Torun",
+          "city": "Torun",
+          "swift_code": "PPABPLP1TO1"
+        },
+        {
+          "branch_name": "1st Warszawa Branch",
+          "city": "Warszawa",
+          "swift_code": "PPABPLP1WA1"
+        },
+        {
+          "branch_name": "2nd Warszawa Branch",
+          "city": "Warszawa",
+          "swift_code": "PPABPLP1WA2"
+        },
+        {
+          "branch_name": "3rd Warszawa Branch",
+          "city": "Warszawa",
+          "swift_code": "PPABPLP1WA3"
+        },
+        {
+          "branch_name": "4th Warszawa Branch",
+          "city": "Warszawa",
+          "swift_code": "PPABPLP1WA4"
+        },
+        {
+          "branch_name": "Personal Banking Sub-branch 4",
+          "city": "Warszawa",
+          "swift_code": "PPABPLP1WF4"
+        },
+        {
+          "branch_name": "Personal Banking Sub-branch 2",
+          "city": "Warszawa",
+          "swift_code": "PPABPLP1WF6"
+        },
+        {
+          "branch_name": "Wroclaw Branch",
+          "city": "Wroclaw",
+          "swift_code": "PPABPLP1WR1"
+        },
+        {
+          "branch_name": "Personal Banking Sub-branch",
+          "city": "Wroclaw",
+          "swift_code": "PPABPLP1WR2"
+        },
+        {
+          "branch_name": "Zakopane Branch",
+          "city": "Zakopane",
+          "swift_code": "PPABPLP1ZK1"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Zachodni Wbk Sa",
+      "branches": [
+        {
+          "branch_name": "Bzwbk Brokerage House",
+          "city": "Poznan",
+          "swift_code": "WBKPPLPPCBM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Wroclaw",
+          "swift_code": "WBKPPLPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Polskiej Spoldzielczosci Spolka Akcyjna",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "POLUPLPRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Zachodni Wbk S.A.(Formerly Kredyt Bank S.A.)",
+      "branches": [
+        {
+          "branch_name": "15 232 Bialystok",
+          "city": "Bialystok",
+          "swift_code": "KRDBPLPWBIA"
+        },
+        {
+          "branch_name": "Branch 2",
+          "city": "Gdansk",
+          "swift_code": "KRDBPLPWGDB"
+        },
+        {
+          "branch_name": "80-868 Gdansk",
+          "city": "Gdansk",
+          "swift_code": "KRDBPLPWGDA"
+        },
+        {
+          "branch_name": "Branch",
+          "city": "Katowice",
+          "swift_code": "KRDBPLPWKAT"
+        },
+        {
+          "branch_name": "75 523 Koszalin",
+          "city": "Koszalin",
+          "swift_code": "KRDBPLPWKOS"
+        },
+        {
+          "branch_name": "31 058 Krakow",
+          "city": "Krakow",
+          "swift_code": "KRDBPLPWKRA"
+        },
+        {
+          "branch_name": "91 059 Lodz",
+          "city": "Lodz",
+          "swift_code": "KRDBPLPWLOD"
+        },
+        {
+          "branch_name": "64-920 Pila",
+          "city": "Pila",
+          "swift_code": "KRDBPLPWPIL"
+        },
+        {
+          "branch_name": "First Branch",
+          "city": "Poznan",
+          "swift_code": "KRDBPLPWPOZ"
+        },
+        {
+          "branch_name": "Second Branch",
+          "city": "Poznan",
+          "swift_code": "KRDBPLPWPOB"
+        },
+        {
+          "branch_name": "05 090 Raszyn",
+          "city": "Raszyn",
+          "swift_code": "KRDBPLPWRAS"
+        },
+        {
+          "branch_name": "35-068 Rzeszow",
+          "city": "Rzeszow",
+          "swift_code": "KRDBPLPWRZE"
+        },
+        {
+          "branch_name": "Branch",
+          "city": "Szczecin",
+          "swift_code": "KRDBPLPWSZC"
+        },
+        {
+          "branch_name": "Branch 1",
+          "city": "Warszawa",
+          "swift_code": "KRDBPLPWWAA"
+        },
+        {
+          "branch_name": "Branch 5",
+          "city": "Warszawa",
+          "swift_code": "KRDBPLPWWAE"
+        },
+        {
+          "branch_name": "Branch Nr 2",
+          "city": "Warszawa",
+          "swift_code": "KRDBPLPWWAB"
+        },
+        {
+          "branch_name": "Branch Nr 3",
+          "city": "Warszawa",
+          "swift_code": "KRDBPLPWWAC"
+        },
+        {
+          "branch_name": "Custody Department",
+          "city": "Warszawa",
+          "swift_code": "KRDBPLPWCUS"
+        },
+        {
+          "branch_name": "Branch Nr 1",
+          "city": "Wroclaw",
+          "swift_code": "KRDBPLPWWRA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Wroclaw",
+          "swift_code": "KRDBPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of China (Luxembourg) S.A. Poland Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "BKCHPLPXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Ochrony Srodowiska S.A.",
+      "branches": [
+        {
+          "branch_name": "Bialystok",
+          "city": "Bialystok",
+          "swift_code": "EBOSPLPW216"
+        },
+        {
+          "branch_name": "Bielsko Biala",
+          "city": "Bielsko Biala",
+          "swift_code": "EBOSPLPW261"
+        },
+        {
+          "branch_name": "Bydgoszcz",
+          "city": "Bydgoszcz",
+          "swift_code": "EBOSPLPW018"
+        },
+        {
+          "branch_name": "Chelm",
+          "city": "Chelm",
+          "swift_code": "EBOSPLPWCHA"
+        },
+        {
+          "branch_name": "Czestochowa",
+          "city": "Czestochowa",
+          "swift_code": "EBOSPLPW005"
+        },
+        {
+          "branch_name": "Elblag",
+          "city": "Elblag",
+          "swift_code": "EBOSPLPW274"
+        },
+        {
+          "branch_name": "Gdansk",
+          "city": "Gdansk",
+          "swift_code": "EBOSPLPW089"
+        },
+        {
+          "branch_name": "Jelenia Gora",
+          "city": "Jelenia Gora",
+          "swift_code": "EBOSPLPW199"
+        },
+        {
+          "branch_name": "Katowice",
+          "city": "Katowice",
+          "swift_code": "EBOSPLPW119"
+        },
+        {
+          "branch_name": "Kielce",
+          "city": "Kielce",
+          "swift_code": "EBOSPLPWKIA"
+        },
+        {
+          "branch_name": "Konin",
+          "city": "Konin",
+          "swift_code": "EBOSPLPW232"
+        },
+        {
+          "branch_name": "Koszalin",
+          "city": "Koszalin",
+          "swift_code": "EBOSPLPW034"
+        },
+        {
+          "branch_name": "Krakow",
+          "city": "Krakow",
+          "swift_code": "EBOSPLPW106"
+        },
+        {
+          "branch_name": "Legnica",
+          "city": "Legnica",
+          "swift_code": "EBOSPLPW258"
+        },
+        {
+          "branch_name": "Lodz",
+          "city": "Lodz",
+          "swift_code": "EBOSPLPW245"
+        },
+        {
+          "branch_name": "Lomza",
+          "city": "Lomza",
+          "swift_code": "EBOSPLPWLOA"
+        },
+        {
+          "branch_name": "Lublin",
+          "city": "Lublin",
+          "swift_code": "EBOSPLPW135"
+        },
+        {
+          "branch_name": "Pila",
+          "city": "Pila",
+          "swift_code": "EBOSPLPWPIA"
+        },
+        {
+          "branch_name": "Plock",
+          "city": "Plock",
+          "swift_code": "EBOSPLPW290"
+        },
+        {
+          "branch_name": "Poznan",
+          "city": "Poznan",
+          "swift_code": "EBOSPLPW047"
+        },
+        {
+          "branch_name": "Rzeszow",
+          "city": "Rzeszow",
+          "swift_code": "EBOSPLPW122"
+        },
+        {
+          "branch_name": "Suwalki",
+          "city": "Suwalki",
+          "swift_code": "EBOSPLPWSUA"
+        },
+        {
+          "branch_name": "Szczecin",
+          "city": "Szczecin",
+          "swift_code": "EBOSPLPW076"
+        },
+        {
+          "branch_name": "Tarnow",
+          "city": "Tarnow",
+          "swift_code": "EBOSPLPW252"
+        },
+        {
+          "branch_name": "Torun",
+          "city": "Torun",
+          "swift_code": "EBOSPLPW304"
+        },
+        {
+          "branch_name": "Corporate Clients Unit",
+          "city": "Warszawa",
+          "swift_code": "EBOSPLPW017"
+        },
+        {
+          "branch_name": "Io Warszawa",
+          "city": "Warszawa",
+          "swift_code": "EBOSPLPW102"
+        },
+        {
+          "branch_name": "Iio Warszawa",
+          "city": "Warszawa",
+          "swift_code": "EBOSPLPW157"
+        },
+        {
+          "branch_name": "Iiio Warszawa",
+          "city": "Warszawa",
+          "swift_code": "EBOSPLPW287"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "EBOSPLPWXXX"
+        },
+        {
+          "branch_name": "Wloclawek",
+          "city": "Wloclawek",
+          "swift_code": "EBOSPLPW050"
+        },
+        {
+          "branch_name": "Wroclaw",
+          "city": "Wroclaw",
+          "swift_code": "EBOSPLPW021"
+        },
+        {
+          "branch_name": "Zamosc",
+          "city": "Zamosc",
+          "swift_code": "EBOSPLPWZAA"
+        },
+        {
+          "branch_name": "Olsztyn",
+          "city": "Olsztyn",
+          "swift_code": "EBOSPLPW063"
+        },
+        {
+          "branch_name": "Oborniki Wielkopolkie",
+          "city": "Oborniki",
+          "swift_code": "EBOSPLPW210"
+        },
+        {
+          "branch_name": "Ostrow Wielkopolski",
+          "city": "Ostrow Wielkopolski",
+          "swift_code": "EBOSPLPW223"
+        },
+        {
+          "branch_name": "Opole",
+          "city": "Opole",
+          "swift_code": "EBOSPLPW229"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Polska Kasa Opieki Sa \u2013 Bank Pekao Sa",
+      "branches": [
+        {
+          "branch_name": "Krakow Regional Office",
+          "city": "Krakow",
+          "swift_code": "PKOPPLPWKRA"
+        },
+        {
+          "branch_name": "Custody",
+          "city": "Warszawa",
+          "swift_code": "PKOPPLPWCUS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "PKOPPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Handlowy W Warszawie Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "CITIPLPXXXX"
+        },
+        {
+          "branch_name": "Bank Handlowy W Warszawie Sa",
+          "city": "Warszawa",
+          "swift_code": "CITIPLPXCCH"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Millennium S.A.",
+      "branches": [
+        {
+          "branch_name": "Custody Department",
+          "city": "Warszawa",
+          "swift_code": "BIGBPLPWCUS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "BIGBPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Gospodarstwa Krajowego",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "GOSKPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Bph Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gdansk",
+          "swift_code": "BPHKPLPKXXX"
+        },
+        {
+          "branch_name": "Custody Department",
+          "city": "Warszawa",
+          "swift_code": "BPHKPLPKCUS"
+        },
+        {
+          "branch_name": "Biuro Maklerskie Banku Bph Sa",
+          "city": "Krakow",
+          "swift_code": "BPHKPLP1BMK"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alior Bank Spolka Akcyjna",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "ALBPPLPWXXX"
+        },
+        {
+          "branch_name": "Biuro Maklerskie",
+          "city": "Warszawa",
+          "swift_code": "ALBPPLP1BMW"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Espirito Santo De Investimento S.A. Spolka Akcyjna Oddzial W Polsce",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "ESSIPLPXXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "ESSIPLP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Gospodarki Zywnosciowej S.A.",
+      "branches": [
+        {
+          "branch_name": "Brokerage Office",
+          "city": "Warszawa",
+          "swift_code": "GOPZPLPWBRK"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "GOPZPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atlantic Fund Services Sp. Z O.O.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "AFSLPLPWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Tokyo-Mitsubishi Ufj (Polska) Spolka Akcyjna",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warszawa",
+          "swift_code": "BOTKPLPWXXX"
+        }
+      ]
+    }
+  ]
+}

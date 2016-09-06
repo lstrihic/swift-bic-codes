@@ -1,0 +1,827 @@
+{
+  "country_name": "Belarus",
+  "alpha_2": "BY",
+  "country_code": "112",
+  "banks": [
+    {
+      "bank_name": "Zepter Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "ZEPTBY2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trustbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "TRUEBY2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trade And Industrial Bank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "TRIUBY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Republican Unitary Enterprise 'republican Central Ecurities Depository'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "RUERBY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Severny Investicionny Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "SEVNBY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Reconversion And Development Bank Jsb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "REDJBY22XXX"
+        },
+        {
+          "branch_name": "Branch 2-vitebsk",
+          "city": "Vitebsk",
+          "swift_code": "REDJBY21258"
+        }
+      ]
+    },
+    {
+      "bank_name": "Priorbank",
+      "branches": [
+        {
+          "branch_name": "Brest Branch",
+          "city": "Brest",
+          "swift_code": "PJCBBY2XBRS"
+        },
+        {
+          "branch_name": "Gomel Branch",
+          "city": "Gomel",
+          "swift_code": "PJCBBY2XGML"
+        },
+        {
+          "branch_name": "Grodno Branch",
+          "city": "Grodno",
+          "swift_code": "PJCBBY2XGRD"
+        },
+        {
+          "branch_name": "Mogilev Branch",
+          "city": "Mogilev",
+          "swift_code": "PJCBBY2XMGL"
+        },
+        {
+          "branch_name": "Minsk Branch",
+          "city": "Minsk",
+          "swift_code": "PJCBBY2XMNK"
+        },
+        {
+          "branch_name": "Vitebsk Branch",
+          "city": "Vitebsk",
+          "swift_code": "PJCBBY2XVTB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "PJCBBY2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Open Joint-stock Company 'paritetbank', Minsk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "POISBY2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Republic Belarus",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "NBRBBY2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Minsk Transit Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "MTBKBY22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Joint-stock Company 'eurobank'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "EUBKBY2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Joint-stock Company 'development Bank Of The Republic Of Belarus'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "BRRBBY2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Joint Stock Company 'technobank'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "TECNBY22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interpaybank Joint Stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "IPBKBY2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Idea Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "SOMABY22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Home Credit Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "LOJSBY22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fransabank Ojsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "GTBNBY22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurotorginvestbank Joint Stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "IRJSBY22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Delta Bank Joint-stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "ATOMBY2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Closed Joint Stock Company 'bank Of Investment Technologies'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "BITMBY22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cjsc Vtb Bank (belarus",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "SLANBY22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bps-sberbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "BPSBBY2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Belswiss Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "UNBSBY2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Belorussian-russian Belgazprombank Joint Stock",
+      "branches": [
+        {
+          "branch_name": "Branch 1",
+          "city": "Minsk",
+          "swift_code": "OLMPBY21130"
+        },
+        {
+          "branch_name": "Branch 3",
+          "city": "Brest",
+          "swift_code": "OLMPBY21171"
+        },
+        {
+          "branch_name": "Branch 2",
+          "city": "Minsk",
+          "swift_code": "OLMPBY21180"
+        },
+        {
+          "branch_name": "Branch 6",
+          "city": "Grodno",
+          "swift_code": "OLMPBY21194"
+        },
+        {
+          "branch_name": "Branch 7",
+          "city": "Mogilev",
+          "swift_code": "OLMPBY21232"
+        },
+        {
+          "branch_name": "Branch 5",
+          "city": "Vitebsk",
+          "swift_code": "OLMPBY21238"
+        },
+        {
+          "branch_name": "Branch 8",
+          "city": "Gomel",
+          "swift_code": "OLMPBY21758"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "OLMPBY2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Belorussian-russian Belgazprombank",
+      "branches": [
+        {
+          "branch_name": "Branch 4",
+          "city": "Minsk",
+          "swift_code": "OLMPBY21107"
+        }
+      ]
+    },
+    {
+      "bank_name": "Belinvestbank Jsc",
+      "branches": [
+        {
+          "branch_name": "General Operational Department",
+          "city": "Minsk",
+          "swift_code": "BLBBBY21739"
+        },
+        {
+          "branch_name": "Brest Regional Branch",
+          "city": "Brest",
+          "swift_code": "BLBBBY2XBRD"
+        },
+        {
+          "branch_name": "Branch 539",
+          "city": "Minsk",
+          "swift_code": "BLBBBY2XCBD"
+        },
+        {
+          "branch_name": "Branch 540",
+          "city": "Minsk",
+          "swift_code": "BLBBBY2XDIC"
+        },
+        {
+          "branch_name": "Gomel Regional Branch",
+          "city": "Gomel",
+          "swift_code": "BLBBBY2XGOM"
+        },
+        {
+          "branch_name": "Grodno Regional Directorate",
+          "city": "Grodno",
+          "swift_code": "BLBBBY2XGRD"
+        },
+        {
+          "branch_name": "Mogilev Regional Directorate",
+          "city": "Mogilev",
+          "swift_code": "BLBBBY2XMOG"
+        },
+        {
+          "branch_name": "Branch 537",
+          "city": "Minsk",
+          "swift_code": "BLBBBY2XMRD"
+        },
+        {
+          "branch_name": "Vitebsk Regional Branch",
+          "city": "Vitebsk",
+          "swift_code": "BLBBBY2XVRD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "BLBBBY2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Belarusky Narodny Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "BLNBBY2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Belarusian Bank For Small Business",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "BBSBBY2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Belarusbank",
+      "branches": [
+        {
+          "branch_name": "Brest Regional Branch 100",
+          "city": "Brest",
+          "swift_code": "AKBBBY21100"
+        },
+        {
+          "branch_name": "Kobrin Branch 113",
+          "city": "Kobrin",
+          "swift_code": "AKBBBY21113"
+        },
+        {
+          "branch_name": "Pinsk Branch 121",
+          "city": "Pinsk",
+          "swift_code": "AKBBBY21121"
+        },
+        {
+          "branch_name": "Vitebsk Regional Branch 200",
+          "city": "Vitebsk",
+          "swift_code": "AKBBBY21200"
+        },
+        {
+          "branch_name": "Novopolotsk Branch 214",
+          "city": "Novopolotsk",
+          "swift_code": "AKBBBY21214"
+        },
+        {
+          "branch_name": "Orsha Branch 215",
+          "city": "Orsha",
+          "swift_code": "AKBBBY21215"
+        },
+        {
+          "branch_name": "Polotsk Branch 216",
+          "city": "Polotsk",
+          "swift_code": "AKBBBY21216"
+        },
+        {
+          "branch_name": "Gomel Regional Branch 300",
+          "city": "Gomel",
+          "swift_code": "AKBBBY21300"
+        },
+        {
+          "branch_name": "Gomel Branch 302",
+          "city": "Gomel",
+          "swift_code": "AKBBBY21302"
+        },
+        {
+          "branch_name": "Zhlobin Branch 312",
+          "city": "Zhlobin",
+          "swift_code": "AKBBBY21312"
+        },
+        {
+          "branch_name": "Mozir Branch 317",
+          "city": "Mozir",
+          "swift_code": "AKBBBY21317"
+        },
+        {
+          "branch_name": "Grodno Regional Branch 400",
+          "city": "Grodno",
+          "swift_code": "AKBBBY21400"
+        },
+        {
+          "branch_name": "Volkovisk Branch 402",
+          "city": "Volkovisk",
+          "swift_code": "AKBBBY21402"
+        },
+        {
+          "branch_name": "Lida Branch 413",
+          "city": "Lida",
+          "swift_code": "AKBBBY21413"
+        },
+        {
+          "branch_name": "Smorgon Branch 423",
+          "city": "Smorgon",
+          "swift_code": "AKBBBY21423"
+        },
+        {
+          "branch_name": "Minsk Regional Branch 500",
+          "city": "Minsk",
+          "swift_code": "AKBBBY21500"
+        },
+        {
+          "branch_name": "Minsk Branch 510",
+          "city": "Minsk",
+          "swift_code": "AKBBBY21510"
+        },
+        {
+          "branch_name": "Minsk Branch 511",
+          "city": "Minsk",
+          "swift_code": "AKBBBY21511"
+        },
+        {
+          "branch_name": "Minsk Branch 514",
+          "city": "Minsk",
+          "swift_code": "AKBBBY21514"
+        },
+        {
+          "branch_name": "Minsk Branch 519",
+          "city": "Minsk",
+          "swift_code": "AKBBBY21519"
+        },
+        {
+          "branch_name": "Minsk Branch 527",
+          "city": "Minsk",
+          "swift_code": "AKBBBY21527"
+        },
+        {
+          "branch_name": "Minsk Branch 529",
+          "city": "Minsk",
+          "swift_code": "AKBBBY21529"
+        },
+        {
+          "branch_name": "Molodechno Branch 601",
+          "city": "Molodechno",
+          "swift_code": "AKBBBY21601"
+        },
+        {
+          "branch_name": "Borisov Branch 612",
+          "city": "Borisov",
+          "swift_code": "AKBBBY21612"
+        },
+        {
+          "branch_name": "Minsk Branch 614",
+          "city": "Minsk",
+          "swift_code": "AKBBBY21614"
+        },
+        {
+          "branch_name": "Slutsk Branch 615",
+          "city": "Slutsk",
+          "swift_code": "AKBBBY21615"
+        },
+        {
+          "branch_name": "Zhodino Branch 616",
+          "city": "Zhodino",
+          "swift_code": "AKBBBY21616"
+        },
+        {
+          "branch_name": "Nesvizh Branch 620",
+          "city": "Nesvizh",
+          "swift_code": "AKBBBY21620"
+        },
+        {
+          "branch_name": "Soligorsk Branch 633",
+          "city": "Soligorsk",
+          "swift_code": "AKBBBY21633"
+        },
+        {
+          "branch_name": "Mogilev Regional Branch 700",
+          "city": "Mogilev",
+          "swift_code": "AKBBBY21700"
+        },
+        {
+          "branch_name": "Bobruisk Branch 703",
+          "city": "Bobruisk",
+          "swift_code": "AKBBBY21703"
+        },
+        {
+          "branch_name": "Kostukovichi Branch 712",
+          "city": "Kostukovichi",
+          "swift_code": "AKBBBY21712"
+        },
+        {
+          "branch_name": "Krichev Branch 714",
+          "city": "Krichev",
+          "swift_code": "AKBBBY21714"
+        },
+        {
+          "branch_name": "Shklov Branch 726",
+          "city": "Shklov",
+          "swift_code": "AKBBBY21726"
+        },
+        {
+          "branch_name": "Baranovichi Branch 802",
+          "city": "Baranovichi",
+          "swift_code": "AKBBBY21802"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "AKBBBY2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Belveb Ojsc",
+      "branches": [
+        {
+          "branch_name": "Brest Regional Branch",
+          "city": "Brest",
+          "swift_code": "BELBBY21201"
+        },
+        {
+          "branch_name": "Mogilev Regional Branch",
+          "city": "Mogilev",
+          "swift_code": "BELBBY21202"
+        },
+        {
+          "branch_name": "Borisov",
+          "city": "Borisov",
+          "swift_code": "BELBBY21203"
+        },
+        {
+          "branch_name": "Grodno Regional Branch",
+          "city": "Grodno",
+          "swift_code": "BELBBY21204"
+        },
+        {
+          "branch_name": "Mozyr",
+          "city": "Mozir",
+          "swift_code": "BELBBY21205"
+        },
+        {
+          "branch_name": "Orsha",
+          "city": "Orsha",
+          "swift_code": "BELBBY21206"
+        },
+        {
+          "branch_name": "Baranovichi",
+          "city": "Baranovichi",
+          "swift_code": "BELBBY21207"
+        },
+        {
+          "branch_name": "Vitebsk Regional Branch",
+          "city": "Vitebsk",
+          "swift_code": "BELBBY21208"
+        },
+        {
+          "branch_name": "Minsk Branch 1",
+          "city": "Minsk",
+          "swift_code": "BELBBY21209"
+        },
+        {
+          "branch_name": "Kobrin",
+          "city": "Kobrin",
+          "swift_code": "BELBBY21210"
+        },
+        {
+          "branch_name": "Molodechno",
+          "city": "Molodechno",
+          "swift_code": "BELBBY21211"
+        },
+        {
+          "branch_name": "Pinsk",
+          "city": "Pinsk",
+          "swift_code": "BELBBY21212"
+        },
+        {
+          "branch_name": "Gomel Regional Branch",
+          "city": "Gomel",
+          "swift_code": "BELBBY21213"
+        },
+        {
+          "branch_name": "Bobruisk",
+          "city": "Bobruisk",
+          "swift_code": "BELBBY21214"
+        },
+        {
+          "branch_name": "Minsk Branch 2",
+          "city": "Minsk",
+          "swift_code": "BELBBY21215"
+        },
+        {
+          "branch_name": "Lida",
+          "city": "Lida",
+          "swift_code": "BELBBY21216"
+        },
+        {
+          "branch_name": "Minsk Branch 3",
+          "city": "Minsk",
+          "swift_code": "BELBBY21217"
+        },
+        {
+          "branch_name": "Volkovisk",
+          "city": "Volkovisk",
+          "swift_code": "BELBBY21219"
+        },
+        {
+          "branch_name": "Minsk Branch 4",
+          "city": "Minsk",
+          "swift_code": "BELBBY21220"
+        },
+        {
+          "branch_name": "Rechitsa",
+          "city": "Rechitsa",
+          "swift_code": "BELBBY21221"
+        },
+        {
+          "branch_name": "Minsk Branch 5",
+          "city": "Minsk",
+          "swift_code": "BELBBY21251"
+        },
+        {
+          "branch_name": "Minsk Branch Central",
+          "city": "Minsk",
+          "swift_code": "BELBBY21728"
+        },
+        {
+          "branch_name": "Glubokoye",
+          "city": "Glubokoye",
+          "swift_code": "BELBBY21794"
+        },
+        {
+          "branch_name": "Verkhnedvinsk",
+          "city": "Verkhnedvinsk",
+          "swift_code": "BELBBY21848"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "BELBBY2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Absolutbank, Joint-stock Company",
+      "branches": [
+        {
+          "branch_name": "Minsk Branch 101",
+          "city": "Minsk",
+          "swift_code": "ABLTBY22240"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "ABLTBY22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "'belagroprombank' Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "BAPBBY2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Moscow-minsk Jsc",
+      "branches": [
+        {
+          "branch_name": "Mogilev Branch",
+          "city": "Mogilev",
+          "swift_code": "MMBNBY21271"
+        },
+        {
+          "branch_name": "Gomel Branch",
+          "city": "Gomel",
+          "swift_code": "MMBNBY21275"
+        },
+        {
+          "branch_name": "Vitebsk Branch",
+          "city": "Vitebsk",
+          "swift_code": "MMBNBY21277"
+        },
+        {
+          "branch_name": "Grodno Branch",
+          "city": "Grodno",
+          "swift_code": "MMBNBY21279"
+        },
+        {
+          "branch_name": "Brest Branch",
+          "city": "Brest",
+          "swift_code": "MMBNBY21282"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "MMBNBY22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alfa-Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minsk",
+          "swift_code": "ALFABY2XXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Moscow",
+          "swift_code": "ALFARUMMXXX"
+        },
+        {
+          "branch_name": "Nizhniy Novgorod Branch",
+          "city": "Nizhniy Novgorod",
+          "swift_code": "ALFARUM1001"
+        },
+        {
+          "branch_name": "St Petersburg Branch",
+          "city": "St. Petersburg",
+          "swift_code": "ALFARUM1002"
+        },
+        {
+          "branch_name": "Ekaterinburg Branch",
+          "city": "Ekaterinburg",
+          "swift_code": "ALFARUM1006"
+        },
+        {
+          "branch_name": "Novosibirsk Branch",
+          "city": "Novosibirsk",
+          "swift_code": "ALFARUM1015"
+        },
+        {
+          "branch_name": "Rostov Branch",
+          "city": "Rostov-On-Don",
+          "swift_code": "ALFARUM1018"
+        },
+        {
+          "branch_name": "Khabarovsk Branch",
+          "city": "Khabarovsk",
+          "swift_code": "ALFARUM1020"
+        },
+        {
+          "branch_name": "355003 Stavropol",
+          "city": "Stavropol",
+          "swift_code": "ALFARUM1037"
+        }
+      ]
+    }
+  ]
+}

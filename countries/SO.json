@@ -1,0 +1,37 @@
+{
+  "country_name": "Somalia",
+  "alpha_2": "SO",
+  "country_code": "706",
+  "banks": [
+    {
+      "bank_name": "National Bank Of Somalia Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mogadiscio",
+          "swift_code": "NASISOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Bank Of Somalia (ibs",
+      "branches": [
+        {
+          "branch_name": "International Bank Of Somalia (ibs",
+          "city": "Mogadiscio",
+          "swift_code": "IBOSSOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Somalia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mogadiscio",
+          "swift_code": "CBSOSOSMXXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,932 @@
+{
+  "country_name": "Cambodia",
+  "alpha_2": "KH",
+  "country_code": "116",
+  "banks": [
+    {
+      "bank_name": "Vietnam Bank For Agriculture And Rural Development Cambodia Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "VBAAKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vattanac Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "VBLCKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Commercial Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "UCBPKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taiwan Cooperative Bank, Phnom Penh Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "TACBKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Singapore Banking Corporation Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "CSBCKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shinhan Khmer Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "SHBKKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shb Plc Phnompenh Branch, Cambodia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "SHBAKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Phnom Penh Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "PPCBKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Osk Indochina Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "OSKIKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Cambodia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "NCAMKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mega International Commercial Bank Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "P.p. Airport Subbranch",
+          "city": "Phnom Penh",
+          "swift_code": "ICBCKHPPPPA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "ICBCKHPPXXX"
+        },
+        {
+          "branch_name": "Kaohsiung Metropolitan Branch",
+          "city": "Kaohsiung",
+          "swift_code": "ICBCTWTP002"
+        },
+        {
+          "branch_name": "Nantze Branch",
+          "city": "Kaohsiung",
+          "swift_code": "ICBCTWTP003"
+        },
+        {
+          "branch_name": "Taichung Branch",
+          "city": "Taichung",
+          "swift_code": "ICBCTWTP004"
+        },
+        {
+          "branch_name": "Chung-hsiao Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP005"
+        },
+        {
+          "branch_name": "Tainan Fucheng Branch",
+          "city": "Tainan",
+          "swift_code": "ICBCTWTP006"
+        },
+        {
+          "branch_name": "H O F D",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP007"
+        },
+        {
+          "branch_name": "Taipei Fusing Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP008"
+        },
+        {
+          "branch_name": "Lan-ya Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP010"
+        },
+        {
+          "branch_name": "Treasury Dept",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP011"
+        },
+        {
+          "branch_name": "San-chung Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP012"
+        },
+        {
+          "branch_name": "Hsin-hsing Branch",
+          "city": "Kaohsiung",
+          "swift_code": "ICBCTWTP013"
+        },
+        {
+          "branch_name": "Tao-yuan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "ICBCTWTP014"
+        },
+        {
+          "branch_name": "Chung-shan Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP015"
+        },
+        {
+          "branch_name": "Kepz Branch",
+          "city": "Kaohsiung",
+          "swift_code": "ICBCTWTP016"
+        },
+        {
+          "branch_name": "Cheng-chung Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP017"
+        },
+        {
+          "branch_name": "North Changhua Branch",
+          "city": "Changhua",
+          "swift_code": "ICBCTWTP018"
+        },
+        {
+          "branch_name": "An Ho Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP019"
+        },
+        {
+          "branch_name": "Hsinchu Science Park Hsin-an Branch",
+          "city": "Hsinchu",
+          "swift_code": "ICBCTWTP020"
+        },
+        {
+          "branch_name": "Tien-mou Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP021"
+        },
+        {
+          "branch_name": "Chiayi Branch",
+          "city": "Chia Yi",
+          "swift_code": "ICBCTWTP022"
+        },
+        {
+          "branch_name": "North Chungli Branch",
+          "city": "Tao-yuan",
+          "swift_code": "ICBCTWTP236"
+        },
+        {
+          "branch_name": "Neihu Science Park Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP237"
+        },
+        {
+          "branch_name": "Shuangho Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP238"
+        },
+        {
+          "branch_name": "Hengyang Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP240"
+        },
+        {
+          "branch_name": "Da Li Branch",
+          "city": "Taichung",
+          "swift_code": "ICBCTWTP241"
+        },
+        {
+          "branch_name": "Tainan Science Park Branch",
+          "city": "Tainan",
+          "swift_code": "ICBCTWTP242"
+        },
+        {
+          "branch_name": "Operation Center",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP915"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTPXXX"
+        },
+        {
+          "branch_name": "Panchiao Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP206"
+        },
+        {
+          "branch_name": "Taohsin Branch",
+          "city": "Tao-yuan",
+          "swift_code": "ICBCTWTP207"
+        },
+        {
+          "branch_name": "Jhubei Branch",
+          "city": "Hsinchu",
+          "swift_code": "ICBCTWTP208"
+        },
+        {
+          "branch_name": "Dunhua Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP210"
+        },
+        {
+          "branch_name": "Chiahsin Branch",
+          "city": "Chia Yi",
+          "swift_code": "ICBCTWTP212"
+        },
+        {
+          "branch_name": "Tainan Branch",
+          "city": "Tainan",
+          "swift_code": "ICBCTWTP213"
+        },
+        {
+          "branch_name": "Pouchen Branch",
+          "city": "Taichung",
+          "swift_code": "ICBCTWTP214"
+        },
+        {
+          "branch_name": "Hsinchu Science Park Chutsuen Branch",
+          "city": "Hsinchu",
+          "swift_code": "ICBCTWTP215"
+        },
+        {
+          "branch_name": "World Trade Center Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP216"
+        },
+        {
+          "branch_name": "South Sanchung Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP219"
+        },
+        {
+          "branch_name": "South Changhwa Branch",
+          "city": "Changhua",
+          "swift_code": "ICBCTWTP220"
+        },
+        {
+          "branch_name": "East Taipei Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP226"
+        },
+        {
+          "branch_name": "Wufu Branch",
+          "city": "Kaohsiung",
+          "swift_code": "ICBCTWTP227"
+        },
+        {
+          "branch_name": "Lotung Branch",
+          "city": "I-lan",
+          "swift_code": "ICBCTWTP228"
+        },
+        {
+          "branch_name": "Taan Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP229"
+        },
+        {
+          "branch_name": "North Taipei Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP231"
+        },
+        {
+          "branch_name": "Hou Li Branch",
+          "city": "Houli",
+          "swift_code": "ICBCTWTP232"
+        },
+        {
+          "branch_name": "Lu Gang",
+          "city": "Changhua",
+          "swift_code": "ICBCTWTP233"
+        },
+        {
+          "branch_name": "Yuanshan Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP234"
+        },
+        {
+          "branch_name": "Szuyuan Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP235"
+        },
+        {
+          "branch_name": "East Tainan Branch",
+          "city": "Tainan",
+          "swift_code": "ICBCTWTP065"
+        },
+        {
+          "branch_name": "Kaohsiung International Airport Branch",
+          "city": "Kaohsiung",
+          "swift_code": "ICBCTWTP066"
+        },
+        {
+          "branch_name": "East Nei-hu Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP067"
+        },
+        {
+          "branch_name": "Tai Ping Branch",
+          "city": "Taichung",
+          "swift_code": "ICBCTWTP068"
+        },
+        {
+          "branch_name": "Chung Ho Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP069"
+        },
+        {
+          "branch_name": "Nanking East Road Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP070"
+        },
+        {
+          "branch_name": "East Taichung Branch",
+          "city": "Taichung",
+          "swift_code": "ICBCTWTP071"
+        },
+        {
+          "branch_name": "North Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "ICBCTWTP072"
+        },
+        {
+          "branch_name": "Nangang Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP074"
+        },
+        {
+          "branch_name": "Zhunan Science Park Branch",
+          "city": "Miao",
+          "swift_code": "ICBCTWTP075"
+        },
+        {
+          "branch_name": "Central Taiwan Science Park",
+          "city": "Taichung",
+          "swift_code": "ICBCTWTP076"
+        },
+        {
+          "branch_name": "Dajia Branch",
+          "city": "Taichung",
+          "swift_code": "ICBCTWTP077"
+        },
+        {
+          "branch_name": "Kinmen Branch",
+          "city": "Kin-men",
+          "swift_code": "ICBCTWTP079"
+        },
+        {
+          "branch_name": "Nan Kan Branch",
+          "city": "Luzhu",
+          "swift_code": "ICBCTWTP080"
+        },
+        {
+          "branch_name": "Rung Tzung Branch",
+          "city": "Taichung",
+          "swift_code": "ICBCTWTP083"
+        },
+        {
+          "branch_name": "Central",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP201"
+        },
+        {
+          "branch_name": "Taipei Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP202"
+        },
+        {
+          "branch_name": "Hsinchu Branch",
+          "city": "Hsinchu",
+          "swift_code": "ICBCTWTP203"
+        },
+        {
+          "branch_name": "Central Taichung Branch",
+          "city": "Taichung",
+          "swift_code": "ICBCTWTP204"
+        },
+        {
+          "branch_name": "Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "ICBCTWTP205"
+        },
+        {
+          "branch_name": "South Taichung Branch",
+          "city": "Taichung",
+          "swift_code": "ICBCTWTP044"
+        },
+        {
+          "branch_name": "Fengshan Branch",
+          "city": "Fengshan",
+          "swift_code": "ICBCTWTP045"
+        },
+        {
+          "branch_name": "Hsintien Branch",
+          "city": "Hsintien",
+          "swift_code": "ICBCTWTP046"
+        },
+        {
+          "branch_name": "East Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "ICBCTWTP047"
+        },
+        {
+          "branch_name": "Hsin Yi Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP048"
+        },
+        {
+          "branch_name": "Keelung Branch",
+          "city": "Keelung",
+          "swift_code": "ICBCTWTP049"
+        },
+        {
+          "branch_name": "Yung Kang Branch",
+          "city": "Tainan",
+          "swift_code": "ICBCTWTP050"
+        },
+        {
+          "branch_name": "Nei Hu Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP051"
+        },
+        {
+          "branch_name": "Kang Shan Branch",
+          "city": "Kaohsiung",
+          "swift_code": "ICBCTWTP052"
+        },
+        {
+          "branch_name": "Pingtung Branch",
+          "city": "Pingtung",
+          "swift_code": "ICBCTWTP053"
+        },
+        {
+          "branch_name": "Taipei Airport Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP055"
+        },
+        {
+          "branch_name": "Tu Cheng Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP056"
+        },
+        {
+          "branch_name": "Ta Tao Cheng Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP057"
+        },
+        {
+          "branch_name": "Toufen Branch",
+          "city": "Miao Li",
+          "swift_code": "ICBCTWTP058"
+        },
+        {
+          "branch_name": "Ling Ya Branch",
+          "city": "Kaohsiung",
+          "swift_code": "ICBCTWTP059"
+        },
+        {
+          "branch_name": "Sha Lu Branch",
+          "city": "Taichung",
+          "swift_code": "ICBCTWTP060"
+        },
+        {
+          "branch_name": "Pateh Branch",
+          "city": "Tao-yuan",
+          "swift_code": "ICBCTWTP061"
+        },
+        {
+          "branch_name": "Ilan Branch",
+          "city": "Yilan",
+          "swift_code": "ICBCTWTP062"
+        },
+        {
+          "branch_name": "Douliu Branch",
+          "city": "Yunlin",
+          "swift_code": "ICBCTWTP063"
+        },
+        {
+          "branch_name": "Nantou Branch",
+          "city": "Nantou",
+          "swift_code": "ICBCTWTP064"
+        },
+        {
+          "branch_name": "Hualien Branch",
+          "city": "Hualien",
+          "swift_code": "ICBCTWTP023"
+        },
+        {
+          "branch_name": "Trust Department",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP024"
+        },
+        {
+          "branch_name": "Offshore Banking Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP025"
+        },
+        {
+          "branch_name": "North Hsinchu Branch",
+          "city": "Hsinchu",
+          "swift_code": "ICBCTWTP026"
+        },
+        {
+          "branch_name": "South Panchiao Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP027"
+        },
+        {
+          "branch_name": "Tantze Branch",
+          "city": "Taichung",
+          "swift_code": "ICBCTWTP028"
+        },
+        {
+          "branch_name": "Taoyuan International Airport Branch",
+          "city": "Tao-yuan",
+          "swift_code": "ICBCTWTP029"
+        },
+        {
+          "branch_name": "South Taipei Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP030"
+        },
+        {
+          "branch_name": "Tun Nan Office",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP031"
+        },
+        {
+          "branch_name": "Yuan-lin Office",
+          "city": "Yuan-lin",
+          "swift_code": "ICBCTWTP032"
+        },
+        {
+          "branch_name": "Yung Ho Branch",
+          "city": "Yung Ho",
+          "swift_code": "ICBCTWTP034"
+        },
+        {
+          "branch_name": "Fengyuan Office",
+          "city": "Taichung",
+          "swift_code": "ICBCTWTP035"
+        },
+        {
+          "branch_name": "Ming-sheng Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP036"
+        },
+        {
+          "branch_name": "North-taichung Branch",
+          "city": "Taichung",
+          "swift_code": "ICBCTWTP037"
+        },
+        {
+          "branch_name": "San-tuo Office",
+          "city": "Kaohsiung",
+          "swift_code": "ICBCTWTP038"
+        },
+        {
+          "branch_name": "Chung Li Branch",
+          "city": "Chung Li",
+          "swift_code": "ICBCTWTP039"
+        },
+        {
+          "branch_name": "San Ming Branch",
+          "city": "Kaohsiung",
+          "swift_code": "ICBCTWTP040"
+        },
+        {
+          "branch_name": "Hsin Chuang Office",
+          "city": "Hsinchuang",
+          "swift_code": "ICBCTWTP041"
+        },
+        {
+          "branch_name": "Sung Nan Office",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP042"
+        },
+        {
+          "branch_name": "Dah Tong Branch",
+          "city": "Taipei",
+          "swift_code": "ICBCTWTP043"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "ICBCVNVXXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "ICBCPAPAXXX"
+        },
+        {
+          "branch_name": "Colon Free Zone Branch",
+          "city": "Panama",
+          "swift_code": "ICBCPAPAZLC"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maybank (cambodia) Plc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "MBBEKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maruhan Japan Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "MJBKKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kookmin Bank Cambodia Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "CZNBKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial And Commercial Bank Of China Limited Phnom Penh Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "ICBKKHPPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "ICBKKHP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hwangdbs Commercial Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "HDSBKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hong Leong Bank (cambodia) Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "HLBBKHPPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "HLBBKHP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Foreign Trade Bank Of Cambodia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "FTCCKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Commercial Bank Phnom Penh Branch",
+      "branches": [
+        {
+          "branch_name": "Chorm Chaov Sub-branch",
+          "city": "Phnom Penh",
+          "swift_code": "FCBKKHPP001"
+        },
+        {
+          "branch_name": "Olympic Sub-branch",
+          "city": "Phnom Penh",
+          "swift_code": "FCBKKHPP002"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "FCBKKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cimb Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "CIBBKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Canadia Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "CADIKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cambodian Public Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "CPBLKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cambodian Commercial Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "SICOKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cambodia Mekong Bank Public Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "MKGBKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cambodia Asia Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "CABCKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "British American Tobacco Cambodia Ltd",
+      "branches": [
+        {
+          "branch_name": "British American Tobacco Cambodia Ltd",
+          "city": "Phnom Penh",
+          "swift_code": "BATSKHP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "British American Tobacco (cambodge) Int Ltd",
+      "branches": [
+        {
+          "branch_name": "British American Tobacco (cambodge) Int Ltd",
+          "city": "Phnom Penh",
+          "swift_code": "BATSKH21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Booyoung Khmer Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "BKBCKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of China Limited Phnom Penh Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "BKCHKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank For Investment And Development Of Cambodia Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "IDBCKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Anz Royal Bank (cambodia) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "ANZBKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Angkor Capital Specialized Bank",
+      "branches": [
+        {
+          "branch_name": "Angkor Capital Specialized Bank",
+          "city": "Phnom Penh",
+          "swift_code": "ACBCKHPPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "ACBCKHP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Advanced Bank Of Asia Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "ABAAKHPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Acleda Bank Plc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Phnom Penh",
+          "swift_code": "ACLBKHPPXXX"
+        }
+      ]
+    }
+  ]
+}

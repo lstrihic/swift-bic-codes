@@ -1,0 +1,192 @@
+{
+  "country_name": "Korea (Democratic People's Republic of)",
+  "alpha_2": "KP",
+  "country_code": "408",
+  "banks": [
+    {
+      "bank_name": "Orabank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pyongyang",
+          "swift_code": "ORABKPPYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "North East Asia Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pyongyang",
+          "swift_code": "NEABKPPYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kumgang Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pyongyang",
+          "swift_code": "KMBKKPPYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Koryo Credit Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pyongyang",
+          "swift_code": "KGCBKPPYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Koryo Commercial Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pyongyang",
+          "swift_code": "KCBKKPP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Koryo Bank, D.p.r. Of Korea",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pyongyang",
+          "swift_code": "KORBKPPYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Korea United Development Bank, D.p.r. Of Korea",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pyongyang",
+          "swift_code": "KUDBKPPYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Korea Kwangson Banking Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pyongyang",
+          "swift_code": "KKBCKPPYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Korea Joint Bank, Pyongyang",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pyongyang",
+          "swift_code": "KJBFKPPYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Korea Daesong Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pyongyang",
+          "swift_code": "KDBKKPPYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Korea Agricultural Investment Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pyongyang",
+          "swift_code": "KAIBKPPYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ilsim International Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pyongyang",
+          "swift_code": "ILSIKPPYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Golden Triangle Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Namsan",
+          "swift_code": "KGTBKPPYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Foreign Trade Bank Of The D.p.r. Of Korea",
+      "branches": [
+        {
+          "branch_name": "Pyongyang",
+          "city": "Pyongyang",
+          "swift_code": "FTBDKPPYKBC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Pyongyang",
+          "swift_code": "FTBDKPPYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Credit Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pyongyang",
+          "swift_code": "KYCBKPPYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daedong Credit Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pyongyang",
+          "swift_code": "DCBKKPPYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brilliance Banking Corporation Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pyongyang",
+          "swift_code": "BRBKKPP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of East Land, Pyongyang",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pyongyang",
+          "swift_code": "BOELKPPYXXX"
+        }
+      ]
+    }
+  ]
+}

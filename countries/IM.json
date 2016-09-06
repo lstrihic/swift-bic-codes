@@ -1,0 +1,532 @@
+{
+  "country_name": "Isle of Man",
+  "alpha_2": "IM",
+  "country_code": "833",
+  "banks": [
+    {
+      "bank_name": "W H Ireland (iom) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "IRIOIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ulster Bank (i.o.m.) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "ULSBIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tibra Structured Products Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "TISRIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thomas Miller Investment (isle Of Man) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "MIMIIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Finance (isle Of Man) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "STFIIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sun Life Global Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Castletown",
+          "swift_code": "SLGNIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Bank Stockbrokers (iom) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "STBTIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Bank Investment Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "SBICIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shearwater Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Castletown",
+          "swift_code": "SHSRIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Royal Skandia Treasury",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "ROKTIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Royal Skandia Life Assurance Limited",
+      "branches": [
+        {
+          "branch_name": "Branch Operations",
+          "city": "Onchan",
+          "swift_code": "ROKLIMDIOPS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Onchan",
+          "swift_code": "ROKLIMDIXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Onchan",
+          "swift_code": "ROKLIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Royal Bank Of Scotland Isle Of Man (plc",
+      "branches": [
+        {
+          "branch_name": "Douglas",
+          "city": "Douglas",
+          "swift_code": "RBOSIMD1571"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "RBOSIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rational Group Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Onchan",
+          "swift_code": "RTNLIMDDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ramsey Crookall And Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "RAYCIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Zurich Bank International Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "ZBILIMDDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Bank Of South Africa Ltd, Isle Of Man Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "SBZAIMDDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Bank Isle Of Man Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "SBICIMDXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Natwest - Isle Of Man",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "RBOSIMDDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kleinwort Benson Bank (Isle Of Man) Ltd (Formerly Close Bank (Isle Of Man) Limited)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "CLOSIMDDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Isle Of Man Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "RBOSIMD2XXX"
+        },
+        {
+          "branch_name": "Athol Street",
+          "city": "Douglas",
+          "swift_code": "RBOSIM41ATH"
+        },
+        {
+          "branch_name": "East Region",
+          "city": "Douglas",
+          "swift_code": "RBOSIM41EST"
+        },
+        {
+          "branch_name": "Peel Branch",
+          "city": "Douglas",
+          "swift_code": "RBOSIM41PEL"
+        },
+        {
+          "branch_name": "Ramsey Branch",
+          "city": "Douglas",
+          "swift_code": "RBOSIM41RAM"
+        },
+        {
+          "branch_name": "South Region",
+          "city": "Douglas",
+          "swift_code": "RBOSIM41STH"
+        }
+      ]
+    },
+    {
+      "bank_name": "Habib European Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "HBZUIMDDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fairbairn Private Bank (Iom) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "RFLCIMDXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Coutts And Co (Manx) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "COUTIMDDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Ireland (Iom) Limited",
+      "branches": [
+        {
+          "branch_name": "Douglas",
+          "city": "Douglas",
+          "swift_code": "BIGTIMDXBWI"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "BIGTIMDXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aib Bank (Ci) Ltd - Isle Of Man Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "AIBKIMDXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abbey National Treasury International Limited, Isle Of Man",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "ANILIMDXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "R.l. Stott",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "RLSTIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Natwest-isle Of Man",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "RBOSIM31XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nationwide International Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "NAIIIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mannin International Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Salla",
+          "swift_code": "MAIBIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Laxey",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "LAXEIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kkb Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "KKBBIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Trust Corporation (isle Of Man) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "MIDLIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis (isle Of Man) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "MPIEIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fleming (jersey) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "FLJEIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Equilibrium Solutions Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "EQSOIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Conister Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "CNNIIMD2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Charlemagne Capital (iom) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "CHPMIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Celtic Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "CELBIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cayman National Bank And Trust Company (isle Of Man) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "CNBTIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital International Ltd-isle Of Man",
+      "branches": [
+        {
+          "branch_name": "Im99 5xh Castletown",
+          "city": "Castletown",
+          "swift_code": "CAITIMD1001"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital International Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Castletown",
+          "swift_code": "CAITIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital International Limted",
+      "branches": [
+        {
+          "branch_name": "Capital Financial Markets",
+          "city": "Douglas",
+          "swift_code": "CIGLIMDDCFM"
+        },
+        {
+          "branch_name": "Capital Fund Services",
+          "city": "Douglas",
+          "swift_code": "CIGLIMDDCFS"
+        },
+        {
+          "branch_name": "Douglas",
+          "city": "Douglas",
+          "swift_code": "CIGLIMDDCIL"
+        },
+        {
+          "branch_name": "Capital Treasury Services",
+          "city": "Douglas",
+          "swift_code": "CIGLIMDDCTS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "CIGLIMDDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Private Clients International Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "BFIMIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Baloise (iom) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "BAOMIMD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Private Bank And Trust (isle Of Man) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douglas",
+          "swift_code": "BPBLIMD1XXX"
+        }
+      ]
+    }
+  ]
+}

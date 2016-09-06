@@ -1,0 +1,252 @@
+{
+  "country_name": "Gibraltar",
+  "alpha_2": "GI",
+  "country_code": "292",
+  "banks": [
+    {
+      "bank_name": "Gibraltar Asset Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gibraltar",
+          "swift_code": "GIAMGIG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gsb Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gibraltar",
+          "swift_code": "IETGGIG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Guevora Fund Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gibraltar",
+          "swift_code": "GUFUGIG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gibraltar And Iberian Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gibraltar",
+          "swift_code": "GIBIGIG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Factum Capital Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gibraltar",
+          "swift_code": "FACCGIG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Close Brothers Marrache Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gibraltar",
+          "swift_code": "CLOSGIG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Baltica Bank (gibraltar) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gibraltar",
+          "swift_code": "BBALGIG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclaytrust International Nominees (gibraltar) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gibraltar",
+          "swift_code": "BIGIGIG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "3gt Active Trading Funds Pcc Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gibraltar",
+          "swift_code": "ATFCGI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Turicum Private Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gibraltar",
+          "swift_code": "TURCGIGIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sg Hambros Bank (Gibraltar) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gibraltar",
+          "swift_code": "HAMBGIGIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Natwest-Gibraltar",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gibraltar",
+          "swift_code": "RBOSGIGIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Novista Insurance Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gibraltar",
+          "swift_code": "NOVRGIGIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lombard Odier Darier Hentsch Private Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Ndp Dept",
+          "city": "Gibraltar",
+          "swift_code": "LOCYGIGINDP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Gibraltar",
+          "swift_code": "LOCYGIGIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jyske Bank (Gibraltar) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gibraltar",
+          "swift_code": "JYBAGIGIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse (Gibraltar) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gibraltar",
+          "swift_code": "CRESGIGIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lloyds Tsb Bank (Gibraltar) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gibraltar",
+          "swift_code": "LOYDGIGIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque J.Safra (Gibraltar) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gibraltar",
+          "swift_code": "BJSBGIGXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Natwest Offshore-gibraltar",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gibraltar",
+          "swift_code": "RBOSGI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Massey Fund Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gibraltar",
+          "swift_code": "MSFUGIG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lloyds Bank (gibraltar) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gibraltar",
+          "swift_code": "LOYDGIB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Indigo Futures Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gibraltar",
+          "swift_code": "IDFUGIG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Guevoura Fund Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Marina Bay",
+          "swift_code": "GUFNGIG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Springfield Bank And Trust Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gibraltar",
+          "swift_code": "SPRNGIG1XXX"
+        }
+      ]
+    }
+  ]
+}

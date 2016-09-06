@@ -1,0 +1,17 @@
+{
+  "country_name": "Northern Mariana Islands",
+  "alpha_2": "MP",
+  "country_code": "580",
+  "banks": [
+    {
+      "bank_name": "Bank Of Saipan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Saipan",
+          "swift_code": "BSAIMPM1XXX"
+        }
+      ]
+    }
+  ]
+}

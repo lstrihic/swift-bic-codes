@@ -1,0 +1,77 @@
+{
+  "country_name": "Swaziland",
+  "alpha_2": "SZ",
+  "country_code": "748",
+  "banks": [
+    {
+      "bank_name": "Swaziland Stockbrokers Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mbabane",
+          "swift_code": "SWAOSZM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swaziland Development And Savings Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mbabane",
+          "swift_code": "SDSBSZMBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swaziland Beverages Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Matsapha",
+          "swift_code": "SABMSZM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Bank Swaziland Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mbabane",
+          "swift_code": "SBICSZMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nedbank (swaziland) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mbabane",
+          "swift_code": "NESWSZMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First National Bank Of Swaziland Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mbabane",
+          "swift_code": "FIRNSZMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Swaziland",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mbabane",
+          "swift_code": "SWAZSZMBXXX"
+        }
+      ]
+    }
+  ]
+}

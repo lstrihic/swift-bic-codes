@@ -1,0 +1,1557 @@
+{
+  "country_name": "Iran (Islamic Republic of)",
+  "alpha_2": "IR",
+  "country_code": "364",
+  "banks": [
+    {
+      "bank_name": "Tourism Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tehran",
+          "swift_code": "TOSMIRTHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Teheran Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tehran",
+          "swift_code": "XTEHIRT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tat Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tehran",
+          "swift_code": "TATBIRTHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sarmaye Bank (p.j.s.c",
+      "branches": [
+        {
+          "branch_name": "Ostad Shahryar",
+          "city": "Tabriz",
+          "swift_code": "SRMBIRTH301"
+        },
+        {
+          "branch_name": "Kish",
+          "city": "Kish Island",
+          "swift_code": "SRMBIRTH401"
+        },
+        {
+          "branch_name": "Sheykh Sadogh",
+          "city": "Isfahan",
+          "swift_code": "SRMBIRTH601"
+        },
+        {
+          "branch_name": "Central Branch",
+          "city": "Tehran",
+          "swift_code": "SRMBIRTHCNT"
+        },
+        {
+          "branch_name": "Elahiye Branch",
+          "city": "Tehran",
+          "swift_code": "SRMBIRTHELH"
+        },
+        {
+          "branch_name": "Isfahan Branch",
+          "city": "Isfahan",
+          "swift_code": "SRMBIRTHESF"
+        },
+        {
+          "branch_name": "Eskan Branch",
+          "city": "Tehran",
+          "swift_code": "SRMBIRTHESK"
+        },
+        {
+          "branch_name": "Fatemi Branch",
+          "city": "Tehran",
+          "swift_code": "SRMBIRTHFAT"
+        },
+        {
+          "branch_name": "Ahmadabad Branch",
+          "city": "Mashhad",
+          "swift_code": "SRMBIRTHMSH"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tehran",
+          "swift_code": "SRMBIRTHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saman Bank Corporation",
+      "branches": [
+        {
+          "branch_name": "Afrigha Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8AF"
+        },
+        {
+          "branch_name": "Aghdasieh Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8AG"
+        },
+        {
+          "branch_name": "Arike Iranian Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8AI"
+        },
+        {
+          "branch_name": "Arjantin Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8AJ"
+        },
+        {
+          "branch_name": "Alborz",
+          "city": "Alborz",
+          "swift_code": "SABCIRTH8AL"
+        },
+        {
+          "branch_name": "Asef Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8AS"
+        },
+        {
+          "branch_name": "Ajudaniye Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8AY"
+        },
+        {
+          "branch_name": "Azarbayjan Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8AZ"
+        },
+        {
+          "branch_name": "Bagh Ferdows Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8BA"
+        },
+        {
+          "branch_name": "Bolvar Darya",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8BD"
+        },
+        {
+          "branch_name": "Bozorgrah Fath Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8BF"
+        },
+        {
+          "branch_name": "Beheshti Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8BH"
+        },
+        {
+          "branch_name": "24 Metri Saadabad Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8BM"
+        },
+        {
+          "branch_name": "Bazar Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8BZ"
+        },
+        {
+          "branch_name": "Central Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8CB"
+        },
+        {
+          "branch_name": "Corporate",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8CD"
+        },
+        {
+          "branch_name": "Dezashib Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8DS"
+        },
+        {
+          "branch_name": "Dowlat",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8DT"
+        },
+        {
+          "branch_name": "Ekbatan Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8EK"
+        },
+        {
+          "branch_name": "Elahiyeh Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8EL"
+        },
+        {
+          "branch_name": "Rasht Branch",
+          "city": "Rasht",
+          "swift_code": "SABCIRTH9RA"
+        },
+        {
+          "branch_name": "Shiraz",
+          "city": "Shiraz",
+          "swift_code": "SABCIRTH9SH"
+        },
+        {
+          "branch_name": "Sajjad-e-mashhad Branch",
+          "city": "Mashhad",
+          "swift_code": "SABCIRTH9SM"
+        },
+        {
+          "branch_name": "Sanandaj",
+          "city": "Sanandaj",
+          "swift_code": "SABCIRTH9SN"
+        },
+        {
+          "branch_name": "Sardaran-e-oroumieh",
+          "city": "Orumiyeh",
+          "swift_code": "SABCIRTH9SO"
+        },
+        {
+          "branch_name": "Shahriar",
+          "city": "Shahriari",
+          "swift_code": "SABCIRTH9SR"
+        },
+        {
+          "branch_name": "Sary",
+          "city": "Sari",
+          "swift_code": "SABCIRTH9SY"
+        },
+        {
+          "branch_name": "Tabriz Branch",
+          "city": "Tabriz",
+          "swift_code": "SABCIRTH9TA"
+        },
+        {
+          "branch_name": "Shahriyar-e-tabriz Branch",
+          "city": "Tabriz",
+          "swift_code": "SABCIRTH9TS"
+        },
+        {
+          "branch_name": "Bazar-e-vakil-e-shiraz Branch",
+          "city": "Shiraz",
+          "swift_code": "SABCIRTH9VS"
+        },
+        {
+          "branch_name": "Vali-e-asr Tabriz Branch",
+          "city": "Tabriz",
+          "swift_code": "SABCIRTH9VT"
+        },
+        {
+          "branch_name": "Yazd Branch",
+          "city": "Yazd",
+          "swift_code": "SABCIRTH9YZ"
+        },
+        {
+          "branch_name": "Zanjan Branch",
+          "city": "Zanjan",
+          "swift_code": "SABCIRTH9ZA"
+        },
+        {
+          "branch_name": "Zayandeh Rood Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH9ZE"
+        },
+        {
+          "branch_name": "Zahedan",
+          "city": "Zahedan",
+          "swift_code": "SABCIRTH9ZN"
+        },
+        {
+          "branch_name": "Foreign Exchange Dept.",
+          "city": "Tehran",
+          "swift_code": "SABCIRTHFXD"
+        },
+        {
+          "branch_name": "Saman Exchange Pasdaran",
+          "city": "Tehran",
+          "swift_code": "SABCIRTHSEP"
+        },
+        {
+          "branch_name": "Credit Card Services",
+          "city": "Tehran",
+          "swift_code": "SABCIRTHSHB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tehran",
+          "swift_code": "SABCIRTHXXX"
+        },
+        {
+          "branch_name": "Isfahan Branch",
+          "city": "Isfahan",
+          "swift_code": "SABCIRTH9ES"
+        },
+        {
+          "branch_name": "Falak-e-gaz-e-shiraz Branch",
+          "city": "Shiraz",
+          "swift_code": "SABCIRTH9FS"
+        },
+        {
+          "branch_name": "Ghazvin",
+          "city": "Ghazvin",
+          "swift_code": "SABCIRTH9GH"
+        },
+        {
+          "branch_name": "Gorgan",
+          "city": "Gorgan",
+          "swift_code": "SABCIRTH9GO"
+        },
+        {
+          "branch_name": "Ghasr-e-dasht-e-shiraz Branch",
+          "city": "Shiraz",
+          "swift_code": "SABCIRTH9GS"
+        },
+        {
+          "branch_name": "Hamedan",
+          "city": "Hamadan",
+          "swift_code": "SABCIRTH9HA"
+        },
+        {
+          "branch_name": "Hafez Isfahan Branch",
+          "city": "Isfahan",
+          "swift_code": "SABCIRTH9HE"
+        },
+        {
+          "branch_name": "Jahanshahr-e-karaj",
+          "city": "Karaj",
+          "swift_code": "SABCIRTH9JK"
+        },
+        {
+          "branch_name": "Falake Jahad Qom Branch",
+          "city": "Qom",
+          "swift_code": "SABCIRTH9JQ"
+        },
+        {
+          "branch_name": "Bulvar-e-jomhuriye Yazd Branch",
+          "city": "Yazd",
+          "swift_code": "SABCIRTH9JY"
+        },
+        {
+          "branch_name": "Kerman Branch",
+          "city": "Kerman",
+          "swift_code": "SABCIRTH9KE"
+        },
+        {
+          "branch_name": "Kish Branch",
+          "city": "Kish Island",
+          "swift_code": "SABCIRTH9KI"
+        },
+        {
+          "branch_name": "Kermanshah Branch",
+          "city": "Kermanshah",
+          "swift_code": "SABCIRTH9KM"
+        },
+        {
+          "branch_name": "Mashhad Branch",
+          "city": "Mashhad",
+          "swift_code": "SABCIRTH9MA"
+        },
+        {
+          "branch_name": "Mirzay-e-shirazi Branch",
+          "city": "Shiraz",
+          "swift_code": "SABCIRTH9MI"
+        },
+        {
+          "branch_name": "Modarres Mashhad Branch",
+          "city": "Mashhad",
+          "swift_code": "SABCIRTH9MM"
+        },
+        {
+          "branch_name": "Nishabour Mashhad Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH9NM"
+        },
+        {
+          "branch_name": "Oroumieh Branch",
+          "city": "Orumiyeh",
+          "swift_code": "SABCIRTH9OR"
+        },
+        {
+          "branch_name": "Qeshm",
+          "city": "Qeshm",
+          "swift_code": "SABCIRTH9QM"
+        },
+        {
+          "branch_name": "Qom",
+          "city": "Qom",
+          "swift_code": "SABCIRTH9QO"
+        },
+        {
+          "branch_name": "Shahr-e-rey Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8SR"
+        },
+        {
+          "branch_name": "Stock Market",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8ST"
+        },
+        {
+          "branch_name": "Sarv Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8SV"
+        },
+        {
+          "branch_name": "Falake Sevom Tehran Pars",
+          "city": "Tehran Tehran",
+          "swift_code": "SABCIRTH8TP"
+        },
+        {
+          "branch_name": "Velenjak Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8VJ"
+        },
+        {
+          "branch_name": "Vanak Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8VN"
+        },
+        {
+          "branch_name": "Yaftabad Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8YF"
+        },
+        {
+          "branch_name": "Valiasr Zartosht Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8ZV"
+        },
+        {
+          "branch_name": "Ahwaz Branch",
+          "city": "Ahwaz",
+          "swift_code": "SABCIRTH9AH"
+        },
+        {
+          "branch_name": "Arak",
+          "city": "Arak",
+          "swift_code": "SABCIRTH9AK"
+        },
+        {
+          "branch_name": "Amol Branch",
+          "city": "Amol",
+          "swift_code": "SABCIRTH9AM"
+        },
+        {
+          "branch_name": "Ardebil Branch",
+          "city": "Ardabil",
+          "swift_code": "SABCIRTH9AR"
+        },
+        {
+          "branch_name": "Babol Branch",
+          "city": "Babol",
+          "swift_code": "SABCIRTH9BL"
+        },
+        {
+          "branch_name": "Bushehr Branch",
+          "city": "Bushehr",
+          "swift_code": "SABCIRTH9BR"
+        },
+        {
+          "branch_name": "Bandar Abbas",
+          "city": "Bandar Abbas",
+          "swift_code": "SABCIRTH9BS"
+        },
+        {
+          "branch_name": "Bazar-e-tabriz Branch",
+          "city": "Tabriz",
+          "swift_code": "SABCIRTH9BT"
+        },
+        {
+          "branch_name": "Esfahan Corporation Branch",
+          "city": "Isfahan",
+          "swift_code": "SABCIRTH9CE"
+        },
+        {
+          "branch_name": "Chahar Bagh-e-bala Branch",
+          "city": "Isfahan",
+          "swift_code": "SABCIRTH9CH"
+        },
+        {
+          "branch_name": "Mashhad Corporation Branch",
+          "city": "Mashhad",
+          "swift_code": "SABCIRTH9CM"
+        },
+        {
+          "branch_name": "Tabriz Corporation Branch",
+          "city": "Tabriz",
+          "swift_code": "SABCIRTH9CT"
+        },
+        {
+          "branch_name": "Mahan",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8MN"
+        },
+        {
+          "branch_name": "Monirieh Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8MO"
+        },
+        {
+          "branch_name": "Bolvar Marzdaran Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8MR"
+        },
+        {
+          "branch_name": "Molavi Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8MV"
+        },
+        {
+          "branch_name": "Afriqa Shomali Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8NA"
+        },
+        {
+          "branch_name": "Meydan-e-nobovat Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8NB"
+        },
+        {
+          "branch_name": "Niavaran Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8NI"
+        },
+        {
+          "branch_name": "Karegar E Shomali Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8NK"
+        },
+        {
+          "branch_name": "Olympic Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8OL"
+        },
+        {
+          "branch_name": "Pasdaran Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8PA"
+        },
+        {
+          "branch_name": "Pirouzi Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8PI"
+        },
+        {
+          "branch_name": "Pol-e-roomi Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8PR"
+        },
+        {
+          "branch_name": "Park-e-saei Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8PS"
+        },
+        {
+          "branch_name": "Qeytarieh Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8QE"
+        },
+        {
+          "branch_name": "Shahrak-e-rahahan Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8RH"
+        },
+        {
+          "branch_name": "Sadeghie",
+          "city": "Sadeghie",
+          "swift_code": "SABCIRTH8SA"
+        },
+        {
+          "branch_name": "Saadat Abad",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8SD"
+        },
+        {
+          "branch_name": "Saman Exchange Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8SE"
+        },
+        {
+          "branch_name": "Shahrak Gharb",
+          "city": "Gharb",
+          "swift_code": "SABCIRTH8SH"
+        },
+        {
+          "branch_name": "Shahr-e-kord Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8SK"
+        },
+        {
+          "branch_name": "Ekhtiyariyeh Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8ET"
+        },
+        {
+          "branch_name": "Evin Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8EV"
+        },
+        {
+          "branch_name": "Fatemi",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8FA"
+        },
+        {
+          "branch_name": "Farjam Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8FJ"
+        },
+        {
+          "branch_name": "Foroudgahe Mehrabad Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8FM"
+        },
+        {
+          "branch_name": "Falak-e-aval-e-tehranpars Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8FT"
+        },
+        {
+          "branch_name": "Gholhak Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8GL"
+        },
+        {
+          "branch_name": "Hosseinabad Sq Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8HA"
+        },
+        {
+          "branch_name": "Hyperstar Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8HS"
+        },
+        {
+          "branch_name": "Iran Zamin",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8IZ"
+        },
+        {
+          "branch_name": "Jannat Abad",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8JA"
+        },
+        {
+          "branch_name": "Jam-e-jam Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8JJ"
+        },
+        {
+          "branch_name": "Seyed Jamaleddin-e-asadabadi",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8JM"
+        },
+        {
+          "branch_name": "Jomhuri-abureyhan Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8JN"
+        },
+        {
+          "branch_name": "Karaj Branch",
+          "city": "Karaj",
+          "swift_code": "SABCIRTH8KJ"
+        },
+        {
+          "branch_name": "Karimkhan E Zand Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8KZ"
+        },
+        {
+          "branch_name": "Lavasani Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8LA"
+        },
+        {
+          "branch_name": "Mirdamad Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8MD"
+        },
+        {
+          "branch_name": "Mellat-e-ekbatan Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8ME"
+        },
+        {
+          "branch_name": "Mollasadra Branch",
+          "city": "Tehran",
+          "swift_code": "SABCIRTH8ML"
+        }
+      ]
+    },
+    {
+      "bank_name": "Parsian Bank",
+      "branches": [
+        {
+          "branch_name": "Afrighaye Shomali",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHAFS"
+        },
+        {
+          "branch_name": "Ahwaz",
+          "city": "Ahwaz",
+          "swift_code": "BKPAIRTHAHW"
+        },
+        {
+          "branch_name": "Ahmad Abad Mashhad",
+          "city": "Mashhad",
+          "swift_code": "BKPAIRTHAMH"
+        },
+        {
+          "branch_name": "Apadana",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHAPA"
+        },
+        {
+          "branch_name": "Arjantin Branch",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHARJ"
+        },
+        {
+          "branch_name": "Azadi Branch",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHAZD"
+        },
+        {
+          "branch_name": "Borj Tejarat Electronic",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHBTE"
+        },
+        {
+          "branch_name": "Central Branch",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHCEN"
+        },
+        {
+          "branch_name": "Chitgar",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHCHT"
+        },
+        {
+          "branch_name": "Central Branch",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHCNB"
+        },
+        {
+          "branch_name": "Doctor Fatemi",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHDFT"
+        },
+        {
+          "branch_name": "Eskandari",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHESK"
+        },
+        {
+          "branch_name": "Ettehad Branch",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHETD"
+        },
+        {
+          "branch_name": "Ferdowsi Kermanshah Branch",
+          "city": "Kermanshah",
+          "swift_code": "BKPAIRTHFKR"
+        },
+        {
+          "branch_name": "Ferdosi Branch",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHFRD"
+        },
+        {
+          "branch_name": "Fereshteh",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHFSH"
+        },
+        {
+          "branch_name": "Gandi",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHGAN"
+        },
+        {
+          "branch_name": "Hakim Nezami Isfahan Branch",
+          "city": "Isfahan",
+          "swift_code": "BKPAIRTHHAK"
+        },
+        {
+          "branch_name": "International Affairs Dept",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHINT"
+        },
+        {
+          "branch_name": "Kamranieh",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHKAM"
+        },
+        {
+          "branch_name": "Ayatollah Kashani Sharghi",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHKAS"
+        },
+        {
+          "branch_name": "Kerman Branch",
+          "city": "Kerman",
+          "swift_code": "BKPAIRTHKER"
+        },
+        {
+          "branch_name": "Karimkhan Zand Branch",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHKRZ"
+        },
+        {
+          "branch_name": "Kish Branch",
+          "city": "Kish Island",
+          "swift_code": "BKPAIRTHKSH"
+        },
+        {
+          "branch_name": "Laleh Branch",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHLAL"
+        },
+        {
+          "branch_name": "Mirdamad Gharbi Branch",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHMDG"
+        },
+        {
+          "branch_name": "Meydan Madar Karaj",
+          "city": "Karaj",
+          "swift_code": "BKPAIRTHMMK"
+        },
+        {
+          "branch_name": "Molasadra Branch",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHMOL"
+        },
+        {
+          "branch_name": "Motahari Rasht",
+          "city": "Rasht",
+          "swift_code": "BKPAIRTHMOR"
+        },
+        {
+          "branch_name": "Motahari",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHMOT"
+        },
+        {
+          "branch_name": "Nazi Abad Branch",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHNAZ"
+        },
+        {
+          "branch_name": "Dr Nourbakhsh",
+          "city": "Isfahan",
+          "swift_code": "BKPAIRTHNBI"
+        },
+        {
+          "branch_name": "Naft Shomali",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHNFN"
+        },
+        {
+          "branch_name": "Naft Shomali Branch",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHNFT"
+        },
+        {
+          "branch_name": "Fx Operations Dept",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHOPR"
+        },
+        {
+          "branch_name": "Orumiyeh",
+          "city": "Orumiyeh",
+          "swift_code": "BKPAIRTHORU"
+        },
+        {
+          "branch_name": "Pasdaran Branch",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHPAS"
+        },
+        {
+          "branch_name": "Pamenar Branch",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHPMN"
+        },
+        {
+          "branch_name": "Park Saee",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHPSE"
+        },
+        {
+          "branch_name": "Rashid Cross",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHRSH"
+        },
+        {
+          "branch_name": "Sadra Branch",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHSAD"
+        },
+        {
+          "branch_name": "Sari",
+          "city": "Sari",
+          "swift_code": "BKPAIRTHSAR"
+        },
+        {
+          "branch_name": "Takhti Branch",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHSBB"
+        },
+        {
+          "branch_name": "Shahid Beheshti Sharghi",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHSBS"
+        },
+        {
+          "branch_name": "Sepahbod Gharani",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHSGH"
+        },
+        {
+          "branch_name": "Shetab Branch",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHSHB"
+        },
+        {
+          "branch_name": "Sheikh Bahaee",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHSHK"
+        },
+        {
+          "branch_name": "Ma-ali Abad Shiraz",
+          "city": "Shiraz",
+          "swift_code": "BKPAIRTHSHM"
+        },
+        {
+          "branch_name": "Ghasrodasht Branch",
+          "city": "Shiraz",
+          "swift_code": "BKPAIRTHSHZ"
+        },
+        {
+          "branch_name": "Soleyman Khater",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHSKH"
+        },
+        {
+          "branch_name": "Taleghani Branch",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHTAL"
+        },
+        {
+          "branch_name": "Tabriz Branch",
+          "city": "Tabriz",
+          "swift_code": "BKPAIRTHTBZ"
+        },
+        {
+          "branch_name": "Tohid Branch",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHTOH"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tehran",
+          "swift_code": "BKPAIRTHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Middle East Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tehran",
+          "swift_code": "KHMIIRTHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kish International Bank",
+      "branches": [
+        {
+          "branch_name": "Teh1",
+          "city": "Tehran",
+          "swift_code": "KIBOIRTH110"
+        },
+        {
+          "branch_name": "Teh2",
+          "city": "Tehran",
+          "swift_code": "KIBOIRTH111"
+        },
+        {
+          "branch_name": "Teh3",
+          "city": "Tehran",
+          "swift_code": "KIBOIRTH112"
+        },
+        {
+          "branch_name": "Teh4",
+          "city": "Tehran",
+          "swift_code": "KIBOIRTH113"
+        },
+        {
+          "branch_name": "Teh5",
+          "city": "Tehran",
+          "swift_code": "KIBOIRTH114"
+        },
+        {
+          "branch_name": "Teh6",
+          "city": "Tehran",
+          "swift_code": "KIBOIRTH115"
+        },
+        {
+          "branch_name": "Ksh1",
+          "city": "Kish Island",
+          "swift_code": "KIBOIRTH116"
+        },
+        {
+          "branch_name": "Ksh2",
+          "city": "Kish Island",
+          "swift_code": "KIBOIRTH117"
+        },
+        {
+          "branch_name": "Ksh3",
+          "city": "Kish Island",
+          "swift_code": "KIBOIRTH118"
+        },
+        {
+          "branch_name": "Teh7",
+          "city": "Tehran",
+          "swift_code": "KIBOIRTH119"
+        },
+        {
+          "branch_name": "Teh8",
+          "city": "Tehran",
+          "swift_code": "KIBOIRTH120"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tehran",
+          "swift_code": "KIBOIRTHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Karafarin Bank",
+      "branches": [
+        {
+          "branch_name": "Esfahan Central Branch",
+          "city": "Isfahan",
+          "swift_code": "KBIDIRTH004"
+        },
+        {
+          "branch_name": "Farmaniyeh Branch",
+          "city": "Tehran",
+          "swift_code": "KBIDIRTH005"
+        },
+        {
+          "branch_name": "Central Branch Of Tabriz",
+          "city": "Tabriz",
+          "swift_code": "KBIDIRTH008"
+        },
+        {
+          "branch_name": "Vanak Branch",
+          "city": "Tehran",
+          "swift_code": "KBIDIRTH009"
+        },
+        {
+          "branch_name": "Zafar Branch",
+          "city": "Tehran",
+          "swift_code": "KBIDIRTH016"
+        },
+        {
+          "branch_name": "Mashhad Central Branch",
+          "city": "Mashhad",
+          "swift_code": "KBIDIRTH018"
+        },
+        {
+          "branch_name": "Sepahan Branch",
+          "city": "Tehran",
+          "swift_code": "KBIDIRTH022"
+        },
+        {
+          "branch_name": "Kish Island Branch",
+          "city": "Kish Island",
+          "swift_code": "KBIDIRTH031"
+        },
+        {
+          "branch_name": "Shahis Beheshti Branch",
+          "city": "Tehran",
+          "swift_code": "KBIDIRTH050"
+        },
+        {
+          "branch_name": "Tehran",
+          "city": "Tehran",
+          "swift_code": "KBIDIRTHSHB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tehran",
+          "swift_code": "KBIDIRTHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Iranian Venezuelan Bi-national Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tehran",
+          "swift_code": "IVBBIRTHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Helal Iran Medical Devices Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karaj",
+          "swift_code": "HIMDIRT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fnxcard Corporation Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Isfahan",
+          "swift_code": "FNXCIRT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Institute For Development",
+      "branches": [
+        {
+          "branch_name": "Central",
+          "city": "Tehran",
+          "swift_code": "BTOSIRTHCNT"
+        },
+        {
+          "branch_name": "Isfahan201",
+          "city": "Isfahan",
+          "swift_code": "BTOSIRTHISF"
+        },
+        {
+          "branch_name": "Kish Branch601",
+          "city": "Kish Island",
+          "swift_code": "BTOSIRTHKSH"
+        },
+        {
+          "branch_name": "Madar Sq ,104",
+          "city": "Tehran",
+          "swift_code": "BTOSIRTHMAD"
+        },
+        {
+          "branch_name": "Mashhad301",
+          "city": "Mashhad",
+          "swift_code": "BTOSIRTHMSH"
+        },
+        {
+          "branch_name": "Sanaie113",
+          "city": "Tehran",
+          "swift_code": "BTOSIRTHSAN"
+        },
+        {
+          "branch_name": "Tabriz",
+          "city": "Tabriz",
+          "swift_code": "BTOSIRTHTAB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tehran",
+          "swift_code": "BTOSIRTHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "City Bank (public Corp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tehran",
+          "swift_code": "CIYBIRTHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Pasargad",
+      "branches": [
+        {
+          "branch_name": "Central Branch, No 430, Mirdamad Blvd ,",
+          "city": "Tehran",
+          "swift_code": "BKBPIRTH201"
+        },
+        {
+          "branch_name": "Saadat Abad St ,",
+          "city": "Isfahan",
+          "swift_code": "BKBPIRTHIS1"
+        },
+        {
+          "branch_name": "7941895347 Kish Island",
+          "city": "Kish Island",
+          "swift_code": "BKBPIRTHKS1"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tehran",
+          "swift_code": "BKBPIRTHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Maskan",
+      "branches": [
+        {
+          "branch_name": "Central Branch",
+          "city": "Tehran",
+          "swift_code": "BKMNIRTH111"
+        },
+        {
+          "branch_name": "Isfahan Central Branch",
+          "city": "Isfahan",
+          "swift_code": "BKMNIRTH114"
+        },
+        {
+          "branch_name": "Shiraz Central Branch",
+          "city": "Shiraz",
+          "swift_code": "BKMNIRTH117"
+        },
+        {
+          "branch_name": "Tohid Branch",
+          "city": "Tehran",
+          "swift_code": "BKMNIRTH129"
+        },
+        {
+          "branch_name": "Tadjrish Br",
+          "city": "Tehran",
+          "swift_code": "BKMNIRTH181"
+        },
+        {
+          "branch_name": "Yousefabad Branch",
+          "city": "Tehran",
+          "swift_code": "BKMNIRTH219"
+        },
+        {
+          "branch_name": "Sadaf Trade Centre",
+          "city": "Chabahar Port",
+          "swift_code": "BKMNIRTH276"
+        },
+        {
+          "branch_name": "Kish Venoos Branch",
+          "city": "Kish Island",
+          "swift_code": "BKMNIRTH286"
+        },
+        {
+          "branch_name": "Tehran Taleqani Branch",
+          "city": "Tehran",
+          "swift_code": "BKMNIRTH295"
+        },
+        {
+          "branch_name": "Tehran Narmak Branch",
+          "city": "Tehran",
+          "swift_code": "BKMNIRTH297"
+        },
+        {
+          "branch_name": "Saadat Abad Br",
+          "city": "Tehran",
+          "swift_code": "BKMNIRTH412"
+        },
+        {
+          "branch_name": "Isfahan Ferdowsi Branch",
+          "city": "Isfahan",
+          "swift_code": "BKMNIRTH417"
+        },
+        {
+          "branch_name": "Tehran Sepahbod Qarani Branch",
+          "city": "Tehran",
+          "swift_code": "BKMNIRTH421"
+        },
+        {
+          "branch_name": "Tehran Foreign Exchange Branch",
+          "city": "Tehran",
+          "swift_code": "BKMNIRTH454"
+        },
+        {
+          "branch_name": "Mirdamad Branch",
+          "city": "Tehran",
+          "swift_code": "BKMNIRTH469"
+        },
+        {
+          "branch_name": "Afriqa Branch",
+          "city": "Tehran",
+          "swift_code": "BKMNIRTH554"
+        },
+        {
+          "branch_name": "Motahari Branch",
+          "city": "Tehran",
+          "swift_code": "BKMNIRTH661"
+        },
+        {
+          "branch_name": "Qeshm Island Central Branch",
+          "city": "Qeshm",
+          "swift_code": "BKMNIRTH782"
+        },
+        {
+          "branch_name": "Accounting Division",
+          "city": "Tehran",
+          "swift_code": "BKMNIRTHACC"
+        },
+        {
+          "branch_name": "11365 Tehran",
+          "city": "Tehran",
+          "swift_code": "BKMNIRTHSHB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tehran",
+          "swift_code": "BKMNIRTHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Keshavarzi",
+      "branches": [
+        {
+          "branch_name": "Orumiyeh",
+          "city": "Orumiyeh",
+          "swift_code": "KESHIRTH020"
+        },
+        {
+          "branch_name": "Isfahan Branch",
+          "city": "Isfahan",
+          "swift_code": "KESHIRTH030"
+        },
+        {
+          "branch_name": "Tabriz Branch",
+          "city": "Tabriz",
+          "swift_code": "KESHIRTH040"
+        },
+        {
+          "branch_name": "Kerman Branch",
+          "city": "Kerman",
+          "swift_code": "KESHIRTH070"
+        },
+        {
+          "branch_name": "Qazvin Branch",
+          "city": "Qazvin",
+          "swift_code": "KESHIRTH100"
+        },
+        {
+          "branch_name": "Shadmehr Branch",
+          "city": "Tehran",
+          "swift_code": "KESHIRTH103"
+        },
+        {
+          "branch_name": "Shahrara",
+          "city": "Tehran",
+          "swift_code": "KESHIRTH110"
+        },
+        {
+          "branch_name": "Mashhad Branch",
+          "city": "Mashhad",
+          "swift_code": "KESHIRTH140"
+        },
+        {
+          "branch_name": "Bank Keshavarzi",
+          "city": "Tehran",
+          "swift_code": "KESHIRTH160"
+        },
+        {
+          "branch_name": "Markaz Tejari Golestan Branch",
+          "city": "Tehran",
+          "swift_code": "KESHIRTH180"
+        },
+        {
+          "branch_name": "Sari Branch",
+          "city": "Sari",
+          "swift_code": "KESHIRTH204"
+        },
+        {
+          "branch_name": "Rasht Branch",
+          "city": "Rasht",
+          "swift_code": "KESHIRTH210"
+        },
+        {
+          "branch_name": "Arak",
+          "city": "Arak",
+          "swift_code": "KESHIRTH240"
+        },
+        {
+          "branch_name": "Kish Branch",
+          "city": "Kish Island",
+          "swift_code": "KESHIRTH300"
+        },
+        {
+          "branch_name": "Dolati Branch",
+          "city": "Tehran",
+          "swift_code": "KESHIRTH340"
+        },
+        {
+          "branch_name": "Chabahar Branch",
+          "city": "Chabahar Port",
+          "swift_code": "KESHIRTH390"
+        },
+        {
+          "branch_name": "Vali-asr Branch",
+          "city": "Tehran",
+          "swift_code": "KESHIRTH440"
+        },
+        {
+          "branch_name": "Persian Gulf",
+          "city": "Bandar Abbas",
+          "swift_code": "KESHIRTH450"
+        },
+        {
+          "branch_name": "Vanak",
+          "city": "Tehran",
+          "swift_code": "KESHIRTH610"
+        },
+        {
+          "branch_name": "Tohid Branch",
+          "city": "Tehran",
+          "swift_code": "KESHIRTH620"
+        },
+        {
+          "branch_name": "Tohid Branch",
+          "city": "Karaj",
+          "swift_code": "KESHIRTH701"
+        },
+        {
+          "branch_name": "Qeshm Branch",
+          "city": "Qeshm",
+          "swift_code": "KESHIRTH703"
+        },
+        {
+          "branch_name": "Shiraz Branch",
+          "city": "Shiraz",
+          "swift_code": "KESHIRTH705"
+        },
+        {
+          "branch_name": "Sie-tir",
+          "city": "Tehran",
+          "swift_code": "KESHIRTH760"
+        },
+        {
+          "branch_name": "Qom Branch",
+          "city": "Qom",
+          "swift_code": "KESHIRTH810"
+        },
+        {
+          "branch_name": "Shahid Beheshti Branch",
+          "city": "Tehran",
+          "swift_code": "KESHIRTH820"
+        },
+        {
+          "branch_name": "Credit Card Services",
+          "city": "Tehran",
+          "swift_code": "KESHIRTHSHB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tehran",
+          "swift_code": "KESHIRTHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Eghtesad Novin",
+      "branches": [
+        {
+          "branch_name": "Afrigha",
+          "city": "Tehran",
+          "swift_code": "BEGNIRTHAFG"
+        },
+        {
+          "branch_name": "Artesh",
+          "city": "Tabriz",
+          "swift_code": "BEGNIRTHART"
+        },
+        {
+          "branch_name": "Azadi Isfahan",
+          "city": "Isfahan",
+          "swift_code": "BEGNIRTHAZD"
+        },
+        {
+          "branch_name": "Bushehr",
+          "city": "Bushehr",
+          "swift_code": "BEGNIRTHBSH"
+        },
+        {
+          "branch_name": "Esfandyar",
+          "city": "Tehran",
+          "swift_code": "BEGNIRTHESF"
+        },
+        {
+          "branch_name": "Ferdosi",
+          "city": "Tehran",
+          "swift_code": "BEGNIRTHFER"
+        },
+        {
+          "branch_name": "Ghadir",
+          "city": "Tehran",
+          "swift_code": "BEGNIRTHGHD"
+        },
+        {
+          "branch_name": "Imam Khomeini",
+          "city": "Mashhad",
+          "swift_code": "BEGNIRTHIKH"
+        },
+        {
+          "branch_name": "Kish Island Branch",
+          "city": "Kish Island",
+          "swift_code": "BEGNIRTHKSH"
+        },
+        {
+          "branch_name": "Mofatteh Branch",
+          "city": "Tehran",
+          "swift_code": "BEGNIRTHMFT"
+        },
+        {
+          "branch_name": "Nft",
+          "city": "Tehran",
+          "swift_code": "BEGNIRTHNFT"
+        },
+        {
+          "branch_name": "Cms-atm",
+          "city": "Tehran",
+          "swift_code": "BEGNIRTHSHB"
+        },
+        {
+          "branch_name": "Taghi Abad",
+          "city": "Mashhad",
+          "swift_code": "BEGNIRTHTGH"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tehran",
+          "swift_code": "BEGNIRTHXXX"
+        },
+        {
+          "branch_name": "Zand",
+          "city": "Shiraz",
+          "swift_code": "BEGNIRTHZND"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Day",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tehran",
+          "swift_code": "DAYBIRT1XXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "country_name": "Nepal",
+  "alpha_2": "NP",
+  "country_code": "524",
+  "banks": [
+    {
+      "bank_name": "Tourism Development Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "TDBLNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sunrise Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "SRBLNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank Nepal Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "SCBLNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Siddhartha Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "SIDDNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sanima Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "SNMANPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rastriya Banijya Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "RBBANPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prime Commercial Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "PCBLNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prabhu Bikas Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Prabhu Bikas Bank Ltd",
+          "city": "Kathmandu",
+          "swift_code": "PABUNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nmb Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "NMBBNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nic Asia Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "NICENPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nepal Sbi Bank Ltd., Kathmandu",
+      "branches": [
+        {
+          "branch_name": "Birgunj Branch",
+          "city": "Kathmandu",
+          "swift_code": "NSBINPKA001"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "NSBINPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nepal Rastra Bank",
+      "branches": [
+        {
+          "branch_name": "Foreign Exchange Department",
+          "city": "Kathmandu",
+          "swift_code": "NRBLNPKAFED"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "NRBLNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nepal Investment Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "NIBLNPKTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nepal Credit And Commerce Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "New Road Branch",
+          "city": "Kathmandu",
+          "swift_code": "NBOCNPKANRD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "NBOCNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nepal Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "NEBLNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nepal Bangladesh Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "NPBBNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nabil Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "NARBNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mega Bank Nepal Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "MBNLNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Laxmi Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "LXBLNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kumari Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "KMBLNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kasthamandap Development Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "KDBLNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kist Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "KISTNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lumbini Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "LUBLNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Janata Bank Nepal Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "JBNLNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Machhapuchchhre Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "MBLNNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Himalayan Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "HIMANPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Grand Bank Nepal Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "DCBNNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Ime Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Birgunj",
+          "swift_code": "GLBBNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commerz And Trust Bank Nepal Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "CTBNNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clean Energy Development Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Clean Energy Development Bank Limited",
+          "city": "Kathmandu",
+          "swift_code": "CEDBNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Civil Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "CIVLNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Everest Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "EVBLNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank N. A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "CITINPK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Kathmandu Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "BOKLNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citizens Bank International Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "CTZNNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agricultural Development Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "ADBLNPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ace Development Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "ACDENPKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Century Commercial Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kathmandu",
+          "swift_code": "CCBNNPKAXXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "country_name": "Lesotho",
+  "alpha_2": "LS",
+  "country_code": "426",
+  "banks": [
+    {
+      "bank_name": "Standard Lesotho Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maseru",
+          "swift_code": "SBICLSMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nedbank (lesotho) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maseru",
+          "swift_code": "NEDLLSMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maluti Mountain Brewery Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maseru",
+          "swift_code": "SABMLSM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lesotho Postbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maseru",
+          "swift_code": "LESHLSMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First National Bank Of Lesotho",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maseru",
+          "swift_code": "FIRNLSMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Lesotho",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maseru",
+          "swift_code": "CBLELSMXXXX"
+        }
+      ]
+    }
+  ]
+}

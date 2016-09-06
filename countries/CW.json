@@ -1,0 +1,472 @@
+{
+  "country_name": "Cura\u00e7ao",
+  "alpha_2": "CW",
+  "country_code": "531",
+  "banks": [
+    {
+      "bank_name": "First Curacao International Bank N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "FCURCWCUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Exprinter International Bank N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "EINBCWCUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Finance N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "DEFBCWC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citco Banking Corporation N.v.",
+      "branches": [
+        {
+          "branch_name": "Dealing Room",
+          "city": "Willemstad",
+          "swift_code": "CITCCWCUDSK"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "CITCCWCUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Centrale Bank Van Curacao En Sint Maarten",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "CBCSCWCUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ebna Bank N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "EBNVCWCUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Provincial Overseas N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "BPOCCWCUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional De Credito, C.a. B U, Srcsal Curacao",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "NCRTCWCAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Provincial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "BPROCWC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Di Caribe N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "BDCCCWCUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Blue Bank International N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "BBICCWCWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United International Bank N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "UDIBCWCUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Totalbank Curacao N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Scharloo",
+          "swift_code": "TOTLCWCUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Republic International Bank, N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "RIBKCWCUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rabobank Curacao N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "RABOCWCUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orco Bank N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "ORBACWCUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Noro Bank N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "NRROCWC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Postspaarbank Van De Nederlandse Antillen",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "PONECWC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Netherlands Caribbean Bank, N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "NCBCCWC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moore Global Fixed Income Fund Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "MOCNCWC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Midpacific Bank N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "BMIDCWC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Middenbank Curacao N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "MIDCCWC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meespierson Bank (curacao) N.v. (formely Known As Fortis Bank (curacao) N.v.",
+      "branches": [
+        {
+          "branch_name": "Willemstad",
+          "city": "Willemstad",
+          "swift_code": "MEESCWCUWLO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "MEESCWCUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maduro And Curiel's Bank N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "MCBKCWCUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Irvita Plant Protection N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "IRPPCWCWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interunion Bank (antilles",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "INANCWC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interpro Bank And Trust Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "ITCOCWC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hollandsche Bank-unie (internationa L) N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "HOLUCWC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Giro Curacao N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "GIRCCWCUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Firstcarribbean International Bank (curacao) N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "FCIBCWC2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Firstcaribbean International Bank (cayman Ltd) Curacao Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "FCIBCWCUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "South American International Bank Of Curacao",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "SAINCWCUXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "SAINCWC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Financiere Des Antilles N.v",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "SFANCWCUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis (na) N.v. (formerly Meespierson (nederlandse Antillen) N.v.",
+      "branches": [
+        {
+          "branch_name": "Willemstad",
+          "city": "Willemstad",
+          "swift_code": "MEESCWCUCUR"
+        },
+        {
+          "branch_name": "Willemstad",
+          "city": "Willemstad",
+          "swift_code": "MEESCWCUSMX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sky Bank Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "SKYBCWCUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Girobank International N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "GIRCCWCCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "S.f.t. Bank N.v. (formerly Citco Bank Antilles Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "CITCCWCCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rorento N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "RGRRCWC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Del Orinoco",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "ORIBCWCUXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "ORIBCWC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Continental Overseas N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "COOVCWC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Aliado Internacional Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "BALICWC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abn-amro Trust Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "ABNACWC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abb Investment N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "ABBNCWC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bancaribe Curacao Bank N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "CARACWCUXXX"
+        }
+      ]
+    }
+  ]
+}

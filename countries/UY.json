@@ -1,0 +1,712 @@
+{
+  "country_name": "Uruguay",
+  "alpha_2": "UY",
+  "country_code": "858",
+  "banks": [
+    {
+      "bank_name": "Victor Paullier And Cia. Sociedad De Bolsa S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "VPCOUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Varlix S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "VARLUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ute",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "UTEUUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union-capital A.f.a.p.s.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "UAFAUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Transamerica Casa Bancaria",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "TRCAUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tpcg Financial Services S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "TPFSUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "South Financial Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "SFCOUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sistema De Pagos Interbancarios",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "SIPNUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bcc Credit And Finance (uruguay) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "BCURUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bapro Uruguay",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "PRBAUYMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Heritage (uruguay) S.a. (formerly Banco Surinvest S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "SURIUYMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bandes Uruguay S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "CFACUYMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Santander",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "BSCHUYMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Patagonia (uruguay) S.a.i.f.e.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Punta Del Este",
+          "swift_code": "BPATUYMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Itau",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo Mvd",
+          "swift_code": "ITAUUYMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Hipotecario Del Uruguay",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "BHUMUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Galicia Uruguay S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "GABAUYMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Seguros Del Estado",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "BSEMUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Prevision Social",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "BPSOUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Central Del Uruguay",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "CBCUUYMDXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "CBCUUYMFXXX"
+        },
+        {
+          "branch_name": "Montevideo",
+          "city": "Montevideo",
+          "swift_code": "CBCUUYMMFGD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "CBCUUYMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bilbao Vizcaya Argentaria Uruguay S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "BBVAUYMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Avenida S.a Empresa De Servicios Financieros",
+      "branches": [
+        {
+          "branch_name": "Avenida S.a Empresa De Servicios Financieros",
+          "city": "Montevideo",
+          "swift_code": "AVESUYMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Antel",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "ANTLUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Almar S.a.",
+      "branches": [
+        {
+          "branch_name": "Almar S.a.",
+          "city": "Montevideo",
+          "swift_code": "LMARUYMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Afinidad A.f.a.p.s.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "AFAAUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sistema De Liquidacion Bruta",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "RTSXUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortigol S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "FOTTUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fitch Uruguay Calificadora Riesgo S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "FRIPUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finacam S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "FNCMUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Exprinter (uruguay) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "ECBUUYMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurocam Sa",
+      "branches": [
+        {
+          "branch_name": "Ejido Branch",
+          "city": "Montevideo",
+          "swift_code": "CBEUUYM10ME"
+        },
+        {
+          "branch_name": "El Gaucho Branch",
+          "city": "Montevideo",
+          "swift_code": "CBEUUYM10MG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "CBEUUYMMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "CBEUUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Discount Bank (latin America",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "DBLAUYMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank (uruguay) S.a.i.f.e.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "DEUTUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Depositario Central De Valores",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "DECVUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cuentas Del F.g.d.b",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "SPABUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Copab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "COPAUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Columbusnet S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "COLUUYMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank N.a. Uruguay",
+      "branches": [
+        {
+          "branch_name": "Colonia",
+          "city": "Colonia",
+          "swift_code": "CITIUYMMCOL"
+        },
+        {
+          "branch_name": "Punta Del Este",
+          "city": "Punta Del Este",
+          "swift_code": "CITIUYMMPDE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "CITIUYMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chase Manhattan Investments S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "CHMIUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Centro Sudamericano S.a. (delta Servicios Financieros",
+      "branches": [
+        {
+          "branch_name": "Centro Sudamericano S.a. (delta Servicios Financieros",
+          "city": "Montevideo",
+          "swift_code": "CSDRUYMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Centro Financiero Cooperativo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "CFCOUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cambio Regional S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "REGLUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Notarial De Jubilaciones Y Pens.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "CJNOUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja De Jub. Y Pens. Profesion. Univers.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "CJPPUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja De Jub. Y Pens. Bancarias",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "CJPBUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bolsa De Valores De Montevideo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "XMNTUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Secvaloris Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "SECVUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Republica A.f.a.p. S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "RAFAUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Plataforma Transaccional Bvm",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "SIBEUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Plataforma Transaccional Bevsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "SIOPUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Piano International Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "PMTRUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nuevo Banco Comercial S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "COMEUYMMALL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "COMEUYMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nixus S.a.",
+      "branches": [
+        {
+          "branch_name": "Nixus S.a.",
+          "city": "Montevideo",
+          "swift_code": "NIXSUYMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Money Sur S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "MSURUYMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ministerio De Economia Y Finanzas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "TGENUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lundin Sa-monex Empresa De Servicios Financieros",
+      "branches": [
+        {
+          "branch_name": "Lundin Sa-monex Empresa De Servicios Financieros",
+          "city": "Montevideo",
+          "swift_code": "LUNDUYMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Loyar S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "LOYRUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Leumi (latin America) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "LUMIUYMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lespan.s.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "LSPNUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Integracion A.f.a.p. S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "IAFAUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Indumex S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "INUXUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "I.f.e. Banco Roberts S.a. (uruguay",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "BACOUYM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank (uruguay) S.a. (formerly Republic National Bank Of New York (uruguay) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "BLICUYMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hapoalim Latin America S.a.",
+      "branches": [
+        {
+          "branch_name": "11100 Montevideo",
+          "city": "Montevideo",
+          "swift_code": "POALUYMM001"
+        },
+        {
+          "branch_name": "Punta Del Este",
+          "city": "Punta Del Este",
+          "swift_code": "POALUYMM002"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "POALUYMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gales Servicios Financieros S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montevideo",
+          "swift_code": "GSEFUYMMXXX"
+        }
+      ]
+    }
+  ]
+}

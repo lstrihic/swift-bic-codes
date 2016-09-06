@@ -1,0 +1,3597 @@
+{
+  "country_name": "Ukraine",
+  "alpha_2": "UA",
+  "country_code": "804",
+  "banks": [
+    {
+      "bank_name": "Odessa-bank Jscb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Odesa",
+          "swift_code": "ODBKUA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Odessa Commodity Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Odesa",
+          "swift_code": "XODEUA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Feodosiya Branch",
+          "city": "Feodosiya",
+          "swift_code": "UNCCUA21FEO"
+        },
+        {
+          "branch_name": "Primorsky Branch",
+          "city": "Sevastopol",
+          "swift_code": "UNCCUA21SEV"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Simferopol",
+          "swift_code": "UNCCUA21XXX"
+        },
+        {
+          "branch_name": "Yalta Branch",
+          "city": "Yalta",
+          "swift_code": "UNCCUA21YAL"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Join-stock Company 'bank 'sofiyskiy'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "SFBNUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Profin Bank, Pjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Donetsk",
+          "swift_code": "PFBAUA2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pridneprovsk Commodity Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dnipropetrovsk",
+          "swift_code": "XPRIUA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prichernomorye Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dnipropetrovsk",
+          "swift_code": "PRIHUA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc Ukrainian Construction Investment Bank",
+      "branches": [
+        {
+          "branch_name": "Pjsc Ukrainian Construction Investment Bank",
+          "city": "Kyiv",
+          "swift_code": "UCIBUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc Seb Corporate Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "ESSEUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc Russian Standard Bank",
+      "branches": [
+        {
+          "branch_name": "Pjsc Russian Standard Bank",
+          "city": "Kiev",
+          "swift_code": "BRSUUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc Jsc Bank Trust-capital",
+      "branches": [
+        {
+          "branch_name": "Pjsc Jsc Bank Trust-capital",
+          "city": "Kiev",
+          "swift_code": "TCBNUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc Idea Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lviv",
+          "swift_code": "IDBAUAUKXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lviv",
+          "swift_code": "PRJBUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc Bat Prilucky Tobacco Company",
+      "branches": [
+        {
+          "branch_name": "Pjsc Bat Prilucky Tobacco Company",
+          "city": "Prylucky",
+          "swift_code": "BATSUA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc Bank Avangard",
+      "branches": [
+        {
+          "branch_name": "Pjsc Bank Avangard",
+          "city": "Kiev",
+          "swift_code": "AVGDUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc 'starokyivsky Bank'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "JSTTUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc 'radical Bank'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Petropavlivska",
+          "swift_code": "RADLUA2PXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc 'motor-bank'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zaporizhzhya",
+          "swift_code": "MOOJUA2ZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc 'finance Bank'",
+      "branches": [
+        {
+          "branch_name": "Pjsc 'finance Bank'",
+          "city": "Kiev",
+          "swift_code": "FINBUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc 'express-bank'",
+      "branches": [
+        {
+          "branch_name": "Simferopol Branch",
+          "city": "Simferopol",
+          "swift_code": "EXPBUAUKSIM"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc 'cb 'financial Partner'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "FNPRUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc 'alpari Bank'",
+      "branches": [
+        {
+          "branch_name": "Pjsc 'alpari Bank'",
+          "city": "Kiev",
+          "swift_code": "ALPAUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pc Bank Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "JSCJUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Open Joint Stock Company Commercial Bank'standart'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "STRTUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ukrposhta Ukrainian State Enterprise Of Posts",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "SEPSUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ukrainian Universal Commodity Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "XUKRUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ukrainian State Enterprise Of Posts 'ukrposhta'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "USEUUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ukrainian Commodity Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "XUKCUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tk Credit Jscb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "TKCBUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronics Ukraine Company",
+      "branches": [
+        {
+          "branch_name": "Kiev",
+          "city": "Kiev",
+          "swift_code": "SECTUAU1960"
+        },
+        {
+          "branch_name": "Kiev",
+          "city": "Kiev",
+          "swift_code": "SECTUAU1962"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "SECTUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Joint-stock Company Bank Mikhaylivskiy",
+      "branches": [
+        {
+          "branch_name": "Public Joint-stock Company Bank Mikhaylivskiy",
+          "city": "Kiev",
+          "swift_code": "MIKHUAUKXXX"
+        },
+        {
+          "branch_name": "Public Joint-stock Company Bank Mikhaylivskiy",
+          "city": "Kyiv",
+          "swift_code": "PJCMUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Joint-stock Company 'melior Bank'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dnipropetrovsk",
+          "swift_code": "MLRBUA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Joint-stock Company 'commercial Bank 'axiom'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dnipropetrovsk",
+          "swift_code": "AXBNUA2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Joint-stock Company 'bank' 'unison'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "UNSBUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Joint Stock Company Green Bank",
+      "branches": [
+        {
+          "branch_name": "Public Joint Stock Company Green Bank",
+          "city": "Kiev",
+          "swift_code": "GRNBUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Joint Stock Company Bank Alliance",
+      "branches": [
+        {
+          "branch_name": "Public Joint Stock Company Bank Alliance",
+          "city": "Kiev",
+          "swift_code": "ALJSUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Joint Stock Company 'state Savings Bank Of Ukraine'",
+      "branches": [
+        {
+          "branch_name": "Sumy Regional Branch",
+          "city": "Sumy",
+          "swift_code": "COSBUAUKSUM"
+        },
+        {
+          "branch_name": "Ternopil Regional Branch",
+          "city": "Ternopil",
+          "swift_code": "COSBUAUKTER"
+        },
+        {
+          "branch_name": "Vinnitsia Regional Branch",
+          "city": "Vinnytsia",
+          "swift_code": "COSBUAUKVIN"
+        },
+        {
+          "branch_name": "Zakarpattya Regional Branch",
+          "city": "Uzhhorod",
+          "swift_code": "COSBUAUKZAK"
+        },
+        {
+          "branch_name": "Zaporozhye Regional Branch",
+          "city": "Zaporozhye",
+          "swift_code": "COSBUAUKZAP"
+        },
+        {
+          "branch_name": "Zhytomyr Regional Branch",
+          "city": "Zhytomyr",
+          "swift_code": "COSBUAUKZHI"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Joint Stock Company 'metabank'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zaporozhye",
+          "swift_code": "MTLGUA2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Joint Stock Company 'legbank'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "LEGBUAUXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Joint Stock Company 'intercreditbank'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dnipropetrovsk",
+          "swift_code": "ICBNUA2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Electronic Registry Of Ukraine",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "NERKUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Llc Commerce Altair Financial Department",
+      "branches": [
+        {
+          "branch_name": "Llc Commerce Altair Financial Department",
+          "city": "Kiev",
+          "swift_code": "CBANUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kreditprombank (public Joint Stock Company",
+      "branches": [
+        {
+          "branch_name": "Dnipropetrovsk Branch",
+          "city": "Dnipropetrovsk",
+          "swift_code": "KPRBUAU1DNP"
+        },
+        {
+          "branch_name": "Donbas Branch",
+          "city": "Donetsk",
+          "swift_code": "KPRBUAU1DON"
+        },
+        {
+          "branch_name": "Kharkiv Branch",
+          "city": "Kharkiv",
+          "swift_code": "KPRBUAU1KHR"
+        },
+        {
+          "branch_name": "Kremenchug Branch",
+          "city": "Kremenchug",
+          "swift_code": "KPRBUAU1KRM"
+        },
+        {
+          "branch_name": "Kherson Branch",
+          "city": "Kherson",
+          "swift_code": "KPRBUAU1KRS"
+        },
+        {
+          "branch_name": "Lugansk Branch",
+          "city": "Luhansk",
+          "swift_code": "KPRBUAU1LGK"
+        },
+        {
+          "branch_name": "Lviv Branch",
+          "city": "Lviv",
+          "swift_code": "KPRBUAU1LVV"
+        },
+        {
+          "branch_name": "Mykolaiv Branch",
+          "city": "Mykolaiv",
+          "swift_code": "KPRBUAU1NIK"
+        },
+        {
+          "branch_name": "Odesa Branch",
+          "city": "Odesa",
+          "swift_code": "KPRBUAU1ODS"
+        },
+        {
+          "branch_name": "Vinnytsya Branch",
+          "city": "Vinnytsia",
+          "swift_code": "KPRBUAU1VIN"
+        },
+        {
+          "branch_name": "Volynska Branch",
+          "city": "Lutsk",
+          "swift_code": "KPRBUAU1VLN"
+        },
+        {
+          "branch_name": "Zaporizhzhya Branch",
+          "city": "Zaporizhzhya",
+          "swift_code": "KPRBUAU1ZPR"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kiev Universal Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "XKIEUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kharkov Commodity Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kharkiv",
+          "swift_code": "XKHRUA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsc 'cominvestbank' (formerly Koopinvestbank Ltd Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Uzhhorod",
+          "swift_code": "KOOPUAUXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsc 'bank 'finance And Credit'",
+      "branches": [
+        {
+          "branch_name": "Regional Dnipropetrovsk Region",
+          "city": "Dnipropetrovsk",
+          "swift_code": "FBACUAU1DNI"
+        },
+        {
+          "branch_name": "Donetsk Regional Branch",
+          "city": "Donetsk",
+          "swift_code": "FBACUAU1DON"
+        },
+        {
+          "branch_name": "Ivano-frankivsk Regional Branch",
+          "city": "Ivano-Frankivsk",
+          "swift_code": "FBACUAU1IVF"
+        },
+        {
+          "branch_name": "Branch In Kharkiv Region",
+          "city": "Kharkiv",
+          "swift_code": "FBACUAU1KHA"
+        },
+        {
+          "branch_name": "Branch In Dnipropetrovsk Region",
+          "city": "Kryvy Rih",
+          "swift_code": "FBACUAU1KRI"
+        },
+        {
+          "branch_name": "Kyiv Regional Branch",
+          "city": "Kiev",
+          "swift_code": "FBACUAU1KYI"
+        },
+        {
+          "branch_name": "Branch In Lugansk Region",
+          "city": "Lugansk",
+          "swift_code": "FBACUAU1LUG"
+        },
+        {
+          "branch_name": "Lviv Reginal Branch",
+          "city": "Lviv",
+          "swift_code": "FBACUAU1LVI"
+        },
+        {
+          "branch_name": "Mykolaiv Regional Branch",
+          "city": "Mykolaiv",
+          "swift_code": "FBACUAU1MYK"
+        },
+        {
+          "branch_name": "Odesa Reginal Branch",
+          "city": "Odesa",
+          "swift_code": "FBACUAU1ODE"
+        },
+        {
+          "branch_name": "Regional Poltava Branch",
+          "city": "Poltava",
+          "swift_code": "FBACUAU1PLT"
+        },
+        {
+          "branch_name": "Branch In Poltava Region",
+          "city": "Komsomolsk",
+          "swift_code": "FBACUAU1POL"
+        },
+        {
+          "branch_name": "Branch In Rivne Region",
+          "city": "Rivne",
+          "swift_code": "FBACUAU1RIV"
+        },
+        {
+          "branch_name": "Branch In Zaporizhzhya Region",
+          "city": "Zaporizhzhya",
+          "swift_code": "FBACUAU1ZAP"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsb Olumpic Ukraine",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "JSOUUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsb 'ukoopspilka'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "JSUKUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Joint-stock Bank 'morskoy'",
+      "branches": [
+        {
+          "branch_name": "Evpatoria Branch 2",
+          "city": "Evpatoria",
+          "swift_code": "MORKUAU1EV2"
+        },
+        {
+          "branch_name": "Evpatoria Branch",
+          "city": "Evpatoria",
+          "swift_code": "MORKUAU1EVP"
+        },
+        {
+          "branch_name": "Feodosiya Branch",
+          "city": "Feodosiya",
+          "swift_code": "MORKUAU1FEO"
+        },
+        {
+          "branch_name": "Kerch Branch",
+          "city": "Kerch",
+          "swift_code": "MORKUAU1KER"
+        },
+        {
+          "branch_name": "Kherson Branch",
+          "city": "Kherson",
+          "swift_code": "MORKUAU1KHE"
+        },
+        {
+          "branch_name": "Mykolaiv Branch 2",
+          "city": "Mykolaiv",
+          "swift_code": "MORKUAU1MY2"
+        },
+        {
+          "branch_name": "Mykolaiv Branch",
+          "city": "Mykolaiv",
+          "swift_code": "MORKUAU1MYK"
+        },
+        {
+          "branch_name": "Simferopol Branch",
+          "city": "Simferopol",
+          "swift_code": "MORKUAU1SIM"
+        }
+      ]
+    },
+    {
+      "bank_name": "Joint Stock Company Tmm-bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "JSOTUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Joint Stock Company 'accent-bank'",
+      "branches": [
+        {
+          "branch_name": "Lviv",
+          "city": "Lviv",
+          "swift_code": "UKCBUAU102V"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investbank Joint Stock Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Odessa",
+          "swift_code": "INJOUA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Invest-bank Ukraine Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kharkiv",
+          "swift_code": "KIBBUA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interregional Financial Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "INFYUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gasbank, Joint Stock Bank Ukraine",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "GJSAUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Foyil Securities New Europe Zat",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "FSNEUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fidobank (formerly Seb Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "FDBKUAUXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brokbusinessbank",
+      "branches": [
+        {
+          "branch_name": "Bila Tserkva Branch",
+          "city": "Bila Tserkva",
+          "swift_code": "BRBBUAUXBTR"
+        },
+        {
+          "branch_name": "Cherkasy Branch",
+          "city": "Cherkasy",
+          "swift_code": "BRBBUAUXCHK"
+        },
+        {
+          "branch_name": "Dnipropetrovsk Branch",
+          "city": "Dnipropetrovsk",
+          "swift_code": "BRBBUAUXDNI"
+        },
+        {
+          "branch_name": "Donetsk Branch",
+          "city": "Donetsk",
+          "swift_code": "BRBBUAUXDON"
+        },
+        {
+          "branch_name": "Gorlovka Branch",
+          "city": "Gorlovka City",
+          "swift_code": "BRBBUAUXGRL"
+        },
+        {
+          "branch_name": "Ivano-frankivsk Branch",
+          "city": "Ivano-Frankivsk",
+          "swift_code": "BRBBUAUXIVF"
+        },
+        {
+          "branch_name": "Kharkiv Branch",
+          "city": "Kharkiv",
+          "swift_code": "BRBBUAUXKHA"
+        },
+        {
+          "branch_name": "Kherson Branch",
+          "city": "Kherson",
+          "swift_code": "BRBBUAUXKHE"
+        },
+        {
+          "branch_name": "Khmelnytsky Branch",
+          "city": "Khmelnytsky",
+          "swift_code": "BRBBUAUXKHM"
+        },
+        {
+          "branch_name": "Kiev Branch",
+          "city": "Kiev",
+          "swift_code": "BRBBUAUXKIE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "BRBBUAUXXXX"
+        },
+        {
+          "branch_name": "Kramatorsk Branch",
+          "city": "Kramatorsk",
+          "swift_code": "BRBBUAUXKRA"
+        },
+        {
+          "branch_name": "Luhansk Branch",
+          "city": "Luhansk",
+          "swift_code": "BRBBUAUXLUH"
+        },
+        {
+          "branch_name": "Volyn Branch",
+          "city": "Lutsk",
+          "swift_code": "BRBBUAUXLUT"
+        },
+        {
+          "branch_name": "Lviv Branch",
+          "city": "Lviv",
+          "swift_code": "BRBBUAUXLVI"
+        },
+        {
+          "branch_name": "Mykolaiv Branch",
+          "city": "Mykolaiv",
+          "swift_code": "BRBBUAUXMYK"
+        },
+        {
+          "branch_name": "Odesa Branch",
+          "city": "Odesa",
+          "swift_code": "BRBBUAUXODE"
+        },
+        {
+          "branch_name": "Rivne Branch",
+          "city": "Rivne",
+          "swift_code": "BRBBUAUXRIV"
+        },
+        {
+          "branch_name": "Slavuta Branch",
+          "city": "Slavuta",
+          "swift_code": "BRBBUAUXSLV"
+        },
+        {
+          "branch_name": "Sumy Branch",
+          "city": "Sumy",
+          "swift_code": "BRBBUAUXSUM"
+        },
+        {
+          "branch_name": "Uzhhorod Branch",
+          "city": "Uzhhorod",
+          "swift_code": "BRBBUAUXUZH"
+        },
+        {
+          "branch_name": "Vinnitsia Branch",
+          "city": "Vinnytsia",
+          "swift_code": "BRBBUAUXVIN"
+        },
+        {
+          "branch_name": "Zaporijya Branch",
+          "city": "Zaporizhzhya",
+          "swift_code": "BRBBUAUXZAP"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bohuslav Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "BOHUUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bm Bank, Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "BMLTUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Veles Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "VELSUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Sich",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "SICHUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Pivdennyi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Odesa",
+          "swift_code": "PIVDUA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Cyprus",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "AVTOUA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank National Credit, Public Joint-Stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "NCRBUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Kyiv Js",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "JKIEUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank For Investments And Savings",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "BFISUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Cambio Pjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "CAULUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank 3/4",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "BKVKUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Avtokrazbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kremenchug",
+          "swift_code": "AVTKUA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Avant-Bank Pjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "AVSCUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Astrabank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "ASTRUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Artem-Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "ARTLUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arcada Jscb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "ARJSUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Apeks-Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "APKSUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agrarian Commercial Bank Ojsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "AGCBUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Accordbank Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "ACDCUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Etalon Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "ETALUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "'industrialbank'",
+      "branches": [
+        {
+          "branch_name": "Dnipropetrovsk Branch",
+          "city": "Dnipropetrovsk",
+          "swift_code": "IJSOUA2NDNI"
+        },
+        {
+          "branch_name": "Kherson Branch",
+          "city": "Kherson",
+          "swift_code": "IJSOUA2NKHE"
+        },
+        {
+          "branch_name": "Kiev Branch",
+          "city": "Kiev",
+          "swift_code": "IJSOUA2NKIE"
+        },
+        {
+          "branch_name": "Kremenchug Branch",
+          "city": "Kremenchug",
+          "swift_code": "IJSOUA2NKRE"
+        },
+        {
+          "branch_name": "Luhansk",
+          "city": "Luhansk",
+          "swift_code": "IJSOUA2NLUH"
+        },
+        {
+          "branch_name": "Lviv Branch",
+          "city": "Lviv",
+          "swift_code": "IJSOUA2NLVI"
+        },
+        {
+          "branch_name": "Rivne Branch",
+          "city": "Rivne",
+          "swift_code": "IJSOUA2NRIV"
+        },
+        {
+          "branch_name": "Sumy Branch",
+          "city": "Sumy",
+          "swift_code": "IJSOUA2NSUM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Zaporozhye",
+          "swift_code": "IJSOUA2NXXX"
+        },
+        {
+          "branch_name": "Zaporozhye Branch",
+          "city": "Zaporozhye",
+          "swift_code": "IJSOUA2NZAP"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swedbank (Formerly Tas-Kommerzbank Jscb)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "KPRVUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Privatbank",
+      "branches": [
+        {
+          "branch_name": "Branch 1",
+          "city": "Artemovsk",
+          "swift_code": "PBANUA2XGA1"
+        },
+        {
+          "branch_name": "Branch 2",
+          "city": "Artemovsk",
+          "swift_code": "PBANUA2XGA2"
+        },
+        {
+          "branch_name": "Cherkasy",
+          "city": "Cherkasy",
+          "swift_code": "PBANUA2XCHK"
+        },
+        {
+          "branch_name": "Chernihiv Regional Branch",
+          "city": "Chernihiv",
+          "swift_code": "PBANUA2XCHR"
+        },
+        {
+          "branch_name": "Chernivtsi Branch",
+          "city": "Chernivtsi",
+          "swift_code": "PBANUA2XCVF"
+        },
+        {
+          "branch_name": "Chervonograd Branch",
+          "city": "Chervonograd",
+          "swift_code": "PBANUA2XCGF"
+        },
+        {
+          "branch_name": "Dniprodzerjinsk Branch",
+          "city": "Dniprodzerjinsk",
+          "swift_code": "PBANUA2XDZF"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dnipropetrovsk",
+          "swift_code": "PBANUA2XXXX"
+        },
+        {
+          "branch_name": "Donetsk",
+          "city": "Donetsk",
+          "swift_code": "PBANUA2XDON"
+        },
+        {
+          "branch_name": "Feodosiya Branch",
+          "city": "Feodosiya",
+          "swift_code": "PBANUA2XFEF"
+        },
+        {
+          "branch_name": "Evpatoria Branch",
+          "city": "Evpatoria",
+          "swift_code": "PBANUA2XEVF"
+        },
+        {
+          "branch_name": "Central Branch",
+          "city": "Gorlovka City",
+          "swift_code": "PBANUA2XGR1"
+        },
+        {
+          "branch_name": "Gorlovka Main Branch",
+          "city": "Gorlovka City",
+          "swift_code": "PBANUA2XGRL"
+        },
+        {
+          "branch_name": "Ivano-frankivsk Branch",
+          "city": "Ivano-Frankivsk",
+          "swift_code": "PBANUA2XIFF"
+        },
+        {
+          "branch_name": "Kerch Branch",
+          "city": "Kerch",
+          "swift_code": "PBANUA2XKHF"
+        },
+        {
+          "branch_name": "Khartsizsk",
+          "city": "Khartsizsk",
+          "swift_code": "PBANUA2XGKH"
+        },
+        {
+          "branch_name": "Kharkiv Branch",
+          "city": "Kharkiv",
+          "swift_code": "PBANUA2XHAF"
+        },
+        {
+          "branch_name": "Kherson",
+          "city": "Kherson",
+          "swift_code": "PBANUA2XHRN"
+        },
+        {
+          "branch_name": "Khmelnytsky Branch",
+          "city": "Khmelnytsky",
+          "swift_code": "PBANUA2XHMF"
+        },
+        {
+          "branch_name": "Raschetny Centr Branch No 2",
+          "city": "Kiev",
+          "swift_code": "PBANUA2XK2F"
+        },
+        {
+          "branch_name": "Crimean Regional Branch",
+          "city": "Simferopol",
+          "swift_code": "PBANUA2XSIR"
+        },
+        {
+          "branch_name": "Sumy Branch",
+          "city": "Sumy",
+          "swift_code": "PBANUA2XSUF"
+        },
+        {
+          "branch_name": "Ternopil Branch",
+          "city": "Ternopil",
+          "swift_code": "PBANUA2XTEF"
+        },
+        {
+          "branch_name": "Vinnitsia Branch",
+          "city": "Vinnytsia",
+          "swift_code": "PBANUA2XVIF"
+        },
+        {
+          "branch_name": "Stara Vizhva",
+          "city": "Vizhva",
+          "swift_code": "PBANUA2XVIZ"
+        },
+        {
+          "branch_name": "Yalta Branch",
+          "city": "Yalta",
+          "swift_code": "PBANUA2XYLF"
+        },
+        {
+          "branch_name": "Zaporozhye",
+          "city": "Zaporozhye",
+          "swift_code": "PBANUA2XZAP"
+        },
+        {
+          "branch_name": "Zhytomyr Branch",
+          "city": "Zhytomyr",
+          "swift_code": "PBANUA2XZHF"
+        },
+        {
+          "branch_name": "Zhovti Vody",
+          "city": "Zhovti Vody",
+          "swift_code": "PBANUA2XZHO"
+        },
+        {
+          "branch_name": "Zhytomyr Regional Branch",
+          "city": "Zhytomyr",
+          "swift_code": "PBANUA2XZRR"
+        },
+        {
+          "branch_name": "Pechersky Branch Branch No 3",
+          "city": "Kiev",
+          "swift_code": "PBANUA2XK3F"
+        },
+        {
+          "branch_name": "Branch No 1",
+          "city": "Kiev",
+          "swift_code": "PBANUA2XKIE"
+        },
+        {
+          "branch_name": "Kirovohrad Branch",
+          "city": "Kirovohrad",
+          "swift_code": "PBANUA2XKGF"
+        },
+        {
+          "branch_name": "Kovel Branch",
+          "city": "Kovel",
+          "swift_code": "PBANUA2XKOF"
+        },
+        {
+          "branch_name": "Kramatorsk Branch",
+          "city": "Kramatorsk",
+          "swift_code": "PBANUA2XKTF"
+        },
+        {
+          "branch_name": "Kryvy Rih",
+          "city": "Kryvy Rih",
+          "swift_code": "PBANUA2XKRI"
+        },
+        {
+          "branch_name": "Kremenchug Branch",
+          "city": "Kremenchug",
+          "swift_code": "PBANUA2XKMF"
+        },
+        {
+          "branch_name": "Luhansk Branch",
+          "city": "Luhansk",
+          "swift_code": "PBANUA2XLGF"
+        },
+        {
+          "branch_name": "Lutsk",
+          "city": "Lutsk",
+          "swift_code": "PBANUA2XLUT"
+        },
+        {
+          "branch_name": "Lviv",
+          "city": "Lviv",
+          "swift_code": "PBANUA2XLVI"
+        },
+        {
+          "branch_name": "Mariupol Branch",
+          "city": "Mariupol",
+          "swift_code": "PBANUA2XMRF"
+        },
+        {
+          "branch_name": "Zakarpatian Regional Branch",
+          "city": "Mukachevo",
+          "swift_code": "PBANUA2XMKR"
+        },
+        {
+          "branch_name": "Nikopol Branch",
+          "city": "Nikopol",
+          "swift_code": "PBANUA2XNIF"
+        },
+        {
+          "branch_name": "Mykolaiv",
+          "city": "Mykolaiv",
+          "swift_code": "PBANUA2XMYK"
+        },
+        {
+          "branch_name": "Novovolinsk Branch",
+          "city": "Novovolinsk",
+          "swift_code": "PBANUA2XNVF"
+        },
+        {
+          "branch_name": "Odesa Branch",
+          "city": "Odesa",
+          "swift_code": "PBANUA2XODF"
+        },
+        {
+          "branch_name": "Pavlograd",
+          "city": "Pavlograd",
+          "swift_code": "PBANUA2XPAV"
+        },
+        {
+          "branch_name": "Poltava",
+          "city": "Poltava",
+          "swift_code": "PBANUA2XPOL"
+        },
+        {
+          "branch_name": "Rivne",
+          "city": "Rivne",
+          "swift_code": "PBANUA2XRIV"
+        },
+        {
+          "branch_name": "Sevastopol",
+          "city": "Sevastopol",
+          "swift_code": "PBANUA2XSEV"
+        }
+      ]
+    },
+    {
+      "bank_name": "Petrocommerce-Ukraine Bank Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "PECOUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsc Bank Golden Gate",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kharkiv",
+          "swift_code": "GGJCUA2KXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financial Union Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dnipropetrovsk",
+          "swift_code": "FSBUUA2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "European Bank Of Rational Financing Cjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "DONCUA2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurogasbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "EURGUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurobank Pjsc Cb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "EUBNUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Energobank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "ENERUAUXXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kazan",
+          "swift_code": "TRCBRU2KXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dv Bank Pjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "DVBKUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Diamant Bank Joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "DMBAUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Demark Bank Js",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chernihiv",
+          "swift_code": "DEMKUA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deltabank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "DELKUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daniel Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "DACLUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Europe Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "FBHLUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Dnepr Bank, Ukraine (Head Office)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dnipropetrovsk",
+          "swift_code": "CRDEUA2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Conversbank, Pjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "PATKUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Classicbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dnipropetrovsk",
+          "swift_code": "CLBKUA2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chernomorskiy Bank Of Development And Reconstruction",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Simferopol",
+          "swift_code": "CHRRUA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Center Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "CENTUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cb Financial Initiative Llc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "CBFNUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Pjsc Jsc Cb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Donetsk",
+          "swift_code": "CAPOUA2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsc Bank Finance And Credit",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "FBACUAUXXXX"
+        },
+        {
+          "branch_name": "Sevastopol Branch",
+          "city": "Sevastopol",
+          "swift_code": "FBACUAU1SEV"
+        },
+        {
+          "branch_name": "Crimea Regional Branch",
+          "city": "Simferopol",
+          "swift_code": "FBACUAU1SIM"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsbcommercial Industrial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "CIBFUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsb Porto-Franco",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Odesa",
+          "swift_code": "POFCUA2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsb Clearing House",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "CLHSUAUXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Joint-Stock Company Expobank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "EXPOUAUXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Joint-Stock Bank Morskoy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sevastopol",
+          "swift_code": "MORKUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Joint Stock Company Accent-Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dnipropetrovsk",
+          "swift_code": "UKCBUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Investment Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "IINBUAUKXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Moscow",
+          "swift_code": "IIBMRUMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interbank Jscb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "INABUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Integral Joint Stock Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "ITGRUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Bank Ukraine",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "INGBUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial Financial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kremenchug",
+          "swift_code": "INFLUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Imexbank Jscb",
+      "branches": [
+        {
+          "branch_name": "Branch In Dnipropetrovsk",
+          "city": "Dnipropetrovsk",
+          "swift_code": "IMEXUA2XDNP"
+        },
+        {
+          "branch_name": "Branch In Kiev",
+          "city": "Kiev",
+          "swift_code": "IMEXUA2XKIE"
+        },
+        {
+          "branch_name": "Branch In Mykolaiv",
+          "city": "Mykolaiv",
+          "swift_code": "IMEXUA2XMYK"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Odesa",
+          "swift_code": "IMEXUA2XXXX"
+        },
+        {
+          "branch_name": "Branch In Rivne",
+          "city": "Rivne",
+          "swift_code": "IMEXUA2XRIV"
+        },
+        {
+          "branch_name": "Branch In Zaporozhye",
+          "city": "Zaporozhye",
+          "swift_code": "IMEXUA2XZAP"
+        }
+      ]
+    },
+    {
+      "bank_name": "Grant Bank",
+      "branches": [
+        {
+          "branch_name": "1st Subsidiary",
+          "city": "Kharkiv",
+          "swift_code": "GRBKUA2X011"
+        },
+        {
+          "branch_name": "2nd Subsidiary",
+          "city": "Kharkiv",
+          "swift_code": "GRBKUA2X012"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kharkiv",
+          "swift_code": "GRBKUA2XXXX"
+        },
+        {
+          "branch_name": "Kiev",
+          "city": "Kiev",
+          "swift_code": "GRBKUA2XKIE"
+        },
+        {
+          "branch_name": "Yevpatoria",
+          "city": "Yevpatoria",
+          "swift_code": "GRBKUA2XEVP"
+        }
+      ]
+    },
+    {
+      "bank_name": "Globus Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "GLIBUA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortuna Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "FTNAUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Ukrainian International Bank",
+      "branches": [
+        {
+          "branch_name": "Commercial Branch",
+          "city": "Dnipropetrovsk",
+          "swift_code": "FUIBUA2XDNI"
+        },
+        {
+          "branch_name": "Commercial Branch",
+          "city": "Donetsk",
+          "swift_code": "FUIBUA2XDON"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Donetsk",
+          "swift_code": "FUIBUA2XXXX"
+        },
+        {
+          "branch_name": "Commercial Branch",
+          "city": "Gorlovka City",
+          "swift_code": "FUIBUA2XGRV"
+        },
+        {
+          "branch_name": "Commercial Branch",
+          "city": "Kharkiv",
+          "swift_code": "FUIBUA2XKHA"
+        },
+        {
+          "branch_name": "Main Commercial Branch",
+          "city": "Kiev",
+          "swift_code": "FUIBUA2XKIE"
+        },
+        {
+          "branch_name": "Commercial Branch",
+          "city": "Luhansk",
+          "swift_code": "FUIBUA2XLUG"
+        },
+        {
+          "branch_name": "Commercial Branch",
+          "city": "Lviv",
+          "swift_code": "FUIBUA2XLVO"
+        },
+        {
+          "branch_name": "Commercial Branch",
+          "city": "Mariupol",
+          "swift_code": "FUIBUA2XMPL"
+        },
+        {
+          "branch_name": "Commercial Branch",
+          "city": "Mykolaiv",
+          "swift_code": "FUIBUA2XNIC"
+        },
+        {
+          "branch_name": "Commercial Branch",
+          "city": "Odesa",
+          "swift_code": "FUIBUA2XODE"
+        },
+        {
+          "branch_name": "Sevastopol Branch",
+          "city": "Sevastopol",
+          "swift_code": "FUIBUA2XSEL"
+        },
+        {
+          "branch_name": "Commercial Branch",
+          "city": "Soledar",
+          "swift_code": "FUIBUA2XSOL"
+        },
+        {
+          "branch_name": "Zaporozhye Branch",
+          "city": "Zaporozhye",
+          "swift_code": "FUIBUA2XZAP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Donetsk",
+          "swift_code": "DONIUA2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Investment Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "FIBXUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finexbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "FINXUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Okci Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lviv",
+          "swift_code": "OKCIUA2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ojsc Euroindustribank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Donetsk",
+          "swift_code": "EUOMUA2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Investments Joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "JSBNUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Depository Of Ukraine",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "NADUUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Ukraine",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "NBUAUAUXXXX"
+        },
+        {
+          "branch_name": "Project Monitoring Unit",
+          "city": "Kiev",
+          "swift_code": "NBUAUAU1PMU"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nadra Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "NADRUAUXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Misto Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Odesa",
+          "swift_code": "MIBKUA2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercury, Joint Stock Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kharkiv",
+          "swift_code": "MJSCUA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Megabank Pjsc",
+      "branches": [
+        {
+          "branch_name": "Cherkasy",
+          "city": "Cherkasy",
+          "swift_code": "DBBKUA2KCHK"
+        },
+        {
+          "branch_name": "14000 Chernihiv",
+          "city": "Chernihiv",
+          "swift_code": "DBBKUA2KCHE"
+        },
+        {
+          "branch_name": "Donetsk",
+          "city": "Donetsk",
+          "swift_code": "DBBKUA2KDON"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kharkiv",
+          "swift_code": "DBBKUA2KXXX"
+        },
+        {
+          "branch_name": "73000 Kherson",
+          "city": "Kherson",
+          "swift_code": "DBBKUA2KKHE"
+        },
+        {
+          "branch_name": "Kiev",
+          "city": "Kiev",
+          "swift_code": "DBBKUA2KKIE"
+        },
+        {
+          "branch_name": "25015 Kirovohrad",
+          "city": "Kirovohrad",
+          "swift_code": "DBBKUA2KKIR"
+        },
+        {
+          "branch_name": "Lviv",
+          "city": "Lviv",
+          "swift_code": "DBBKUA2KLVI"
+        },
+        {
+          "branch_name": "54030 Mykolaiv",
+          "city": "Mykolaiv",
+          "swift_code": "DBBKUA2KMYK"
+        },
+        {
+          "branch_name": "36020 Poltava",
+          "city": "Poltava",
+          "swift_code": "DBBKUA2KPOL"
+        },
+        {
+          "branch_name": "Vinnytsia",
+          "city": "Vinnytsia",
+          "swift_code": "DBBKUA2KVIN"
+        },
+        {
+          "branch_name": "Zhytomyr",
+          "city": "Zhytomyr",
+          "swift_code": "DBBKUA2KZHY"
+        }
+      ]
+    },
+    {
+      "bank_name": "Marfin Bank",
+      "branches": [
+        {
+          "branch_name": "Ilichevsk Branch",
+          "city": "Ilichevsk",
+          "swift_code": "MTBAUA2DILK"
+        },
+        {
+          "branch_name": "Odesa Central Branch",
+          "city": "Odesa",
+          "swift_code": "MTBAUA2DODE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Odesa",
+          "swift_code": "MTBAUA2DXXX"
+        },
+        {
+          "branch_name": "Simferopol Branch",
+          "city": "Simferopol",
+          "swift_code": "MTBAUA2DSYM"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lviv Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lviv",
+          "swift_code": "LVIVUA2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Llc Unicombank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Donetsk",
+          "swift_code": "PERAUA2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kyivska Rus Jsb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "KVSKUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kreditprombank (Public Joint Stock Company)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "KPRBUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Khreschatyk Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "KHRCUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsc Ukrainian Securities Depository  (Formerly Interregional Securities Union)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "IRSUUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsc The State Export-Import Bank Of Ukraine",
+      "branches": [
+        {
+          "branch_name": "Cherkasy Branch",
+          "city": "Cherkasy",
+          "swift_code": "EXBSUAUXCHK"
+        },
+        {
+          "branch_name": "Chernigiv Branch",
+          "city": "Chernihiv",
+          "swift_code": "EXBSUAUXCHH"
+        },
+        {
+          "branch_name": "Chernivtsi Branch",
+          "city": "Chernivtsi",
+          "swift_code": "EXBSUAUXCHV"
+        },
+        {
+          "branch_name": "Dnipropetrovsk Branch",
+          "city": "Dnipropetrovsk",
+          "swift_code": "EXBSUAUXDNI"
+        },
+        {
+          "branch_name": "Donetsk Branch",
+          "city": "Donetsk",
+          "swift_code": "EXBSUAUXDON"
+        },
+        {
+          "branch_name": "Ivano-frankivsk Branch",
+          "city": "Ivano-Frankivsk",
+          "swift_code": "EXBSUAUXIVF"
+        },
+        {
+          "branch_name": "Izmail Branch",
+          "city": "Izmail",
+          "swift_code": "EXBSUAUXIZM"
+        },
+        {
+          "branch_name": "Kharkiv Branch",
+          "city": "Kharkiv",
+          "swift_code": "EXBSUAUXKHA"
+        },
+        {
+          "branch_name": "Kherson Branch",
+          "city": "Kherson",
+          "swift_code": "EXBSUAUXKHE"
+        },
+        {
+          "branch_name": "Khmelnytsky Branch",
+          "city": "Khmelnytsky",
+          "swift_code": "EXBSUAUXKHM"
+        },
+        {
+          "branch_name": "Kyiv Branch",
+          "city": "Kiev",
+          "swift_code": "EXBSUAUXKIV"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "EXBSUAUXXXX"
+        },
+        {
+          "branch_name": "Kirovograd Branch",
+          "city": "Kirovohrad",
+          "swift_code": "EXBSUAUXKIR"
+        },
+        {
+          "branch_name": "Kryvy Rih Branch",
+          "city": "Kryvy Rih",
+          "swift_code": "EXBSUAUXKRH"
+        },
+        {
+          "branch_name": "Lugansk Branch",
+          "city": "Luhansk",
+          "swift_code": "EXBSUAUXLUH"
+        },
+        {
+          "branch_name": "Lutsk Branch",
+          "city": "Lutsk",
+          "swift_code": "EXBSUAUXLUT"
+        },
+        {
+          "branch_name": "Lviv Branch",
+          "city": "Lviv",
+          "swift_code": "EXBSUAUXLVI"
+        },
+        {
+          "branch_name": "Mariupol Branch",
+          "city": "Mariupol",
+          "swift_code": "EXBSUAUXMAR"
+        },
+        {
+          "branch_name": "Mykolaiv Branch",
+          "city": "Mykolaiv",
+          "swift_code": "EXBSUAUXMYK"
+        },
+        {
+          "branch_name": "Odesa Branch",
+          "city": "Odesa",
+          "swift_code": "EXBSUAUXODE"
+        },
+        {
+          "branch_name": "Poltava Branch",
+          "city": "Poltava",
+          "swift_code": "EXBSUAUXPOL"
+        },
+        {
+          "branch_name": "Rivne Branch",
+          "city": "Rivne",
+          "swift_code": "EXBSUAUXRIV"
+        },
+        {
+          "branch_name": "Sevastopol Branch",
+          "city": "Sevastopol",
+          "swift_code": "EXBSUAUXSEV"
+        },
+        {
+          "branch_name": "Crimea Branch",
+          "city": "Simferopol",
+          "swift_code": "EXBSUAU1KRM"
+        },
+        {
+          "branch_name": "Sumy Branch",
+          "city": "Sumy",
+          "swift_code": "EXBSUAUXSUM"
+        },
+        {
+          "branch_name": "Ternopil Branch",
+          "city": "Ternopil",
+          "swift_code": "EXBSUAUXTER"
+        },
+        {
+          "branch_name": "Uzhgorod Branch",
+          "city": "Uzhhorod",
+          "swift_code": "EXBSUAUXUZH"
+        },
+        {
+          "branch_name": "Vinnitsa Branch",
+          "city": "Vinnytsia",
+          "swift_code": "EXBSUAUXVIN"
+        },
+        {
+          "branch_name": "Zaporizhia Branch",
+          "city": "Zaporizhzhya",
+          "swift_code": "EXBSUAUXZAP"
+        },
+        {
+          "branch_name": "Zhytomyr Branch",
+          "city": "Zhytomyr",
+          "swift_code": "EXBSUAUXZHY"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsc Kredobank (Formerly Jsc Kredyt Bank(Ukraina))",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lviv",
+          "swift_code": "WUCBUA2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsc Finrostbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Odessa",
+          "swift_code": "JFRBUA2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prime-Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "PRMBUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Premium Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "PREIUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Poltava-Bank Poltava Joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Poltava",
+          "swift_code": "POLTUA2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Policombank Jscb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chernihiv",
+          "swift_code": "PLICUA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc Vtb Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "VTBRUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc Volksbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lviv",
+          "swift_code": "ELECUA2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc Deutsche Bank Dbu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "DEUTUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc Creditwest Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "CREWUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc Citibank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "CITIUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc Cb Ufw",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Donetsk",
+          "swift_code": "UFWLUA2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc Cb Active-Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "ALOMUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc Bta Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "UCTBUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc Bank Trust",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "REUSUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc Bank Pershyi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "UDPOUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc Bank Forum, Public Joint Stock Company Bank Forum",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "FJSCUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc Alfa-Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "ALFAUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pjsc Aktabank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dnipropetrovsk",
+          "swift_code": "AKTAUA2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pivdencombank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Donetsk",
+          "swift_code": "PCBDUA2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Piraeus Bank Icb, Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "ICBIUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Seb Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "AGGIUAUXXXX"
+        },
+        {
+          "branch_name": "Sub-custody",
+          "city": "St. Petersburg",
+          "swift_code": "SEBPRU2PCUS"
+        },
+        {
+          "branch_name": "Seb Bank Custody",
+          "city": "St. Petersburg",
+          "swift_code": "SEBPRU2PSEC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "St. Petersburg",
+          "swift_code": "SEBPRU2PXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "CBVILT2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rodovid Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "PERCUAUXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Renaissance Capital Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "RECLUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Region Bank, Joint Stock Commercial Regional Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kharkiv",
+          "swift_code": "REGBUA2KXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Real Bank, Joint Stock Commercial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kharkiv",
+          "swift_code": "NPKBUA2XXXX"
+        },
+        {
+          "branch_name": "Lisichansk Branch",
+          "city": "Lisichansk",
+          "swift_code": "NPKBUA2XLIS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Joint-Stock Company Otp Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "OTPVUAUKXXX"
+        },
+        {
+          "branch_name": "Besarabsky Branch",
+          "city": "Kiev",
+          "swift_code": "OTPVUAU1002"
+        },
+        {
+          "branch_name": "Mykhailivsky Branch",
+          "city": "Kiev",
+          "swift_code": "OTPVUAU1003"
+        },
+        {
+          "branch_name": "Pechersky Branch",
+          "city": "Kiev",
+          "swift_code": "OTPVUAU1004"
+        },
+        {
+          "branch_name": "Obolonsky Branch",
+          "city": "Kiev",
+          "swift_code": "OTPVUAU1005"
+        },
+        {
+          "branch_name": "Donetsk Branch",
+          "city": "Donetsk",
+          "swift_code": "OTPVUAU1100"
+        },
+        {
+          "branch_name": "Zaporizhzhya Branch",
+          "city": "Zaporizhzhya",
+          "swift_code": "OTPVUAU1200"
+        },
+        {
+          "branch_name": "Dnipropetrovsk Branch",
+          "city": "Dnipropetrovsk",
+          "swift_code": "OTPVUAU1300"
+        },
+        {
+          "branch_name": "Mykolaiv Branch",
+          "city": "Mykolaiv",
+          "swift_code": "OTPVUAU1400"
+        },
+        {
+          "branch_name": "Odesa Branch",
+          "city": "Odesa",
+          "swift_code": "OTPVUAU1500"
+        },
+        {
+          "branch_name": "Kharkiv Branch",
+          "city": "Kharkiv",
+          "swift_code": "OTPVUAU1700"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Joint-Stock Company Commercial Bank Pravex-Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "PRAVUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Joint-Stock Company Bank Market Technology",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "BRTSUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Joint Stock Company Zakhidinkombank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lutsk",
+          "swift_code": "ZAKIUA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Joint Stock Company State Savings Bank Of Ukraine",
+      "branches": [
+        {
+          "branch_name": "Cherkasy Regional Branch",
+          "city": "Cherkasy",
+          "swift_code": "COSBUAUKCHK"
+        },
+        {
+          "branch_name": "Chernihiv Regional Branch",
+          "city": "Chernihiv",
+          "swift_code": "COSBUAUKCHG"
+        },
+        {
+          "branch_name": "Chernivtsi Regional Branch",
+          "city": "Chernivtsi",
+          "swift_code": "COSBUAUKCHV"
+        },
+        {
+          "branch_name": "Dnipropetrovsk Regional Branch",
+          "city": "Dnipropetrovsk",
+          "swift_code": "COSBUAUKDNI"
+        },
+        {
+          "branch_name": "Donetsk Regional Branch",
+          "city": "Donetsk",
+          "swift_code": "COSBUAUKDON"
+        },
+        {
+          "branch_name": "Ivano-frankivsk Regional Branch",
+          "city": "Ivano-Frankivsk",
+          "swift_code": "COSBUAUKIVF"
+        },
+        {
+          "branch_name": "Kharkiv Regional Branch",
+          "city": "Kharkiv",
+          "swift_code": "COSBUAUKKHA"
+        },
+        {
+          "branch_name": "Kherson Regional Branch",
+          "city": "Kherson",
+          "swift_code": "COSBUAUKKHE"
+        },
+        {
+          "branch_name": "Khmelnytsky Regional Branch",
+          "city": "Khmelnytsky",
+          "swift_code": "COSBUAUKKHM"
+        },
+        {
+          "branch_name": "Kyiv Regional Branch",
+          "city": "Kiev",
+          "swift_code": "COSBUAUKKIE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "COSBUAUKXXX"
+        },
+        {
+          "branch_name": "Kirovohrad Regional Branch",
+          "city": "Kirovohrad",
+          "swift_code": "COSBUAUKKIR"
+        },
+        {
+          "branch_name": "Luhansk Regional Branch",
+          "city": "Luhansk",
+          "swift_code": "COSBUAUKLUH"
+        },
+        {
+          "branch_name": "Volyn Regional Branch",
+          "city": "Lutsk",
+          "swift_code": "COSBUAUKVOL"
+        },
+        {
+          "branch_name": "Lviv Regional Branch",
+          "city": "Lviv",
+          "swift_code": "COSBUAUKLVI"
+        },
+        {
+          "branch_name": "Mykolaiv Regional Branch",
+          "city": "Mykolaiv",
+          "swift_code": "COSBUAUKMYK"
+        },
+        {
+          "branch_name": "Odesa Regional Branch",
+          "city": "Odesa",
+          "swift_code": "COSBUAUKODE"
+        },
+        {
+          "branch_name": "Poltava Regional Branch",
+          "city": "Poltava",
+          "swift_code": "COSBUAUKPOL"
+        },
+        {
+          "branch_name": "Rivne Regional Branch",
+          "city": "Rivne",
+          "swift_code": "COSBUAUKRIV"
+        },
+        {
+          "branch_name": "Crimea Regional Branch",
+          "city": "Simferopol",
+          "swift_code": "COSBUAUKCRI"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Joint Stock Company Platinum Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "INMCUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Joint Stock Company Joint Stock Commercial Bank Noviy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dnipropetrovsk",
+          "swift_code": "NJSOUA2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Joint Stock Company Joint Stock Bank Express-Bank",
+      "branches": [
+        {
+          "branch_name": "Donetsk Branch",
+          "city": "Donetsk",
+          "swift_code": "EXPBUAUKDON"
+        },
+        {
+          "branch_name": "Kharkiv Branch",
+          "city": "Kharkiv",
+          "swift_code": "EXPBUAUKKHA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "EXPBUAUKXXX"
+        },
+        {
+          "branch_name": "Konotop Branch",
+          "city": "Konotop",
+          "swift_code": "EXPBUAUKKON"
+        },
+        {
+          "branch_name": "Lviv Branch",
+          "city": "Lviv",
+          "swift_code": "EXPBUAUKLVI"
+        },
+        {
+          "branch_name": "Odesa Branch",
+          "city": "Odesa",
+          "swift_code": "EXPBUAUKODE"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Joint Stock Company Diapason - Maximum Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "DIAPUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Joint Stock Company Bank Vostok",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dnipropetrovsk",
+          "swift_code": "ACJCUA2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Joint Stock Company Bank Familny",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Donetsk",
+          "swift_code": "DOBYUA2TXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prominvestbank",
+      "branches": [
+        {
+          "branch_name": "Third Party Statements",
+          "city": "Kiev",
+          "swift_code": "UPIBUAUXKIE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "UPIBUAUXXXX"
+        },
+        {
+          "branch_name": "Donestsk Branch",
+          "city": "Donetsk",
+          "swift_code": "UPIBUAUXDON"
+        },
+        {
+          "branch_name": "Ivano-frankisvsk Branch",
+          "city": "Ivano-Frankivsk",
+          "swift_code": "UPIBUAUXIVF"
+        },
+        {
+          "branch_name": "Kiev Regional Branch",
+          "city": "Kiev",
+          "swift_code": "UPIBUAUXREG"
+        },
+        {
+          "branch_name": "Luhansk Branch",
+          "city": "Luhansk",
+          "swift_code": "UPIBUAUXLUG"
+        },
+        {
+          "branch_name": "Lviv Brach",
+          "city": "Lviv",
+          "swift_code": "UPIBUAUXLVO"
+        },
+        {
+          "branch_name": "Illichivsk Branch In Mariupol",
+          "city": "Mariupol",
+          "swift_code": "UPIBUAUXILY"
+        },
+        {
+          "branch_name": "Mykolaiv Branch",
+          "city": "Mykolaiv",
+          "swift_code": "UPIBUAUXNIC"
+        },
+        {
+          "branch_name": "Odesa Branch",
+          "city": "Odesa",
+          "swift_code": "UPIBUAUXODE"
+        },
+        {
+          "branch_name": "Simferopol Branch",
+          "city": "Simferopol",
+          "swift_code": "UPIBUAUXSYM"
+        },
+        {
+          "branch_name": "Zaporizhye Branch",
+          "city": "Zaporozhye",
+          "swift_code": "UPIBUAUXZAP"
+        },
+        {
+          "branch_name": "Uzhhrod Branch",
+          "city": "Uzhhorod",
+          "swift_code": "UPIBUAUXUZH"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Moscow",
+          "swift_code": "PRMIRUMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Promekonombank Publik Joint Stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Donetsk",
+          "swift_code": "PROOUA2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Procredit Bank, Ukraine (Formerly Micro Finance Bank Of Ukraine)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "MIFCUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "'east-industrial Commercial Bank ' Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lugansk",
+          "swift_code": "EACJUA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Zlatobank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "ZLTTUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vab Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "VABAUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Universal Bank Ojsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "UNJSUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "SOUZUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unex Joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "UNJTUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ukrsotsbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "UKRSUAUXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ukrsibbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kharkiv",
+          "swift_code": "KHABUA2KXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ukrinbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "UKRBUAUXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ukrgasbank Jsb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "UGASUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ukrainskiy Komunalniy Bank, Jsb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luhansk",
+          "swift_code": "UKMBUA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ukrainian Professional Bank Open Joint-Stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "UKPBUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ukrainian Capital Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "UKCAUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ukrainian Business Bank Joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Donetsk",
+          "swift_code": "DJSBUA2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ukrainian Bank Of Reconstruction And Development",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "UKRDUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ukrainian Bank Of Development Pjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "VBRBUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tf Bank Kontrakt Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "ANTAUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Terra Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "TRBCUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tascombank Jsc (Formerly Bank Business Standard)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "MUNIUA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Drgn Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "DRAOUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dragon Capital",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "DRCPUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dialogbank, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dnipropetrovsk",
+          "swift_code": "DIAOUA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Delta Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "DELTUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Union Narodna",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dnipropetrovsk",
+          "swift_code": "CRURUA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Optima Bank Pjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "CEOIUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole Bank Pjsc",
+      "branches": [
+        {
+          "branch_name": "Cib Branch",
+          "city": "Kyiv",
+          "swift_code": "AGRIUAUKCIB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "AGRIUAUKXXX"
+        },
+        {
+          "branch_name": "Dnepropetrovsk Branch",
+          "city": "Dnipropetrovsk",
+          "swift_code": "INEJUAUK201"
+        },
+        {
+          "branch_name": "Donetsk Branch",
+          "city": "Donetsk",
+          "swift_code": "INEJUAUK501"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "INEJUAUKXXX"
+        },
+        {
+          "branch_name": "Kharkov Branch",
+          "city": "Kharkiv",
+          "swift_code": "INEJUAUK401"
+        },
+        {
+          "branch_name": "Lvov Branch",
+          "city": "Lviv",
+          "swift_code": "INEJUAUK101"
+        },
+        {
+          "branch_name": "Poltava Branch",
+          "city": "Poltava",
+          "swift_code": "INEJUAUK301"
+        },
+        {
+          "branch_name": "Odessa Branch",
+          "city": "Odesa",
+          "swift_code": "INEJUAUK711"
+        },
+        {
+          "branch_name": "Vinnitsa Branch",
+          "city": "Vinnytsia",
+          "swift_code": "INEJUAUK601"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Bank 'concord', Pjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dnipropetrovsk",
+          "swift_code": "COCJUA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chernigiv Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chernihiv",
+          "swift_code": "CHRKUA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cb 'zemelny Capital', Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dnipropetrovsk",
+          "swift_code": "ZECPUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Prestige Jsb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "SLAPUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Alliance Pjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "ALJJUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Argo Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chernivtsi",
+          "swift_code": "AROOUA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arcelormittal Kryviy Rih Vat",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kryvy Rih",
+          "swift_code": "USINUA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "'ukrgazprombank' Public Joint Stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "UKRGUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "'ukrainian Financial Group' Commercial Bank B",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "UFGCUAU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "'subsidiary Bank Sberbank Of Russia' Public Joint-stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "SABRUAUKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "'raiffeisen Bank Aval' Public Joint Stock Company",
+      "branches": [
+        {
+          "branch_name": "Boryspil Branch",
+          "city": "Boryspil",
+          "swift_code": "AVALUAUKBOR"
+        },
+        {
+          "branch_name": "Brovary Branch",
+          "city": "Brovary",
+          "swift_code": "AVALUAUKBRO"
+        },
+        {
+          "branch_name": "Bila Tserkva Branch",
+          "city": "Bila Tserkva",
+          "swift_code": "AVALUAUKBTR"
+        },
+        {
+          "branch_name": "Chernihiv Branch",
+          "city": "Chernihiv",
+          "swift_code": "AVALUAUKCHE"
+        },
+        {
+          "branch_name": "Cherkasy Branch",
+          "city": "Cherkasy",
+          "swift_code": "AVALUAUKCHK"
+        },
+        {
+          "branch_name": "Chernivtsi Branch",
+          "city": "Chernivtsi",
+          "swift_code": "AVALUAUKCHV"
+        },
+        {
+          "branch_name": "Central Kiev Branch",
+          "city": "Kiev",
+          "swift_code": "AVALUAUKCKB"
+        },
+        {
+          "branch_name": "Dnipropetrovsk Branch",
+          "city": "Dnipropetrovsk",
+          "swift_code": "AVALUAUKDNI"
+        },
+        {
+          "branch_name": "Donetsk Branch",
+          "city": "Donetsk",
+          "swift_code": "AVALUAUKDON"
+        },
+        {
+          "branch_name": "Glukhov Branch",
+          "city": "Glukhov",
+          "swift_code": "AVALUAUKGLU"
+        },
+        {
+          "branch_name": "Irpin Branch",
+          "city": "Irpin",
+          "swift_code": "AVALUAUKIRP"
+        },
+        {
+          "branch_name": "Ivano-frankivsk Branch",
+          "city": "Ivano-Frankivsk",
+          "swift_code": "AVALUAUKIVF"
+        },
+        {
+          "branch_name": "Kharkiv Branch",
+          "city": "Kharkiv",
+          "swift_code": "AVALUAUKKHA"
+        },
+        {
+          "branch_name": "Kherson Branch",
+          "city": "Kherson",
+          "swift_code": "AVALUAUKKHE"
+        },
+        {
+          "branch_name": "Khmelnytsky Branch",
+          "city": "Khmelnytsky",
+          "swift_code": "AVALUAUKKHM"
+        },
+        {
+          "branch_name": "Kirovohrad Branch",
+          "city": "Kirovohrad",
+          "swift_code": "AVALUAUKKIR"
+        },
+        {
+          "branch_name": "Luhansk Branch",
+          "city": "Luhansk",
+          "swift_code": "AVALUAUKLUG"
+        },
+        {
+          "branch_name": "Lutsk Branch",
+          "city": "Lutsk",
+          "swift_code": "AVALUAUKLUT"
+        },
+        {
+          "branch_name": "Lviv Branch",
+          "city": "Lviv",
+          "swift_code": "AVALUAUKLVI"
+        },
+        {
+          "branch_name": "Mykolaiv Branch",
+          "city": "Mykolaiv",
+          "swift_code": "AVALUAUKNIC"
+        },
+        {
+          "branch_name": "Obukhiv Branch",
+          "city": "Obukhiv",
+          "swift_code": "AVALUAUKOBU"
+        },
+        {
+          "branch_name": "Odesa Branch",
+          "city": "Odesa",
+          "swift_code": "AVALUAUKODE"
+        },
+        {
+          "branch_name": "Poltava Branch",
+          "city": "Poltava",
+          "swift_code": "AVALUAUKPOL"
+        },
+        {
+          "branch_name": "Rivne Branch",
+          "city": "Rivne",
+          "swift_code": "AVALUAUKRIV"
+        },
+        {
+          "branch_name": "Sevastopol Branch",
+          "city": "Sevastopol",
+          "swift_code": "AVALUAUKSEV"
+        },
+        {
+          "branch_name": "Symferopol Branch",
+          "city": "Simferopol",
+          "swift_code": "AVALUAUKSIM"
+        },
+        {
+          "branch_name": "Sumy Branch",
+          "city": "Sumy",
+          "swift_code": "AVALUAUKSUM"
+        },
+        {
+          "branch_name": "Ternopil Branch",
+          "city": "Ternopil",
+          "swift_code": "AVALUAUKTER"
+        },
+        {
+          "branch_name": "Uzhhorod Branch",
+          "city": "Uzhhorod",
+          "swift_code": "AVALUAUKUZH"
+        },
+        {
+          "branch_name": "Vasilkov Branch",
+          "city": "Vasilkov",
+          "swift_code": "AVALUAUKVAS"
+        },
+        {
+          "branch_name": "Vinnitsia Branch",
+          "city": "Vinnytsia",
+          "swift_code": "AVALUAUKVIN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kiev",
+          "swift_code": "AVALUAUKXXX"
+        },
+        {
+          "branch_name": "Zaporozhye Branch",
+          "city": "Zaporozhye",
+          "swift_code": "AVALUAUKZAP"
+        },
+        {
+          "branch_name": "Zhytomyr Branch",
+          "city": "Zhytomyr",
+          "swift_code": "AVALUAUKZHI"
+        }
+      ]
+    },
+    {
+      "bank_name": "'radabank' Joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dnipropetrovsk",
+          "swift_code": "RADAUA2NXXX"
+        }
+      ]
+    }
+  ]
+}

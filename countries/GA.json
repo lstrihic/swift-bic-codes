@@ -1,0 +1,162 @@
+{
+  "country_name": "Gabon",
+  "alpha_2": "GA",
+  "country_code": "266",
+  "banks": [
+    {
+      "bank_name": "Union Gabonaise De Banque",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Libreville",
+          "swift_code": "UGABGALIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uba Gabon",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Libreville",
+          "swift_code": "UNAFGALIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orabank Gabon",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Libreville",
+          "swift_code": "ORBKGALIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gabon-poste",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Libreville",
+          "swift_code": "CCPGGALIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Gabon",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Libreville",
+          "swift_code": "ECOCGALIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bgfibank",
+      "branches": [
+        {
+          "branch_name": "Libreville",
+          "city": "Libreville",
+          "swift_code": "BGFIGALIBKZ"
+        },
+        {
+          "branch_name": "Libreville",
+          "city": "Libreville",
+          "swift_code": "BGFIGALIMAL"
+        },
+        {
+          "branch_name": "Libreville",
+          "city": "Libreville",
+          "swift_code": "BGFIGALIOWD"
+        },
+        {
+          "branch_name": "Libreville",
+          "city": "Libreville",
+          "swift_code": "BGFIGALIPOG"
+        },
+        {
+          "branch_name": "Libreville",
+          "city": "Libreville",
+          "swift_code": "BGFIGALIPTN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Libreville",
+          "swift_code": "BGFIGALIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Gabonaise De Developpement",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Libreville",
+          "swift_code": "BGADGALIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Des Etats De L'afrique Centrale D.n. Gabon",
+      "branches": [
+        {
+          "branch_name": "Agence De Port Gentil",
+          "city": "Port Gentil",
+          "swift_code": "BEACGALI510"
+        },
+        {
+          "branch_name": "Agence De Franceville",
+          "city": "Franceville",
+          "swift_code": "BEACGALI520"
+        },
+        {
+          "branch_name": "Agence De Oyem",
+          "city": "Oyem",
+          "swift_code": "BEACGALI530"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Libreville",
+          "swift_code": "BEACGALIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "B.i.c.i. Du Gabon",
+      "branches": [
+        {
+          "branch_name": "Adl Branch",
+          "city": "Libreville",
+          "swift_code": "BICIGALXADL"
+        },
+        {
+          "branch_name": "Mont-bouet Branch",
+          "city": "Libreville",
+          "swift_code": "BICIGALXMBT"
+        },
+        {
+          "branch_name": "Moanda Branch",
+          "city": "Moanda",
+          "swift_code": "BICIGALXMDA"
+        },
+        {
+          "branch_name": "Oloumi Branch",
+          "city": "Libreville",
+          "swift_code": "BICIGALXOLO"
+        },
+        {
+          "branch_name": "Port Gentil",
+          "city": "Port Gentil",
+          "swift_code": "BICIGALXPOG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Libreville",
+          "swift_code": "BICIGALXXXX"
+        }
+      ]
+    }
+  ]
+}

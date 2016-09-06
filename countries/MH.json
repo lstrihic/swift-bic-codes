@@ -1,0 +1,22 @@
+{
+  "country_name": "Marshall Islands",
+  "alpha_2": "MH",
+  "country_code": "584",
+  "banks": [
+    {
+      "bank_name": "Bank Of Marshall Islands",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Majuro",
+          "swift_code": "BOMDMH22XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Majuro",
+          "swift_code": "BOMDMH21XXX"
+        }
+      ]
+    }
+  ]
+}

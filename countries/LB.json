@@ -1,0 +1,1022 @@
+{
+  "country_name": "Lebanon",
+  "alpha_2": "LB",
+  "country_code": "422",
+  "banks": [
+    {
+      "bank_name": "United Bank Of Saudi And Lebanon",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "UBSLLBB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Financiere Du Liban Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "LISFLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Syrian Lebanese Commercial Bank Sal.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "SYLCLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale De Banque Au Liban S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "SGLILBBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank Sal",
+      "branches": [
+        {
+          "branch_name": "Hamra",
+          "city": "Hamra",
+          "swift_code": "SCBLLBB1025"
+        },
+        {
+          "branch_name": "Ashrafieh",
+          "city": "Beirut",
+          "swift_code": "SCBLLBB1026"
+        },
+        {
+          "branch_name": "Jbeil",
+          "city": "Jbeil",
+          "swift_code": "SCBLLBB1028"
+        },
+        {
+          "branch_name": "Zouk",
+          "city": "Zouk",
+          "swift_code": "SCBLLBB1029"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "SCBLLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe D'investissements Financier S Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sin El-fil",
+          "swift_code": "SODALBB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saudi National Commercial Bank-beirut",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "SNCBLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saudi Lebanese Bank Sal.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "SLBLLBBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "North Africa Commercial Bank S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "NACBLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Near East Commercial Bank S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "NECBLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Optimum Invest Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "OPTILBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Kuwait (lebanon) Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "NBOKLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Middle East Capital Group S.a.l",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "MIDDLBB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Middle East Capital Group",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "MECXLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Middle East Airlines-airliban",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "MEALLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch Pierce Fenner And Smith (me) S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "MPFSLBB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Midclear S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Beirut",
+          "city": "Beirut",
+          "swift_code": "MIDRLBBEASA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "MIDRLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mena Invest S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "MENALBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Medsecurities Investment Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "MENVLBB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Medinvestment Bank Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "MIBLLBBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mecattaf S.a.l",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Awkar El Metn",
+          "swift_code": "MECALBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meab Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "BAMOLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Audi Investment Bank Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "INFSLBB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lucid Investment Corporation (l.i.c) Sal",
+      "branches": [
+        {
+          "branch_name": "Lucid Investment Corporation (l.i.c) Sal",
+          "city": "Beirut",
+          "swift_code": "LUCILBBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fenicia Bank S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "BKAWLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bemo Securitisation Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "BEMSLBB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Beirut Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "XBEYLBB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bbac Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "BBACLBBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Pharaon Et Chiha S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "BPHCLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Misr Liban S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Tripoli",
+          "city": "Tripoli",
+          "swift_code": "BMISLBB1022"
+        },
+        {
+          "branch_name": "Saida",
+          "city": "Saida",
+          "swift_code": "BMISLBB1023"
+        },
+        {
+          "branch_name": "Zahle",
+          "city": "Zahle",
+          "swift_code": "BMISLBB1024"
+        },
+        {
+          "branch_name": "Chtoura",
+          "city": "Chtoura",
+          "swift_code": "BMISLBB1025"
+        },
+        {
+          "branch_name": "Jounieh",
+          "city": "Jounieh",
+          "swift_code": "BMISLBB1026"
+        },
+        {
+          "branch_name": "Mar Elias Street Branch",
+          "city": "Beirut",
+          "swift_code": "BMISLBB10B2"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "BMISLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Libano Francaise",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "BLFSLBBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Joseph Geagea S A L",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "BJGELBB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Du Liban",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "BDLCLBBAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "BDLCLBBCXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "BDLCLBBGXXX"
+        },
+        {
+          "branch_name": "Accounting Department",
+          "city": "Beirut",
+          "swift_code": "BDLCLBBXACD"
+        },
+        {
+          "branch_name": "Beirut",
+          "city": "Beirut",
+          "swift_code": "BDLCLBBXASA"
+        },
+        {
+          "branch_name": "Current Operations Department",
+          "city": "Beirut",
+          "swift_code": "BDLCLBBXCOD"
+        },
+        {
+          "branch_name": "Financial Operations Department",
+          "city": "Beirut",
+          "swift_code": "BDLCLBBXFOD"
+        },
+        {
+          "branch_name": "Foreign Exchange Department",
+          "city": "Beirut",
+          "swift_code": "BDLCLBBXFXD"
+        },
+        {
+          "branch_name": "Ministry Of Finance-treasury And Public Debt Directorate",
+          "city": "Beirut",
+          "swift_code": "BDLCLBBXMOF"
+        },
+        {
+          "branch_name": "Beirut",
+          "city": "Beirut",
+          "swift_code": "BDLCLBBXTIA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "BDLCLBBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Du Credit Populaire S A L",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "NUDTLBB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De L'industrie Et Du Travail S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "BTLVLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De L'habitat S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "LHBALBBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De Credit National S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "BCNBLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankmed,sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "MEDLLBBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Beirut S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "BABELBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Beirut Invest S.a.l",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "BOBPLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Audi Sal-audi Saradar Group",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "AUDBLBBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Al Madina Sal.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "MADILBL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Audi Saradar Private Bank S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "BSARLBBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Audi Saradar Investment Bank S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "AUSILBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Federal Bank Of Lebanon S A L",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "FBLELBBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "B.l.c. Bank S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Blc Finance Department",
+          "city": "Beirut",
+          "swift_code": "LICOLBBXFIN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "LICOLBBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Emirates Lebanon Bank Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "ELBKLBBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cscbank Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "CCSCLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Libanais S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "CLIBLBBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Libanais Investment Bank Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "LIBNLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Financier Sal.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "CRFCLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Financier Invest S.a.l",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "CEFVLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Commercial Et Foncier Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "CCFXLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Council For Development And Reconstruction",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "CDRALBB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Beirut",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "CITILBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Centre De Traitement Monetique Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "CDTMLBB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Creditbank Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "CBCBLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cedrus Invest Bank S.a.l",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Achrafieh",
+          "swift_code": "CIBXLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Byblos Invest Bank S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "BYBILBBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Byblos Bank S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "BYBALBBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bsl Bank S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "SONBLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Blominvest Bank S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "BLINLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Blom Development Bank S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "BDBLLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Litex Bank S A L",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "LITELBB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Libank S.a.l. (levant Investment Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "LIBKLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lebanon Invest S.a.l",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "LINVLBB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Blc Invest S.a.l",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "BLIVLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lebanon And Gulf Bank Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "LGBALBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lebanese Swiss Bank Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "LEBSLBBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lebanese Islamic Bank S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "LIBBLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kafalat S.a.l. Guarantees For Small And Medium Enterprises",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "KAFALBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Invest Bank (p.s.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "IBTFLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jammal Trust Bank Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "JTBKLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Payment Network (ipn",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "IPNBLBB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ibl Investment Bank Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "IBLVLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ibl Bank S.a.l.(formerly Intercontinental Bank Of Lebanon S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "INLELBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gpbi Investment Bank S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dbayeh",
+          "swift_code": "GAZPLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fransabank Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "FSABLBBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fransa Invest Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "FRAILBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First National Bank S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "FINKLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finance Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "FBLBLBBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fidus Sal Groupe Societe Generale De Banque Au Liban",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "FIDRLBB1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "FIDRLBBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ffa Private Bank S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "FFAILBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Investment Bank Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "ARBVLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Finance House Sal (islamic Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "AFHOLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Finance Corporation Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "AFCOLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Mawarid Bank S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "MABALBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Bilad Islamic Bank For Investment And Finance Psc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "AIIFLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Baraka Bank S.a.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "ALCVLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ahli International Bank Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "JNBBLBBEXXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5187 @@
+{
+  "country_name": "Egypt",
+  "alpha_2": "EG",
+  "country_code": "818",
+  "banks": [
+    {
+      "bank_name": "Union National Bank-egypt S.a.e.",
+      "branches": [
+        {
+          "branch_name": "Cairo Branch",
+          "city": "Cairo",
+          "swift_code": "ALECEGALCAI"
+        },
+        {
+          "branch_name": "Gleem Branch",
+          "city": "Alexandria",
+          "swift_code": "ALECEGALGLY"
+        },
+        {
+          "branch_name": "El Horreya Branch",
+          "city": "Alexandria",
+          "swift_code": "ALECEGALMAI"
+        },
+        {
+          "branch_name": "Nasr City Branch",
+          "city": "Cairo",
+          "swift_code": "ALECEGALNCT"
+        },
+        {
+          "branch_name": "Port Said Branch",
+          "city": "Port Said",
+          "swift_code": "ALECEGALPSD"
+        },
+        {
+          "branch_name": "Saad Zhagloul Branch",
+          "city": "Alexandria",
+          "swift_code": "ALECEGALSDZ"
+        },
+        {
+          "branch_name": "Suez Branch",
+          "city": "Suez",
+          "swift_code": "ALECEGALSUZ"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Giza",
+          "swift_code": "ALECEGALXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Bank-egypt S.a.e.",
+      "branches": [
+        {
+          "branch_name": "Alexandria Branch",
+          "city": "Alexandria",
+          "swift_code": "BCBIEGCX003"
+        },
+        {
+          "branch_name": "Nasr City Branch",
+          "city": "Cairo",
+          "swift_code": "BCBIEGCX004"
+        },
+        {
+          "branch_name": "Mohandesien Branch",
+          "city": "Cairo",
+          "swift_code": "BCBIEGCX005"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "BCBIEGCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Beltone Securities Brokerage S.a.e",
+      "branches": [
+        {
+          "branch_name": "Beltone Am",
+          "city": "Cairo",
+          "swift_code": "BELTEGCABAM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "BELTEGCAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Du Caire",
+      "branches": [
+        {
+          "branch_name": "Plan Department",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX008"
+        },
+        {
+          "branch_name": "Foreign Relations Department",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX011"
+        },
+        {
+          "branch_name": "Settlement Department",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX013"
+        },
+        {
+          "branch_name": "Kasr El-neel Branch",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX020"
+        },
+        {
+          "branch_name": "19 Adly Branch",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX030"
+        },
+        {
+          "branch_name": "Awkaf",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX033"
+        },
+        {
+          "branch_name": "Giza-dokki Branch",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX034"
+        },
+        {
+          "branch_name": "Abbasia Branch",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX035"
+        },
+        {
+          "branch_name": "Alfy Branch",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX040"
+        },
+        {
+          "branch_name": "Sarwat Branch",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX045"
+        },
+        {
+          "branch_name": "Talaat Harb",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX055"
+        },
+        {
+          "branch_name": "Azhar Branch",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX060"
+        },
+        {
+          "branch_name": "Helioplis Branch",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX070"
+        },
+        {
+          "branch_name": "Horriya",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX072"
+        },
+        {
+          "branch_name": "Lakkany",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX073"
+        },
+        {
+          "branch_name": "Saida Zainab Branch",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX080"
+        },
+        {
+          "branch_name": "Midan Elsaida",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX085"
+        },
+        {
+          "branch_name": "Ramsis Branch",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX090"
+        },
+        {
+          "branch_name": "26 Jul Branch",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX095"
+        },
+        {
+          "branch_name": "Shoubra Branch",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX100"
+        },
+        {
+          "branch_name": "Edfo",
+          "city": "Aswan",
+          "swift_code": "BCAIEGCX710"
+        },
+        {
+          "branch_name": "Gerga",
+          "city": "Sohag",
+          "swift_code": "BCAIEGCX720"
+        },
+        {
+          "branch_name": "Hurghada",
+          "city": "Hurghada",
+          "swift_code": "BCAIEGCX730"
+        },
+        {
+          "branch_name": "Samastta",
+          "city": "Bani Suef",
+          "swift_code": "BCAIEGCX740"
+        },
+        {
+          "branch_name": "Abu Simbal",
+          "city": "Aswan",
+          "swift_code": "BCAIEGCX750"
+        },
+        {
+          "branch_name": "Abu Teeg",
+          "city": "Assuit",
+          "swift_code": "BCAIEGCX760"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCXXXX"
+        },
+        {
+          "branch_name": "Midan Giza",
+          "city": "Giza",
+          "swift_code": "BCAIEGCX605"
+        },
+        {
+          "branch_name": "41553",
+          "city": "Of October",
+          "swift_code": "BCAIEGCX606"
+        },
+        {
+          "branch_name": "Al Haram Branch",
+          "city": "Giza",
+          "swift_code": "BCAIEGCX607"
+        },
+        {
+          "branch_name": "Magda Building",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX608"
+        },
+        {
+          "branch_name": "Fayoum Branch",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX610"
+        },
+        {
+          "branch_name": "Atsa Branch",
+          "city": "El Fayoum",
+          "swift_code": "BCAIEGCX611"
+        },
+        {
+          "branch_name": "Sannoris",
+          "city": "El Fayoum",
+          "swift_code": "BCAIEGCX612"
+        },
+        {
+          "branch_name": "Beni Sowif Branch",
+          "city": "Bani Suef",
+          "swift_code": "BCAIEGCX620"
+        },
+        {
+          "branch_name": "Ehnasya Branch",
+          "city": "Bani Suef",
+          "swift_code": "BCAIEGCX621"
+        },
+        {
+          "branch_name": "Menia Branch",
+          "city": "El Menia",
+          "swift_code": "BCAIEGCX630"
+        },
+        {
+          "branch_name": "Malawi",
+          "city": "El Menia",
+          "swift_code": "BCAIEGCX635"
+        },
+        {
+          "branch_name": "Assuit Branch",
+          "city": "Assuit",
+          "swift_code": "BCAIEGCX640"
+        },
+        {
+          "branch_name": "El Kharga",
+          "city": "El Kharga",
+          "swift_code": "BCAIEGCX641"
+        },
+        {
+          "branch_name": "Sohag Branch",
+          "city": "Sohag",
+          "swift_code": "BCAIEGCX650"
+        },
+        {
+          "branch_name": "Aswan Branch",
+          "city": "Aswan",
+          "swift_code": "BCAIEGCX660"
+        },
+        {
+          "branch_name": "Kena Branch",
+          "city": "Kena",
+          "swift_code": "BCAIEGCX670"
+        },
+        {
+          "branch_name": "Safaga",
+          "city": "Safaga",
+          "swift_code": "BCAIEGCX672"
+        },
+        {
+          "branch_name": "Nagh Hammadi",
+          "city": "Kena",
+          "swift_code": "BCAIEGCX680"
+        },
+        {
+          "branch_name": "Louxor Branch",
+          "city": "Luxor",
+          "swift_code": "BCAIEGCX690"
+        },
+        {
+          "branch_name": "Kous",
+          "city": "Kena",
+          "swift_code": "BCAIEGCX700"
+        },
+        {
+          "branch_name": "Delengat",
+          "city": "Beira",
+          "swift_code": "BCAIEGCX483"
+        },
+        {
+          "branch_name": "Kafr El Sheikh Branch",
+          "city": "Kafr El Sheikh",
+          "swift_code": "BCAIEGCX490"
+        },
+        {
+          "branch_name": "Dessouk",
+          "city": "Kafr El Sheikh",
+          "swift_code": "BCAIEGCX491"
+        },
+        {
+          "branch_name": "El Kholafaa El Rashidin",
+          "city": "Kafr El Sheikh",
+          "swift_code": "BCAIEGCX492"
+        },
+        {
+          "branch_name": "Marsa Matrouh",
+          "city": "Marsa Matrouh",
+          "swift_code": "BCAIEGCX500"
+        },
+        {
+          "branch_name": "Menouf",
+          "city": "El Menoufiaa",
+          "swift_code": "BCAIEGCX510"
+        },
+        {
+          "branch_name": "Manzala",
+          "city": "El Dakahliaa",
+          "swift_code": "BCAIEGCX520"
+        },
+        {
+          "branch_name": "Fouwah",
+          "city": "Kafr El Sheikh",
+          "swift_code": "BCAIEGCX530"
+        },
+        {
+          "branch_name": "Zefta",
+          "city": "Gharbia",
+          "swift_code": "BCAIEGCX540"
+        },
+        {
+          "branch_name": "Diarb Negm",
+          "city": "El Sharkiaa",
+          "swift_code": "BCAIEGCX550"
+        },
+        {
+          "branch_name": "El Salhia",
+          "city": "Ismailia",
+          "swift_code": "BCAIEGCX560"
+        },
+        {
+          "branch_name": "Abo El Matamir",
+          "city": "El Behirra",
+          "swift_code": "BCAIEGCX570"
+        },
+        {
+          "branch_name": "Al Obour Branch",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX585"
+        },
+        {
+          "branch_name": "10 Th Ramadan Branch",
+          "city": "Sharjah",
+          "swift_code": "BCAIEGCX590"
+        },
+        {
+          "branch_name": "Bagour",
+          "city": "El Menoufiaa",
+          "swift_code": "BCAIEGCX591"
+        },
+        {
+          "branch_name": "Menia El Kamh",
+          "city": "El Sharkiaa",
+          "swift_code": "BCAIEGCX592"
+        },
+        {
+          "branch_name": "Gomhouria",
+          "city": "El Dakahliaa",
+          "swift_code": "BCAIEGCX593"
+        },
+        {
+          "branch_name": "El Sadat",
+          "city": "El Menoufiaa",
+          "swift_code": "BCAIEGCX594"
+        },
+        {
+          "branch_name": "Giza",
+          "city": "Giza",
+          "swift_code": "BCAIEGCX600"
+        },
+        {
+          "branch_name": "Mohandesseen",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX602"
+        },
+        {
+          "branch_name": "Abo Kebir Branch",
+          "city": "Sharkya",
+          "swift_code": "BCAIEGCX413"
+        },
+        {
+          "branch_name": "Fakkous Branch",
+          "city": "Sharkya",
+          "swift_code": "BCAIEGCX414"
+        },
+        {
+          "branch_name": "Lewaa Branch",
+          "city": "Sharkya",
+          "swift_code": "BCAIEGCX415"
+        },
+        {
+          "branch_name": "Mansura Branch",
+          "city": "El Mansoura",
+          "swift_code": "BCAIEGCX420"
+        },
+        {
+          "branch_name": "Sherbin",
+          "city": "El Dakahliaa",
+          "swift_code": "BCAIEGCX421"
+        },
+        {
+          "branch_name": "Talkha",
+          "city": "El Dakahliaa",
+          "swift_code": "BCAIEGCX422"
+        },
+        {
+          "branch_name": "Belkas",
+          "city": "El Dakahliaa",
+          "swift_code": "BCAIEGCX423"
+        },
+        {
+          "branch_name": "Senbellawein",
+          "city": "El Dakahliaa",
+          "swift_code": "BCAIEGCX424"
+        },
+        {
+          "branch_name": "Meit Ghamr",
+          "city": "El Dakahliaa",
+          "swift_code": "BCAIEGCX430"
+        },
+        {
+          "branch_name": "Damieta Branch",
+          "city": "Domiat",
+          "swift_code": "BCAIEGCX440"
+        },
+        {
+          "branch_name": "New Damieta",
+          "city": "Domiat",
+          "swift_code": "BCAIEGCX445"
+        },
+        {
+          "branch_name": "Tanta Branch",
+          "city": "Ghardaia",
+          "swift_code": "BCAIEGCX450"
+        },
+        {
+          "branch_name": "Kafr El Zayat",
+          "city": "El Gharbiaa",
+          "swift_code": "BCAIEGCX451"
+        },
+        {
+          "branch_name": "Souk Nasser",
+          "city": "El Gharbiaa",
+          "swift_code": "BCAIEGCX452"
+        },
+        {
+          "branch_name": "Mehalla Branch",
+          "city": "Ghardaia",
+          "swift_code": "BCAIEGCX460"
+        },
+        {
+          "branch_name": "Shebin El Koum",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX470"
+        },
+        {
+          "branch_name": "Berket El Sabaa",
+          "city": "Menouf",
+          "swift_code": "BCAIEGCX471"
+        },
+        {
+          "branch_name": "Tala",
+          "city": "Menouf",
+          "swift_code": "BCAIEGCX472"
+        },
+        {
+          "branch_name": "Damanhour Branch",
+          "city": "Beira",
+          "swift_code": "BCAIEGCX480"
+        },
+        {
+          "branch_name": "Houch Eissa",
+          "city": "El Behirra",
+          "swift_code": "BCAIEGCX481"
+        },
+        {
+          "branch_name": "Agamy Branch",
+          "city": "Alexandria",
+          "swift_code": "BCAIEGCX250"
+        },
+        {
+          "branch_name": "Borg El Arab Branch",
+          "city": "Alexandria",
+          "swift_code": "BCAIEGCX255"
+        },
+        {
+          "branch_name": "Glim Branch",
+          "city": "Alexandria",
+          "swift_code": "BCAIEGCX260"
+        },
+        {
+          "branch_name": "Samouha Branch",
+          "city": "Alexandria",
+          "swift_code": "BCAIEGCX270"
+        },
+        {
+          "branch_name": "Montazah Branch",
+          "city": "Alexandria",
+          "swift_code": "BCAIEGCX280"
+        },
+        {
+          "branch_name": "Bab Sedrah",
+          "city": "Alexandria",
+          "swift_code": "BCAIEGCX285"
+        },
+        {
+          "branch_name": "El Ekball Branch",
+          "city": "Alexandria",
+          "swift_code": "BCAIEGCX290"
+        },
+        {
+          "branch_name": "Port Said Branch",
+          "city": "Port Said",
+          "swift_code": "BCAIEGCX300"
+        },
+        {
+          "branch_name": "Suez Branch",
+          "city": "Suez",
+          "swift_code": "BCAIEGCX310"
+        },
+        {
+          "branch_name": "Ismailia Branch",
+          "city": "Ismailia",
+          "swift_code": "BCAIEGCX320"
+        },
+        {
+          "branch_name": "Port Fouad Branch",
+          "city": "Port Said",
+          "swift_code": "BCAIEGCX330"
+        },
+        {
+          "branch_name": "Nowaiba Branch",
+          "city": "South Sinai",
+          "swift_code": "BCAIEGCX340"
+        },
+        {
+          "branch_name": "Arish Branch",
+          "city": "South Sinai",
+          "swift_code": "BCAIEGCX350"
+        },
+        {
+          "branch_name": "Sharm Sheikh Branch",
+          "city": "South Sinai",
+          "swift_code": "BCAIEGCX360"
+        },
+        {
+          "branch_name": "Banha Branch",
+          "city": "Qaliobia",
+          "swift_code": "BCAIEGCX400"
+        },
+        {
+          "branch_name": "Kaluob",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX401"
+        },
+        {
+          "branch_name": "Kafr Shokr Branch",
+          "city": "Qaliobia",
+          "swift_code": "BCAIEGCX402"
+        },
+        {
+          "branch_name": "Zagazig Branch",
+          "city": "Sharjah",
+          "swift_code": "BCAIEGCX410"
+        },
+        {
+          "branch_name": "Hesseinyia Branch",
+          "city": "Sharkya",
+          "swift_code": "BCAIEGCX411"
+        },
+        {
+          "branch_name": "Belbeis Branch",
+          "city": "Sharkya",
+          "swift_code": "BCAIEGCX412"
+        },
+        {
+          "branch_name": "Khlousy",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX101"
+        },
+        {
+          "branch_name": "Misr Alkadima",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX110"
+        },
+        {
+          "branch_name": "Maadi Branch",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX111"
+        },
+        {
+          "branch_name": "New Maadi",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX112"
+        },
+        {
+          "branch_name": "Amiria",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX120"
+        },
+        {
+          "branch_name": "Daher Branch",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX130"
+        },
+        {
+          "branch_name": "Roxy",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX140"
+        },
+        {
+          "branch_name": "Airport Branch",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX150"
+        },
+        {
+          "branch_name": "Al Orouba",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX151"
+        },
+        {
+          "branch_name": "Sabtia",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX160"
+        },
+        {
+          "branch_name": "Noubar",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX170"
+        },
+        {
+          "branch_name": "Helwan",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX180"
+        },
+        {
+          "branch_name": "Nasr City",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX190"
+        },
+        {
+          "branch_name": "Youssef Abbas Branch",
+          "city": "Cairo",
+          "swift_code": "BCAIEGCX195"
+        },
+        {
+          "branch_name": "Sesostrees Branch",
+          "city": "Alexandria",
+          "swift_code": "BCAIEGCX200"
+        },
+        {
+          "branch_name": "El Wardian Branch",
+          "city": "Alexandria",
+          "swift_code": "BCAIEGCX201"
+        },
+        {
+          "branch_name": "Salah Salem Branch",
+          "city": "Alexandria",
+          "swift_code": "BCAIEGCX210"
+        },
+        {
+          "branch_name": "Backus Branch",
+          "city": "Alexandria",
+          "swift_code": "BCAIEGCX220"
+        },
+        {
+          "branch_name": "Sporting Branch",
+          "city": "Alexandria",
+          "swift_code": "BCAIEGCX230"
+        },
+        {
+          "branch_name": "Ebrahemiya Branch",
+          "city": "Alexandria",
+          "swift_code": "BCAIEGCX231"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Alexandria S A E",
+      "branches": [
+        {
+          "branch_name": "Alexandria Branch",
+          "city": "Alexandria",
+          "swift_code": "ALEXEGCX001"
+        },
+        {
+          "branch_name": "Port Said Branch",
+          "city": "Port Said",
+          "swift_code": "ALEXEGCX002"
+        },
+        {
+          "branch_name": "Sherif Branch",
+          "city": "Cairo",
+          "swift_code": "ALEXEGCX003"
+        },
+        {
+          "branch_name": "Muski Branch",
+          "city": "Cairo",
+          "swift_code": "ALEXEGCX004"
+        },
+        {
+          "branch_name": "Investment Department",
+          "city": "Cairo",
+          "swift_code": "ALEXEGCX005"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "ALEXEGCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Audi Sae",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "AUDBEGCAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Investment Bank",
+      "branches": [
+        {
+          "branch_name": "10ramadan Branch",
+          "city": "Arish",
+          "swift_code": "AINBEGCA10R"
+        },
+        {
+          "branch_name": "5st Branch",
+          "city": "Cairo",
+          "swift_code": "AINBEGCA5ST"
+        },
+        {
+          "branch_name": "Alexandria For Islamic Operation Branch",
+          "city": "Alexandria",
+          "swift_code": "AINBEGCAALI"
+        },
+        {
+          "branch_name": "Alexandria Branch",
+          "city": "Alexandria",
+          "swift_code": "AINBEGCAALX"
+        },
+        {
+          "branch_name": "Cairo Branch",
+          "city": "Cairo",
+          "swift_code": "AINBEGCACAI"
+        },
+        {
+          "branch_name": "Faisal Branch",
+          "city": "Cairo",
+          "swift_code": "AINBEGCAFSL"
+        },
+        {
+          "branch_name": "Giza Branch",
+          "city": "Cairo",
+          "swift_code": "AINBEGCAGIZ"
+        },
+        {
+          "branch_name": "Heliopolis Branch",
+          "city": "Cairo",
+          "swift_code": "AINBEGCAHEL"
+        },
+        {
+          "branch_name": "Kornish Branch",
+          "city": "Cairo",
+          "swift_code": "AINBEGCAKOR"
+        },
+        {
+          "branch_name": "Maadi Branch",
+          "city": "Cairo",
+          "swift_code": "AINBEGCAMAD"
+        },
+        {
+          "branch_name": "6th Of October Branch",
+          "city": "Of October",
+          "swift_code": "AINBEGCAMAR"
+        },
+        {
+          "branch_name": "El Menia Branch",
+          "city": "El Menia",
+          "swift_code": "AINBEGCAMIN"
+        },
+        {
+          "branch_name": "Mohandesin Branch",
+          "city": "Giza",
+          "swift_code": "AINBEGCAMOH"
+        },
+        {
+          "branch_name": "Nasr City",
+          "city": "Cairo",
+          "swift_code": "AINBEGCANSR"
+        },
+        {
+          "branch_name": "El Obour Branch",
+          "city": "Al Obour",
+          "swift_code": "AINBEGCAOBR"
+        },
+        {
+          "branch_name": "Port Said Branch",
+          "city": "Port Said",
+          "swift_code": "AINBEGCAPSD"
+        },
+        {
+          "branch_name": "Shoubra Branch",
+          "city": "Cairo",
+          "swift_code": "AINBEGCASHB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "AINBEGCAXXX"
+        },
+        {
+          "branch_name": "Zamalek For Islamic Operation Branch",
+          "city": "Cairo",
+          "swift_code": "AINBEGCAZMK"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab International Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "ARIBEGCX001"
+        },
+        {
+          "branch_name": "Alexandria Branch",
+          "city": "Alexandria",
+          "swift_code": "ARIBEGCX002"
+        },
+        {
+          "branch_name": "Tahrir Branch",
+          "city": "Cairo",
+          "swift_code": "ARIBEGCX003"
+        },
+        {
+          "branch_name": "Nasr City Branch",
+          "city": "Cairo",
+          "swift_code": "ARIBEGCX004"
+        },
+        {
+          "branch_name": "Heliopolice Branch",
+          "city": "Cairo",
+          "swift_code": "ARIBEGCX005"
+        },
+        {
+          "branch_name": "Port Said Branch",
+          "city": "Port Said",
+          "swift_code": "ARIBEGCX006"
+        },
+        {
+          "branch_name": "Sarwat Branch",
+          "city": "Cairo",
+          "swift_code": "ARIBEGCX007"
+        },
+        {
+          "branch_name": "Mohandiseen Branch",
+          "city": "Cairo",
+          "swift_code": "ARIBEGCX008"
+        },
+        {
+          "branch_name": "Local Bank Department",
+          "city": "Cairo",
+          "swift_code": "ARIBEGCXLBR"
+        },
+        {
+          "branch_name": "Money Oper Dept",
+          "city": "Cairo",
+          "swift_code": "ARIBEGCXMOP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "ARIBEGCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Banking Corporation Egypt",
+      "branches": [
+        {
+          "branch_name": "Alexandria",
+          "city": "Alexandria",
+          "swift_code": "EAABEGC10AL"
+        },
+        {
+          "branch_name": "Treasury Back Office",
+          "city": "Cairo",
+          "swift_code": "EAABEGCX002"
+        },
+        {
+          "branch_name": "Bostan Branch",
+          "city": "Cairo",
+          "swift_code": "EAABEGCX003"
+        },
+        {
+          "branch_name": "Mohandeseen Branch",
+          "city": "Cairo",
+          "swift_code": "EAABEGCX005"
+        },
+        {
+          "branch_name": "Nasr City Branch",
+          "city": "Cairo",
+          "swift_code": "EAABEGCX007"
+        },
+        {
+          "branch_name": "Zamalek Branch",
+          "city": "Cairo",
+          "swift_code": "EAABEGCX008"
+        },
+        {
+          "branch_name": "Alexandria Branch",
+          "city": "Alexandria",
+          "swift_code": "EAABEGCX010"
+        },
+        {
+          "branch_name": "6th Of October City Branch",
+          "city": "6th Of October",
+          "swift_code": "EAABEGCX011"
+        },
+        {
+          "branch_name": "Tenth Of Ramadan Branch",
+          "city": "The Tenth Of Ramadan",
+          "swift_code": "EAABEGCX015"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "EAABEGCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alwatany Bank Of Egypt",
+      "branches": [
+        {
+          "branch_name": "Alexandria Branch",
+          "city": "Alexandria",
+          "swift_code": "WABAEGCXALX"
+        },
+        {
+          "branch_name": "Cornish Branch",
+          "city": "Cairo",
+          "swift_code": "WABAEGCXCOR"
+        },
+        {
+          "branch_name": "Dokki Branch For Islamic Operations",
+          "city": "Cairo",
+          "swift_code": "WABAEGCXDOK"
+        },
+        {
+          "branch_name": "Algalaa Branch",
+          "city": "Giza",
+          "swift_code": "WABAEGCXGAL"
+        },
+        {
+          "branch_name": "Giza-al Haram Branch",
+          "city": "Cairo",
+          "swift_code": "WABAEGCXHAR"
+        },
+        {
+          "branch_name": "Heliopolis Branch",
+          "city": "Cairo",
+          "swift_code": "WABAEGCXHEL"
+        },
+        {
+          "branch_name": "Mansoura Branch",
+          "city": "El Mansoura",
+          "swift_code": "WABAEGCXMNS"
+        },
+        {
+          "branch_name": "Mohandseen Branch",
+          "city": "Cairo",
+          "swift_code": "WABAEGCXMOH"
+        },
+        {
+          "branch_name": "Nasr City Branch",
+          "city": "Cairo",
+          "swift_code": "WABAEGCXNCT"
+        },
+        {
+          "branch_name": "6th Of October Branch",
+          "city": "Of October",
+          "swift_code": "WABAEGCXOCT"
+        },
+        {
+          "branch_name": "The Tenth Of Ramadan Branch",
+          "city": "The Tenth Of Ramadan",
+          "swift_code": "WABAEGCXRAM"
+        },
+        {
+          "branch_name": "Alexandria Branch For Islamic Operation",
+          "city": "Alexandria",
+          "swift_code": "WABAEGCXRML"
+        },
+        {
+          "branch_name": "Roxy Branch",
+          "city": "Cairo",
+          "swift_code": "WABAEGCXROX"
+        },
+        {
+          "branch_name": "Sarwat Branch",
+          "city": "Cairo",
+          "swift_code": "WABAEGCXSAR"
+        },
+        {
+          "branch_name": "Sohag Branch",
+          "city": "Sohag",
+          "swift_code": "WABAEGCXSOH"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "WABAEGCXXXX"
+        },
+        {
+          "branch_name": "El Sheikh Zayed Branch",
+          "city": "Of October",
+          "swift_code": "WABAEGCXZAY"
+        },
+        {
+          "branch_name": "Zezinya Branch",
+          "city": "Alexandria",
+          "swift_code": "WABAEGCXZIZ"
+        }
+      ]
+    },
+    {
+      "bank_name": "Albaraka Bank Egypt",
+      "branches": [
+        {
+          "branch_name": "21111 Alexandria",
+          "city": "Alexandria",
+          "swift_code": "ABRKEGC10AL"
+        },
+        {
+          "branch_name": "Akkad Branch",
+          "city": "Cairo",
+          "swift_code": "ABRKEGCAAKD"
+        },
+        {
+          "branch_name": "Alfy Branch",
+          "city": "Cairo",
+          "swift_code": "ABRKEGCAALF"
+        },
+        {
+          "branch_name": "10th Ramadan Branch",
+          "city": "The Tenth Of Ramadan",
+          "swift_code": "ABRKEGCAASH"
+        },
+        {
+          "branch_name": "Alexandria Branch",
+          "city": "Alexandria",
+          "swift_code": "ABRKEGCAAZA"
+        },
+        {
+          "branch_name": "Borg Al Arab Branch",
+          "city": "Alexandria",
+          "swift_code": "ABRKEGCABRG"
+        },
+        {
+          "branch_name": "Garden City Branch",
+          "city": "Cairo",
+          "swift_code": "ABRKEGCACAI"
+        },
+        {
+          "branch_name": "Correspondants Department",
+          "city": "Giza",
+          "swift_code": "ABRKEGCACOR"
+        },
+        {
+          "branch_name": "Dokki Branch",
+          "city": "Giza",
+          "swift_code": "ABRKEGCADOK"
+        },
+        {
+          "branch_name": "Mohyee Eldin Abou El Ezz Branch",
+          "city": "Giza",
+          "swift_code": "ABRKEGCAEZZ"
+        },
+        {
+          "branch_name": "King Faisal Branch",
+          "city": "Giza",
+          "swift_code": "ABRKEGCAFSL"
+        },
+        {
+          "branch_name": "International Garden Branch",
+          "city": "Cairo",
+          "swift_code": "ABRKEGCAHDW"
+        },
+        {
+          "branch_name": "Lc Department",
+          "city": "Giza",
+          "swift_code": "ABRKEGCALCG"
+        },
+        {
+          "branch_name": "New Maadi Branch",
+          "city": "Cairo",
+          "swift_code": "ABRKEGCALSK"
+        },
+        {
+          "branch_name": "Maadi Branch",
+          "city": "Cairo",
+          "swift_code": "ABRKEGCAMAD"
+        },
+        {
+          "branch_name": "Financial Department",
+          "city": "Giza",
+          "swift_code": "ABRKEGCAMAL"
+        },
+        {
+          "branch_name": "Mansora Branch",
+          "city": "Al Mansora",
+          "swift_code": "ABRKEGCAMAN"
+        },
+        {
+          "branch_name": "Almanial Branch Cairo",
+          "city": "Cairo",
+          "swift_code": "ABRKEGCAMNL"
+        },
+        {
+          "branch_name": "Mohandseen Branch",
+          "city": "Giza",
+          "swift_code": "ABRKEGCAMOH"
+        },
+        {
+          "branch_name": "Heliopolice Branch",
+          "city": "Cairo",
+          "swift_code": "ABRKEGCAMRG"
+        },
+        {
+          "branch_name": "Nasr City Branch",
+          "city": "Cairo",
+          "swift_code": "ABRKEGCANSR"
+        },
+        {
+          "branch_name": "6th October Branch",
+          "city": "Of October",
+          "swift_code": "ABRKEGCAOCT"
+        },
+        {
+          "branch_name": "Ahmed Orabi Branch",
+          "city": "Giza",
+          "swift_code": "ABRKEGCAORA"
+        },
+        {
+          "branch_name": "Reahab Branch",
+          "city": "Cairo",
+          "swift_code": "ABRKEGCARHB"
+        },
+        {
+          "branch_name": "Shobra Branch",
+          "city": "Cairo",
+          "swift_code": "ABRKEGCASHB"
+        },
+        {
+          "branch_name": "Sharm Elsheikh Branch",
+          "city": "North Sinai",
+          "swift_code": "ABRKEGCASHM"
+        },
+        {
+          "branch_name": "Smoha Branch",
+          "city": "Alexandria",
+          "swift_code": "ABRKEGCASOM"
+        },
+        {
+          "branch_name": "Stanly Branch",
+          "city": "Alexandria",
+          "swift_code": "ABRKEGCASTN"
+        },
+        {
+          "branch_name": "Tanta Branch",
+          "city": "Tanta",
+          "swift_code": "ABRKEGCATAN"
+        },
+        {
+          "branch_name": "Test Key Department",
+          "city": "Giza",
+          "swift_code": "ABRKEGCATKY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "ABRKEGCAXXX"
+        },
+        {
+          "branch_name": "Al Azhar Branch",
+          "city": "Cairo",
+          "swift_code": "ABRKEGCAZHR"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ahli United Bank (egypt) S.a.e.",
+      "branches": [
+        {
+          "branch_name": "Central Operations",
+          "city": "Cairo",
+          "swift_code": "DEIBEGCX016"
+        },
+        {
+          "branch_name": "Giza-dokki Branch",
+          "city": "Cairo",
+          "swift_code": "DEIBEGCX024"
+        },
+        {
+          "branch_name": "Heliopolis Branch",
+          "city": "Cairo",
+          "swift_code": "DEIBEGCX032"
+        },
+        {
+          "branch_name": "Shubra Branch",
+          "city": "Cairo",
+          "swift_code": "DEIBEGCX040"
+        },
+        {
+          "branch_name": "Maadi Branch",
+          "city": "Cairo",
+          "swift_code": "DEIBEGCX059"
+        },
+        {
+          "branch_name": "Merghany Branch",
+          "city": "Cairo",
+          "swift_code": "DEIBEGCX075"
+        },
+        {
+          "branch_name": "Mohandessin Branch",
+          "city": "Cairo",
+          "swift_code": "DEIBEGCX083"
+        },
+        {
+          "branch_name": "Downtown",
+          "city": "Cairo",
+          "swift_code": "DEIBEGCX110"
+        },
+        {
+          "branch_name": "El-haram Branch",
+          "city": "Cairo",
+          "swift_code": "DEIBEGCX128"
+        },
+        {
+          "branch_name": "Alexandria Branch",
+          "city": "Alexandria",
+          "swift_code": "DEIBEGCX215"
+        },
+        {
+          "branch_name": "Sidi-bishr Branch",
+          "city": "Alexandria",
+          "swift_code": "DEIBEGCX223"
+        },
+        {
+          "branch_name": "Tanta Branch",
+          "city": "Tanta",
+          "swift_code": "DEIBEGCX319"
+        },
+        {
+          "branch_name": "El Mansoura Branch",
+          "city": "El Mansoura",
+          "swift_code": "DEIBEGCX518"
+        },
+        {
+          "branch_name": "Domiat Branch",
+          "city": "Domiat",
+          "swift_code": "DEIBEGCX527"
+        },
+        {
+          "branch_name": "Suez Branch",
+          "city": "Suez",
+          "swift_code": "DEIBEGCX613"
+        },
+        {
+          "branch_name": "Port Said Branch",
+          "city": "Port Said",
+          "swift_code": "DEIBEGCX621"
+        },
+        {
+          "branch_name": "El Menia Branch",
+          "city": "El Menia",
+          "swift_code": "DEIBEGCX718"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "DEIBEGCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abu Dhabi Islamic Bank-egypt",
+      "branches": [
+        {
+          "branch_name": "Alexandria Branch",
+          "city": "Alexandria",
+          "swift_code": "ABDIEGCAALX"
+        },
+        {
+          "branch_name": "El Azhar Branch",
+          "city": "Cairo",
+          "swift_code": "ABDIEGCAAZH"
+        },
+        {
+          "branch_name": "Bab El Louk Branch",
+          "city": "Cairo",
+          "swift_code": "ABDIEGCABLQ"
+        },
+        {
+          "branch_name": "El Borsa Branch",
+          "city": "Cairo",
+          "swift_code": "ABDIEGCABRS"
+        },
+        {
+          "branch_name": "Dokki Islamic Branch",
+          "city": "Cairo",
+          "swift_code": "ABDIEGCADKI"
+        },
+        {
+          "branch_name": "Damanhour Branch",
+          "city": "Damanhour",
+          "swift_code": "ABDIEGCADMN"
+        },
+        {
+          "branch_name": "Garden City Islamic Branch",
+          "city": "Cairo",
+          "swift_code": "ABDIEGCAGCT"
+        },
+        {
+          "branch_name": "Giza Islamic Branch",
+          "city": "Cairo",
+          "swift_code": "ABDIEGCAGZI"
+        },
+        {
+          "branch_name": "Heliopolis Commercial Branch",
+          "city": "Cairo",
+          "swift_code": "ABDIEGCAHLC"
+        },
+        {
+          "branch_name": "Heliopolis Islamic Branch",
+          "city": "Cairo",
+          "swift_code": "ABDIEGCAHLI"
+        },
+        {
+          "branch_name": "Helwan Branch",
+          "city": "Cairo",
+          "swift_code": "ABDIEGCAHLW"
+        },
+        {
+          "branch_name": "Qalioub Islamic Branch",
+          "city": "Qaliobia",
+          "swift_code": "ABDIEGCAKLI"
+        },
+        {
+          "branch_name": "Kasr El Nil Branch",
+          "city": "Cairo",
+          "swift_code": "ABDIEGCAKSR"
+        },
+        {
+          "branch_name": "Mohandsen Branch",
+          "city": "Cairo",
+          "swift_code": "ABDIEGCAMHD"
+        },
+        {
+          "branch_name": "6th October Branch",
+          "city": "Cairo",
+          "swift_code": "ABDIEGCAOCT"
+        },
+        {
+          "branch_name": "El Opera Branch",
+          "city": "Cairo",
+          "swift_code": "ABDIEGCAOPR"
+        },
+        {
+          "branch_name": "Shoubra El Rheima Islamic Branch",
+          "city": "Qaliobia",
+          "swift_code": "ABDIEGCASHP"
+        },
+        {
+          "branch_name": "Sawah Branch",
+          "city": "Cairo",
+          "swift_code": "ABDIEGCASWH"
+        },
+        {
+          "branch_name": "Abu Dhabi Islamic Bank-egypt",
+          "city": "Cairo",
+          "swift_code": "ABDIEGCAXXX"
+        },
+        {
+          "branch_name": "Zamalek Branch",
+          "city": "Cairo",
+          "swift_code": "ABDIEGCAZMK"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mubasher Trade",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "MUBREGC1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Giza",
+          "swift_code": "MUBREGCAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "El Safwa For Securities Trading",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "SASDEGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Egyptian Workers Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "EWBAEGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Egyptian Investor Protection Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "EIPFEGCAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Triple A Securities Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "TREEEGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The United Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "UBOEEGCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Suez Canal Bank",
+      "branches": [
+        {
+          "branch_name": "Alexandria Branch",
+          "city": "Alexandria",
+          "swift_code": "SUCAEGCXALX"
+        },
+        {
+          "branch_name": "Alamria Branch",
+          "city": "Alexandria",
+          "swift_code": "SUCAEGCXAMR"
+        },
+        {
+          "branch_name": "Assuit Branch",
+          "city": "Assuit",
+          "swift_code": "SUCAEGCXASU"
+        },
+        {
+          "branch_name": "Bourg El Arab Branch",
+          "city": "Bourg El Arab",
+          "swift_code": "SUCAEGCXBRG"
+        },
+        {
+          "branch_name": "Cairo Branch",
+          "city": "Cairo",
+          "swift_code": "SUCAEGCXCAI"
+        },
+        {
+          "branch_name": "Dokki Branch",
+          "city": "Cairo",
+          "swift_code": "SUCAEGCXDOK"
+        },
+        {
+          "branch_name": "Domiat Branch",
+          "city": "Domiat",
+          "swift_code": "SUCAEGCXDOM"
+        },
+        {
+          "branch_name": "Fostat Branch",
+          "city": "Cairo",
+          "swift_code": "SUCAEGCXFOS"
+        },
+        {
+          "branch_name": "Giza Branch",
+          "city": "Cairo",
+          "swift_code": "SUCAEGCXGIZ"
+        },
+        {
+          "branch_name": "Garden City Branch",
+          "city": "Cairo",
+          "swift_code": "SUCAEGCXGRD"
+        },
+        {
+          "branch_name": "Heliopolis Branch",
+          "city": "Cairo",
+          "swift_code": "SUCAEGCXHEL"
+        },
+        {
+          "branch_name": "Ismalia Branch",
+          "city": "Ismailia",
+          "swift_code": "SUCAEGCXISM"
+        },
+        {
+          "branch_name": "Maadi Branch",
+          "city": "Cairo",
+          "swift_code": "SUCAEGCXMAD"
+        },
+        {
+          "branch_name": "El Mansoura Branch",
+          "city": "El Mansoura",
+          "swift_code": "SUCAEGCXMAN"
+        },
+        {
+          "branch_name": "El Menia Branch",
+          "city": "El Menia",
+          "swift_code": "SUCAEGCXMEN"
+        },
+        {
+          "branch_name": "Mohandesseen Branch",
+          "city": "Cairo",
+          "swift_code": "SUCAEGCXMOH"
+        },
+        {
+          "branch_name": "Nasr City Branch",
+          "city": "Cairo",
+          "swift_code": "SUCAEGCXNSR"
+        },
+        {
+          "branch_name": "Al Obour Branch",
+          "city": "Al Obour",
+          "swift_code": "SUCAEGCXOBR"
+        },
+        {
+          "branch_name": "6th Of October City Branch",
+          "city": "6th Of October",
+          "swift_code": "SUCAEGCXOCT"
+        },
+        {
+          "branch_name": "University Branch",
+          "city": "6th Of October",
+          "swift_code": "SUCAEGCXOCU"
+        },
+        {
+          "branch_name": "Orouba Branch",
+          "city": "Cairo",
+          "swift_code": "SUCAEGCXORB"
+        },
+        {
+          "branch_name": "Port Said Branch",
+          "city": "Port Said",
+          "swift_code": "SUCAEGCXPTS"
+        },
+        {
+          "branch_name": "The Tenth Of Ramadan Branch",
+          "city": "The Tenth Of Ramadan",
+          "swift_code": "SUCAEGCXRAM"
+        },
+        {
+          "branch_name": "Sadat Branch",
+          "city": "El Sadat City",
+          "swift_code": "SUCAEGCXSDT"
+        },
+        {
+          "branch_name": "Shobra Branch",
+          "city": "Cairo",
+          "swift_code": "SUCAEGCXSHB"
+        },
+        {
+          "branch_name": "Sharm El Sheikh Branch",
+          "city": "Sharm El Sheikh",
+          "swift_code": "SUCAEGCXSHR"
+        },
+        {
+          "branch_name": "Smoha Branch",
+          "city": "Alexandria",
+          "swift_code": "SUCAEGCXSMH"
+        },
+        {
+          "branch_name": "Sphinx Branch",
+          "city": "Cairo",
+          "swift_code": "SUCAEGCXSPH"
+        },
+        {
+          "branch_name": "Suez Branch",
+          "city": "Suez",
+          "swift_code": "SUCAEGCXSUZ"
+        },
+        {
+          "branch_name": "Tanta Branch",
+          "city": "Tanta",
+          "swift_code": "SUCAEGCXTAN"
+        },
+        {
+          "branch_name": "Ain Sokhna Branch",
+          "city": "Ain El",
+          "swift_code": "SUCAEGCXTED"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "SUCAEGCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Strategy Securities Group",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "STSGEGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swiss Group For Securities Brokerag",
+      "branches": [
+        {
+          "branch_name": "Swiss Group For Securities Brokerag",
+          "city": "Cairo",
+          "swift_code": "SGFBEGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Arabe Internationale De Banque",
+      "branches": [
+        {
+          "branch_name": "Alexandria",
+          "city": "Alexandria",
+          "swift_code": "SBNKEGC10AL"
+        },
+        {
+          "branch_name": "Alexandria",
+          "city": "Alexandria",
+          "swift_code": "SBNKEGCXALX"
+        },
+        {
+          "branch_name": "12564-36 6th Of October",
+          "city": "Of October",
+          "swift_code": "SBNKEGCXARM"
+        },
+        {
+          "branch_name": "The Tenth Of Ramadan Branch",
+          "city": "The Tenth Of Ramadan",
+          "swift_code": "SBNKEGCXASH"
+        },
+        {
+          "branch_name": "Assuit Branch",
+          "city": "Assuit",
+          "swift_code": "SBNKEGCXASI"
+        },
+        {
+          "branch_name": "Al Azher Branch",
+          "city": "Cairo",
+          "swift_code": "SBNKEGCXAZH"
+        },
+        {
+          "branch_name": "Boustan Branch",
+          "city": "Cairo",
+          "swift_code": "SBNKEGCXBUS"
+        },
+        {
+          "branch_name": "Cairo",
+          "city": "Cairo",
+          "swift_code": "SBNKEGCXCIC"
+        },
+        {
+          "branch_name": "Domiat",
+          "city": "Domiat",
+          "swift_code": "SBNKEGCXDMT"
+        },
+        {
+          "branch_name": "Heliopolis Branch",
+          "city": "Cairo",
+          "swift_code": "SBNKEGCXHLP"
+        },
+        {
+          "branch_name": "Investment",
+          "city": "Port Said",
+          "swift_code": "SBNKEGCXINV"
+        },
+        {
+          "branch_name": "Islamic Branch",
+          "city": "Port Said",
+          "swift_code": "SBNKEGCXISL"
+        },
+        {
+          "branch_name": "El Mahala El Kobra",
+          "city": "El Mahala El Kobra",
+          "swift_code": "SBNKEGCXMHL"
+        },
+        {
+          "branch_name": "El Mansoura",
+          "city": "El Mansoura",
+          "swift_code": "SBNKEGCXMNS"
+        },
+        {
+          "branch_name": "Cairo",
+          "city": "Cairo",
+          "swift_code": "SBNKEGCXMRG"
+        },
+        {
+          "branch_name": "Cairo",
+          "city": "Cairo",
+          "swift_code": "SBNKEGCXNCA"
+        },
+        {
+          "branch_name": "El Nours",
+          "city": "Port Said",
+          "swift_code": "SBNKEGCXNRS"
+        },
+        {
+          "branch_name": "6th Of October Branch",
+          "city": "Of October",
+          "swift_code": "SBNKEGCXOCT"
+        },
+        {
+          "branch_name": "Port Said",
+          "city": "Port Said",
+          "swift_code": "SBNKEGCXSHD"
+        },
+        {
+          "branch_name": "Alexandria",
+          "city": "Alexandria",
+          "swift_code": "SBNKEGCXSMH"
+        },
+        {
+          "branch_name": "Suez",
+          "city": "Suez",
+          "swift_code": "SBNKEGCXSUZ"
+        },
+        {
+          "branch_name": "Tanta",
+          "city": "Tanta",
+          "swift_code": "SBNKEGCXTAN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "SBNKEGCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Qatar National Bank Alahli S.a.e",
+      "branches": [
+        {
+          "branch_name": "Sgss",
+          "city": "Cairo",
+          "swift_code": "NSGBEGCXGSS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "NSGBEGCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Principal Bank For Development And Agricultural Credit",
+      "branches": [
+        {
+          "branch_name": "Cairo Branch",
+          "city": "Cairo",
+          "swift_code": "BDACEGCA001"
+        },
+        {
+          "branch_name": "Giza Branch",
+          "city": "Cairo",
+          "swift_code": "BDACEGCA002"
+        },
+        {
+          "branch_name": "Alexandria Branch",
+          "city": "Alexandria",
+          "swift_code": "BDACEGCA003"
+        },
+        {
+          "branch_name": "Kalubia Branch",
+          "city": "Banha",
+          "swift_code": "BDACEGCA013"
+        },
+        {
+          "branch_name": "El Gharbia Branch",
+          "city": "Tanta",
+          "swift_code": "BDACEGCA040"
+        },
+        {
+          "branch_name": "El Behera Branch",
+          "city": "Damanhour",
+          "swift_code": "BDACEGCA045"
+        },
+        {
+          "branch_name": "Kafr El Sheikh Branch",
+          "city": "Kafr El Sheikh",
+          "swift_code": "BDACEGCA047"
+        },
+        {
+          "branch_name": "Monofila Branch",
+          "city": "Shibin El Kom",
+          "swift_code": "BDACEGCA048"
+        },
+        {
+          "branch_name": "Dakahlia Branch",
+          "city": "El Mansoura",
+          "swift_code": "BDACEGCA050"
+        },
+        {
+          "branch_name": "El Sharkia Branch",
+          "city": "Zakazik",
+          "swift_code": "BDACEGCA055"
+        },
+        {
+          "branch_name": "Domiat Branch",
+          "city": "Domiat",
+          "swift_code": "BDACEGCA057"
+        },
+        {
+          "branch_name": "Ismailia Branch",
+          "city": "Ismailia",
+          "swift_code": "BDACEGCA064"
+        },
+        {
+          "branch_name": "Bani Suef Branch",
+          "city": "Bani Suef",
+          "swift_code": "BDACEGCA082"
+        },
+        {
+          "branch_name": "El Fayoum Branch",
+          "city": "El Fayoum",
+          "swift_code": "BDACEGCA084"
+        },
+        {
+          "branch_name": "El Menia Branch",
+          "city": "El Menia",
+          "swift_code": "BDACEGCA086"
+        },
+        {
+          "branch_name": "Assuit And El Wadi El Gided Branch",
+          "city": "Assuit",
+          "swift_code": "BDACEGCA088"
+        },
+        {
+          "branch_name": "Suhag Branch",
+          "city": "Suhag",
+          "swift_code": "BDACEGCA093"
+        },
+        {
+          "branch_name": "Kena Branch",
+          "city": "Kena",
+          "swift_code": "BDACEGCA096"
+        },
+        {
+          "branch_name": "Aswan Branch",
+          "city": "Aswan",
+          "swift_code": "BDACEGCA097"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "BDACEGCAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "El Salam Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "SALMEGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prime Securities Sae",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "PSSREGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prime Securities Brokerage Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Giza",
+          "swift_code": "PSBREGCAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Piraeus Bank-egypt S.a.e.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "ECBAEGCAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pharos Holding",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "PHHOEGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pharos Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "PHAREGCAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Post Organization",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "PSTEEGC1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "PSTEEGCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Oman (saog",
+      "branches": [
+        {
+          "branch_name": "Cairo",
+          "city": "Cairo",
+          "swift_code": "NBOMEGCXCHO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "NBOMEGCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Greece, (egypt Network",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Giza",
+          "swift_code": "ETHNEGCAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Egypt",
+      "branches": [
+        {
+          "branch_name": "Main Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX001"
+        },
+        {
+          "branch_name": "El Nasr Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX002"
+        },
+        {
+          "branch_name": "Sarwat Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX003"
+        },
+        {
+          "branch_name": "Eloui Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX004"
+        },
+        {
+          "branch_name": "El Sherifain Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX006"
+        },
+        {
+          "branch_name": "Ramsis Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX007"
+        },
+        {
+          "branch_name": "El Faggala Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX008"
+        },
+        {
+          "branch_name": "Capital Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX009"
+        },
+        {
+          "branch_name": "Alserag Mall Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX072"
+        },
+        {
+          "branch_name": "Abbas Elakad Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX073"
+        },
+        {
+          "branch_name": "Arkadia Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX075"
+        },
+        {
+          "branch_name": "Tower Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX077"
+        },
+        {
+          "branch_name": "Heliopolis Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX100"
+        },
+        {
+          "branch_name": "El Mosky Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX101"
+        },
+        {
+          "branch_name": "El Nozha Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX102"
+        },
+        {
+          "branch_name": "El-hamzawi Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX103"
+        },
+        {
+          "branch_name": "Nasr City Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX104"
+        },
+        {
+          "branch_name": "Airport Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX105"
+        },
+        {
+          "branch_name": "El-mokattam Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX106"
+        },
+        {
+          "branch_name": "El Asher Men Ramadan Branch",
+          "city": "The Tenth Of Ramadan",
+          "swift_code": "NBEGEGCX107"
+        },
+        {
+          "branch_name": "El Suez Branch",
+          "city": "Suez",
+          "swift_code": "NBEGEGCX320"
+        },
+        {
+          "branch_name": "El Sabbah Branch",
+          "city": "Suez",
+          "swift_code": "NBEGEGCX321"
+        },
+        {
+          "branch_name": "El-areish Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX330"
+        },
+        {
+          "branch_name": "Rafah Branch",
+          "city": "North Sinai",
+          "swift_code": "NBEGEGCX335"
+        },
+        {
+          "branch_name": "Sharm El Sheikh Branch",
+          "city": "Sharm El Sheikh",
+          "swift_code": "NBEGEGCX340"
+        },
+        {
+          "branch_name": "Hurghada Branch",
+          "city": "Hurghada",
+          "swift_code": "NBEGEGCX341"
+        },
+        {
+          "branch_name": "El-koseir Branch",
+          "city": "Elbahr Elahmar",
+          "swift_code": "NBEGEGCX342"
+        },
+        {
+          "branch_name": "Ras Ghareb Branch",
+          "city": "Elbahr Elahmar",
+          "swift_code": "NBEGEGCX343"
+        },
+        {
+          "branch_name": "Safaga Branch",
+          "city": "Elbahr Elahmar",
+          "swift_code": "NBEGEGCX344"
+        },
+        {
+          "branch_name": "Marsa Alam Branch",
+          "city": "Elbahr Elahmar",
+          "swift_code": "NBEGEGCX346"
+        },
+        {
+          "branch_name": "Hay El-dahar Branch",
+          "city": "Hurghada",
+          "swift_code": "NBEGEGCX347"
+        },
+        {
+          "branch_name": "El-toor Branch",
+          "city": "South Sinai",
+          "swift_code": "NBEGEGCX350"
+        },
+        {
+          "branch_name": "Newebaa Branch",
+          "city": "Newebaa",
+          "swift_code": "NBEGEGCX352"
+        },
+        {
+          "branch_name": "Dahab Branch",
+          "city": "Dahab",
+          "swift_code": "NBEGEGCX353"
+        },
+        {
+          "branch_name": "Kafr Shokr Branch",
+          "city": "Qaliobia",
+          "swift_code": "NBEGEGCX374"
+        },
+        {
+          "branch_name": "Qaha Branch",
+          "city": "Qaha",
+          "swift_code": "NBEGEGCX375"
+        },
+        {
+          "branch_name": "Banha Branch",
+          "city": "Banha",
+          "swift_code": "NBEGEGCX376"
+        },
+        {
+          "branch_name": "Saad Zaghloul Branch",
+          "city": "Qaliobia",
+          "swift_code": "NBEGEGCX377"
+        },
+        {
+          "branch_name": "Basyoun Branch",
+          "city": "El Gharbiaa",
+          "swift_code": "NBEGEGCX378"
+        },
+        {
+          "branch_name": "Almoutasem",
+          "city": "Tanta",
+          "swift_code": "NBEGEGCX379"
+        },
+        {
+          "branch_name": "El-seyouf Branch",
+          "city": "Alexandria",
+          "swift_code": "NBEGEGCX216"
+        },
+        {
+          "branch_name": "Bourg El Arab Branch",
+          "city": "Bourg El Arab",
+          "swift_code": "NBEGEGCX217"
+        },
+        {
+          "branch_name": "San Stefano Branch",
+          "city": "Alexandria",
+          "swift_code": "NBEGEGCX218"
+        },
+        {
+          "branch_name": "El-saloom Branch",
+          "city": "Marsa Matrouh",
+          "swift_code": "NBEGEGCX219"
+        },
+        {
+          "branch_name": "Abul Abbas Branch",
+          "city": "Alexandria",
+          "swift_code": "NBEGEGCX220"
+        },
+        {
+          "branch_name": "Vectorya Branch",
+          "city": "Alexandria",
+          "swift_code": "NBEGEGCX222"
+        },
+        {
+          "branch_name": "El Hamam Branch",
+          "city": "Marsa Matrouh",
+          "swift_code": "NBEGEGCX223"
+        },
+        {
+          "branch_name": "Elshalalat Branch",
+          "city": "Alexandria",
+          "swift_code": "NBEGEGCX224"
+        },
+        {
+          "branch_name": "Mostafa Kamel Branch",
+          "city": "Alexandria",
+          "swift_code": "NBEGEGCX226"
+        },
+        {
+          "branch_name": "Down Town Branch",
+          "city": "Alexandria",
+          "swift_code": "NBEGEGCX227"
+        },
+        {
+          "branch_name": "El Esmaelia Branch",
+          "city": "Ismailia",
+          "swift_code": "NBEGEGCX300"
+        },
+        {
+          "branch_name": "Suez Canal University Branch",
+          "city": "Ismailia",
+          "swift_code": "NBEGEGCX301"
+        },
+        {
+          "branch_name": "Fayed Branch",
+          "city": "Ismailia",
+          "swift_code": "NBEGEGCX302"
+        },
+        {
+          "branch_name": "Eltal Elkebeer Branch",
+          "city": "Ismailia",
+          "swift_code": "NBEGEGCX303"
+        },
+        {
+          "branch_name": "Port Said Branch",
+          "city": "Port Said",
+          "swift_code": "NBEGEGCX310"
+        },
+        {
+          "branch_name": "El Kuwait Avenue Branch",
+          "city": "Port Said",
+          "swift_code": "NBEGEGCX311"
+        },
+        {
+          "branch_name": "Port Fouad Branch",
+          "city": "Port Said",
+          "swift_code": "NBEGEGCX312"
+        },
+        {
+          "branch_name": "23 July Branch",
+          "city": "Port Said",
+          "swift_code": "NBEGEGCX313"
+        },
+        {
+          "branch_name": "Port-said-al Gomrok Branch",
+          "city": "Port Said",
+          "swift_code": "NBEGEGCX314"
+        },
+        {
+          "branch_name": "El Gomhorya Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX315"
+        },
+        {
+          "branch_name": "El Mahala El Kobra Branch",
+          "city": "El Mahala El Kobra",
+          "swift_code": "NBEGEGCX380"
+        },
+        {
+          "branch_name": "Tanta Branch",
+          "city": "Tanta",
+          "swift_code": "NBEGEGCX381"
+        },
+        {
+          "branch_name": "Zefta Branch",
+          "city": "Zefta",
+          "swift_code": "NBEGEGCX382"
+        },
+        {
+          "branch_name": "El-santa Branch",
+          "city": "El Gharbiaa",
+          "swift_code": "NBEGEGCX383"
+        },
+        {
+          "branch_name": "Samanoud Branch",
+          "city": "Samanoud",
+          "swift_code": "NBEGEGCX384"
+        },
+        {
+          "branch_name": "Kafr El Zayat Branch",
+          "city": "Kafr El Zayat",
+          "swift_code": "NBEGEGCX385"
+        },
+        {
+          "branch_name": "Tanta University Branch",
+          "city": "Tanta",
+          "swift_code": "NBEGEGCX386"
+        },
+        {
+          "branch_name": "Elkholafa Elrashedeen Br",
+          "city": "El Mansoura",
+          "swift_code": "NBEGEGCX387"
+        },
+        {
+          "branch_name": "Abou Homous Branch",
+          "city": "El Behirra",
+          "swift_code": "NBEGEGCX389"
+        },
+        {
+          "branch_name": "Damanhour Branch",
+          "city": "Damanhour",
+          "swift_code": "NBEGEGCX390"
+        },
+        {
+          "branch_name": "Kafr El Dawar Branch",
+          "city": "Kafr El Dawar",
+          "swift_code": "NBEGEGCX391"
+        },
+        {
+          "branch_name": "Kom Hamada Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX392"
+        },
+        {
+          "branch_name": "Etai Elbaroud Branch",
+          "city": "El Behirra",
+          "swift_code": "NBEGEGCX393"
+        },
+        {
+          "branch_name": "Rasheed Branch",
+          "city": "El Behirra",
+          "swift_code": "NBEGEGCX394"
+        },
+        {
+          "branch_name": "Qellin Branch",
+          "city": "Kafr Elshigh",
+          "swift_code": "NBEGEGCX395"
+        },
+        {
+          "branch_name": "Kafr El Sheikh Branch",
+          "city": "Kafr El Sheikh",
+          "swift_code": "NBEGEGCX396"
+        },
+        {
+          "branch_name": "Beyala Branch",
+          "city": "Kafr Elshigh",
+          "swift_code": "NBEGEGCX397"
+        },
+        {
+          "branch_name": "Balteem Branch",
+          "city": "Kafr Elshigh",
+          "swift_code": "NBEGEGCX398"
+        },
+        {
+          "branch_name": "Desouk Branch",
+          "city": "Desouk",
+          "swift_code": "NBEGEGCX399"
+        },
+        {
+          "branch_name": "Sidi Salem Branch",
+          "city": "Kafr Elshigh",
+          "swift_code": "NBEGEGCX400"
+        },
+        {
+          "branch_name": "Nadi El Maadi Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX194"
+        },
+        {
+          "branch_name": "Elbasatien Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX195"
+        },
+        {
+          "branch_name": "Maadi Belhorya",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX196"
+        },
+        {
+          "branch_name": "Autostrad Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX198"
+        },
+        {
+          "branch_name": "Elshekh Zayed Branch",
+          "city": "6th Of October",
+          "swift_code": "NBEGEGCX199"
+        },
+        {
+          "branch_name": "Alexandria Branch",
+          "city": "Alexandria",
+          "swift_code": "NBEGEGCX200"
+        },
+        {
+          "branch_name": "Tosson Branch",
+          "city": "Alexandria",
+          "swift_code": "NBEGEGCX201"
+        },
+        {
+          "branch_name": "El-hanshia Branch",
+          "city": "Alexandria",
+          "swift_code": "NBEGEGCX202"
+        },
+        {
+          "branch_name": "El-ekbal Branch",
+          "city": "Alexandria",
+          "swift_code": "NBEGEGCX203"
+        },
+        {
+          "branch_name": "El-agami Branch",
+          "city": "Alexandria",
+          "swift_code": "NBEGEGCX204"
+        },
+        {
+          "branch_name": "El-montazah Branch",
+          "city": "Alexandria",
+          "swift_code": "NBEGEGCX205"
+        },
+        {
+          "branch_name": "Bakous Branch",
+          "city": "Alexandria",
+          "swift_code": "NBEGEGCX206"
+        },
+        {
+          "branch_name": "Alexandria University Branch",
+          "city": "Alexandria",
+          "swift_code": "NBEGEGCX207"
+        },
+        {
+          "branch_name": "Zeizinia Branch",
+          "city": "Alexandria",
+          "swift_code": "NBEGEGCX208"
+        },
+        {
+          "branch_name": "Somoha Club Branch",
+          "city": "Alexandria",
+          "swift_code": "NBEGEGCX209"
+        },
+        {
+          "branch_name": "Moharam Beik Branch",
+          "city": "Alexandria",
+          "swift_code": "NBEGEGCX210"
+        },
+        {
+          "branch_name": "Smouha Branch",
+          "city": "Alexandria",
+          "swift_code": "NBEGEGCX211"
+        },
+        {
+          "branch_name": "Edko Branch",
+          "city": "El Behirra",
+          "swift_code": "NBEGEGCX212"
+        },
+        {
+          "branch_name": "Mersa Matrouh Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX213"
+        },
+        {
+          "branch_name": "Mahatet El Raml Branch",
+          "city": "Alexandria",
+          "swift_code": "NBEGEGCX215"
+        },
+        {
+          "branch_name": "El-helmia El-gestida Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX171"
+        },
+        {
+          "branch_name": "Sama Elmaadi Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX172"
+        },
+        {
+          "branch_name": "Shobra El-khema Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX173"
+        },
+        {
+          "branch_name": "El-takamol Branch",
+          "city": "Giza",
+          "swift_code": "NBEGEGCX174"
+        },
+        {
+          "branch_name": "Misr El-kadima Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX176"
+        },
+        {
+          "branch_name": "El-khlfawy Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX177"
+        },
+        {
+          "branch_name": "El-bahr El-aazam Branch",
+          "city": "Giza",
+          "swift_code": "NBEGEGCX179"
+        },
+        {
+          "branch_name": "El Matthaf El Zerai Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX180"
+        },
+        {
+          "branch_name": "El-saff Branch",
+          "city": "Giza",
+          "swift_code": "NBEGEGCX181"
+        },
+        {
+          "branch_name": "6th Of Octber Branch",
+          "city": "Of October",
+          "swift_code": "NBEGEGCX182"
+        },
+        {
+          "branch_name": "Industrial Distric 6 October",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX183"
+        },
+        {
+          "branch_name": "Mesadak Branch",
+          "city": "Giza",
+          "swift_code": "NBEGEGCX185"
+        },
+        {
+          "branch_name": "Handaset Al Kahera Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX186"
+        },
+        {
+          "branch_name": "Faisal Branch",
+          "city": "Giza",
+          "swift_code": "NBEGEGCX187"
+        },
+        {
+          "branch_name": "Sphinx Branch",
+          "city": "Giza",
+          "swift_code": "NBEGEGCX188"
+        },
+        {
+          "branch_name": "Gamat El Dwal El Arabia Islamic Dealings Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX189"
+        },
+        {
+          "branch_name": "Al Azhar Islamic Dealing Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX190"
+        },
+        {
+          "branch_name": "Gamal Eldin Abu El Mahassin Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX191"
+        },
+        {
+          "branch_name": "Smart Village",
+          "city": "6th Of October",
+          "swift_code": "NBEGEGCX192"
+        },
+        {
+          "branch_name": "Elreeaya Elmottakamla Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX193"
+        },
+        {
+          "branch_name": "Triumph Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX129"
+        },
+        {
+          "branch_name": "El-khalifa El-mamoun Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX130"
+        },
+        {
+          "branch_name": "Ain Shams Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX131"
+        },
+        {
+          "branch_name": "Al-thawra Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX132"
+        },
+        {
+          "branch_name": "El-demerdash Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX133"
+        },
+        {
+          "branch_name": "Oruba Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX134"
+        },
+        {
+          "branch_name": "Al-tayaran Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX135"
+        },
+        {
+          "branch_name": "Souk Elgomla Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX136"
+        },
+        {
+          "branch_name": "El Merghany Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX137"
+        },
+        {
+          "branch_name": "El Golf Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX138"
+        },
+        {
+          "branch_name": "City Stars Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX139"
+        },
+        {
+          "branch_name": "El Sahel Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX142"
+        },
+        {
+          "branch_name": "Al Azhar University Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX143"
+        },
+        {
+          "branch_name": "Omer Ebn Elkhatab Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX144"
+        },
+        {
+          "branch_name": "Mubarak Academy Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX145"
+        },
+        {
+          "branch_name": "New Cairo Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX146"
+        },
+        {
+          "branch_name": "Petrosport Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX147"
+        },
+        {
+          "branch_name": "Elrehab Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX148"
+        },
+        {
+          "branch_name": "Gazernat El Arab Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX149"
+        },
+        {
+          "branch_name": "Kasr El Aini Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX150"
+        },
+        {
+          "branch_name": "Hadayek El-kobba Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX108"
+        },
+        {
+          "branch_name": "El Absia Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX109"
+        },
+        {
+          "branch_name": "North Cairo Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX110"
+        },
+        {
+          "branch_name": "El-khanka Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX111"
+        },
+        {
+          "branch_name": "El-kanater Elkhayria Branch",
+          "city": "Qaliobia",
+          "swift_code": "NBEGEGCX112"
+        },
+        {
+          "branch_name": "Badr City Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX113"
+        },
+        {
+          "branch_name": "El Shorouk Branch",
+          "city": "Shorouk",
+          "swift_code": "NBEGEGCX114"
+        },
+        {
+          "branch_name": "El-hegaz Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX115"
+        },
+        {
+          "branch_name": "Abu El-fedda Branch",
+          "city": "Giza",
+          "swift_code": "NBEGEGCX116"
+        },
+        {
+          "branch_name": "El-roda Branch",
+          "city": "Giza",
+          "swift_code": "NBEGEGCX117"
+        },
+        {
+          "branch_name": "El-sebak Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX118"
+        },
+        {
+          "branch_name": "Al Tawfikia Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX119"
+        },
+        {
+          "branch_name": "Tiba 2000 Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX121"
+        },
+        {
+          "branch_name": "El-zaytown Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX122"
+        },
+        {
+          "branch_name": "El-sawah Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX123"
+        },
+        {
+          "branch_name": "Nekabet Elmohandseen Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX124"
+        },
+        {
+          "branch_name": "Rabaa El Adawya Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX125"
+        },
+        {
+          "branch_name": "Roxy Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX126"
+        },
+        {
+          "branch_name": "Gesr El-suez Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX127"
+        },
+        {
+          "branch_name": "Nazih Khalifa Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX128"
+        },
+        {
+          "branch_name": "Helwan Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX151"
+        },
+        {
+          "branch_name": "Road El Farag Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX152"
+        },
+        {
+          "branch_name": "Shoubra Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX153"
+        },
+        {
+          "branch_name": "El-sayeda Zeinab Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX154"
+        },
+        {
+          "branch_name": "Est Cairo Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX155"
+        },
+        {
+          "branch_name": "Aghakhan Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX156"
+        },
+        {
+          "branch_name": "Garden City Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX157"
+        },
+        {
+          "branch_name": "Sarayat El Maadi Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX158"
+        },
+        {
+          "branch_name": "Corniche El Maadi Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX159"
+        },
+        {
+          "branch_name": "El Dokki Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX160"
+        },
+        {
+          "branch_name": "Elgiza Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX161"
+        },
+        {
+          "branch_name": "Elagouza Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX162"
+        },
+        {
+          "branch_name": "Pyramids Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX163"
+        },
+        {
+          "branch_name": "Cairo University Branch",
+          "city": "Giza",
+          "swift_code": "NBEGEGCX164"
+        },
+        {
+          "branch_name": "El-nil Branch",
+          "city": "Giza",
+          "swift_code": "NBEGEGCX165"
+        },
+        {
+          "branch_name": "El Bdrasheen Branch",
+          "city": "Giza",
+          "swift_code": "NBEGEGCX166"
+        },
+        {
+          "branch_name": "El Zamalek Club Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX167"
+        },
+        {
+          "branch_name": "Embaba Branch",
+          "city": "Giza",
+          "swift_code": "NBEGEGCX168"
+        },
+        {
+          "branch_name": "Pyramiza Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX169"
+        },
+        {
+          "branch_name": "Aday Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX170"
+        },
+        {
+          "branch_name": "El-horria Branch",
+          "city": "El Fayoum",
+          "swift_code": "NBEGEGCX502"
+        },
+        {
+          "branch_name": "Tameya Branch",
+          "city": "Tameya",
+          "swift_code": "NBEGEGCX503"
+        },
+        {
+          "branch_name": "Bani Suef Branch",
+          "city": "Bani Suef",
+          "swift_code": "NBEGEGCX504"
+        },
+        {
+          "branch_name": "El-fashn Branch",
+          "city": "Bani Suef",
+          "swift_code": "NBEGEGCX505"
+        },
+        {
+          "branch_name": "El-wasta Branch",
+          "city": "Bani Suef",
+          "swift_code": "NBEGEGCX506"
+        },
+        {
+          "branch_name": "Bosh Branch",
+          "city": "Bani Suef",
+          "swift_code": "NBEGEGCX507"
+        },
+        {
+          "branch_name": "El Menia Branch",
+          "city": "El Menia",
+          "swift_code": "NBEGEGCX508"
+        },
+        {
+          "branch_name": "El Menia University Branch",
+          "city": "El Menia",
+          "swift_code": "NBEGEGCX509"
+        },
+        {
+          "branch_name": "Bani Mazar Branch",
+          "city": "Bani Mazar",
+          "swift_code": "NBEGEGCX510"
+        },
+        {
+          "branch_name": "Samaloot Branch",
+          "city": "Samaloot",
+          "swift_code": "NBEGEGCX511"
+        },
+        {
+          "branch_name": "Maghagha Branch",
+          "city": "Maghagha",
+          "swift_code": "NBEGEGCX512"
+        },
+        {
+          "branch_name": "Mallawi Branch",
+          "city": "Mallawi",
+          "swift_code": "NBEGEGCX513"
+        },
+        {
+          "branch_name": "Assuit Branch",
+          "city": "Assuit",
+          "swift_code": "NBEGEGCX514"
+        },
+        {
+          "branch_name": "Abu Tig Branch",
+          "city": "Assuit",
+          "swift_code": "NBEGEGCX515"
+        },
+        {
+          "branch_name": "Assuit University Branch",
+          "city": "Assuit",
+          "swift_code": "NBEGEGCX516"
+        },
+        {
+          "branch_name": "Manfalot Branch",
+          "city": "Manfalot",
+          "swift_code": "NBEGEGCX517"
+        },
+        {
+          "branch_name": "El-maragha Branch",
+          "city": "Sohag",
+          "swift_code": "NBEGEGCX518"
+        },
+        {
+          "branch_name": "Sohag Branch",
+          "city": "Sohag",
+          "swift_code": "NBEGEGCX519"
+        },
+        {
+          "branch_name": "El Fatth Branch",
+          "city": "Sohag",
+          "swift_code": "NBEGEGCX520"
+        },
+        {
+          "branch_name": "Gerga Branch",
+          "city": "Gerga",
+          "swift_code": "NBEGEGCX521"
+        },
+        {
+          "branch_name": "Fakkous Branch",
+          "city": "Fakkous",
+          "swift_code": "NBEGEGCX426"
+        },
+        {
+          "branch_name": "Menia El-kamh Branch",
+          "city": "El Sharkiaa",
+          "swift_code": "NBEGEGCX427"
+        },
+        {
+          "branch_name": "Aboukbeer Branch",
+          "city": "El Sharkiaa",
+          "swift_code": "NBEGEGCX428"
+        },
+        {
+          "branch_name": "Ashmoon Branch",
+          "city": "El Menoufiaa",
+          "swift_code": "NBEGEGCX429"
+        },
+        {
+          "branch_name": "Ahmed Oraby Branch",
+          "city": "El Zagazig",
+          "swift_code": "NBEGEGCX430"
+        },
+        {
+          "branch_name": "Berkit Elsabae Branch",
+          "city": "El Menoufiaa",
+          "swift_code": "NBEGEGCX431"
+        },
+        {
+          "branch_name": "Mansoura Branch",
+          "city": "El Mansoura",
+          "swift_code": "NBEGEGCX432"
+        },
+        {
+          "branch_name": "El Mansoura Univeristy Branch",
+          "city": "El Mansoura",
+          "swift_code": "NBEGEGCX433"
+        },
+        {
+          "branch_name": "Mit Ghamr Branch",
+          "city": "Mit Ghamr",
+          "swift_code": "NBEGEGCX434"
+        },
+        {
+          "branch_name": "Kotour Branch",
+          "city": "El Gharbiaa",
+          "swift_code": "NBEGEGCX435"
+        },
+        {
+          "branch_name": "El-manzala Branch",
+          "city": "El Dakahliaa",
+          "swift_code": "NBEGEGCX436"
+        },
+        {
+          "branch_name": "Dekernes Branch",
+          "city": "El Dakahliaa",
+          "swift_code": "NBEGEGCX437"
+        },
+        {
+          "branch_name": "El Dakahlia Governorate Branch",
+          "city": "El Mansoura",
+          "swift_code": "NBEGEGCX438"
+        },
+        {
+          "branch_name": "El Senbelawane Branch",
+          "city": "El Senbelawane",
+          "swift_code": "NBEGEGCX439"
+        },
+        {
+          "branch_name": "Belqas Branch",
+          "city": "El Dakahliaa",
+          "swift_code": "NBEGEGCX440"
+        },
+        {
+          "branch_name": "Hehia Branch",
+          "city": "Hehia",
+          "swift_code": "NBEGEGCX444"
+        },
+        {
+          "branch_name": "Elnekabat Branch",
+          "city": "Zakazik",
+          "swift_code": "NBEGEGCX445"
+        },
+        {
+          "branch_name": "Mashtoul Elsouk Branch",
+          "city": "El Sharkiaa",
+          "swift_code": "NBEGEGCX447"
+        },
+        {
+          "branch_name": "El Fayoum Branch",
+          "city": "El Fayoum",
+          "swift_code": "NBEGEGCX500"
+        },
+        {
+          "branch_name": "Abshewai Branch",
+          "city": "Abshewai",
+          "swift_code": "NBEGEGCX501"
+        },
+        {
+          "branch_name": "Tahta Branch",
+          "city": "Sohag",
+          "swift_code": "NBEGEGCX522"
+        },
+        {
+          "branch_name": "Kena Branch",
+          "city": "Kena",
+          "swift_code": "NBEGEGCX523"
+        },
+        {
+          "branch_name": "Luxor Branch",
+          "city": "Luxor",
+          "swift_code": "NBEGEGCX524"
+        },
+        {
+          "branch_name": "Qeft Branch",
+          "city": "Kena",
+          "swift_code": "NBEGEGCX525"
+        },
+        {
+          "branch_name": "Naga Hammadi Branch",
+          "city": "Naga Hammadi",
+          "swift_code": "NBEGEGCX526"
+        },
+        {
+          "branch_name": "Nakada Branch",
+          "city": "Kena",
+          "swift_code": "NBEGEGCX527"
+        },
+        {
+          "branch_name": "Aswan Branch",
+          "city": "Aswan",
+          "swift_code": "NBEGEGCX528"
+        },
+        {
+          "branch_name": "Edfou Branch",
+          "city": "Aswan",
+          "swift_code": "NBEGEGCX529"
+        },
+        {
+          "branch_name": "Kom Ombo Branch",
+          "city": "Aswan",
+          "swift_code": "NBEGEGCX530"
+        },
+        {
+          "branch_name": "El-aqad Branch",
+          "city": "Aswan",
+          "swift_code": "NBEGEGCX531"
+        },
+        {
+          "branch_name": "Farshout Branch",
+          "city": "Kena",
+          "swift_code": "NBEGEGCX532"
+        },
+        {
+          "branch_name": "Temma Branch",
+          "city": "Sohag",
+          "swift_code": "NBEGEGCX533"
+        },
+        {
+          "branch_name": "Deraw Branch",
+          "city": "Aswan",
+          "swift_code": "NBEGEGCX534"
+        },
+        {
+          "branch_name": "El-kosseya Branch",
+          "city": "Assuit",
+          "swift_code": "NBEGEGCX535"
+        },
+        {
+          "branch_name": "Dayroot Branch",
+          "city": "Assuit",
+          "swift_code": "NBEGEGCX536"
+        },
+        {
+          "branch_name": "South Valley University",
+          "city": "Kena",
+          "swift_code": "NBEGEGCX537"
+        },
+        {
+          "branch_name": "Kom Osheem Branch",
+          "city": "El Fayoum",
+          "swift_code": "NBEGEGCX538"
+        },
+        {
+          "branch_name": "El-balyana Branch",
+          "city": "Sohag",
+          "swift_code": "NBEGEGCX539"
+        },
+        {
+          "branch_name": "Qous Branch",
+          "city": "Kena",
+          "swift_code": "NBEGEGCX540"
+        },
+        {
+          "branch_name": "Abu Sembel Branch",
+          "city": "Abu Sembel",
+          "swift_code": "NBEGEGCX541"
+        },
+        {
+          "branch_name": "Menofya University",
+          "city": "El Menoufiaa",
+          "swift_code": "NBEGEGCX406"
+        },
+        {
+          "branch_name": "Moubarek Industrial City Branch",
+          "city": "Quesna",
+          "swift_code": "NBEGEGCX407"
+        },
+        {
+          "branch_name": "El Nahda Branch",
+          "city": "Domiat",
+          "swift_code": "NBEGEGCX408"
+        },
+        {
+          "branch_name": "Azbet Elbourg Branch",
+          "city": "Domiat",
+          "swift_code": "NBEGEGCX409"
+        },
+        {
+          "branch_name": "Domiat Branch",
+          "city": "Domiat",
+          "swift_code": "NBEGEGCX410"
+        },
+        {
+          "branch_name": "El Zarka Branch",
+          "city": "Domiat",
+          "swift_code": "NBEGEGCX411"
+        },
+        {
+          "branch_name": "Shebin El Kom Branch",
+          "city": "Shibin El Kom",
+          "swift_code": "NBEGEGCX412"
+        },
+        {
+          "branch_name": "El Sadat City Branch",
+          "city": "El Sadat City",
+          "swift_code": "NBEGEGCX413"
+        },
+        {
+          "branch_name": "El-bagour Branch",
+          "city": "El Menoufiaa",
+          "swift_code": "NBEGEGCX414"
+        },
+        {
+          "branch_name": "Quesna Branch",
+          "city": "Quesna",
+          "swift_code": "NBEGEGCX415"
+        },
+        {
+          "branch_name": "El-galaa Branch",
+          "city": "El Menoufiaa",
+          "swift_code": "NBEGEGCX416"
+        },
+        {
+          "branch_name": "Menouf Branch",
+          "city": "Menouf",
+          "swift_code": "NBEGEGCX417"
+        },
+        {
+          "branch_name": "El Shohada Branch",
+          "city": "El Menoufiaa",
+          "swift_code": "NBEGEGCX418"
+        },
+        {
+          "branch_name": "Sers El-layaan Branch",
+          "city": "El Menoufiaa",
+          "swift_code": "NBEGEGCX419"
+        },
+        {
+          "branch_name": "Kafr Sakr Branch",
+          "city": "Kafr Sakr",
+          "swift_code": "NBEGEGCX420"
+        },
+        {
+          "branch_name": "El Zagazig Branch",
+          "city": "El Zagazig",
+          "swift_code": "NBEGEGCX421"
+        },
+        {
+          "branch_name": "Diarb Negm Branch",
+          "city": "Menia El Kamh",
+          "swift_code": "NBEGEGCX422"
+        },
+        {
+          "branch_name": "Abou Hammad Branch",
+          "city": "El Sharkiaa",
+          "swift_code": "NBEGEGCX423"
+        },
+        {
+          "branch_name": "El-ebrahimia Branch",
+          "city": "El Sharkiaa",
+          "swift_code": "NBEGEGCX424"
+        },
+        {
+          "branch_name": "Belbeis Branch",
+          "city": "Belbeis",
+          "swift_code": "NBEGEGCX425"
+        },
+        {
+          "branch_name": "Elshalateen Branch",
+          "city": "Elbahr Elahmer",
+          "swift_code": "NBEGEGCX542"
+        },
+        {
+          "branch_name": "El-kawther Branch",
+          "city": "Sohag",
+          "swift_code": "NBEGEGCX543"
+        },
+        {
+          "branch_name": "El-kharga Branch",
+          "city": "Assuit",
+          "swift_code": "NBEGEGCX544"
+        },
+        {
+          "branch_name": "Sedfa Branch",
+          "city": "Assuit",
+          "swift_code": "NBEGEGCX545"
+        },
+        {
+          "branch_name": "Shark Beni Suef Branch",
+          "city": "Bani Suef",
+          "swift_code": "NBEGEGCX546"
+        },
+        {
+          "branch_name": "Elfayoum University",
+          "city": "El Fayoum",
+          "swift_code": "NBEGEGCX548"
+        },
+        {
+          "branch_name": "Securities Accounting Dept",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX589"
+        },
+        {
+          "branch_name": "Collection Central Unit",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX594"
+        },
+        {
+          "branch_name": "Central Transfers Unit (ctu",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX595"
+        },
+        {
+          "branch_name": "Foreign Reconciliation Department",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX599"
+        },
+        {
+          "branch_name": "Treasury Dept.,back Office",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX626"
+        },
+        {
+          "branch_name": "Risk Management Division",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX667"
+        },
+        {
+          "branch_name": "Foreign Division",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX800"
+        },
+        {
+          "branch_name": "Securities Department",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX820"
+        },
+        {
+          "branch_name": "Documentary Credits Sector",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX910"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCXXXX"
+        },
+        {
+          "branch_name": "Asbak Branch",
+          "city": "Alexandria",
+          "swift_code": "NBEGEGCX214"
+        },
+        {
+          "branch_name": "El Salam Branch",
+          "city": "Cairo",
+          "swift_code": "NBEGEGCX005"
+        }
+      ]
+    },
+    {
+      "bank_name": "Naeem Brokerage",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Giza",
+          "swift_code": "NAEEEGCAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Egyptian Gulf Bank",
+      "branches": [
+        {
+          "branch_name": "El Ahaly Sporting Club Gezira Branch",
+          "city": "Cairo",
+          "swift_code": "EGGBEGCAAHG"
+        },
+        {
+          "branch_name": "El Ahaly Sporting Club Nasr City Branch",
+          "city": "Cairo",
+          "swift_code": "EGGBEGCAAHN"
+        },
+        {
+          "branch_name": "Alexandria Branch",
+          "city": "Alexandria",
+          "swift_code": "EGGBEGCAALX"
+        },
+        {
+          "branch_name": "Al-azhar",
+          "city": "Cairo",
+          "swift_code": "EGGBEGCAAZH"
+        },
+        {
+          "branch_name": "Bills Center",
+          "city": "Garden City / Cairo",
+          "swift_code": "EGGBEGCABLS"
+        },
+        {
+          "branch_name": "Garden City",
+          "city": "Cairo",
+          "swift_code": "EGGBEGCACAI"
+        },
+        {
+          "branch_name": "Heliopolis Branch",
+          "city": "Cairo",
+          "swift_code": "EGGBEGCAHEL"
+        },
+        {
+          "branch_name": "Sporting Club",
+          "city": "Cairo",
+          "swift_code": "EGGBEGCAHSC"
+        },
+        {
+          "branch_name": "Lcs Center",
+          "city": "Garden City / Cairo",
+          "swift_code": "EGGBEGCALCS"
+        },
+        {
+          "branch_name": "Lgs Center",
+          "city": "Garden City / Cairo",
+          "swift_code": "EGGBEGCALGS"
+        },
+        {
+          "branch_name": "Mansoura Branch",
+          "city": "El Mansoura",
+          "swift_code": "EGGBEGCAMAN"
+        },
+        {
+          "branch_name": "Merghany Branch",
+          "city": "Cairo",
+          "swift_code": "EGGBEGCAMER"
+        },
+        {
+          "branch_name": "Mohandseen Branch",
+          "city": "Cairo",
+          "swift_code": "EGGBEGCAMOH"
+        },
+        {
+          "branch_name": "6th Of October",
+          "city": "Of October",
+          "swift_code": "EGGBEGCAOCT"
+        },
+        {
+          "branch_name": "Pay",
+          "city": "Giza",
+          "swift_code": "EGGBEGCAPAY"
+        },
+        {
+          "branch_name": "The Tenth Of Ramadan Branch",
+          "city": "The Tenth Of Ramadan",
+          "swift_code": "EGGBEGCARAM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "EGGBEGCAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nasser Social Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "NSOBEGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Egyptian Banks Company For Technological Advancement, Sae",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "EBCGEGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Egyptian Financial Group",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "EGFGEGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Delta Rasmala Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "DEBEEGC1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Giza",
+          "swift_code": "DESGEGCAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "CRESEGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Foncier Egyptien",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "CFOEEGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole Egypt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "AGRIEGCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial International Brokerage Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "CIBOEGCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial International Bank (egypt) S.a.e.",
+      "branches": [
+        {
+          "branch_name": "Giza Branch",
+          "city": "Giza",
+          "swift_code": "CIBEEGCX001"
+        },
+        {
+          "branch_name": "Port Said Branch",
+          "city": "Port Said",
+          "swift_code": "CIBEEGCX002"
+        },
+        {
+          "branch_name": "Sultan Hussein Branch",
+          "city": "Alexandria",
+          "swift_code": "CIBEEGCX003"
+        },
+        {
+          "branch_name": "Mohandessein Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX004"
+        },
+        {
+          "branch_name": "Hoda Shaarawy Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX005"
+        },
+        {
+          "branch_name": "Heliopolis Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX006"
+        },
+        {
+          "branch_name": "Zamalek Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX007"
+        },
+        {
+          "branch_name": "Manshia Branch",
+          "city": "Alexandria",
+          "swift_code": "CIBEEGCX008"
+        },
+        {
+          "branch_name": "Roushdy Branch",
+          "city": "Alexandria",
+          "swift_code": "CIBEEGCX009"
+        },
+        {
+          "branch_name": "Mobtadaian Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX010"
+        },
+        {
+          "branch_name": "Tanta Branch",
+          "city": "Tanta",
+          "swift_code": "CIBEEGCX011"
+        },
+        {
+          "branch_name": "Maadi Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX012"
+        },
+        {
+          "branch_name": "Masadak Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX013"
+        },
+        {
+          "branch_name": "Nasr City Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX014"
+        },
+        {
+          "branch_name": "Al Mansoura Branch",
+          "city": "El Mansoura",
+          "swift_code": "CIBEEGCX015"
+        },
+        {
+          "branch_name": "Mostorad Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX016"
+        },
+        {
+          "branch_name": "6th October Branch",
+          "city": "6th Of October",
+          "swift_code": "CIBEEGCX017"
+        },
+        {
+          "branch_name": "Grand Mall Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX018"
+        },
+        {
+          "branch_name": "Hurghada Branch",
+          "city": "Hurghada",
+          "swift_code": "CIBEEGCX019"
+        },
+        {
+          "branch_name": "El Nasr Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX020"
+        },
+        {
+          "branch_name": "Sheraton Heliopolis",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX127"
+        },
+        {
+          "branch_name": "Gardenia Branch",
+          "city": "Of October",
+          "swift_code": "CIBEEGCX128"
+        },
+        {
+          "branch_name": "Arabella",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX129"
+        },
+        {
+          "branch_name": "Zayed Branch",
+          "city": "Of October",
+          "swift_code": "CIBEEGCX130"
+        },
+        {
+          "branch_name": "El-hadaba Branch",
+          "city": "Sharm El Sheikh",
+          "swift_code": "CIBEEGCX131"
+        },
+        {
+          "branch_name": "Kattameya Residence",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX132"
+        },
+        {
+          "branch_name": "City View Branch",
+          "city": "Of October",
+          "swift_code": "CIBEEGCX133"
+        },
+        {
+          "branch_name": "Madinaty",
+          "city": "Cairo Cairo",
+          "swift_code": "CIBEEGCX134"
+        },
+        {
+          "branch_name": "Hadayek El Kobba Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX137"
+        },
+        {
+          "branch_name": "Sohag Branch",
+          "city": "Sohag",
+          "swift_code": "CIBEEGCX138"
+        },
+        {
+          "branch_name": "New Haram Branch",
+          "city": "Giza",
+          "swift_code": "CIBEEGCX139"
+        },
+        {
+          "branch_name": "New Zamalek Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX140"
+        },
+        {
+          "branch_name": "New October Branch",
+          "city": "Of October",
+          "swift_code": "CIBEEGCX141"
+        },
+        {
+          "branch_name": "El Teseen Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX145"
+        },
+        {
+          "branch_name": "El Tagamoaa El Awal Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX146"
+        },
+        {
+          "branch_name": "Custody Department",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX888"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCXXXX"
+        },
+        {
+          "branch_name": "El-zagazig",
+          "city": "El Zagazig",
+          "swift_code": "CIBEEGCX107"
+        },
+        {
+          "branch_name": "Ismailia",
+          "city": "Ismailia",
+          "swift_code": "CIBEEGCX108"
+        },
+        {
+          "branch_name": "Abu Dawood El-zahry",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX109"
+        },
+        {
+          "branch_name": "Abdel Razek El-sanhoury",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX110"
+        },
+        {
+          "branch_name": "El-tagamou El-khames",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX111"
+        },
+        {
+          "branch_name": "Kahramana Branch",
+          "city": "Marsa Alam",
+          "swift_code": "CIBEEGCX112"
+        },
+        {
+          "branch_name": "Taba Branch",
+          "city": "Sharm El Sheikh",
+          "swift_code": "CIBEEGCX113"
+        },
+        {
+          "branch_name": "Marsa Matrouh",
+          "city": "Marsa Matrouh",
+          "swift_code": "CIBEEGCX114"
+        },
+        {
+          "branch_name": "El-hegaz Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX115"
+        },
+        {
+          "branch_name": "Abdel Khalek Tharwat Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX116"
+        },
+        {
+          "branch_name": "El Qusair Branch",
+          "city": "Elbahr Elahmar",
+          "swift_code": "CIBEEGCX117"
+        },
+        {
+          "branch_name": "Al Obour Branch",
+          "city": "Al Obour",
+          "swift_code": "CIBEEGCX118"
+        },
+        {
+          "branch_name": "Smart Village Branch",
+          "city": "Of October",
+          "swift_code": "CIBEEGCX119"
+        },
+        {
+          "branch_name": "El Manial Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX120"
+        },
+        {
+          "branch_name": "Manshia Square",
+          "city": "Alexandria",
+          "swift_code": "CIBEEGCX121"
+        },
+        {
+          "branch_name": "57357 Cancer Hospital Br",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX122"
+        },
+        {
+          "branch_name": "Mall Of Arabia Branch",
+          "city": "Of October",
+          "swift_code": "CIBEEGCX123"
+        },
+        {
+          "branch_name": "Miami Branch",
+          "city": "Alexandria",
+          "swift_code": "CIBEEGCX124"
+        },
+        {
+          "branch_name": "Mahalla Branch",
+          "city": "El Mahala El Kobra",
+          "swift_code": "CIBEEGCX125"
+        },
+        {
+          "branch_name": "Sun City Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX126"
+        },
+        {
+          "branch_name": "El Thawra Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX081"
+        },
+        {
+          "branch_name": "Menia Branch",
+          "city": "Menia El Kamh",
+          "swift_code": "CIBEEGCX082"
+        },
+        {
+          "branch_name": "Ramsis Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX083"
+        },
+        {
+          "branch_name": "Zezenia Branch",
+          "city": "Alexandria",
+          "swift_code": "CIBEEGCX084"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Giza",
+          "swift_code": "CIBEEGCX085"
+        },
+        {
+          "branch_name": "City Stars",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX086"
+        },
+        {
+          "branch_name": "Pharos University Branch",
+          "city": "Alexandria",
+          "swift_code": "CIBEEGCX087"
+        },
+        {
+          "branch_name": "Lagoon Branch",
+          "city": "Alexandria",
+          "swift_code": "CIBEEGCX088"
+        },
+        {
+          "branch_name": "Saraya Semoha",
+          "city": "Alexandria",
+          "swift_code": "CIBEEGCX089"
+        },
+        {
+          "branch_name": "El Rehab Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX091"
+        },
+        {
+          "branch_name": "Sarayat El-maadi",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX092"
+        },
+        {
+          "branch_name": "El Sakkal Branch",
+          "city": "Hurghada",
+          "swift_code": "CIBEEGCX093"
+        },
+        {
+          "branch_name": "New Maadi",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX094"
+        },
+        {
+          "branch_name": "Dandy Mall",
+          "city": "Of October",
+          "swift_code": "CIBEEGCX095"
+        },
+        {
+          "branch_name": "El Gomhorya Branch",
+          "city": "El Mansoura",
+          "swift_code": "CIBEEGCX096"
+        },
+        {
+          "branch_name": "El Mokattam Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX097"
+        },
+        {
+          "branch_name": "Al Haram Branch",
+          "city": "Giza",
+          "swift_code": "CIBEEGCX102"
+        },
+        {
+          "branch_name": "Future University Branch",
+          "city": "Giza",
+          "swift_code": "CIBEEGCX103"
+        },
+        {
+          "branch_name": "Sunrise Branch",
+          "city": "Hurghada",
+          "swift_code": "CIBEEGCX104"
+        },
+        {
+          "branch_name": "Al-haras El-gomhory",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX105"
+        },
+        {
+          "branch_name": "Porto Marina Branch",
+          "city": "Alexandria",
+          "swift_code": "CIBEEGCX061"
+        },
+        {
+          "branch_name": "Min Of Foreign Affairs",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX062"
+        },
+        {
+          "branch_name": "Nabq Bay Branch",
+          "city": "Sharm El Sheikh",
+          "swift_code": "CIBEEGCX063"
+        },
+        {
+          "branch_name": "Tiran Center Branch",
+          "city": "Sharm El Sheikh",
+          "swift_code": "CIBEEGCX064"
+        },
+        {
+          "branch_name": "Damieta Port Custom Bra",
+          "city": "Damieta",
+          "swift_code": "CIBEEGCX065"
+        },
+        {
+          "branch_name": "Sanafir Branch",
+          "city": "Sharm El Sheikh",
+          "swift_code": "CIBEEGCX066"
+        },
+        {
+          "branch_name": "Shoubra Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX067"
+        },
+        {
+          "branch_name": "Alexandria Port Branch",
+          "city": "Alexandria",
+          "swift_code": "CIBEEGCX068"
+        },
+        {
+          "branch_name": "Splanada Branch",
+          "city": "Hurghada",
+          "swift_code": "CIBEEGCX069"
+        },
+        {
+          "branch_name": "Aswan Market Branch",
+          "city": "Aswan",
+          "swift_code": "CIBEEGCX070"
+        },
+        {
+          "branch_name": "Free Zone-invs Clx",
+          "city": "Alexandria",
+          "swift_code": "CIBEEGCX071"
+        },
+        {
+          "branch_name": "Abassia Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX072"
+        },
+        {
+          "branch_name": "Kahrmana Marsa Alam",
+          "city": "Marsa Alam",
+          "swift_code": "CIBEEGCX073"
+        },
+        {
+          "branch_name": "Mina Garden City",
+          "city": "Of October",
+          "swift_code": "CIBEEGCX074"
+        },
+        {
+          "branch_name": "Port Tawfik Branch",
+          "city": "Suez",
+          "swift_code": "CIBEEGCX075"
+        },
+        {
+          "branch_name": "Hurghada Branch",
+          "city": "Hurghada",
+          "swift_code": "CIBEEGCX076"
+        },
+        {
+          "branch_name": "Qatar Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX077"
+        },
+        {
+          "branch_name": "11511 Cairo",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX078"
+        },
+        {
+          "branch_name": "11511 Cairo",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX079"
+        },
+        {
+          "branch_name": "El Dokki Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX080"
+        },
+        {
+          "branch_name": "Bibiliotheca",
+          "city": "Alexandria",
+          "swift_code": "CIBEEGCX041"
+        },
+        {
+          "branch_name": "Green Plaza",
+          "city": "Alexandria",
+          "swift_code": "CIBEEGCX042"
+        },
+        {
+          "branch_name": "Country Club",
+          "city": "Alexandria",
+          "swift_code": "CIBEEGCX043"
+        },
+        {
+          "branch_name": "Louran",
+          "city": "Alexandria",
+          "swift_code": "CIBEEGCX044"
+        },
+        {
+          "branch_name": "Maspiro",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX045"
+        },
+        {
+          "branch_name": "El Dekhila Branch",
+          "city": "Alexandria",
+          "swift_code": "CIBEEGCX046"
+        },
+        {
+          "branch_name": "Free Zone",
+          "city": "Alexandria",
+          "swift_code": "CIBEEGCX047"
+        },
+        {
+          "branch_name": "Guc Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX048"
+        },
+        {
+          "branch_name": "J W Marriot",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX049"
+        },
+        {
+          "branch_name": "Marina Abu Tig",
+          "city": "Hurghada",
+          "swift_code": "CIBEEGCX050"
+        },
+        {
+          "branch_name": "Makadi Bay",
+          "city": "Hurghada",
+          "swift_code": "CIBEEGCX051"
+        },
+        {
+          "branch_name": "El Basha Hotel",
+          "city": "Hurghada",
+          "swift_code": "CIBEEGCX052"
+        },
+        {
+          "branch_name": "German Chamber Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX053"
+        },
+        {
+          "branch_name": "El Ashraaf Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX054"
+        },
+        {
+          "branch_name": "Nova Park Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX055"
+        },
+        {
+          "branch_name": "San Stefano Branch",
+          "city": "Alexandria",
+          "swift_code": "CIBEEGCX056"
+        },
+        {
+          "branch_name": "Damanhour Branch",
+          "city": "Damanhour",
+          "swift_code": "CIBEEGCX057"
+        },
+        {
+          "branch_name": "Intercontinental Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX058"
+        },
+        {
+          "branch_name": "Assuit Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX059"
+        },
+        {
+          "branch_name": "Kasr El Nil Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX060"
+        },
+        {
+          "branch_name": "Bourg El Arab",
+          "city": "Alexandria",
+          "swift_code": "CIBEEGCX021"
+        },
+        {
+          "branch_name": "Semiramis Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX022"
+        },
+        {
+          "branch_name": "Tenth Of Ramadan Branch",
+          "city": "The Tenth Of Ramadan",
+          "swift_code": "CIBEEGCX023"
+        },
+        {
+          "branch_name": "El Shams Club Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX024"
+        },
+        {
+          "branch_name": "El Seid Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX025"
+        },
+        {
+          "branch_name": "Luxor Branch",
+          "city": "Luxor",
+          "swift_code": "CIBEEGCX026"
+        },
+        {
+          "branch_name": "Sharm El Sheikh Branch",
+          "city": "Sharm El Sheikh",
+          "swift_code": "CIBEEGCX027"
+        },
+        {
+          "branch_name": "Sadat Branch",
+          "city": "El Sadat City",
+          "swift_code": "CIBEEGCX028"
+        },
+        {
+          "branch_name": "Airport Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX029"
+        },
+        {
+          "branch_name": "Aswan Branch",
+          "city": "Aswan",
+          "swift_code": "CIBEEGCX030"
+        },
+        {
+          "branch_name": "Merryland Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX031"
+        },
+        {
+          "branch_name": "Triumph Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX032"
+        },
+        {
+          "branch_name": "Arkadia Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX033"
+        },
+        {
+          "branch_name": "Smouha Branch",
+          "city": "Alexandria",
+          "swift_code": "CIBEEGCX034"
+        },
+        {
+          "branch_name": "Damieta Port Branch",
+          "city": "Domiat",
+          "swift_code": "CIBEEGCX035"
+        },
+        {
+          "branch_name": "Suez Branch",
+          "city": "Suez",
+          "swift_code": "CIBEEGCX036"
+        },
+        {
+          "branch_name": "Quesna Branch",
+          "city": "Quesna",
+          "swift_code": "CIBEEGCX037"
+        },
+        {
+          "branch_name": "Lebanon Branch",
+          "city": "Cairo",
+          "swift_code": "CIBEEGCX038"
+        },
+        {
+          "branch_name": "Damieta Branch",
+          "city": "Domiat",
+          "swift_code": "CIBEEGCX039"
+        },
+        {
+          "branch_name": "Dahab Branch",
+          "city": "Dahab",
+          "swift_code": "CIBEEGCX040"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Cairo",
+      "branches": [
+        {
+          "branch_name": "Alexandria",
+          "city": "Alexandria",
+          "swift_code": "CITIEGCXALE"
+        },
+        {
+          "branch_name": "Trade Services Department",
+          "city": "Cairo",
+          "swift_code": "CITIEGCXTRD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "CITIEGCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Egypt Cairo",
+      "branches": [
+        {
+          "branch_name": "Cbe Alexandria Branch",
+          "city": "Cairo",
+          "swift_code": "CBEGEGCAALX"
+        },
+        {
+          "branch_name": "Cbe As An Asa Test And Trainning",
+          "city": "Cairo",
+          "swift_code": "CBEGEGCAASA"
+        },
+        {
+          "branch_name": "Book Entry System Test And Trainning",
+          "city": "Cairo",
+          "swift_code": "CBEGEGCABES"
+        },
+        {
+          "branch_name": "Ccp For The Rtgs",
+          "city": "Cairo",
+          "swift_code": "CBEGEGCACCP"
+        },
+        {
+          "branch_name": "Cbe Port Said Branch",
+          "city": "Cairo",
+          "swift_code": "CBEGEGCAPRT"
+        },
+        {
+          "branch_name": "The Ach",
+          "city": "Cairo",
+          "swift_code": "CBEGEGCX001"
+        },
+        {
+          "branch_name": "The Tia",
+          "city": "Cairo",
+          "swift_code": "CBEGEGCX002"
+        },
+        {
+          "branch_name": "Alexandria Branch",
+          "city": "Alexandria",
+          "swift_code": "CBEGEGCXALX"
+        },
+        {
+          "branch_name": "Cbe As An Asa",
+          "city": "Cairo",
+          "swift_code": "CBEGEGCXASA"
+        },
+        {
+          "branch_name": "Book Entry System",
+          "city": "Cairo",
+          "swift_code": "CBEGEGCXBES"
+        },
+        {
+          "branch_name": "Back Office For Dealing Room",
+          "city": "Cairo",
+          "swift_code": "CBEGEGCXBKO"
+        },
+        {
+          "branch_name": "The Ccp For The Rtgs",
+          "city": "Cairo",
+          "swift_code": "CBEGEGCXCCP"
+        },
+        {
+          "branch_name": "Port Said Branch",
+          "city": "Port Said",
+          "swift_code": "CBEGEGCXPOS"
+        },
+        {
+          "branch_name": "Securities Department",
+          "city": "Cairo",
+          "swift_code": "CBEGEGCXSMK"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "CBEGEGCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chase Manhattan Bank, Cairo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "CHASEGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Sae,egypt",
+      "branches": [
+        {
+          "branch_name": "Alexandria Branch",
+          "city": "Alexandria",
+          "swift_code": "BNPAEGCXALX"
+        },
+        {
+          "branch_name": "Dokki Branch",
+          "city": "Cairo",
+          "swift_code": "BNPAEGCXDOK"
+        },
+        {
+          "branch_name": "Garden City Branch",
+          "city": "Cairo",
+          "swift_code": "BNPAEGCXGAR"
+        },
+        {
+          "branch_name": "Gleim Branch",
+          "city": "Cairo",
+          "swift_code": "BNPAEGCXGLM"
+        },
+        {
+          "branch_name": "Heliopolis Branch",
+          "city": "Cairo",
+          "swift_code": "BNPAEGCXHEL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "BNPAEGCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mubasher Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "MUSSEGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mohandes Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "MOHBEGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cairo And Alexandria Stock Exchanges",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "XCAIEGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Misr Iran Development Bank",
+      "branches": [
+        {
+          "branch_name": "Accounting Dept",
+          "city": "Giza",
+          "swift_code": "MIDBEGCXACC"
+        },
+        {
+          "branch_name": "Adly Branch",
+          "city": "Cairo",
+          "swift_code": "MIDBEGCXADL"
+        },
+        {
+          "branch_name": "Alexandria Branch",
+          "city": "Alexandria",
+          "swift_code": "MIDBEGCXALX"
+        },
+        {
+          "branch_name": "Damieta",
+          "city": "Damieta",
+          "swift_code": "MIDBEGCXDAM"
+        },
+        {
+          "branch_name": "Dealing Dept",
+          "city": "Giza",
+          "swift_code": "MIDBEGCXDEL"
+        },
+        {
+          "branch_name": "Giza Branch",
+          "city": "Giza",
+          "swift_code": "MIDBEGCXGZA"
+        },
+        {
+          "branch_name": "Heliopolis Branch",
+          "city": "Cairo",
+          "swift_code": "MIDBEGCXHLP"
+        },
+        {
+          "branch_name": "Documentary Credit Dept",
+          "city": "Giza",
+          "swift_code": "MIDBEGCXLCD"
+        },
+        {
+          "branch_name": "Maadi Branch",
+          "city": "Cairo",
+          "swift_code": "MIDBEGCXMAD"
+        },
+        {
+          "branch_name": "Mohadeseen Branch",
+          "city": "Giza",
+          "swift_code": "MIDBEGCXMHD"
+        },
+        {
+          "branch_name": "New Cairo Br",
+          "city": "Cairo",
+          "swift_code": "MIDBEGCXNCA"
+        },
+        {
+          "branch_name": "Nasr City Branch",
+          "city": "Cairo",
+          "swift_code": "MIDBEGCXNSR"
+        },
+        {
+          "branch_name": "6th Of October Branch",
+          "city": "Of October",
+          "swift_code": "MIDBEGCXOCT"
+        },
+        {
+          "branch_name": "Port Said Branch",
+          "city": "Port Said",
+          "swift_code": "MIDBEGCXPTS"
+        },
+        {
+          "branch_name": "The Tenth Of Ramadan Branch",
+          "city": "The Tenth Of Ramadan",
+          "swift_code": "MIDBEGCXRAM"
+        },
+        {
+          "branch_name": "Suhag Br",
+          "city": "Suhag",
+          "swift_code": "MIDBEGCXSUH"
+        },
+        {
+          "branch_name": "University Of 6 October Branch",
+          "city": "6th Of October",
+          "swift_code": "MIDBEGCXUNV"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Giza",
+          "swift_code": "MIDBEGCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mega Investments Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Giza",
+          "swift_code": "MISHEGC1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Giza",
+          "swift_code": "MISHEGCAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mcsd Misr For Clearing,depository And Registry",
+      "branches": [
+        {
+          "branch_name": "Egyptian Investor Protection Fund Department",
+          "city": "Cairo",
+          "swift_code": "MCSDEGCAIPF"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "MCSDEGCAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Louxor Brokerage Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "LOBREGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial Development And Workers Bank Of Egypt",
+      "branches": [
+        {
+          "branch_name": "Tanta",
+          "city": "Tanta",
+          "swift_code": "DIBBEGCA03B"
+        },
+        {
+          "branch_name": "City Branch",
+          "city": "The Tenth Of Ramadan",
+          "swift_code": "DIBBEGCA0A4"
+        },
+        {
+          "branch_name": "Port Said",
+          "city": "Port Said",
+          "swift_code": "DIBBEGCA0A5"
+        },
+        {
+          "branch_name": "El Salaam Branch",
+          "city": "City / Cairo",
+          "swift_code": "DIBBEGCA0A6"
+        },
+        {
+          "branch_name": "Alexandria",
+          "city": "Alexandria",
+          "swift_code": "DIBBEGCA0AL"
+        },
+        {
+          "branch_name": "Head Office-unico Building",
+          "city": "Cairo",
+          "swift_code": "DIBBEGCA0C2"
+        },
+        {
+          "branch_name": "Branch",
+          "city": "Cairo",
+          "swift_code": "DIBBEGCA0C3"
+        },
+        {
+          "branch_name": "Cairo Branch",
+          "city": "Cairo",
+          "swift_code": "DIBBEGCACAI"
+        },
+        {
+          "branch_name": "Financial Department",
+          "city": "Cairo",
+          "swift_code": "DIBBEGCAFIN"
+        },
+        {
+          "branch_name": "Head Office-el Galaa Building",
+          "city": "Cairo",
+          "swift_code": "DIBBEGCAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Blom Bank Egypt S.a.e.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Giza",
+          "swift_code": "MRBAEGCBXXX"
+        },
+        {
+          "branch_name": "Zamalek Branch",
+          "city": "Cairo",
+          "swift_code": "MRBAEGCX002"
+        },
+        {
+          "branch_name": "Sporting Branch",
+          "city": "Alexandria",
+          "swift_code": "MRBAEGCX003"
+        },
+        {
+          "branch_name": "Heliopolis Branch",
+          "city": "Cairo",
+          "swift_code": "MRBAEGCX004"
+        },
+        {
+          "branch_name": "Mohandseen Branch",
+          "city": "Cairo",
+          "swift_code": "MRBAEGCX005"
+        },
+        {
+          "branch_name": "Alexandria Branch",
+          "city": "Alexandria",
+          "swift_code": "MRBAEGCX006"
+        },
+        {
+          "branch_name": "Hurghada Branch",
+          "city": "Hurghada",
+          "swift_code": "MRBAEGCX007"
+        },
+        {
+          "branch_name": "Opera Branch",
+          "city": "Cairo",
+          "swift_code": "MRBAEGCX008"
+        },
+        {
+          "branch_name": "Nasr City Branch",
+          "city": "Cairo",
+          "swift_code": "MRBAEGCX009"
+        },
+        {
+          "branch_name": "Maadi",
+          "city": "Maadi",
+          "swift_code": "MRBAEGCX010"
+        },
+        {
+          "branch_name": "Sharm Elsheikh",
+          "city": "Sharm El Sheikh",
+          "swift_code": "MRBAEGCX011"
+        },
+        {
+          "branch_name": "Dokki",
+          "city": "Giza",
+          "swift_code": "MRBAEGCX012"
+        },
+        {
+          "branch_name": "Shatby",
+          "city": "Alexandria",
+          "swift_code": "MRBAEGCX013"
+        },
+        {
+          "branch_name": "6 Th October",
+          "city": "Of October",
+          "swift_code": "MRBAEGCX014"
+        },
+        {
+          "branch_name": "Mansora",
+          "city": "Mansura",
+          "swift_code": "MRBAEGCX015"
+        },
+        {
+          "branch_name": "Abbasia",
+          "city": "Cairo",
+          "swift_code": "MRBAEGCX016"
+        },
+        {
+          "branch_name": "Domyat",
+          "city": "Domiat",
+          "swift_code": "MRBAEGCX017"
+        },
+        {
+          "branch_name": "Ismailia",
+          "city": "Ismailia",
+          "swift_code": "MRBAEGCX018"
+        },
+        {
+          "branch_name": "Shoubra",
+          "city": "Cairo",
+          "swift_code": "MRBAEGCX019"
+        },
+        {
+          "branch_name": "Montaza",
+          "city": "Alexandria",
+          "swift_code": "MRBAEGCX020"
+        },
+        {
+          "branch_name": "Orouba",
+          "city": "Cairo",
+          "swift_code": "MRBAEGCX021"
+        },
+        {
+          "branch_name": "Khalifa Almaamoun",
+          "city": "Cairo",
+          "swift_code": "MRBAEGCX022"
+        },
+        {
+          "branch_name": "New Cairo",
+          "city": "Cairo",
+          "swift_code": "MRBAEGCX023"
+        },
+        {
+          "branch_name": "New Maadi",
+          "city": "Cairo",
+          "swift_code": "MRBAEGCX024"
+        },
+        {
+          "branch_name": "Manchia",
+          "city": "Alexandria",
+          "swift_code": "MRBAEGCX025"
+        },
+        {
+          "branch_name": "Port Said",
+          "city": "Port Said",
+          "swift_code": "MRBAEGCX026"
+        },
+        {
+          "branch_name": "Pyramids",
+          "city": "Giza",
+          "swift_code": "MRBAEGCX027"
+        },
+        {
+          "branch_name": "Tanta",
+          "city": "Tanta",
+          "swift_code": "MRBAEGCX028"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "MRBAEGCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ifa Securities Brokerage",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "IFASEGCAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Securities Egypt S.a.e.",
+      "branches": [
+        {
+          "branch_name": "Hsbc Securities Egypt S.a.e.",
+          "city": "Cairo",
+          "swift_code": "HCESEGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc James Capel Brokerage-egypt S.a.e.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "HJCREGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank Egypt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "EBBKEGCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Housing And Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "HDBKEGCAXXX"
+        },
+        {
+          "branch_name": "Main Branch",
+          "city": "Cairo",
+          "swift_code": "HDBKEGCAZAM"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fleming Mansour Securities Brokerage",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "FMSREGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hc Brokerage(s.a.e",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Giza",
+          "swift_code": "HCBREGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortune Securities Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "FOSCEGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financial Brokerage Group",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Giza",
+          "swift_code": "FIBGEGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financial Brokerage Group (fbg",
+      "branches": [
+        {
+          "branch_name": "Assets Management Operation",
+          "city": "Cairo",
+          "swift_code": "EFGHEGCAAMO"
+        },
+        {
+          "branch_name": "Financial Brokerage Group",
+          "city": "Cairo",
+          "swift_code": "EFGHEGCAFBG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "EFGHEGCAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Faisal Islamic Bank Of Egypt",
+      "branches": [
+        {
+          "branch_name": "Alexandria Branch",
+          "city": "Alexandria",
+          "swift_code": "FIEGEGCXALX"
+        },
+        {
+          "branch_name": "Assuit Branch",
+          "city": "Assuit",
+          "swift_code": "FIEGEGCXASU"
+        },
+        {
+          "branch_name": "Aswan Branch",
+          "city": "Aswan",
+          "swift_code": "FIEGEGCXASW"
+        },
+        {
+          "branch_name": "Alexandria Ii Branch",
+          "city": "Alexandria",
+          "swift_code": "FIEGEGCXAX2"
+        },
+        {
+          "branch_name": "Muntazah",
+          "city": "Alexandria",
+          "swift_code": "FIEGEGCXAX3"
+        },
+        {
+          "branch_name": "El-agmy Branch",
+          "city": "Alexandria",
+          "swift_code": "FIEGEGCXAX4"
+        },
+        {
+          "branch_name": "Al-azhar Branch",
+          "city": "Cairo",
+          "swift_code": "FIEGEGCXAZH"
+        },
+        {
+          "branch_name": "Banha Branch",
+          "city": "Banha",
+          "swift_code": "FIEGEGCXBNH"
+        },
+        {
+          "branch_name": "11511 Cairo",
+          "city": "Cairo",
+          "swift_code": "FIEGEGCXCAI"
+        },
+        {
+          "branch_name": "Damanhour Branch",
+          "city": "Damanhour",
+          "swift_code": "FIEGEGCXDMN"
+        },
+        {
+          "branch_name": "Dokki Branch",
+          "city": "Giza",
+          "swift_code": "FIEGEGCXDOK"
+        },
+        {
+          "branch_name": "Damietta Branch",
+          "city": "Domiat",
+          "swift_code": "FIEGEGCXDOM"
+        },
+        {
+          "branch_name": "Fayoum",
+          "city": "El Fayoum",
+          "swift_code": "FIEGEGCXFYM"
+        },
+        {
+          "branch_name": "Ghamra Branch",
+          "city": "Cairo",
+          "swift_code": "FIEGEGCXGHM"
+        },
+        {
+          "branch_name": "Heliopolis Branch",
+          "city": "Cairo",
+          "swift_code": "FIEGEGCXHEL"
+        },
+        {
+          "branch_name": "El-haram Branch",
+          "city": "Giza",
+          "swift_code": "FIEGEGCXHRM"
+        },
+        {
+          "branch_name": "International Division",
+          "city": "Giza",
+          "swift_code": "FIEGEGCXITD"
+        },
+        {
+          "branch_name": "Giza",
+          "city": "Giza",
+          "swift_code": "FIEGEGCXMAI"
+        },
+        {
+          "branch_name": "El Mahala Al Kobra Branch",
+          "city": "El Mahala El Kobra",
+          "swift_code": "FIEGEGCXMHL"
+        },
+        {
+          "branch_name": "El-menia Branch",
+          "city": "El Menia",
+          "swift_code": "FIEGEGCXMIN"
+        },
+        {
+          "branch_name": "Al Mansoura Branch",
+          "city": "El Mansoura",
+          "swift_code": "FIEGEGCXMNS"
+        },
+        {
+          "branch_name": "Nasr City Branch",
+          "city": "Cairo",
+          "swift_code": "FIEGEGCXNSR"
+        },
+        {
+          "branch_name": "El-obour",
+          "city": "Al Obour",
+          "swift_code": "FIEGEGCXOBR"
+        },
+        {
+          "branch_name": "6th Of October Branch",
+          "city": "Of October / 6th",
+          "swift_code": "FIEGEGCXOCT"
+        },
+        {
+          "branch_name": "Sohag Branch",
+          "city": "Sohag",
+          "swift_code": "FIEGEGCXSOH"
+        },
+        {
+          "branch_name": "Suez Branch",
+          "city": "Suez",
+          "swift_code": "FIEGEGCXSUE"
+        },
+        {
+          "branch_name": "Tanta Branch",
+          "city": "Tanta",
+          "swift_code": "FIEGEGCXTAN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "FIEGEGCXXXX"
+        },
+        {
+          "branch_name": "El Zagazig",
+          "city": "El Zagazig",
+          "swift_code": "FIEGEGCXZAG"
+        },
+        {
+          "branch_name": "Zezenia",
+          "city": "Cairo",
+          "swift_code": "FIEGEGCXZEN"
+        },
+        {
+          "branch_name": "El-saydah Zinab",
+          "city": "Cairo",
+          "swift_code": "FIEGEGCXZNB"
+        }
+      ]
+    },
+    {
+      "bank_name": "Export Development Bank Of Egypt",
+      "branches": [
+        {
+          "branch_name": "Selsela Branch",
+          "city": "Alexandria",
+          "swift_code": "EXDEEGCXALX"
+        },
+        {
+          "branch_name": "Borg El Arab",
+          "city": "Alexandria",
+          "swift_code": "EXDEEGCXBRG"
+        },
+        {
+          "branch_name": "Dokki Mosadak Branch",
+          "city": "Cairo",
+          "swift_code": "EXDEEGCXDOK"
+        },
+        {
+          "branch_name": "Fisal",
+          "city": "Giza",
+          "swift_code": "EXDEEGCXFSL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "EXDEEGCXHED"
+        },
+        {
+          "branch_name": "Hegaz Branch",
+          "city": "Cairo",
+          "swift_code": "EXDEEGCXHEG"
+        },
+        {
+          "branch_name": "Main Branch",
+          "city": "Cairo",
+          "swift_code": "EXDEEGCXMOH"
+        },
+        {
+          "branch_name": "Nasr City",
+          "city": "Cairo",
+          "swift_code": "EXDEEGCXNCT"
+        },
+        {
+          "branch_name": "Nile Branch",
+          "city": "Giza",
+          "swift_code": "EXDEEGCXNIL"
+        },
+        {
+          "branch_name": "Al Obour",
+          "city": "Al Obour",
+          "swift_code": "EXDEEGCXOBO"
+        },
+        {
+          "branch_name": "Orouba Branch",
+          "city": "Cairo",
+          "swift_code": "EXDEEGCXOBR"
+        },
+        {
+          "branch_name": "October Branch",
+          "city": "6th Of October",
+          "swift_code": "EXDEEGCXOCT"
+        },
+        {
+          "branch_name": "Ramadan Branch",
+          "city": "The Tenth Of Ramadan",
+          "swift_code": "EXDEEGCXRAM"
+        },
+        {
+          "branch_name": "Roshdy Branch",
+          "city": "Alexandria",
+          "swift_code": "EXDEEGCXRSH"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "EXDEEGCXXXX"
+        },
+        {
+          "branch_name": "Zamalek Branch",
+          "city": "Cairo",
+          "swift_code": "EXDEEGCXZAM"
+        }
+      ]
+    }
+  ]
+}

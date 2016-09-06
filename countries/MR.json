@@ -1,0 +1,202 @@
+{
+  "country_name": "Mauritania",
+  "alpha_2": "MR",
+  "country_code": "478",
+  "banks": [
+    {
+      "bank_name": "Union Des Banques De Developpement",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nouakchott",
+          "swift_code": "DEUBMRM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Mauritanie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nouakchott",
+          "swift_code": "BIIMMRMRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orabank Mauritanie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nouakchott",
+          "swift_code": "ORBKMRMRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mauritanie Leasing",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nouakchott",
+          "swift_code": "MLMRMRMRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chinguitty Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nouakchott",
+          "swift_code": "CZRZMRMRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Generale De Banque De Mauritanie Pour L'investissement Et Le Commerce",
+      "branches": [
+        {
+          "branch_name": "Nouadhibou",
+          "city": "Nouadhibou",
+          "swift_code": "GBMCMRMRNDB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nouakchott",
+          "swift_code": "GBMCMRMRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Pour Le Commerce Et L'industrie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nouakchott",
+          "swift_code": "COLIMRMRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire De Mauritanie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nouakchott",
+          "swift_code": "BPMAMRMRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Nationale De Mauritanie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nouakchott",
+          "swift_code": "BQNMMRMRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Qatar National Bank (qnb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nouakchott",
+          "swift_code": "QNBAMRMUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Mauritanienne Pour Le Commerce International",
+      "branches": [
+        {
+          "branch_name": "Nouadhibou",
+          "city": "Nouadhibou",
+          "swift_code": "MBICMRMR0MN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nouakchott",
+          "swift_code": "MBICMRMRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Islamique De Mauritanie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nouakchott",
+          "swift_code": "BIMMMRMRXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nouakchott",
+          "swift_code": "BIMMMRM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Centrale De Mauritanie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nouakchott",
+          "swift_code": "BCEMMRMRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Al Wava Mauritanienne Islamique (bamis",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nouakchott",
+          "swift_code": "BAAWMRMRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Attijari Bank Mauritanie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nouakchott",
+          "swift_code": "BCMAMRMRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque El Amana (bea",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nouakchott",
+          "swift_code": "AMDHMRMRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Al Muamelat As Sahiha",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nouakchott",
+          "swift_code": "BMSHMRMRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maurisbank Sa (el Islami",
+      "branches": [
+        {
+          "branch_name": "Maurisbank Sa (el Islami",
+          "city": "Nouakchott",
+          "swift_code": "MAURMRMRXXX"
+        }
+      ]
+    }
+  ]
+}

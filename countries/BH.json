@@ -1,0 +1,2182 @@
+{
+  "country_name": "Bahrain",
+  "alpha_2": "BH",
+  "country_code": "048",
+  "banks": [
+    {
+      "bank_name": "Zenj Exchange Co. W.l.l",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "ZENJBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Zain Bahrain B.s.c Closed",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "ZAINBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Albaraka Banking Group",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "ABBGBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Salam Bank Bahrain",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "ALSABHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Baraka Islamic Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "ABIBBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Ahlia Securities W.l.l",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "GUSRBHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ahli United Bank B.s.c.",
+      "branches": [
+        {
+          "branch_name": "Alhilal Islamic Banking Services",
+          "city": "Manama",
+          "swift_code": "AUBBBHBMISB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "AUBBBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abc Islamic Bank (e.c",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "ABCIBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yapi Ve Kredi Bankasi Bahrain Offshore Banking Un It",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "YAPIBHBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "R.p. Martin (bahrain) Wll",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "MABWBHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Bank A.s. Bahrain Branch (formerly Oyak Bank A.s. Bahrain Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "INGBBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Alfalah Limited Bahrain",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "ALFHBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Al-khair B.s.c. (c",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "UINSBHBNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Al Habib Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "BAHLBHBMXXX"
+        },
+        {
+          "branch_name": "Central Processing Unit",
+          "city": "Karachi",
+          "swift_code": "BAHLPKKACPU"
+        },
+        {
+          "branch_name": "Export Processing Zone Branch",
+          "city": "Karachi",
+          "swift_code": "BAHLPKKAEPZ"
+        },
+        {
+          "branch_name": "Faisalabad Branch",
+          "city": "Faisalabad",
+          "swift_code": "BAHLPKKAFSD"
+        },
+        {
+          "branch_name": "Islamic Banking Division",
+          "city": "Karachi",
+          "swift_code": "BAHLPKKAIBD"
+        },
+        {
+          "branch_name": "Islamabad Branch",
+          "city": "Islamabad",
+          "swift_code": "BAHLPKKAISL"
+        },
+        {
+          "branch_name": "Jodia Bazar",
+          "city": "Karachi",
+          "swift_code": "BAHLPKKAJBZ"
+        },
+        {
+          "branch_name": "Karachi Main Branch",
+          "city": "Karachi",
+          "swift_code": "BAHLPKKAKHI"
+        },
+        {
+          "branch_name": "L C Centre",
+          "city": "Karachi",
+          "swift_code": "BAHLPKKALCC"
+        },
+        {
+          "branch_name": "Lahore Branch",
+          "city": "Lahore",
+          "swift_code": "BAHLPKKALHR"
+        },
+        {
+          "branch_name": "Multan Main Branch",
+          "city": "Multan",
+          "swift_code": "BAHLPKKAMUL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "BAHLPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bahrain Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "XBAHBHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bahrain Middle East Bank B.s.c",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "BMEABHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bahrain Islamic Bank B.s.c.",
+      "branches": [
+        {
+          "branch_name": "Investment And Treasury Back Office",
+          "city": "Manama",
+          "swift_code": "BIBBBHBMINV"
+        },
+        {
+          "branch_name": "Trade Finance Department",
+          "city": "Manama",
+          "swift_code": "BIBBBHBMTFD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "BIBBBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bahrain India International Exchange Co.b.s.c",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "BIEEBHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bahrain Financing Company Bsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "BAHFBHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bahrain Financing Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "BFCCBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bahrain Development Bank B S C (c",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "BDBBBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bahrain Bourse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "BHBNBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Askari Bank Limited, Bahrain Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "ASCMBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arcapita",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "FIIVBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Petroleum Investments Corporation",
+      "branches": [
+        {
+          "branch_name": "Apicorp Bahrain Project",
+          "city": "Manama",
+          "swift_code": "APICBHBMBH2"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "APICBHBMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dammam",
+          "swift_code": "APIASAR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Investment Company, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "TAIQBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Financial Services Co. B.s.c",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "AFSCBHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Banking Corporation (b.s.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "ABCOBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Bank Plc, Offshore Banking Unit (obu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "ARABBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alubaf Arab International Bank B.s.c. (c",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "ALUBBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Allied Bank Limited, Wholesale Banking Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "ABLWBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank Middle East",
+      "branches": [
+        {
+          "branch_name": "Offshore Banking Unit",
+          "city": "Muharraq",
+          "swift_code": "BBMEBHBXOBU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "BBMEBHBXXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "BBMEPS22XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "BBMEJOAXXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "HBMEKWKWXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "BBMELBBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Housing Bank For Trade And Finance/bahrain, Manama, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "HBHOBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gulf Finance House",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "GFHIBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gulf Custody Company-bharain",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "GCCOBHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Leasing Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seef",
+          "swift_code": "FLBBBHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Energy Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "FEBBBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finansbank A.s. Bahrain Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "FNNBBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eskan Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "ESKBBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Elaf Bank Bsc Closed",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "ILAFBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Denizbank As Bahrain Branch (obu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "DENIBHBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Libanais Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "CLIBBHBBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "CLIBCY21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "CLIBIQBAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "CLIBIQB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Charles Fulton (gulf) Wll",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "CFGWBHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Bahrain",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "BMAGBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Management House",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "CMHBBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Manama, Full Commercial Branch (fcb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "BNPABHBCXXX"
+        },
+        {
+          "branch_name": "Offshore Banking Unit",
+          "city": "Manama",
+          "swift_code": "BNPABHC1OBU"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Bahrein-manama Offshore Banking Unit(obu",
+      "branches": [
+        {
+          "branch_name": "Manama Offshore Banking Unitobu",
+          "city": "Manama",
+          "swift_code": "BNPABHBMWMI"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "BNPABHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas 3u",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "BNPABHBWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bmi Bank Bsc (c",
+      "branches": [
+        {
+          "branch_name": "Wealth Management Branch",
+          "city": "Manama",
+          "swift_code": "BMUSBHBMWMB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "BMUSBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bbk",
+      "branches": [
+        {
+          "branch_name": "Adliya Branch",
+          "city": "Manama",
+          "swift_code": "BBKUBHBMADL"
+        },
+        {
+          "branch_name": "Budaiya Branch",
+          "city": "Manama",
+          "swift_code": "BBKUBHBMBUD"
+        },
+        {
+          "branch_name": "Clearing Section",
+          "city": "Manama",
+          "swift_code": "BBKUBHBMCLG"
+        },
+        {
+          "branch_name": "Central Market Branch",
+          "city": "Manama",
+          "swift_code": "BBKUBHBMCMK"
+        },
+        {
+          "branch_name": "Lc Department",
+          "city": "Manama",
+          "swift_code": "BBKUBHBMCSU"
+        },
+        {
+          "branch_name": "Diplomatic Area Branch",
+          "city": "Manama",
+          "swift_code": "BBKUBHBMDIP"
+        },
+        {
+          "branch_name": "East Riffa Branch",
+          "city": "Manama",
+          "swift_code": "BBKUBHBMERF"
+        },
+        {
+          "branch_name": "Exhibition Branch",
+          "city": "Manama",
+          "swift_code": "BBKUBHBMEXH"
+        },
+        {
+          "branch_name": "Hamad Town",
+          "city": "Manama",
+          "swift_code": "BBKUBHBMHTN"
+        },
+        {
+          "branch_name": "Isa Town Branch",
+          "city": "Manama",
+          "swift_code": "BBKUBHBMITN"
+        },
+        {
+          "branch_name": "Credit Services Unit",
+          "city": "Manama",
+          "swift_code": "BBKUBHBMLOP"
+        },
+        {
+          "branch_name": "Credimax",
+          "city": "Manama",
+          "swift_code": "BBKUBHBMMAX"
+        },
+        {
+          "branch_name": "Main Branch",
+          "city": "Manama",
+          "swift_code": "BBKUBHBMMBR"
+        },
+        {
+          "branch_name": "Muharraq Branch",
+          "city": "Manama",
+          "swift_code": "BBKUBHBMMHF"
+        },
+        {
+          "branch_name": "Manama Branch",
+          "city": "Manama",
+          "swift_code": "BBKUBHBMMNM"
+        },
+        {
+          "branch_name": "Muharraq Suq Branch",
+          "city": "Manama",
+          "swift_code": "BBKUBHBMMSF"
+        },
+        {
+          "branch_name": "Reconciliation",
+          "city": "Manama",
+          "swift_code": "BBKUBHBMREC"
+        },
+        {
+          "branch_name": "Refinery Branch",
+          "city": "Manama",
+          "swift_code": "BBKUBHBMREF"
+        },
+        {
+          "branch_name": "Remittances Department",
+          "city": "Manama",
+          "swift_code": "BBKUBHBMREM"
+        },
+        {
+          "branch_name": "Salaries Department",
+          "city": "Manama",
+          "swift_code": "BBKUBHBMSAL"
+        },
+        {
+          "branch_name": "Suq Waqif Branch",
+          "city": "Manama",
+          "swift_code": "BBKUBHBMSUW"
+        },
+        {
+          "branch_name": "Treasury Services Unit",
+          "city": "Manama",
+          "swift_code": "BBKUBHBMTSU"
+        },
+        {
+          "branch_name": "West Riffa Branch",
+          "city": "West Riffa",
+          "swift_code": "BBKUBHBMWRF"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "BBKUBHBMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "BBKUKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Osool Asset Management B.s.c. (c",
+      "branches": [
+        {
+          "branch_name": "Osool Asset Management B.s.c. (c",
+          "city": "Manama",
+          "swift_code": "OSOLBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nonoo Exchange Company Bsc (c",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "NOEXBHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nomura Investment Banking (middle East) B.s.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "NIBMBHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nikko Investment Banking (middle East) Ec",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "NIBEBHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ncb Capital",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "NCCOBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Kuwait Sak",
+      "branches": [
+        {
+          "branch_name": "Manama",
+          "city": "Manama",
+          "swift_code": "NBOKBHBMFCB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "NBOKBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Bahrain",
+      "branches": [
+        {
+          "branch_name": "Money Transfers Department",
+          "city": "Manama",
+          "swift_code": "NBOBBHBMMTD"
+        },
+        {
+          "branch_name": "Treasury Operation",
+          "city": "Manama",
+          "swift_code": "NBOBBHBMTOP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "NBOBBHBMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "NBOBSARIXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Abu Dhabi",
+          "swift_code": "NBOBAEAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Abu Dhabi-offshore Banking Unit (obu",
+      "branches": [
+        {
+          "branch_name": "Bahrain Branch",
+          "city": "Manama",
+          "swift_code": "NBADBHBMBRA"
+        },
+        {
+          "branch_name": "Trade Finance Department",
+          "city": "Manama",
+          "swift_code": "NBADBHBMTFO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "NBADBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mubasher Financial Services Bsc Bahrain",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "MFSCBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mubasher Financial Services",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sanabis",
+          "swift_code": "MFSVBHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mcb Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "MUCBBHBMXXX"
+        },
+        {
+          "branch_name": "Bank Square",
+          "city": "Gujranwala",
+          "swift_code": "MUCBPKKABSG"
+        },
+        {
+          "branch_name": "Circular Road",
+          "city": "Faisalabad",
+          "swift_code": "MUCBPKKACRF"
+        },
+        {
+          "branch_name": "Chowk Yadgar",
+          "city": "Peshawar",
+          "swift_code": "MUCBPKKACYP"
+        },
+        {
+          "branch_name": "Export Processing Zone",
+          "city": "Karachi",
+          "swift_code": "MUCBPKKAEPZ"
+        },
+        {
+          "branch_name": "Finance And Trade Centre Branch",
+          "city": "Karachi",
+          "swift_code": "MUCBPKKAFTK"
+        },
+        {
+          "branch_name": "Hussain Agahi Road Branch",
+          "city": "Multan",
+          "swift_code": "MUCBPKKAHAM"
+        },
+        {
+          "branch_name": "Jodia Bazar Branch",
+          "city": "Karachi",
+          "swift_code": "MUCBPKKAJBK"
+        },
+        {
+          "branch_name": "Main Branch",
+          "city": "Karachi",
+          "swift_code": "MUCBPKKAMBK"
+        },
+        {
+          "branch_name": "Main Civic Centre Branch",
+          "city": "Islamabad",
+          "swift_code": "MUCBPKKAMCC"
+        },
+        {
+          "branch_name": "New Challi Branch",
+          "city": "Karachi",
+          "swift_code": "MUCBPKKANCK"
+        },
+        {
+          "branch_name": "Nila Gumbad Branch",
+          "city": "Lahore",
+          "swift_code": "MUCBPKKANGL"
+        },
+        {
+          "branch_name": "Treasury-rtgs",
+          "city": "Karachi",
+          "swift_code": "MUCBPKKARTG"
+        },
+        {
+          "branch_name": "Shaheen Complex Branch",
+          "city": "Karachi",
+          "swift_code": "MUCBPKKASCK"
+        },
+        {
+          "branch_name": "Trunk Bazar Branch",
+          "city": "Sialkot",
+          "swift_code": "MUCBPKKATBS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "MUCBPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mashreqbank Psc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "BOMLBHBMXXX"
+        },
+        {
+          "branch_name": "Fi-customer Services",
+          "city": "Dubai",
+          "swift_code": "BOMLAEADCSU"
+        },
+        {
+          "branch_name": "Financial Institutions Division",
+          "city": "Dubai",
+          "swift_code": "BOMLAEADEBC"
+        },
+        {
+          "branch_name": "Foreign Trade Centre",
+          "city": "Dubai",
+          "swift_code": "BOMLAEADFTC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dubai",
+          "swift_code": "BOMLAEADHDO"
+        },
+        {
+          "branch_name": "Remittances Centre",
+          "city": "Dubai",
+          "swift_code": "BOMLAEADRAM"
+        },
+        {
+          "branch_name": "Treasury And Investment Division",
+          "city": "Dubai",
+          "swift_code": "BOMLAEADTID"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dubai",
+          "swift_code": "BOMLAEADXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "MSHQKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Liquidity Management Centre B.s.c",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "LMCSBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuwait Turkish Participation Bank Inc. Bahrain Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "KTEFBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuwait Finance House",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "KFHOBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Korea Exchange Bank, Bahrain Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "KOEXBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Khaleeji Commercial Bank B.s.c. (c",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "KHCBBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ithmaar Bank B.s.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "FIBHBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investcorp Bank B.s.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "INVCBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Woori Bank, Manama",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "HVBKBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Venture Capital Bank Bsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "VCBKBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Gulf Bank Securities Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "UNGUBHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Gulf Bank B.s.c",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "UGUBBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "UNILBHBMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sanaa",
+          "swift_code": "UNILYESAXXX"
+        },
+        {
+          "branch_name": "Bank Square Branch",
+          "city": "Lahore",
+          "swift_code": "UNILPKKA028"
+        },
+        {
+          "branch_name": "Bank Square Branch",
+          "city": "Faisalabad",
+          "swift_code": "UNILPKKA686"
+        },
+        {
+          "branch_name": "Jinnah Avenue Branch",
+          "city": "Islamabad",
+          "swift_code": "UNILPKKA741"
+        },
+        {
+          "branch_name": "Deans Trade Centre Branch",
+          "city": "Peshawar",
+          "swift_code": "UNILPKKA939"
+        },
+        {
+          "branch_name": "Ubl Ameen-islamic Banking Division, Head Office, Karachi",
+          "city": "Karachi",
+          "swift_code": "UNILPKKAIMB"
+        },
+        {
+          "branch_name": "Cpu Trade, Head Office",
+          "city": "Karachi",
+          "swift_code": "UNILPKKATFC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "UNILPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Turkiye Vakiflar Bankasi T.a.o. Bahrain Branch (obu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "TVBABHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Turkiye Is Bankasi A.s. Bahrain Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "ISBKBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Turkiye Halk Bankasi A.s. Bahrain (obu) Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "TRHBBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Turk Ekonomi Bankasi A.s. Bahrain Branch",
+      "branches": [
+        {
+          "branch_name": "Bahrain Branch",
+          "city": "Manama",
+          "swift_code": "TEBUBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trans Arabian Development Company E.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "TRDEBHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taib Bank B.s.c.(c",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "TAIBBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tadhamon Capital Bsc(c",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "TCPBBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Bank Of India, Obu",
+      "branches": [
+        {
+          "branch_name": "Full Commercial Branch",
+          "city": "Manama",
+          "swift_code": "SBINBHBMFCB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "SBINBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sico (investment Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "SIIVBHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Seera Investment Bank B.s.c. (closed",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "UIBBBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Securities And Investment Co.(b.s.c",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "SICSBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saudi National Commercial Bank-obu",
+      "branches": [
+        {
+          "branch_name": "S And P Bahrain",
+          "city": "Manama",
+          "swift_code": "SNCBBHBM861"
+        },
+        {
+          "branch_name": "Full Commercial Branch",
+          "city": "Manama",
+          "swift_code": "SNCBBHBMCOM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "SNCBBHBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Robert Fleming Holdings Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "ROFHBHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rafidain Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "RAFBBHBMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "RAFBBHB1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sanaa",
+          "swift_code": "RAFBYES1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "RAFBEGC1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "RAFBJOA1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "RAFBLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Pakistan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "NBPABHBMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dhaka",
+          "swift_code": "NBPABDDHXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "New York,Ny",
+          "swift_code": "NBPAUS33XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "NBPASARIXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ashkhabad",
+          "swift_code": "NBPATM22XXX"
+        },
+        {
+          "branch_name": "Cooprate Branch Multan",
+          "city": "Multan",
+          "swift_code": "NBPAPKK1COM"
+        },
+        {
+          "branch_name": "Faisalabad",
+          "city": "Faisalabad",
+          "swift_code": "NBPAPKKA02F"
+        },
+        {
+          "branch_name": "Gujranwala",
+          "city": "Gujranwala",
+          "swift_code": "NBPAPKKA02G"
+        },
+        {
+          "branch_name": "Hyderabad",
+          "city": "Hyderabad",
+          "swift_code": "NBPAPKKA02H"
+        },
+        {
+          "branch_name": "Islamabad",
+          "city": "Islamabad",
+          "swift_code": "NBPAPKKA02I"
+        },
+        {
+          "branch_name": "Lahore",
+          "city": "Lahore",
+          "swift_code": "NBPAPKKA02L"
+        },
+        {
+          "branch_name": "Multan",
+          "city": "Multan",
+          "swift_code": "NBPAPKKA02M"
+        },
+        {
+          "branch_name": "Peshawar",
+          "city": "Peshawar",
+          "swift_code": "NBPAPKKA02P"
+        },
+        {
+          "branch_name": "Quetta",
+          "city": "Quetta",
+          "swift_code": "NBPAPKKA02Q"
+        },
+        {
+          "branch_name": "Rawalpindi",
+          "city": "Rawalpindi",
+          "swift_code": "NBPAPKKA02R"
+        },
+        {
+          "branch_name": "District Court Branch",
+          "city": "Sialkot",
+          "swift_code": "NBPAPKKA02S"
+        },
+        {
+          "branch_name": "Main Branchcorporate Branch",
+          "city": "Mirpur",
+          "swift_code": "NBPAPKKA02U"
+        },
+        {
+          "branch_name": "Muzaffarabad",
+          "city": "Muzaffarabad",
+          "swift_code": "NBPAPKKA02Z"
+        },
+        {
+          "branch_name": "Cooprate Branch",
+          "city": "Lahore",
+          "swift_code": "NBPAPKKACBL"
+        },
+        {
+          "branch_name": "Cooprate Branch",
+          "city": "Multan",
+          "swift_code": "NBPAPKKACBM"
+        },
+        {
+          "branch_name": "Cooprate",
+          "city": "Faisalabad",
+          "swift_code": "NBPAPKKACOF"
+        },
+        {
+          "branch_name": "Corporate Branch",
+          "city": "Karachi",
+          "swift_code": "NBPAPKKACPB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "NBPAPKKAITD"
+        },
+        {
+          "branch_name": "Main Branch",
+          "city": "Karachi",
+          "swift_code": "NBPAPKKAMBR"
+        },
+        {
+          "branch_name": "Overseas Banking Operations-head Office Karachi",
+          "city": "Karachi",
+          "swift_code": "NBPAPKKANEC"
+        },
+        {
+          "branch_name": "Corporate",
+          "city": "Islamabad",
+          "swift_code": "NBPAPKKASMB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "NBPAPKKAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Paris",
+          "swift_code": "NBPAFRPPXXX"
+        },
+        {
+          "branch_name": "Osaka Branch",
+          "city": "Osaka",
+          "swift_code": "NBPAJPJTOSK"
+        },
+        {
+          "branch_name": "Main Branch",
+          "city": "Tokyo",
+          "swift_code": "NBPAJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gulf International Bank, B.S.C.",
+      "branches": [
+        {
+          "branch_name": "Manama",
+          "city": "Manama",
+          "swift_code": "GULFBHBMCLS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "GULFBHBMXXX"
+        },
+        {
+          "branch_name": "London",
+          "city": "London",
+          "swift_code": "GULFGB2LCLS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "GULFGB2LXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Commercial Branch",
+          "city": "Manama",
+          "swift_code": "ARABBHBMMAN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ARABSGSGXXX"
+        },
+        {
+          "branch_name": "Abu Dhabi Branch",
+          "city": "Abu Dhabi",
+          "swift_code": "ARABAEADABD"
+        },
+        {
+          "branch_name": "Uae Branches Center",
+          "city": "Abu Dhabi",
+          "swift_code": "ARABAEADABC"
+        },
+        {
+          "branch_name": "Ajman Branch",
+          "city": "Ajman",
+          "swift_code": "ARABAEADAJM"
+        },
+        {
+          "branch_name": "Al Ain Branch",
+          "city": "Al Ain",
+          "swift_code": "ARABAEADAIN"
+        },
+        {
+          "branch_name": "Central Transfers Unit",
+          "city": "Dubai",
+          "swift_code": "ARABAEADCTU"
+        },
+        {
+          "branch_name": "Deira Branch",
+          "city": "Dubai",
+          "swift_code": "ARABAEADDER"
+        },
+        {
+          "branch_name": "Dubai Branch",
+          "city": "Dubai",
+          "swift_code": "ARABAEADMAK"
+        },
+        {
+          "branch_name": "Foreign Trade Center",
+          "city": "Dubai",
+          "swift_code": "ARABAEADFTC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dubai",
+          "swift_code": "ARABAEADXXX"
+        },
+        {
+          "branch_name": "Fujairah Branch",
+          "city": "Fujairah",
+          "swift_code": "ARABAEADFUJ"
+        },
+        {
+          "branch_name": "Ras Al Khaimah Branch",
+          "city": "Ras Al Khaimah",
+          "swift_code": "ARABAEADRAK"
+        },
+        {
+          "branch_name": "Sharjah Branch",
+          "city": "Sharjah",
+          "swift_code": "ARABAEADSHJ"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "New York",
+          "swift_code": "ARABUS31XXX"
+        },
+        {
+          "branch_name": "Main Branch",
+          "city": "Casablanca",
+          "swift_code": "ARABMAMC210"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Casablanca",
+          "swift_code": "ARABMAMCXXX"
+        },
+        {
+          "branch_name": "Agadir",
+          "city": "Agadir",
+          "swift_code": "ARABMAMC260"
+        },
+        {
+          "branch_name": "Fes",
+          "city": "Fes",
+          "swift_code": "ARABMAMC240"
+        },
+        {
+          "branch_name": "Marrakech Branch",
+          "city": "Marrakech",
+          "swift_code": "ARABMAMC250"
+        },
+        {
+          "branch_name": "Tanger",
+          "city": "Tanger",
+          "swift_code": "ARABMAMC230"
+        },
+        {
+          "branch_name": "Rabat",
+          "city": "Rabat",
+          "swift_code": "ARABMAMC220"
+        },
+        {
+          "branch_name": "Agdal Branch",
+          "city": "Rabat",
+          "swift_code": "ARABMAMC221"
+        },
+        {
+          "branch_name": "Nablus Branch",
+          "city": "Nablus",
+          "swift_code": "ARABPS22020"
+        },
+        {
+          "branch_name": "Al-bireh Branch",
+          "city": "Al-bireh",
+          "swift_code": "ARABPS22030"
+        },
+        {
+          "branch_name": "Hebron Branch",
+          "city": "Hebron",
+          "swift_code": "ARABPS22040"
+        },
+        {
+          "branch_name": "Bethlehem Branch",
+          "city": "Bethlehem",
+          "swift_code": "ARABPS22050"
+        },
+        {
+          "branch_name": "Jenin Branch",
+          "city": "Jenin",
+          "swift_code": "ARABPS22060"
+        },
+        {
+          "branch_name": "Tulkarm Branch",
+          "city": "Tulkarm",
+          "swift_code": "ARABPS22070"
+        },
+        {
+          "branch_name": "Qalqiliah Branch",
+          "city": "Qalqiliah",
+          "swift_code": "ARABPS22080"
+        },
+        {
+          "branch_name": "Al Masyoon Branch",
+          "city": "Ramallah",
+          "swift_code": "ARABPS22090"
+        },
+        {
+          "branch_name": "Bethany Branch",
+          "city": "Bethany",
+          "swift_code": "ARABPS22100"
+        },
+        {
+          "branch_name": "Al-ram Branch",
+          "city": "Al-ram",
+          "swift_code": "ARABPS22110"
+        },
+        {
+          "branch_name": "Gaza Branch",
+          "city": "Gaza",
+          "swift_code": "ARABPS22500"
+        },
+        {
+          "branch_name": "Jerich Branch",
+          "city": "Jericho",
+          "swift_code": "ARABPS22550"
+        },
+        {
+          "branch_name": "Rimal Branch",
+          "city": "Gaza",
+          "swift_code": "ARABPS22600"
+        },
+        {
+          "branch_name": "Khan Younis Branch",
+          "city": "Khan Younis",
+          "swift_code": "ARABPS22650"
+        },
+        {
+          "branch_name": "Centralized Outward Transfers Dept",
+          "city": "Ramallah",
+          "swift_code": "ARABPS22COT"
+        },
+        {
+          "branch_name": "Central Operations Unit, Trade Finance Services",
+          "city": "Ramallah",
+          "swift_code": "ARABPS22COU"
+        },
+        {
+          "branch_name": "Treasury Operations",
+          "city": "Ramallah",
+          "swift_code": "ARABPS22DLR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "ARABPS22XXX"
+        },
+        {
+          "branch_name": "C Ring Branch",
+          "city": "Doha",
+          "swift_code": "ARABQAQARD3"
+        },
+        {
+          "branch_name": "Alsadd Branch",
+          "city": "Doha",
+          "swift_code": "ARABQAQASAD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "ARABQAQAXXX"
+        },
+        {
+          "branch_name": "Alexandria Branch",
+          "city": "Alexandria",
+          "swift_code": "ARABEGCXALX"
+        },
+        {
+          "branch_name": "Ali Ameen Branch",
+          "city": "Cairo",
+          "swift_code": "ARABEGCXAMN"
+        },
+        {
+          "branch_name": "Cairo Branch",
+          "city": "Cairo",
+          "swift_code": "ARABEGCXCAI"
+        },
+        {
+          "branch_name": "Central Operation Unit",
+          "city": "Cairo",
+          "swift_code": "ARABEGCXCOU"
+        },
+        {
+          "branch_name": "Dokki Branch",
+          "city": "Cairo",
+          "swift_code": "ARABEGCXDKI"
+        },
+        {
+          "branch_name": "El-gomhoria Branch",
+          "city": "Cairo",
+          "swift_code": "ARABEGCXGMH"
+        },
+        {
+          "branch_name": "Heliopolis Branch",
+          "city": "Cairo",
+          "swift_code": "ARABEGCXHEL"
+        },
+        {
+          "branch_name": "El-hegaz Branch",
+          "city": "Cairo",
+          "swift_code": "ARABEGCXHGZ"
+        },
+        {
+          "branch_name": "Al Haram Branch",
+          "city": "Giza",
+          "swift_code": "ARABEGCXHRM"
+        },
+        {
+          "branch_name": "Maadi Branch",
+          "city": "Cairo",
+          "swift_code": "ARABEGCXMDI"
+        },
+        {
+          "branch_name": "El-mohandesseen Branch",
+          "city": "Cairo",
+          "swift_code": "ARABEGCXMHD"
+        },
+        {
+          "branch_name": "El Mokatam Branch",
+          "city": "Cairo",
+          "swift_code": "ARABEGCXMKT"
+        },
+        {
+          "branch_name": "Arab Bank Plc Nozha",
+          "city": "Cairo",
+          "swift_code": "ARABEGCXNOZ"
+        },
+        {
+          "branch_name": "Ali Ameen Branch",
+          "city": "Cairo",
+          "swift_code": "ARABEGCXNSA"
+        },
+        {
+          "branch_name": "Nasr Branch",
+          "city": "Cairo",
+          "swift_code": "ARABEGCXNSR"
+        },
+        {
+          "branch_name": "6th Of October Branch",
+          "city": "6th Of October",
+          "swift_code": "ARABEGCXOCT"
+        },
+        {
+          "branch_name": "The Tenth Of Ramadan Branch",
+          "city": "The Tenth Of Ramadan",
+          "swift_code": "ARABEGCXRMD"
+        },
+        {
+          "branch_name": "El-thawra Branch",
+          "city": "Giza",
+          "swift_code": "ARABEGCXSAW"
+        },
+        {
+          "branch_name": "Shoubra Branch",
+          "city": "Cairo",
+          "swift_code": "ARABEGCXSHO"
+        },
+        {
+          "branch_name": "Sharm-elsheikh Branch",
+          "city": "Sharm El Sheikh",
+          "swift_code": "ARABEGCXSHR"
+        },
+        {
+          "branch_name": "Sporting Branch",
+          "city": "Alexandria",
+          "swift_code": "ARABEGCXSPR"
+        },
+        {
+          "branch_name": "El-tahrir Branch",
+          "city": "Cairo",
+          "swift_code": "ARABEGCXTHR"
+        },
+        {
+          "branch_name": "Egypt Area Management-cairo",
+          "city": "Cairo",
+          "swift_code": "ARABEGCXXXX"
+        },
+        {
+          "branch_name": "Zamalek Branch",
+          "city": "Cairo",
+          "swift_code": "ARABEGCXZMK"
+        },
+        {
+          "branch_name": "Madaba Branch",
+          "city": "Madaba",
+          "swift_code": "ARABJOA1023"
+        },
+        {
+          "branch_name": "Salt Branch",
+          "city": "Salt",
+          "swift_code": "ARABJOA1026"
+        },
+        {
+          "branch_name": "Maan Branch",
+          "city": "Ma'an",
+          "swift_code": "ARABJOA102M"
+        },
+        {
+          "branch_name": "Jordan Branches Centre",
+          "city": "Amman",
+          "swift_code": "ARABJOAX100"
+        },
+        {
+          "branch_name": "Karak Branch",
+          "city": "Karak",
+          "swift_code": "ARABJOAX102"
+        },
+        {
+          "branch_name": "Mafraq Branch",
+          "city": "Mafraq",
+          "swift_code": "ARABJOAX104"
+        },
+        {
+          "branch_name": "Russeifa Branch",
+          "city": "Russeifa",
+          "swift_code": "ARABJOAX105"
+        },
+        {
+          "branch_name": "Jerash Branch",
+          "city": "Jerash",
+          "swift_code": "ARABJOAX107"
+        },
+        {
+          "branch_name": "Quraysh Street Branch",
+          "city": "Amman",
+          "swift_code": "ARABJOAX108"
+        },
+        {
+          "branch_name": "Suweileh Branch",
+          "city": "Amman",
+          "swift_code": "ARABJOAX110"
+        },
+        {
+          "branch_name": "King Faisal Street",
+          "city": "Amman",
+          "swift_code": "ARABJOAX111"
+        },
+        {
+          "branch_name": "Mahatia Street Branch",
+          "city": "Amman",
+          "swift_code": "ARABJOAX112"
+        },
+        {
+          "branch_name": "Jabal Luweibdeh Branch",
+          "city": "Amman",
+          "swift_code": "ARABJOAX113"
+        },
+        {
+          "branch_name": "Wahdat Branch",
+          "city": "Amman",
+          "swift_code": "ARABJOAX114"
+        },
+        {
+          "branch_name": "Jabal Amman Branch",
+          "city": "Amman",
+          "swift_code": "ARABJOAX115"
+        },
+        {
+          "branch_name": "Jabal Hussein Branch",
+          "city": "Amman",
+          "swift_code": "ARABJOAX116"
+        },
+        {
+          "branch_name": "Marqa Branch",
+          "city": "Marqa",
+          "swift_code": "ARABJOAX117"
+        },
+        {
+          "branch_name": "Shmeisani Branch",
+          "city": "Amman",
+          "swift_code": "ARABJOAX118"
+        },
+        {
+          "branch_name": "Abdali Branch",
+          "city": "Amman",
+          "swift_code": "ARABJOAX119"
+        },
+        {
+          "branch_name": "Irbid Branch",
+          "city": "Irbid",
+          "swift_code": "ARABJOAX120"
+        },
+        {
+          "branch_name": "Centralized Salaries Unit",
+          "city": "Amman",
+          "swift_code": "ARABJOAXSLR"
+        },
+        {
+          "branch_name": "Test Key Department",
+          "city": "Amman",
+          "swift_code": "ARABJOAXTKD"
+        },
+        {
+          "branch_name": "Centralized Outward Transfers Dept",
+          "city": "Amman",
+          "swift_code": "ARABJOAXTRF"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "ARABJOAXXXX"
+        },
+        {
+          "branch_name": "Zerqa Branch",
+          "city": "Zerka",
+          "swift_code": "ARABJOAX121"
+        },
+        {
+          "branch_name": "Aqaba Branch",
+          "city": "Aqaba",
+          "swift_code": "ARABJOAX122"
+        },
+        {
+          "branch_name": "University Street",
+          "city": "Amman",
+          "swift_code": "ARABJOAX125"
+        },
+        {
+          "branch_name": "Al-jubeiha Branch",
+          "city": "Amman",
+          "swift_code": "ARABJOAX126"
+        },
+        {
+          "branch_name": "Gardens Branch",
+          "city": "Amman",
+          "swift_code": "ARABJOAX128"
+        },
+        {
+          "branch_name": "Suwaifeyya Branch",
+          "city": "Amman",
+          "swift_code": "ARABJOAX130"
+        },
+        {
+          "branch_name": "Abu Alanda",
+          "city": "Amman",
+          "swift_code": "ARABJOAX131"
+        },
+        {
+          "branch_name": "Abdoun Branch",
+          "city": "Amman",
+          "swift_code": "ARABJOAX133"
+        },
+        {
+          "branch_name": "Fifth Circle Branch",
+          "city": "Amman",
+          "swift_code": "ARABJOAX134"
+        },
+        {
+          "branch_name": "Rabia Branch",
+          "city": "Amman",
+          "swift_code": "ARABJOAX138"
+        },
+        {
+          "branch_name": "Mecca Street Branch",
+          "city": "Amman",
+          "swift_code": "ARABJOAX139"
+        },
+        {
+          "branch_name": "Sahab Industrial City",
+          "city": "Sahab",
+          "swift_code": "ARABJOAX161"
+        },
+        {
+          "branch_name": "Wadi Seer Branch",
+          "city": "Amman",
+          "swift_code": "ARABJOAX162"
+        },
+        {
+          "branch_name": "Central Operations Unit-trade Finance Services",
+          "city": "Amman",
+          "swift_code": "ARABJOAX501"
+        },
+        {
+          "branch_name": "Centralized Inward Transfers Dept",
+          "city": "Amman",
+          "swift_code": "ARABJOAXCUT"
+        },
+        {
+          "branch_name": "Dealing Room",
+          "city": "Shmeisani",
+          "swift_code": "ARABJOAXDLR"
+        },
+        {
+          "branch_name": "International Banking Division",
+          "city": "Amman",
+          "swift_code": "ARABJOAXINT"
+        },
+        {
+          "branch_name": "Operations Division",
+          "city": "Amman",
+          "swift_code": "ARABJOAXOPS"
+        },
+        {
+          "branch_name": "Private Banking Department 6",
+          "city": "Amman",
+          "swift_code": "ARABJOAXPBD"
+        },
+        {
+          "branch_name": "General Secretariat Department",
+          "city": "Amman",
+          "swift_code": "ARABJOAXSEC"
+        },
+        {
+          "branch_name": "Tal Branch",
+          "city": "Jbeil",
+          "swift_code": "ARABLBB1022"
+        },
+        {
+          "branch_name": "Saida",
+          "city": "Saida",
+          "swift_code": "ARABLBB1023"
+        },
+        {
+          "branch_name": "Chtoura Branch",
+          "city": "Chtoura",
+          "swift_code": "ARABLBB1024"
+        },
+        {
+          "branch_name": "Zahreih Branch",
+          "city": "Jbeil",
+          "swift_code": "ARABLBB1025"
+        },
+        {
+          "branch_name": "Mina Branch",
+          "city": "Jbeil",
+          "swift_code": "ARABLBB1026"
+        },
+        {
+          "branch_name": "Dora Branch",
+          "city": "Beirut",
+          "swift_code": "ARABLBB10B2"
+        },
+        {
+          "branch_name": "Mazraa Branch",
+          "city": "Beirut",
+          "swift_code": "ARABLBB10B3"
+        },
+        {
+          "branch_name": "Ras Beirut Branch",
+          "city": "Beirut",
+          "swift_code": "ARABLBB10B4"
+        },
+        {
+          "branch_name": "Verdun Branch",
+          "city": "Beirut",
+          "swift_code": "ARABLBB10B5"
+        },
+        {
+          "branch_name": "Beirut Branch",
+          "city": "Beirut",
+          "swift_code": "ARABLBB10B6"
+        },
+        {
+          "branch_name": "Shyah Branch",
+          "city": "Shyah",
+          "swift_code": "ARABLBBX0B7"
+        },
+        {
+          "branch_name": "Sin El-fil Branch",
+          "city": "Sin El-fil",
+          "swift_code": "ARABLBBX0B8"
+        },
+        {
+          "branch_name": "Lebanon Branches Centre",
+          "city": "Beirut",
+          "swift_code": "ARABLBBXXXX"
+        }
+      ]
+    }
+  ]
+}

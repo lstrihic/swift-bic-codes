@@ -1,0 +1,932 @@
+{
+  "country_name": "Slovakia",
+  "alpha_2": "SK",
+  "country_code": "703",
+  "banks": [
+    {
+      "bank_name": "X-trade Brokers Dm S.a., Organizacna Zlozka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "TBRDSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Volkswagen Finance Sluzby Slovensko",
+      "branches": [
+        {
+          "branch_name": "Volkswagen Finance Sluzby Slovensko",
+          "city": "Bratislava",
+          "swift_code": "VFSSSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unibon-sporitelni A Uverni Druzstvo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "UNUDSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tatra Asset Management, Sprav.spol. A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "TAMPSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sympatia Financie, O.c.p., A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "SYFOSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Slovak National Emission Registry",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zilina",
+          "swift_code": "SNERSK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Slavia Capital, A.s., O.c.p.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "SLCCSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skoda Auto Slovensko",
+      "branches": [
+        {
+          "branch_name": "Skoda Auto Slovensko",
+          "city": "Bratislava",
+          "swift_code": "SKAOSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sfm Group, O.c.p., A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "SFGOSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sevisbrokers Finance O.c.p., A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zilina",
+          "swift_code": "SEFOSK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronics Lcd Slovakia S.r.o.",
+      "branches": [
+        {
+          "branch_name": "Seh-sk",
+          "city": "Bratislava",
+          "swift_code": "SECTSKS1492"
+        },
+        {
+          "branch_name": "Selsk",
+          "city": "Trnava",
+          "swift_code": "SECTSKS14B5"
+        },
+        {
+          "branch_name": "Sesk",
+          "city": "Galanta",
+          "swift_code": "SECTSKS14M0"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Trnava",
+          "swift_code": "SECTSKS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Salve Investments, O.c.p., A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "SAIPSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rvs, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "SNCESKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rm-s Market, O.c.p., A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "RMMOSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Proxenta Finance, O.c.p., A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "PRFOSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Portfin, O.c.p., A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "POOCSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Palco Brokers, O.c.p., A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "PABOSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prva Stavebna Sporitelna, A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "PRVASKBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Privatbanka, A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "BSLOSK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Postova Banka A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "POBNSKBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Otp Banka Slovensko, A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "OTPVSKBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Narodna Banka Slovenska (National Bank Of Slovakia)",
+      "branches": [
+        {
+          "branch_name": "Test Account",
+          "city": "Bratislava",
+          "swift_code": "NBSBSKBX100"
+        },
+        {
+          "branch_name": "Test Account",
+          "city": "Bratislava",
+          "swift_code": "NBSBSKBX200"
+        },
+        {
+          "branch_name": "Ccb Account",
+          "city": "Bratislava",
+          "swift_code": "NBSBSKBXCCB"
+        },
+        {
+          "branch_name": "Ecb Account",
+          "city": "Bratislava",
+          "swift_code": "NBSBSKBXEUX"
+        },
+        {
+          "branch_name": "Account For Fees",
+          "city": "Bratislava",
+          "swift_code": "NBSBSKBXFE1"
+        },
+        {
+          "branch_name": "Account For Interests",
+          "city": "Bratislava",
+          "swift_code": "NBSBSKBXIN1"
+        },
+        {
+          "branch_name": "As",
+          "city": "Bratislava",
+          "swift_code": "NBSBSKBXSIP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "NBSBSKBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Komercni Banka , A.S., Pobocka Zahranicnej Banky",
+      "branches": [
+        {
+          "branch_name": "Restricted Target Use",
+          "city": "Bratislava",
+          "swift_code": "KOMBSKBATGT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "KOMBSKBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oxys Capital, A.s., O.c.p.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "OXCCSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Buda-cash Zrt.-pobocka Bratislava",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "BUZBSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brokersky Dom O.c.p. A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "BRODSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bhs Slovakia, O.c.p., A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "BHSOSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amslico Aig Securities O.c.p, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "AASCSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Am Slsp Sprav. Spol., A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "SLSSSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Allianz Asset Management, Sprav. Spol.,a.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "AAMPSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Akcenta, Sporitelni A Uverni Druzst Vo, Pobocka Kosice",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kosice",
+          "swift_code": "AKCTSK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aig Funds Central Europe Sprav.spol., A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "AFEUSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Across Wealth Management, O.c.p., A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "AWMOSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Zuno Bank Ag Pobocka Zahranicnej Banky",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "RIDBSKBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wustenrot Stavebna Sporitelna, A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "WUSTSKBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vseobecna Uverova Banka A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "SUBASKBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Volksbank Slovensko, A.S.",
+      "branches": [
+        {
+          "branch_name": "92400 Galanta",
+          "city": "Galanta",
+          "swift_code": "LUBASKBXGAL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "LUBASKBXXXX"
+        },
+        {
+          "branch_name": "04373 Kosice",
+          "city": "Kosice",
+          "swift_code": "LUBASKBXKOS"
+        },
+        {
+          "branch_name": "94901 Nitra",
+          "city": "Nitra",
+          "swift_code": "LUBASKBXNIT"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unicredit Bank Slovakia A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "UNCRSKBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trust Pay, A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "TPAYSKBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Royal Bank Of Scotland N.V. (Slovakia)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "ABNASKBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tatra Banka A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "TATRSKBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Statna Pokladnica",
+      "branches": [
+        {
+          "branch_name": "Bratislava",
+          "city": "Bratislava",
+          "swift_code": "SPSRSKBAARD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "SPSRSKBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Slovenska Zarucna A Rozvojova Banka, A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "SLZBSKBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Slovenska Sporitelna, A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "GIBASKBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Narodna Banka Slovenska (national Bank Of Slovakia",
+      "branches": [
+        {
+          "branch_name": "Account For Eba Clearing Settlement",
+          "city": "Bratislava",
+          "swift_code": "NBSBSKBXEBA"
+        }
+      ]
+    },
+    {
+      "bank_name": "Money Market Brokers, O.c.p., A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "MMBCSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mondelez European Business Services Centre, S.r.o.",
+      "branches": [
+        {
+          "branch_name": "Customer Naming Convention",
+          "city": "Bratislava",
+          "swift_code": "KRAFSKBAPYL"
+        },
+        {
+          "branch_name": "Shared Service Centre",
+          "city": "Bratislava",
+          "swift_code": "KRAFSKBASSC"
+        },
+        {
+          "branch_name": "Treasury",
+          "city": "Bratislava",
+          "swift_code": "KRAFSKBATSY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "KRAFSKBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ministry Of Finance Of The Slovak Republic",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "MFSRSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "M Securities O.c.p., A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "KEIOSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kdb Bank (hungary) Ltd Slovakian Branch Office",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "KODBSKBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J And T Finance Group, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "FGRPSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J And T Corporate Finance Slovakia, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "SESCSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investicna A Dochodkova, Sprav. Spol., A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "IDSSSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Infinity Capital, O.c.p., A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "IFCCSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fio O.c.p., A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "FOOCSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fimex Capital O.c.p., A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "FIAPSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "European Rating Agency, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "EUACSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "European Investment Centre",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "EUICSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dlhopis, O.c.p., A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "DLOCSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Csob Asset Management, Sprav.spol., A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "CSMPSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Markets, O.c.p., A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "CMRCSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Invest, O.c.p., A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "CINHSKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Burza Cennych Papierov V Bratislave, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "XBRASKB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J And T Banka, A.S.,Pobocka Zahranicnej Banky",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "JTBPSKBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Bank N.V., Pobocka Zahr, Banky",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "INGBSKBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Data Slovakia, A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "FDXXSKBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fio Banka, A.S., Pobocka Zahranicnej Banky",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "FIOZSKBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Export-Import Bank Of Slovak Republic",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "EXSKSKBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dexia Banka Slovensko A.S.",
+      "branches": [
+        {
+          "branch_name": "Banska Bystrica Branch",
+          "city": "Banska Bystrica",
+          "swift_code": "KOMASK2XBBY"
+        },
+        {
+          "branch_name": "Banska Stiavnica Branch",
+          "city": "Banska Stiavnica",
+          "swift_code": "KOMASK2XBST"
+        },
+        {
+          "branch_name": "Bratislava Branch",
+          "city": "Bratislava",
+          "swift_code": "KOMASK2XBRA"
+        },
+        {
+          "branch_name": "Kosice Branch",
+          "city": "Kosice",
+          "swift_code": "KOMASK2XKOS"
+        },
+        {
+          "branch_name": "Liptovsky Hradok Branch",
+          "city": "Liptovsky Hradok",
+          "swift_code": "KOMASK2XLHR"
+        },
+        {
+          "branch_name": "Malacky Branch",
+          "city": "Malacky",
+          "swift_code": "KOMASK2XMAL"
+        },
+        {
+          "branch_name": "Brezno Branch",
+          "city": "Brezno",
+          "swift_code": "KOMASK2XBRE"
+        },
+        {
+          "branch_name": "Nitra Branch",
+          "city": "Nitra",
+          "swift_code": "KOMASK2XNIT"
+        },
+        {
+          "branch_name": "Povazska Bystrica Branch",
+          "city": "Povazska Bystrica",
+          "swift_code": "KOMASK2XPBY"
+        },
+        {
+          "branch_name": "Lucenec Branch",
+          "city": "Lucenec",
+          "swift_code": "KOMASK2XLCN"
+        },
+        {
+          "branch_name": "Spisska Nova Ves Branch",
+          "city": "Spisska Nova Ves",
+          "swift_code": "KOMASK2XSNV"
+        },
+        {
+          "branch_name": "Michalovce Branch",
+          "city": "Michalovce",
+          "swift_code": "KOMASK2XMCH"
+        },
+        {
+          "branch_name": "Trnava Branch",
+          "city": "Trnava",
+          "swift_code": "KOMASK2XTNA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Zilina",
+          "swift_code": "KOMASK2XXXX"
+        },
+        {
+          "branch_name": "Zilina Branch",
+          "city": "Zilina",
+          "swift_code": "KOMASK2XZIL"
+        },
+        {
+          "branch_name": "Trencin Branch",
+          "city": "Trencin",
+          "swift_code": "KOMASK2XTRE"
+        }
+      ]
+    },
+    {
+      "bank_name": "Csob Stavebna Sporitelna, A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "KBSPSKBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Europe Plc, Pobocka Zahranicnej Banky",
+      "branches": [
+        {
+          "branch_name": "Restricted Use Citibank Bratislava Target 2",
+          "city": "Bratislava",
+          "swift_code": "CITISKBASEC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "CITISKBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ceskoslovenska Obchodna Banka, A.S.",
+      "branches": [
+        {
+          "branch_name": "Slovak Republic Division",
+          "city": "Bratislava",
+          "swift_code": "CEKOSKBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Centralny Depozitar Cennych Papierov Sr, A.S.",
+      "branches": [
+        {
+          "branch_name": "Depository Technical Account",
+          "city": "Bratislava",
+          "swift_code": "CSDSSKBADTA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "CSDSSKBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bre Bank Sa, Pobocka Zahranicnej Banky Mbank V Sr",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "BREXSKBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bks Bank Ag, Pobocka Zahranicnej Banky",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "BFKKSKBBXXX"
+        }
+      ]
+    }
+  ]
+}

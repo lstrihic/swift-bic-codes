@@ -1,0 +1,487 @@
+{
+  "country_name": "Qatar",
+  "alpha_2": "QA",
+  "country_code": "634",
+  "banks": [
+    {
+      "bank_name": "United Bank Limited, Doha",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "UNILQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union National Bank-qatar",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "UNBEQAQHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Group Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "GRPSQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tasweeq",
+      "branches": [
+        {
+          "branch_name": "Tasweeq",
+          "city": "Doha",
+          "swift_code": "TSWQQAB1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "TSWQQAQAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "TSWQQAQBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Bank Of India, Qatar Financial Centre Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "SBINQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rasgas Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "RLNGQAQAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "RLNGQAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Qnb Financial Services",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "QNBFQAQ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Qinvest Llc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "QINVQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Qatargas Operating Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "QAQGQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Qatar Telecom (qtel) Q.s.c",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "QTELQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Qatar Securities Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "QASCQAQ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Qatar Petroleum",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "QPQPQAQ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Qatar Islamic Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "QISBQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Qatar Investment Authority",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "GQICQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Qatar International Islamic Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "QIIBQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Blom Bank Qatar Llc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "BLOMQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Audi Llc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "AUDBQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aljazeera Exchange Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "AEXCQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Zaman Exchange W.l.l",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "ALZAQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Jordan Investment Bank (qatar) Llc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "AJIBQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ahli Bank Q.s.c.",
+      "branches": [
+        {
+          "branch_name": "Airport Branch",
+          "city": "Doha",
+          "swift_code": "ABQQQAQAAIR"
+        },
+        {
+          "branch_name": "Doha Naval Base Branch",
+          "city": "Doha",
+          "swift_code": "ABQQQAQADNB"
+        },
+        {
+          "branch_name": "Merghab Branch",
+          "city": "Doha",
+          "swift_code": "ABQQQAQAMER"
+        },
+        {
+          "branch_name": "Main Branch",
+          "city": "Doha",
+          "swift_code": "ABQQQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barwa Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "BRWAQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Khalij Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Islamic Branch",
+          "city": "Doha",
+          "swift_code": "KLJIQAQAIBB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "KLJIQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Qatar Foundation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "QFQFQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Qatar First Investment Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "QFIBQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Qatar Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "QIDBQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Masraf Al Rayan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "MAFRQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Qatar Central Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "QMAGQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lari Exchange Company Qatar",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "LAEXQAQ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuwait Turkish Participation Bank Inc.",
+      "branches": [
+        {
+          "branch_name": "Kuwait Turkish Participation Bank Inc.",
+          "city": "Doha",
+          "swift_code": "KTEFQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Financial Securities Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "ITFSQAQ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial And Commercial Bank Of China, Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "ICBKQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Icici Bank Limited (qfc Branch",
+      "branches": [
+        {
+          "branch_name": "24708 Doha",
+          "city": "Doha",
+          "swift_code": "ICICQAQACOP"
+        },
+        {
+          "branch_name": "24708 Doha",
+          "city": "Doha",
+          "swift_code": "ICICQAQAGTS"
+        },
+        {
+          "branch_name": "24708 Doha",
+          "city": "Doha",
+          "swift_code": "ICICQAQATMO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "ICICQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Bank Of Qatar (q.s.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "IBOQQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gulf Investments Group",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "GUIRQAQ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gulf Investment Group",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "GUIRQAA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Gulf Bank Qatar Financial Centre",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "FGBMQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Islamic Financial Securities Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "IFSOQAQ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dlala Brokerage Llc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "DLBOQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Bank Of Qatar, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "CBQAQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "City Exchange Co. W.l.l",
+      "branches": [
+        {
+          "branch_name": "City Exchange Co. W.l.l",
+          "city": "Doha",
+          "swift_code": "CECQQAQ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Doha Securities Market",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "DSMDQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas, Doha",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "BNPAQAQAXXX"
+        }
+      ]
+    }
+  ]
+}

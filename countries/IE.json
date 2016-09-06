@@ -1,0 +1,8162 @@
+{
+  "country_name": "Ireland",
+  "alpha_2": "IE",
+  "country_code": "372",
+  "banks": [
+    {
+      "bank_name": "Citco Bank Nederland N.V., Dublin Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CITCIE2DXXX"
+        },
+        {
+          "branch_name": "Citco Bank Nederland N.V., Dublin Branch",
+          "city": "Dublin",
+          "swift_code": "CITCIE2DMUR"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chase Manhattan Bank (Ireland) Plc (Formerly Chasebank (Ireland) Plc)",
+      "branches": [
+        {
+          "branch_name": "Telex And S W I F T Message Enquiries",
+          "city": "Dublin",
+          "swift_code": "CHASIE2XENQ"
+        }
+      ]
+    },
+    {
+      "bank_name": "Canali Ireland Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CNLIIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Ireland",
+      "branches": [
+        {
+          "branch_name": "Accounts Department",
+          "city": "Dublin",
+          "swift_code": "IRCEIE2DAPS"
+        },
+        {
+          "branch_name": "Cmas",
+          "city": "Dublin",
+          "swift_code": "IRCEIE2DCCB"
+        },
+        {
+          "branch_name": "Contingency Department",
+          "city": "Dublin",
+          "swift_code": "IRCEIE2DCON"
+        },
+        {
+          "branch_name": "Dublin 2",
+          "city": "Dublin",
+          "swift_code": "IRCEIE2DCRS"
+        },
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "IRCEIE2DCUR"
+        },
+        {
+          "branch_name": "Futures",
+          "city": "Dublin",
+          "swift_code": "IRCEIE2DFOR"
+        },
+        {
+          "branch_name": "Irish Paper Clearing",
+          "city": "Dublin",
+          "swift_code": "IRCEIE2DIPC"
+        },
+        {
+          "branch_name": "Irish Electronic Clearing",
+          "city": "Dublin",
+          "swift_code": "IRCEIE2DIRC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "IRCEIE2DXXX"
+        },
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "IRCEIE21HAM"
+        },
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "IRCEIE21PMM"
+        },
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "IRCEIE2DEPA"
+        },
+        {
+          "branch_name": "Treasury Operations Management",
+          "city": "Dublin",
+          "swift_code": "IRCEIE2DTOM"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Ireland - Dublin Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BNPAIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Bank Ireland Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BARCIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Scotland Plc (Formerly Bank Of Scotland,  Ireland)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BOSIIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of New York Mellon (Ireland) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BNYMIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Montreal Ireland Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BOFMIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Ireland Treasury",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BIGTIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Ireland International Banking",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BOFIIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aig Asset Management (Ireland) Limited",
+      "branches": [
+        {
+          "branch_name": "Custodian",
+          "city": "Dublin",
+          "swift_code": "AGITIE2DCUS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "AGITIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aib Investment Managers",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "AIBKIE2EXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aib International Financial Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "SPVWIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Accenture",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ACNTIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Acc Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ACCBIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bandon Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bandon",
+          "swift_code": "BNCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banagher Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Banagher",
+          "swift_code": "BNCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ballinlough Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cork",
+          "swift_code": "BCRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ballincollig Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballincollig",
+          "swift_code": "BLRNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abbeyleix Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abbeyleix",
+          "swift_code": "ABRNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sentenial Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maynooth",
+          "swift_code": "SLTDIE2MXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kbc Bank Nv Dublin Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "KBDUIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fti Finance Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "FTIFIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Emersub Treasury Ireland",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "EMRTIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ebs Limited",
+      "branches": [
+        {
+          "branch_name": "Ebs Mortgage Finance",
+          "city": "Dublin",
+          "swift_code": "EBSIIE2DEMF"
+        },
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "EBSIIE2DSDD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "EBSIIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eaa Covered Bond Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "WELAIE2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dz Bank Ireland Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "GENOIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dexia Municipal Agency",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "DXMAIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dexia Credit Local Dublin",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CLFRIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dexia Bank Belgium, Dublin Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "DXIAIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Depfa Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "DPFAIE2D001"
+        },
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "DPFAIE2D002"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "DPFAIE2DXXX"
+        },
+        {
+          "branch_name": "Tokyo Branch",
+          "city": "Tokyo",
+          "swift_code": "DPFAJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Depfa Acs Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "DPFAIE3XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daiwa Europe Fund Managers Ireland Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "DEFLIE2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse International Dublin Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CRESIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commerzbank Europe (Ireland)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "COBAIE2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Ireland Financial Services Plc",
+      "branches": [
+        {
+          "branch_name": "Transfer Agency Services",
+          "city": "Dublin",
+          "swift_code": "CITIIE4XITA"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank International Plc, Dublin",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CITIIE3DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Europe Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CITIIE2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citco Fund Services Ireland Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CFSHIE2DXXX"
+        },
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "CFSHIE2DFEC"
+        },
+        {
+          "branch_name": "Citco Fund Services Ireland Limited",
+          "city": "Dublin",
+          "swift_code": "CFSHIE2DMUR"
+        },
+        {
+          "branch_name": "Cur Accounts",
+          "city": "Dublin",
+          "swift_code": "CFSHIE2DSCU"
+        },
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "CFSHIE2DSDU"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kbc Bank Ireland Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ICONIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.P. Morgan Bank Dublin Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "JPMBIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.P. Morgan Bank (Ireland) Plc",
+      "branches": [
+        {
+          "branch_name": "Dublin Transfer Agency Bgi",
+          "city": "Dublin",
+          "swift_code": "CHASIE2DBGI"
+        },
+        {
+          "branch_name": "Chase Dublin Vanguard",
+          "city": "Dublin",
+          "swift_code": "CHASIE2DVAN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CHASIE2DXXX"
+        },
+        {
+          "branch_name": "Dublin Transfer Agency",
+          "city": "Dublin",
+          "swift_code": "CHASIE2XBGI"
+        },
+        {
+          "branch_name": "Test Key And Bke Administration",
+          "city": "Dublin",
+          "swift_code": "CHASIE2XKEY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CHASIE2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Irish Progressive Services International Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "IPSIIE2DXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "IPSIIE31XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Irish Life And Permanent Plc (Formerly Irish Permanent Building Society)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "IPBSIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investment Technology Group Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ITGLIE2DXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ITGLIE21XXX"
+        },
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "ITGLIE2DAUS"
+        },
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "ITGLIE2DCAN"
+        },
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "ITGLIE2DHKD"
+        },
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "ITGLIE2DNYC"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investec Bank Plc (Irish Branch)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "TRIBIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Invesco Global Asset Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "INVDIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intesa Sanpaolo Bank Ireland Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BCITIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interpay Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kilkenny",
+          "swift_code": "EPAYIE2KXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ingersoll-Rand International Finance Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Swords",
+          "swift_code": "IRIFIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing European Financial Services Plc (Formerly Oyak European Finance Plc)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "INGBIE3DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Bank Nv - Dublin Branch",
+      "branches": [
+        {
+          "branch_name": "Dublin Branch International Cash Management Icm Eu",
+          "city": "Dublin",
+          "swift_code": "INGBIE2DICM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "INGBIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Institutional Trust Services (Ireland) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BTDLIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gam Fund Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "GLAMIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scotiabank (Ireland) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "NOSCIE2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Goldman Sachs Bank (Europe) Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "GOSRIE2EXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "GOSRIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Connolly Cie Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CNRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Comhar Linn Into Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CLIRIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Comhar Creidmheasa Ghaoth Dobheir Teoranta",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Leitirceanann",
+          "swift_code": "CCGDIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooley Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Carlingford",
+          "swift_code": "CLRNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Comhar Creidmheasa Chriost Ri Teoranta",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cork",
+          "swift_code": "CCHTIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Comhar Creidmheasa Cholm Cille Teoranta",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Indreabhan",
+          "swift_code": "CCHCIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Comhar Chreidmheasa Chorca Dhuibhne Teoranta",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dingle",
+          "swift_code": "CCHDIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Collooney And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Collooney",
+          "swift_code": "CDRIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Collon Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Collon",
+          "swift_code": "CLEOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cois Sionna Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Askeaton",
+          "swift_code": "CSCIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cobh Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cobh",
+          "swift_code": "CBRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Co-co Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CCEUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Coill Dubh And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Naas",
+          "swift_code": "CDDCIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clovis Oliveira Santos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Naas",
+          "swift_code": "CLOAIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clontarf Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CLDNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clonmel Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Clonmel",
+          "swift_code": "CLEUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clonsilla Credit Union Limited.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CLDUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clones Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Clones",
+          "swift_code": "CLROIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clondalkin Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Clondalkin",
+          "swift_code": "CLRIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Santander Financial Products Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "SFPLIE2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbc Dexia Investor Services Ireland",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BILLIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rabobank Ireland Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "RABOIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pnc Global Investment Servicing (Europe) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "PFPCIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pfizer Service Company Ireland",
+      "branches": [
+        {
+          "branch_name": "Ssc Dublin",
+          "city": "Dublin",
+          "swift_code": "PFIZIE2DGFS"
+        },
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "PFIZIE2DHDO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "PFIZIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pershing Securities International Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "PERLIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pacnet Services Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Shannon",
+          "swift_code": "PNSEIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Northern Trust Fiduciary Services (Ireland) Limited",
+      "branches": [
+        {
+          "branch_name": "European Transfer Agency",
+          "city": "Dublin",
+          "swift_code": "CNORIE2DETA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CNORIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ncb Stockbrokers Limited",
+      "branches": [
+        {
+          "branch_name": "Wealth Management Division",
+          "city": "Dublin",
+          "swift_code": "NCBBIE2DALL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "NCBBIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Treasury Management Agency",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "NTMAIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Irish Bank (Part Of Danske Bank Group)",
+      "branches": [
+        {
+          "branch_name": "Balbriggan",
+          "city": "Balbriggan",
+          "swift_code": "DABAIE2D606"
+        },
+        {
+          "branch_name": "Bailieborough",
+          "city": "Bailieborough",
+          "swift_code": "DABAIE2D601"
+        },
+        {
+          "branch_name": "Athlone",
+          "city": "Athlone",
+          "swift_code": "DABAIE2D633"
+        },
+        {
+          "branch_name": "Ballinasloe",
+          "city": "Ballinasloe",
+          "swift_code": "DABAIE2D615"
+        },
+        {
+          "branch_name": "Ballincollig",
+          "city": "Ballincollig",
+          "swift_code": "DABAIE2D757"
+        },
+        {
+          "branch_name": "Ballybofey",
+          "city": "Ballybofey",
+          "swift_code": "DABAIE2D621"
+        },
+        {
+          "branch_name": "Ballinamore",
+          "city": "Ballinamore",
+          "swift_code": "DABAIE2D611"
+        },
+        {
+          "branch_name": "Blanchardstown",
+          "city": "Blanchardstown",
+          "swift_code": "DABAIE2D502"
+        },
+        {
+          "branch_name": "Bray",
+          "city": "Bray",
+          "swift_code": "DABAIE2D631"
+        },
+        {
+          "branch_name": "Boyle",
+          "city": "Boyle",
+          "swift_code": "DABAIE2D626"
+        },
+        {
+          "branch_name": "Castlebar",
+          "city": "Castlebar",
+          "swift_code": "DABAIE2D648"
+        },
+        {
+          "branch_name": "Carrick-on-shannon",
+          "city": "Carrick-On-Shannon",
+          "swift_code": "DABAIE2D646"
+        },
+        {
+          "branch_name": "Drumshanbo",
+          "city": "Carrick-On-Shannon",
+          "swift_code": "DABAIE2D661"
+        },
+        {
+          "branch_name": "Mohill",
+          "city": "Carrick-On-Shannon",
+          "swift_code": "DABAIE2D696"
+        },
+        {
+          "branch_name": "Cavan",
+          "city": "Cavan",
+          "swift_code": "DABAIE2D751"
+        },
+        {
+          "branch_name": "Clonmel",
+          "city": "Clonmel",
+          "swift_code": "DABAIE2D668"
+        },
+        {
+          "branch_name": "Cardonagh",
+          "city": "Carndonagh",
+          "swift_code": "DABAIE2D636"
+        },
+        {
+          "branch_name": "Drogheda",
+          "city": "Drogheda",
+          "swift_code": "DABAIE2D753"
+        },
+        {
+          "branch_name": "Cork",
+          "city": "Cork",
+          "swift_code": "DABAIE2D653"
+        },
+        {
+          "branch_name": "Wilton",
+          "city": "Cork",
+          "swift_code": "DABAIE2D655"
+        },
+        {
+          "branch_name": "Lending Services",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D914"
+        },
+        {
+          "branch_name": "Handling Services - Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D915"
+        },
+        {
+          "branch_name": "Properties Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D916"
+        },
+        {
+          "branch_name": "Purchasing Nib Recharges",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D917"
+        },
+        {
+          "branch_name": "Logistics Adm - Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D918"
+        },
+        {
+          "branch_name": "Cash Services - Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D919"
+        },
+        {
+          "branch_name": "Trade And Export Finance",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D920"
+        },
+        {
+          "branch_name": "Atms Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D921"
+        },
+        {
+          "branch_name": "Securities Serv And Treasury Settl",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D922"
+        },
+        {
+          "branch_name": "Bank Industri Relations",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D923"
+        },
+        {
+          "branch_name": "Payment Services - Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D924"
+        },
+        {
+          "branch_name": "Clearings Services - Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D925"
+        },
+        {
+          "branch_name": "Hr Services / Projects",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D926"
+        },
+        {
+          "branch_name": "Recruitment",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D927"
+        },
+        {
+          "branch_name": "Operations Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D928"
+        },
+        {
+          "branch_name": "P And C Corprate Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D929"
+        },
+        {
+          "branch_name": "Bus Partner Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D930"
+        },
+        {
+          "branch_name": "Training Centre - Migration - Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D931"
+        },
+        {
+          "branch_name": "National Irish Bank - Capital",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D932"
+        },
+        {
+          "branch_name": "Grp Capital Mgt Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D933"
+        },
+        {
+          "branch_name": "Tallaght 13",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D872"
+        },
+        {
+          "branch_name": "Tallaght 14",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D873"
+        },
+        {
+          "branch_name": "Tallaght 15",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D874"
+        },
+        {
+          "branch_name": "Tallaght 16",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D875"
+        },
+        {
+          "branch_name": "Tallaght 17",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D876"
+        },
+        {
+          "branch_name": "Tallaght 18",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D877"
+        },
+        {
+          "branch_name": "Tallaght 19",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D878"
+        },
+        {
+          "branch_name": "Tallaght 20",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D879"
+        },
+        {
+          "branch_name": "Markets Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D880"
+        },
+        {
+          "branch_name": "Ireland - Business Loans",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D881"
+        },
+        {
+          "branch_name": "Alm Ireland",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D882"
+        },
+        {
+          "branch_name": "Long Funding Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D883"
+        },
+        {
+          "branch_name": "Ba. Long Risk Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D884"
+        },
+        {
+          "branch_name": "Loro. Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D885"
+        },
+        {
+          "branch_name": "Sme Property Customers",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D886"
+        },
+        {
+          "branch_name": "Large Property Customers",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D887"
+        },
+        {
+          "branch_name": "Baggot Street",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D888"
+        },
+        {
+          "branch_name": "Customer Direct",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D889"
+        },
+        {
+          "branch_name": "Treasury Nib Only For Conv.",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D890"
+        },
+        {
+          "branch_name": "Ireland - Spot",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D891"
+        },
+        {
+          "branch_name": "Tallaght 2",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D852"
+        },
+        {
+          "branch_name": "Tallaght 3",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D853"
+        },
+        {
+          "branch_name": "Tallaght 4",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D854"
+        },
+        {
+          "branch_name": "Tallaght 5",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D855"
+        },
+        {
+          "branch_name": "Tallaght 6",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D856"
+        },
+        {
+          "branch_name": "Tallaght 7",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D857"
+        },
+        {
+          "branch_name": "Tallaght 8",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D858"
+        },
+        {
+          "branch_name": "Tallaght 9",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D859"
+        },
+        {
+          "branch_name": "Tallaght 11",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D860"
+        },
+        {
+          "branch_name": "Tallaght 12",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D861"
+        },
+        {
+          "branch_name": "Tallaght 13",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D862"
+        },
+        {
+          "branch_name": "Tallaght 14",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D863"
+        },
+        {
+          "branch_name": "Tallaght 15",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D864"
+        },
+        {
+          "branch_name": "Tallaght 16",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D865"
+        },
+        {
+          "branch_name": "Tallaght 17",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D866"
+        },
+        {
+          "branch_name": "Tallaght 18",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D867"
+        },
+        {
+          "branch_name": "Tallaght 19",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D868"
+        },
+        {
+          "branch_name": "Tallaght 20",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D869"
+        },
+        {
+          "branch_name": "Tallaght 11",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D870"
+        },
+        {
+          "branch_name": "Tallaght 12",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D871"
+        },
+        {
+          "branch_name": "Ireland - Money Market",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D892"
+        },
+        {
+          "branch_name": "Ireland - Customer Section",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D893"
+        },
+        {
+          "branch_name": "Ireland - Mm Retail Securities",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D894"
+        },
+        {
+          "branch_name": "Ireland - Money Market D/D",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D895"
+        },
+        {
+          "branch_name": "Ireland - Mm Retail Sec - Reshar",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D896"
+        },
+        {
+          "branch_name": "Danske Bank - Dublin Br",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D899"
+        },
+        {
+          "branch_name": "Costcentre Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D900"
+        },
+        {
+          "branch_name": "Shared Services Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D901"
+        },
+        {
+          "branch_name": "Customer Direct - Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D902"
+        },
+        {
+          "branch_name": "Customer Direct Sales - Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D903"
+        },
+        {
+          "branch_name": "Customer Direct Services - Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D904"
+        },
+        {
+          "branch_name": "Solutions - Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D905"
+        },
+        {
+          "branch_name": "Technology Operations - Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D906"
+        },
+        {
+          "branch_name": "Change Management - Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D907"
+        },
+        {
+          "branch_name": "Product Mgmt",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D908"
+        },
+        {
+          "branch_name": "Shared Servs Mgt",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D909"
+        },
+        {
+          "branch_name": "Ops Ireland Hist - Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D910"
+        },
+        {
+          "branch_name": "Rs Support - Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D911"
+        },
+        {
+          "branch_name": "Branch Services - Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D912"
+        },
+        {
+          "branch_name": "Debt Management - Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D913"
+        },
+        {
+          "branch_name": "Asset Finance Front Off",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D829"
+        },
+        {
+          "branch_name": "Business Fin- Front Off",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D830"
+        },
+        {
+          "branch_name": "Payments - Front Off",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D831"
+        },
+        {
+          "branch_name": "Investigations Nib Costs",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D832"
+        },
+        {
+          "branch_name": "Specialist Sales Total",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D833"
+        },
+        {
+          "branch_name": "Premium Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D834"
+        },
+        {
+          "branch_name": "Ba Customer Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D835"
+        },
+        {
+          "branch_name": "Dormant Accounts - Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D836"
+        },
+        {
+          "branch_name": "Reg For Local Report",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D837"
+        },
+        {
+          "branch_name": "Wealth Management - Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D838"
+        },
+        {
+          "branch_name": "Nib Calculated Equity",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D839"
+        },
+        {
+          "branch_name": "Nib Temp Certegy",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D843"
+        },
+        {
+          "branch_name": "Nib Temp Kapiti",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D844"
+        },
+        {
+          "branch_name": "Ssc Clear Out Customer Direct",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D845"
+        },
+        {
+          "branch_name": "Ssc Clear Out Development",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D846"
+        },
+        {
+          "branch_name": "Ssc Clear Out Retail Services",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D847"
+        },
+        {
+          "branch_name": "Ssc Clear Out Logistics",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D848"
+        },
+        {
+          "branch_name": "Ssc Clear Out Trans Services",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D849"
+        },
+        {
+          "branch_name": "Ssc Clear Out Hr Services",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D850"
+        },
+        {
+          "branch_name": "Tallaght 1",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D851"
+        },
+        {
+          "branch_name": "Inactive Brances Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D806"
+        },
+        {
+          "branch_name": "Nib Other Bank Activities",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D807"
+        },
+        {
+          "branch_name": "Nib Sub Hist M31fj",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D808"
+        },
+        {
+          "branch_name": "Nib Sub Hist Set Off",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D809"
+        },
+        {
+          "branch_name": "Retail Branches Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D810"
+        },
+        {
+          "branch_name": "Finance Centre - Nw",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D811"
+        },
+        {
+          "branch_name": "Finance Centre - Dublin",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D812"
+        },
+        {
+          "branch_name": "Finance Centre - Midland",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D813"
+        },
+        {
+          "branch_name": "Nib Collections",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D816"
+        },
+        {
+          "branch_name": "Facilities Management Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D817"
+        },
+        {
+          "branch_name": "Future Project Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D818"
+        },
+        {
+          "branch_name": "Restructuring Programme",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D819"
+        },
+        {
+          "branch_name": "Custom Business",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D821"
+        },
+        {
+          "branch_name": "High Level Bfs Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D822"
+        },
+        {
+          "branch_name": "Other Bfs Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D823"
+        },
+        {
+          "branch_name": "Bfs Support",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D824"
+        },
+        {
+          "branch_name": "Regional Credit Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D825"
+        },
+        {
+          "branch_name": "Total Corporate Segment Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D826"
+        },
+        {
+          "branch_name": "Bfs Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D827"
+        },
+        {
+          "branch_name": "Special Projects Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D828"
+        },
+        {
+          "branch_name": "Tallaght 10",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D759"
+        },
+        {
+          "branch_name": "Visa Collection",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D770"
+        },
+        {
+          "branch_name": "Visa Gold Collection",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D771"
+        },
+        {
+          "branch_name": "Mastercard Collection",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D772"
+        },
+        {
+          "branch_name": "Mastercard Business Collection",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D773"
+        },
+        {
+          "branch_name": "Staff Branch",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D774"
+        },
+        {
+          "branch_name": "Card Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D775"
+        },
+        {
+          "branch_name": "Nib Debt Management",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D777"
+        },
+        {
+          "branch_name": "Nib Debt Management",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D778"
+        },
+        {
+          "branch_name": "Admin Projects",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D779"
+        },
+        {
+          "branch_name": "Treasury Operations",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D780"
+        },
+        {
+          "branch_name": "Danica Pension",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D781"
+        },
+        {
+          "branch_name": "City Centre Branches",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D782"
+        },
+        {
+          "branch_name": "International Corporate Banking",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D783"
+        },
+        {
+          "branch_name": "Private Banking",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D784"
+        },
+        {
+          "branch_name": "Cross Border Desk Personal",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D785"
+        },
+        {
+          "branch_name": "Card, Cash And Teller  Support",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D786"
+        },
+        {
+          "branch_name": "Banking Activ. Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D800"
+        },
+        {
+          "branch_name": "Regional Office - Nw",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D801"
+        },
+        {
+          "branch_name": "Regional Office - Dublin",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D802"
+        },
+        {
+          "branch_name": "Regional Office-sw",
+          "city": "Cork",
+          "swift_code": "DABAIE2D804"
+        },
+        {
+          "branch_name": "Cork Bc",
+          "city": "Cork",
+          "swift_code": "DABAIE2D992"
+        },
+        {
+          "branch_name": "Dungloe",
+          "city": "Dungloe",
+          "swift_code": "DABAIE2D666"
+        },
+        {
+          "branch_name": "Transaction Services Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D500"
+        },
+        {
+          "branch_name": "College Green",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D501"
+        },
+        {
+          "branch_name": "Finglas",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D503"
+        },
+        {
+          "branch_name": "O Connell Street",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D506"
+        },
+        {
+          "branch_name": "International Payments",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D508"
+        },
+        {
+          "branch_name": "Central Deposit Unit",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D509"
+        },
+        {
+          "branch_name": "South Circular Road",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D511"
+        },
+        {
+          "branch_name": "Donnybrook",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D515"
+        },
+        {
+          "branch_name": "Baggot Street",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D520"
+        },
+        {
+          "branch_name": "Walkinstown",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D522"
+        },
+        {
+          "branch_name": "Wilton Terrace",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D550"
+        },
+        {
+          "branch_name": "Commercial Banking",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D592"
+        },
+        {
+          "branch_name": "Howth Road",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D690"
+        },
+        {
+          "branch_name": "Terenure",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D729"
+        },
+        {
+          "branch_name": "Tallaght 6",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D755"
+        },
+        {
+          "branch_name": "South Docks",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D756"
+        },
+        {
+          "branch_name": "Tallaght 9",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D758"
+        },
+        {
+          "branch_name": "Gweedore",
+          "city": "Letterkenny",
+          "swift_code": "DABAIE2D674"
+        },
+        {
+          "branch_name": "Letterkenny",
+          "city": "Letterkenny",
+          "swift_code": "DABAIE2D683"
+        },
+        {
+          "branch_name": "Killarney",
+          "city": "Killarney",
+          "swift_code": "DABAIE2D680"
+        },
+        {
+          "branch_name": "Lanesborough",
+          "city": "Lanesborough",
+          "swift_code": "DABAIE2D686"
+        },
+        {
+          "branch_name": "Malahide",
+          "city": "Malahide",
+          "swift_code": "DABAIE2D688"
+        },
+        {
+          "branch_name": "Ballinacurra",
+          "city": "Limerick",
+          "swift_code": "DABAIE2D634"
+        },
+        {
+          "branch_name": "Limerick",
+          "city": "Limerick",
+          "swift_code": "DABAIE2D687"
+        },
+        {
+          "branch_name": "Regional Office-se",
+          "city": "Limerick",
+          "swift_code": "DABAIE2D805"
+        },
+        {
+          "branch_name": "Finance Center-sw",
+          "city": "Limerick",
+          "swift_code": "DABAIE2D814"
+        },
+        {
+          "branch_name": "Finance Centre-se",
+          "city": "Limerick",
+          "swift_code": "DABAIE2D815"
+        },
+        {
+          "branch_name": "Mallow",
+          "city": "Mallow",
+          "swift_code": "DABAIE2D750"
+        },
+        {
+          "branch_name": "Milford",
+          "city": "Milford",
+          "swift_code": "DABAIE2D691"
+        },
+        {
+          "branch_name": "Monaghan",
+          "city": "Monaghan",
+          "swift_code": "DABAIE2D697"
+        },
+        {
+          "branch_name": "Navan",
+          "city": "Navan",
+          "swift_code": "DABAIE2D752"
+        },
+        {
+          "branch_name": "Mullingar",
+          "city": "Mullingar",
+          "swift_code": "DABAIE2D698"
+        },
+        {
+          "branch_name": "Naas",
+          "city": "Naas",
+          "swift_code": "DABAIE2D699"
+        },
+        {
+          "branch_name": "Raphoe",
+          "city": "Raphoe",
+          "swift_code": "DABAIE2D711"
+        },
+        {
+          "branch_name": "Shercock",
+          "city": "Shercock",
+          "swift_code": "DABAIE2D716"
+        },
+        {
+          "branch_name": "Sligo",
+          "city": "Sligo",
+          "swift_code": "DABAIE2D723"
+        },
+        {
+          "branch_name": "Skerries",
+          "city": "Skerries",
+          "swift_code": "DABAIE2D721"
+        },
+        {
+          "branch_name": "Business Direct Inactive",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D974"
+        },
+        {
+          "branch_name": "Finance Nib Hist 20061231",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D978"
+        },
+        {
+          "branch_name": "National Irish Bank (Part Of Danske Bank Group)",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D979"
+        },
+        {
+          "branch_name": "Finance Centre",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D987"
+        },
+        {
+          "branch_name": "Business Direct",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D988"
+        },
+        {
+          "branch_name": "Institutional Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D990"
+        },
+        {
+          "branch_name": "Commercial Property",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D991"
+        },
+        {
+          "branch_name": "Dublin Bc",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D993"
+        },
+        {
+          "branch_name": "Reg For Local Report In Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D999"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "DABAIE2DXXX"
+        },
+        {
+          "branch_name": "Ennis",
+          "city": "Ennis",
+          "swift_code": "DABAIE2D667"
+        },
+        {
+          "branch_name": "Fermoy",
+          "city": "Fermoy",
+          "swift_code": "DABAIE2D649"
+        },
+        {
+          "branch_name": "Galway",
+          "city": "Galway",
+          "swift_code": "DABAIE2D671"
+        },
+        {
+          "branch_name": "Galway Fsc",
+          "city": "Galway",
+          "swift_code": "DABAIE2D754"
+        },
+        {
+          "branch_name": "Galway Bc",
+          "city": "Galway",
+          "swift_code": "DABAIE2D994"
+        },
+        {
+          "branch_name": "Dundalk",
+          "city": "Dundalk",
+          "swift_code": "DABAIE2D663"
+        },
+        {
+          "branch_name": "Kells",
+          "city": "Kells",
+          "swift_code": "DABAIE2D676"
+        },
+        {
+          "branch_name": "Regional Office-midland",
+          "city": "Kells",
+          "swift_code": "DABAIE2D803"
+        },
+        {
+          "branch_name": "Kilkenny",
+          "city": "Kilkenny",
+          "swift_code": "DABAIE2D678"
+        },
+        {
+          "branch_name": "Kingscourt",
+          "city": "Kingscourt",
+          "swift_code": "DABAIE2D681"
+        },
+        {
+          "branch_name": "Finance - Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D934"
+        },
+        {
+          "branch_name": "Finance Ib Pool - Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D935"
+        },
+        {
+          "branch_name": "Corp Affairs Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D936"
+        },
+        {
+          "branch_name": "Marketing Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D937"
+        },
+        {
+          "branch_name": "Audit Department - Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D938"
+        },
+        {
+          "branch_name": "Risk Management - Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D939"
+        },
+        {
+          "branch_name": "Ceo Office Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D940"
+        },
+        {
+          "branch_name": "Technology Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D941"
+        },
+        {
+          "branch_name": "Credit Department Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D942"
+        },
+        {
+          "branch_name": "Business Development - Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D943"
+        },
+        {
+          "branch_name": "Legal Department - Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D944"
+        },
+        {
+          "branch_name": "Fixed Assets - Nib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D945"
+        },
+        {
+          "branch_name": "Elim Nib Group",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D946"
+        },
+        {
+          "branch_name": "Elim. Nib Parent",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D947"
+        },
+        {
+          "branch_name": "Nib Others",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D948"
+        },
+        {
+          "branch_name": "Migration Costs",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D949"
+        },
+        {
+          "branch_name": "Ext, Suppl. Nib Local Recharge",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D950"
+        },
+        {
+          "branch_name": "Ext. Suppl. Nib Central Recharge",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D951"
+        },
+        {
+          "branch_name": "Ssc Nib Hist 20061231",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D952"
+        },
+        {
+          "branch_name": "Ssc Nib Hist Set Off 20061231",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D953"
+        },
+        {
+          "branch_name": "Nib Continued",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D954"
+        },
+        {
+          "branch_name": "Nib Continued Capital",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D955"
+        },
+        {
+          "branch_name": "Finance Ib Pool - Nib Continued",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D956"
+        },
+        {
+          "branch_name": "Nib Hist D31fa Tp 20070331",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D957"
+        },
+        {
+          "branch_name": "National Irish Bank Ltd",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D958"
+        },
+        {
+          "branch_name": "Nib Hist Set Off D31fa 20070331",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D959"
+        },
+        {
+          "branch_name": "Nib Subsidiaries",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D960"
+        },
+        {
+          "branch_name": "Leasing - Nat Irish Investment Bk",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D961"
+        },
+        {
+          "branch_name": "H/P Nat Irish Investment Bk",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D962"
+        },
+        {
+          "branch_name": "Fixed Assets - Niib",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D963"
+        },
+        {
+          "branch_name": "Nat Irish Bank Financial Services",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D964"
+        },
+        {
+          "branch_name": "Nat Irish Bank Pensions Ltd",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D965"
+        },
+        {
+          "branch_name": "Nat Aust Group Ssp R.I Trustee",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D966"
+        },
+        {
+          "branch_name": "Norfin Investments",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D967"
+        },
+        {
+          "branch_name": "Elim. Nib Asset Fin",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D968"
+        },
+        {
+          "branch_name": "Nat Irish Life And Pension Serv",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D969"
+        },
+        {
+          "branch_name": "Nib Nominees",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D970"
+        },
+        {
+          "branch_name": "Elim Nib Sub/Sub",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D971"
+        },
+        {
+          "branch_name": "Dm Strap Ireland",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D972"
+        },
+        {
+          "branch_name": "Customer Direct Inactive",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D973"
+        },
+        {
+          "branch_name": "Stillorgan",
+          "city": "Stillorgan",
+          "swift_code": "DABAIE2D513"
+        },
+        {
+          "branch_name": "Wexford",
+          "city": "Wexford",
+          "swift_code": "DABAIE2D744"
+        },
+        {
+          "branch_name": "Virginia",
+          "city": "Virginia",
+          "swift_code": "DABAIE2D731"
+        },
+        {
+          "branch_name": "Waterford",
+          "city": "Waterford",
+          "swift_code": "DABAIE2D741"
+        },
+        {
+          "branch_name": "Swords",
+          "city": "Swords",
+          "swift_code": "DABAIE2D728"
+        },
+        {
+          "branch_name": "Blackrock",
+          "city": "Blackrock",
+          "swift_code": "DABAIE2D504"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lgt Bank (Ireland) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BLFLIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lee Overlay Partners Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "LEEOIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Leaseplan Finance N.V. (Dublin Branch)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "LPLNIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kleinwort Benson Investors Dublin Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "KBENIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abbeyfeale Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abbeyfeale",
+          "swift_code": "ABRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abbey Capital Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ABAPIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aareal Bank Ag, Dublin Branch",
+      "branches": [
+        {
+          "branch_name": "Dublin Branch",
+          "city": "Dublin",
+          "swift_code": "AARBIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "A.s.t.i. Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ASRNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "A.n.s.a.c.credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ANUNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "A.c.c. Staff Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ASRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Edenderry Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Edenderry",
+          "swift_code": "EDCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dolmen Stockbrokers",
+      "branches": [
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "DOLMIE21PRI"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "DOLMIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dolmen Butler Briscoe (gbltopic",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "DBBGIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dolmen Butler Briscoe (blmberg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "DBBBIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche International Corporate Services (ireland) Limited",
+      "branches": [
+        {
+          "branch_name": "Alternative Fund Services",
+          "city": "Dublin",
+          "swift_code": "DEUTIE21AFS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "DEUTIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Securities Corp. Asset Management Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "DSCMIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Desmond Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Newcastle",
+          "swift_code": "DERNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Derg Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Scariff",
+          "swift_code": "DEEUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Delta Index Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "DEIEIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dell Bank International Limited",
+      "branches": [
+        {
+          "branch_name": "Dell Bank International Limited",
+          "city": "Dublin D18",
+          "swift_code": "DBILIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dcc Corporate Finance",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "DCCFIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Davy Stockbrokers",
+      "branches": [
+        {
+          "branch_name": "Davy Private Clients",
+          "city": "Dublin",
+          "swift_code": "DAVYIE21BKO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "DAVYIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dalkey Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dalkey",
+          "swift_code": "DACIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cuchullain Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dundalk",
+          "swift_code": "CUCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Crosshaven-carrigaline Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Crosshaven",
+          "swift_code": "CSDNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Administration Services (ireland) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin Dublin",
+          "swift_code": "CSARIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Coronation Capital Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin Dublin",
+          "swift_code": "CNAIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corontion",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CNROIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cootehill Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cootehill",
+          "swift_code": "CTCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Coolock-artane Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CLDIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dunmanway Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dunmanway",
+          "swift_code": "DCEUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dunleer Parish Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dunleer",
+          "swift_code": "DPRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dunlavin Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dunlavin",
+          "swift_code": "DCRNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dungarvan Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dungarvan",
+          "swift_code": "DURNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dundrum Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dundrum",
+          "swift_code": "DURUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dundalk Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dundalk",
+          "swift_code": "DUCIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dunboyne And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dunboyne",
+          "swift_code": "DDCIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Duleek Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Duleek",
+          "swift_code": "DUCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Drumcondra And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "DDCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Drumshanbo Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Drumshanbo",
+          "swift_code": "DRCIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dromcollogher Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dromcollogher",
+          "swift_code": "DRRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dubco Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "DUCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Drogheda Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Drogheda",
+          "swift_code": "DRCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Drimnagh Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "DRCOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dresdner Kleinwort Benson",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "DRKBIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Douglas Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cork",
+          "swift_code": "DCRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Donore Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "DORUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Donnycarney/beaumont And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "DDRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Donegal (town) Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Donegal Town",
+          "swift_code": "DTCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Killybegs Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Killybegs",
+          "swift_code": "KCRIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Killorglin Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Killorglin",
+          "swift_code": "KCUNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Killarney Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Killarney",
+          "swift_code": "KIROIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kilkerrin And Clonberne Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballinasloe",
+          "swift_code": "KCCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kildare Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kildare",
+          "swift_code": "KIRIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kilcullen Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kilcullen",
+          "swift_code": "KIRNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kilcormac Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kilcormac",
+          "swift_code": "KIRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kilcloon Parish And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kilcock",
+          "swift_code": "KPDCIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kenmare Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kenmare",
+          "swift_code": "KECUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kbl Bank Ireland",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "KBLFIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kbc Mortgage Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "KBMOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kbc Finance Ireland",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "KRSIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kanturk Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kanturk",
+          "swift_code": "KCRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jim Larkin Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "JLCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "James's St. Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "JACUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J And E Davy",
+      "branches": [
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "DAVEIE21BOS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "DAVEIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Irish Taxi Owners' Co-op Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ITOCIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Irish Life Investment Managers Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "IRLIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Irish Dental Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "IDCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Irg Public Limited Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "IRGPIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Leixlip And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Leixlip",
+          "swift_code": "LDCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Leighlin Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Leighlinbridge",
+          "swift_code": "LECIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lbl Finance (ireland) Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BELAIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Law Library Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "LLCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Larkhill And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "LDCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lanesboro' Ballyleague Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lanesboro",
+          "swift_code": "LBCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Landesbank Hessen Thueringen Girozentrale Irish Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "HELAIE41XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lambay Capital Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "LACLIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Koratrade Mtmc Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "KORAIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Knocklyon Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Knocklyon",
+          "swift_code": "KNCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kinvara And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kinvara",
+          "swift_code": "KDCOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kinsale And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kinsale",
+          "swift_code": "KDCIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kinnegad And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kinnegad",
+          "swift_code": "KDCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kingscourt Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingscourt",
+          "swift_code": "KIEIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kiltimagh District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kiltimagh",
+          "swift_code": "KDCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kilsaran Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Castlebellingham",
+          "swift_code": "KICNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kilrush Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kilrush",
+          "swift_code": "KIENIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kilronan-drumboylan Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Boyle",
+          "swift_code": "KICUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kilmallock Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kilmallock",
+          "swift_code": "KIEUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kilnamanagh Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "KICIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Donabate And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Donabate",
+          "swift_code": "DDCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Northern Trust Custodial Services (ireland) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "UBCSIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "North William Street Parish Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "NWSPIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "North Sligo Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sligo",
+          "swift_code": "NSCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "North Longford And Arva Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballinamuck",
+          "swift_code": "NLACIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nexgen Capital Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "NECLIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Newmarket Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Newmarket",
+          "swift_code": "NEEUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Newbridge Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Newbridge",
+          "swift_code": "NEROIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "New Ross Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "New Ross",
+          "swift_code": "NRCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nenagh Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nenagh",
+          "swift_code": "NERIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nemesis Asset Management Llp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "NAALIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Neillstown Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "NERUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nedgroup Investments Multifunds Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "NINMIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Irish Investment Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "NIIBIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Emission Trading Registry",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wexford",
+          "swift_code": "NETGIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nationwide Uk (ireland",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "NUKIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Naspa Dublin",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "GANUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Narraghmore Parish Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athy",
+          "swift_code": "NPCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Management International Dublin Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "MAIUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Milltown/clonskea Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "MIRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mallow Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mallow",
+          "swift_code": "MATNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Malahide And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin / Malahide",
+          "swift_code": "MDCIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Musicians' Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "MUCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mullingar Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mullingar",
+          "swift_code": "MURUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mullinahone Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Thurles",
+          "swift_code": "MURIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mulcair Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Newport",
+          "swift_code": "MURNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Muintir Skibbereen Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skibbereen",
+          "swift_code": "MSCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Muintir Clanna Caoilte Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Clonakilty",
+          "swift_code": "MCCRIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mufg Fund Services (ireland) Limited",
+      "branches": [
+        {
+          "branch_name": "Mufg Fund Services (ireland) Limited",
+          "city": "Dublin",
+          "swift_code": "MUFGIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moylough/mountbellew Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballinasloe",
+          "swift_code": "MOCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mountrath And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mountrath",
+          "swift_code": "MDRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mountmellick Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mountmellick",
+          "swift_code": "MOEOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Monte Paschi Ireland Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "MPILIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Monasterevan Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monasterevan",
+          "swift_code": "MOEIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Monasterboice Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Drogheda",
+          "swift_code": "MORNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Morgan Grenfell Fund Administration Services (ireland) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "MGFAIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Monaleen Parish Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Castletroy",
+          "swift_code": "MPRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Monaghan Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tirkeenan",
+          "swift_code": "MODIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mohill Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mohil",
+          "swift_code": "MOEUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mmi Stockbrokers Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "MMIBIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mitsubishi Trust Finance (ireland) Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "MFIIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mitchelstown Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mitchelstown",
+          "swift_code": "MIEUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Magennis And Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Newry",
+          "swift_code": "MAGEIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Madison Tyler Europe Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "MATUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Macroom Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macroom",
+          "swift_code": "MADOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sheephaven Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Letterkenny",
+          "swift_code": "SHCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Red Liquid Finance",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "RELFIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Realex Financial Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CPAYIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Portlaoise Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Portlaoise",
+          "swift_code": "POCOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Portarlington Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Portarlington",
+          "swift_code": "POCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pnc International Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "PNINIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Plassey Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Castletroy",
+          "swift_code": "PLCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pioneer Im",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "PIOEIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Piltown Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Piltown",
+          "swift_code": "PICUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Piercestown And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Murrintown",
+          "swift_code": "PDCIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Phibsboro And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "PDCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pfizer International Bank Europe",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "PFIEIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pettigo Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pettigoe",
+          "swift_code": "PERUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pennygold Trading Supplies",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "PETUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pearse Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "PECUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Passage West/monkstown Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Passage West",
+          "swift_code": "PWCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Parish Of Darver Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dundalk",
+          "swift_code": "PDRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Palmerstown Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "PAEUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Our Lady Crowned Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cork",
+          "swift_code": "OLCCIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oldcastle Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oldcastle",
+          "swift_code": "OLCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oasis Global Management Company (ireland) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "OASMIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Northern Trust International Fund Administration Services (ireland) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "IFMIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oughterard Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oughterard",
+          "swift_code": "OUCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rathkeale And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rathkeale",
+          "swift_code": "RDCLIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rathfarnham And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "RDCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rathdowney Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rathdowney",
+          "swift_code": "RACUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rathangan And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rathangan",
+          "swift_code": "RDRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ranelagh And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "RDCIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rathmore And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rathmore",
+          "swift_code": "RDRNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Raheny And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Raheny",
+          "swift_code": "RDCOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rabodirect (a Registered Name In Ireland Of Cooperratieve Raiffeisen-boerenleenbank Ba",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "RABIIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Quintillion Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "QUINIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Queen Of Peace Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limerick",
+          "swift_code": "QPCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rathvilly Parish Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rathvilly",
+          "swift_code": "RPCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prolific International Management (ireland) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "PIMIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prison Service Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "PSCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Premier Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "PRCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Positive Equity Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "POEQIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Portumna And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Portumna",
+          "swift_code": "PDCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Postbank Ireland Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "PTBKIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Portlaw/ballyduff Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Portlaw",
+          "swift_code": "PORUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shankill, Ballybrack And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin / Shankill",
+          "swift_code": "SBDCIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sfadco Staff Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Shannon",
+          "swift_code": "SSCOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shannon Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Shannon",
+          "swift_code": "SHRNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Setanta Asset Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "SESTIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sei Investments Global Fund Services Limited",
+      "branches": [
+        {
+          "branch_name": "Sei Investments Global Fund Services Limited",
+          "city": "Dublin",
+          "swift_code": "SEIFIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sarsfield Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limerick",
+          "swift_code": "SADNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sandymount Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "SADUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sallynoggin/glenageary Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dun Laoghaire",
+          "swift_code": "SARUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Waterford Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Waterford",
+          "swift_code": "WACIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Walkinstown Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "WACUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "W And W Advisory Dublin Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ADDUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "W And R Morrogh",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cork",
+          "swift_code": "MORRIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Volkswagen Bank Gmbh Branch Ireland",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "VOWAIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Virtu Financial Ireland Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "VIFIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Virginia Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Virginia",
+          "swift_code": "VICNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ulster Bank Ireland Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "UIBLIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vfi Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rathfarnham",
+          "swift_code": "VFCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tullycross Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Renvyle",
+          "swift_code": "TUCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tullow Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tullow",
+          "swift_code": "TUCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tullamore Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tullamore",
+          "swift_code": "TURUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tullaghought Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "TUCOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tubbercurry And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tubbercurry",
+          "swift_code": "TDCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trinity Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "TRRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tramore Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tramore",
+          "swift_code": "TRRNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tralee Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tralee",
+          "swift_code": "TRRIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tralee C.i.e. Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tralee",
+          "swift_code": "TRROIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Togher Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dunleer",
+          "swift_code": "TCRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tipperary Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tipperary",
+          "swift_code": "TICUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saint Valentine's Credit Union Limi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tallaght",
+          "swift_code": "SVCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saint Raphael's Garda Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "SRGCIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rush Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rush",
+          "swift_code": "RUCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rte Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "RTCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rowlagh Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ROCIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Roscrea Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Roscrea",
+          "swift_code": "RORNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Roscommon Institutional Investments Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ROIIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Roscommon Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Roscommon",
+          "swift_code": "RORUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rivervalley And Rathingle Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Swords",
+          "swift_code": "RRCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ringsend And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "RDCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rialto Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "RICUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Colman's (claremorris) Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Claremorris",
+          "swift_code": "CCRNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Canice's Kilkenny Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kilkenny",
+          "swift_code": "CKCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Brigid's Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Clara",
+          "swift_code": "BREIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Brendan's (ballygar) Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballygar",
+          "swift_code": "BBCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Bernard's Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bansha",
+          "swift_code": "BERUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Bernadette's Credit Union (limerick) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rosbrien",
+          "swift_code": "BCUIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Anthony's And Claddagh Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Galway",
+          "swift_code": "ACRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Ailbes Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caherconlish",
+          "swift_code": "AICUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Agnes Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "AGCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St James's Place International",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "JPLIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ss. Peter And Paul Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Clarecastle",
+          "swift_code": "PPCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Squared Financial Services Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "SQFSIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "South Hill Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limerick",
+          "swift_code": "SHRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sligo Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sligo",
+          "swift_code": "SLRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Slane Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Slane",
+          "swift_code": "SLCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skerries Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin / Skerries",
+          "swift_code": "SKCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skandia Life Ireland Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ROKLIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Zais Group Investment Advisors Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ZGIAIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Youghal Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Youghal",
+          "swift_code": "YOCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wicklow And District Credit Union L",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wicklow",
+          "swift_code": "WDCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wexford Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wexford",
+          "swift_code": "WECUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Westport Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Westport",
+          "swift_code": "WECIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "West Euro Finance Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "WEFLIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "West Cabra Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "WCCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sixmilebridge Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sixmilebridge",
+          "swift_code": "SICUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shercock Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Shercock",
+          "swift_code": "SHRIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shelbourne Markets",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "WOIRIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "M.p.c.c. Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mungret",
+          "swift_code": "MPCIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lucan District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lucan",
+          "swift_code": "LDCIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Louth Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dundalk",
+          "swift_code": "LORUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Louisburgh Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Louisburgh",
+          "swift_code": "LORIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lordship Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dundalk",
+          "swift_code": "LCRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Longford Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Longford",
+          "swift_code": "LORNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lombard Ireland Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "LUBIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Listowel Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Listowel",
+          "swift_code": "LICIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lismore And Cappoquin Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lismore",
+          "swift_code": "LCCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lisduggan District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisduggan",
+          "swift_code": "LDCOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Limerick C.i.e. Employees' Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limerick",
+          "swift_code": "LERUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lifford Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lifford",
+          "swift_code": "LICUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Milltown (kerry) Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Milltown",
+          "swift_code": "MKCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Letterkenny Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Letterkenny",
+          "swift_code": "LECOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lime Brokerage International (ireland) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "LIMRIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Millstreet Parish Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Millstreet",
+          "swift_code": "MPCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Midleton Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Midleton",
+          "swift_code": "MIRNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrion Stockbrokers Limited",
+      "branches": [
+        {
+          "branch_name": "Central Transaction Matching",
+          "city": "Dublin",
+          "swift_code": "MESBIE21CTM"
+        },
+        {
+          "branch_name": "Pershing Fixed Income Clearing",
+          "city": "Dublin",
+          "swift_code": "MESBIE21PCS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "MESBIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Metzler Ireland Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "MIRLIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrion Stockbrokers",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "METTIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mellifont Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Drogheda",
+          "swift_code": "METUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Menlough/skehana Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballinasloe",
+          "swift_code": "MEENIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mediolanum Asset Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "MEATIE21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ballsbridge",
+          "swift_code": "MEATIE2RXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tilman Asset Management Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "TIAAIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Mary's Parish Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limerick",
+          "swift_code": "MPCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Michael's Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cork",
+          "swift_code": "MICIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Mary's Navan Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Navan",
+          "swift_code": "MNCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Mary's Moynalty Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kells",
+          "swift_code": "MMCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Mary's Donnybrook Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "MDCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Loman's Trim Credit Union Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Trim",
+          "swift_code": "LTCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Lelia's Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballynanty Beg",
+          "swift_code": "LECUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Laurence O'toole's Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "LOCOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tallow Area Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tallow",
+          "swift_code": "TACUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Kevin's Parish Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "KPCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Joseph's Mayfield Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dillons Cross",
+          "swift_code": "JMCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Joseph's Aviation Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "JACNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Jarlath's Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tuam",
+          "swift_code": "JACIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. John's Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limerick",
+          "swift_code": "JOCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Gabriel's Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cork",
+          "swift_code": "GACUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Francis' Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ennis",
+          "swift_code": "FRCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Finbarr's South Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cork",
+          "swift_code": "FSCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Dominic Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Summerhill",
+          "swift_code": "DOROIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Declan's Ashbourne Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ashbourne",
+          "swift_code": "DACNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Columba's Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Galway",
+          "swift_code": "CLDOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Colmcille's (kells) Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kells",
+          "swift_code": "CKCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tallaght West Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "TWCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tallaght And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tallaght",
+          "swift_code": "TDCOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swords And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Swords",
+          "swift_code": "SDCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swinford And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Swinford",
+          "swift_code": "SDCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swilly-mulroy Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Letterkenny",
+          "swift_code": "SWCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Susquehanna Ireland Ltd (dublin",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "SUSHIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Susquehanna International Securities Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "SISSIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Susquehanna International Group Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "SITGIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Susquehanna Ireland Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "SUSQIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sundrive Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "SUCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Susquehanna International Group Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "SUIGIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stillorgan Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin / Stillorgan",
+          "swift_code": "STEIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Staff Of Superquinn Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "SSCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Scire Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Navan",
+          "swift_code": "SCRIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Paul's Garda Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cork",
+          "swift_code": "PGCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Patrick's Parish (limerick) Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limerick",
+          "swift_code": "PPLCIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Patrick's Credit Union (e.s.b. Staff) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "PCUEIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Susquehanna International Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "SUISIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Patrick's (cork) Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cork",
+          "swift_code": "PCCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thurles Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Thurles",
+          "swift_code": "THCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thomastown Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Thomastown",
+          "swift_code": "THCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Victory Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "VICUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Rosses Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Donegal Town",
+          "swift_code": "ROCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Mortgage Store",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ICSBIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Lough Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cork",
+          "swift_code": "LOCIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Lawrence Life Assurance Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "LAIRIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Irish Times Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ITCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Irish Stock Exchange Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "XDUBIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Investment Bank Of Ireland Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "IBIDIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Four Corners Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin / Rathcoole",
+          "swift_code": "FCCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Texaco Employees' Credit Union Limi Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "TERUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Termonfeckin Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Drogheda",
+          "swift_code": "TECOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Templeogue And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "TDCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Teachers' Union Of Ireland Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "TUIRIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Templemore Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Templemore",
+          "swift_code": "TERIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Td Global Finance",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "GLFIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tara And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dunsany",
+          "swift_code": "TDCIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tao Investment Managers Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "TAIMIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meath Street Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "MSCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mbna International Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "MBITIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mayorstone District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limerick",
+          "swift_code": "MDCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mayo-doonane Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Crettyard",
+          "swift_code": "MYCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maynooth Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maynooth",
+          "swift_code": "MYCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maxol Employees' Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "MMCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Matt Talbot Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "MTCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Marks And Spencer Financial Services Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "MSFSIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Marino Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "MADNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Naomh Padraig Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Galway",
+          "swift_code": "NPCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Naomh Breandain Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Loughrea",
+          "swift_code": "NBCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Manorhamilton And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manor Hamilton",
+          "swift_code": "MDCOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fas Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballsbridge",
+          "swift_code": "FACUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Farranree Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Farranree",
+          "swift_code": "FAEUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fairview Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "FARIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Naas Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Naas",
+          "swift_code": "NACUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ewt Dealing Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "EWDEIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Estuary Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Glin",
+          "swift_code": "ESCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Erris Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Belmullet",
+          "swift_code": "ERCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eperon",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "KBCAIE31XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ennistymon And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ennistymon",
+          "swift_code": "EDRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Enniscorthy Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Enniscorthy",
+          "swift_code": "ENCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Enfield Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Enfield",
+          "swift_code": "ENCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Emyvale District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Emyvale",
+          "swift_code": "EDCIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Employees' Inter-related Enterprises Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "EIECIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Elphin Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Elphin",
+          "swift_code": "ELCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "East Wall Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "EWCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "East Meath Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bettystown",
+          "swift_code": "EMCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "E-services And Communications Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ECCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dunshaughlin Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dunshaughlin",
+          "swift_code": "DCROIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dunnamaggin Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dunnamaggin",
+          "swift_code": "DURIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Durrow Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Durrow",
+          "swift_code": "DUROIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Glas Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "GSERIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Glanmire And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Glanmire",
+          "swift_code": "GDCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Glanbia Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kilkenny",
+          "swift_code": "GLABIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gaia Fx Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "GAIAIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Francis Street Parish And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "FSPDIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Foyle Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Moville",
+          "swift_code": "FOCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Foxrock And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "FDCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Forfas Staff Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "FSCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Firhouse Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "FITUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finglas Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "FIRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fideuram Asset Management (ireland) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "FAMDIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fexco Merchant Services",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Killorglin",
+          "swift_code": "FEXMIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fexco Corporate Payments",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Killorglin",
+          "swift_code": "FECPIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fexco",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Killorglin",
+          "swift_code": "FEXCIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fethard And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fethard",
+          "swift_code": "FDRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fermoy Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fermoy",
+          "swift_code": "FECNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fergus Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ennis",
+          "swift_code": "FECUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Faughart Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dundalk",
+          "swift_code": "FARUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ferbane And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ferbane",
+          "swift_code": "FDCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Zurich Insurance Plc",
+      "branches": [
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "ZURIIE2DCBE"
+        },
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "ZURIIE2DCDK"
+        },
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "ZURIIE2DCFI"
+        },
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "ZURIIE2DCFR"
+        },
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "ZURIIE2DCGB"
+        },
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "ZURIIE2DCIT"
+        },
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "ZURIIE2DCNL"
+        },
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "ZURIIE2DCNO"
+        },
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "ZURIIE2DCSE"
+        },
+        {
+          "branch_name": "Pb Solution",
+          "city": "Dublin",
+          "swift_code": "ZURIIE2DPBS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ZURIIE2DXXX"
+        },
+        {
+          "branch_name": "Zlap",
+          "city": "Dublin",
+          "swift_code": "ZURIIE2DZLA"
+        }
+      ]
+    },
+    {
+      "bank_name": "Zurich Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ZHBKIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wgz Bank Ireland Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "WGZIIE22XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "WGZIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wells Fargo Bank International",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "PNBPIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unicredit Bank Ireland Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "UNCRIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ulster Bank Ireland Ltd Dublin",
+      "branches": [
+        {
+          "branch_name": "Eco Dublin",
+          "city": "Dublin",
+          "swift_code": "ULSBIE2DECO"
+        },
+        {
+          "branch_name": "Money Desk",
+          "city": "Dublin",
+          "swift_code": "ULSBIE2DMDK"
+        },
+        {
+          "branch_name": "Capital Markets",
+          "city": "Dublin",
+          "swift_code": "ULSBIE2DUCM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ULSBIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Fund Services (Ireland) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "UBSWIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs (Luxembourg) Sa Dublin Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "UBSWIE3DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sumitomo Mitsui Finance (Dublin) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "SMFDIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Street Fund Services (Ireland) Limited",
+      "branches": [
+        {
+          "branch_name": "Transfer Agency Department",
+          "city": "Dublin",
+          "swift_code": "SBOSIE2DTAD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "SBOSIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Smurfit Kappa Treasury",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "SMKTIE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Athea And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athea",
+          "swift_code": "ADCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Athboy Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athboy",
+          "swift_code": "ATCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arklow Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Arklow",
+          "swift_code": "ARRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ardfinnan Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Clonmel",
+          "swift_code": "ARRNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ardee Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ardee",
+          "swift_code": "ARCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arainn Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kilronan",
+          "swift_code": "ARRIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arch Reinsurance Europe",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ARRPIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Anp International Finance Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "AFRNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Annaduff Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dromod",
+          "swift_code": "ANCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aonach Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "AOCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "An Post Employees' Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "EMCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "An Post Or, In The English Language, The Post Offce",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "PSTSIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aig Investments Ireland Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "AIGCIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alnista Growth Fund Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ALGFIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aib Mortgage Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "AIMBIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aib Finance Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "AIFIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aib Capital Markets Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "AICMIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Investment And Underwriting",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "INIRIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hacketstown And Tinahely Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hacketstown",
+          "swift_code": "HTCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aib Capital Markets Public Limited Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ACMOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gurranabraher Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cork",
+          "swift_code": "GUCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Guinness And Mahon (ireland) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "GUMIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Greystones And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Greystones",
+          "swift_code": "GDCIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Greenhills And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "GDCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Granard Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Granard",
+          "swift_code": "GRRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Graiguenamanagh Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Graiguenamanagh",
+          "swift_code": "GRCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gosmore Investments",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "GOIVIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gorey Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gorey",
+          "swift_code": "GOCIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Goresbridge Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Goresbridge",
+          "swift_code": "GOCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gort Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gort",
+          "swift_code": "GORUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Google Ireland Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "GOOGIE31XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Google Ireland Holdings",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "GOOGIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Goodbody Stockbrokers",
+      "branches": [
+        {
+          "branch_name": "Dublin 4",
+          "city": "Dublin",
+          "swift_code": "GDBSIE21003"
+        },
+        {
+          "branch_name": "Dublin 4",
+          "city": "Dublin",
+          "swift_code": "GDBSIE21004"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "GDBSIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Goldman Sachs Private Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "GOSVIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Globeop Financial Services (ireland) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin Dublin",
+          "swift_code": "GLOPIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Reach Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "GLRSIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "GLAAIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Glenamaddy Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Glenamaddy",
+          "swift_code": "GLCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Glasthule-dun Laoghaire District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin / Dun Laoghaire",
+          "swift_code": "GLDRIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intercontinental Finance",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ICFDIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inora Life",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "IOLIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inniskeen Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dundalk",
+          "swift_code": "ICRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inishowen Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Carndonagh",
+          "swift_code": "IICNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Indogroup Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "IDCIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inchicore And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "IDCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "I1u Asset Strategies Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ASTGIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Securities Services (ireland)ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "HSSDIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Ireland (holdings) Public Limited Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BBDAIE31XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Howth Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Howth",
+          "swift_code": "HOCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Holy Family Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dundalk",
+          "swift_code": "HFCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hibernian Investment Managers Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "HINAIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hewlett-packard International Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Leixlip",
+          "swift_code": "HEINIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hewlett Packard International Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "HEPIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Helaba International Finance Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "HELAIE31XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Helaba Asset Services(formerly Landesbank Hessen Thueringen International",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "HELAIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Health Services Staffs Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "HSSRIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Harold's Cross And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "HCDCIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Halston Street Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "HSCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Achill Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Achill",
+          "swift_code": "ACCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ac Capital Partners Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CPATIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ballinasloe Credit Union (our Lady Of Lourdes) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballinasloe",
+          "swift_code": "BCUOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ballinamore Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballinamore",
+          "swift_code": "BLRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ballina Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballina",
+          "swift_code": "BLCIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ballaghaderreen And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballaghaderreen",
+          "swift_code": "BDCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Baldoyle And Portmarnock Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BPEUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Balbriggan Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin / Balbriggan",
+          "swift_code": "BLCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bailieborough Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bailieborough",
+          "swift_code": "BIRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bagenalstown Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bagenalstown",
+          "swift_code": "BGCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "B.c.p. Stockbrokers Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BCPKIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "B And S Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballybofey",
+          "swift_code": "CRUNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ayrfield Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "AYCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "B.h.k. Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dundalk",
+          "swift_code": "BHCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Avonmore Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rathdrum",
+          "swift_code": "AVCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ava Capital Markets Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "AVACIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aughrim Street Parish And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ASPDIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Athlone Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athlone",
+          "swift_code": "ATROIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Athy Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athy",
+          "swift_code": "ATEUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Baltinglass Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baltinglass",
+          "swift_code": "BLDOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Athenry Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athenry",
+          "swift_code": "ATRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ballyshannon Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballyshannon",
+          "swift_code": "BLDIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ballyphehane Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cork",
+          "swift_code": "BCDUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ballyragget And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballyragget",
+          "swift_code": "BDRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ballymurn Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Enniscorthy",
+          "swift_code": "BLTIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ballymun Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballymun",
+          "swift_code": "BLDNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ballymote And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballymote",
+          "swift_code": "BDCLIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ballymahon And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballymahon",
+          "swift_code": "BDCOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ballyjamesduff Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballyjamesduff",
+          "swift_code": "BLDUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ballyhaunis And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballyhaunis",
+          "swift_code": "BDCIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ballygall Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BLTNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ballyfermot Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BLTUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ballyconnell Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballyconnell",
+          "swift_code": "BLTOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ballybunion Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballybunion",
+          "swift_code": "BLEIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ballybay Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballybay",
+          "swift_code": "BLENIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ballon And Rathoe Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballon",
+          "swift_code": "BRCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ballivor-kildalkey Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballivor",
+          "swift_code": "BLROIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ballinrobe Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballinrobe",
+          "swift_code": "BLRIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Borrisokane Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Borrisokane",
+          "swift_code": "BORUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bord Gais Employees' Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BGECIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bny Mellon Global Funds, Public Limited Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "MEGFIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bny Mellon Fund Services (ireland) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BMFEIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bloxham Stockbrokers",
+      "branches": [
+        {
+          "branch_name": "Back Office",
+          "city": "Dublin",
+          "swift_code": "BLOXIE21BKO"
+        },
+        {
+          "branch_name": "Model B Business",
+          "city": "Dublin",
+          "swift_code": "BLOXIE21OBC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BLOXIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Blessington And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Blessington",
+          "swift_code": "BDRIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Blarney Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Blarney",
+          "swift_code": "BLIIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Blackrock Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin / Blackrock",
+          "swift_code": "BLIUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Blanchardstown And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Blanchardstown",
+          "swift_code": "BDRNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Blackpool Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cork",
+          "swift_code": "BLIOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bishopstown Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cork",
+          "swift_code": "BIRIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Black Raven Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tallaght",
+          "swift_code": "BREOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Birr Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Birr",
+          "swift_code": "BIRNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Berehaven Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Castletownbere",
+          "swift_code": "BERIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bennettsbridge Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bennettsbridge",
+          "swift_code": "BEENIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bear Stearns Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BESNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Belfield Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BEEUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bantry Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bantry",
+          "swift_code": "BNRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankia Sa Irish Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CAHMIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankers Trust International Plc (bti",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BKTIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clogherhead Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Clogherhead",
+          "swift_code": "CLIUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caherciveen Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caherciveen",
+          "swift_code": "CADNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Castleblayney Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Castleblayney",
+          "swift_code": "CSRIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cabra Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CBRNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "C.i.e. Staff (cork) Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cork",
+          "swift_code": "SCRNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "C.i.e. (galway) Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Galway",
+          "swift_code": "GACNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "C.i.e. Employees Dundalk Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dundalk",
+          "swift_code": "EDCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Buttevant And Doneraile Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buttevant",
+          "swift_code": "DOCIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Buncrana Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Buncrana",
+          "swift_code": "BURUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bunclody Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Enniscorthy",
+          "swift_code": "BURNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bruff Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bruff",
+          "swift_code": "BRROIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brown Brothers Harriman Trustee Services (ireland), Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BBHTIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brown Brothers Harriman Fund Administration Services (ireland), Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BBHFIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brooks Thomas Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BTCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Broadstone C.i.e. Employees' Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BREEIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bray Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bray",
+          "swift_code": "BRRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bpv Finance (international) Public Limited Compan Y",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BPVIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brandes Investment Partners (europe",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BIPEIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bpm Ireland Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BPMIIE21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BPMIIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bpb International Finance Plc (banca Populare Di Bergamo-cv Banking Group",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BEPOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Boyle Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Boyle",
+          "swift_code": "BORNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bos (ireland) Funding Public Limited Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "ICIVIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Castlebar Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Castlebar",
+          "swift_code": "CSRNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Castle Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CSDIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cashel-connemara Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Connemara",
+          "swift_code": "CSDUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carrickmacross Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Carrickmacross",
+          "swift_code": "CIENIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carrickbrennan Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dun Laoghaire",
+          "swift_code": "CIDUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cashel Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cashel",
+          "swift_code": "CSRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carrick-on-suir Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Carrick-on-suir",
+          "swift_code": "CIEOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carrick-on-shannon And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Carrick-On-Shannon",
+          "swift_code": "CDCIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carnew Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Carnew",
+          "swift_code": "CNCNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carlow District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Askea",
+          "swift_code": "CDEUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capmark Services Ireland Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mullingar",
+          "swift_code": "CMBEIE31XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capitaifs Ireland Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CPIRIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capita International Financial Services Limited",
+      "branches": [
+        {
+          "branch_name": "Dublin",
+          "city": "Dublin",
+          "swift_code": "SPVWIE2DBPV"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capella Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CPSEIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cana Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CNRNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Campbell O'connor And Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CAMRIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Callan Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Callan",
+          "swift_code": "CLRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cahir Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cahir",
+          "swift_code": "CHCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caherdavin And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Redgate",
+          "swift_code": "CDEIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clearstream Hedge Funds Services Dublin",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CFSDIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cleariestown Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bridgetown",
+          "swift_code": "CLCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clanmaurice Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tralee",
+          "swift_code": "CLIOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Civil Service Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CSDOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citybus Employees' Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CEEUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citi Fund Services (ireland), Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "BSYSIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Christows Ltd (branch Office",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CHRFIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Christows Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CHRWIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Charleville Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Charleville",
+          "swift_code": "CHRUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "CERNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Celbridge District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Celbridge",
+          "swift_code": "CDRNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cavan Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cavan",
+          "swift_code": "CVCUIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cathedral Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cork",
+          "swift_code": "CTCIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Castlerea And District Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Castlerea",
+          "swift_code": "CDCEIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Castlepollard Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Castlepollard",
+          "swift_code": "CSEOIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Castlelost Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rochfortbridge",
+          "swift_code": "CSTNIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Castledermot Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Castledermot",
+          "swift_code": "CSEIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Castleconnell/ahane Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Castleconnell",
+          "swift_code": "CSIIIE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Castlecomer Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Castlecomer",
+          "swift_code": "CSENIE21XXX"
+        }
+      ]
+    }
+  ]
+}

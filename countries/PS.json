@@ -1,0 +1,547 @@
+{
+  "country_name": "Palestine, State of",
+  "alpha_2": "PS",
+  "country_code": "275",
+  "banks": [
+    {
+      "bank_name": "Wataniya Securities Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "WATTPS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Securities Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "UNTEPS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The National Bank Plc (formerly Al Rafah Microfinance Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "TNBCPS22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Housing Bank For Trade And Finance/ramallah",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "HBHOPS22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Clearing, Depository And Settlement Departmen(cds",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nablus",
+          "swift_code": "CDSEPS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Target Jordan Palestine Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "TJPSPS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Target Investment Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nablus",
+          "swift_code": "TARVPS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sahem Trading And Investment Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "STIPPS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Quds Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "ALDNPS22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Palestinian Islamic Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gaza",
+          "swift_code": "PISBPS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Palestine Securities Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nablus",
+          "swift_code": "XPAEPS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Palestine Monetary Authority",
+      "branches": [
+        {
+          "branch_name": "Ramallah",
+          "city": "Ramallah",
+          "swift_code": "PMAPPS22ACH"
+        },
+        {
+          "branch_name": "Authorized Settlement Agenrt",
+          "city": "Ramallah",
+          "swift_code": "PMAPPS22ASA"
+        },
+        {
+          "branch_name": "Csd",
+          "city": "Al-bireh",
+          "swift_code": "PMAPPS22PEX"
+        },
+        {
+          "branch_name": "Technical Infratructure Agent",
+          "city": "Ramallah",
+          "swift_code": "PMAPPS22TIA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Al-bireh",
+          "swift_code": "PMAPPS22XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "PMAPPS2PXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Palestine Islamic Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "PIBCPS22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Palestine Investment Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "PINVPS22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Palestine Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "PCBQPS22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nawras Brokerage Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bethlehem",
+          "swift_code": "NAWRPS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Company For Securities Investment",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "NCSIPS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lotus Financial Investment Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "LOFNPS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jordan Palestine Co. For Financial Investment",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "JOPFPS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jordan Gulf Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gaza",
+          "swift_code": "JGBAPS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jordan And Palestine Investment Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "JPAIPS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jordan Ahli Bank-plc Foreign Public Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "JONBPS22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Securities Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nablus",
+          "swift_code": "GLSUPS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Palestine Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "PALSPS22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Islamic Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "AISBPS22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alwasta Securities Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "ALWSPS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Wasata Securities Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gaza",
+          "swift_code": "WASUPS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Qudus Bank For Development And Investment",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gaza",
+          "swift_code": "QUDSPS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Nawras Financial Investment Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bethlehem",
+          "swift_code": "NAFIPS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jordan Kuwait Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "JKBAPS22XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "JKBAJOAMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jordan Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "JCBAPS22XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "JGBAJOAMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cairo Amman Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "CAABPS22XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "CAABJOAMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Arabi Investment Group Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "ARIRPS21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "ATIGJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Jordan Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "BJORPS22XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "BJORJOAXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Egyptian Arab Land Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "ARLBPS22XXX"
+        },
+        {
+          "branch_name": "Mit Ghamr New Branch",
+          "city": "Mit Ghamr",
+          "swift_code": "ARLBEGC1MTG"
+        },
+        {
+          "branch_name": "New Branch",
+          "city": "Shibin El Kom",
+          "swift_code": "ARLBEGC1SHB"
+        },
+        {
+          "branch_name": "New Branch",
+          "city": "Tanta",
+          "swift_code": "ARLBEGC1TN2"
+        },
+        {
+          "branch_name": "Alexandria Branch",
+          "city": "Alexandria",
+          "swift_code": "ARLBEGCAALX"
+        },
+        {
+          "branch_name": "Arish",
+          "city": "Arish",
+          "swift_code": "ARLBEGCAARI"
+        },
+        {
+          "branch_name": "Aswan",
+          "city": "Aswan",
+          "swift_code": "ARLBEGCAASW"
+        },
+        {
+          "branch_name": "Cairo Branch",
+          "city": "Cairo",
+          "swift_code": "ARLBEGCACAI"
+        },
+        {
+          "branch_name": "Domiat",
+          "city": "Domiat",
+          "swift_code": "ARLBEGCADIM"
+        },
+        {
+          "branch_name": "Giza",
+          "city": "Giza",
+          "swift_code": "ARLBEGCADOK"
+        },
+        {
+          "branch_name": "Heliopolic Branch",
+          "city": "Cairo",
+          "swift_code": "ARLBEGCAHIL"
+        },
+        {
+          "branch_name": "Holwan Branch",
+          "city": "Cairo",
+          "swift_code": "ARLBEGCAHOL"
+        },
+        {
+          "branch_name": "Hurghada",
+          "city": "Hurghada",
+          "swift_code": "ARLBEGCAHRG"
+        },
+        {
+          "branch_name": "Ismailia",
+          "city": "Ismailia",
+          "swift_code": "ARLBEGCAISM"
+        },
+        {
+          "branch_name": "Luxor",
+          "city": "Luxor",
+          "swift_code": "ARLBEGCALUX"
+        },
+        {
+          "branch_name": "El Mansoura",
+          "city": "El Mansoura",
+          "swift_code": "ARLBEGCAMAN"
+        },
+        {
+          "branch_name": "Marsa Matrouh",
+          "city": "Marsa Matrouh",
+          "swift_code": "ARLBEGCAMAT"
+        },
+        {
+          "branch_name": "El Menia",
+          "city": "El Menia",
+          "swift_code": "ARLBEGCAMIN"
+        },
+        {
+          "branch_name": "Mashhady Branch",
+          "city": "Cairo",
+          "swift_code": "ARLBEGCAMOF"
+        },
+        {
+          "branch_name": "Mohadessen Branch",
+          "city": "Cairo",
+          "swift_code": "ARLBEGCAMOH"
+        },
+        {
+          "branch_name": "El Nasr Branch",
+          "city": "Cairo",
+          "swift_code": "ARLBEGCANSR"
+        },
+        {
+          "branch_name": "6th Of October",
+          "city": "6th Of October",
+          "swift_code": "ARLBEGCAOCT"
+        },
+        {
+          "branch_name": "Port Said",
+          "city": "Port Said",
+          "swift_code": "ARLBEGCAPOR"
+        },
+        {
+          "branch_name": "Shorouk",
+          "city": "Shorouk",
+          "swift_code": "ARLBEGCASHR"
+        },
+        {
+          "branch_name": "Talat Harb Branch",
+          "city": "Alexandria",
+          "swift_code": "ARLBEGCATLH"
+        },
+        {
+          "branch_name": "Tanta",
+          "city": "Tanta",
+          "swift_code": "ARLBEGCATNT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Giza",
+          "swift_code": "ARLBEGCAXXX"
+        },
+        {
+          "branch_name": "El Zagazig",
+          "city": "El Zagazig",
+          "swift_code": "ARLBEGCAZAG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "ARLBJOAMXXX"
+        }
+      ]
+    }
+  ]
+}

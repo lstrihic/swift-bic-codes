@@ -1,0 +1,4847 @@
+{
+  "country_name": "Indonesia",
+  "alpha_2": "ID",
+  "country_code": "360",
+  "banks": [
+    {
+      "bank_name": "Indocitra Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "INDRIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Indofinancia Pratama, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "INDPIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nikko Securities Indonesia Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "NIKKIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Niki Asia Securindo, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "NIAEIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mentari Securindo, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MENEIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mega Investa, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MEGNIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mashill Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MAHUIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jasereh Utama Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "JAUTIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kapita Sekurindo, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "KAPSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "W.i. Carr Indonesia,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "WICAIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Victoria Sekuritas Pt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "TASMIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uob Kay Hian Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "UKHEIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tunasmulia Invesindokarsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "TUNMIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vickers Ballas Tamara Pt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "TRSEIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tunasmulia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Surabaya",
+          "swift_code": "TUNAIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tunas Perdana Securindo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "TUNPIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tobeli Pasifik,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "TOBEIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unisecurindo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "UNIRIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tegardinamika Abadi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "TEGAIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tifa Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "TIFAIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swadana Cipta Efekindo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SWADIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Transpacific Securindo Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "TRAEIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tataguna Sarana Efek",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "TASFIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yama Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BYAMIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wardley James Capel Ind. Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "WJCAIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Surabaya Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "XSURIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sumber Artha Invesindo,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Surabaya",
+          "swift_code": "SUAIIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sucorinvest Central Gani Pt",
+      "branches": [
+        {
+          "branch_name": "Surabaya",
+          "city": "Surabaya",
+          "swift_code": "SUCGIDJ10JD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SUCGIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Surabaya Artha Invesindo,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Surabaya",
+          "swift_code": "SUANIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Srikandi Securities Invesindo, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SRSIIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Ind., Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "STCIIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jasabanda Garta, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "JASGIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jasa Jakarta Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "JAJSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jalur Artha Wahana, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "JAAWIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.p Morgan Securities Indonesia Jakarta, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "CHASIDS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intisekuriti Investama, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "INTMIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inti Fikasa Sekurindo, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "INFEIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interindo Danapraya, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "INTYIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interasia Sekuritindo, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "INTDIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inter-pacific Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "INSSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Infinity Investama,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "NUSCIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jakarta Negotiated Board",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "XJNBIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Indoverse Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "INDTIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intan Artha, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "INTHIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Indovest Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "INOSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Indover Sekuritas Co., Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "INDKIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Indonesia Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "XJKTIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maryloone Mentari, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MARNIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inti Teladan Arthaswadata,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Surabaya",
+          "swift_code": "INTLIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Makefin, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MAKEIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Malysa Anugrah, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MALNIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maksurindo,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Surabaya",
+          "swift_code": "MAKUIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lumbung Persada Khatulistiwa, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "LUPKIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Madah Pacific, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MADPIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Layang Mega, Pt",
+      "branches": [
+        {
+          "branch_name": "Surabaya",
+          "city": "Surabaya",
+          "swift_code": "LAYMIDJ10JD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "LAYMIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lautandhana Securindo, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "LAUSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kwik Chandra Martoatmodjo, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "KWCMIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lamganda Citra Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "LACSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kharisma Mulatama, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "KHAMIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kestrel Sekuritas Indonesia,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "KESIIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kim Eng Securities, P.t.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "KMESIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kes Sinarmas Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "KESUIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kartika Investindo Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "KARIIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Makindo Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SEMAIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kapitalindo Utama, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "KAPUIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Niaga Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "NIASIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Natura Pacific, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "NATPIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Natin Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "NNBKIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Namalatu Ronesina, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "NAMRIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Murni Segara Lestari, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MUSLIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Multiprakarsa Investama, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MULIIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Multicor Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MULSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Multi Pengelola Danaprima, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MUPDIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Muara Securities",
+      "branches": [
+        {
+          "branch_name": "Muara Securities",
+          "city": "Jakarta",
+          "swift_code": "MULMIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Muamalat",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Semarang",
+          "swift_code": "MUAMIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mitraconvest, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MITRIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mitra Tatadhana, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MITAIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mitra Duta Securitas, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MIDUIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mifcor Sekuritas, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MIFSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Metropolitan Securinvest, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "METSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch Indonesia, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MLIOIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merincorp Securindo, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MEREIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pratama Penaganartha, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "PRAEIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prasasta Paperasia, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "PRAPIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pranata Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Surabaya",
+          "city": "Surabaya",
+          "swift_code": "PRASIDJ10JD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "PRASIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pos Indonesia",
+      "branches": [
+        {
+          "branch_name": "Pos Indonesia",
+          "city": "Bandung",
+          "swift_code": "POIDIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Metro Sukma Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MESEIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pranata Invesindo, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "PRAIIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Piranti Ciptadhana Amerta Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "PCASIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Peregrine Securities Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "PESSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pentasena Arthasentosa, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "PENRIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pendawa Dana Mandiri, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "PEDMIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pdfci Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "PDFSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Patriatama Danamandiri, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "PATDIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Paribas Asia Equity, P.t.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "AEHLIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Panin Capital, Pt",
+      "branches": [
+        {
+          "branch_name": "Surabaya",
+          "city": "Surabaya",
+          "swift_code": "PANCIDJ10JD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "PANCIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Paramitra Yamasekuritas, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "PARYIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pandurama Sekuritas, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "PANEIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pancasumber Dhanamandiri,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Surabaya",
+          "swift_code": "PANMIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Paramitra Alfa Sekuritas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "PEKUIDL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "P.t. Samsung Electronics Indonesia",
+      "branches": [
+        {
+          "branch_name": "Sein",
+          "city": "Bekasi",
+          "swift_code": "SECTIDJ1570"
+        },
+        {
+          "branch_name": "Stin",
+          "city": "Jakarta",
+          "swift_code": "SECTIDJ1571"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bekasi",
+          "swift_code": "SECTIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "P. T. Nomura Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "NOMIIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ocbc Sikap Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "OCSSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Putra Juang Sekupindo, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "PUJSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Putera Master Sekuritas, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "PUMSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Supra Securinvest",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SUPEIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Sarijaya Permana Sekuritas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "TEDAIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Rhb Osk Securities Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ONSNIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Rbs Asia Securities Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "HGASIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Macquarie Capital Securities Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "IBSEIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Lippo Securities Tbk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tangerang",
+          "swift_code": "LIPSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Pacific 2000 Investindo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "STOIIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Kresna Graha Sekuritas Tbk",
+      "branches": [
+        {
+          "branch_name": "Pt Kresna Graha Sekuritas Tbk",
+          "city": "Jakarta",
+          "swift_code": "KGSTIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Fitch Ratings Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "FRIPIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Credit Suisse Securities Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "CRESIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Buana Capital",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BUNCIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Bnp Paribas Investment Partners",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BPIEIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Danatama Makmur Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "DANMIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Bhakti Investama, Tbk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BHANIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Bank Maspion Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Surabaya",
+          "swift_code": "MASDIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Bank Indovest Tbk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "INDIIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Cimb Securities Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "GOHOIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Primasia Securities Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MANRIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Antaboga Delta Sekuritas Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ADSIIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sinarmas Sekuritas, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SINKIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Abacus Capital Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "PTACIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sigma Batara Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SIGBIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Seruni Tunggal, Pt",
+      "branches": [
+        {
+          "branch_name": "Surabaya",
+          "city": "Surabaya",
+          "swift_code": "SERNIDJ10JD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SERNIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sertivia Securitas, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SERCIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Semesta Indovest, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SEMIIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sekuritas Indo Pasifik Investasi,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Surabaya",
+          "swift_code": "SEIPIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sekuritas Indopasific Inv., Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SEIIIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sekurindo Pratama, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SEKPIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sassoon Securities Limited, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SASRIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sarana Efekindo, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SAREIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sanyo Primarindo Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SAPSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saka Carry Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SACCIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Safindo Mediadana, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SAFMIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rita Wijaya Kencana, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "RIWKIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rekaprima Sekuritas, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "REKSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Redialindo Mandiri, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "REDMIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ravindo Securitama, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "RAVSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rashid Hussain Securities Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "RHUSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ramayana Artha Perkasa, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "RAASIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Putra Saridaya Persada, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "PUSPIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt.phillip Securities Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "PHSPIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Mandiri Sekuritas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MASKIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Optima Kharya Capital Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SHKSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Waterfront Securities Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "PARIIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Danareksa Sekuritas",
+      "branches": [
+        {
+          "branch_name": "Surabaya",
+          "city": "Surabaya",
+          "swift_code": "DANCIDJ10JD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "DANCIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Panin Sekuritas Tbk.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "PANUIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Citigroup Securities Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "CITIIDX1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Mahakarya Artha Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MAASIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Bumiputera Capital Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "FISNIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Bank Windu Kentjana International, Tbk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BWKIIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Bank Sumut",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Medan",
+          "swift_code": "PDSUIDSAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Bank Nisp Tbk",
+      "branches": [
+        {
+          "branch_name": "Bogor Branch",
+          "city": "Bogor",
+          "swift_code": "NISPID610J3"
+        },
+        {
+          "branch_name": "Bandung Branch",
+          "city": "Andir",
+          "swift_code": "NISPID610J4"
+        },
+        {
+          "branch_name": "Cimahi Branch",
+          "city": "Cimahi",
+          "swift_code": "NISPID610J5"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "NISPID61XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Bnp Paribas Securities Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "PBPEIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Bank Mayora",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MAYOIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Bank Maspion Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Surabaya",
+          "swift_code": "MASDIDJSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Bank Hagakita",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BHAGIDS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Trimegah Securities Tbk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "TRSSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Ubs Securities Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SBWIIDJ1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SBWNIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Indo Premier Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "INPUIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ifibank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "IFIBIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ichiyoshi Alfa Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ICASIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Securities Indonesia Pt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "HSSEIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Henan Putihrai, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "HENPIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Harumdana Sekuritas Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SEKHIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Harpakencana Sekuritas, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "HARKIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Halim Indonesia Bank,pt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Surabaya",
+          "swift_code": "HAINIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gentapastado Abadi, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "GENDIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Garudapara Invesindo, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "GARIIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gawang Rejeki, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "GAWRIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Floreta Purwa Artha, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "FLPAIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ganda Surya Sekuritas, Pt",
+      "branches": [
+        {
+          "branch_name": "Surabaya",
+          "city": "Surabaya",
+          "swift_code": "GASSIDJ10JD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "GASSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finan Corpindo Nusa, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "FICNIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Exim Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "EXISIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Erdhika Mualatama Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ERMSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "E-capital Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SURAIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eficorp Sekuritas Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SATSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Mandiri (Persero), Pt",
+      "branches": [
+        {
+          "branch_name": "Bills Processing Center Bandung",
+          "city": "Bandung",
+          "swift_code": "BMRIIDJA852"
+        },
+        {
+          "branch_name": "Bills Processing Center Jakarta",
+          "city": "Jakarta",
+          "swift_code": "BMRIIDJA107"
+        },
+        {
+          "branch_name": "Head Office-custodial Services",
+          "city": "Jakarta",
+          "swift_code": "BMRIIDJACUS"
+        },
+        {
+          "branch_name": "Head Office-export-import Dept",
+          "city": "Jakarta",
+          "swift_code": "BMRIIDJAEXM"
+        },
+        {
+          "branch_name": "Head Office-settlement Dept",
+          "city": "Jakarta",
+          "swift_code": "BMRIIDJASTL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BMRIIDJAXXX"
+        },
+        {
+          "branch_name": "Bills Processing Center Medan",
+          "city": "Medan",
+          "swift_code": "BMRIIDJA853"
+        },
+        {
+          "branch_name": "Bills Processing Center Semarang",
+          "city": "Semarang",
+          "swift_code": "BMRIIDJA854"
+        },
+        {
+          "branch_name": "Bills Processing Center Surabaya",
+          "city": "Surabaya",
+          "swift_code": "BMRIIDJA851"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Kesawan Pt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "AWANIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Jateng",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Semarang",
+          "swift_code": "PDJGIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Mega Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MEGAIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Ekonomi Raharja Pt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "EKONIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Dki, Pt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BDKIIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Ganesha",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "GNESIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Commonwealth",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BICNIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Chinatrust Indonesia, Pt",
+      "branches": [
+        {
+          "branch_name": "Bandung Branch",
+          "city": "Bandung",
+          "swift_code": "CTCBIDJABDG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "CTCBIDJAXXX"
+        },
+        {
+          "branch_name": "Surabaya Branch",
+          "city": "Surabaya",
+          "swift_code": "CTCBIDJASBY"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Central Asia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "CENAIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Bukopin",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BBUKIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Bnp Paribas Indonesia, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BNPAIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Artha Graha Internasional Tbk, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ARTGIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Antardaerah",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Surabaya",
+          "swift_code": "ANTDIDJDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Dbs Indonesia, Pt",
+      "branches": [
+        {
+          "branch_name": "Jakarta Branch",
+          "city": "Jakarta",
+          "swift_code": "DBSBIDJAIBD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "DBSBIDJAXXX"
+        },
+        {
+          "branch_name": "Syrabaya Branch",
+          "city": "Surabaya",
+          "swift_code": "DBSBIDJASBY"
+        }
+      ]
+    },
+    {
+      "bank_name": "Anz Panin Bank, P.T.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ANZBIDJXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dwipanca Rijeki, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "DWIIIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of India Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BKIDIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citramas Securindo,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "CITUIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arya Prada Sekuritas, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ARPSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Indonesia Eximbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BEXIIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Artha Securities Prima, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ARSRIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Adithya Securinvest, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ADISIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abadi Sekuritas Adimasa, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ABSDIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abadi Prisma Ekamandiri, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ABPEIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Woori Bank, Indonesia P.T. Jakarta",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "HVBKIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Royal Bank Of Scotland N.V. Jakarta Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ABNAIDJAXXX"
+        },
+        {
+          "branch_name": "Surabaya Branch",
+          "city": "Surabaya",
+          "swift_code": "ABNAIDJASBA"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Bank Victoria Internasional, Tbk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BVICIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Bank Syariah Muamalat Indonesia , Tbk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MUABIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Bank Syariah Mega Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BMSIIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Bank Sbi Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SBIDIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Bank Pembangunan Daerah Sumatera Selatan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Palembang",
+          "swift_code": "BSSPIDSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Bank Pembangunan Daerah Bali",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Denpasar",
+          "swift_code": "ABALIDBSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Bank Pembangunan Daerah Jawa Barat Dan Banten, Tbk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bandung",
+          "swift_code": "PDJBIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Bank Mayapada International Tbk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MAYAIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Bank Jatim",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Surabaya",
+          "swift_code": "BJTMIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Bpd Sumatera Barat (Bank Nagari)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Padang",
+          "swift_code": "PDSBIDSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Bank Mutiara Tbk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "CICTIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Bank Himpunan Saudara 1906, Tbk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bandung",
+          "swift_code": "BSDRIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Tabungan Negara (Persero), Pt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BTANIDJAXXX"
+        },
+        {
+          "branch_name": "60271 Surabaya",
+          "city": "Surabaya",
+          "swift_code": "BTANIDJ10JD"
+        },
+        {
+          "branch_name": "20151 Medan",
+          "city": "Medan",
+          "swift_code": "BTANIDJ10SS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Syariah Mandiri",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BSMDIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Sumitomo Mitsui Indonesia, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SUNIIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Sinarmas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SBJKIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Resona Perdania Pt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BPIAIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Rabobank International Indonesia, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "RABOIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Pembangunan Daerah Kalimantan Timur",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Samarinda",
+          "swift_code": "PDKTIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of China, Jakarta Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BKCHIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Nusantara Parahyangan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bandung",
+          "swift_code": "NUPAIDJ6XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of America, N.A. Jakarta Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BOFAID2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Negara Indonesia - Pt (Persero)",
+      "branches": [
+        {
+          "branch_name": "Bandar Lampung Branch",
+          "city": "Bandar Lampung",
+          "swift_code": "BNINIDJABDL"
+        },
+        {
+          "branch_name": "Balige Branch",
+          "city": "Balige",
+          "swift_code": "BNINIDJABLG"
+        },
+        {
+          "branch_name": "Banda Aceh Branch",
+          "city": "Banda Aceh",
+          "swift_code": "BNINIDJABDA"
+        },
+        {
+          "branch_name": "Ambon Branch",
+          "city": "Ambon",
+          "swift_code": "BNINIDJAABN"
+        },
+        {
+          "branch_name": "Balikpapan Branch",
+          "city": "Balikpapan",
+          "swift_code": "BNINIDJABPN"
+        },
+        {
+          "branch_name": "Pandansari Branch",
+          "city": "Balikpapan",
+          "swift_code": "BNINIDJAPSB"
+        },
+        {
+          "branch_name": "Bangko Branch",
+          "city": "Bangko",
+          "swift_code": "BNINIDJABKO"
+        },
+        {
+          "branch_name": "Ahmad Yani Branch",
+          "city": "Bandung",
+          "swift_code": "BNINIDJAAYI"
+        },
+        {
+          "branch_name": "Bandung Branch",
+          "city": "Bandung",
+          "swift_code": "BNINIDJABDG"
+        },
+        {
+          "branch_name": "Ikip Bandung Branch",
+          "city": "Bandung",
+          "swift_code": "BNINIDJAIKB"
+        },
+        {
+          "branch_name": "Itb Branch",
+          "city": "Bandung",
+          "swift_code": "BNINIDJAITB"
+        },
+        {
+          "branch_name": "Jalan Jendral Sudirman Branch",
+          "city": "Bandung",
+          "swift_code": "BNINIDJAJJS"
+        },
+        {
+          "branch_name": "Jalan Perintis Kemerdekaan Bandung Branch",
+          "city": "Bandung",
+          "swift_code": "BNINIDJAJPK"
+        },
+        {
+          "branch_name": "Unpad Br Bdg",
+          "city": "Bandung",
+          "swift_code": "BNINIDJAUPB"
+        },
+        {
+          "branch_name": "Banjarmasin Branch",
+          "city": "Banjarmasin",
+          "swift_code": "BNINIDJABMS"
+        },
+        {
+          "branch_name": "Pangeran Antasari Branch",
+          "city": "Banjarmasin",
+          "swift_code": "BNINIDJAPAB"
+        },
+        {
+          "branch_name": "Banjarbaru Branch",
+          "city": "Banjarbaru",
+          "swift_code": "BNINIDJABBR"
+        },
+        {
+          "branch_name": "Bau-bau Branch",
+          "city": "Bau-Bau",
+          "swift_code": "BNINIDJABAU"
+        },
+        {
+          "branch_name": "Banjar Branch",
+          "city": "Banjar",
+          "swift_code": "BNINIDJABJR"
+        },
+        {
+          "branch_name": "Barabai Branch",
+          "city": "Barabai",
+          "swift_code": "BNINIDJABBI"
+        },
+        {
+          "branch_name": "Pematang Siantar Branch",
+          "city": "Pematang Siantar",
+          "swift_code": "BNINIDJAPMS"
+        },
+        {
+          "branch_name": "Purworejo Branch",
+          "city": "Purworejo",
+          "swift_code": "BNINIDJAPWR"
+        },
+        {
+          "branch_name": "Probolinggo Branch",
+          "city": "Probolinggo",
+          "swift_code": "BNINIDJAPRB"
+        },
+        {
+          "branch_name": "Prabumulih Branch",
+          "city": "Prabumulih",
+          "swift_code": "BNINIDJAPBM"
+        },
+        {
+          "branch_name": "Purbalingga Branch",
+          "city": "Purbalingga",
+          "swift_code": "BNINIDJAPBL"
+        },
+        {
+          "branch_name": "Rangkasbitung Branch",
+          "city": "Rangkas Bibitung",
+          "swift_code": "BNINIDJARKB"
+        },
+        {
+          "branch_name": "Ponorogo Branch",
+          "city": "Ponorogo",
+          "swift_code": "BNINIDJAPON"
+        },
+        {
+          "branch_name": "Purwakarta Branch",
+          "city": "Purwakarta",
+          "swift_code": "BNINIDJAPWK"
+        },
+        {
+          "branch_name": "Poso Branch",
+          "city": "Poso",
+          "swift_code": "BNINIDJAPSO"
+        },
+        {
+          "branch_name": "Pontianak Branch",
+          "city": "Pontianak",
+          "swift_code": "BNINIDJAPNK"
+        },
+        {
+          "branch_name": "Selat Panjang Branch",
+          "city": "Selat Panjang",
+          "swift_code": "BNINIDJASLP"
+        },
+        {
+          "branch_name": "Salatiga Branch",
+          "city": "Salatiga",
+          "swift_code": "BNINIDJASLG"
+        },
+        {
+          "branch_name": "Sampit Branch",
+          "city": "Sampit",
+          "swift_code": "BNINIDJASPT"
+        },
+        {
+          "branch_name": "Samarinda Branch",
+          "city": "Samarinda",
+          "swift_code": "BNINIDJASMD"
+        },
+        {
+          "branch_name": "Karangayu Branch",
+          "city": "Semarang",
+          "swift_code": "BNINIDJAKRU"
+        },
+        {
+          "branch_name": "Semarang Branch",
+          "city": "Semarang",
+          "swift_code": "BNINIDJASMG"
+        },
+        {
+          "branch_name": "Undip Br Smg",
+          "city": "Semarang",
+          "swift_code": "BNINIDJAUDS"
+        },
+        {
+          "branch_name": "Serang Branch",
+          "city": "Serang",
+          "swift_code": "BNINIDJASRG"
+        },
+        {
+          "branch_name": "Sibolga Branch",
+          "city": "Sibolga",
+          "swift_code": "BNINIDJASBG"
+        },
+        {
+          "branch_name": "Sengkang Branch",
+          "city": "Sengkang",
+          "swift_code": "BNINIDJASKG"
+        },
+        {
+          "branch_name": "Pamekasan Branch",
+          "city": "Pamekasan",
+          "swift_code": "BNINIDJAPKN"
+        },
+        {
+          "branch_name": "Panjang Branch",
+          "city": "Panjang",
+          "swift_code": "BNINIDJAPJG"
+        },
+        {
+          "branch_name": "Pare-pare Branch",
+          "city": "Pare-Pare",
+          "swift_code": "BNINIDJAPRE"
+        },
+        {
+          "branch_name": "Palu Branch",
+          "city": "Palu",
+          "swift_code": "BNINIDJAPLU"
+        },
+        {
+          "branch_name": "Pangkal Pinang Branch",
+          "city": "Pangkal Pinang",
+          "swift_code": "BNINIDJAPKP"
+        },
+        {
+          "branch_name": "Meulaboh Branch",
+          "city": "Meulaboh",
+          "swift_code": "BNINIDJAMBO"
+        },
+        {
+          "branch_name": "Boom Baru Branch",
+          "city": "Palembang",
+          "swift_code": "BNINIDJABBP"
+        },
+        {
+          "branch_name": "Jembatan Ampera Palembang Branch",
+          "city": "Palembang",
+          "swift_code": "BNINIDJAJAP"
+        },
+        {
+          "branch_name": "Musi Palembang Branch",
+          "city": "Palembang",
+          "swift_code": "BNINIDJAMSP"
+        },
+        {
+          "branch_name": "Palembang Branch",
+          "city": "Palembang",
+          "swift_code": "BNINIDJAPBG"
+        },
+        {
+          "branch_name": "Pekanbaru Branch",
+          "city": "Pekanbaru",
+          "swift_code": "BNINIDJAPBR"
+        },
+        {
+          "branch_name": "Pasar Pusat Pekanbaru Branch",
+          "city": "Pekanbaru",
+          "swift_code": "BNINIDJAPPP"
+        },
+        {
+          "branch_name": "Palangkaraya Branch",
+          "city": "Palangkaraya",
+          "swift_code": "BNINIDJAPRY"
+        },
+        {
+          "branch_name": "Pasuruan Branch",
+          "city": "Pasuruan",
+          "swift_code": "BNINIDJAPSN"
+        },
+        {
+          "branch_name": "Pangkalan Bun Branch",
+          "city": "Pangkalan Bun",
+          "swift_code": "BNINIDJAPKB"
+        },
+        {
+          "branch_name": "Pekalongan Branch",
+          "city": "Pekalongan",
+          "swift_code": "BNINIDJAPKL"
+        },
+        {
+          "branch_name": "Pati Branch",
+          "city": "Pati",
+          "swift_code": "BNINIDJAPTI"
+        },
+        {
+          "branch_name": "Payakumbuh Branch",
+          "city": "Payakumbuh",
+          "swift_code": "BNINIDJAPYK"
+        },
+        {
+          "branch_name": "Pemangkat Branch",
+          "city": "Pemangkat",
+          "swift_code": "BNINIDJAPMT"
+        },
+        {
+          "branch_name": "Purwokerto Branch",
+          "city": "Purwokerto",
+          "swift_code": "BNINIDJAPWO"
+        },
+        {
+          "branch_name": "Majalaya Branch",
+          "city": "Majalaya",
+          "swift_code": "BNINIDJAMJL"
+        },
+        {
+          "branch_name": "Malang Branch",
+          "city": "Malang",
+          "swift_code": "BNINIDJAMLG"
+        },
+        {
+          "branch_name": "Unibraw Br Mlg",
+          "city": "Malang",
+          "swift_code": "BNINIDJAUBM"
+        },
+        {
+          "branch_name": "Kualakapuas Branch",
+          "city": "Kualakapuas",
+          "swift_code": "BNINIDJAKKP"
+        },
+        {
+          "branch_name": "Magelang Branch",
+          "city": "Magelang",
+          "swift_code": "BNINIDJAMGL"
+        },
+        {
+          "branch_name": "Jl Sutomo Medan Branch",
+          "city": "Medan",
+          "swift_code": "BNINIDJAJSM"
+        },
+        {
+          "branch_name": "Medan Branch",
+          "city": "Medan",
+          "swift_code": "BNINIDJAMDN"
+        },
+        {
+          "branch_name": "Univ Sumut Branch",
+          "city": "Medan",
+          "swift_code": "BNINIDJAUSU"
+        },
+        {
+          "branch_name": "Lumajang Branch",
+          "city": "Lumajang",
+          "swift_code": "BNINIDJALMJ"
+        },
+        {
+          "branch_name": "Ps Kanaka Branch",
+          "city": "Manado",
+          "swift_code": "BNINIDJAKNK"
+        },
+        {
+          "branch_name": "Manado Branch",
+          "city": "Manado",
+          "swift_code": "BNINIDJAMDO"
+        },
+        {
+          "branch_name": "Maumere Branch",
+          "city": "Maumere",
+          "swift_code": "BNINIDJAMRE"
+        },
+        {
+          "branch_name": "Nunukan Branch",
+          "city": "Nunukan",
+          "swift_code": "BNINIDJANNK"
+        },
+        {
+          "branch_name": "Padang Sidempuan Branch",
+          "city": "Padang Sidempuan",
+          "swift_code": "BNINIDJAPDS"
+        },
+        {
+          "branch_name": "Langsa Branch",
+          "city": "Langsa",
+          "swift_code": "BNINIDJALGS"
+        },
+        {
+          "branch_name": "Madiun Branch",
+          "city": "Madiun",
+          "swift_code": "BNINIDJAMAD"
+        },
+        {
+          "branch_name": "Metro Branch",
+          "city": "Metro",
+          "swift_code": "BNINIDJAMET"
+        },
+        {
+          "branch_name": "Palopo Branch",
+          "city": "Palopo",
+          "swift_code": "BNINIDJAPLP"
+        },
+        {
+          "branch_name": "Kendari Branch",
+          "city": "Kendari",
+          "swift_code": "BNINIDJAKDR"
+        },
+        {
+          "branch_name": "Manokwari Branch",
+          "city": "Manokwari",
+          "swift_code": "BNINIDJAMWI"
+        },
+        {
+          "branch_name": "Jombang Branch",
+          "city": "Jombang",
+          "swift_code": "BNINIDJAJBG"
+        },
+        {
+          "branch_name": "Kediri Branch",
+          "city": "Kediri",
+          "swift_code": "BNINIDJAKDI"
+        },
+        {
+          "branch_name": "Kayu Agung Branch",
+          "city": "Kayu Agung",
+          "swift_code": "BNINIDJAKYA"
+        },
+        {
+          "branch_name": "Klaten Branch",
+          "city": "Klaten",
+          "swift_code": "BNINIDJAKLA"
+        },
+        {
+          "branch_name": "Kabanjahe Branch",
+          "city": "Kabanjahe",
+          "swift_code": "BNINIDJAKJH"
+        },
+        {
+          "branch_name": "Ketapang Branch",
+          "city": "Ketapang",
+          "swift_code": "BNINIDJAKPG"
+        },
+        {
+          "branch_name": "Jepara Branch",
+          "city": "Jepara",
+          "swift_code": "BNINIDJAJPR"
+        },
+        {
+          "branch_name": "Jayapura Branch",
+          "city": "Jayapura",
+          "swift_code": "BNINIDJAJPA"
+        },
+        {
+          "branch_name": "Kotamobagu Branch",
+          "city": "Kotamobagu",
+          "swift_code": "BNINIDJAKTM"
+        },
+        {
+          "branch_name": "Kuningan Branch",
+          "city": "Kuningan",
+          "swift_code": "BNINIDJAKNG"
+        },
+        {
+          "branch_name": "Kuala Tanjung Branch",
+          "city": "Kuala Tanjung",
+          "swift_code": "BNINIDJAKTJ"
+        },
+        {
+          "branch_name": "Kualatungkal Branch",
+          "city": "Kualatungkal",
+          "swift_code": "BNINIDJAKLT"
+        },
+        {
+          "branch_name": "Legian Branch",
+          "city": "Legian",
+          "swift_code": "BNINIDJALGA"
+        },
+        {
+          "branch_name": "Karawang Branch",
+          "city": "Karawang",
+          "swift_code": "BNINIDJAKWG"
+        },
+        {
+          "branch_name": "Pasar Mayestik Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAPMK"
+        },
+        {
+          "branch_name": "Pasar Minggu Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAPSM"
+        },
+        {
+          "branch_name": "Petojo Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAPTJ"
+        },
+        {
+          "branch_name": "Roa Malaka Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJARMA"
+        },
+        {
+          "branch_name": "Ratu Plaza",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJARPZ"
+        },
+        {
+          "branch_name": "Rawamangun Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJARWM"
+        },
+        {
+          "branch_name": "Semanggi Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJASGI"
+        },
+        {
+          "branch_name": "Syndication Division",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJASJK"
+        },
+        {
+          "branch_name": "Kudus Branch",
+          "city": "Kudus",
+          "swift_code": "BNINIDJAKDS"
+        },
+        {
+          "branch_name": "Luwuk Branch",
+          "city": "Luwuk",
+          "swift_code": "BNINIDJALWK"
+        },
+        {
+          "branch_name": "Kota Bumi Banch",
+          "city": "Kotabumi",
+          "swift_code": "BNINIDJAKTI"
+        },
+        {
+          "branch_name": "Lubuklinggau Branch",
+          "city": "Lubuklinggau",
+          "swift_code": "BNINIDJALLG"
+        },
+        {
+          "branch_name": "Lhokseumawe Branch",
+          "city": "Lhokseumawe",
+          "swift_code": "BNINIDJALSW"
+        },
+        {
+          "branch_name": "Kupang Branch-east Nusatenggara",
+          "city": "Kupang",
+          "swift_code": "BNINIDJAKPA"
+        },
+        {
+          "branch_name": "Senen Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJASNN"
+        },
+        {
+          "branch_name": "Senayan Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJASNY"
+        },
+        {
+          "branch_name": "Tanah Abang Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJATAB"
+        },
+        {
+          "branch_name": "Tebet Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJATEB"
+        },
+        {
+          "branch_name": "Tanjung Priok Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJATPR"
+        },
+        {
+          "branch_name": "Treasury Division",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJATRS"
+        },
+        {
+          "branch_name": "Ui Depok Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAUID"
+        },
+        {
+          "branch_name": "Wisma Argo Manunggal Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAWAM"
+        },
+        {
+          "branch_name": "Wisma Empat Nam Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAWEN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAXXX"
+        },
+        {
+          "branch_name": "Jambi Branch",
+          "city": "Jambi",
+          "swift_code": "BNINIDJAJBI"
+        },
+        {
+          "branch_name": "Jember Branch",
+          "city": "Jember",
+          "swift_code": "BNINIDJAJBR"
+        },
+        {
+          "branch_name": "Gunung Sahari Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAGNS"
+        },
+        {
+          "branch_name": "Jakarta",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAHII"
+        },
+        {
+          "branch_name": "Harmoni Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAHMN"
+        },
+        {
+          "branch_name": "Jakarta Kota Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAJKT"
+        },
+        {
+          "branch_name": "Jatinegara Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAJNG"
+        },
+        {
+          "branch_name": "Jakarta Pusat Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAJPU"
+        },
+        {
+          "branch_name": "Jalan Rasuna Said Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAJRS"
+        },
+        {
+          "branch_name": "Kebayoran Baru Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAKBY"
+        },
+        {
+          "branch_name": "Krekot Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAKRK"
+        },
+        {
+          "branch_name": "Kramat Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAKRM"
+        },
+        {
+          "branch_name": "Mangga Dua Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAMDA"
+        },
+        {
+          "branch_name": "Merdeka Selatan Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAMDS"
+        },
+        {
+          "branch_name": "Medan Merdeka Timur Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAMDT"
+        },
+        {
+          "branch_name": "Mh Thamrin Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAMHT"
+        },
+        {
+          "branch_name": "Menteng Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAMTG"
+        },
+        {
+          "branch_name": "Matraman Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAMTR"
+        },
+        {
+          "branch_name": "Pasar Baru Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAPBU"
+        },
+        {
+          "branch_name": "Pecenongan Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAPCG"
+        },
+        {
+          "branch_name": "Pondok Indah Mall Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAPIM"
+        },
+        {
+          "branch_name": "Pasar Koja Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAPKJ"
+        },
+        {
+          "branch_name": "Cilegon Branch",
+          "city": "Cilegon",
+          "swift_code": "BNINIDJACLG"
+        },
+        {
+          "branch_name": "Gunung Sitoli Branch",
+          "city": "Gunung Sitoli",
+          "swift_code": "BNINIDJAGST"
+        },
+        {
+          "branch_name": "Indramayu Branch",
+          "city": "Indramayu",
+          "swift_code": "BNINIDJAIDR"
+        },
+        {
+          "branch_name": "Dumai Branch",
+          "city": "Dumai",
+          "swift_code": "BNINIDJADMI"
+        },
+        {
+          "branch_name": "Cimahi Bdg Branch",
+          "city": "Cimahi",
+          "swift_code": "BNINIDJACMI"
+        },
+        {
+          "branch_name": "Ende Br Ntt",
+          "city": "Ende",
+          "swift_code": "BNINIDJAEND"
+        },
+        {
+          "branch_name": "Bojonegoro Branch",
+          "city": "Bojonegoro",
+          "swift_code": "BNINIDJABRO"
+        },
+        {
+          "branch_name": "Bondowoso Branch",
+          "city": "Bondowoso",
+          "swift_code": "BNINIDJABDO"
+        },
+        {
+          "branch_name": "Cirebon Branch",
+          "city": "Cirebon",
+          "swift_code": "BNINIDJACRB"
+        },
+        {
+          "branch_name": "Gresik Branch",
+          "city": "Gresik",
+          "swift_code": "BNINIDJAGRK"
+        },
+        {
+          "branch_name": "Gorontalo Branch",
+          "city": "Gorontalo",
+          "swift_code": "BNINIDJAGTL"
+        },
+        {
+          "branch_name": "Garut Branch",
+          "city": "Garut",
+          "swift_code": "BNINIDJAGRT"
+        },
+        {
+          "branch_name": "Bogor Branch",
+          "city": "Bogor",
+          "swift_code": "BNINIDJABGR"
+        },
+        {
+          "branch_name": "Head Office Financial Analysis And Control Division",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAAPK"
+        },
+        {
+          "branch_name": "Bandara Sukarno Hatta Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJABSH"
+        },
+        {
+          "branch_name": "Dukuh Bawah Landmark Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJADKB"
+        },
+        {
+          "branch_name": "Head Office International Division",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJADLN"
+        },
+        {
+          "branch_name": "Daan Mogot Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJADMG"
+        },
+        {
+          "branch_name": "Fatmawati Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAFMI"
+        },
+        {
+          "branch_name": "Gambir Branch",
+          "city": "Jakarta",
+          "swift_code": "BNINIDJAGBR"
+        },
+        {
+          "branch_name": "Batam Branch",
+          "city": "Batam",
+          "swift_code": "BNINIDJABTM"
+        },
+        {
+          "branch_name": "Bengkulu Branch",
+          "city": "Bengkulu",
+          "swift_code": "BNINIDJABKL"
+        },
+        {
+          "branch_name": "Bekasi Branch",
+          "city": "Bekasi",
+          "swift_code": "BNINIDJABKS"
+        },
+        {
+          "branch_name": "Bima Branch",
+          "city": "Bima",
+          "swift_code": "BNINIDJABMA"
+        },
+        {
+          "branch_name": "Biak Branch",
+          "city": "Biak",
+          "swift_code": "BNINIDJABIK"
+        },
+        {
+          "branch_name": "Belawan Branch",
+          "city": "Belawan",
+          "swift_code": "BNINIDJABLW"
+        },
+        {
+          "branch_name": "Blitar Branch",
+          "city": "Blitar",
+          "swift_code": "BNINIDJABLT"
+        },
+        {
+          "branch_name": "Bitung Branch",
+          "city": "Bitung",
+          "swift_code": "BNINIDJABIT"
+        },
+        {
+          "branch_name": "Banyuwangi Branch",
+          "city": "Banyuwangi",
+          "swift_code": "BNINIDJABWI"
+        },
+        {
+          "branch_name": "Bireun Branch",
+          "city": "Bireun",
+          "swift_code": "BNINIDJABRN"
+        },
+        {
+          "branch_name": "Ciamis Branch",
+          "city": "Ciamis",
+          "swift_code": "BNINIDJACAM"
+        },
+        {
+          "branch_name": "Cianjur Branch",
+          "city": "Cianjur",
+          "swift_code": "BNINIDJACJR"
+        },
+        {
+          "branch_name": "Cepu Branch",
+          "city": "Cepu",
+          "swift_code": "BNINIDJACPU"
+        },
+        {
+          "branch_name": "Cikampek Branch",
+          "city": "Cikampek",
+          "swift_code": "BNINIDJACKP"
+        },
+        {
+          "branch_name": "Bukittinggi Branch",
+          "city": "Bukittinggi",
+          "swift_code": "BNINIDJABTG"
+        },
+        {
+          "branch_name": "Cilacap Branch",
+          "city": "Cilacap",
+          "swift_code": "BNINIDJACLP"
+        },
+        {
+          "branch_name": "Denpasar Branch",
+          "city": "Denpasar",
+          "swift_code": "BNINIDJADPS"
+        },
+        {
+          "branch_name": "Renon Branch",
+          "city": "Denpasar",
+          "swift_code": "BNINIDJARNN"
+        },
+        {
+          "branch_name": "Margonda Branch",
+          "city": "Depok",
+          "swift_code": "BNINIDJAMGD"
+        },
+        {
+          "branch_name": "Dili-east Tim",
+          "city": "Dili",
+          "swift_code": "BNINIDJADLI"
+        },
+        {
+          "branch_name": "Toli-toli Branch",
+          "city": "Toli-Toli",
+          "swift_code": "BNINIDJATLI"
+        },
+        {
+          "branch_name": "Baturaja Branch",
+          "city": "Baturaja",
+          "swift_code": "BNINIDJABTR"
+        },
+        {
+          "branch_name": "Wonosobo Branch",
+          "city": "Wonosobo",
+          "swift_code": "BNINIDJAWSB"
+        },
+        {
+          "branch_name": "Watansoppeng Branch",
+          "city": "Watansoppeng",
+          "swift_code": "BNINIDJAWTS"
+        },
+        {
+          "branch_name": "Wonogiri Branch",
+          "city": "Wonogiri",
+          "swift_code": "BNINIDJAWGR"
+        },
+        {
+          "branch_name": "Tangerang Branch",
+          "city": "Tangerang",
+          "swift_code": "BNINIDJATRG"
+        },
+        {
+          "branch_name": "Kebumen Branch",
+          "city": "Kebumen",
+          "swift_code": "BNINIDJAKBM"
+        },
+        {
+          "branch_name": "Ugm Branch",
+          "city": "Yogyakarta",
+          "swift_code": "BNINIDJAUGM"
+        },
+        {
+          "branch_name": "Yogyakarta Branch",
+          "city": "Yogyakarta",
+          "swift_code": "BNINIDJAYGY"
+        },
+        {
+          "branch_name": "Mataram Branch",
+          "city": "Mataram",
+          "swift_code": "BNINIDJAMTA"
+        },
+        {
+          "branch_name": "Ahmad Yani Padang Branch",
+          "city": "Padang",
+          "swift_code": "BNINIDJAAYP"
+        },
+        {
+          "branch_name": "Imam Bonjol Branch",
+          "city": "Padang",
+          "swift_code": "BNINIDJAIBP"
+        },
+        {
+          "branch_name": "Padang Branch",
+          "city": "Padang",
+          "swift_code": "BNINIDJAPDG"
+        },
+        {
+          "branch_name": "Polewali Branch",
+          "city": "Polewali",
+          "swift_code": "BNINIDJAPLW"
+        },
+        {
+          "branch_name": "Rengat Branch",
+          "city": "Rengat",
+          "swift_code": "BNINIDJARGT"
+        },
+        {
+          "branch_name": "Kotabaru P Laut Branch",
+          "city": "Kotabaru Pulau Laut",
+          "swift_code": "BNINIDJAKTU"
+        },
+        {
+          "branch_name": "Univ Sebelas Maret Branch",
+          "city": "Surakarta",
+          "swift_code": "BNINIDJASMR"
+        },
+        {
+          "branch_name": "Tahuna Branch",
+          "city": "Tahuna",
+          "swift_code": "BNINIDJATHN"
+        },
+        {
+          "branch_name": "Tanjung Pinang Branch",
+          "city": "Tanjung Pinang",
+          "swift_code": "BNINIDJATPN"
+        },
+        {
+          "branch_name": "Tanjungredeb Branch",
+          "city": "Tanjungredeb",
+          "swift_code": "BNINIDJATRB"
+        },
+        {
+          "branch_name": "Tanjung Karang Branch",
+          "city": "Tanjung Karang",
+          "swift_code": "BNINIDJATKR"
+        },
+        {
+          "branch_name": "Tasikmalaya Branch",
+          "city": "Tasikmalaya",
+          "swift_code": "BNINIDJATMA"
+        },
+        {
+          "branch_name": "Tegal Branch",
+          "city": "Tegal",
+          "swift_code": "BNINIDJATGL"
+        },
+        {
+          "branch_name": "Tobelo Branch",
+          "city": "Tobelo",
+          "swift_code": "BNINIDJATBL"
+        },
+        {
+          "branch_name": "Tuban Branch-east Java",
+          "city": "Tuban",
+          "swift_code": "BNINIDJATUB"
+        },
+        {
+          "branch_name": "Ternate Branch",
+          "city": "Ternate",
+          "swift_code": "BNINIDJATNT"
+        },
+        {
+          "branch_name": "Tarakan Branch",
+          "city": "Tarakan",
+          "swift_code": "BNINIDJATRN"
+        },
+        {
+          "branch_name": "Tanjung Balai Karimun Branch",
+          "city": "Tg. Balai",
+          "swift_code": "BNINIDJATBK"
+        },
+        {
+          "branch_name": "Tembilahan Branch",
+          "city": "Tembilahan",
+          "swift_code": "BNINIDJATBH"
+        },
+        {
+          "branch_name": "Temanggung Branch",
+          "city": "Temanggung",
+          "swift_code": "BNINIDJATMG"
+        },
+        {
+          "branch_name": "Mattoangin Branch",
+          "city": "Ujung Pandang",
+          "swift_code": "BNINIDJAMAT"
+        },
+        {
+          "branch_name": "Ujung Pandang Branch",
+          "city": "Ujung Pandang",
+          "swift_code": "BNINIDJAUPG"
+        },
+        {
+          "branch_name": "Tg Balai Asahan",
+          "city": "Tg. Balai Asahan",
+          "swift_code": "BNINIDJATBA"
+        },
+        {
+          "branch_name": "Tulungagung",
+          "city": "Tulungagung",
+          "swift_code": "BNINIDJATLA"
+        },
+        {
+          "branch_name": "Wonokromo Branch",
+          "city": "Wonokromo",
+          "swift_code": "BNINIDJAWNK"
+        },
+        {
+          "branch_name": "Tebingtinggi Branch",
+          "city": "Tebingtinggi",
+          "swift_code": "BNINIDJATTI"
+        },
+        {
+          "branch_name": "Singkawang Branch",
+          "city": "Singkawang",
+          "swift_code": "BNINIDJASKW"
+        },
+        {
+          "branch_name": "Sigli Branch",
+          "city": "Sigli",
+          "swift_code": "BNINIDJASGL"
+        },
+        {
+          "branch_name": "Singaraja Branch",
+          "city": "Singaraja",
+          "swift_code": "BNINIDJASGR"
+        },
+        {
+          "branch_name": "Sidoarjo Branch",
+          "city": "Sidoarjo",
+          "swift_code": "BNINIDJASDA"
+        },
+        {
+          "branch_name": "Sumbawa Besar Branch",
+          "city": "Sumbawa Besar",
+          "swift_code": "BNINIDJASBW"
+        },
+        {
+          "branch_name": "Sukabumi Branch",
+          "city": "Sukabumi",
+          "swift_code": "BNINIDJASKM"
+        },
+        {
+          "branch_name": "Subang Branch",
+          "city": "Subang",
+          "swift_code": "BNINIDJASUB"
+        },
+        {
+          "branch_name": "Sumedang Branch",
+          "city": "Sumedang",
+          "swift_code": "BNINIDJASDG"
+        },
+        {
+          "branch_name": "Situbondo Branch",
+          "city": "Situbondo",
+          "swift_code": "BNINIDJASTB"
+        },
+        {
+          "branch_name": "Sorong Branch",
+          "city": "Sorong",
+          "swift_code": "BNINIDJASOR"
+        },
+        {
+          "branch_name": "Sungaipenuh Branch",
+          "city": "Sungaipenuh",
+          "swift_code": "BNINIDJASPN"
+        },
+        {
+          "branch_name": "Sumenep Branch",
+          "city": "Sumenep",
+          "swift_code": "BNINIDJASMP"
+        },
+        {
+          "branch_name": "Jembatan Merah Branch",
+          "city": "Surabaya",
+          "swift_code": "BNINIDJAJTM"
+        },
+        {
+          "branch_name": "Kusuma Bangsa Branch",
+          "city": "Surabaya",
+          "swift_code": "BNINIDJAKBS"
+        },
+        {
+          "branch_name": "Surabaya Branch",
+          "city": "Surabaya",
+          "swift_code": "BNINIDJASBY"
+        },
+        {
+          "branch_name": "Tanjung Perak Branch",
+          "city": "Surabaya",
+          "swift_code": "BNINIDJATPK"
+        },
+        {
+          "branch_name": "Airlangga University Branch",
+          "city": "Surabaya",
+          "swift_code": "BNINIDJAUAS"
+        },
+        {
+          "branch_name": "Urip Sumoharjo Branch",
+          "city": "Surabaya",
+          "swift_code": "BNINIDJAUSM"
+        },
+        {
+          "branch_name": "Pasar Klewer Surakarta Branch",
+          "city": "Surakarta",
+          "swift_code": "BNINIDJAPKS"
+        },
+        {
+          "branch_name": "Surakarta Branch",
+          "city": "Surakarta",
+          "swift_code": "BNINIDJASLO"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Mizuho Indonesia, Pt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MHCCIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Metro Express",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MEEKIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Mestika Dharma",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Medan",
+          "swift_code": "BMDMIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Bank Hana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "HNBNIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Bank Danamon Indonesia, Tbk",
+      "branches": [
+        {
+          "branch_name": "Bandung Otista Branch",
+          "city": "Bandung",
+          "swift_code": "BDINIDJAOTI"
+        },
+        {
+          "branch_name": "Lc Department",
+          "city": "Balikpapan",
+          "swift_code": "BDINIDJABPN"
+        },
+        {
+          "branch_name": "Corporate Lc Processing Centre",
+          "city": "Jakarta",
+          "swift_code": "BDINIDJACLC"
+        },
+        {
+          "branch_name": "Custodial Services",
+          "city": "Jakarta",
+          "swift_code": "BDINIDJACUS"
+        },
+        {
+          "branch_name": "Financial Institutions Correspondent Banking",
+          "city": "Jakarta",
+          "swift_code": "BDINIDJAIFI"
+        },
+        {
+          "branch_name": "Lc Centre",
+          "city": "Jakarta",
+          "swift_code": "BDINIDJALCC"
+        },
+        {
+          "branch_name": "Lc Processing Center-makassar",
+          "city": "Jakarta",
+          "swift_code": "BDINIDJAMKS"
+        },
+        {
+          "branch_name": "International Remittance",
+          "city": "Jakarta",
+          "swift_code": "BDINIDJARMT"
+        },
+        {
+          "branch_name": "Transactions Processing Centre",
+          "city": "Jakarta",
+          "swift_code": "BDINIDJATPC"
+        },
+        {
+          "branch_name": "Treasury Operations",
+          "city": "Jakarta",
+          "swift_code": "BDINIDJATRS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BDINIDJAXXX"
+        },
+        {
+          "branch_name": "Medan-iskandarmuda Branch",
+          "city": "Medan",
+          "swift_code": "BDINIDJAMIM"
+        },
+        {
+          "branch_name": "Lc Department-mearuke",
+          "city": "Merauke",
+          "swift_code": "BDINIDJAMRK"
+        },
+        {
+          "branch_name": "Semarang Pemuda Branch",
+          "city": "Semarang",
+          "swift_code": "BDINIDJASPM"
+        },
+        {
+          "branch_name": "Solo Sraten Branch",
+          "city": "Solo",
+          "swift_code": "BDINIDJASSR"
+        },
+        {
+          "branch_name": "Lc Processing Centre Surabaya",
+          "city": "Surabaya",
+          "swift_code": "BDINIDJASBY"
+        },
+        {
+          "branch_name": "Lc Department",
+          "city": "Tanjung Pinang",
+          "swift_code": "BDINIDJATJP"
+        },
+        {
+          "branch_name": "Lc Department-yogyakarta",
+          "city": "Yogyakarta",
+          "swift_code": "BDINIDJAYGY"
+        },
+        {
+          "branch_name": "P Jayakarta Branch",
+          "city": "Jakarta",
+          "swift_code": "BDINIDJ10J3"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Bank Cimb Niaga, Tbk.",
+      "branches": [
+        {
+          "branch_name": "Gajah Mada Regional Office",
+          "city": "Jakarta",
+          "swift_code": "BNIAIDJAGMA"
+        },
+        {
+          "branch_name": "Thamrin Branch",
+          "city": "Jakarta",
+          "swift_code": "BNIAIDJATHM"
+        },
+        {
+          "branch_name": "Head Office Operation",
+          "city": "Jakarta",
+          "swift_code": "BNIAIDJAXXX"
+        },
+        {
+          "branch_name": "Semarang Branch",
+          "city": "Semarang",
+          "swift_code": "BNIAIDJASMG"
+        },
+        {
+          "branch_name": "Tunungan Branch",
+          "city": "Surabaya",
+          "swift_code": "BNIAIDJATUN"
+        },
+        {
+          "branch_name": "Ujung Pandang Branch",
+          "city": "Ujung Pandang",
+          "swift_code": "BNIAIDJ10D2"
+        },
+        {
+          "branch_name": "Lembong Branch",
+          "city": "Bandung",
+          "swift_code": "BNIAIDJ10J6"
+        },
+        {
+          "branch_name": "Lampung Branch",
+          "city": "Lampung",
+          "swift_code": "BNIAIDJ10S2"
+        },
+        {
+          "branch_name": "Medan Branch",
+          "city": "Medan",
+          "swift_code": "BNIAIDJ10SS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt. Bank Agroniaga Tbk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "AGTBIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Bank Uob Indonesia",
+      "branches": [
+        {
+          "branch_name": "Bandung",
+          "city": "Bandung",
+          "swift_code": "BBIJIDJA004"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BBIJIDJAXXX"
+        },
+        {
+          "branch_name": "Medan",
+          "city": "Medan",
+          "swift_code": "BBIJIDJA002"
+        },
+        {
+          "branch_name": "Surabaya",
+          "city": "Surabaya",
+          "swift_code": "BBIJIDJA003"
+        },
+        {
+          "branch_name": "Denpasar",
+          "city": "Denpasar",
+          "swift_code": "BBIJIDJ1024"
+        },
+        {
+          "branch_name": "Denpasar Branch",
+          "city": "Denpasar",
+          "swift_code": "BBIJIDJ10BD"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Bank Permata, Tbk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BBBAIDJAXXX"
+        },
+        {
+          "branch_name": "40117 Bandung",
+          "city": "Bandung",
+          "swift_code": "BBBAIDJ10J6"
+        },
+        {
+          "branch_name": "50121 Semarang",
+          "city": "Semarang",
+          "swift_code": "BBBAIDJ10J8"
+        },
+        {
+          "branch_name": "60275 Surabaya",
+          "city": "Surabaya",
+          "swift_code": "BBBAIDJ10JD"
+        },
+        {
+          "branch_name": "20152 Medan",
+          "city": "Medan",
+          "swift_code": "BBBAIDJ10SS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Bank Riau",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pekanbaru",
+          "swift_code": "PDRIIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Bank Ocbc Nisp Tbk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "NISPIDJAXXX"
+        },
+        {
+          "branch_name": "Asia Afrika Branch",
+          "city": "Bandung",
+          "swift_code": "NISPIDJ1BDG"
+        },
+        {
+          "branch_name": "29432 Batam",
+          "city": "Batam",
+          "swift_code": "NISPIDJ1BTM"
+        },
+        {
+          "branch_name": "60271 Surabaya",
+          "city": "Surabaya",
+          "swift_code": "NISPIDJ1SBY"
+        },
+        {
+          "branch_name": "50242 Semarang",
+          "city": "Semarang",
+          "swift_code": "NISPIDJ1SMG"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Bank Maybank Syariah Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MBBEIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Bank Index Selindo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BIDXIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Bank Icbc Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ICBKIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Bank Icb Bumiputera Tbk.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BUMIIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Bank Capital Indonesia, Tbk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BCIAIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Bank Bumi Arta Tbk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BBAIIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pan Indonesia Bank Pt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "PINBIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "P.T. Mercedes-Benz Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "DABEIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "P.T. Mercedes-Benz Distribution Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "DADIIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "P.T. Bank Keb Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "KOEXIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kustodian Sentral Efek Indonesia Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "KSEIIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Artha Dwipa Persada Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ARDPIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Artha Adyanugraha, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ARTDIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arta Gitasejahtera Sekuritas, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ARGSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arga Artha Securitas, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ARAEIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arbuthnot Latham Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ALABIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aperdi, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "APERIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Anugerah Securindo Indah, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ANSIIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Antar Dhana Masa, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ANDMIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Anekareksa Securities Corp, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ANESIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aneka Keloladana, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ANEKIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amsindo Nusantara, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "AMSNIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amcol Sekurindo, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "AMCEIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aldiracita Corpotama, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ALDCIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aksara Kencana, Pt",
+      "branches": [
+        {
+          "branch_name": "Surabaya",
+          "city": "Surabaya",
+          "swift_code": "AKSKIDJ10JD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "AKSKIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agung Securities Indonesia, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "AGSIIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amcapital Indonesia, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "AMIDIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agung Cahaya Cendana, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "AGCCIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agridhanasatya Permata, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "AGRPIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Nasional",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bukittinggi",
+          "swift_code": "NBNKIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Mitraniaga Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MGABIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Mega Pt. Tbk.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "KBNKIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Mayindo Pertama",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MAPEIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Kesawan Pt Tbk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "KESBIDS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Jasa Arta Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "DJARIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Arta Niaga Kencana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Surabaya",
+          "swift_code": "ARNKIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Agung Asia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "AGASIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bakrie Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BAKSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bahana Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BAEUIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bahamindo Guna",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BAHGIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Astra Securities,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ASTSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asprina Prima Sentosa,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ASPNIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aspac Uppindo,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ASPUIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asiana Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ASIUIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asia Kapitalindo, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ASITIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aseam Indonesia, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ASEIIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arya Shinta Finance",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ARSFIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cef Andromeda Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "CEASIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asjaya Indosurya Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "ASNSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bzw Niaga Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BZNSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bursa Berjangka Jakarta (jakarta Futures Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "XBBJIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bumi Arta Securindo,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BUACIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Buanamas Investindo,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BUAIIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bt Prima Securities Indonesia Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "PRSIIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Buana Securities,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BUAEIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Boresia,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BOREIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bomar Securities Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BOMSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bintangmakmur Securindo,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BINSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Binaartha Parama,pt",
+      "branches": [
+        {
+          "branch_name": "Surabaya",
+          "city": "Surabaya",
+          "swift_code": "BINRIDJ10JD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BINRIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bina Tatalaksana Pasifik Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BITPIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bdni Sekuritas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BDNSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bapindo Bumi Sekuritas,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BABSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Windu Kentjana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "WIKEIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Tabungan Pensiunan Nasional Pt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bandung",
+          "swift_code": "TAPEIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Swaguna Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "SWABIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Sri Partha Pt",
+      "branches": [
+        {
+          "branch_name": "Kabupaten Badung",
+          "city": "Denpasar",
+          "swift_code": "SIPAIDB10B2"
+        },
+        {
+          "branch_name": "Kabupaten Gianyar",
+          "city": "Peliatan",
+          "swift_code": "SIPAIDB10B3"
+        },
+        {
+          "branch_name": "Kabupaten Bangli",
+          "city": "Bangli",
+          "swift_code": "SIPAIDB10B4"
+        },
+        {
+          "branch_name": "Kabupaten Klungkung",
+          "city": "Klungkung",
+          "swift_code": "SIPAIDB10B5"
+        },
+        {
+          "branch_name": "Kabupaten Karangasem",
+          "city": "Amlapura",
+          "swift_code": "SIPAIDB10B6"
+        },
+        {
+          "branch_name": "Kabupaten Buleleng",
+          "city": "Singaraja",
+          "swift_code": "SIPAIDB10B7"
+        },
+        {
+          "branch_name": "Kabupaten Jemberana",
+          "city": "Negara",
+          "swift_code": "SIPAIDB10B8"
+        },
+        {
+          "branch_name": "Kabupaten Tabanan",
+          "city": "Tabanan",
+          "swift_code": "SIPAIDB10BT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Denpasar",
+          "swift_code": "SIPAIDB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Perk. Surya Kencana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Surabaya",
+          "swift_code": "PESKIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dwidana Sakti Sekurindo, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "DWSSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dwidana Permai Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "DWPSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dinamika Usahajaya, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "DINUIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dharmala Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "DHSPIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dharma Finance Corp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "DHAFIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dhanawibawa Artha Cemerlang",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "DWACIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dhanamas Buana Wirasta, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "DHBWIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dhana Tunggal Binasatya,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "DHATIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dhanadaya Anugerah, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "DHANIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dhana Pasifik Securitas,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "DHPSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Morgan Grenfell Indonesia,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "MGIAIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deemte Artadharma",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Surabaya",
+          "swift_code": "DEEMIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Danasakti Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "DANRIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Danametro Sekuritas,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "DANSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Danamon Securitas,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "DANEIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dana Gajah Sakti,pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "DAGSIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Crosby Indonesia, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "CROIIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daiwa Indonesia Securities, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "DAIUIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clsa Indonesia, Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "CLSAIDJ1XXX"
+        }
+      ]
+    }
+  ]
+}

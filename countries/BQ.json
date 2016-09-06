@@ -1,0 +1,92 @@
+{
+  "country_name": "Bonaire, Sint Eustatius and Saba",
+  "alpha_2": "BQ",
+  "country_code": "535",
+  "banks": [
+    {
+      "bank_name": "The Windward Islands Bank Ltd St.eustatius",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Saint Eustatius",
+          "swift_code": "WISBBQEEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbc Royal Bank N.v.(formerly Rbtt Bank N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bonaire",
+          "swift_code": "RBTTBQBNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbc Royal Bank N.v. (formerly Rbtt Bank N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Saba",
+          "swift_code": "RBTTBQSAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Willemstad",
+          "swift_code": "RBTTCWCUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orco Bank N.v. Bonaire",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kralendijk",
+          "swift_code": "ORBABQBNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maduro And Curiel's Bank (bonaire) Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kralendijk",
+          "swift_code": "MCBKBQBNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Girobank Nv Bonaire Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kralendijk",
+          "swift_code": "GIRCBQBNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Di Caribe N.v. Bonaire",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kralendijk",
+          "swift_code": "BDCCBQBNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Del Orinoco N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kralendijk",
+          "swift_code": "ORIBBQBNXXX"
+        }
+      ]
+    }
+  ]
+}

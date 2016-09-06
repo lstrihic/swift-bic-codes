@@ -1,0 +1,2192 @@
+{
+  "country_name": "Cayman Islands",
+  "alpha_2": "KY",
+  "country_code": "136",
+  "banks": [
+    {
+      "bank_name": "Xlit Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Grand",
+          "swift_code": "GROPKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wim Asset Management (cayman) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "WAMCKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wg Trading International Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "TRIRKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vr Advisory Services",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "ADSRKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vicis Capital Master Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "VCMFKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Venezolano De Credito,cayman Branch,banco Universal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "VZCRKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Bank Finland Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "NDEAKYKXXXX"
+        },
+        {
+          "branch_name": "Markets Equities",
+          "city": "Helsinki",
+          "swift_code": "NDEAFIHH030"
+        },
+        {
+          "branch_name": "Helsinki",
+          "city": "Helsinki",
+          "swift_code": "NDEAFIHHNCL"
+        },
+        {
+          "branch_name": "Helsinki",
+          "city": "Helsinki",
+          "swift_code": "NDEAFIHHTRI"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NDEAFIHHXXX"
+        },
+        {
+          "branch_name": "Helsinki",
+          "city": "Helsinki",
+          "swift_code": "NDEAFIHHISA"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gulf International Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "GULFKYK1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "New York,Ny",
+          "swift_code": "GULFUS33XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bbva Bancomer, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BCMRKYK1XXX"
+        },
+        {
+          "branch_name": "Letters Of Credit And Collections Department Guadalajara, Jal",
+          "city": "Guadalajara",
+          "swift_code": "BCMRMXMMGUA"
+        },
+        {
+          "branch_name": "Collections Department Mexico, D F",
+          "city": "Mexico",
+          "swift_code": "BCMRMXMMCOL"
+        },
+        {
+          "branch_name": "Correspondent Banking",
+          "city": "Mexico",
+          "swift_code": "BCMRMXMMCOR"
+        },
+        {
+          "branch_name": "International Treasury Department",
+          "city": "Mexico",
+          "swift_code": "BCMRMXMMDIV"
+        },
+        {
+          "branch_name": "Letters Of Credit Department Mexico D F",
+          "city": "Mexico",
+          "swift_code": "BCMRMXMMDOC"
+        },
+        {
+          "branch_name": "Finance International Operations",
+          "city": "Mexico",
+          "swift_code": "BCMRMXMMEXT"
+        },
+        {
+          "branch_name": "Foreign Exchange Department",
+          "city": "Mexico",
+          "swift_code": "BCMRMXMMFGN"
+        },
+        {
+          "branch_name": "Fiduciary Department",
+          "city": "Mexico",
+          "swift_code": "BCMRMXMMFID"
+        },
+        {
+          "branch_name": "Cartera Hipotecaria",
+          "city": "Mexico",
+          "swift_code": "BCMRMXMMHIP"
+        },
+        {
+          "branch_name": "International Operations Mexico, D F",
+          "city": "Mexico",
+          "swift_code": "BCMRMXMMOPC"
+        },
+        {
+          "branch_name": "Pasivos Moneda Extranjera Dept",
+          "city": "Mexico",
+          "swift_code": "BCMRMXMMOPE"
+        },
+        {
+          "branch_name": "Payment Orders Department",
+          "city": "Mexico",
+          "swift_code": "BCMRMXMMPYM"
+        },
+        {
+          "branch_name": "Reconcilement Department",
+          "city": "Mexico",
+          "swift_code": "BCMRMXMMREC"
+        },
+        {
+          "branch_name": "Securities Department",
+          "city": "Mexico",
+          "swift_code": "BCMRMXMMSEC"
+        },
+        {
+          "branch_name": "Transferencias Interbancarias Nacionales",
+          "city": "Mexico",
+          "swift_code": "BCMRMXMMTIN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "BCMRMXMMXXX"
+        },
+        {
+          "branch_name": "Letters Of Credit And Collections Department, Monterrey, N L",
+          "city": "Monterrey",
+          "swift_code": "BCMRMXMMMTY"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bayerische Landesbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BYLAKYKXXXX"
+        },
+        {
+          "branch_name": "International Banking Facility",
+          "city": "New York,Ny",
+          "swift_code": "BYLAUS33IBF"
+        },
+        {
+          "branch_name": "New York Ny",
+          "city": "New York,Ny",
+          "swift_code": "BYLAUS33NYC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "New York,Ny",
+          "swift_code": "BYLAUS33XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "BYLAGB22XXX"
+        },
+        {
+          "branch_name": "European Trade Services",
+          "city": "London",
+          "swift_code": "BYLAGB2LETS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Rakyat Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BRINKYKXXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "New York,Ny",
+          "swift_code": "BRINUS33XXX"
+        },
+        {
+          "branch_name": "Banda Aceh Branch",
+          "city": "Banda Aceh",
+          "swift_code": "BRINIDJA037"
+        },
+        {
+          "branch_name": "Ambon Branch",
+          "city": "Ambon",
+          "swift_code": "BRINIDJA001"
+        },
+        {
+          "branch_name": "Bagan Siapi-api Branch",
+          "city": "Bagan Siapi-Api",
+          "swift_code": "BRINIDJA002"
+        },
+        {
+          "branch_name": "Asia Afrika Branch",
+          "city": "Bandung",
+          "swift_code": "BRINIDJA005"
+        },
+        {
+          "branch_name": "Dewi Sartika Branch",
+          "city": "Bandung",
+          "swift_code": "BRINIDJA286"
+        },
+        {
+          "branch_name": "Banjarmasin Branch",
+          "city": "Banjarmasin",
+          "swift_code": "BRINIDJA003"
+        },
+        {
+          "branch_name": "Batam Branch",
+          "city": "Batam",
+          "swift_code": "BRINIDJA331"
+        },
+        {
+          "branch_name": "Bengkalis Branch",
+          "city": "Bengkalis",
+          "swift_code": "BRINIDJA189"
+        },
+        {
+          "branch_name": "Dili Branch",
+          "city": "Dili",
+          "swift_code": "BRINIDJA317"
+        },
+        {
+          "branch_name": "Dumai Branch",
+          "city": "Dumai",
+          "swift_code": "BRINIDJA159"
+        },
+        {
+          "branch_name": "Cirebon Branch",
+          "city": "Cirebon",
+          "swift_code": "BRINIDJA107"
+        },
+        {
+          "branch_name": "Gresik Branch",
+          "city": "Gresik",
+          "swift_code": "BRINIDJA026"
+        },
+        {
+          "branch_name": "Tanah Abang Branch",
+          "city": "Jakarta",
+          "swift_code": "BRINIDJA018"
+        },
+        {
+          "branch_name": "Jakarta Kota Branch",
+          "city": "Jakarta",
+          "swift_code": "BRINIDJA019"
+        },
+        {
+          "branch_name": "Jatinegara Branch",
+          "city": "Jakarta",
+          "swift_code": "BRINIDJA122"
+        },
+        {
+          "branch_name": "Tanjung Priok Branch",
+          "city": "Jakarta",
+          "swift_code": "BRINIDJA186"
+        },
+        {
+          "branch_name": "Kebayoran Baru Branch",
+          "city": "Jakarta",
+          "swift_code": "BRINIDJA193"
+        },
+        {
+          "branch_name": "Kck-special Branch",
+          "city": "Jakarta",
+          "swift_code": "BRINIDJA206"
+        },
+        {
+          "branch_name": "Cut Mutiah Branch",
+          "city": "Jakarta",
+          "swift_code": "BRINIDJA230"
+        },
+        {
+          "branch_name": "Krekot Branch",
+          "city": "Jakarta",
+          "swift_code": "BRINIDJA261"
+        },
+        {
+          "branch_name": "Mataram Branch",
+          "city": "Mataram",
+          "swift_code": "BRINIDJA052"
+        },
+        {
+          "branch_name": "Padang Branch",
+          "city": "Padang",
+          "swift_code": "BRINIDJA058"
+        },
+        {
+          "branch_name": "Medan Putri Hijau Branch",
+          "city": "Medan",
+          "swift_code": "BRINIDJA053"
+        },
+        {
+          "branch_name": "Medan Pemuda Branch",
+          "city": "Medan",
+          "swift_code": "BRINIDJA336"
+        },
+        {
+          "branch_name": "Palembang Branch",
+          "city": "Palembang",
+          "swift_code": "BRINIDJA059"
+        },
+        {
+          "branch_name": "Pangkal Pinang Branch",
+          "city": "Pangkal Pinang",
+          "swift_code": "BRINIDJA063"
+        },
+        {
+          "branch_name": "Langsa Branch",
+          "city": "Langsa",
+          "swift_code": "BRINIDJA042"
+        },
+        {
+          "branch_name": "Pangkalan Bun Branch",
+          "city": "Pangkalan Bun",
+          "swift_code": "BRINIDJA282"
+        },
+        {
+          "branch_name": "Jember Branch",
+          "city": "Jember",
+          "swift_code": "BRINIDJA021"
+        },
+        {
+          "branch_name": "Pematang Siantar Branch",
+          "city": "Pematang Siantar",
+          "swift_code": "BRINIDJA113"
+        },
+        {
+          "branch_name": "Pontianak Branch",
+          "city": "Pontianak",
+          "swift_code": "BRINIDJA071"
+        },
+        {
+          "branch_name": "Samarinda Branch",
+          "city": "Samarinda",
+          "swift_code": "BRINIDJA082"
+        },
+        {
+          "branch_name": "Bontang Branch",
+          "city": "Bontang",
+          "swift_code": "BRINIDJA333"
+        },
+        {
+          "branch_name": "Rengat Branch",
+          "city": "Rengat",
+          "swift_code": "BRINIDJA284"
+        },
+        {
+          "branch_name": "Pekanbaru Branch",
+          "city": "Pekanbaru",
+          "swift_code": "BRINIDJA170"
+        },
+        {
+          "branch_name": "Sampit Branch",
+          "city": "Sampit",
+          "swift_code": "BRINIDJA163"
+        },
+        {
+          "branch_name": "Pattimura Branch",
+          "city": "Semarang",
+          "swift_code": "BRINIDJA083"
+        },
+        {
+          "branch_name": "Raba-bima Branch",
+          "city": "Raba-Bima",
+          "swift_code": "BRINIDJA079"
+        },
+        {
+          "branch_name": "Sidoarjo Branch",
+          "city": "Sidoarjo",
+          "swift_code": "BRINIDJA086"
+        },
+        {
+          "branch_name": "Sukabumi Branch",
+          "city": "Sukabumi",
+          "swift_code": "BRINIDJA092"
+        },
+        {
+          "branch_name": "Tanjung Pandan Branch",
+          "city": "Tanjung Pandan",
+          "swift_code": "BRINIDJA131"
+        },
+        {
+          "branch_name": "Tangerang Branch",
+          "city": "Tangerang",
+          "swift_code": "BRINIDJA120"
+        },
+        {
+          "branch_name": "Tanjung Pinang Branch",
+          "city": "Tanjung Pinang",
+          "swift_code": "BRINIDJA174"
+        },
+        {
+          "branch_name": "Tanjung Karang Branch",
+          "city": "Tanjung Karang",
+          "swift_code": "BRINIDJA098"
+        },
+        {
+          "branch_name": "Ternate Branch",
+          "city": "Ternate",
+          "swift_code": "BRINIDJA103"
+        },
+        {
+          "branch_name": "Kaliasin Branch",
+          "city": "Surabaya",
+          "swift_code": "BRINIDJA096"
+        },
+        {
+          "branch_name": "Rajawali Branch",
+          "city": "Surabaya",
+          "swift_code": "BRINIDJA172"
+        },
+        {
+          "branch_name": "Pahlawan Branch",
+          "city": "Surabaya",
+          "swift_code": "BRINIDJA211"
+        },
+        {
+          "branch_name": "Tanjung Perak Branch",
+          "city": "Surabaya",
+          "swift_code": "BRINIDJA328"
+        },
+        {
+          "branch_name": "Tebingtinggi Branch",
+          "city": "Tebingtinggi",
+          "swift_code": "BRINIDJA283"
+        },
+        {
+          "branch_name": "Tegal Branch",
+          "city": "Tegal",
+          "swift_code": "BRINIDJA101"
+        },
+        {
+          "branch_name": "Tembilahan Branch",
+          "city": "Tembilahan",
+          "swift_code": "BRINIDJA175"
+        },
+        {
+          "branch_name": "Teluk Betung Branch",
+          "city": "Teluk Betung",
+          "swift_code": "BRINIDJA285"
+        },
+        {
+          "branch_name": "Achmad Yani Branch",
+          "city": "Ujung Pandang",
+          "swift_code": "BRINIDJA050"
+        },
+        {
+          "branch_name": "Somba Opu Branch",
+          "city": "Ujung Pandang",
+          "swift_code": "BRINIDJA343"
+        },
+        {
+          "branch_name": "Biak Branch",
+          "city": "Biak",
+          "swift_code": "BRINIDJA308"
+        },
+        {
+          "branch_name": "Jambi Branch",
+          "city": "Jambi",
+          "swift_code": "BRINIDJA020"
+        },
+        {
+          "branch_name": "Slamet Riyadi Branch",
+          "city": "Solo",
+          "swift_code": "BRINIDJA097"
+        },
+        {
+          "branch_name": "Custodian Bri",
+          "city": "Jakarta",
+          "swift_code": "BRINIDJACUS"
+        },
+        {
+          "branch_name": "Jakarta",
+          "city": "Jakarta",
+          "swift_code": "BRINIDJATRY"
+        },
+        {
+          "branch_name": "Veteran Branch",
+          "city": "Jakarta",
+          "swift_code": "BRINIDJA329"
+        },
+        {
+          "branch_name": "Fatmawati Branch",
+          "city": "Jakarta",
+          "swift_code": "BRINIDJA330"
+        },
+        {
+          "branch_name": "Hayam Wuruk Branch",
+          "city": "Jakarta",
+          "swift_code": "BRINIDJA332"
+        },
+        {
+          "branch_name": "Kramat Branch",
+          "city": "Jakarta",
+          "swift_code": "BRINIDJA335"
+        },
+        {
+          "branch_name": "Roxi Branch",
+          "city": "Jakarta",
+          "swift_code": "BRINIDJA338"
+        },
+        {
+          "branch_name": "Otista Branch",
+          "city": "Jakarta",
+          "swift_code": "BRINIDJA340"
+        },
+        {
+          "branch_name": "Pasar Pagi Branch",
+          "city": "Jakarta",
+          "swift_code": "BRINIDJA346"
+        },
+        {
+          "branch_name": "Gatot Subroto Branch",
+          "city": "Jakarta",
+          "swift_code": "BRINIDJA359"
+        },
+        {
+          "branch_name": "Trade Finance Processing Centre Jakarta I",
+          "city": "Jakarta",
+          "swift_code": "BRINIDJA370"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BRINIDJAXXX"
+        },
+        {
+          "branch_name": "Kendari Branch",
+          "city": "Kendari",
+          "swift_code": "BRINIDJA192"
+        },
+        {
+          "branch_name": "Kediri Branch",
+          "city": "Kediri",
+          "swift_code": "BRINIDJA033"
+        },
+        {
+          "branch_name": "Kotabaru Branch",
+          "city": "Kotabaru",
+          "swift_code": "BRINIDJA127"
+        },
+        {
+          "branch_name": "Kudus Branch",
+          "city": "Kudus",
+          "swift_code": "BRINIDJA038"
+        },
+        {
+          "branch_name": "Kupang Branch",
+          "city": "Kupang",
+          "swift_code": "BRINIDJA039"
+        },
+        {
+          "branch_name": "Lhokseumawe Branch",
+          "city": "Lhokseumawe",
+          "swift_code": "BRINIDJA043"
+        },
+        {
+          "branch_name": "Luwuk Branch",
+          "city": "Luwuk",
+          "swift_code": "BRINIDJA167"
+        },
+        {
+          "branch_name": "Manado Branch",
+          "city": "Manado",
+          "swift_code": "BRINIDJA054"
+        },
+        {
+          "branch_name": "Malang Branch",
+          "city": "Malang",
+          "swift_code": "BRINIDJA051"
+        },
+        {
+          "branch_name": "Metro Branch",
+          "city": "Metro",
+          "swift_code": "BRINIDJA130"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Espirito Santo S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BESCKYKXXXX"
+        },
+        {
+          "branch_name": "Sucursal Financeira Exterior, Madeira Branch",
+          "city": "Funchal",
+          "swift_code": "BESCPTPLOSF"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "BESCPTPLXXX"
+        },
+        {
+          "branch_name": "4000 Porto",
+          "city": "Porto",
+          "swift_code": "BESCPTPLOPR"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aib Bank",
+      "branches": [
+        {
+          "branch_name": "Treasury Dept",
+          "city": "Georgetown",
+          "swift_code": "AIBKKYK1TMK"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "AIBKKYK1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "New York,Ny",
+          "swift_code": "AIBKUS33XXX"
+        },
+        {
+          "branch_name": "Treasury Dept",
+          "city": "New York,Ny",
+          "swift_code": "AIBKUS3TTMK"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "New York,Ny",
+          "swift_code": "AIBKUS3TXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dublin",
+          "swift_code": "AIBKIE2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vbt Bank And Trust,ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Grand Cayman",
+          "swift_code": "VBTBKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samena Capital Management Llp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Grand",
+          "swift_code": "SCNPKYK1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "SCTLGB21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Metage Capital Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "MEPMKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inchauspe Bank Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "IEBCKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dnb Bank Asa, Grand Cayman Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "DNBAKYKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brasilian American Merchant Bank (bamb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BAMBKYKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional De Comercio Exterior",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BNCEKYKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Indusval Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Grand Cayman",
+          "swift_code": "IDVLKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco General (overseas) Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Grand",
+          "swift_code": "BGOSKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Frances (cayman) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BFGCKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Fibra S/a-grand Cayman Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "FIBIKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De La Nacion Argentina, Grand Cayman Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "NACNKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Colpatria Cayman",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Grand",
+          "swift_code": "COLPKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Btg Pactual Sa Cayman Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BPABKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bpi Cayman Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BCYLKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bpi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BBPIKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bozano, Simonsen Sa, Grand Cayman Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BBSIKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Abc Brasil S.a.-cayman Islands Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "ABCBKYKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atlantic Security Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "ATSEKYKYXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "ATSEPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atc Trustees (cayman) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "ATTRKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arrowgrass Master Fund Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Grand",
+          "swift_code": "ARMUKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arnott Capital",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "ARNCKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arrowgrass Capital Partners Llp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "ACPLKYK1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Reading",
+          "swift_code": "ACPLGB21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Argentaria Capital Funding Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "ARCFKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Altajir Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "ABNKKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "3 Capital Holdings Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "CAHLKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Blackstone",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BLAOKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bie Bank And Trust Ltd.",
+      "branches": [
+        {
+          "branch_name": "Bie Bank And Trust Ltd.",
+          "city": "Georgetown",
+          "swift_code": "ITAUKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bic International Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "ESCAKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bfc Bank (cayman) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BFCGKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bes Investimento Do Brasil S.a.-banco De Investimento",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Grand",
+          "swift_code": "BESBKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Beg Bank (cayman Islands",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BBCIKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Basso Capital Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BAPGKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Multi-commerciale",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "MCBAKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banpais S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BANPKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankamerica Trust And Banking Corporation (cayman) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BOFAKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of China, Grand Cayman Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BKCHKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Leumi Le-israel B.m. George Town Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "LUMIKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Hapoalim (cayman) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "POALKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Espirito Santo (international) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BESKKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Dagang Nasional Indonesia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "DANIKYK1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "DANIPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Santander (brasil) Sa Grand Cayman Branch",
+      "branches": [
+        {
+          "branch_name": "Georgetown",
+          "city": "Georgetown",
+          "swift_code": "BSCHKYKXCAY"
+        },
+        {
+          "branch_name": "Georgetown",
+          "city": "Georgetown",
+          "swift_code": "BSCHKYKXGEB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BSCHKYKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Real Grand Cayman Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "REALKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Rabobank International Brasil S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "RABOKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Privado Portugues (cayman) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BPPOKYK1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BPPOKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dms Bank And Trust Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "CAYIKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dlj Cayman Islands Ldc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "DCILKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Diamond Notch Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "DNANKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Diamond Head Capital Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "DHCGKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank (cayman) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "DEUTKY22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Ag, Cayman Islands Branch",
+      "branches": [
+        {
+          "branch_name": "Cayman Islands Branch",
+          "city": "Georgetown",
+          "swift_code": "CSFBKYKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole (formerly Banque Indosuez",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BSUIKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commerzbank Ag,cayman Islands Branc H",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "COBAKYKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Bank (grand Cayman), Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "CBKPKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citco Bank And Trust Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "CITCKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cibc Bank And Trust Company (cayman) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Grand",
+          "swift_code": "CIBCKYKCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cc Arbitrage Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "ARBGKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cayman National Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "CNATKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cayman Islands Monetary Authority",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "CIMGKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carlson Capital Llp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "CRTPKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caledonian Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "CBTLKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa Geral De Depositos, Grand Cayman Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Grand",
+          "swift_code": "CGDIKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cainvest International Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Grand",
+          "swift_code": "BKCAKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Butterfield Bank (cayman) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BNTBKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Imperial Dragon Asset Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "IDANKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank Usa N.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "HSBCKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank Brasil S.a.-banco Multiplo (grand Cayman Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BCBBKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank (cayman) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "HSBCKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Henderson Uk Equity Long Short Fund Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "HELHKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Helm Bank Cayman",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BCTOKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hbk Master Fund L.p.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "HBMFKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Greenwoods Asset Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "GRSGKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ginger Capital Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "GICMKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Galaxy Asset Management (hong Kong) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "GAMHKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gaiacorp Trading Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "GATRKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "G.s. Financial Products U.s., L.p.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "GSFPKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Firstcaribbean International Bank (cayman) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "FCIBKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Home Banking Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "FHOMKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ferox Master Fund Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "FEMFKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurowire Clearing Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "EUCIKYK1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Charlestown",
+          "swift_code": "EULOKNS1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Roadtown",
+          "swift_code": "EUCTVGV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Euro Canadian Bank And Trust Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "ECBTKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Efg Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "EFGBKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Doric Capital Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "DOCTKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch Bank And Trust Company (cayman) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "MLBCKYKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercury Bank And Trust Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "MTRLKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meespierson (cayman) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "PHPEKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Marco Polo Pure Asset Management (cayman Islands",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "MPPAKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Linmat Capital Investment Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "LCIAKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Leumi Cayman Finance And Trust Corp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "LCFTKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Landesbank Hessen-thueringen Girozentrale, Cayman Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "HELAKYKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kyte Funds Spc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Grand",
+          "swift_code": "KYFSKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kbc Investments Cayman Islands V Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "KBCFKYKZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kbc Financial Products International Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "KBCFKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kbc Financial Products (cayman Islands) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "KBCFKYKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kadora Investments Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "KAIVKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J. Rothschild Ppg Securities And Cie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Grand",
+          "swift_code": "ROPRKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Itau Unibanco S.a., Grand Cayman Branch",
+      "branches": [
+        {
+          "branch_name": "Current Account",
+          "city": "Georgetown",
+          "swift_code": "ITAUKYKCIGC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "ITAUKYKCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Israel Discount Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "IDBLKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Itau Bank, Limited",
+      "branches": [
+        {
+          "branch_name": "Itau Bank, Limited",
+          "city": "Georgetown",
+          "swift_code": "ITAUKYKTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investcorp Trading Limited",
+      "branches": [
+        {
+          "branch_name": "Boundary Hall Branch",
+          "city": "Grand",
+          "swift_code": "INVCKYKYISA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "INVCKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intesa Sanpaolo Spa Georgetown (formerly Intesabci S.p.a. Georgetown",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BCITKYKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Incobank And Trust Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "INCTKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Salomon Partners Wrs Werner Rothschild And Cie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Grand Cayman",
+          "swift_code": "SAWWKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Russian Renaissance Investment Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "RRICKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rp Capital Uk Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "CPLTKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Royal Bank Of Canada Trust Company (cayman) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "ROYCKYKTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rofin International Bank And Trust",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "ROIBKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ribble Investment Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "RIBIKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbc Royal Bank (cayman) Limited (formerly Known As Royal Bank Of Canada Grand Cayman",
+      "branches": [
+        {
+          "branch_name": "Georgetown",
+          "city": "Georgetown",
+          "swift_code": "ROYCKYKYKYQ"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "ROYCKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Radish Investment Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "RAIOKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pt Bank Mandiri (persero)tbk Cayman Islands Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BMRIKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ps Asset Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "ASCOKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Portigon Ag, Grand Cayman",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "WELAKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pivot Capital Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "PICAKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Octis Asset Management Caymen Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "OAMAKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Octagon Capital Management Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "OCMPKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ocean Capital Management (cayman) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "OCMCKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nippon Credit Bank Grand Cayman",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "NCGAKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Morval Bank And Trust Cayman Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "MORVKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mizuho Do Brasil Cayman Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "WELAKYKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Millennium Bcp Bank And Trust",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BCOMKYKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unicredit Bank Cayman Islands Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BKAUKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Fund Service (cayman) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "UBSWKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Transocean Bank And Trust, Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "TRBTKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Transcorp Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "TPBAKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trade And Commerce Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "TCEBKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Towerbank, Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "TOWEKYKYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tir (holdings) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "STIRKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Telluride Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "TEAEKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tech Data Global Finance L.p.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "TDGFKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tairen Capital Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "TACTKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swedbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "SWEDKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sunset Mesa Fund Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "SMECKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Strategis Capital Managment Cayman Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "SCAYKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Street Cayman Trust Company Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "SSCTKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Siam Commercial Bank Pcl., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Grand",
+          "swift_code": "SICOKYKYXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Vientiane",
+          "swift_code": "SICOLALAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sfc Investment Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "SFINKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scotiabank And Trust (cayman) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Trust Department",
+          "city": "Georgetown",
+          "swift_code": "NOSCKYKXTRU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "NOSCKYKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Schroder Cayman Bank And Trust Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "SCBTKYK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sark Master Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "SAAFKYK1XXX"
+        }
+      ]
+    }
+  ]
+}

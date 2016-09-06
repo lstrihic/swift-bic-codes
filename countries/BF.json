@@ -1,0 +1,187 @@
+{
+  "country_name": "Burkina Faso",
+  "alpha_2": "BF",
+  "country_code": "854",
+  "banks": [
+    {
+      "bank_name": "Societe Generale De Banques Au Burkina 'sgbb'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ouagadougou",
+          "swift_code": "SGBBBFBFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "La Banque Agricole Et Commerciale Du Burkina (bacb),la",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ouagadougou",
+          "swift_code": "CNCBBFBFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Burkina",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ouagadougou",
+          "swift_code": "ECOCBFBFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Depositaire Central-banque De Reglement (dcbr Burkina Faso",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ouagadougou",
+          "swift_code": "DCRCBFB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Coris Bank International",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ouagadougou",
+          "swift_code": "CORIBFBFXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "CORICIABXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cbao Groupe Attijariwafa Bank Burkina Faso",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ouagadougou Ouagadougou",
+          "swift_code": "CBAOBFBGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caisse Centrale De Cooperation Economique",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ouagadougou",
+          "swift_code": "CCECBFB1XXX"
+        },
+        {
+          "branch_name": "Caisse Centrale De Cooperation Economique",
+          "city": "Kinshasa",
+          "swift_code": "CCNCCDK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bicia Du Burkina",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ouagadougou",
+          "swift_code": "BICIBFBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Sahelo-saharienne Pour L'investissement Et Le Commerce (burkina Faso) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ouagadougou",
+          "swift_code": "BSAHBFBFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Regionale De Solidarite-burkina Faso",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ouagadougou",
+          "swift_code": "BRSWBFBFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Pour Le Financement Du Commerce Et Des Investissements Du Burkina",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ouagadougou",
+          "swift_code": "BFCBBFB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Nationale De Developpement",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ouagadougou",
+          "swift_code": "NDEVBFB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Internationale Du Burkina",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ouagadougou",
+          "swift_code": "BIBUBFBFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De L'habitat Du Burkina Faso",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ouagadougou",
+          "swift_code": "BHBFBFBFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Commerciale Du Burkina",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ouagadougou",
+          "swift_code": "BNCFBFBFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Atlantique Burkina Faso",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ouagadougou",
+          "swift_code": "ATBFBFBFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Africa-burkina Fasso",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ouagadougou",
+          "swift_code": "AFRIBFBFXXX"
+        }
+      ]
+    }
+  ]
+}

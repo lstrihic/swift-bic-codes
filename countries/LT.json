@@ -1,0 +1,457 @@
+{
+  "country_name": "Lithuania",
+  "alpha_2": "LT",
+  "country_code": "440",
+  "banks": [
+    {
+      "bank_name": "Uab Fm Finbaltus",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "FNBTLT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uab Fm Baltijos Vertyblnlai Poplerlai",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "BVPPLT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Seb Enskilda Uab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "SENULT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pohjola Bank Plc Lithuanian Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "OKOYLT2XXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "OKOYLT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Naugvilda Fmi Uab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "NAUVLT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nasdaq Omx Vilnius Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "XLITLT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mp Investment Bank Hf",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "INBHLT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sinkus Fm Uab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "SIKULT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kredito Bankas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "KRBALT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "G. Steponkaus Kontora Fmuab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "STEKLT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fmi Uab Baltic Stockholm Sparkassa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Klaipeda",
+          "swift_code": "BATKLT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kapitalo Srautal Uab Fm",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "KPTLLT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finhill",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "FIHHLT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fm Uab Suprema",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "SPRALT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financial Brokerage Company Dv Invest Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "DVINLT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ekspres Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "EKCBLT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Diskontas Finansinio Maklerio Uab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panevezys",
+          "swift_code": "DISTLT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Baltic Investment Group",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "IBHBLT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Akcine Bendrove Lietuvos Pastas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "ABLPLT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vivum Fmi Uab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "VIVULT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uab Medicinos Bankas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "MDBALT22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cjsc Fbc Mrc Markets",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "CFMALT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uab Fmi Spekonis Ir Gastonas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "SPEKLT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uab Fm Technologiju Valdymo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaunas",
+          "swift_code": "TEVALT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uab Fm International Market",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "INLTLT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uab Fmi Jus Tarpininkas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaunas",
+          "swift_code": "UABFLT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uab Fmi Zabolis Ir Partneriai",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "UFZPLT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abfc Finance",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "ABFCLT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ab Fmi Finasta",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "FNSTLTL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Akcin Bendrov Vb Busto Kredit Ir Obligacij Bankas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "BKOBLT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ukio Bankas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaunas",
+          "swift_code": "UKIOLT2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uab Fmi Finvesta",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "UAFFLT22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Siauliu Bankas Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Siauliai",
+          "swift_code": "CBSBLT26XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Bank Finland Plc Lithuania Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "NDEALT2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lithuanian Central Credit Union",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaunas",
+          "swift_code": "LCKULT22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lietuvos Centrinis Vertybiniu Popieriu Depozitoriumas, Ab (Central Securities Depository Of Lithuania)",
+      "branches": [
+        {
+          "branch_name": "Pm",
+          "city": "Vilnius",
+          "swift_code": "CSDLLT22RTG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "CSDLLT22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lietuvos Bankas (Bank Of Lithuania)",
+      "branches": [
+        {
+          "branch_name": "Target2 Contingency",
+          "city": "Vilnius",
+          "swift_code": "LIABLT2XCON"
+        },
+        {
+          "branch_name": "Payment Systems Department",
+          "city": "Vilnius",
+          "swift_code": "LIABLT2XMSD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "LIABLT2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsc Smp Bank Lithuanian Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "SMPBLT2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Danske Bank A/S,Lithuania Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "SMPOLT22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Finasta",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "FIBALT22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "As Unicredit Bank Lietuvos Skyrius",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "UNCRLT22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ab Dnb Bankas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "AGBLLT2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ab Citadele Bankas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "INDULT2XXXX"
+        }
+      ]
+    }
+  ]
+}

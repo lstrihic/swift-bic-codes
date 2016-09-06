@@ -1,0 +1,1017 @@
+{
+  "country_name": "Kenya",
+  "alpha_2": "KE",
+  "country_code": "404",
+  "banks": [
+    {
+      "bank_name": "Victoria Commercial Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "VICMKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uba Kenya Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "UNAFKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trans-national Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "TNBLKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Suntra Investment Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "SUSTKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Investment Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "STSKKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank Kenya Limited",
+      "branches": [
+        {
+          "branch_name": "Securities Services Unit",
+          "city": "Nairobi",
+          "swift_code": "SCBLKENXSSU"
+        },
+        {
+          "branch_name": "Trade",
+          "city": "Nairobi",
+          "swift_code": "SCBLKENXTRD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "SCBLKENXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Solid Investment Securities Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "SOISKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Renaissance Capital (kenya) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "RECYKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Reliable Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "RELSKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shah Munge And Partners Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "SHMPKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Paramount Universal Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "PAUTKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prime Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "PRIEKENXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperative Bank Of Kenya Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "KCOOKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Consolidated Bank Of Kenya Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "CONKKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Bank Of Africa Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "CBAFKENXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank N.a. Nairobi",
+      "branches": [
+        {
+          "branch_name": "Trade Services Department",
+          "city": "Nairobi",
+          "swift_code": "CITIKENATRD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "CITIKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chase Bank (kenya) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "CKENKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Charterhouse Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "CHBLKENXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cfc Stanbic Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Mombasa",
+          "city": "Mombasa",
+          "swift_code": "SBICKEN10MB"
+        },
+        {
+          "branch_name": "Structured Payments",
+          "city": "Nairobi",
+          "swift_code": "SBICKENXSSP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "SBICKENXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Community Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "IFCBKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Panafrican Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "PABLKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oriental Commercial Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "DELFKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nic Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "NINCKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ngenye Kariuki And Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "NGKAKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Kenya Ltd.",
+      "branches": [
+        {
+          "branch_name": "Awendo Branch",
+          "city": "Nairobi",
+          "swift_code": "NBKEKENX302"
+        },
+        {
+          "branch_name": "Corporate Division",
+          "city": "Nairobi",
+          "swift_code": "NBKEKENX310"
+        },
+        {
+          "branch_name": "Hospital Branch",
+          "city": "Nairobi",
+          "swift_code": "NBKEKENX329"
+        },
+        {
+          "branch_name": "Ruiru Branch",
+          "city": "Ruiru",
+          "swift_code": "NBKEKENX337"
+        },
+        {
+          "branch_name": "Harambee Avenue Branch",
+          "city": "Nairobi",
+          "swift_code": "NBKEKENX711"
+        },
+        {
+          "branch_name": "Kenyatta Avenue Branch",
+          "city": "Nairobi",
+          "swift_code": "NBKEKENX725"
+        },
+        {
+          "branch_name": "Mombasa Nkurumah Branch",
+          "city": "Nairobi",
+          "swift_code": "NBKEKENX739"
+        },
+        {
+          "branch_name": "Moi Avenue Branch",
+          "city": "Nairobi",
+          "swift_code": "NBKEKENX743"
+        },
+        {
+          "branch_name": "Nakuru Branch",
+          "city": "Nairobi",
+          "swift_code": "NBKEKENX757"
+        },
+        {
+          "branch_name": "Kisumu Branch",
+          "city": "Nairobi",
+          "swift_code": "NBKEKENX761"
+        },
+        {
+          "branch_name": "Eldoret Branch",
+          "city": "Nairobi",
+          "swift_code": "NBKEKENX789"
+        },
+        {
+          "branch_name": "Hill Plaza Branch",
+          "city": "Nairobi",
+          "swift_code": "NBKEKENX808"
+        },
+        {
+          "branch_name": "Kisii Branch",
+          "city": "Nairobi",
+          "swift_code": "NBKEKENX815"
+        },
+        {
+          "branch_name": "Busia Branch",
+          "city": "Nairobi",
+          "swift_code": "NBKEKENX828"
+        },
+        {
+          "branch_name": "Meru Branch",
+          "city": "Nairobi",
+          "swift_code": "NBKEKENX833"
+        },
+        {
+          "branch_name": "Karatina Branch",
+          "city": "Nairobi",
+          "swift_code": "NBKEKENX841"
+        },
+        {
+          "branch_name": "Narok Branch",
+          "city": "Nairobi",
+          "swift_code": "NBKEKENX868"
+        },
+        {
+          "branch_name": "Nyeri Branch",
+          "city": "Nairobi",
+          "swift_code": "NBKEKENX876"
+        },
+        {
+          "branch_name": "Kitale Branch",
+          "city": "Nairobi",
+          "swift_code": "NBKEKENX884"
+        },
+        {
+          "branch_name": "Limuru Branch",
+          "city": "Nairobi",
+          "swift_code": "NBKEKENX922"
+        },
+        {
+          "branch_name": "Kitui Branch",
+          "city": "Nairobi",
+          "swift_code": "NBKEKENX930"
+        },
+        {
+          "branch_name": "Molo Branch",
+          "city": "Nairobi",
+          "swift_code": "NBKEKENX949"
+        },
+        {
+          "branch_name": "Bungoma Branch",
+          "city": "Nairobi",
+          "swift_code": "NBKEKENX957"
+        },
+        {
+          "branch_name": "Kapsabet Branch",
+          "city": "Nairobi",
+          "swift_code": "NBKEKENX965"
+        },
+        {
+          "branch_name": "Mombasa Moi Branch",
+          "city": "Nairobi",
+          "swift_code": "NBKEKENX973"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "NBKEKENXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nairobi Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "XNAIKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Middle East Bank Kenya Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "MIEKKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kestrel Capital East Africa Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "KCEAKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kenya Post Office Savings Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "KPOBKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kenya Wide Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "KEWSKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kenya Commercial Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Industrial Area",
+          "city": "Nairobi",
+          "swift_code": "KCBLKENX002"
+        },
+        {
+          "branch_name": "Kipande House",
+          "city": "Nairobi",
+          "swift_code": "KCBLKENX005"
+        },
+        {
+          "branch_name": "Gigiri-unep Branch",
+          "city": "Nairobi",
+          "swift_code": "KCBLKENX012"
+        },
+        {
+          "branch_name": "Moi Avenue",
+          "city": "Nairobi",
+          "swift_code": "KCBLKENX017"
+        },
+        {
+          "branch_name": "Kisumu Main",
+          "city": "Nairobi",
+          "swift_code": "KCBLKENX077"
+        },
+        {
+          "branch_name": "Treasury Square",
+          "city": "Mombasa",
+          "swift_code": "KCBLKENX080"
+        },
+        {
+          "branch_name": "Domestic Money Market Unit",
+          "city": "Nairobi",
+          "swift_code": "KCBLKENXDMM"
+        },
+        {
+          "branch_name": "Treasury",
+          "city": "Nairobi",
+          "swift_code": "KCBLKENXTMK"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "KCBLKENXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "K-rep Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "KREPKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jamii Bora Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "CIFIKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Imperial Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "IMPLKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "I And M Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Funds Transfer Department",
+          "city": "Nairobi",
+          "swift_code": "IMBLKENAFTR"
+        },
+        {
+          "branch_name": "Settlement Department",
+          "city": "Nairobi",
+          "swift_code": "IMBLKENASTL"
+        },
+        {
+          "branch_name": "Trade Finance Department",
+          "city": "Nairobi",
+          "swift_code": "IMBLKENATRD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "IMBLKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Housing Finance Company Of Kenya",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "HFCOKENAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "HFCOKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hak Securities Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "HAKSKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Guardian Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "GUARKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gulf African Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "GAFRKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Giro Commercial Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "GIROKENXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fina Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "FBAKKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fidelity Commercial Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "FCBLKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Family Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "FABLKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Faida Investment Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "FASRKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Euro Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "EUOOKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Equity Stockbrokers Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "EQSTKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Equity Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "EQBLKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Equatorial Commercial Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "EQUAKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Kenya Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "ECOCKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eastern And Southern African Trade And Developmentbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "ESATKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dyer And Blair Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "DYBRKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dubai Bank Kenya Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "DUKNKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Drummond Investment Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "FRDRKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Discount Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "DISRKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Diamond Trust Bank Kenya Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "DTKEKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Development Bank Of Kenya Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "DEVKKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Crossfield Securities Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "CRORKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "CRBTKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cfc Financial Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "CFFSKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Kenya",
+      "branches": [
+        {
+          "branch_name": "Eldoret Branch",
+          "city": "Eldoret",
+          "swift_code": "CBKEKEN1ELD"
+        },
+        {
+          "branch_name": "Kisumu Branch",
+          "city": "Kisumu",
+          "swift_code": "CBKEKEN1KSM"
+        },
+        {
+          "branch_name": "Mombasa Branch",
+          "city": "Mombasa",
+          "swift_code": "CBKEKEN1MSA"
+        },
+        {
+          "branch_name": "Banking Division",
+          "city": "Nairobi",
+          "swift_code": "CBKEKENXBKG"
+        },
+        {
+          "branch_name": "Currency Division",
+          "city": "Nairobi",
+          "swift_code": "CBKEKENXCNY"
+        },
+        {
+          "branch_name": "National Debt Division",
+          "city": "Nairobi",
+          "swift_code": "CBKEKENXNDO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "CBKEKENXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Biashara Bank Of Kenya Ltd.",
+      "branches": [
+        {
+          "branch_name": "Mombasa",
+          "city": "Mombasa",
+          "swift_code": "BIBKKEN10MB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "BIBKKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclaytrust Investment Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "BAIVKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Bank Of Kenya, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Dealers Department Ho",
+          "city": "Nairobi",
+          "swift_code": "BARCKENXDLR"
+        },
+        {
+          "branch_name": "Eldoret Branch",
+          "city": "Eldoret",
+          "swift_code": "BARCKENXELD"
+        },
+        {
+          "branch_name": "Digo Road Mombasa",
+          "city": "Mombasa",
+          "swift_code": "BARCKENXMDR"
+        },
+        {
+          "branch_name": "Nkrumah Road Branch",
+          "city": "Mombasa",
+          "swift_code": "BARCKENXMNR"
+        },
+        {
+          "branch_name": "Card Centre Nairobi",
+          "city": "Nairobi",
+          "swift_code": "BARCKENXNCC"
+        },
+        {
+          "branch_name": "Nairobi Distribution Centre",
+          "city": "Nairobi",
+          "swift_code": "BARCKENXNDC"
+        },
+        {
+          "branch_name": "Plaza Business Centre",
+          "city": "Nairobi",
+          "swift_code": "BARCKENXNPB"
+        },
+        {
+          "branch_name": "Back Office Processing Centre, Bank House",
+          "city": "Nairobi",
+          "swift_code": "BARCKENXOCB"
+        },
+        {
+          "branch_name": "Payments And International Services",
+          "city": "Nairobi",
+          "swift_code": "BARCKENXPIS"
+        },
+        {
+          "branch_name": "Trade Processing Centre",
+          "city": "Nairobi",
+          "swift_code": "BARCKENXTPC"
+        },
+        {
+          "branch_name": "Voucher Processing Centre",
+          "city": "Nairobi",
+          "swift_code": "BARCKENXVPC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "BARCKENXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Baroda (kenya) Ltd",
+      "branches": [
+        {
+          "branch_name": "Industrial Area Br",
+          "city": "Nairobi",
+          "swift_code": "BARBKENAIND"
+        },
+        {
+          "branch_name": "Kakamega Branch",
+          "city": "Kakamega",
+          "swift_code": "BARBKENAKAK"
+        },
+        {
+          "branch_name": "Kisumu Branch",
+          "city": "Kisumu",
+          "swift_code": "BARBKENAKIS"
+        },
+        {
+          "branch_name": "Digo Road, Mombasa",
+          "city": "Mombasa",
+          "swift_code": "BARBKENAMOM"
+        },
+        {
+          "branch_name": "Nairobi Main",
+          "city": "Nairobi",
+          "swift_code": "BARBKENANMO"
+        },
+        {
+          "branch_name": "Nyali Branch, Mombasa, Kenya",
+          "city": "Mombasa",
+          "swift_code": "BARBKENANYA"
+        },
+        {
+          "branch_name": "Sarit Centre",
+          "city": "Nairobi",
+          "swift_code": "BARBKENASAR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "BARBKENAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Africa Kenya Ltd",
+      "branches": [
+        {
+          "branch_name": "Mombasa Branch",
+          "city": "Mombasa",
+          "swift_code": "AFRIKENX002"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "AFRIKENXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Afrika Investment Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "ASHSKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "African Banking Corporation Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "ABCLKENAXXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1262 @@
+{
+  "country_name": "Nigeria",
+  "alpha_2": "NG",
+  "country_code": "566",
+  "banks": [
+    {
+      "bank_name": "Zenith Pensions Custodian Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "ZEPCNGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uba Capital Plc",
+      "branches": [
+        {
+          "branch_name": "Uba Capital Plc",
+          "city": "Lagos",
+          "swift_code": "UBPLNGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trade-on-web, Llc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Warri",
+          "swift_code": "TRLLNGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trade Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "TDEBNGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronics West Africa Limited",
+      "branches": [
+        {
+          "branch_name": "Lagos",
+          "city": "Lagos",
+          "swift_code": "SECTNGL1701"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "SECTNGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Renaissance Securities (nigeria) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "REECNGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rand Merchant Bank Nigeria",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Victoria Island",
+          "swift_code": "FIRNNGLAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nigerian Stock Exchange, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "XNSANGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nigerian Industrial Development Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "NIDBNGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nigerian Export Import Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abuja",
+          "swift_code": "NEXMNGLAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nigeria Universal Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Katsina",
+          "city": "Katsina",
+          "swift_code": "KNUBNGL1022"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "KNUBNGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nigeria Universal Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaduna",
+          "swift_code": "KACBNG21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Metropolitan Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "METMNGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Manny Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "MAMBNGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lobe Bank Of Nigeria",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "LBNINGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kakawa Discount House",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "KDHLNGLAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jaiz Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abuja",
+          "swift_code": "JAIZNGLAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ikon Capital Africa Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "IKONNGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Bank Of Nigeria Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "UBNINGLAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sterling Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "NAMENGLAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Bank For Africa Plc",
+      "branches": [
+        {
+          "branch_name": "Aba Main Branch",
+          "city": "Aba",
+          "swift_code": "UNAFNGLA088"
+        },
+        {
+          "branch_name": "Aba-owerri Rd Branch",
+          "city": "Aba",
+          "swift_code": "UNAFNGLA171"
+        },
+        {
+          "branch_name": "Eziukwu Branch",
+          "city": "Aba",
+          "swift_code": "UNAFNGLA223"
+        },
+        {
+          "branch_name": "Abeokuta Branch",
+          "city": "Abeokuta",
+          "swift_code": "UNAFNGLA055"
+        },
+        {
+          "branch_name": "Abuja Branch",
+          "city": "Abuja",
+          "swift_code": "UNAFNGLA114"
+        },
+        {
+          "branch_name": "Nicon Noga Branch",
+          "city": "Abuja",
+          "swift_code": "UNAFNGLA215"
+        },
+        {
+          "branch_name": "Akure Branch",
+          "city": "Akure",
+          "swift_code": "UNAFNGLA056"
+        },
+        {
+          "branch_name": "Asaba Branch",
+          "city": "Asaba",
+          "swift_code": "UNAFNGLA175"
+        },
+        {
+          "branch_name": "Awka Branch",
+          "city": "Awka",
+          "swift_code": "UNAFNGLA164"
+        },
+        {
+          "branch_name": "Calabar Branch",
+          "city": "Calabar",
+          "swift_code": "UNAFNGLA094"
+        },
+        {
+          "branch_name": "Hadejia Branch",
+          "city": "Hadejia",
+          "swift_code": "UNAFNGLA126"
+        },
+        {
+          "branch_name": "Enugu Branch",
+          "city": "Enugu",
+          "swift_code": "UNAFNGLA084"
+        },
+        {
+          "branch_name": "Unec Branch",
+          "city": "Enugu",
+          "swift_code": "UNAFNGLA123"
+        },
+        {
+          "branch_name": "Agbani Road Branch",
+          "city": "Enugu",
+          "swift_code": "UNAFNGLA176"
+        },
+        {
+          "branch_name": "Funtua Branch",
+          "city": "Funtua",
+          "swift_code": "UNAFNGLA054"
+        },
+        {
+          "branch_name": "Benin Branch",
+          "city": "Benin City",
+          "swift_code": "UNAFNGLA044"
+        },
+        {
+          "branch_name": "Ugbowo Branch",
+          "city": "Benin City",
+          "swift_code": "UNAFNGLA117"
+        },
+        {
+          "branch_name": "Idah Branch",
+          "city": "Idah",
+          "swift_code": "UNAFNGLA112"
+        },
+        {
+          "branch_name": "Bauchi Branch",
+          "city": "Bauchi",
+          "swift_code": "UNAFNGLA030"
+        },
+        {
+          "branch_name": "Ibadan Main Branch",
+          "city": "Ibadan",
+          "swift_code": "UNAFNGLA040"
+        },
+        {
+          "branch_name": "Ph Aggrey Rd Branch",
+          "city": "Port Harcourt",
+          "swift_code": "UNAFNGLA082"
+        },
+        {
+          "branch_name": "Trans Amadi Branch",
+          "city": "Port Harcourt",
+          "swift_code": "UNAFNGLA083"
+        },
+        {
+          "branch_name": "Bonny Branch",
+          "city": "Port Harcourt",
+          "swift_code": "UNAFNGLA220"
+        },
+        {
+          "branch_name": "Uyo Branch",
+          "city": "Uyo",
+          "swift_code": "UNAFNGLA024"
+        },
+        {
+          "branch_name": "Sokoto Krb Branch",
+          "city": "Sokoto",
+          "swift_code": "UNAFNGLA025"
+        },
+        {
+          "branch_name": "Sokoto Fodio Rd Branch",
+          "city": "Sokoto",
+          "swift_code": "UNAFNGLA070"
+        },
+        {
+          "branch_name": "Gusau Branch",
+          "city": "Sokoto",
+          "swift_code": "UNAFNGLA210"
+        },
+        {
+          "branch_name": "Yola Branch",
+          "city": "Yola",
+          "swift_code": "UNAFNGLA032"
+        },
+        {
+          "branch_name": "Effurun Branch",
+          "city": "Warri",
+          "swift_code": "UNAFNGLA034"
+        },
+        {
+          "branch_name": "Warri Branch",
+          "city": "Warri",
+          "swift_code": "UNAFNGLA048"
+        },
+        {
+          "branch_name": "Zaria Branch",
+          "city": "Zaria",
+          "swift_code": "UNAFNGLA065"
+        },
+        {
+          "branch_name": "Samaru Branch",
+          "city": "Zaria",
+          "swift_code": "UNAFNGLA203"
+        },
+        {
+          "branch_name": "Katsina Branch",
+          "city": "Katsina",
+          "swift_code": "UNAFNGLA125"
+        },
+        {
+          "branch_name": "Dutsinma Branch",
+          "city": "Katsina",
+          "swift_code": "UNAFNGLA154"
+        },
+        {
+          "branch_name": "Mubi Branch",
+          "city": "Mubi",
+          "swift_code": "UNAFNGLA159"
+        },
+        {
+          "branch_name": "Makurdi Branch",
+          "city": "Makurdi",
+          "swift_code": "UNAFNGLA031"
+        },
+        {
+          "branch_name": "Lokoja Branch",
+          "city": "Lokoja",
+          "swift_code": "UNAFNGLA127"
+        },
+        {
+          "branch_name": "Nnewi Branch",
+          "city": "Nnewi",
+          "swift_code": "UNAFNGLA113"
+        },
+        {
+          "branch_name": "Ondo Branch",
+          "city": "Ondo",
+          "swift_code": "UNAFNGLA115"
+        },
+        {
+          "branch_name": "Minna Branch",
+          "city": "Minna",
+          "swift_code": "UNAFNGLA099"
+        },
+        {
+          "branch_name": "Lagos Central Branch",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA002"
+        },
+        {
+          "branch_name": "Lagos East Branch",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA003"
+        },
+        {
+          "branch_name": "Apapa Wharf Branch",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA004"
+        },
+        {
+          "branch_name": "Ikeja Branch",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA005"
+        },
+        {
+          "branch_name": "Ilupeju Branch",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA006"
+        },
+        {
+          "branch_name": "Ijora Branch",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA007"
+        },
+        {
+          "branch_name": "Ebute Metta Branch",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA008"
+        },
+        {
+          "branch_name": "Idumagbo Branch",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA009"
+        },
+        {
+          "branch_name": "Unilag Branch",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA010"
+        },
+        {
+          "branch_name": "Iganmu Branch",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA011"
+        },
+        {
+          "branch_name": "Falomo Branch",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA012"
+        },
+        {
+          "branch_name": "Tinubu Branch",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA014"
+        },
+        {
+          "branch_name": "Treasury Operations",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA302"
+        },
+        {
+          "branch_name": "Finance Operations Finops",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA303"
+        },
+        {
+          "branch_name": "Foreign Currenct Domiciliary",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA304"
+        },
+        {
+          "branch_name": "Foreign Treasury Operations",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA305"
+        },
+        {
+          "branch_name": "Foreign Trade",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA306"
+        },
+        {
+          "branch_name": "Salary Administration Dept",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA307"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLAXXX"
+        },
+        {
+          "branch_name": "New Bussa Branch",
+          "city": "New Bussa",
+          "swift_code": "UNAFNGLA050"
+        },
+        {
+          "branch_name": "Owerri Branch",
+          "city": "Owerri",
+          "swift_code": "UNAFNGLA087"
+        },
+        {
+          "branch_name": "Ajaokuta Branch",
+          "city": "Okene",
+          "swift_code": "UNAFNGLA139"
+        },
+        {
+          "branch_name": "Onitsha Branch",
+          "city": "Onitsha",
+          "swift_code": "UNAFNGLA086"
+        },
+        {
+          "branch_name": "Otta Branch",
+          "city": "Otta",
+          "swift_code": "UNAFNGLA039"
+        },
+        {
+          "branch_name": "Maiduguri Main Branch",
+          "city": "Maiduguri",
+          "swift_code": "UNAFNGLA067"
+        },
+        {
+          "branch_name": "Baga Road Branch",
+          "city": "Maiduguri",
+          "swift_code": "UNAFNGLA179"
+        },
+        {
+          "branch_name": "Oyo Branch",
+          "city": "Oyo",
+          "swift_code": "UNAFNGLA206"
+        },
+        {
+          "branch_name": "Oshogbo Branch",
+          "city": "Oshogbo",
+          "swift_code": "UNAFNGLA022"
+        },
+        {
+          "branch_name": "Umuahia Branch",
+          "city": "Umuahia",
+          "swift_code": "UNAFNGLA141"
+        },
+        {
+          "branch_name": "Shendam",
+          "city": "Shendam",
+          "swift_code": "UNAFNGLA118"
+        },
+        {
+          "branch_name": "Sapele Branch",
+          "city": "Sapele",
+          "swift_code": "UNAFNGLA046"
+        },
+        {
+          "branch_name": "Port Harcourt",
+          "city": "Port Harcourt",
+          "swift_code": "UNAFNGLA080"
+        },
+        {
+          "branch_name": "Molete Branch",
+          "city": "Ibadan",
+          "swift_code": "UNAFNGLA042"
+        },
+        {
+          "branch_name": "Amunigun Branch",
+          "city": "Ibadan",
+          "swift_code": "UNAFNGLA043"
+        },
+        {
+          "branch_name": "Iwo Road Branch",
+          "city": "Ibadan",
+          "swift_code": "UNAFNGLA166"
+        },
+        {
+          "branch_name": "Eket Branch",
+          "city": "Eket",
+          "swift_code": "UNAFNGLA222"
+        },
+        {
+          "branch_name": "Gombe Branch",
+          "city": "Gombe",
+          "swift_code": "UNAFNGLA152"
+        },
+        {
+          "branch_name": "Ijebu Ode Branch",
+          "city": "Ijebu Ode",
+          "swift_code": "UNAFNGLA132"
+        },
+        {
+          "branch_name": "Ikom Branch",
+          "city": "Ikom",
+          "swift_code": "UNAFNGLA023"
+        },
+        {
+          "branch_name": "Kaduna North Branch",
+          "city": "Kaduna",
+          "swift_code": "UNAFNGLA062"
+        },
+        {
+          "branch_name": "Kaduna South Branch",
+          "city": "Kaduna",
+          "swift_code": "UNAFNGLA064"
+        },
+        {
+          "branch_name": "Tudun Wada Branch",
+          "city": "Kaduna",
+          "swift_code": "UNAFNGLA153"
+        },
+        {
+          "branch_name": "Jos Branch",
+          "city": "Jos",
+          "swift_code": "UNAFNGLA098"
+        },
+        {
+          "branch_name": "Ilorin Branch",
+          "city": "Ilorin",
+          "swift_code": "UNAFNGLA049"
+        },
+        {
+          "branch_name": "Kano Main Branch",
+          "city": "Kano",
+          "swift_code": "UNAFNGLA060"
+        },
+        {
+          "branch_name": "Bayero University Br",
+          "city": "Kano",
+          "swift_code": "UNAFNGLA066"
+        },
+        {
+          "branch_name": "Kano Sharada Branch",
+          "city": "Kano",
+          "swift_code": "UNAFNGLA136"
+        },
+        {
+          "branch_name": "Kano Waje Branch",
+          "city": "Kano",
+          "swift_code": "UNAFNGLA137"
+        },
+        {
+          "branch_name": "Aminu Kano Intl Airport",
+          "city": "Kano",
+          "swift_code": "UNAFNGLA169"
+        },
+        {
+          "branch_name": "Ado Bayero Branch",
+          "city": "Kano",
+          "swift_code": "UNAFNGLA224"
+        },
+        {
+          "branch_name": "Kafanchan Branch",
+          "city": "Kafanchan",
+          "swift_code": "UNAFNGLA195"
+        },
+        {
+          "branch_name": "Kontagora Branch",
+          "city": "Kontagora",
+          "swift_code": "UNAFNGLA147"
+        },
+        {
+          "branch_name": "Oregun Branch",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA016"
+        },
+        {
+          "branch_name": "Apapa Warehouse Branch",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA026"
+        },
+        {
+          "branch_name": "Obalende Branch",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA130"
+        },
+        {
+          "branch_name": "Agbara Estate Branch",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA138"
+        },
+        {
+          "branch_name": "Ikorodu Road Branch",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA143"
+        },
+        {
+          "branch_name": "Marina West Branch",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA150"
+        },
+        {
+          "branch_name": "Uba Registrars",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA181"
+        },
+        {
+          "branch_name": "Idowu Taylor Branch",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA193"
+        },
+        {
+          "branch_name": "Uba House Branch",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA204"
+        },
+        {
+          "branch_name": "Surulere Branch",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA205"
+        },
+        {
+          "branch_name": "Adeola Odeku Branch",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA213"
+        },
+        {
+          "branch_name": "Mm Intl Airport Road",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA217"
+        },
+        {
+          "branch_name": "Ogbomosho Branch",
+          "city": "Ogbomosho",
+          "swift_code": "UNAFNGLA160"
+        },
+        {
+          "branch_name": "Alausa Branch",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA218"
+        },
+        {
+          "branch_name": "Breadfruit Branch",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA219"
+        },
+        {
+          "branch_name": "Oke Arin Branch",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA221"
+        },
+        {
+          "branch_name": "Lagos Cash Managment Centre",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA226"
+        },
+        {
+          "branch_name": "Alaba International Market",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA227"
+        },
+        {
+          "branch_name": "E-banking Service Dept",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA228"
+        },
+        {
+          "branch_name": "Lagos Area Clearing Centre",
+          "city": "Lagos",
+          "swift_code": "UNAFNGLA301"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unity Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "ICITNGLAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Heritage Banking Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "HBCLNGLAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hallmark Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "HALMNGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gulf Bank Of Nigeria Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "GBNPNGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fsdh Merchant Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "FSDHNGLAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortune International Banc Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "FOIBNGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Interstate Merchant Bank (nigeria) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "FIMNNGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Devcom Merchant Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "DEMBNGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Csl Stockbrokers Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "CSSKNGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Devcom Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "DEVCNGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Express Discount Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "EDHLNGLLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "City Express Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "CIEHNGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chapel Hill Denham Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "CHDENGL1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "CHDENGLAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Consolidated Discounts Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "CDLNNGLAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Securities Clearing System Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "CSCYNGLAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "CSCYNGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bt International (nigeria) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "NIGINGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "B2bsolutins Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "BBSONGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Associated Discount House Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "ADHLNGLAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Zenith Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Abuja Branch",
+          "city": "Abuja",
+          "swift_code": "ZEIBNGLA013"
+        },
+        {
+          "branch_name": "Electronic Transactions",
+          "city": "Lagos",
+          "swift_code": "ZEIBNGLAWEB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "ZEIBNGLAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wema Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Kano",
+          "city": "Kano",
+          "swift_code": "WEMANGLA02K"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "WEMANGLAXXX"
+        },
+        {
+          "branch_name": "Tinubu",
+          "city": "Tinubu",
+          "swift_code": "WEMANGLA02T"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank Nigeria Limited",
+      "branches": [
+        {
+          "branch_name": "Securities Services",
+          "city": "Lagos",
+          "swift_code": "SCBLNGLASSU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "SCBLNGLAXXX"
+        },
+        {
+          "branch_name": "Unitrust, Head Office Branch",
+          "city": "Lagos",
+          "swift_code": "SCBLNGLAPYT"
+        },
+        {
+          "branch_name": "Treasury Services",
+          "city": "Lagos",
+          "swift_code": "SCBLNGLATSY"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skye Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "PRDTNGLAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First City Monument Bank",
+      "branches": [
+        {
+          "branch_name": "Electronic Banking",
+          "city": "Lagos",
+          "swift_code": "FCMBNGLAWEB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "FCMBNGLAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Bank Of Nigeria Plc",
+      "branches": [
+        {
+          "branch_name": "Custodian Services",
+          "city": "Lagos",
+          "swift_code": "FBNINGLAGCS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "FBNINGLAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Spring Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "SPRGNGLAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Diamond Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "DBLNNGLAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Nigeria Limited",
+      "branches": [
+        {
+          "branch_name": "Trade Services Department",
+          "city": "Lagos",
+          "swift_code": "CITINGLATRD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "CITINGLAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Niamey",
+          "swift_code": "NIBANEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Nigeria Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "ECOCNGLAXXX"
+        },
+        {
+          "branch_name": "Aba",
+          "city": "Aba",
+          "swift_code": "OCBINGLA024"
+        },
+        {
+          "branch_name": "Abuja",
+          "city": "Abuja",
+          "swift_code": "OCBINGLA023"
+        },
+        {
+          "branch_name": "Asaba Branch",
+          "city": "Asaba",
+          "swift_code": "OCBINGLA029"
+        },
+        {
+          "branch_name": "Kano",
+          "city": "Kano",
+          "swift_code": "OCBINGLA02K"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "OCBINGLAXXX"
+        },
+        {
+          "branch_name": "Idumagbo Branch",
+          "city": "Lagos",
+          "swift_code": "OCBINGLA031"
+        },
+        {
+          "branch_name": "Port Harcourt",
+          "city": "Port Harcourt",
+          "swift_code": "OCBINGLA028"
+        },
+        {
+          "branch_name": "Onitsha",
+          "city": "Onitsha",
+          "swift_code": "OCBINGLA026"
+        },
+        {
+          "branch_name": "Oceanic Bank Web Platform",
+          "city": "Victoria Island",
+          "swift_code": "OCBINGLA030"
+        },
+        {
+          "branch_name": "Warri",
+          "city": "Warri",
+          "swift_code": "OCBINGLA027"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stanbic Ibtc Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "SBICNGLXXXX"
+        },
+        {
+          "branch_name": "Kano Branch",
+          "city": "Kano",
+          "swift_code": "SBICNGLXKAN"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Phb Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "PLNINGLAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "African Export Import Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abuja",
+          "swift_code": "AFXMNGLAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "AFXMEGCAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Nigeria",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "CBNINGLAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Afribank Nigeria Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "AFRNNGLAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fidelity Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "FIDTNGLAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "FUMRNGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Access Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "ABNGNGLAXXX"
+        }
+      ]
+    }
+  ]
+}

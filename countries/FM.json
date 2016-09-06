@@ -1,0 +1,17 @@
+{
+  "country_name": "Micronesia (Federated States of)",
+  "alpha_2": "FM",
+  "country_code": "583",
+  "banks": [
+    {
+      "bank_name": "Bank Of Hawaii-pohnpei Branch",
+      "branches": [
+        {
+          "branch_name": "Kolonia",
+          "city": "Pohnpei",
+          "swift_code": "BOHIFMP1XXX"
+        }
+      ]
+    }
+  ]
+}

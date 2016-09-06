@@ -1,0 +1,57 @@
+{
+  "country_name": "Sint Maarten (Dutch part)",
+  "alpha_2": "SX",
+  "country_code": "534",
+  "banks": [
+    {
+      "bank_name": "Windward Islands Bank Ltd, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Philipsburg",
+          "swift_code": "WISBSXSMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbc Royal Bank N.v. (formerly Rbtt Bank St. Maarten N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Philipsburg",
+          "swift_code": "RBTTSXSMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orco Bank N.v. St. Maarten",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colebay",
+          "swift_code": "ORBASXSMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cm-cic St Maarten",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maarten",
+          "swift_code": "CMCISXS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Di Caribe N.v Sint Maarten",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Philipsburg",
+          "swift_code": "BDCCSXSMXXX"
+        }
+      ]
+    }
+  ]
+}

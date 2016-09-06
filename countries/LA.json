@@ -1,0 +1,287 @@
+{
+  "country_name": "Lao People's Democratic Republic",
+  "alpha_2": "LA",
+  "country_code": "418",
+  "banks": [
+    {
+      "bank_name": "Vietnam Joint Stock Commercial Bank For Industry And Trade Lao P.d.p Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vientiane",
+          "swift_code": "ICBVLALAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St Bank Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vientiane",
+          "swift_code": "STBDLALAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saigon Hanoi Commercial Joint Stock Bank Laos Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Champasak",
+          "swift_code": "SHBALALAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Bank, Vientiane Branch, Lao P.d.r.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vientiane",
+          "swift_code": "PBBELALAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Phongsavanh Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vientiane",
+          "swift_code": "PSVBLALAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maybank Lao",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vientiane",
+          "swift_code": "MBBELALAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maruhan Japan Bank Lao Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vientiane",
+          "swift_code": "MJBLLAL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Magnate Premier Pb Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vientiane",
+          "swift_code": "MGPRLAL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lao-viet Bank",
+      "branches": [
+        {
+          "branch_name": "Champasak Branch",
+          "city": "Champasak",
+          "swift_code": "LAOVLALACPS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Vientiane",
+          "swift_code": "LAOVLALAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lao Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vientiane",
+          "swift_code": "LDBBLALAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lao Construction Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vientiane",
+          "swift_code": "LCONLAL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lao Construction Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vientiane",
+          "swift_code": "LCBVLALAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lao China Bank",
+      "branches": [
+        {
+          "branch_name": "Lao China Bank",
+          "city": "Vientiane",
+          "swift_code": "LCNBLAL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Joint Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vientiane",
+          "swift_code": "JDBKLALAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Commercial Bank (lao) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vientiane",
+          "swift_code": "LICBLALAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial And Commercial Bank Of China Limited Vientiane Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vientiane",
+          "swift_code": "ICBKLALAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Vientiane",
+          "swift_code": "ICBKLAL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Indochina Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vientiane",
+          "swift_code": "IDCBLALAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Pour Le Commerce Exterieur Lao Public",
+      "branches": [
+        {
+          "branch_name": "Champasack Branch",
+          "city": "Pakse",
+          "swift_code": "COEBLALACPS"
+        },
+        {
+          "branch_name": "Khammouane Branch",
+          "city": "Khammouane",
+          "swift_code": "COEBLALAKMN"
+        },
+        {
+          "branch_name": "Luangprabang Branch",
+          "city": "Luangprabang",
+          "swift_code": "COEBLALALBP"
+        },
+        {
+          "branch_name": "Luangnamtha Branch",
+          "city": "Luangnamtha",
+          "swift_code": "COEBLALALNT"
+        },
+        {
+          "branch_name": "Oudomxay Branch",
+          "city": "Oudomxay",
+          "swift_code": "COEBLALAODX"
+        },
+        {
+          "branch_name": "Savannakhet Branch",
+          "city": "Savannakhet",
+          "swift_code": "COEBLALASVN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Vientiane",
+          "swift_code": "COEBLALAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Franco-lao Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vientiane",
+          "swift_code": "BFLLLALAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of The Lao P.d.r.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vientiane",
+          "swift_code": "LPDRLALAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bangkok Bank Plc, Vientiane Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vientiane",
+          "swift_code": "BKKBLALAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Acleda Bank (lao) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vientiane",
+          "swift_code": "ACLBLALAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agricultural Promotion Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vientiane",
+          "swift_code": "AGPBLALAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Anz Bank (lao) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vientiane",
+          "swift_code": "VCBBLALAXXX"
+        }
+      ]
+    }
+  ]
+}

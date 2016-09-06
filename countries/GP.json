@@ -1,0 +1,97 @@
+{
+  "country_name": "Guadeloupe",
+  "alpha_2": "GP",
+  "country_code": "312",
+  "banks": [
+    {
+      "bank_name": "Societe Guadeloupeenne De Financement-soguafi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baie Mahault",
+          "swift_code": "SGFOGPG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Anonyme De Gestion Et De Financement-sagefi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abymes",
+          "swift_code": "SGFAGPG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Moderne Antilles",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baie Mahault",
+          "swift_code": "CRMSGPG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caisse Regionale De Credit Maritime Mutuel D'outre Mer",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pointe A Pitre",
+          "swift_code": "CMDMGPG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caisse Epargne Prevoyance Guadeloupe",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abymes",
+          "swift_code": "CEPGGPG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Nationale De Paris Succursale De Pointe A Pitre",
+      "branches": [
+        {
+          "branch_name": "Basse Terre",
+          "city": "Basse Terre",
+          "swift_code": "BNPAGPGXBAS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Baie Mahault",
+          "swift_code": "BNPAGPGXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Francaise Commerciale Antilles-guyane",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abymes",
+          "swift_code": "BFECGPGXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Des Antilles Francaises",
+      "branches": [
+        {
+          "branch_name": "Comex Guadeloupe",
+          "city": "Pointe A Pitre",
+          "swift_code": "BDAFGPGX971"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Baie Mahault",
+          "swift_code": "BDAFGPGXXXX"
+        }
+      ]
+    }
+  ]
+}

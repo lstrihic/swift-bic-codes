@@ -1,0 +1,4012 @@
+{
+  "country_name": "Luxembourg",
+  "alpha_2": "LU",
+  "country_code": "442",
+  "banks": [
+    {
+      "bank_name": "Banque De Commerce Et De Placements S.A. Succursale De Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BPCPLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Centrale Du Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BCLXLULLXXX"
+        },
+        {
+          "branch_name": "Ancilliary System Payment",
+          "city": "Luxembourg",
+          "swift_code": "BCLXLULLASP"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Carnegie Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CARNLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Bpp S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BBPPLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Bcp, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BMECLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Leumi (Luxembourg) S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "LUMILULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Popolare Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "GRVRLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of China, Luxembourg Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BKCHLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Itau Europa Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ITAULULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bradesco Europa S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BBDELULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Popolare Dellemilia Romagna (Europe) International S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BPMOLULSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Az Fund Management Sa",
+      "branches": [
+        {
+          "branch_name": "Aim-poms Service",
+          "city": "Luxembourg",
+          "swift_code": "AZFMLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Az Euro Investments S.A.R.L.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "AZEULULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Axxion S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Munsbach",
+          "swift_code": "AXXNLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Attrax S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ATRXLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Allianz Life Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "AZLLLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Andbanc Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BACALULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Allfunds International, S.A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ALLFLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Advanzia Bank S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Munsbach",
+          "swift_code": "ADVZLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abn Amro Bank Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ABNALU2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ablv Bank Luxembourg S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ABLVLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Telecom Italia Capital Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "TLICLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swiss Life (Luxembourg) S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Strassen",
+          "swift_code": "SLLULULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Svenska Handelsbanken S.A.",
+      "branches": [
+        {
+          "branch_name": "Luxembourg",
+          "city": "Luxembourg",
+          "swift_code": "HANDLULLFND"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "HANDLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Svenska Handelsbanken Luxembourg Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "HANDLULBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sumitomo Trust And Banking (Luxembourg) S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "STBCLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Street Bank Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "Fund Administration",
+          "city": "Luxembourg",
+          "swift_code": "SBOSLULXLFA"
+        },
+        {
+          "branch_name": "Shareholder Administration",
+          "city": "Luxembourg",
+          "swift_code": "SBOSLULXSHA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "SBOSLULXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Bank And Trust S.A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "SGABLU22XXX"
+        },
+        {
+          "branch_name": "Middle Office Titr",
+          "city": "Luxembourg",
+          "swift_code": "SGABLULLMOF"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "SGABLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Europeenne De Banque S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "SEBKLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Smbc Nikko Bank (Luxembourg) S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "NIKOLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Schroder Investment Management (Luxembourg) S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "SCIMLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sal. Oppenheim Jr. Und Cie. Lux S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "SOPPLULXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rtl Group Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "RTLGLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbs Global Banking (Luxembourg) S.A.",
+      "branches": [
+        {
+          "branch_name": "Life Department",
+          "city": "Luxembourg",
+          "swift_code": "ABNALULLLIF"
+        },
+        {
+          "branch_name": "A A Lim Department",
+          "city": "Luxembourg",
+          "swift_code": "ABNALULLLIM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ABNALULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbc Dexia Investor Services Bank S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Esch-Sur-Alzette",
+          "swift_code": "FETALULLXXX"
+        },
+        {
+          "branch_name": "Feta Branches",
+          "city": "Luxembourg",
+          "swift_code": "FETALULLBRA"
+        },
+        {
+          "branch_name": "Global Fund Platform",
+          "city": "Luxembourg",
+          "swift_code": "FETALULLDIS"
+        },
+        {
+          "branch_name": "Investors Services",
+          "city": "Luxembourg",
+          "swift_code": "FETALULLISV"
+        },
+        {
+          "branch_name": "Shareholders Services",
+          "city": "Luxembourg",
+          "swift_code": "FETALULLSHS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pirelli Finance (Luxembourg) S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "PIRFLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pictet Et Cie (Europe) S.A.",
+      "branches": [
+        {
+          "branch_name": "Transfer Agent Services Department",
+          "city": "Luxembourg",
+          "swift_code": "PICTLULXTAS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "PICTLULXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Petercam (Luxembourg) S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "PECSLULXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Paypal Europe, S.A R.L Et Cie, S.C.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "PPLXLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Novartis Investments S.A.R.L",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "NOVRLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "3 Capital Trading (luxembourg) Sarl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CTLSLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Northern Trust Global Services Limited Luxembourg Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CNORLULXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Luxembourg S.A. (Formerly Credit Europeen S.A.)",
+      "branches": [
+        {
+          "branch_name": "Customer Transfert Department",
+          "city": "Luxembourg",
+          "swift_code": "CELLLULLCTD"
+        },
+        {
+          "branch_name": "Global Securities Department",
+          "city": "Luxembourg",
+          "swift_code": "CELLLULLGSD"
+        },
+        {
+          "branch_name": "Treasury Department",
+          "city": "Luxembourg",
+          "swift_code": "CELLLULLTRD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CELLLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Erste Europaische Pfandbrief-Und Kommunalkreditbank Ag In Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "EEPKLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse (Luxembourg) S.A., Private Banking",
+      "branches": [
+        {
+          "branch_name": "Depository Bank",
+          "city": "Luxembourg",
+          "swift_code": "CRESLULLDLX"
+        },
+        {
+          "branch_name": "Center Of Excellence",
+          "city": "Luxembourg",
+          "swift_code": "CRESLULLWRO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CRESLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bhf-Bank Niederlassung Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BHFBLULAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bhf-Bank International",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BHFBLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bgl Bnp Paribas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BGLLLULLXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BNPALULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bayerische Landesbank, Luxembourg Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BYLALULBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Safra Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BSAFLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Puilaetco Dewaay Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "Banque Puilaetco Dewaay Luxembourg S.A.",
+          "city": "Luxembourg",
+          "swift_code": "PULALULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Raiffeisen",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CCRALULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Privee Edmond De Rothschild Europe",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "PRIBLULLXXX"
+        },
+        {
+          "branch_name": "Luxembourg",
+          "city": "Luxembourg",
+          "swift_code": "PRIBLULLEUX"
+        },
+        {
+          "branch_name": "Transfer Agency",
+          "city": "Luxembourg",
+          "swift_code": "PRIBLULLREG"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Invik S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "INVKLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Lblux S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BYLALULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Hapoalim (Suisse) Sa Succursale De Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "POALLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Hapoalim (Luxembourg) S.A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "POALLUL2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Et Caisse Depargne De Letat",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BCEELULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Europeenne Dinvestissement- Bei/Eib",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BEILLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Degroof Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "DEGRLULLXXX"
+        },
+        {
+          "branch_name": "Dept Opc",
+          "city": "Luxembourg",
+          "swift_code": "DEGRLULLOPC"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BLUXLULLXXX"
+        },
+        {
+          "branch_name": "Luxembourg",
+          "city": "Luxembourg",
+          "swift_code": "BLUXLULLEUX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Delen Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "DELELULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De Leurope Meridionale",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BEMOLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "AGRILULAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corner Banque (Luxembourg) S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CBLULULXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credem International (Lux) S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CRDMLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Frankfurter Volksbank International S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "FFVBLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortuna",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "FOTNLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fleming Asset Management (luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "FLFMLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finexis S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "FIXELUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finance Et Conseil S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "FACOLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fidelity Investments Luxembourg S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "FINLLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fia Asset Management Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "FIASLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ferrero Trading Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sandweiler",
+          "swift_code": "FERELUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fidessa Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "FDAMLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Farad Investment Advisor S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "FAIVLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Famar Sa",
+      "branches": [
+        {
+          "branch_name": "Famar Sa",
+          "city": "Luxembourg",
+          "swift_code": "FAMRLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "European Funds Services S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "EFUSLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Europaeische Genossenschaftsbank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "EGBKLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurofinanciere S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "EUFILUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "European Investment Fund-eif",
+      "branches": [
+        {
+          "branch_name": "European Investment Fund-eif",
+          "city": "Luxembourg",
+          "swift_code": "EIFLLULBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Euro Fonds Service S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "EUFSLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Euresa Life",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "EURLLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Equity Trust Fund Services (luxembourg) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ETFSLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurobank Private Bank Luxembourg S.a.",
+      "branches": [
+        {
+          "branch_name": "Eurobank Private Bank Luxembourg S.a.",
+          "city": "Luxembourg",
+          "swift_code": "ERBKLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Enis Sicav",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ENSILUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nis Sicav",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "NSIALU21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "La Mondiale Europartner",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bertrange",
+          "swift_code": "MOEALUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank Plc Luxembourg Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "HSBCLULLXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "HSBCLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "House Of Finance International, The(thofi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "HOFILUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hottinguer Gestion (luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "HOTGLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hottinger Et Cie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "HOTTLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hms Lux S.a.",
+      "branches": [
+        {
+          "branch_name": "Luxembourg Backoffice",
+          "city": "Luxembourg",
+          "swift_code": "HMLULUL1BKO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "HMLULUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Havaux Gestion De Fortune (luxembourg) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "HAVOLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Havaux Gestion (luxembourg) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "HVGLLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Harlow Meyer Savage (luxembourg) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "HMSLLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Groupe Indosuez Funds Investment Services (luxembourg) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "GIFILUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Group Indosuez Administration Company S.a.",
+      "branches": [
+        {
+          "branch_name": "Group Indosuez Administration Company S.a.",
+          "city": "Luxembourg",
+          "swift_code": "GIACLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Grossboetzl, Schmitz, Lomparski And Partner Inter National S.a.r.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "GSLPLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gpb International S.a.",
+      "branches": [
+        {
+          "branch_name": "Gpb International S.a.",
+          "city": "Luxembourg",
+          "swift_code": "GAZPLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Glencore Finance (europe) Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "GFEULUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Equity Managers S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "GLEMLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Generali Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "GLUXLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Generali Fund Management Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "GFMLLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "General Re Europe Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "GEERLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fundsquare S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "XLUXLUL1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "XLUXLULBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fuchs Et Associes Finance Sa",
+      "branches": [
+        {
+          "branch_name": "Fuchs Et Associes Finance Sa",
+          "city": "Luxembourg",
+          "swift_code": "FUASLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Freie Internationale Sparkasse S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "SBRELUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kew Capital Llp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "KEALLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kredietrust",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "KRETLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kennedy Financement Luxembourg 2 Sarl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "KFLULULUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kb Conseil-service S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "KBNSLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "John Deere Bank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "JODELUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Joh. Berenberg, Gossler And Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BEGOLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investor Luxembourg S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "INLULUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intlux S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "INTXLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Internaxx Bank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "INRXLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Financial Data Services (luxembourg) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "IFDELUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interinvest",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "VESTLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Insinger Asset Management S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "IAMLLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interfund Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "INEFLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ikb International S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "IKBDLUA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ikb Deutsche Industriebank Ag (luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "IKBDLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ifs Am",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "IFSILUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hypothekenbank Frankfurt International S.a. (formerly Europaeische Hypothekenbank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Senningerberg",
+          "swift_code": "EUHDLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hypo Capital Management Investmentgesellschaft Luxembourg S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "HCMILUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Htts Simba",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "HTSILUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Navaxx S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Munsbach",
+          "swift_code": "NAVXLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Natixis Life France",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "NLIFLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Natixis Bank (formerly Natixis Private Banking International",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "NATXLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mz Finance Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "FIMZLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Midas Asset Management S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "MIAALUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Metropolitan Bank Associates S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "MBASLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch Equity S.a.r.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "MLESLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch (luxembourg) S.a.r.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "MLIBLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mediobanca International (luxembourg) Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "MEOILUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mallinckrodt Group Sarl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "MALKLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Luxumbrella",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "LUXULUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Luxembourg National Registry",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "LUNRLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Luxembourg Financial Group",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "LUFGLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Luxbrokers S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "LUXBLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lseg Luxco Sa",
+      "branches": [
+        {
+          "branch_name": "Lseg Luxco Sa",
+          "city": "Luxembourg",
+          "swift_code": "LSEGLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Zadig Gestion (luxembourg) Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ZAGLLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Warmoes Hirtz S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "WAHILUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vorsorge Luxemburg Lebensversicherung S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Munsbach",
+          "swift_code": "VORSLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Volksbank Hannover Eg, Niederlassung Luxemburg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "VOHALUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Volkswagen International Luxemburg",
+      "branches": [
+        {
+          "branch_name": "Volkswagen International Luxemburg",
+          "city": "Luxembourg",
+          "swift_code": "VOILLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Van Moer Santerre Luxembourg S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "VMOSLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Van Doorn Trust And Securities B.v. Amsterdam (pays-bas), Succursale De Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "VDTSLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lri Invest S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Munsbach",
+          "swift_code": "LRIILULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lgi Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "LVGILUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Letterone Treasury Services Sa",
+      "branches": [
+        {
+          "branch_name": "Letterone Treasury Services Sa",
+          "city": "Luxembourg",
+          "swift_code": "LETSLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Le Foyer Am",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "FOYELUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Financing And Distribution Financial Department",
+      "branches": [
+        {
+          "branch_name": "Societe Generale Financing And Distribution Financial Department",
+          "city": "Luxembourg",
+          "swift_code": "SGDILULLXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "SGDILUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Business Solutions Builders",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BSBDLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sms Finance Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "SMFILUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Schumann-la Vedrine Finance S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "SCVFLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "S.d.e.t. Advisors S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "SDETLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rcb Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Rcb Bank Ltd",
+          "city": "Luxembourg",
+          "swift_code": "RCBLLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbc Investor Services Bank S.a.",
+      "branches": [
+        {
+          "branch_name": "4360 Esch-sur-alzette",
+          "city": "Esch-Sur-Alzette",
+          "swift_code": "FETALULLBEL"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ravago S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "RAVALULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Raiffeisen-koepenicker-bank Eg, Niederlassung Luxemburg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "DGNZLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prudential-bache International Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "PIBKLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prebon Yamane (luxembourg) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "PREBLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pageon Bank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "PAGNLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pacific Capital Sarl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "PAALLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oriflame Cosmetics S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ORFLLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Odyssey Asset Management Systems",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ODYSLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orbit Private Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "OPAALUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oddo Services Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ODDOLULLXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ODDOLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nord/lb Covered Finance Bank.s.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "NCFBLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nord Europe Life Luxembourg Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "NELXLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Notz Stucki Et Cie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "NOTULUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Compagnie Financiere Et Boursiere Luxembourgeoise S.A. Cofibol",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CFBLLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commission Of The European Communities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "EUCOLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commerzbank International S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "COBALULXXXX"
+        },
+        {
+          "branch_name": "Commerzbank International S.A.",
+          "city": "Luxembourg",
+          "swift_code": "COBALULXSEP"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clearstream Banking S.A., Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Clearstream Banking Common Safekeeper",
+          "city": "Luxembourg",
+          "swift_code": "CEDELULLCSK"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CEDELULLXXX"
+        },
+        {
+          "branch_name": "Specific Cash Management",
+          "city": "Luxembourg",
+          "swift_code": "CEDELULLDST"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clearbridge Settlement Services S.A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Senningerberg",
+          "swift_code": "CLRBLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citco Bank Nederland Nv, Luxembourg Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CITCLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cbp Quilvest S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CBPXLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capitalat Work Foyer Group S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Leudelange",
+          "swift_code": "FAMLLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank International Plc (Luxembourg Branch)",
+      "branches": [
+        {
+          "branch_name": "Funds Administration Transfer Agency Department",
+          "city": "Luxembourg",
+          "swift_code": "CITILUL2CAM"
+        },
+        {
+          "branch_name": "Citibank Luxembourg Emfx Confirmations",
+          "city": "Luxembourg",
+          "swift_code": "CITILULXEFX"
+        },
+        {
+          "branch_name": "Global Finance-bd Marie-therese",
+          "city": "Luxembourg",
+          "swift_code": "CITILULXGFL"
+        },
+        {
+          "branch_name": "Private Banking Group-ipb",
+          "city": "Luxembourg",
+          "swift_code": "CITILULXLUX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CITILULXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caceis Bank Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Funds Of Funds",
+          "city": "Luxembourg",
+          "swift_code": "BSUILULLFOF"
+        },
+        {
+          "branch_name": "Fund Processing",
+          "city": "Luxembourg",
+          "swift_code": "BSUILULLPRF"
+        },
+        {
+          "branch_name": "Service Registre",
+          "city": "Luxembourg",
+          "swift_code": "BSUILULLREG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BSUILULLXXX"
+        },
+        {
+          "branch_name": "Fastnet Presettlement",
+          "city": "Luxembourg",
+          "swift_code": "FNETLULLCMP"
+        },
+        {
+          "branch_name": "Fund Administration Tax Registrar",
+          "city": "Luxembourg",
+          "swift_code": "FNETLULLFND"
+        },
+        {
+          "branch_name": "Fastnet Derivatives",
+          "city": "Luxembourg",
+          "swift_code": "FNETLULLOTC"
+        },
+        {
+          "branch_name": "Prime Ta Activity",
+          "city": "Luxembourg",
+          "swift_code": "FNETLULLPTA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "FNETLULLXXX"
+        },
+        {
+          "branch_name": "Fund Administration",
+          "city": "Luxembourg",
+          "swift_code": "BSUILULLADM"
+        },
+        {
+          "branch_name": "Caceis North America",
+          "city": "Luxembourg",
+          "swift_code": "BSUILULLCNA"
+        },
+        {
+          "branch_name": "Custodian Bank",
+          "city": "Luxembourg",
+          "swift_code": "BSUILULLCUS"
+        },
+        {
+          "branch_name": "Caceis Dublin",
+          "city": "Luxembourg",
+          "swift_code": "BSUILULLDUB"
+        },
+        {
+          "branch_name": "Registrar",
+          "city": "Luxembourg",
+          "swift_code": "BSUILULLFND"
+        },
+        {
+          "branch_name": "Funds Reconciliation",
+          "city": "Luxembourg",
+          "swift_code": "BSUILULLFTM"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bsi Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BSILLULXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brown Brothers Harriman (Luxembourg) S.C.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BBHCLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas, Succursale De Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BNPALULSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Entreprise Des P Et T",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CCPLLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Efg Bank Luxembourg Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "EFGBLULXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Valueinvest Asset Management S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Strassen",
+          "swift_code": "LIPTLUS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United European Bank (luxembourg) S.a.(formerly United Overseas Bank Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "UEBGLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Investment Financial Services S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "UFSLLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Investment Euromarketing S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "INEULUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Triax Global Exchange Groupe S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "TGEXLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Transcom Worldwide Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "TRWWLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Threadneedle International Fund Management S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "THIFLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tradition S.a. (lausanne) (succursale De Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "TILULUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Bank Of New York Mellon Sa/nv, Luxembourg Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BNYMLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Templeton Global Strategic Services S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "TGSSLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Td Bank International S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "TDWLLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tech Data Luxembourg Sarl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "TDLSLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Suxeskey S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Larochette",
+          "swift_code": "SUXKLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stevens, Zimmer And Lawaisse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Strassen",
+          "swift_code": "STZLLUS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Street Bank Luxembourg S.a. (formerly Sanpaolo Bank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "SPLBLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Splitart",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Foetz",
+          "swift_code": "SPLRLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparinvest S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "SINVLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sogen Finance Luxembourg S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "SOLULUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Nationale De Credit Et D'investissement",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "SNCILUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Target International S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "TINSLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eastnets Europe S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ESNTLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "East-West United Bank S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "EWUBLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dz Privatbank S.A., Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Niederlassung",
+          "city": "Luxembourg",
+          "swift_code": "GENOLULLPBD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "GENOLULLXXX"
+        },
+        {
+          "branch_name": "Singapore Branch",
+          "city": "Strassen",
+          "swift_code": "GENOLULLSGP"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dws Investment S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "DEUTLU2DXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dnb Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "UBNLLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dexia Life And Pensions S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "DXLPLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dexia Ldg Banque S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "DXIALULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dexia Banque Internationale A Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "2953 Luxembourg",
+          "city": "Luxembourg",
+          "swift_code": "BILLLULLCLS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BILLLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dexia Asset Management Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "DXAMLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Postbank International S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "PBNKLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "Corporate Services Division",
+          "city": "Luxembourg",
+          "swift_code": "DEUTLULLCSD"
+        },
+        {
+          "branch_name": "Luxembourg",
+          "city": "Luxembourg",
+          "swift_code": "DEUTLULLCTA"
+        },
+        {
+          "branch_name": "Insurance Branch",
+          "city": "Luxembourg",
+          "swift_code": "DEUTLULLDRE"
+        },
+        {
+          "branch_name": "Investment Branch",
+          "city": "Luxembourg",
+          "swift_code": "DEUTLULLDWS"
+        },
+        {
+          "branch_name": "Insurance Branch",
+          "city": "Luxembourg",
+          "swift_code": "DEUTLULLPRI"
+        },
+        {
+          "branch_name": "Target2",
+          "city": "Luxembourg",
+          "swift_code": "DEUTLULLTG2"
+        },
+        {
+          "branch_name": "Insurance Branch",
+          "city": "Luxembourg",
+          "swift_code": "DEUTLULLVIT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "DEUTLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Ag, Filiale Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "DEUTLULBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dekabank-Deutsche Girozentrale Succursale De Luxembourg, Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "DGZFLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dekabank Deutsche Girozentrale Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "DGZFLULIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Danske Bank International S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "DABALULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Asset Management Fund Service (Luxembourg) S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CSAMLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Ag, Luxembourg Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CRESLULXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial And Commercial Bank Of China Luxembourg Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ICBKLULLXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ICBKLULUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hypo Pfandbrief Bank International S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "PBILLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsh Nordbank Securities S.A. (Formerly Hsh Nordbank International S.A.)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "HSHNLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsh Nordbank Ag (Formerly Landesbank Schleswig-Holstein Girozentrale, Luxembourg Branch)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "HSHNLULBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Trinkaus Und Burkhardt (International) Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "TUBDLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Securities Services (Luxembourg) S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BBDALULXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Private Bank (Luxembourg) S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BLICLULXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Heinz Finance (Luxembourg) Sarl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "HFLSLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hauck Und Aufhaeuser Banquiers Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "HAUKLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gold Rush S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "GORSLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Glitnir Bank Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ISBALULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fund Channel S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "FCHALULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Franklin Templeton International Services S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "FRIMLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fideuram Bank (Luxembourg) S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "FIBKLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "European Investment Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "EIFLLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Luxembourg-Vie S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "FTSILULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "European Fund Administration S.A.",
+      "branches": [
+        {
+          "branch_name": "Accounting Department",
+          "city": "Luxembourg",
+          "swift_code": "EFALLULLACC"
+        },
+        {
+          "branch_name": "Transfer Agent Department",
+          "city": "Luxembourg",
+          "swift_code": "EFALLULLTRF"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "EFALLULLXXX"
+        },
+        {
+          "branch_name": "Global Distribution Services",
+          "city": "Luxembourg",
+          "swift_code": "EFALLULLGDS"
+        }
+      ]
+    },
+    {
+      "bank_name": "European Financial Stability Facility Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "EFSFLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurobank Efg Private Bank Luxembourg S.A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "EFGBLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Bank S.A. Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "NDEALULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Norddeutsche Landesbank Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Findel",
+          "swift_code": "NOLALULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nord Europe Private Bank",
+      "branches": [
+        {
+          "branch_name": "Luxembourg",
+          "city": "Luxembourg",
+          "swift_code": "NEPBLULLOPX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "NEPBLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nomura Bank (Luxembourg) S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hesperange",
+          "swift_code": "NBLXLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moventum S.C.A.",
+      "branches": [
+        {
+          "branch_name": "Nostro Account",
+          "city": "Howald",
+          "swift_code": "MOVELULLGEB"
+        },
+        {
+          "branch_name": "Omnibus Account",
+          "city": "Howald",
+          "swift_code": "MOVELULLPAY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "MOVELULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mizuho Trust And Banking (Luxembourg) S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Munsbach",
+          "swift_code": "MHTBLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mitsubishi Ufj Global Custody Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "MUGCLUL2XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "MUGCLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "M.M. Warburg U. Co Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "WBWCLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Luxcsd S.A.",
+      "branches": [
+        {
+          "branch_name": "Vault Operations",
+          "city": "Luxembourg",
+          "swift_code": "LUXCLULLLVO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "LUXCLULLXXX"
+        },
+        {
+          "branch_name": "Luxcsd S.A.",
+          "city": "Luxembourg",
+          "swift_code": "LUXCLULLCPN"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lombard Odier Darier Hentsch And Cie (Belgique) Sa-Succursale De Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "LOCYLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lombard International Assurance Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Senningerberg",
+          "swift_code": "LIALLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lbb Landesbank Berlin Int S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BELALULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lbbw Luxemburg S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "MALALULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Landesbank Berlin Ag, Niederlassung Luxemburg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BELALULXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Landesbank Baden-Wuerttemberg Luxemburg Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "MALALULBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kbl European Private Bankers S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "KBLXLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jpmorgan Bank Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Senningerberg",
+          "swift_code": "CHASLULXXXX"
+        },
+        {
+          "branch_name": "Artemis",
+          "city": "Luxembourg",
+          "swift_code": "CHASLULAART"
+        },
+        {
+          "branch_name": "Luxembourg",
+          "city": "Luxembourg",
+          "swift_code": "CHASLULAMLM"
+        },
+        {
+          "branch_name": "Luxembourg",
+          "city": "Luxembourg",
+          "swift_code": "CHASLULAWAM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CHASLULAXXX"
+        },
+        {
+          "branch_name": "Telex And S W I F T Message Enquiries",
+          "city": "Luxembourg",
+          "swift_code": "CHASLULXENQ"
+        },
+        {
+          "branch_name": "Test Key And Bke Administration",
+          "city": "Luxembourg",
+          "swift_code": "CHASLULXKEY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Senningerberg",
+          "swift_code": "CHASLUL2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J P Morgan Asset Management (Europe) S.A.R.L.",
+      "branches": [
+        {
+          "branch_name": "Test Key And Bke Administration",
+          "city": "Luxembourg",
+          "swift_code": "RFLCLULXKEY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "RFLCLULXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Zurich Eurolife S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Howald",
+          "swift_code": "ZURILULLXXX"
+        },
+        {
+          "branch_name": "Zil Isle Of Man",
+          "city": "Howald",
+          "swift_code": "ZURILULLZIL"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vp Lux",
+      "branches": [
+        {
+          "branch_name": "Luxembourg",
+          "city": "Luxembourg",
+          "swift_code": "VPLULULL001"
+        },
+        {
+          "branch_name": "Luxembourg",
+          "city": "Luxembourg",
+          "swift_code": "VPLULULL016"
+        },
+        {
+          "branch_name": "Luxembourg",
+          "city": "Luxembourg",
+          "swift_code": "VPLULULLDVP"
+        },
+        {
+          "branch_name": "Vplux As Issuer",
+          "city": "Luxembourg",
+          "swift_code": "VPLULULLISS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "VPLULULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vp Bank (Luxembourg) S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "VPBVLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vitis Life S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "VITILULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Van Lanschot Bankiers (Luxembourg) Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mamer",
+          "swift_code": "FVLBLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Bancaire Privee (Luxembourg) Sa, Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Fund Administration Department",
+          "city": "Luxembourg",
+          "swift_code": "DBSALULLFND"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "DBSALULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unicredit Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "HYVELULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unicredit International Bank-Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "UNCRLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Luxembourg S.A.",
+      "branches": [
+        {
+          "branch_name": "Fund Services",
+          "city": "Luxembourg",
+          "swift_code": "UBSWLULLFSL"
+        },
+        {
+          "branch_name": "Luxembourg",
+          "city": "Luxembourg",
+          "swift_code": "UBSWLULLTOP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "UBSWLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Fund Services (Luxembourg) S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "UBSFLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Turkiye Garanti Bankasi As, Luxembourg Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Strassen",
+          "swift_code": "TGBALULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Bank Of New York Mellon (Luxembourg) Sa, Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Corporate Trust",
+          "city": "Luxembourg",
+          "swift_code": "IRVTLULXGTS"
+        },
+        {
+          "branch_name": "Transfer Agency",
+          "city": "Luxembourg",
+          "swift_code": "IRVTLULXLTA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "IRVTLULXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Bank Of New York Mellon (International) Ltd, Luxembourg Branch",
+      "branches": [
+        {
+          "branch_name": "Luxembourg Branch",
+          "city": "Luxembourg",
+          "swift_code": "SGWLLULXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Telecom Italia Finance Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "TIFLLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atag Asset Management (luxembourg) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "AAMLLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Assya Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ASENLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Association Des Banques Et Banquiers, Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "LBBALUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aspecta Assurance International Luxembourg S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "AAILLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arpeggio Investment Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "SCBALUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Argentabank Luxembourg S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ARLULUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arcelormittal",
+      "branches": [
+        {
+          "branch_name": "Arcelormittal",
+          "city": "Luxembourg",
+          "swift_code": "USINLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arbitrage Change S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ARBILUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aperam Treasury Sca",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "APAMLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amfie Association Cooperative Europeenne Des Fonctionnaires Internationaux",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "AMFELULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amazon Payments Europe S.c.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "AEUSLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alpha One Sicav-fis",
+      "branches": [
+        {
+          "branch_name": "Alpha One Sicav-fis",
+          "city": "Luxembourg",
+          "swift_code": "ALOVLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Anphiko Asset Management S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Capellen",
+          "swift_code": "ANANLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Allegro S.a R.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ALLOLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alpha Wealth Management Luxembourg S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "AWMULUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "All Trading Cofidem Luxembourg S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ATCLLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alceda Fund Management S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Senningerberg",
+          "swift_code": "ALUALUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aetna International Global Investment Services",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "AIGNLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ad Sicav",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "SIVALUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Acm Fund Services S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ACMFLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Electrabel Finance And Treasury Management (eftm",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "EFTMLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Compagnie Financiere De Gestion Luxembourg S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CFGLLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Compagnie De Gestion (luxembourg) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Strassen",
+          "swift_code": "COGLLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bhw Allgemeine Bausparkasse Ag, Niederlassung Luxemburg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BHAHLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Leasing Solutions S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "LSHLLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bgl Bnp Paribas (global Equities And Commodity Derivatives",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BGLLLULGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Beauchamps Walton",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "PLETLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bearbull (luxembourg) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BEBULUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bgl-meespierson Trust (luxembourg) Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "GENLLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bbl Trust Services Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BTSLLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bbg Luxembourg S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BBGULUS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bausparkasse, Gemeinschaft Der Freunde Wuestenrot Gemeinnuetzige Gmbh Ludwigsburg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BGFWLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Transatlantique (cm-cic Group",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CMCILUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankinter Luxembourg S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BKBKLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of China (luxembourg) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BKCHLULAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Espirito Santo,sa Succursale Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BESCLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Safra S.a. Luxembourg Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "SAFRLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca March, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BMARLU2MXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Avatrade Luxembourg S.a.r.l",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "AVLSLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aurea Finance Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Steinsel",
+          "swift_code": "AUFILUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atlanticlux Lebensversicherung S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ATLELUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atel Derivatives S.a.r.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ATDSLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atag Gestion De Fortune (luxembourg) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ATAGLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Codalux S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CDLXLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cmi Asset Management (luxembourg) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CMIALUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citigroup Global Markets Luxembourg Sarl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bertrange",
+          "swift_code": "CGMXLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "China Construction Bank Corporation Luxembourg Branch",
+      "branches": [
+        {
+          "branch_name": "China Construction Bank Corporation Luxembourg Branch",
+          "city": "Luxembourg",
+          "swift_code": "PCBCLULXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cigogne Management S.a.",
+      "branches": [
+        {
+          "branch_name": "Cigogne Management S.a.",
+          "city": "Luxembourg",
+          "swift_code": "CIGALUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "China Construction Bank (europe) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "PCBCLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cf Fund Services S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CFFULUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cdc Gmbh Succursale De Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CDCFLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Casa 4 Funds Luxembourg European Asset Management Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CFLELUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carl Kliem Sa, Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CAKXLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carey",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CARYLUL1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CARYLULLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cardif Lux International",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CLUILUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Management S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CAMALUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital And Work International",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Strassen",
+          "swift_code": "CAWNLUS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cap Gemini Lux",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CAPALUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cali Europe",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "AGRHLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bunt",
+      "branches": [
+        {
+          "branch_name": "Bunt",
+          "city": "Luxembourg",
+          "swift_code": "BUNTLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Personal Investors",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "BPPVLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eiger Securities",
+      "branches": [
+        {
+          "branch_name": "Luxembourg",
+          "city": "Luxembourg",
+          "swift_code": "EISPLUL1LUX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "EISPLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecm Real Estate Investments A.g.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "EREILUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "E. Ohman J:or (luxembourg) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "OHMALUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Duemme Int. Luxembourg S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "DUIULU21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "E.s. Wealth",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "WELHLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Driege And Weghsteen International Luxembourg S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "DWILLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dillen And De Schaetzen Luxembourg S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "DELILUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dierickx, Leys Luxembourg S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "DILLLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Holdings (luxembourg) Sarl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "DEUTLU2HXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Destrem Luxembourg S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "LUDELUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dewaay Luxembourg S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "DEWYLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deripartners Sicav-sif",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "DEIVLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Degroof Portabella S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "GITFLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Danieli International Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "DAINLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Creutz And Partners, Global Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Weiswampach",
+          "swift_code": "CPGALUW1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Conrad Hinrich Donner Bank, Hamburg (allemagne) Succursale De Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CHDBLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Comptoir D'agents De Change Du Benelux S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CDCBLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Compagnie Internationale De Rentes S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "COIRLUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole Luxembourg Multigestion",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "CAUILUL1XXX"
+        }
+      ]
+    }
+  ]
+}

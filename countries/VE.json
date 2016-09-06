@@ -1,0 +1,902 @@
+{
+  "country_name": "Venezuela (Bolivarian Republic of)",
+  "alpha_2": "VE",
+  "country_code": "862",
+  "banks": [
+    {
+      "bank_name": "Vestcorpartners C.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "VECOVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Venezolano De Credito, S.a. Banco Universal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "VZCRVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Valores Vencred Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "VAVEVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Valores Santander Casa De Corretaje",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "VSCCVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Desarrollo Economico Y Social De Venezuela",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "FIVVVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Desarrollo Agropecuario",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "BDAGVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Comercio Exterior",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "BCEVVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Central De Venezuela",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "BCVEVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Caroni, C.a. Banco Universal",
+      "branches": [
+        {
+          "branch_name": "Puerto Ordaz",
+          "city": "Puerto Ordaz",
+          "swift_code": "CAROVECA022"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "CAROVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Canarias De Venezuela C.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "BOCAVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bicentenario Banco Universal, C.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "CONDVECPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Agricola De Venezuela, C.a. Banco Universal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "BAVEVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Activo, C.a. Banco Universal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "ACTIVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bancaracas Casa De Bolsa, C.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "BCBOVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bancamiga Banco Microfinanciero",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "BMIGVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bamerinvest",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "BAMTVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arrendadora Provincial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "ARPRVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arrendadora Del Orinoco, Ca",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "AORIVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arrendadora De Venezuela Banvenez, Saca",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "ARBZVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arrendadora Consolidado",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "ACONVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Araven Finance Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "ARAFVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Activalores Sociedad De Corretaje S.a.,",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "ASDCVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "100 0/0 Banco, Banco Universal, C.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "FNCOVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Valinbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "VALKVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financorp Valores, C.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "FIVAVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional De Ahorro Y Prestamo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "BNAPVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Interamericano De Ahorro Y Prestamo, S A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "BIAPVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Industrial De Venezuela, C.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "INDSVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Hipotecario Venezolano, C.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "BHVEVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Hipotecario Del Zulia C A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maracaibo",
+          "swift_code": "BHZUVE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Hipotecario Del Orinoco, C.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Puerto Ordaz",
+          "swift_code": "HBORVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Hipotecario De La Vivienda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "BHVIVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Hipotecario De Aragua",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maracay",
+          "swift_code": "BHARVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Guayana C.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Puerto Ordaz",
+          "swift_code": "BGUAVECBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Financiero",
+      "branches": [
+        {
+          "branch_name": "Barquisimeto",
+          "city": "Barquisimeto",
+          "swift_code": "BANFVEC1022"
+        },
+        {
+          "branch_name": "Puerto La Cruz",
+          "city": "Puerto La Cruz",
+          "swift_code": "BANFVEC102C"
+        },
+        {
+          "branch_name": "Maracaibo",
+          "city": "Maracaibo",
+          "swift_code": "BANFVEC102M"
+        },
+        {
+          "branch_name": "Porlamar",
+          "city": "Porlamar",
+          "swift_code": "BANFVEC102P"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "BANFVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Exterior, C.a. Banco Universal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "BEXTVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Espirito Santo S.a. Sucursal Venezuela, Banco Universal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "BESCVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Del Tesoro, C.a. Banco Universal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "BDTEVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Del Pueblo Soberano, C.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "PBLOVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Del Caribe S.a.c.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "CARBVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Del Alba",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "LLBAVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Venezuela, S.a. Banco Universal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "VZLAVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Fomento Regional Los Andes",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Cristobal",
+          "swift_code": "BFRAVE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Fomento Regional Coro, C.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Coro",
+          "swift_code": "BFRCVE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Exportacion Y Comercio C.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "BECUVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Del Sur Banco Universal, C.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Puerto Ordaz",
+          "swift_code": "DSURVECPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion Andina De Fomento",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "CAFCVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corp Hipotecario Ca",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "BHCOVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corp Banca C.a. Venezuela",
+      "branches": [
+        {
+          "branch_name": "Caracas",
+          "city": "Caracas",
+          "swift_code": "CONSVECABON"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "CONSVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank N.a. Sucursal Venezuela",
+      "branches": [
+        {
+          "branch_name": "Maracaibo",
+          "city": "Maracaibo",
+          "swift_code": "CITIVEC102M"
+        },
+        {
+          "branch_name": "Valencia",
+          "city": "Valencia",
+          "swift_code": "CITIVEC102V"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "CITIVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caracas Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "XCARVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Venezolana De Valores, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "CVVCVEA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bfc Banco Fondo Comun, C.a. Banco Universal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "REPBVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banplus Banco Universal, C.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "BEHRVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banex Mercado De Capitales Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "BMDCVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banesco Banco Universal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "UNIOVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bancrecer S.a. Banco De Desarrollo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "CCERVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Sofitasa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Cristobal",
+          "swift_code": "SFTAVE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Provincial S.a. Banco Universal",
+      "branches": [
+        {
+          "branch_name": "Maracaibo",
+          "city": "Maracaibo",
+          "swift_code": "BPROVECAMAR"
+        },
+        {
+          "branch_name": "Puerto Ordaz",
+          "city": "Puerto Ordaz",
+          "swift_code": "BPROVECAPZO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "BPROVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Provincial S.a.",
+      "branches": [
+        {
+          "branch_name": "Caracas",
+          "city": "Caracas",
+          "swift_code": "BPROVECASUC"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Plaza",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "PLZAVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Occidental De Descuento Bu C.a.",
+      "branches": [
+        {
+          "branch_name": "Sucursal Caracas",
+          "city": "Caracas",
+          "swift_code": "BODEVE2MCCS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Maracaibo Mcbo",
+          "swift_code": "BODEVE2MXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nor-oriental De Venezuela",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Puerto La Cruz",
+          "swift_code": "BNOVVE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional De Credito, C.a.",
+      "branches": [
+        {
+          "branch_name": "Sucursal 001",
+          "city": "Caracas",
+          "swift_code": "NCRTVECA001"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "NCRTVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tradimpex Bienes Raices C.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "TRBRVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sofimerca Casa De Bolsa, C.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "SOMEVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Soficredito",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "SFCRVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sociedad Financiera Valinvenca",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "SFVAVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sociedad Financiera De Venezuela Ca",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "SFVEVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sociedad Financiera De Occidente",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maracaibo",
+          "swift_code": "SFOCVE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sociedad Financiera Consolidada",
+      "branches": [
+        {
+          "branch_name": "Valencia",
+          "city": "Valencia",
+          "swift_code": "SOFCVEC102V"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "SOFCVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Provincial De Valores Casa De Bolsa, C.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "PVALVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Provincial Banco De Inversion, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "SFPRVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ministerio Del Pp Para La Economia Y Finanzas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "TSORVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merinvest Sociedad De Corretaje C.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Bernardino",
+          "swift_code": "MSDEVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercantil Merinvest Casa De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "MMCBVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercantil C.a. Banco Universal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "BAMRVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Italcambio, C.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "ITALVECAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Italcambio, C.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "ITALVEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Italbursatil Casa De Bolsa, C.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "ITBUVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Invercapital Casa De Bolsa C.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "ICBOVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interacciones Mercado De Capitales S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "IMDCVEC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fitch Venezuela, Sociedad Calificadora De Riesgo, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caracas",
+          "swift_code": "FRIPVEC1XXX"
+        }
+      ]
+    }
+  ]
+}

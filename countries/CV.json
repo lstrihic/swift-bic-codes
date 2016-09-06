@@ -1,0 +1,157 @@
+{
+  "country_name": "Cabo Verde",
+  "alpha_2": "CV",
+  "country_code": "132",
+  "banks": [
+    {
+      "bank_name": "Novo Banco Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "A Praia",
+          "swift_code": "NBCVCVCVXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecocbank Cabo Verde",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Praia",
+          "swift_code": "ECOCCVCVXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa Economica De Cabo Verde",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Praia",
+          "swift_code": "CXECCVCVXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bpn Cabo Verde Ifi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Praia",
+          "swift_code": "BPNCCVCVXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Privado Internacional (ifi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Praia",
+          "swift_code": "PRIFCVCVXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Interatlantico, Sarl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Praia",
+          "swift_code": "CGDICVCPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Insular (i.f.i) S.a.r.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Praia",
+          "swift_code": "BILRCVC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Fiduciario Internacional (i.f.i.), S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Praia",
+          "swift_code": "BFIICVCVXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Espirito Santo S.a. Sucursal Financeira Exterior Cabo Verde",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Praia",
+          "swift_code": "BESCCVCVXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Espirito Santo Cabo Verde,sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Praia",
+          "swift_code": "BESCCVCPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Cabo Verde",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Praia",
+          "swift_code": "BCAVCVCVXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Comercial Do Atlantico",
+      "branches": [
+        {
+          "branch_name": "S Vicente",
+          "city": "S. Vicente",
+          "swift_code": "BCATCVCV0C2"
+        },
+        {
+          "branch_name": "Sal",
+          "city": "Sal",
+          "swift_code": "BCATCVCV0C3"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Praia",
+          "swift_code": "BCATCVCVXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Caboverdiano De Negocios-bcn",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Praia",
+          "swift_code": "CANBCVCVXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Angolano De Investimentos, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Praia",
+          "swift_code": "BAIPCVCVXXX"
+        }
+      ]
+    }
+  ]
+}

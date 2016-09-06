@@ -1,0 +1,142 @@
+{
+  "country_name": "Belize",
+  "alpha_2": "BZ",
+  "country_code": "084",
+  "banks": [
+    {
+      "bank_name": "Scotiabank (belize) Ltd.",
+      "branches": [
+        {
+          "branch_name": "International",
+          "city": "Belize City",
+          "swift_code": "NOSCBZBSINT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Belize City",
+          "swift_code": "NOSCBZBSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "New Horizon Financial Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Belize City",
+          "swift_code": "NHFSBZB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Heritage International Bank And Trust Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Belize City",
+          "swift_code": "PRVTBZBSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Handels Bank And Trust Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Belize City",
+          "swift_code": "HATTBZB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Compania Financiera De Apoyo Al Desarrollo Del Comercio Y La Industria, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Belize City",
+          "swift_code": "CFADBZB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Choice Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Belize City",
+          "swift_code": "CHOIBZBZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Belize",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Belize City",
+          "swift_code": "CEBBBZBZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caye International Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Pedro",
+          "swift_code": "CAYEBZBZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Belize Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Belize City",
+          "swift_code": "BBLZBZBZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Belize Bank International Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Belize City",
+          "swift_code": "BCBTBZBZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atlantic International Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Belize City",
+          "swift_code": "AIBLBZBZXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Belize City",
+          "swift_code": "ATINBZB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atlantic Bank Limited",
+      "branches": [
+        {
+          "branch_name": "San Pedro",
+          "city": "San Pedro",
+          "swift_code": "LIBABZBZ0BS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Belize City",
+          "swift_code": "LIBABZBZXXX"
+        }
+      ]
+    }
+  ]
+}

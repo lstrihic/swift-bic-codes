@@ -1,0 +1,5117 @@
+{
+  "country_name": "Norway",
+  "alpha_2": "NO",
+  "country_code": "578",
+  "banks": [
+    {
+      "bank_name": "Voss Veksel-og Landmandsbank Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Voss",
+          "swift_code": "VVELNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Warren Bank As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "NODENO21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "WARRNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ya Bank As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "YABANOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Voss Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Voss",
+          "swift_code": "VOSKNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Volda Og Orsta Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Volda",
+          "swift_code": "VOLDNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vik Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vikisogn",
+          "swift_code": "VISRNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vestre Slidre Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Slidre",
+          "swift_code": "VESLNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Verdibanken Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "VERDNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vegarshei Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vegarshei",
+          "swift_code": "VESPNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vang Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vang I Valdres",
+          "swift_code": "VASPNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Valle Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valle",
+          "swift_code": "VSPANO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vaaler Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vaaler",
+          "swift_code": "RYGSNO41XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tysnes Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Uggdal",
+          "swift_code": "TYSSNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trogstad Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Trogstad",
+          "swift_code": "TRSPNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Totens Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lena",
+          "swift_code": "TOTENO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tolga-os Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tolga",
+          "swift_code": "TOSPNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tjeldsund Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramsund",
+          "swift_code": "TJELNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tinn Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rjukan",
+          "swift_code": "TINNNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tingvoll Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tingvoll",
+          "swift_code": "TGVLNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Time Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bryne",
+          "swift_code": "TMSPNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Terra Markets",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "ORSANOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oslo Bors Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "XOSLNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orskog Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Orskog",
+          "swift_code": "ORKONO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orland Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brekstad",
+          "swift_code": "ORLANO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orkla Finans Kapitalforvaltning As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "ORFFNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orkdal Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Orkanger",
+          "swift_code": "OKDLNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orion Analyse As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kristiansand S",
+          "swift_code": "ORIONO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oppdalsbanken",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oppdal",
+          "swift_code": "OPPDNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ofoten Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "I Ofoten / Bogen",
+          "swift_code": "OFSPNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Odal Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sagstua",
+          "swift_code": "ODASNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Obos Banken As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "OBOSNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nrp Securities Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "NRSANOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nottero Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tonsberg",
+          "swift_code": "NOTTNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Norwegian Emission Trading Registry",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "NETSNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Norsk Skipshypothekbank A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "NOSKNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Norne Securities As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bergen",
+          "swift_code": "NSSVNOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Norges Bank (division Norges Bank Investment Management",
+      "branches": [
+        {
+          "branch_name": "Norges Bank (division Norges Bank Investment Management",
+          "city": "Oslo",
+          "swift_code": "NGIMNOKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordisk Energiforvaltning",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "NOEENOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Stabile Aksjer Global-asset Side",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "NSAGNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Stabile Aksjer Global Etisk-asset Side",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "NSALNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Global-asset Side",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "NGASNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Terra Kortbank As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "TEKONOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparebanken Ost",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hokksund",
+          "swift_code": "SPOENO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sector Fund Services Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "SFEANOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sector Epsilon Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "SCESNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Santander Consumer Bank As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lysaker",
+          "swift_code": "SAOMNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samuel Montagu Norge A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "SAMNNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saga Securities As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "SASUNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Safe Deposit Bank Of Norway As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "SDBNNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rs Platou Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hoevik",
+          "swift_code": "PLSENO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rs Platou Markets As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "NOSUNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rorosbanken Roros Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Roros",
+          "swift_code": "RORBNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Romsdals Fellesbank Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Molde",
+          "swift_code": "ROFENO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ringerikes Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hoenefoss",
+          "swift_code": "RIRINO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rindal Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rindal",
+          "swift_code": "RINDNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Privatbanken Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "PBASNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Posten Norge As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "NORGNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pareto Ppn As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bryne",
+          "swift_code": "PAPNNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pareto Nordic Investments As",
+      "branches": [
+        {
+          "branch_name": "Pareto Nordic Investments As",
+          "city": "Oslo",
+          "swift_code": "PANVNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pareto Forvaltning As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "PAFVNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pareto Fonds A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "PAFNNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pareto Bank Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "PTAANOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oystre Slidre Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Heggenes",
+          "swift_code": "OYSLNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparebanken Narvik",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Narvik",
+          "swift_code": "NARVNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparebanken Hemne",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kyrksaeteroera",
+          "swift_code": "HEMNNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparebanken Flora Bremanger",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Floroe",
+          "swift_code": "FLOENO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparebank 1 Vestfold",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sandefjord",
+          "swift_code": "VEFONO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparebank 1 Verdipapirservice As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "SPVDNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparebank 1 Nordvest",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kristiansund N",
+          "swift_code": "NORVNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparebank 1 Markets As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "AREUNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparebank 1 Hallingdal",
+      "branches": [
+        {
+          "branch_name": "3551 Gol",
+          "city": "Gol",
+          "swift_code": "HAALNO21GOL"
+        },
+        {
+          "branch_name": "3561 Hemsedal",
+          "city": "Hemsedal",
+          "swift_code": "HAALNO21HEM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Al",
+          "swift_code": "HAALNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparebank 1 Gudbrandsdal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vinstra",
+          "swift_code": "SGFSNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Soon Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Son",
+          "swift_code": "RYGSNO31XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Soknedal Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Soknedal",
+          "swift_code": "SOKNNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sogne Og Greipstad Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Soegne",
+          "swift_code": "SOGSNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skudenes And Aakra Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Akrehamn",
+          "swift_code": "SKAANO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skandiabanken Ab Norsk Avdeling Av Utenlandsk Foretak",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bergen",
+          "swift_code": "SKDBNOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Setskog Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Setskog",
+          "swift_code": "SSPANO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Seljord Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seljord",
+          "swift_code": "SELJNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Selbu Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Selbu",
+          "swift_code": "SELSNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sector Omega Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "SCGANOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sector Gamma Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "SEGSNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Terra Fonds Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "TRFANOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Teller As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "TELRNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Telenor Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fornebu",
+          "swift_code": "TEORNO22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Surnadal Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Surnadal",
+          "swift_code": "SURSNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sunndal Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sunndalsora",
+          "swift_code": "SUSANO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sundal Collier And Co As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "SUCONOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Strommen Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stroemmen",
+          "swift_code": "STMMNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Storebrand Kapitalforvaltning",
+      "branches": [
+        {
+          "branch_name": "Oslo",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1000"
+        },
+        {
+          "branch_name": "Oslo",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1001"
+        },
+        {
+          "branch_name": "Spp Equity Europe",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1002"
+        },
+        {
+          "branch_name": "Oslo",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1003"
+        },
+        {
+          "branch_name": "Spp Equity Emergimg Markets",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1004"
+        },
+        {
+          "branch_name": "Spp Private Equity",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1005"
+        },
+        {
+          "branch_name": "Spp Goverment Bonds",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1006"
+        },
+        {
+          "branch_name": "Spp Index Linked Bonds",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1007"
+        },
+        {
+          "branch_name": "Spp Mortgage Bonds",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1008"
+        },
+        {
+          "branch_name": "Spp Credit Bonds",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1009"
+        },
+        {
+          "branch_name": "Spp Goverment Guaranted Bonds",
+          "city": "Oslo",
+          "swift_code": "STKTNOK100A"
+        },
+        {
+          "branch_name": "Spp Unrated Bonds",
+          "city": "Oslo",
+          "swift_code": "STKTNOK100B"
+        },
+        {
+          "branch_name": "Spp Match Ap",
+          "city": "Oslo",
+          "swift_code": "STKTNOK100C"
+        },
+        {
+          "branch_name": "Spp Money Market Instruments",
+          "city": "Oslo",
+          "swift_code": "STKTNOK100D"
+        },
+        {
+          "branch_name": "Spp Absolute Return",
+          "city": "Oslo",
+          "swift_code": "STKTNOK100E"
+        },
+        {
+          "branch_name": "Spp Real Estate",
+          "city": "Oslo",
+          "swift_code": "STKTNOK100F"
+        },
+        {
+          "branch_name": "Spp Commodities",
+          "city": "Oslo",
+          "swift_code": "STKTNOK100G"
+        },
+        {
+          "branch_name": "Spp Infrastructure",
+          "city": "Oslo",
+          "swift_code": "STKTNOK100H"
+        },
+        {
+          "branch_name": "Spp 250",
+          "city": "Oslo",
+          "swift_code": "STKTNOK100I"
+        },
+        {
+          "branch_name": "Spp 300",
+          "city": "Oslo",
+          "swift_code": "STKTNOK100J"
+        },
+        {
+          "branch_name": "Sbl Andre Plasseringer",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104N"
+        },
+        {
+          "branch_name": "Sbl Emerging Markets",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104O"
+        },
+        {
+          "branch_name": "Sbl Emd Eksterne",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104P"
+        },
+        {
+          "branch_name": "Sbl Mikrofinans",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104Q"
+        },
+        {
+          "branch_name": "Sbl Lr Obligasjoner Utland",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104R"
+        },
+        {
+          "branch_name": "Sbl Obligasjoner N Stat",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104S"
+        },
+        {
+          "branch_name": "Sbl Obligasjoner Utland",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104T"
+        },
+        {
+          "branch_name": "Sbl Infrastruktur",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104U"
+        },
+        {
+          "branch_name": "Sbl Skog",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104V"
+        },
+        {
+          "branch_name": "Sbl Hedgefond Investeringer",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104W"
+        },
+        {
+          "branch_name": "Sbl Eksterne Hedgefond",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104X"
+        },
+        {
+          "branch_name": "Sbl Kredit Utland",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104Y"
+        },
+        {
+          "branch_name": "Sbl N Akjser",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104Z"
+        },
+        {
+          "branch_name": "Sbl Globale Aksjer",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1050"
+        },
+        {
+          "branch_name": "Sbl Private Equity",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1051"
+        },
+        {
+          "branch_name": "Eub Private Equity",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1052"
+        },
+        {
+          "branch_name": "Sbl Obligasjoner Omlop",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1053"
+        },
+        {
+          "branch_name": "Spp Emerging Markets Sri",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1054"
+        },
+        {
+          "branch_name": "Storebrand Global Kreditt Ig",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1055"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring P350sn",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1056"
+        },
+        {
+          "branch_name": "Storebrand Livsforsikring Ak",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1043"
+        },
+        {
+          "branch_name": "Storebrand Livsforsikring Ef",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1044"
+        },
+        {
+          "branch_name": "Storebrand Livsforsikring Pe",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1045"
+        },
+        {
+          "branch_name": "Storebrnad Lav",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1046"
+        },
+        {
+          "branch_name": "Storebrand Standard",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1047"
+        },
+        {
+          "branch_name": "Storebrand Hoy",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1048"
+        },
+        {
+          "branch_name": "Pers. Fors. Fellesmidler",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1049"
+        },
+        {
+          "branch_name": "Storebrand Filial S",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104A"
+        },
+        {
+          "branch_name": "Storebrand Fripoliser Forsiktig",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104B"
+        },
+        {
+          "branch_name": "Storebrand Fripoliser Balanseret",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104C"
+        },
+        {
+          "branch_name": "Storebrand Fripoliser Offensiv",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104D"
+        },
+        {
+          "branch_name": "Storebrand Eksisterende Individual",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104E"
+        },
+        {
+          "branch_name": "Flex 1",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104F"
+        },
+        {
+          "branch_name": "Investeringsvald Kunde X",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104G"
+        },
+        {
+          "branch_name": "Investeringsvalg Kunde Y",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104H"
+        },
+        {
+          "branch_name": "Storebrand Garantikonto",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104I"
+        },
+        {
+          "branch_name": "Storebrand 5-arig 2014 Standard",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104J"
+        },
+        {
+          "branch_name": "Storebrand 5-arig 2014 Hoy",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104K"
+        },
+        {
+          "branch_name": "Sbl Pengemarked N",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104L"
+        },
+        {
+          "branch_name": "Sbl Pengemarked Utland Kreditt",
+          "city": "Oslo",
+          "swift_code": "STKTNOK104M"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring Vs",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103J"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring Au",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103K"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring Lr",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103L"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring Pe",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103M"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring Ta",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103N"
+        },
+        {
+          "branch_name": "Storebrand Link Balanseret Pensjon",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103O"
+        },
+        {
+          "branch_name": "Storebrand Link Balanseret Allokering",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103P"
+        },
+        {
+          "branch_name": "Storebrand Link Forsiktig Pensjon",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103Q"
+        },
+        {
+          "branch_name": "Storebrand Link Forsiktig Allokering",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103R"
+        },
+        {
+          "branch_name": "Storebrand Link Offensiv Allokering",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103S"
+        },
+        {
+          "branch_name": "Orkla Storebrand Investereingsprofil 2",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103T"
+        },
+        {
+          "branch_name": "Storebrand Link Offensiv Pensjon",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103U"
+        },
+        {
+          "branch_name": "Storebrand Nho Balansert Pensjon",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103V"
+        },
+        {
+          "branch_name": "Storebrand Nho Forsiktig Pensjon",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103W"
+        },
+        {
+          "branch_name": "Storebrand Nho Offensiv Pensjon",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103X"
+        },
+        {
+          "branch_name": "Storebrand Livsforsikring As Aa",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103Y"
+        },
+        {
+          "branch_name": "Storebrand Livsforsikring As An",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103Z"
+        },
+        {
+          "branch_name": "Storebrand Livsforsikring As Si",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1040"
+        },
+        {
+          "branch_name": "Storebrand Livsforsikring As 901",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1041"
+        },
+        {
+          "branch_name": "Storebrand Livsforsikring As 901si",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1042"
+        },
+        {
+          "branch_name": "Europlan Fixed Income Early R",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102Z"
+        },
+        {
+          "branch_name": "Sas",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1030"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring Ake",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1031"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring Ap",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1032"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring Au",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1033"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring Ax",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1034"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring Com",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1035"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring Em",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1036"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring Fx",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1037"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring Hy",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1038"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring Ig",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1039"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring Jp",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103A"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring Lr",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103B"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring Oa",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103C"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring On",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103D"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring Pe",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103E"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring Pm",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103F"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring Sa",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103G"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring Si",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103H"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring Ta",
+          "city": "Oslo",
+          "swift_code": "STKTNOK103I"
+        },
+        {
+          "branch_name": "Storebrand Optimer",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102F"
+        },
+        {
+          "branch_name": "Storebrand Agfix",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102G"
+        },
+        {
+          "branch_name": "Eub Equiti Sw",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102H"
+        },
+        {
+          "branch_name": "Eub Equity Na",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102I"
+        },
+        {
+          "branch_name": "Eub Equity E",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102J"
+        },
+        {
+          "branch_name": "Eub Equity P",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102K"
+        },
+        {
+          "branch_name": "Eub Equity Emerging Markets",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102L"
+        },
+        {
+          "branch_name": "Eub Government Bonds",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102M"
+        },
+        {
+          "branch_name": "Eub Index Linked Bonds",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102N"
+        },
+        {
+          "branch_name": "Eub Mortgage Bonds",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102O"
+        },
+        {
+          "branch_name": "Eub Credit Bonds",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102P"
+        },
+        {
+          "branch_name": "Eub Government Guanteed Bonds",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102Q"
+        },
+        {
+          "branch_name": "Eub Money Markets Instruments",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102R"
+        },
+        {
+          "branch_name": "Eub Absolute Return",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102S"
+        },
+        {
+          "branch_name": "Eub Real Estate",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102T"
+        },
+        {
+          "branch_name": "Eub Taa",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102U"
+        },
+        {
+          "branch_name": "Eub Shareholder",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102V"
+        },
+        {
+          "branch_name": "Europlan Mixed 60/40",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102W"
+        },
+        {
+          "branch_name": "Europlan Mixed 80/20",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102X"
+        },
+        {
+          "branch_name": "Europlan Fixed Income",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102Y"
+        },
+        {
+          "branch_name": "Delphi N",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101V"
+        },
+        {
+          "branch_name": "Delphi Vekst",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101W"
+        },
+        {
+          "branch_name": "Delphi Verden",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101X"
+        },
+        {
+          "branch_name": "Storebrand Europa 1",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101Y"
+        },
+        {
+          "branch_name": "Storebrand Europa",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101Z"
+        },
+        {
+          "branch_name": "Storebrand Global",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1020"
+        },
+        {
+          "branch_name": "Storebrand Global Obligasjon A",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1021"
+        },
+        {
+          "branch_name": "Storebrand Global Indeks I",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1022"
+        },
+        {
+          "branch_name": "Storebrand Global Quant Equity",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1023"
+        },
+        {
+          "branch_name": "Storebrand Global Sri",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1024"
+        },
+        {
+          "branch_name": "Storebrand Na I",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1025"
+        },
+        {
+          "branch_name": "Storebrand Norden",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1026"
+        },
+        {
+          "branch_name": "Storebrand Obligasjon+",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1027"
+        },
+        {
+          "branch_name": "Storebrand Pensjonspar",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1028"
+        },
+        {
+          "branch_name": "Storebrand Pioner",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1029"
+        },
+        {
+          "branch_name": "Storebrand Renter+",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102A"
+        },
+        {
+          "branch_name": "Storebrand Spar 2020",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102B"
+        },
+        {
+          "branch_name": "Storebrand Spar 2030",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102C"
+        },
+        {
+          "branch_name": "Storebrand Spar 2040",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102D"
+        },
+        {
+          "branch_name": "Storebrand Wga Health Care",
+          "city": "Oslo",
+          "swift_code": "STKTNOK102E"
+        },
+        {
+          "branch_name": "Spp Generation 50-tal",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101B"
+        },
+        {
+          "branch_name": "Spp Generation 60-tal",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101C"
+        },
+        {
+          "branch_name": "Spp Generation 70-tal",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101D"
+        },
+        {
+          "branch_name": "Spp Generation 80-tal",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101E"
+        },
+        {
+          "branch_name": "Spp Emu Blandfond",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101F"
+        },
+        {
+          "branch_name": "Spp Bygga",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101G"
+        },
+        {
+          "branch_name": "Spp Aktieindexfond Europa",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101H"
+        },
+        {
+          "branch_name": "Spp Aktieindexfond Global Sus.",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101I"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101J"
+        },
+        {
+          "branch_name": "Spp Leva",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101K"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101L"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101M"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101N"
+        },
+        {
+          "branch_name": "Storebrand Aktiv Allokering",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101O"
+        },
+        {
+          "branch_name": "Storebrand Asia Pacific Indeks I",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101P"
+        },
+        {
+          "branch_name": "Storebrand Aksjespar",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101Q"
+        },
+        {
+          "branch_name": "Storebrand Barnespar",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101R"
+        },
+        {
+          "branch_name": "Delphi Europa",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101S"
+        },
+        {
+          "branch_name": "Delphi Kombinasjon",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101T"
+        },
+        {
+          "branch_name": "Delphi Norden",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101U"
+        },
+        {
+          "branch_name": "Spp 520",
+          "city": "Oslo",
+          "swift_code": "STKTNOK100K"
+        },
+        {
+          "branch_name": "Spp Kf",
+          "city": "Oslo",
+          "swift_code": "STKTNOK100L"
+        },
+        {
+          "branch_name": "Spp Ap",
+          "city": "Oslo",
+          "swift_code": "STKTNOK100M"
+        },
+        {
+          "branch_name": "Spp Tffr",
+          "city": "Oslo",
+          "swift_code": "STKTNOK100N"
+        },
+        {
+          "branch_name": "Spp Spp Ek Ej Tp",
+          "city": "Oslo",
+          "swift_code": "STKTNOK100O"
+        },
+        {
+          "branch_name": "Spp Ek Tp",
+          "city": "Oslo",
+          "swift_code": "STKTNOK100P"
+        },
+        {
+          "branch_name": "Spp Hedge Ak",
+          "city": "Oslo",
+          "swift_code": "STKTNOK100Q"
+        },
+        {
+          "branch_name": "Spp Hedge Coll",
+          "city": "Oslo",
+          "swift_code": "STKTNOK100R"
+        },
+        {
+          "branch_name": "Spp Hedge Rtr",
+          "city": "Oslo",
+          "swift_code": "STKTNOK100S"
+        },
+        {
+          "branch_name": "Spp Eq",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1010"
+        },
+        {
+          "branch_name": "Spp Eq",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1011"
+        },
+        {
+          "branch_name": "Spp Eq Euro",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1012"
+        },
+        {
+          "branch_name": "Spp Eq Pac",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1013"
+        },
+        {
+          "branch_name": "Spp Eq E M",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1014"
+        },
+        {
+          "branch_name": "Spp Priv Eq",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1015"
+        },
+        {
+          "branch_name": "Spp Gov Bonds",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1016"
+        },
+        {
+          "branch_name": "Spp Index",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1017"
+        },
+        {
+          "branch_name": "Spp Mortgare",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1018"
+        },
+        {
+          "branch_name": "Spp Credit B",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1019"
+        },
+        {
+          "branch_name": "Spp Generation 40-tal",
+          "city": "Oslo",
+          "swift_code": "STKTNOK101A"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107A"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107B"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107C"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107D"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107E"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107F"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107G"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107H"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107I"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107J"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107K"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107L"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107M"
+        },
+        {
+          "branch_name": "Storebrand Fond",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107N"
+        },
+        {
+          "branch_name": "Storebrand Fond",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107O"
+        },
+        {
+          "branch_name": "Storebrand Asa",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107P"
+        },
+        {
+          "branch_name": "Storebrand Helseforsikring As",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107Q"
+        },
+        {
+          "branch_name": "Stiftelsen Sorlandtes Kompetansefond",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107R"
+        },
+        {
+          "branch_name": "Fjell Kommunale Pensjonskasse",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107S"
+        },
+        {
+          "branch_name": "Tonsbeerg Kommune",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107T"
+        },
+        {
+          "branch_name": "Nordben Life And Pension",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106Q"
+        },
+        {
+          "branch_name": "Nordben Life And Pension",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106R"
+        },
+        {
+          "branch_name": "Nordben Life And Pension",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106S"
+        },
+        {
+          "branch_name": "Storebrand Livsforsikringc",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106T"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106U"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106V"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106W"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106X"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106Y"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106Z"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1070"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1071"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1072"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1073"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1074"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1075"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1076"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1077"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1078"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1079"
+        },
+        {
+          "branch_name": "Glosta",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1066"
+        },
+        {
+          "branch_name": "Storebrand Individual Forsikring",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1067"
+        },
+        {
+          "branch_name": "Storebrand Individual Offensiv",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1068"
+        },
+        {
+          "branch_name": "Nordben Life And Pension",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1069"
+        },
+        {
+          "branch_name": "Nordben Life And Pension",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106A"
+        },
+        {
+          "branch_name": "Nordben Life And Pension",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106B"
+        },
+        {
+          "branch_name": "Nordben Life And Pension",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106C"
+        },
+        {
+          "branch_name": "Nordben Life And Pension",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106D"
+        },
+        {
+          "branch_name": "Nordben Life And Pension",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106E"
+        },
+        {
+          "branch_name": "Nordben Life And Pension",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106F"
+        },
+        {
+          "branch_name": "Nordben Life And Pension",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106G"
+        },
+        {
+          "branch_name": "Nordben Life And Pension",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106H"
+        },
+        {
+          "branch_name": "Nordben Life And Pension",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106I"
+        },
+        {
+          "branch_name": "Nordben Life And Pension",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106J"
+        },
+        {
+          "branch_name": "Nordben Life And Pension",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106K"
+        },
+        {
+          "branch_name": "Nordben Life And Pension",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106L"
+        },
+        {
+          "branch_name": "Nordben Life And Pension",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106M"
+        },
+        {
+          "branch_name": "Nordben Life And Pension",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106N"
+        },
+        {
+          "branch_name": "Nordben Life And Pension",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106O"
+        },
+        {
+          "branch_name": "Nordben Life And Pension",
+          "city": "Oslo",
+          "swift_code": "STKTNOK106P"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1057"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1058"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1059"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK105A"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK105B"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK105C"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK105D"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK105E"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK105F"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK105G"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK105H"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK105I"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK105J"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK105K"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK105L"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK105M"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK105N"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK105O"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK105P"
+        },
+        {
+          "branch_name": "Storebrand Kapitalforvaltning",
+          "city": "Oslo",
+          "swift_code": "STKTNOK105Q"
+        },
+        {
+          "branch_name": "Oslo Bolig Og Sparelag",
+          "city": "Oslo",
+          "swift_code": "STKTNOK108E"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring Taktisk Allokering 3",
+          "city": "Oslo",
+          "swift_code": "STKTNOK108F"
+        },
+        {
+          "branch_name": "Sissener Sirius Asa",
+          "city": "Oslo",
+          "swift_code": "STKTNOK108G"
+        },
+        {
+          "branch_name": "Spp Liv Fondforsaekring Ab Fondlager",
+          "city": "Oslo",
+          "swift_code": "STKTNOK108H"
+        },
+        {
+          "branch_name": "Spp Global Topp 100",
+          "city": "Oslo",
+          "swift_code": "STKTNOK108I"
+        },
+        {
+          "branch_name": "Storebrand Trippel Smart",
+          "city": "Oslo",
+          "swift_code": "STKTNOK108J"
+        },
+        {
+          "branch_name": "Odrent",
+          "city": "Oslo",
+          "swift_code": "STKTNOK108K"
+        },
+        {
+          "branch_name": "Sbl Eiendom Indirekte",
+          "city": "Oslo",
+          "swift_code": "STKTNOK108L"
+        },
+        {
+          "branch_name": "Gjensidige Forsikring",
+          "city": "Oslo",
+          "swift_code": "STKTNOK108M"
+        },
+        {
+          "branch_name": "Delphi Emerging",
+          "city": "Oslo",
+          "swift_code": "STKTNOK108N"
+        },
+        {
+          "branch_name": "Spp Aktiefond Stabil",
+          "city": "Oslo",
+          "swift_code": "STKTNOK108O"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1XXX"
+        },
+        {
+          "branch_name": "Molde Kommune Pensjonskasse Kollektiv",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107U"
+        },
+        {
+          "branch_name": "Boliden Odda As",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107V"
+        },
+        {
+          "branch_name": "Den Norske Legeforening",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107W"
+        },
+        {
+          "branch_name": "Bkk Pensjonskasse",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107X"
+        },
+        {
+          "branch_name": "Trysil Kommune",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107Y"
+        },
+        {
+          "branch_name": "Loenskog Kommunale Pensjonskasse",
+          "city": "Oslo",
+          "swift_code": "STKTNOK107Z"
+        },
+        {
+          "branch_name": "Sandefjord Kommune (kraftfond",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1080"
+        },
+        {
+          "branch_name": "Trygve Tellefsens Legat",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1081"
+        },
+        {
+          "branch_name": "Stiftelsen Sjomannshjelpen",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1082"
+        },
+        {
+          "branch_name": "Kraft Foods Pensjonskasse",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1083"
+        },
+        {
+          "branch_name": "Kvinnherad Kommune Kraftfond",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1084"
+        },
+        {
+          "branch_name": "Bw Gas Asa Pensjonskasse",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1085"
+        },
+        {
+          "branch_name": "Kronos Norge Pensjonskasse",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1086"
+        },
+        {
+          "branch_name": "Alcatel-lucent Norway Pensjonskasse",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1087"
+        },
+        {
+          "branch_name": "Volda Kommune",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1088"
+        },
+        {
+          "branch_name": "Stord Kommune",
+          "city": "Oslo",
+          "swift_code": "STKTNOK1089"
+        },
+        {
+          "branch_name": "Kristiansand Kommunale Pensjonskasse",
+          "city": "Oslo",
+          "swift_code": "STKTNOK108A"
+        },
+        {
+          "branch_name": "Minvol",
+          "city": "Oslo",
+          "swift_code": "STKTNOK108B"
+        },
+        {
+          "branch_name": "Sbl Ekstra Offensiv Pensjon Basis",
+          "city": "Oslo",
+          "swift_code": "STKTNOK108C"
+        },
+        {
+          "branch_name": "Norges Banks Pensjonskasse",
+          "city": "Oslo",
+          "swift_code": "STKTNOK108D"
+        }
+      ]
+    },
+    {
+      "bank_name": "Storebrand Bank Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "STFBNOKKXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "STFBNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stavanger Fondsforvaltning As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stavanger",
+          "swift_code": "STFONOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Statoil Kapitalforvaltning Asa",
+      "branches": [
+        {
+          "branch_name": "Statoil Kapitalforvaltning Asa",
+          "city": "Stavanger",
+          "swift_code": "STKSNO22XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Stavanger",
+          "swift_code": "STKSNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Statoil Asa",
+      "branches": [
+        {
+          "branch_name": "Statoil Asa",
+          "city": "Stavanger",
+          "swift_code": "SASANO22XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Stavanger",
+          "swift_code": "SASANO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Statkraft As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "STKFNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stadsbygd Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stadsbygd",
+          "swift_code": "STADNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Spydeberg Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Spydeberg",
+          "swift_code": "SPYDNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Spareskillingsbanken Kristiansand S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kristiansand S",
+          "swift_code": "SPSKNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparebanken Telemark",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skien",
+          "swift_code": "SPTLNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparebanken Rana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mo I Rana",
+          "swift_code": "SPNANO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparebanken Pluss",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kristiansand S",
+          "swift_code": "PLUSNO22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Norges Bank",
+      "branches": [
+        {
+          "branch_name": "Norges Bank As An Authorised Agent In Nbo",
+          "city": "Oslo",
+          "swift_code": "NBHKNOKKASA"
+        },
+        {
+          "branch_name": "Bra",
+          "city": "Oslo",
+          "swift_code": "NBHKNOKKBRA"
+        },
+        {
+          "branch_name": "Norges Bank Kollor Asa",
+          "city": "Oslo",
+          "swift_code": "NBHKNOKKKOL"
+        },
+        {
+          "branch_name": "Department For Market Operations And Analysis",
+          "city": "Oslo",
+          "swift_code": "NBHKNOKKMOA"
+        },
+        {
+          "branch_name": "Norges Bank As External Collateral Agent Sil",
+          "city": "Oslo",
+          "swift_code": "NBHKNOKKSIL"
+        },
+        {
+          "branch_name": "Central Governments Consolidated Account System",
+          "city": "Oslo",
+          "swift_code": "NBHKNOKKSKK"
+        },
+        {
+          "branch_name": "Technical Infrastructure Agent Role For Nbo",
+          "city": "Oslo",
+          "swift_code": "NBHKNOKKTIA"
+        },
+        {
+          "branch_name": "Tia Role For Kollor Nbo",
+          "city": "Oslo",
+          "swift_code": "NBHKNOKKTIK"
+        },
+        {
+          "branch_name": "Interim Tvangsbalansering",
+          "city": "Oslo",
+          "swift_code": "NBHKNOKKTVA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "NBHKNOKKXXX"
+        },
+        {
+          "branch_name": "S-laan1",
+          "city": "Oslo",
+          "swift_code": "NBHKNOKKS01"
+        },
+        {
+          "branch_name": "S-laan2",
+          "city": "Oslo",
+          "swift_code": "NBHKNOKKS02"
+        },
+        {
+          "branch_name": "S-laan3",
+          "city": "Oslo",
+          "swift_code": "NBHKNOKKS03"
+        },
+        {
+          "branch_name": "S-laan4",
+          "city": "Oslo",
+          "swift_code": "NBHKNOKKS04"
+        },
+        {
+          "branch_name": "S-laan5",
+          "city": "Oslo",
+          "swift_code": "NBHKNOKKS05"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Bank Norge Asa",
+      "branches": [
+        {
+          "branch_name": "Oslo",
+          "city": "Oslo",
+          "swift_code": "NDEANOKKNCL"
+        },
+        {
+          "branch_name": "Custody International",
+          "city": "Oslo",
+          "swift_code": "NDEANOKKVPU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "NDEANOKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Netfonds Bank Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "NEFNNOKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordlandsbanken Asa",
+      "branches": [
+        {
+          "branch_name": "8480 Andenes",
+          "city": "Andenes",
+          "swift_code": "NOBANO22AND"
+        },
+        {
+          "branch_name": "8201 Fauske",
+          "city": "Fauske",
+          "swift_code": "NOBANO22FAU"
+        },
+        {
+          "branch_name": "8370 Leknes",
+          "city": "Leknes",
+          "swift_code": "NOBANO22LKN"
+        },
+        {
+          "branch_name": "8601 Mo I Rana",
+          "city": "Mo I Rana",
+          "swift_code": "NOBANO22MON"
+        },
+        {
+          "branch_name": "8430 Myre",
+          "city": "Myre",
+          "swift_code": "NOBANO22MYR"
+        },
+        {
+          "branch_name": "8651 Mosjoen",
+          "city": "Mosjoen",
+          "swift_code": "NOBANO22MOS"
+        },
+        {
+          "branch_name": "8491 Melbu",
+          "city": "Melbu",
+          "swift_code": "NOBANO22MEL"
+        },
+        {
+          "branch_name": "8501 Narvik",
+          "city": "Narvik",
+          "swift_code": "NOBANO22NVK"
+        },
+        {
+          "branch_name": "Oernes",
+          "city": "Oernes",
+          "swift_code": "NOBANO22ORN"
+        },
+        {
+          "branch_name": "0107 Oslo",
+          "city": "Oslo",
+          "swift_code": "NOBANO22OSL"
+        },
+        {
+          "branch_name": "8250 Rognan",
+          "city": "Rognan",
+          "swift_code": "NOBANO22ROG"
+        },
+        {
+          "branch_name": "8801 Sandnessjoen",
+          "city": "Sandnessjoen",
+          "swift_code": "NOBANO22SSJ"
+        },
+        {
+          "branch_name": "8401 Sortland",
+          "city": "Sortland",
+          "swift_code": "NOBANO22SOR"
+        },
+        {
+          "branch_name": "Stamsund",
+          "city": "Stamsund",
+          "swift_code": "NOBANO22STA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bodoe",
+          "swift_code": "NOBANO22XXX"
+        },
+        {
+          "branch_name": "8451 Stokmarknes",
+          "city": "Stokmarknes",
+          "swift_code": "NOBANO22SKN"
+        },
+        {
+          "branch_name": "8901 Broennoeysund",
+          "city": "Broennoeysund",
+          "swift_code": "NOBANO22BNN"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jpmorgan Europe Limited, Olso Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "CHASNOKKXXX"
+        },
+        {
+          "branch_name": "Oslo",
+          "city": "Oslo",
+          "swift_code": "CHASNOKKOSL"
+        }
+      ]
+    },
+    {
+      "bank_name": "Norsk Hydro A.S.A., Hydro Finans",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "NHYDNOKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Folketrygdfondet",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "FOLTNOKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fokus Bank, Part Of Danske Bank Group",
+      "branches": [
+        {
+          "branch_name": "Kristiansund",
+          "city": "Kristiansund N",
+          "swift_code": "DABANO22KSU"
+        },
+        {
+          "branch_name": "Oslo Branch",
+          "city": "Oslo",
+          "swift_code": "DABANO22OSL"
+        },
+        {
+          "branch_name": "Skien Branch",
+          "city": "Skien",
+          "swift_code": "DABANO22SKE"
+        },
+        {
+          "branch_name": "Sogndal",
+          "city": "Sogndal",
+          "swift_code": "DABANO22SOG"
+        },
+        {
+          "branch_name": "Stavanger",
+          "city": "Stavanger",
+          "swift_code": "DABANO22SVG"
+        },
+        {
+          "branch_name": "Stjoerdal Branch",
+          "city": "Stjoerdal",
+          "swift_code": "DABANO22STJ"
+        },
+        {
+          "branch_name": "Stord Branch",
+          "city": "Stord",
+          "swift_code": "DABANO22STO"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Securities Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "FISANOKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Handelsbanken",
+      "branches": [
+        {
+          "branch_name": "Nordic Custody Services",
+          "city": "Oslo",
+          "swift_code": "HANDNOKKCUS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "HANDNOKKXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "HANDDKKKXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "HANDEE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dnb Markets Custody, A Business Unit Of Dnb Bank   Asa, Oslo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "DNBANOKCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dnb Markets, A Business Unit Of Dnb Bank Asa, Oslo",
+      "branches": [
+        {
+          "branch_name": "Cls Nostro Agent Control Branch",
+          "city": "Bergen",
+          "swift_code": "DNBANOKXCLS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "DNBANOKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dnb Bank Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "DNBANOKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eksportfinans Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "EKSPNOKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dnb Asset Management As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "DNAMNOKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Danske Bank A/S",
+      "branches": [
+        {
+          "branch_name": "Steinkjer",
+          "city": "Steinkjer",
+          "swift_code": "DABANO22STE"
+        },
+        {
+          "branch_name": "Tromsoe Branch",
+          "city": "Tromsoe",
+          "swift_code": "DABANO22TRM"
+        },
+        {
+          "branch_name": "Cls Services",
+          "city": "Trondheim",
+          "swift_code": "DABANO22CLS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Trondheim",
+          "swift_code": "DABANO22XXX"
+        },
+        {
+          "branch_name": "Aalborg",
+          "city": "Aalborg",
+          "swift_code": "DABADKKKAAL"
+        },
+        {
+          "branch_name": "Aarhus",
+          "city": "Aarhus",
+          "swift_code": "DABADKKKAAR"
+        },
+        {
+          "branch_name": "Aabenraa",
+          "city": "Aabenraa",
+          "swift_code": "DABADKKKAAB"
+        },
+        {
+          "branch_name": "Bagsvaerd",
+          "city": "Bagsvaerd",
+          "swift_code": "DABADKKKBAG"
+        },
+        {
+          "branch_name": "Ballerup",
+          "city": "Ballerup",
+          "swift_code": "DABADKKKBAL"
+        },
+        {
+          "branch_name": "Bjerringbro",
+          "city": "Bjerringbro",
+          "swift_code": "DABADKKKBJE"
+        },
+        {
+          "branch_name": "Birkeroed",
+          "city": "Birkeroed",
+          "swift_code": "DABADKKKBIR"
+        },
+        {
+          "branch_name": "Cls Services",
+          "city": "Copenhagen",
+          "swift_code": "DABADKKKCLS"
+        },
+        {
+          "branch_name": "Nordic Custody",
+          "city": "Copenhagen",
+          "swift_code": "DABADKKKCUS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "DABADKKKXXX"
+        },
+        {
+          "branch_name": "Esbjerg",
+          "city": "Esbjerg",
+          "swift_code": "DABADKKKESB"
+        },
+        {
+          "branch_name": "Fredericia",
+          "city": "Fredericia",
+          "swift_code": "DABADKKKFRC"
+        },
+        {
+          "branch_name": "Frederikshavn",
+          "city": "Frederikshavn",
+          "swift_code": "DABADKKKFRH"
+        },
+        {
+          "branch_name": "Frederikssund",
+          "city": "Frederikssund",
+          "swift_code": "DABADKKKFSU"
+        },
+        {
+          "branch_name": "Gentofte",
+          "city": "Gentofte",
+          "swift_code": "DABADKKKGEN"
+        },
+        {
+          "branch_name": "Glostrup",
+          "city": "Glostrup",
+          "swift_code": "DABADKKKGLO"
+        },
+        {
+          "branch_name": "Grenaa",
+          "city": "Grenaa",
+          "swift_code": "DABADKKKGRN"
+        },
+        {
+          "branch_name": "Haderslev",
+          "city": "Haderslev",
+          "swift_code": "DABADKKKHAD"
+        },
+        {
+          "branch_name": "Herning",
+          "city": "Herning",
+          "swift_code": "DABADKKKHER"
+        },
+        {
+          "branch_name": "Helsingoer",
+          "city": "Helsingoer",
+          "swift_code": "DABADKKKHEL"
+        },
+        {
+          "branch_name": "Herlev",
+          "city": "Herlev",
+          "swift_code": "DABADKKKHRL"
+        },
+        {
+          "branch_name": "Hirtshals",
+          "city": "Hirtshals",
+          "swift_code": "DABADKKKHIR"
+        },
+        {
+          "branch_name": "Hilleroed",
+          "city": "Hilleroed",
+          "swift_code": "DABADKKKHIL"
+        },
+        {
+          "branch_name": "Hjoerring",
+          "city": "Hjoerring",
+          "swift_code": "DABADKKKHJO"
+        },
+        {
+          "branch_name": "Holbaek",
+          "city": "Holbaek",
+          "swift_code": "DABADKKKHBK"
+        },
+        {
+          "branch_name": "Holstebro",
+          "city": "Holstebro",
+          "swift_code": "DABADKKKHOL"
+        },
+        {
+          "branch_name": "Horsens",
+          "city": "Horsens",
+          "swift_code": "DABADKKKHOR"
+        },
+        {
+          "branch_name": "Kalundborg",
+          "city": "Kalundborg",
+          "swift_code": "DABADKKKKAL"
+        },
+        {
+          "branch_name": "Airport",
+          "city": "Kastrup",
+          "swift_code": "DABADKKKKAS"
+        },
+        {
+          "branch_name": "Koege",
+          "city": "Koege",
+          "swift_code": "DABADKKKKGE"
+        },
+        {
+          "branch_name": "Kolding",
+          "city": "Kolding",
+          "swift_code": "DABADKKKKOL"
+        },
+        {
+          "branch_name": "Korsoer",
+          "city": "Korsoer",
+          "swift_code": "DABADKKKKOR"
+        },
+        {
+          "branch_name": "Danske Capital",
+          "city": "Lyngby",
+          "swift_code": "DABADKKKCAP"
+        },
+        {
+          "branch_name": "Lyngby",
+          "city": "Lyngby",
+          "swift_code": "DABADKKKLYN"
+        },
+        {
+          "branch_name": "Middelfart",
+          "city": "Middelfart",
+          "swift_code": "DABADKKKMID"
+        },
+        {
+          "branch_name": "Naestved",
+          "city": "Naestved",
+          "swift_code": "DABADKKKNAE"
+        },
+        {
+          "branch_name": "Nakskov",
+          "city": "Nakskov",
+          "swift_code": "DABADKKKNAK"
+        },
+        {
+          "branch_name": "Nyborg",
+          "city": "Nyborg",
+          "swift_code": "DABADKKKNYB"
+        },
+        {
+          "branch_name": "Nykoebing Falster",
+          "city": "Nykoebing Falster",
+          "swift_code": "DABADKKKNYF"
+        },
+        {
+          "branch_name": "Nykoebing Sjaelland",
+          "city": "Nykoebing Sjaelland",
+          "swift_code": "DABADKKKNYS"
+        },
+        {
+          "branch_name": "Odense",
+          "city": "Odense",
+          "swift_code": "DABADKKKODE"
+        },
+        {
+          "branch_name": "Randers",
+          "city": "Randers",
+          "swift_code": "DABADKKKRAN"
+        },
+        {
+          "branch_name": "Ringsted",
+          "city": "Ringsted",
+          "swift_code": "DABADKKKRIN"
+        },
+        {
+          "branch_name": "Roedovre",
+          "city": "Roedovre",
+          "swift_code": "DABADKKKROD"
+        },
+        {
+          "branch_name": "Roenne",
+          "city": "Roenne",
+          "swift_code": "DABADKKKRON"
+        },
+        {
+          "branch_name": "Roskilde",
+          "city": "Roskilde",
+          "swift_code": "DABADKKKROS"
+        },
+        {
+          "branch_name": "Saeby",
+          "city": "Saeby",
+          "swift_code": "DABADKKKSBY"
+        },
+        {
+          "branch_name": "Silkeborg",
+          "city": "Silkeborg",
+          "swift_code": "DABADKKKSIL"
+        },
+        {
+          "branch_name": "Skive",
+          "city": "Skive",
+          "swift_code": "DABADKKKSKI"
+        },
+        {
+          "branch_name": "Slagelse",
+          "city": "Slagelse",
+          "swift_code": "DABADKKKSLA"
+        },
+        {
+          "branch_name": "Soenderborg",
+          "city": "Soenderborg",
+          "swift_code": "DABADKKKSON"
+        },
+        {
+          "branch_name": "Struer",
+          "city": "Struer",
+          "swift_code": "DABADKKKSTR"
+        },
+        {
+          "branch_name": "Svendborg",
+          "city": "Svendborg",
+          "swift_code": "DABADKKKSVB"
+        },
+        {
+          "branch_name": "Taastrup",
+          "city": "Taastrup",
+          "swift_code": "DABADKKKTAA"
+        },
+        {
+          "branch_name": "Thisted",
+          "city": "Thisted",
+          "swift_code": "DABADKKKTHI"
+        },
+        {
+          "branch_name": "Toender",
+          "city": "Toender",
+          "swift_code": "DABADKKKTON"
+        },
+        {
+          "branch_name": "Varde",
+          "city": "Varde",
+          "swift_code": "DABADKKKVAR"
+        },
+        {
+          "branch_name": "Vejle",
+          "city": "Vejle",
+          "swift_code": "DABADKKKVEJ"
+        },
+        {
+          "branch_name": "Viborg",
+          "city": "Viborg",
+          "swift_code": "DABADKKKVIB"
+        },
+        {
+          "branch_name": "Dun Laoghaire",
+          "city": "Dun Laoghaire",
+          "swift_code": "DABAIE2D600"
+        },
+        {
+          "branch_name": "Danske Bank A/S",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D735"
+        },
+        {
+          "branch_name": "Danske Bank A/S",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D736"
+        },
+        {
+          "branch_name": "Danske Bank A/S",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D737"
+        },
+        {
+          "branch_name": "Danske Bank A/S",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D738"
+        },
+        {
+          "branch_name": "Danske Bank A/S",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D739"
+        },
+        {
+          "branch_name": "Danske Bank A/S",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D740"
+        },
+        {
+          "branch_name": "Danske Bank A/S",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D742"
+        },
+        {
+          "branch_name": "Danske Bank A/S",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D743"
+        },
+        {
+          "branch_name": "Danske Bank A/S",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D745"
+        },
+        {
+          "branch_name": "Danske Bank A/S",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D746"
+        },
+        {
+          "branch_name": "Dublin 24",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D748"
+        },
+        {
+          "branch_name": "Dublin 24",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D749"
+        },
+        {
+          "branch_name": "Dublin 23",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D760"
+        },
+        {
+          "branch_name": "Dublin 24",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D761"
+        },
+        {
+          "branch_name": "Dublin 24",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D762"
+        },
+        {
+          "branch_name": "Dublin 24",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D763"
+        },
+        {
+          "branch_name": "Dublin 24",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D764"
+        },
+        {
+          "branch_name": "Dublin 24",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D765"
+        },
+        {
+          "branch_name": "Dublin 24",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D766"
+        },
+        {
+          "branch_name": "Dublin 24",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D767"
+        },
+        {
+          "branch_name": "Dublin 24",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D768"
+        },
+        {
+          "branch_name": "Dublin 24",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D769"
+        },
+        {
+          "branch_name": "Danske Bank A/S",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D840"
+        },
+        {
+          "branch_name": "Danske Bank A/S",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D841"
+        },
+        {
+          "branch_name": "Danske Bank A/S",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D842"
+        },
+        {
+          "branch_name": "Danske Bank A/S",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D897"
+        },
+        {
+          "branch_name": "Danske Bank A/S",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D898"
+        },
+        {
+          "branch_name": "Danske Bank A/S",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D975"
+        },
+        {
+          "branch_name": "Danske Bank A/S",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D976"
+        },
+        {
+          "branch_name": "Danske Bank A/S",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D977"
+        },
+        {
+          "branch_name": "Danske Bank A/S",
+          "city": "Dublin",
+          "swift_code": "DABAIE2D995"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank International Plc, Norway Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "CITINOKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Oslo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "BNPANOKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnbank Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Aalesund",
+          "swift_code": "KBNONO22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank 1 Oslo As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "LABANOKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kragero Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kragero",
+          "swift_code": "KREGNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kommunal Landspensjonskasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "KOMLNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fondsfinans As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "FONSNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yara International Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "YARANOKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Global High Yield-asset Side",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "NGHINOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Axir Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "AXSANOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cosmos Markets Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sandefjord",
+          "swift_code": "CSMANO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Christiania Securities As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "CHUANOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Flekkefjord Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Flekkefjord",
+          "swift_code": "FLEKNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carnegie A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "CANGNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bud Fraena Og Hustad Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Elnesvagen",
+          "swift_code": "BFHSNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cultura Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "CULTNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Borea Noterte Management As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bergen",
+          "swift_code": "BONMNOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bo Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bo I Telemark",
+          "swift_code": "BSPANO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Car Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "RRASNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Blaker Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sorumsand",
+          "swift_code": "BLSANO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bjugn Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bjugn",
+          "swift_code": "BJUGNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Birkenes Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Birkeland",
+          "swift_code": "BISNNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bien Sparebank As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "BIENNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bergen Fondsmeglerforretning A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bergen",
+          "swift_code": "BEFONOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bergen Capital Management As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bergen",
+          "swift_code": "BCMMNOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bergen Energi Markets As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bergen",
+          "swift_code": "BEEKNOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Berg Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Halden",
+          "swift_code": "BRGPNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankenes Sikringsfond",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "SIKRNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank2 Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "BTWONOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Verdipapirsentralen, Vps",
+      "branches": [
+        {
+          "branch_name": "Ccp Settlement",
+          "city": "Oslo",
+          "swift_code": "VPSNNOKKCCP"
+        },
+        {
+          "branch_name": "Vps Clearing",
+          "city": "Oslo",
+          "swift_code": "VPSNNOKKCLE"
+        },
+        {
+          "branch_name": "Vps Clearing",
+          "city": "Oslo",
+          "swift_code": "VPSNNOKKCLR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "VPSNNOKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bamble Og Langesund Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stathelle",
+          "swift_code": "BLSPNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparebanken Sogn Og Fjordane",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Foerde",
+          "swift_code": "SOFJNO22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparebanken Soer",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Arendal",
+          "swift_code": "AASPNO22XXX"
+        },
+        {
+          "branch_name": "Grimstad",
+          "city": "Grimstad",
+          "swift_code": "AASPNO22GMD"
+        },
+        {
+          "branch_name": "Farsund",
+          "city": "Farsund",
+          "swift_code": "AASPNO21023"
+        },
+        {
+          "branch_name": "Krageroe",
+          "city": "Krageroe",
+          "swift_code": "AASPNO21024"
+        },
+        {
+          "branch_name": "Lyngdal",
+          "city": "Lyngdal",
+          "swift_code": "AASPNO21025"
+        },
+        {
+          "branch_name": "Mandal",
+          "city": "Mandal",
+          "swift_code": "AASPNO21026"
+        },
+        {
+          "branch_name": "Risoer",
+          "city": "Risoer",
+          "swift_code": "AASPNO21027"
+        },
+        {
+          "branch_name": "Tvedestrand",
+          "city": "Tvedestrand",
+          "swift_code": "AASPNO21028"
+        },
+        {
+          "branch_name": "Kristiansand S",
+          "city": "Kristiansand S",
+          "swift_code": "AASPNO2102K"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparebanken Moere",
+      "branches": [
+        {
+          "branch_name": "Aaheim",
+          "city": "Aaheim",
+          "swift_code": "SPARNO22AAH"
+        },
+        {
+          "branch_name": "Aandalsnes",
+          "city": "Aandalsnes",
+          "swift_code": "SPARNO22AAN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Aalesund",
+          "swift_code": "SPARNO22XXX"
+        },
+        {
+          "branch_name": "Brattvaag",
+          "city": "Brattvaag",
+          "swift_code": "SPARNO22BRA"
+        },
+        {
+          "branch_name": "Fosnavaag",
+          "city": "Fosnavaag",
+          "swift_code": "SPARNO22FOS"
+        },
+        {
+          "branch_name": "Hareid",
+          "city": "Hareid",
+          "swift_code": "SPARNO22HAR"
+        },
+        {
+          "branch_name": "Larsnes",
+          "city": "Larsnes",
+          "swift_code": "SPARNO22LAR"
+        },
+        {
+          "branch_name": "Langevaag",
+          "city": "Langevaag",
+          "swift_code": "SPARNO22LAN"
+        },
+        {
+          "branch_name": "Molde",
+          "city": "Molde",
+          "swift_code": "SPARNO22MOL"
+        },
+        {
+          "branch_name": "Spjelkavik",
+          "city": "Spjelkavik",
+          "swift_code": "SPARNO22SPJ"
+        },
+        {
+          "branch_name": "Stordal",
+          "city": "Stordal",
+          "swift_code": "SPARNO22STO"
+        },
+        {
+          "branch_name": "Stranda",
+          "city": "Stranda",
+          "swift_code": "SPARNO22STR"
+        },
+        {
+          "branch_name": "Sykkylven",
+          "city": "Sykkylven",
+          "swift_code": "SPARNO22SYK"
+        },
+        {
+          "branch_name": "Ulsteinvik",
+          "city": "Ulsteinvik",
+          "swift_code": "SPARNO22ULS"
+        },
+        {
+          "branch_name": "Vestnes",
+          "city": "Vestnes",
+          "swift_code": "SPARNO22VES"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparebanken Hedmark",
+      "branches": [
+        {
+          "branch_name": "Alvdal Branch",
+          "city": "Alvdal",
+          "swift_code": "SHEDNO22ALV"
+        },
+        {
+          "branch_name": "Brumunddal Branch",
+          "city": "Brumunddal",
+          "swift_code": "SHEDNO22BUM"
+        },
+        {
+          "branch_name": "Elverum Branch",
+          "city": "Elverum",
+          "swift_code": "SHEDNO22EVR"
+        },
+        {
+          "branch_name": "Engerdal Branch",
+          "city": "Engerdal",
+          "swift_code": "SHEDNO22ENG"
+        },
+        {
+          "branch_name": "Flisa Branch",
+          "city": "Flisa",
+          "swift_code": "SHEDNO22FLI"
+        },
+        {
+          "branch_name": "Folldal Branch",
+          "city": "Folldal",
+          "swift_code": "SHEDNO22FOL"
+        },
+        {
+          "branch_name": "Hamar Branch",
+          "city": "Hamar",
+          "swift_code": "SHEDNO22HMX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Hamar",
+          "swift_code": "SHEDNO22XXX"
+        },
+        {
+          "branch_name": "Kirkenaer Branch",
+          "city": "Kirkenaer",
+          "swift_code": "SHEDNO22KIR"
+        },
+        {
+          "branch_name": "Koppang Branch",
+          "city": "Koppang",
+          "swift_code": "SHEDNO22KOP"
+        },
+        {
+          "branch_name": "Kongsvinger Branch",
+          "city": "Kongsvinger",
+          "swift_code": "SHEDNO22KVR"
+        },
+        {
+          "branch_name": "Loeten Branch",
+          "city": "Loeten",
+          "swift_code": "SHEDNO22LOT"
+        },
+        {
+          "branch_name": "Moelv Branch",
+          "city": "Moelv",
+          "swift_code": "SHEDNO22MOE"
+        },
+        {
+          "branch_name": "Nes Branch",
+          "city": "Nes Pa Hedmark",
+          "swift_code": "SHEDNO22NES"
+        },
+        {
+          "branch_name": "Ottestad Branch",
+          "city": "Ottestad",
+          "swift_code": "SHEDNO22OTS"
+        },
+        {
+          "branch_name": "Rena Branch",
+          "city": "Rena",
+          "swift_code": "SHEDNO22REN"
+        },
+        {
+          "branch_name": "Os Branch",
+          "city": "Os I Oesterdalen",
+          "swift_code": "SHEDNO22OSI"
+        },
+        {
+          "branch_name": "Rendalen Branch",
+          "city": "Rendalen",
+          "swift_code": "SHEDNO22RND"
+        },
+        {
+          "branch_name": "Romedal Branch",
+          "city": "Romedal",
+          "swift_code": "SHEDNO22ROM"
+        },
+        {
+          "branch_name": "Skarnes Branch",
+          "city": "Skarnes",
+          "swift_code": "SHEDNO22SKA"
+        },
+        {
+          "branch_name": "Skotterud Branch",
+          "city": "Skotterud",
+          "swift_code": "SHEDNO22SKO"
+        },
+        {
+          "branch_name": "Stange Branch",
+          "city": "Stange",
+          "swift_code": "SHEDNO22STA"
+        },
+        {
+          "branch_name": "Trysil Branch",
+          "city": "Trysil",
+          "swift_code": "SHEDNO22TSI"
+        },
+        {
+          "branch_name": "Tynset Branch",
+          "city": "Tynset",
+          "swift_code": "SHEDNO22TST"
+        },
+        {
+          "branch_name": "Vaaler Branch",
+          "city": "Vaaler I Soloer",
+          "swift_code": "SHEDNO22VLR"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparebank 1 Sr-Bank Asa",
+      "branches": [
+        {
+          "branch_name": "Sola",
+          "city": "Sola",
+          "swift_code": "SPRONO22SOL"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparebank 1 Sr-Bank",
+      "branches": [
+        {
+          "branch_name": "Aalgaard",
+          "city": "Aalgaard",
+          "swift_code": "SPRONO22AGD"
+        },
+        {
+          "branch_name": "Bryne",
+          "city": "Bryne",
+          "swift_code": "SPRONO22BNE"
+        },
+        {
+          "branch_name": "Egersund",
+          "city": "Egersund",
+          "swift_code": "SPRONO22EGE"
+        },
+        {
+          "branch_name": "Forus",
+          "city": "Forus",
+          "swift_code": "SPRONO22FOR"
+        },
+        {
+          "branch_name": "Haugesund",
+          "city": "Haugesund",
+          "swift_code": "SPRONO22HAU"
+        },
+        {
+          "branch_name": "Flekkefjord",
+          "city": "Flekkefjord",
+          "swift_code": "SPRONO22FLE"
+        },
+        {
+          "branch_name": "Joerpeland",
+          "city": "Joerpeland",
+          "swift_code": "SPRONO22JPL"
+        },
+        {
+          "branch_name": "Kristiansand S",
+          "city": "Kristiansand S",
+          "swift_code": "SPRONO22KRS"
+        },
+        {
+          "branch_name": "Oelen",
+          "city": "Oelen",
+          "swift_code": "SPRONO22OLN"
+        },
+        {
+          "branch_name": "Sandnes",
+          "city": "Sandnes",
+          "swift_code": "SPRONO22SDS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Stavanger",
+          "swift_code": "SPRONO22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparebank 1 Smn",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Trondheim",
+          "swift_code": "SPTRNO22XXX"
+        },
+        {
+          "branch_name": "Sparebank 1 Markets",
+          "city": "Oslo",
+          "swift_code": "SPTRNO22SB1"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparebanken Vest",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bergen",
+          "swift_code": "SPAVNOBBXXX"
+        },
+        {
+          "branch_name": "Bremnes",
+          "city": "Bremnes",
+          "swift_code": "SPAVNOBBBRE"
+        },
+        {
+          "branch_name": "Fjell",
+          "city": "Fjell",
+          "swift_code": "SPAVNOBBFJE"
+        },
+        {
+          "branch_name": "Odda",
+          "city": "Odda",
+          "swift_code": "SPAVNOBBDDA"
+        },
+        {
+          "branch_name": "Os",
+          "city": "Os",
+          "swift_code": "SPAVNOBBOSO"
+        },
+        {
+          "branch_name": "Stord",
+          "city": "Stord",
+          "swift_code": "SPAVNOBBSTO"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparebank 1 Ostfold Akershus",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Moss",
+          "swift_code": "RYGSNO22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparebank 1 Nord-Norge",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tromsoe",
+          "swift_code": "SNOWNO22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skandiabanken Ab Norge",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bergen",
+          "swift_code": "SKIANOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Seb Privatbanken Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "ESSENO22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Norwegian",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "NORWNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oslo Clearing Asa",
+      "branches": [
+        {
+          "branch_name": "Oslo Clearing",
+          "city": "Oslo",
+          "swift_code": "OSCLNOKKLAN"
+        },
+        {
+          "branch_name": "Oslo Clearing",
+          "city": "Oslo",
+          "swift_code": "OSCLNOKKVPO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "OSCLNOKKXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "OSCLNOKXXXX"
+        },
+        {
+          "branch_name": "Oslo Clearing Asa",
+          "city": "Oslo",
+          "swift_code": "OSCLNOKXCLN"
+        },
+        {
+          "branch_name": "Oslo Clearing Asa",
+          "city": "Oslo",
+          "swift_code": "OSCLNOKXCLR"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aurskog Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Aurskog",
+          "swift_code": "AUSNNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aurland Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Aurland",
+          "swift_code": "AUSPNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sandnes Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sandnes",
+          "swift_code": "SASKNO22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Seb Enskilda As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "ENSKNOKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atlantic Securities Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "ATSANOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Askim Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Askim",
+          "swift_code": "ASKSNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arendal Og Omegns Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Arendal",
+          "swift_code": "ARENNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arctic Securities Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "ASEANOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arctic Energy Partners As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Trondheim",
+          "swift_code": "ARETNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Andebu Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Andebu",
+          "swift_code": "ANBUNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Afjord Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Afjord",
+          "swift_code": "AFJONO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alfred Berg Kapitalforvaltning As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "ALBFNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Acta Bank Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stavanger",
+          "swift_code": "ACBANO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Active Knowledge Modeling As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lysaker",
+          "swift_code": "ACKMNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "A. Sundvall A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "SUNVNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aasen Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asen",
+          "swift_code": "AASANO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Acta Asset Management Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stavanger",
+          "swift_code": "AANSNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abg Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "ABSRNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hjartdal Og Gransherad Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sauland",
+          "swift_code": "HJARNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hewlett-packard Norge As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "HENRNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Helgeland Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mosjoen",
+          "swift_code": "HELGNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hjelmeland Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hjelmeland",
+          "swift_code": "HJELNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hegra Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hegra",
+          "swift_code": "HESPNOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Harstad Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harstad",
+          "swift_code": "HASBNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Haltdalen Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Haltdalen",
+          "swift_code": "HALTNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abg Sundal Collier Norge Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "AGSRNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Guardian Corporate As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "GUCRNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gjerstad Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sundebru",
+          "swift_code": "GJSPNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Allegro Finans Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Trondheim",
+          "swift_code": "ALNSNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gjensidige Bank Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Foerde",
+          "swift_code": "GJASNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Grue Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kirkenaer",
+          "swift_code": "GRUENO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Grong Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Grong",
+          "swift_code": "GRONNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gallesio Partners As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "GAPTNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fornebu Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fornebu",
+          "swift_code": "TELENO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Forte Fondsforvaltning As",
+      "branches": [
+        {
+          "branch_name": "Forte Fondsforvaltning As",
+          "city": "Trondheim",
+          "swift_code": "FFONNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gildeskal Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Inndyr",
+          "swift_code": "GILDNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Formuesforvaltning Aktiv Forvaltning As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "FOAFNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ge Money Bank Nuf",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stavanger",
+          "swift_code": "MNNUNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Haugesund Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Haugesund",
+          "swift_code": "HAUGNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordboe Drift",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nissedal",
+          "swift_code": "NODRNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nord Pool Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lysaker",
+          "swift_code": "NOPSNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nes Prestegjelds Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nesbyen",
+          "swift_code": "NEPRNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nesset Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Eidsvag",
+          "swift_code": "NESPNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Odin Forvaltning As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "ODFONOKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moelven Industrier Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Moelv",
+          "swift_code": "MOELNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moe Securities Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "MOEENOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Modum Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vikersund",
+          "swift_code": "MODUNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meldal Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Meldal",
+          "swift_code": "MESPNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ankenes Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Narvik",
+          "swift_code": "ANKENO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "H And Q Norden Securities Hagstromer And Qviberg Fondkommission Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "NSHQNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Melhus Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Melhus",
+          "swift_code": "MELHNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Luster Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gaupne",
+          "swift_code": "LUSKNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lom Og Skjak Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lom",
+          "swift_code": "LOSKNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lofoten Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Boestad",
+          "swift_code": "BOGENO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Marker Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Orje",
+          "swift_code": "MASPNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lillestrom Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lillestroem",
+          "swift_code": "LISTNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lillesands Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lillesand",
+          "swift_code": "LILLNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Larvikbanken Brunlanes Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Larvik",
+          "swift_code": "LABRNOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Landkreditt Bank As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "LANDNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fjaler Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dale I Sunnfjord",
+          "swift_code": "FJASNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fish Pool Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bergen",
+          "swift_code": "FSPANOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Markedskraft Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Arendal",
+          "swift_code": "MRASNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Securities Wealth Management As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "FSWMNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "FRAANOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fearnley Fond A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "FEFONOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fana Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bergen",
+          "swift_code": "FANANOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kvinesdal Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kvinesdal",
+          "swift_code": "KVIDNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Explora Capital Management Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "EXMANOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Explora Active Management As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "EXAANOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Evje Og Hornnes Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Evje",
+          "swift_code": "EVJENO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Etne Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Etne",
+          "swift_code": "ETNENO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Etnedal Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Etnedal",
+          "swift_code": "ETSPNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Enebakk Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Enebakk",
+          "swift_code": "BAKKNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eidsberg Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mysen",
+          "swift_code": "EIDSNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Easy Trade Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "EATANOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Drangedal Og Tordal Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Drangedal",
+          "swift_code": "DRANNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "European Commodity Management As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bergen",
+          "swift_code": "EUCGNOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Det Norske Veritas Group As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hovik",
+          "swift_code": "DNVGNO22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Klp Kapitalforvaltning As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "KLPANOKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Klp Forsikring",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "KLPFNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dialog Finansadgivning As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "DIFNNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Klaebu Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Klaebu",
+          "swift_code": "KLBUNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Klp Banken As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Trondheim",
+          "swift_code": "KLPKNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jernbanepersonalets Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "JERNNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Klepp Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kleppe",
+          "swift_code": "KLEPNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Maritime Exchange Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "IMEANOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Karl Johan Fonds As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "KJFNNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrifinans Aktiv Forvaltning",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "INAFNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Idre Sogn Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ardalstangen",
+          "swift_code": "IDRENO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interkraft Capital Management As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "ITCMNOK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Holla Og Lunde Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ulefoss",
+          "swift_code": "HOSANO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Holberg Fondsforvaltning As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bergen",
+          "swift_code": "HOLFNOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Icap Energy As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bergen",
+          "swift_code": "ICAENOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Holand Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bjorkelangen",
+          "swift_code": "HOLLNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hol Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Geilo",
+          "swift_code": "HOLSNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Honefoss Sparebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hoenefoss",
+          "swift_code": "HOSPNO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hoegh Capital Management Asa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oslo",
+          "swift_code": "HCMSNOK1XXX"
+        }
+      ]
+    }
+  ]
+}

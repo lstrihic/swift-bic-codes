@@ -1,0 +1,117 @@
+{
+  "country_name": "Vanuatu",
+  "alpha_2": "VU",
+  "country_code": "548",
+  "banks": [
+    {
+      "bank_name": "Vanuatu International Trust Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Vila",
+          "swift_code": "VITRVUV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Reserve Bank Of Vanuatu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Vila",
+          "swift_code": "RBVAVUVUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pacific Private Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Vila",
+          "swift_code": "PPBLVUVUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nautilus International Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Vila",
+          "swift_code": "NAIOVUV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Vanuatu Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Vila",
+          "swift_code": "NBOVVUVUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investors' Trust Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vila",
+          "swift_code": "ITLIVUV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pacific International Trust Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Vila",
+          "swift_code": "PITCVUV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financial Partners Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Vila",
+          "swift_code": "FPBLVUV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bred (vanuatu) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Vila",
+          "swift_code": "BREDVUVUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asia Merchant Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Vila",
+          "swift_code": "AMBVVUVUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Anz Bank (vanuatu) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vila",
+          "swift_code": "ANZBVUVXXXX"
+        }
+      ]
+    }
+  ]
+}

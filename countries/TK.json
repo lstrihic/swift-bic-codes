@@ -1,0 +1,232 @@
+{
+  "country_name": "Togo",
+  "alpha_2": "TG",
+  "country_code": "768",
+  "banks": [
+    {
+      "bank_name": "Union Togolaise De Banque",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lome",
+          "swift_code": "UNTBTGTGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Inter-africaine De Banque",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lome",
+          "swift_code": "SIABTGTGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Inter Africaine De Banque, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lome",
+          "swift_code": "BALTTGT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Des Postes Du Togo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lome",
+          "swift_code": "SOTOTGT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orabank Togo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lome",
+          "swift_code": "ORBKTGTGXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lome",
+          "swift_code": "FIBTTGTGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecowas Bank For Investment And Development",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lome",
+          "swift_code": "EBIDTGTGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Togo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lome",
+          "swift_code": "ECOCTGTAXXX"
+        },
+        {
+          "branch_name": "Lome",
+          "city": "Lome",
+          "swift_code": "ECOCTGTGBID"
+        },
+        {
+          "branch_name": "Eprocess Int",
+          "city": "Lome",
+          "swift_code": "ECOCTGTGEPI"
+        },
+        {
+          "branch_name": "Eti Department",
+          "city": "Lome",
+          "swift_code": "ECOCTGTGETI"
+        },
+        {
+          "branch_name": "Soapi-waips",
+          "city": "Lome",
+          "swift_code": "ECOCTGTGWPS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lome",
+          "swift_code": "ECOCTGTGXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lome",
+          "swift_code": "ECOCTGTSXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lome",
+          "swift_code": "ECOCTGTUXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lome",
+          "swift_code": "ECOCTGTXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Diamondbank Togo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lome",
+          "swift_code": "DBLNTGTGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Depositaire Central-banque De Reglement (dcbr Togo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lome",
+          "swift_code": "DCEDTGT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bsic Togo Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lome",
+          "swift_code": "BSAHTGTGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Togolaise Pour Le Commerce Et L'industrie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lome",
+          "swift_code": "BTCITGTGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Togolaise De Developpement",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lome",
+          "swift_code": "BTDETGTGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Regionale De Solidarite-togo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lome",
+          "swift_code": "BRSWTGTGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Pour L'epargne Et Le Credit (formerly Caisse D'epargne Du Togo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lome",
+          "swift_code": "BPECTGTGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Ouest Africaine De Developpement (boad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lome",
+          "swift_code": "BOADTGTGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Internationale Pour L'afrique Au Togo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lome",
+          "swift_code": "BILTTGTGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Atlantique Togo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lome",
+          "swift_code": "ATTGTGTGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Africa Togo",
+      "branches": [
+        {
+          "branch_name": "Bank Of Africa Togo",
+          "city": "Lome",
+          "swift_code": "AFRITGTGXXX"
+        }
+      ]
+    }
+  ]
+}

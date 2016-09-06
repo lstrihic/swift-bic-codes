@@ -1,0 +1,387 @@
+{
+  "country_name": "Trinidad and Tobago",
+  "alpha_2": "TT",
+  "country_code": "780",
+  "banks": [
+    {
+      "bank_name": "West Indies Stockbrokers Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "WEITTTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Bank Of Trinidad And Tobago",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "UBTTTTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trinidad And Tobago Unit Trust Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "TTUTTTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trinidad And Tobago Central Securities Depository Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "TTCSTTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Trinidad And Tobago Stock Exchange Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "XTRNTTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scotiatrust And Merchant Bank Trinidad And Tobago Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "SMTTTTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scotiabank Trinidad And Tobago Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "NOSCTTPSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scotia Dbg Investments Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "DEBOTTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Republic Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "REPSTTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Republic Finance And Merchant Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "REFHTTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Republic Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "RBNKTTPXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbtt Merchant Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "RBMETTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbc Royal Bank (trinidad And Tobago) Limited (formerly Rbtt Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "RBTTTTPXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercantile Banking And Financial Corporation Limited, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "MEFRTTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intercommercial Trust And Merchant Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chaguanas",
+          "swift_code": "INRHTTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intercommercial Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chaguanas",
+          "swift_code": "IBLITTPSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Firstcaribbean International Bank (t And T) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "FCIBTTPSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Citizens Merchant Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "IIMETTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Citizens Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "FCTTTTPSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Citizens Asset Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "FCTATTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cmmb Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "CMMSTTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clico Investment Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "CLNNTTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank (trinidad And Tobago) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "CITITTPSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Trinidad And Tobago",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "CBTTTTPSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caribbean Stockbrokers Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "CSTKTTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caribbean Money Market Brokers Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "CMMBTTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bourse Brokers Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "BOBRTTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Baroda (trinidad And Tobago) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "BARBTTPSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ansa Merchant Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "ANFMTTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aic Securites Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "AICBTTPSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agricultural Development Bank",
+      "branches": [
+        {
+          "branch_name": "Arima",
+          "city": "Arima",
+          "swift_code": "ADEVTTP1023"
+        },
+        {
+          "branch_name": "Chaguanas",
+          "city": "Chaguanas",
+          "swift_code": "ADEVTTP1025"
+        },
+        {
+          "branch_name": "San Fernando",
+          "city": "San Fernando",
+          "swift_code": "ADEVTTP1026"
+        },
+        {
+          "branch_name": "Rio Claro",
+          "city": "Rio Claro",
+          "swift_code": "ADEVTTP1027"
+        },
+        {
+          "branch_name": "Tobago",
+          "city": "Scarborough",
+          "swift_code": "ADEVTTP1028"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Port Of Spain",
+          "swift_code": "ADEVTTP1XXX"
+        },
+        {
+          "branch_name": "Tema",
+          "city": "Tema",
+          "swift_code": "ADNTGHA10A2"
+        },
+        {
+          "branch_name": "Cape Coast",
+          "city": "Cape Coast",
+          "swift_code": "ADNTGHA10A3"
+        },
+        {
+          "branch_name": "Bolgatanga",
+          "city": "Bolgatanga",
+          "swift_code": "ADNTGHA10A4"
+        },
+        {
+          "branch_name": "Wa",
+          "city": "Wa",
+          "swift_code": "ADNTGHA10A5"
+        },
+        {
+          "branch_name": "Kumasi",
+          "city": "Kumasi",
+          "swift_code": "ADNTGHA10A6"
+        },
+        {
+          "branch_name": "Takoradi",
+          "city": "Takoradi",
+          "swift_code": "ADNTGHA10A7"
+        },
+        {
+          "branch_name": "Sunyani",
+          "city": "Sunyani",
+          "swift_code": "ADNTGHA10A8"
+        },
+        {
+          "branch_name": "Tamale",
+          "city": "Tamale",
+          "swift_code": "ADNTGHA10AT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "ADNTGHACXXX"
+        }
+      ]
+    }
+  ]
+}

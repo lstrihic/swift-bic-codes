@@ -1,0 +1,432 @@
+{
+  "country_name": "San Marino",
+  "alpha_2": "SM",
+  "country_code": "674",
+  "banks": [
+    {
+      "bank_name": "Poste San Marino",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Marino",
+          "swift_code": "SAOOSMS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Impresa Di San Marino S.p.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dogana",
+          "swift_code": "BTITSMS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Cis S.p.a.",
+      "branches": [
+        {
+          "branch_name": "Serravalle",
+          "city": "Serravalle",
+          "swift_code": "CRRNSMS1100"
+        },
+        {
+          "branch_name": "San Marino",
+          "city": "San Marino",
+          "swift_code": "CRRNSMS1101"
+        },
+        {
+          "branch_name": "Borgo Maggiore",
+          "city": "Borgo Maggiore",
+          "swift_code": "CRRNSMS1102"
+        },
+        {
+          "branch_name": "Centro Tonelli",
+          "city": "Dogana",
+          "swift_code": "CRRNSMS1104"
+        },
+        {
+          "branch_name": "Banca Cis S.p.a.",
+          "city": "Rovereta",
+          "swift_code": "CRRNSMS1105"
+        },
+        {
+          "branch_name": "Via 3 Settembre, 119",
+          "city": "Dogana",
+          "swift_code": "CRRNSMS1106"
+        },
+        {
+          "branch_name": "Banca Cis S.p.a.",
+          "city": "Domagnano",
+          "swift_code": "CRRNSMS1107"
+        },
+        {
+          "branch_name": "Private Branch",
+          "city": "Dogana",
+          "swift_code": "CRRNSMS1110"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Agricola Commerciale Istituto Bancario Sammarinese S.p.a.",
+      "branches": [
+        {
+          "branch_name": "Citta",
+          "city": "San Marino",
+          "swift_code": "BASMSMS1001"
+        },
+        {
+          "branch_name": "Murata",
+          "city": "Murata",
+          "swift_code": "BASMSMS1002"
+        },
+        {
+          "branch_name": "Gualdicciolo",
+          "city": "Gualdicciolo",
+          "swift_code": "BASMSMS1003"
+        },
+        {
+          "branch_name": "O Scarito",
+          "city": "Borgo Maggiore",
+          "swift_code": "BASMSMS1004"
+        },
+        {
+          "branch_name": "Rovereta",
+          "city": "Rovereta",
+          "swift_code": "BASMSMS1005"
+        },
+        {
+          "branch_name": "M Tini",
+          "city": "Dogana",
+          "swift_code": "BASMSMS1006"
+        },
+        {
+          "branch_name": "Fiorentino",
+          "city": "Fiorentino",
+          "swift_code": "BASMSMS1007"
+        },
+        {
+          "branch_name": "La Ciarulla",
+          "city": "Serravalle",
+          "swift_code": "BASMSMS1008"
+        },
+        {
+          "branch_name": "Tavolucci",
+          "city": "Borgo Maggiore",
+          "swift_code": "BASMSMS1009"
+        },
+        {
+          "branch_name": "Private",
+          "city": "Dogana",
+          "swift_code": "BASMSMS1011"
+        },
+        {
+          "branch_name": "Corporate",
+          "city": "Dogana",
+          "swift_code": "BASMSMS1012"
+        },
+        {
+          "branch_name": "Admiral",
+          "city": "Dogana",
+          "swift_code": "BASMSMS1013"
+        },
+        {
+          "branch_name": "Wtc",
+          "city": "Dogana",
+          "swift_code": "BASMSMS1014"
+        },
+        {
+          "branch_name": "Cailungo",
+          "city": "Cailungo",
+          "swift_code": "BASMSMS1015"
+        },
+        {
+          "branch_name": "Faetano",
+          "city": "Faetano",
+          "swift_code": "BASMSMS1016"
+        }
+      ]
+    },
+    {
+      "bank_name": "Euro Commercial Bank Spa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rovereta",
+          "swift_code": "EUCDSMSMXXX"
+        },
+        {
+          "branch_name": "Branch Dogana",
+          "city": "Dogana",
+          "swift_code": "EUCDSMSM001"
+        },
+        {
+          "branch_name": "Branch Domagnano",
+          "city": "Domagnano",
+          "swift_code": "EUCDSMSM002"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credito Industriale Sammarinese",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Serravalle",
+          "swift_code": "CRRNSMSMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cassa Di Risparmio Della Republica Di San Marino",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Marino",
+          "swift_code": "CSSMSMSMXXX"
+        },
+        {
+          "branch_name": "Ag Borgo Maggiore",
+          "city": "Borgo Maggiore",
+          "swift_code": "CSSMSMS1001"
+        },
+        {
+          "branch_name": "Ag Serravalle",
+          "city": "Serravalle",
+          "swift_code": "CSSMSMS1002"
+        },
+        {
+          "branch_name": "Ag Dogana",
+          "city": "Dogana",
+          "swift_code": "CSSMSMS1003"
+        },
+        {
+          "branch_name": "Ag Gualdicciolo",
+          "city": "Gualdicciolo",
+          "swift_code": "CSSMSMS1004"
+        },
+        {
+          "branch_name": "Ag Citta1",
+          "city": "San Marino",
+          "swift_code": "CSSMSMS1005"
+        },
+        {
+          "branch_name": "Ag Chiesanuova",
+          "city": "Chiesanuova",
+          "swift_code": "CSSMSMS1006"
+        },
+        {
+          "branch_name": "Ag Citta2",
+          "city": "San Marino",
+          "swift_code": "CSSMSMS1008"
+        },
+        {
+          "branch_name": "Ag Cailungo",
+          "city": "Cailungo",
+          "swift_code": "CSSMSMS1009"
+        },
+        {
+          "branch_name": "Ag Rovereta",
+          "city": "Rovereta",
+          "swift_code": "CSSMSMS1010"
+        },
+        {
+          "branch_name": "Ag Murata",
+          "city": "Murata",
+          "swift_code": "CSSMSMS1011"
+        },
+        {
+          "branch_name": "Ag Centrale",
+          "city": "San Marino",
+          "swift_code": "CSSMSMS1012"
+        },
+        {
+          "branch_name": "Ag Fiorentino",
+          "city": "Fiorentino",
+          "swift_code": "CSSMSMS1013"
+        },
+        {
+          "branch_name": "Ag Domagnano",
+          "city": "Domagnano",
+          "swift_code": "CSSMSMS1014"
+        },
+        {
+          "branch_name": "Ag Faetano",
+          "city": "Faetano",
+          "swift_code": "CSSMSMS1015"
+        },
+        {
+          "branch_name": "Ag Ponte Mellini",
+          "city": "Dogana",
+          "swift_code": "CSSMSMS1016"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Sammarinese Di Investimento S.P.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rovereta",
+          "swift_code": "BSDISMSDXXX"
+        },
+        {
+          "branch_name": "Filiale Di Rovereta",
+          "city": "Rovereta",
+          "swift_code": "BSDISMD1001"
+        },
+        {
+          "branch_name": "Filiale Di Dogana",
+          "city": "Dogana",
+          "swift_code": "BSDISMD1002"
+        },
+        {
+          "branch_name": "Filiale Di Borgo Maggiore",
+          "city": "Borgo Maggiore",
+          "swift_code": "BSDISMD1003"
+        },
+        {
+          "branch_name": "Filiale Di Citta",
+          "city": "San Marino",
+          "swift_code": "BSDISMD1004"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Di San Marino Spa",
+      "branches": [
+        {
+          "branch_name": "Agenzia Borgo Maggiore",
+          "city": "Borgo Maggiore",
+          "swift_code": "MAOISMSM005"
+        },
+        {
+          "branch_name": "Agenzia Domagnano",
+          "city": "Domagnano",
+          "swift_code": "MAOISMSM003"
+        },
+        {
+          "branch_name": "Agenzia Sede Centrale",
+          "city": "Faetano",
+          "swift_code": "MAOISMSM006"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Faetano",
+          "swift_code": "MAOISMSMXXX"
+        },
+        {
+          "branch_name": "Agenzia Gualdicciolo",
+          "city": "Gualdicciolo",
+          "swift_code": "MAOISMSM009"
+        },
+        {
+          "branch_name": "Agenzia Rovereta",
+          "city": "Rovereta",
+          "swift_code": "MAOISMSM007"
+        },
+        {
+          "branch_name": "Agenzia Dogana",
+          "city": "Dogana",
+          "swift_code": "MAOISMSM002"
+        },
+        {
+          "branch_name": "Agenzia Citta",
+          "city": "San Marino",
+          "swift_code": "MAOISMSM001"
+        },
+        {
+          "branch_name": "Agenzia Citta 1",
+          "city": "San Marino",
+          "swift_code": "MAOISMSM004"
+        },
+        {
+          "branch_name": "Agenzia Monte Giardino",
+          "city": "Monte Giardino",
+          "swift_code": "MAOISMSM008"
+        },
+        {
+          "branch_name": "Agenzia Wtc",
+          "city": "Dogana",
+          "swift_code": "MAOISMSM010"
+        },
+        {
+          "branch_name": "Agenzia Murata",
+          "city": "Murata",
+          "swift_code": "MAOISMSM011"
+        },
+        {
+          "branch_name": "Agenzia Fiorina",
+          "city": "Domagnano",
+          "swift_code": "MAOISMSM012"
+        },
+        {
+          "branch_name": "Divisione Private",
+          "city": "Dogana",
+          "swift_code": "MAOISMSM022"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Centrale Della Repubblica Di San Marino",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Marino",
+          "swift_code": "ICSMSMSMXXX"
+        },
+        {
+          "branch_name": "Sportello Tesoreria-esattoria",
+          "city": "San Marino",
+          "swift_code": "ICSMSMS1001"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Agricola Commerciale Della Repubblica Di San Marino",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dogana",
+          "swift_code": "BASMSMSMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asset Banca S.P.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dogana",
+          "swift_code": "ASTTSMSMXXX"
+        },
+        {
+          "branch_name": "Sede Centrale",
+          "city": "Dogana",
+          "swift_code": "ASTTSMS1001"
+        },
+        {
+          "branch_name": "Succursale Di Murata",
+          "city": "Murata",
+          "swift_code": "ASTTSMS1002"
+        },
+        {
+          "branch_name": "Succursale Di Gualdicciolo",
+          "city": "Gualdicciolo",
+          "swift_code": "ASTTSMS1003"
+        },
+        {
+          "branch_name": "Succursale Di Domagnano",
+          "city": "Domagnano",
+          "swift_code": "ASTTSMS1004"
+        },
+        {
+          "branch_name": "Succursale Dogana",
+          "city": "Dogana",
+          "swift_code": "ASTTSMS1005"
+        }
+      ]
+    }
+  ]
+}

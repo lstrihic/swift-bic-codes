@@ -1,0 +1,107 @@
+{
+  "country_name": "Sao Tome and Principe",
+  "alpha_2": "ST",
+  "country_code": "678",
+  "banks": [
+    {
+      "bank_name": "Island Bank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Tome",
+          "swift_code": "ISLNSTSTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Energybank Sao Tome E Pricipe S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Tome",
+          "swift_code": "ESTPSTSTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Sao Tome",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Tome",
+          "swift_code": "ECOCSTSTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Bank-sao Tome E Principe",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Tome",
+          "swift_code": "CBSTSTSTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bgfibank Sao Tome Et Principe",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Tome",
+          "swift_code": "BGFISTSTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional De Sao Tome E Principe",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Tome",
+          "swift_code": "BNSTSTS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Internacional S Tome E Principe",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Tome",
+          "swift_code": "INOISTSTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Equador, Sarl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Tome",
+          "swift_code": "EQSRSTSTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Central De Sao Tome E Principe",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Tome",
+          "swift_code": "CSTPSTSTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Afriland First Bank Stp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sao Tome",
+          "swift_code": "AFFSSTSTXXX"
+        }
+      ]
+    }
+  ]
+}

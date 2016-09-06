@@ -1,0 +1,537 @@
+{
+  "country_name": "Bermuda",
+  "alpha_2": "BM",
+  "country_code": "060",
+  "banks": [
+    {
+      "bank_name": "Worldwide Transactions",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "WOTABMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ufg Advisors Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "UFADBMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thracian Investment Managers",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "THIGBMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tcc Markets Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "TCCMBMHMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Schroders (bermuda) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "SBDABMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Roche Intertrade Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "ROCHBMHAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dkr Oasis Fischer Group",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "DOFGBMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dkr Ibex",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "DKIBBMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cs Life Bermuda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "CSLEBMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Churchill Capital Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "CHCABMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Castle Harbour Insurance Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "CAHIBMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital G Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "CAGPBMHMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cambuslang Investments Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "CMILBMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Butterfield Trust (bermuda) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "BNTBBMHSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Boston Re Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "BOSRBMHMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bolton Capital Partners International Limited",
+      "branches": [
+        {
+          "branch_name": "Bolton Capital Partners International Limited",
+          "city": "Hamilton",
+          "swift_code": "BCPNBMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bloomberg Tradebook (bermuda) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "TBASBMHMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bermuda Trust Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "BERTBMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bermuda Stock Exchange Ltd, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "XBDABMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bermuda Monetary Authority",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "BEMABMHMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bermuda Commercial Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "BPBKBMHMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of N.t. Butterfield And Son Limited, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "BNTBBMHMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atlantic Investment And Development",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "ATIDBMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Altree Financial Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "ALCUBMHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Air Max Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "AIMXBMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swiss Reinsurance Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "SWREBMH1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sydney",
+          "swift_code": "SWREAU2SXXX"
+        },
+        {
+          "branch_name": "Collateral Management",
+          "city": "Zurich",
+          "swift_code": "SWRECHZHCMN"
+        },
+        {
+          "branch_name": "Swiss Re Financial Markets",
+          "city": "Zurich",
+          "swift_code": "SWRECHZHINV"
+        },
+        {
+          "branch_name": "Swiss Re Asset Management",
+          "city": "Zurich",
+          "swift_code": "SWRECHZHSWR"
+        },
+        {
+          "branch_name": "Trax",
+          "city": "Zurich",
+          "swift_code": "SWRECHZHTRX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Zurich",
+          "swift_code": "SWRECHZHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Renaissancere Holdings Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "RRHLBMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Parsec Trading Corp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "PTRNBMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "P.r.p Performa Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "PRPFBMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orbis Investment Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "ORIMBMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oracle Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "ORMABMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Novartis Securities Investment Ltd",
+      "branches": [
+        {
+          "branch_name": "Hamilton",
+          "city": "Hamilton",
+          "swift_code": "NOVRBMHM012"
+        },
+        {
+          "branch_name": "Hamilton",
+          "city": "Hamilton",
+          "swift_code": "NOVRBMHM028"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "NOVRBMHMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nomura Securities (bermuda) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "NOSRBMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nike Pegasus",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "NIKEBMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nephila Capital Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "NEPHBMHMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Microsoft Global Finance",
+      "branches": [
+        {
+          "branch_name": "Microsoft Global Bond",
+          "city": "Hamilton",
+          "swift_code": "MSFTBMH1GLB"
+        },
+        {
+          "branch_name": "Microsoft Global Finance Fx",
+          "city": "Hamilton",
+          "swift_code": "MSFTBMH1SPF"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "MSFTBMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mf Global Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "MFGLBMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch Reinsurance Solutions",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "MLRIBMHMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Marcuard Spectrum Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "MAUMBMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kintore Investments Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "KINTBMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Invesco Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "IVZLBMHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank Bermuda",
+      "branches": [
+        {
+          "branch_name": "Corporate Trust Services",
+          "city": "Hamilton",
+          "swift_code": "BBDABMHMCTS"
+        },
+        {
+          "branch_name": "Investment Dept",
+          "city": "Hamilton",
+          "swift_code": "BBDABMHMINV"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "BBDABMHMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "BBDABMHPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Harrington Sound Insurance Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "HSILBMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Glencore Finance (bermuda) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "GFBEBMH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "G-trade Services Llc",
+      "branches": [
+        {
+          "branch_name": "Division G-port",
+          "city": "Hamilton",
+          "swift_code": "GTRDBMHMGPO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "GTRDBMHMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Everest Capital Global Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "EVCIBMH1XXX"
+        }
+      ]
+    }
+  ]
+}

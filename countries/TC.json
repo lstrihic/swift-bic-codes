@@ -1,0 +1,67 @@
+{
+  "country_name": "Turks and Caicos Islands",
+  "alpha_2": "TC",
+  "country_code": "796",
+  "banks": [
+    {
+      "bank_name": "Turks And Caicos Banking Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Grand Turk",
+          "swift_code": "TCBCTCGPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scotiabank (turks And Caicos) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Providenciales",
+          "swift_code": "NOSCTCGPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Firstcaribbean International Bank (bahamas) Limited, Turks And Caicos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Providenciales",
+          "swift_code": "FCIBTCGPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First National Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Providenciales",
+          "swift_code": "FTNLTCG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "British Caribbean Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Providenciales",
+          "swift_code": "BCBATCGPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bordier International Bank And Trust Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Providenciales",
+          "swift_code": "BIBTTCG1XXX"
+        }
+      ]
+    }
+  ]
+}

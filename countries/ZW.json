@@ -1,0 +1,502 @@
+{
+  "country_name": "Zimbabwe",
+  "alpha_2": "ZW",
+  "country_code": "716",
+  "banks": [
+    {
+      "bank_name": "Zimbabwe Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "XZIMZWH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Zimbabwe Banking Corporation Ltd.",
+      "branches": [
+        {
+          "branch_name": "Bulawayo",
+          "city": "Bulawayo",
+          "swift_code": "ZBCOZWHXBYO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "ZBCOZWHXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Zimbabwe Allied Banking Group",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "ZABCZWHAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kingdom Bank Limited (kbl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "KFISZWHAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intermarket Discount House",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "INDHZWH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interfinbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "IFMBZWHAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Infrastructure Development Bank Of Zimbabwe Ed",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "ZDBLZWHAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial Development Corporation Of Zimbabwe Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "IDCZZWH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fbc Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "FBCPZWHAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Genesis Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "USPTZWH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Edwards And Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "EDCPZWH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Zimbabwe Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "ECOCZWHXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Bank Of Zimbabwe Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "COBZZWHAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Comesa Clearing House",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "COCUZWHAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cfx Merchant Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "CFXBZWH1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "CFXBZWHAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Africa Building Society",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "CABSZWHAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Bank Corporation Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "CBBLZWHXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bard Stockbrokers",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "BSTKZWH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bard Discount House Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "BDHLZWH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Bank Of Zimbabwe",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "BARCZWHXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agricultural Bank Of Zimbabwe Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "AGRZZWHAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "African Banking Corp.of Zimbabwe Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "FMBZZWHXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Beverley Building Society",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "BVBSZWH1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Beverley",
+          "swift_code": "BEBSGB21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trust Corporate Securities (private) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "TCSPZWH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trust Bank Corporation Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "TBCOZWHAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Tetrad Group",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "TEGRZWH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Discount Company Of Zimbabwe Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "DCZWZWH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tetrad Investment Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "TTSLZWHXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Steward Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Steward Bank Limited",
+          "city": "Harare",
+          "swift_code": "STBLZWHXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank Zimbabwe Limited",
+      "branches": [
+        {
+          "branch_name": "Securities Services Unit",
+          "city": "Harare",
+          "swift_code": "SCBLZWHXSSU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "SCBLZWHXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stanbic Bank Zimbabwe Limited",
+      "branches": [
+        {
+          "branch_name": "Bulawayo",
+          "city": "Bulawayo",
+          "swift_code": "SBICZWH102B"
+        },
+        {
+          "branch_name": "Gweru",
+          "city": "Gweru",
+          "swift_code": "SBICZWH102G"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "SBICZWHXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scotfin Limited",
+      "branches": [
+        {
+          "branch_name": "Bulawayo",
+          "city": "Bulawayo",
+          "swift_code": "SCLIZWH102B"
+        },
+        {
+          "branch_name": "Chinhoyi",
+          "city": "Chinhoyi",
+          "swift_code": "SCLIZWH102C"
+        },
+        {
+          "branch_name": "Gweru",
+          "city": "Gweru",
+          "swift_code": "SCLIZWH102G"
+        },
+        {
+          "branch_name": "Mutare",
+          "city": "Mutare",
+          "swift_code": "SCLIZWH102M"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "SCLIZWH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sagit Stockbrokers (private) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "SAGSZWH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Reserve Bank Of Zimbabwe",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "REBZZWHQXXX"
+        },
+        {
+          "branch_name": "Harare",
+          "city": "Harare",
+          "swift_code": "REBZZWHXPCH"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "REBZZWHXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Renaissance Securities (private) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "BSPVZWH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Premier Banking Corporation Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "PRDHZWH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "People's Own Savings Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "PWSBZWHXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "P.t.a. Clearing House",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "PTAHZWH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nmb Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Bulawayo Branch",
+          "city": "Bulawayo",
+          "swift_code": "NMBLZWHXBYO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "NMBLZWHXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Msasa Stockbrokers (pvt) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "MSSTZWH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Metropolitan Bank Of Zimbabwe Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "MBOZZWHAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mbca Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "MBCAZWHXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mast Stockbrokers (pvt) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harare",
+          "swift_code": "MSTPZWH1XXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "country_name": "Greenland",
+  "alpha_2": "GL",
+  "country_code": "304",
+  "banks": [
+    {
+      "bank_name": "Gronlandsbanken A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nuuk (godthaab",
+          "swift_code": "GRENGLGXXXX"
+        }
+      ]
+    }
+  ]
+}

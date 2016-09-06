@@ -1,0 +1,3067 @@
+{
+  "country_name": "Martinique",
+  "alpha_2": "MQ",
+  "country_code": "474",
+  "banks": [
+    {
+      "bank_name": "Sofiag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fort De France",
+          "swift_code": "SOAIMQM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caisse Epargne Prevoyance Martinique",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fort De France",
+          "swift_code": "CERIMQM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caisse Epargne Martinique",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fort De France",
+          "swift_code": "CAEQMQM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "C.c.p.b Antille Guyane",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fort De France",
+          "swift_code": "CCNGMQM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Nationale De Paris Succursale De Fort De France",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fort De France",
+          "swift_code": "BNPAMQMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale De Banque Aux Antilles",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fort De France",
+          "swift_code": "SOGEMQM1XXX"
+        },
+        {
+          "branch_name": "Guadeloupe Branch",
+          "city": "Pointe A Pitre",
+          "swift_code": "SOGEGPGPGUA"
+        },
+        {
+          "branch_name": "Pointe-a-pitre",
+          "city": "Pointe A Pitre",
+          "swift_code": "SOGEGPGPMAR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Pointe A Pitre",
+          "swift_code": "SOGEGPGPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole",
+      "branches": [
+        {
+          "branch_name": "Le Lamentin",
+          "city": "Le Lamentin",
+          "swift_code": "AGRIMQMXLEL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Fort De France",
+          "swift_code": "AGRIMQMXXXX"
+        },
+        {
+          "branch_name": "Le Port",
+          "city": "Le Port",
+          "swift_code": "AGRIRERXLEO"
+        },
+        {
+          "branch_name": "La Reunion Branch",
+          "city": "Saint Louis",
+          "swift_code": "AGRIRERXSNL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Saint Denis",
+          "swift_code": "AGRIRERXXXX"
+        },
+        {
+          "branch_name": "Abbeville",
+          "city": "Abbeville",
+          "swift_code": "AGRIFRPPABV"
+        },
+        {
+          "branch_name": "Agde",
+          "city": "Agde",
+          "swift_code": "AGRIFRPPAGD"
+        },
+        {
+          "branch_name": "Agen",
+          "city": "Agen",
+          "swift_code": "AGRIFRPPAGN"
+        },
+        {
+          "branch_name": "40800 Aire Sur Ladour",
+          "city": "Aire Sur Ladour",
+          "swift_code": "AGRIFRPPAIR"
+        },
+        {
+          "branch_name": "Aix En Provence",
+          "city": "Aix En Provence",
+          "swift_code": "AGRIFRPPAIX"
+        },
+        {
+          "branch_name": "Aix Les Bains",
+          "city": "Aix Les Bains",
+          "swift_code": "AGRIFRPPAIB"
+        },
+        {
+          "branch_name": "20193 Ajaccio",
+          "city": "Ajaccio",
+          "swift_code": "AGRIFRPP820"
+        },
+        {
+          "branch_name": "Albertville",
+          "city": "Albertville",
+          "swift_code": "AGRIFRPPALB"
+        },
+        {
+          "branch_name": "81000 Albi",
+          "city": "Albi",
+          "swift_code": "AGRIFRPP812"
+        },
+        {
+          "branch_name": "Anjou Et Maine Branch",
+          "city": "Alencon",
+          "swift_code": "AGRIFRPPALN"
+        },
+        {
+          "branch_name": "Normand Branch",
+          "city": "Alencon",
+          "swift_code": "AGRIFRPPALO"
+        },
+        {
+          "branch_name": "Ales",
+          "city": "Ales",
+          "swift_code": "AGRIFRPPALE"
+        },
+        {
+          "branch_name": "Ambert",
+          "city": "Ambert",
+          "swift_code": "AGRIFRPPAMB"
+        },
+        {
+          "branch_name": "80090 Amiens",
+          "city": "Amiens",
+          "swift_code": "AGRIFRPP887"
+        },
+        {
+          "branch_name": "Ancenis",
+          "city": "Ancenis",
+          "swift_code": "AGRIFRPPANC"
+        },
+        {
+          "branch_name": "49000 Angers",
+          "city": "Angers",
+          "swift_code": "AGRIFRPPAGS"
+        },
+        {
+          "branch_name": "Angouleme",
+          "city": "Angouleme",
+          "swift_code": "AGRIFRPPANG"
+        },
+        {
+          "branch_name": "74940 Annecy Le Vieux",
+          "city": "Annecy Le Vieux",
+          "swift_code": "AGRIFRPP881"
+        },
+        {
+          "branch_name": "Annemasse",
+          "city": "Annemasse",
+          "swift_code": "AGRIFRPPANM"
+        },
+        {
+          "branch_name": "Annonay",
+          "city": "Annonay",
+          "swift_code": "AGRIFRPPANN"
+        },
+        {
+          "branch_name": "Courbevoie",
+          "city": "Courbevoie",
+          "swift_code": "AGRIFRPPCCR"
+        },
+        {
+          "branch_name": "Courchevel",
+          "city": "Courchevel",
+          "swift_code": "AGRIFRPPCOV"
+        },
+        {
+          "branch_name": "Courthezon",
+          "city": "Courthezon",
+          "swift_code": "AGRIFRPPCTH"
+        },
+        {
+          "branch_name": "Coutances",
+          "city": "Coutances",
+          "swift_code": "AGRIFRPPCOT"
+        },
+        {
+          "branch_name": "Creil",
+          "city": "Creil",
+          "swift_code": "AGRIFRPPCRE"
+        },
+        {
+          "branch_name": "Sud Rhone Alpes Branch",
+          "city": "Cremieu",
+          "swift_code": "AGRIFRPPCRM"
+        },
+        {
+          "branch_name": "Centre-est Branch",
+          "city": "Cremieu",
+          "swift_code": "AGRIFRPPCRU"
+        },
+        {
+          "branch_name": "Creon",
+          "city": "Creon",
+          "swift_code": "AGRIFRPPCRO"
+        },
+        {
+          "branch_name": "Crepy En Valois",
+          "city": "Crepy En Valois",
+          "swift_code": "AGRIFRPPCEV"
+        },
+        {
+          "branch_name": "Creteil",
+          "city": "Creteil",
+          "swift_code": "AGRIFRPPCRT"
+        },
+        {
+          "branch_name": "Dammartin En Goele",
+          "city": "Dammartin En Goele",
+          "swift_code": "AGRIFRPPDAM"
+        },
+        {
+          "branch_name": "Dax",
+          "city": "Dax",
+          "swift_code": "AGRIFRPPDAX"
+        },
+        {
+          "branch_name": "Decazeville",
+          "city": "Decazeville",
+          "swift_code": "AGRIFRPPDEC"
+        },
+        {
+          "branch_name": "Decines Charpieu",
+          "city": "Decines Charpieu",
+          "swift_code": "AGRIFRPPDIC"
+        },
+        {
+          "branch_name": "Decize",
+          "city": "Decize",
+          "swift_code": "AGRIFRPPDEI"
+        },
+        {
+          "branch_name": "Dieppe",
+          "city": "Dieppe",
+          "swift_code": "AGRIFRPPDIE"
+        },
+        {
+          "branch_name": "Digoin",
+          "city": "Digoin",
+          "swift_code": "AGRIFRPPDIG"
+        },
+        {
+          "branch_name": "Dinan",
+          "city": "Dinan",
+          "swift_code": "AGRIFRPPDIN"
+        },
+        {
+          "branch_name": "Dijon",
+          "city": "Dijon",
+          "swift_code": "AGRIFRPPDIJ"
+        },
+        {
+          "branch_name": "Domene",
+          "city": "Domene",
+          "swift_code": "AGRIFRPPDOM"
+        },
+        {
+          "branch_name": "Chatou",
+          "city": "Chatou",
+          "swift_code": "AGRIFRPPCOU"
+        },
+        {
+          "branch_name": "Chaumont",
+          "city": "Chaumont",
+          "swift_code": "AGRIFRPPCMT"
+        },
+        {
+          "branch_name": "Chelles",
+          "city": "Chelles",
+          "swift_code": "AGRIFRPPCEE"
+        },
+        {
+          "branch_name": "Cherbourg",
+          "city": "Cherbourg",
+          "swift_code": "AGRIFRPPCHE"
+        },
+        {
+          "branch_name": "Cholet",
+          "city": "Cholet",
+          "swift_code": "AGRIFRPPCHO"
+        },
+        {
+          "branch_name": "Paris Ile-de-france Branch",
+          "city": "Clermont",
+          "swift_code": "AGRIFRPPCLM"
+        },
+        {
+          "branch_name": "Oise Branch",
+          "city": "Clermont",
+          "swift_code": "AGRIFRPPCLT"
+        },
+        {
+          "branch_name": "63000 Clermont Ferrand",
+          "city": "Clermont Ferrand",
+          "swift_code": "AGRIFRPP868"
+        },
+        {
+          "branch_name": "Clichy",
+          "city": "Clichy",
+          "swift_code": "AGRIFRPPCLY"
+        },
+        {
+          "branch_name": "Clisson",
+          "city": "Clisson",
+          "swift_code": "AGRIFRPPCLI"
+        },
+        {
+          "branch_name": "Cluses",
+          "city": "Cluses",
+          "swift_code": "AGRIFRPPCLU"
+        },
+        {
+          "branch_name": "Cognac",
+          "city": "Cognac",
+          "swift_code": "AGRIFRPPCOG"
+        },
+        {
+          "branch_name": "Colmar",
+          "city": "Colmar",
+          "swift_code": "AGRIFRPPCOL"
+        },
+        {
+          "branch_name": "Compiegne",
+          "city": "Compiegne",
+          "swift_code": "AGRIFRPPCMP"
+        },
+        {
+          "branch_name": "Concarneau",
+          "city": "Concarneau",
+          "swift_code": "AGRIFRPPCNU"
+        },
+        {
+          "branch_name": "Condrieu",
+          "city": "Condrieu",
+          "swift_code": "AGRIFRPPCOD"
+        },
+        {
+          "branch_name": "Conflans Sainte Honorine",
+          "city": "Conflans Sainte Honorine",
+          "swift_code": "AGRIFRPPCSH"
+        },
+        {
+          "branch_name": "Sud Rhone Alpes Branch",
+          "city": "Corbas",
+          "swift_code": "AGRIFRPPCOS"
+        },
+        {
+          "branch_name": "Centre-est Branch",
+          "city": "Corbas",
+          "swift_code": "AGRIFRPPCRB"
+        },
+        {
+          "branch_name": "Coulommiers",
+          "city": "Coulommiers",
+          "swift_code": "AGRIFRPPCMM"
+        },
+        {
+          "branch_name": "Chalons En Champagne",
+          "city": "Chalons En Champagne",
+          "swift_code": "AGRIFRPPCHA"
+        },
+        {
+          "branch_name": "Chambery",
+          "city": "Chambery",
+          "swift_code": "AGRIFRPPCHY"
+        },
+        {
+          "branch_name": "Chamonix",
+          "city": "Chamonix",
+          "swift_code": "AGRIFRPPCHX"
+        },
+        {
+          "branch_name": "Champagne Au Mont Dor",
+          "city": "Champagne Au Mont Dor",
+          "swift_code": "AGRIFRPPCMO"
+        },
+        {
+          "branch_name": "Chantilly",
+          "city": "Chantilly",
+          "swift_code": "AGRIFRPPCHI"
+        },
+        {
+          "branch_name": "Chantonnay",
+          "city": "Chantonnay",
+          "swift_code": "AGRIFRPPCTY"
+        },
+        {
+          "branch_name": "Charleville Mezieres",
+          "city": "Charleville Mezieres",
+          "swift_code": "AGRIFRPPCHM"
+        },
+        {
+          "branch_name": "Charmes Sur Rhone",
+          "city": "Charmes Sur Rhone",
+          "swift_code": "AGRIFRPPSRH"
+        },
+        {
+          "branch_name": "Charolles",
+          "city": "Charolles",
+          "swift_code": "AGRIFRPPCHL"
+        },
+        {
+          "branch_name": "Chartres",
+          "city": "Chartres",
+          "swift_code": "AGRIFRPP844"
+        },
+        {
+          "branch_name": "Chasseneuil Du Poitou",
+          "city": "Chasseneuil Du Poitou",
+          "swift_code": "AGRIFRPPCDP"
+        },
+        {
+          "branch_name": "Sud Rhone Alpes Branch",
+          "city": "Chassieu",
+          "swift_code": "AGRIFRPPCEU"
+        },
+        {
+          "branch_name": "Centre-est Branch",
+          "city": "Chassieu",
+          "swift_code": "AGRIFRPPLHS"
+        },
+        {
+          "branch_name": "Chateau Salins",
+          "city": "Chateau Salins",
+          "swift_code": "AGRIFRPPCSA"
+        },
+        {
+          "branch_name": "Chateau Thierry",
+          "city": "Chateau Thierry",
+          "swift_code": "AGRIFRPPCHT"
+        },
+        {
+          "branch_name": "Chateaubriant",
+          "city": "Chateaubriant",
+          "swift_code": "AGRIFRPPCHN"
+        },
+        {
+          "branch_name": "Chateaudun",
+          "city": "Chateaudun",
+          "swift_code": "AGRIFRPPCHD"
+        },
+        {
+          "branch_name": "Chateaurenard",
+          "city": "Chateaurenard",
+          "swift_code": "AGRIFRPPCHR"
+        },
+        {
+          "branch_name": "Chateauroux",
+          "city": "Chateauroux",
+          "swift_code": "AGRIFRPPCHU"
+        },
+        {
+          "branch_name": "Chatellerault",
+          "city": "Chatellerault",
+          "swift_code": "AGRIFRPPCTL"
+        },
+        {
+          "branch_name": "Calais",
+          "city": "Calais",
+          "swift_code": "AGRIFRPPCAL"
+        },
+        {
+          "branch_name": "Cambrai",
+          "city": "Cambrai",
+          "swift_code": "AGRIFRPPCAM"
+        },
+        {
+          "branch_name": "Cannes",
+          "city": "Cannes",
+          "swift_code": "AGRIFRPPCAN"
+        },
+        {
+          "branch_name": "11 Carcassonne",
+          "city": "Carcassonne",
+          "swift_code": "AGRIFRPPCAR"
+        },
+        {
+          "branch_name": "Carpentras",
+          "city": "Carpentras",
+          "swift_code": "AGRIFRPPCAT"
+        },
+        {
+          "branch_name": "Carquefou (nantes)",
+          "city": "Carquefou (Nantes)",
+          "swift_code": "AGRIFRPPCAQ"
+        },
+        {
+          "branch_name": "Cassis",
+          "city": "Cassis",
+          "swift_code": "AGRIFRPPCSI"
+        },
+        {
+          "branch_name": "Castelnau De Medoc",
+          "city": "Castelnau De Medoc",
+          "swift_code": "AGRIFRPPCAC"
+        },
+        {
+          "branch_name": "Castelnaudary",
+          "city": "Castelnaudary",
+          "swift_code": "AGRIFRPPCNY"
+        },
+        {
+          "branch_name": "Castres",
+          "city": "Castres",
+          "swift_code": "AGRIFRPPCAS"
+        },
+        {
+          "branch_name": "Caudry",
+          "city": "Caudry",
+          "swift_code": "AGRIFRPPCAU"
+        },
+        {
+          "branch_name": "Cavaillon",
+          "city": "Cavaillon",
+          "swift_code": "AGRIFRPPCAV"
+        },
+        {
+          "branch_name": "Cavalaire",
+          "city": "Cavalaire",
+          "swift_code": "AGRIFRPPCVL"
+        },
+        {
+          "branch_name": "Ceret",
+          "city": "Ceret",
+          "swift_code": "AGRIFRPPCET"
+        },
+        {
+          "branch_name": "Cergy Pontoise",
+          "city": "Cergy Pontoise",
+          "swift_code": "AGRIFRPPCER"
+        },
+        {
+          "branch_name": "Cesson Sevigne",
+          "city": "Cesson Sevigne",
+          "swift_code": "AGRIFRPPCES"
+        },
+        {
+          "branch_name": "Chablis",
+          "city": "Chablis",
+          "swift_code": "AGRIFRPPCIS"
+        },
+        {
+          "branch_name": "Challans",
+          "city": "Challans",
+          "swift_code": "AGRIFRPPCLL"
+        },
+        {
+          "branch_name": "Chalon Sur Saone",
+          "city": "Chalon Sur Saone",
+          "swift_code": "AGRIFRPPCSS"
+        },
+        {
+          "branch_name": "Chalons En Champagne",
+          "city": "Chalons En Champagne",
+          "swift_code": "AGRIFRPPCEC"
+        },
+        {
+          "branch_name": "Saone",
+          "city": "Belleville (Rhone)",
+          "swift_code": "AGRIFRPPBES"
+        },
+        {
+          "branch_name": "Berre Letang",
+          "city": "Berre Letang",
+          "swift_code": "AGRIFRPPBLG"
+        },
+        {
+          "branch_name": "25000 Besancon",
+          "city": "Besancon",
+          "swift_code": "AGRIFRPP825"
+        },
+        {
+          "branch_name": "Bethune",
+          "city": "Bethune",
+          "swift_code": "AGRIFRPPBET"
+        },
+        {
+          "branch_name": "Beziers",
+          "city": "Beziers",
+          "swift_code": "AGRIFRPPBZR"
+        },
+        {
+          "branch_name": "Credit Agricole",
+          "city": "Biarritz",
+          "swift_code": "AGRIFRPPBIA"
+        },
+        {
+          "branch_name": "Bitche",
+          "city": "Bitche",
+          "swift_code": "AGRIFRPPBCE"
+        },
+        {
+          "branch_name": "Blagnac",
+          "city": "Blagnac",
+          "swift_code": "AGRIFRPPBLA"
+        },
+        {
+          "branch_name": "Blaye",
+          "city": "Blaye",
+          "swift_code": "AGRIFRPPBAE"
+        },
+        {
+          "branch_name": "Blois",
+          "city": "Blois",
+          "swift_code": "AGRIFRPPBLO"
+        },
+        {
+          "branch_name": "Bobigny",
+          "city": "Bobigny",
+          "swift_code": "AGRIFRPPBOB"
+        },
+        {
+          "branch_name": "Boe",
+          "city": "Boe",
+          "swift_code": "AGRIFRPPBOE"
+        },
+        {
+          "branch_name": "Bollene",
+          "city": "Bollene",
+          "swift_code": "AGRIFRPPBOL"
+        },
+        {
+          "branch_name": "Bondues",
+          "city": "Bondues",
+          "swift_code": "AGRIFRPPBOD"
+        },
+        {
+          "branch_name": "Bondy",
+          "city": "Bondy",
+          "swift_code": "AGRIFRPPBON"
+        },
+        {
+          "branch_name": "33076 Bordeaux",
+          "city": "Bordeaux",
+          "swift_code": "AGRIFRPP833"
+        },
+        {
+          "branch_name": "Boulogne Billancourt",
+          "city": "Boulogne Billancourt",
+          "swift_code": "AGRIFRPPBBT"
+        },
+        {
+          "branch_name": "Boulogne Sur Mer",
+          "city": "Boulogne Sur Mer",
+          "swift_code": "AGRIFRPPBSM"
+        },
+        {
+          "branch_name": "Bourg Doisans",
+          "city": "Bourg Doisans",
+          "swift_code": "AGRIFRPPBDO"
+        },
+        {
+          "branch_name": "Bourg En Bresse",
+          "city": "Bourg En Bresse",
+          "swift_code": "AGRIFRPPBEB"
+        },
+        {
+          "branch_name": "Avoriaz",
+          "city": "Avoriaz",
+          "swift_code": "AGRIFRPPAVO"
+        },
+        {
+          "branch_name": "Avranches",
+          "city": "Avranches",
+          "swift_code": "AGRIFRPPAVR"
+        },
+        {
+          "branch_name": "Baccarat",
+          "city": "Baccarat",
+          "swift_code": "AGRIFRPPBAC"
+        },
+        {
+          "branch_name": "Bagnere De Luchon",
+          "city": "Bagnere De Luchon",
+          "swift_code": "AGRIFRPPBLN"
+        },
+        {
+          "branch_name": "Bagnols Sur Ceze",
+          "city": "Bagnols Sur Ceze",
+          "swift_code": "AGRIFRPPBAG"
+        },
+        {
+          "branch_name": "Bandol",
+          "city": "Bandol",
+          "swift_code": "AGRIFRPPBAN"
+        },
+        {
+          "branch_name": "Bar Le Duc",
+          "city": "Bar Le Duc",
+          "swift_code": "AGRIFRPPBAR"
+        },
+        {
+          "branch_name": "Bayeux",
+          "city": "Bayeux",
+          "swift_code": "AGRIFRPPBAX"
+        },
+        {
+          "branch_name": "Bastia",
+          "city": "Bastia",
+          "swift_code": "AGRIFRPPBAS"
+        },
+        {
+          "branch_name": "Bayonne",
+          "city": "Bayonne",
+          "swift_code": "AGRIFRPPBAY"
+        },
+        {
+          "branch_name": "Bazas",
+          "city": "Bazas",
+          "swift_code": "AGRIFRPPBAZ"
+        },
+        {
+          "branch_name": "Beaujeu",
+          "city": "Beaujeu",
+          "swift_code": "AGRIFRPPBEJ"
+        },
+        {
+          "branch_name": "Beaumes De Venise",
+          "city": "Beaumes De Venise",
+          "swift_code": "AGRIFRPPBDV"
+        },
+        {
+          "branch_name": "Beaumont Sur Oise",
+          "city": "Beaumont Sur Oise",
+          "swift_code": "AGRIFRPPBSO"
+        },
+        {
+          "branch_name": "Beaune",
+          "city": "Beaune",
+          "swift_code": "AGRIFRPPBEA"
+        },
+        {
+          "branch_name": "Beauvais",
+          "city": "Beauvais",
+          "swift_code": "AGRIFRPPBEV"
+        },
+        {
+          "branch_name": "Bedarieux",
+          "city": "Bedarieux",
+          "swift_code": "AGRIFRPPBED"
+        },
+        {
+          "branch_name": "Belfort",
+          "city": "Belfort",
+          "swift_code": "AGRIFRPPBLT"
+        },
+        {
+          "branch_name": "Bellegarde Sur Valserine",
+          "city": "Bellegarde Sur Valserine",
+          "swift_code": "AGRIFRPPBEL"
+        },
+        {
+          "branch_name": "Belleville (rhone)",
+          "city": "Belleville (Rhone)",
+          "swift_code": "AGRIFRPPBER"
+        },
+        {
+          "branch_name": "Antibes",
+          "city": "Antibes",
+          "swift_code": "AGRIFRPPANT"
+        },
+        {
+          "branch_name": "Apt",
+          "city": "Apt",
+          "swift_code": "AGRIFRPPAPT"
+        },
+        {
+          "branch_name": "Arcachon",
+          "city": "Arcachon",
+          "swift_code": "AGRIFRPPARC"
+        },
+        {
+          "branch_name": "Arcueil",
+          "city": "Arcueil",
+          "swift_code": "AGRIFRPPARU"
+        },
+        {
+          "branch_name": "Argentan",
+          "city": "Argentan",
+          "swift_code": "AGRIFRPPART"
+        },
+        {
+          "branch_name": "Argenteuil",
+          "city": "Argenteuil",
+          "swift_code": "AGRIFRPPARG"
+        },
+        {
+          "branch_name": "13200 Arles",
+          "city": "Arles",
+          "swift_code": "AGRIFRPP813"
+        },
+        {
+          "branch_name": "Armentieres",
+          "city": "Armentieres",
+          "swift_code": "AGRIFRPPARM"
+        },
+        {
+          "branch_name": "Arras",
+          "city": "Arras",
+          "swift_code": "AGRIFRPPARR"
+        },
+        {
+          "branch_name": "Asnieres Sur Seine",
+          "city": "Asnieres Sur Seine",
+          "swift_code": "AGRIFRPPASN"
+        },
+        {
+          "branch_name": "Aubagne",
+          "city": "Aubagne",
+          "swift_code": "AGRIFRPPABG"
+        },
+        {
+          "branch_name": "Aubenas",
+          "city": "Aubenas",
+          "swift_code": "AGRIFRPPAUE"
+        },
+        {
+          "branch_name": "Aubervilliers",
+          "city": "Aubervilliers",
+          "swift_code": "AGRIFRPPAUB"
+        },
+        {
+          "branch_name": "Aucamville",
+          "city": "Aucamville",
+          "swift_code": "AGRIFRPPAUI"
+        },
+        {
+          "branch_name": "Auch",
+          "city": "Auch",
+          "swift_code": "AGRIFRPPAUC"
+        },
+        {
+          "branch_name": "Auriol",
+          "city": "Auriol",
+          "swift_code": "AGRIFRPPAUR"
+        },
+        {
+          "branch_name": "Auterive",
+          "city": "Auterive",
+          "swift_code": "AGRIFRPPAUT"
+        },
+        {
+          "branch_name": "Autun",
+          "city": "Autun",
+          "swift_code": "AGRIFRPPAUN"
+        },
+        {
+          "branch_name": "89000 Auxerre",
+          "city": "Auxerre",
+          "swift_code": "AGRIFRPPAUX"
+        },
+        {
+          "branch_name": "Avignon",
+          "city": "Avignon",
+          "swift_code": "AGRIFRPPAVI"
+        },
+        {
+          "branch_name": "Bourg La Reine",
+          "city": "Bourg La Reine",
+          "swift_code": "AGRIFRPPBLR"
+        },
+        {
+          "branch_name": "Bourg Sur Gironde",
+          "city": "Bourg Sur Gironde",
+          "swift_code": "AGRIFRPPBGI"
+        },
+        {
+          "branch_name": "18000 Bourges",
+          "city": "Bourges",
+          "swift_code": "AGRIFRPP848"
+        },
+        {
+          "branch_name": "Centre-est Branch",
+          "city": "Bourgoin Jallieu",
+          "swift_code": "AGRIFRPPBJA"
+        },
+        {
+          "branch_name": "Sud Rhone Alpes Branch",
+          "city": "Bourgoin Jallieu",
+          "swift_code": "AGRIFRPPBOJ"
+        },
+        {
+          "branch_name": "Bouzonville",
+          "city": "Bouzonville",
+          "swift_code": "AGRIFRPPBZV"
+        },
+        {
+          "branch_name": "Bressuire",
+          "city": "Bressuire",
+          "swift_code": "AGRIFRPPBRE"
+        },
+        {
+          "branch_name": "Brest",
+          "city": "Brest",
+          "swift_code": "AGRIFRPPBST"
+        },
+        {
+          "branch_name": "Briancon",
+          "city": "Briancon",
+          "swift_code": "AGRIFRPPBRN"
+        },
+        {
+          "branch_name": "Brie Senart",
+          "city": "Brie Senart",
+          "swift_code": "AGRIFRPPBRT"
+        },
+        {
+          "branch_name": "Brignais",
+          "city": "Brignais",
+          "swift_code": "AGRIFRPPBRS"
+        },
+        {
+          "branch_name": "Brignoles",
+          "city": "Brignoles",
+          "swift_code": "AGRIFRPPBRG"
+        },
+        {
+          "branch_name": "Brioude",
+          "city": "Brioude",
+          "swift_code": "AGRIFRPPBRI"
+        },
+        {
+          "branch_name": "Brive La Gaillarde",
+          "city": "Brive La Gaillarde",
+          "swift_code": "AGRIFRPPBRV"
+        },
+        {
+          "branch_name": "Paris Ile De France Branch",
+          "city": "Brunoy",
+          "swift_code": "AGRIFRPPBRU"
+        },
+        {
+          "branch_name": "Cabannes",
+          "city": "Cabannes",
+          "swift_code": "AGRIFRPPCAB"
+        },
+        {
+          "branch_name": "Cadillac",
+          "city": "Cadillac",
+          "swift_code": "AGRIFRPPCAD"
+        },
+        {
+          "branch_name": "14050 Caen",
+          "city": "Caen",
+          "swift_code": "AGRIFRPP866"
+        },
+        {
+          "branch_name": "Cagnes Sur Mer",
+          "city": "Cagnes Sur Mer",
+          "swift_code": "AGRIFRPPCAG"
+        },
+        {
+          "branch_name": "46000 Cahors",
+          "city": "Cahors",
+          "swift_code": "AGRIFRPPCAH"
+        },
+        {
+          "branch_name": "Hyeres",
+          "city": "Hyeres",
+          "swift_code": "AGRIFRPPHYE"
+        },
+        {
+          "branch_name": "Isle Sur Sorgue",
+          "city": "Isle Sur Sorgue",
+          "swift_code": "AGRIFRPPILS"
+        },
+        {
+          "branch_name": "Isle Dabeau",
+          "city": "Isle Dabeau",
+          "swift_code": "AGRIFRPPIAB"
+        },
+        {
+          "branch_name": "Issoire",
+          "city": "Issoire",
+          "swift_code": "AGRIFRPPISS"
+        },
+        {
+          "branch_name": "Issy Les Moulineaux",
+          "city": "Issy Les Moulineaux",
+          "swift_code": "AGRIFRPPILM"
+        },
+        {
+          "branch_name": "Istres",
+          "city": "Istres",
+          "swift_code": "AGRIFRPPIST"
+        },
+        {
+          "branch_name": "Ivry-sur-seine",
+          "city": "Ivry-Sur-Seine",
+          "swift_code": "AGRIFRPPIVR"
+        },
+        {
+          "branch_name": "Juvisy Sur Orge",
+          "city": "Juvisy Sur Orge",
+          "swift_code": "AGRIFRPPJSO"
+        },
+        {
+          "branch_name": "L Aigle",
+          "city": "L Aigle",
+          "swift_code": "AGRIFRPPLAI"
+        },
+        {
+          "branch_name": "La Garde",
+          "city": "La Garde",
+          "swift_code": "AGRIFRPPLAD"
+        },
+        {
+          "branch_name": "La Ciotat",
+          "city": "La Ciotat",
+          "swift_code": "AGRIFRPPLCI"
+        },
+        {
+          "branch_name": "La Roche Sur Yon",
+          "city": "La Roche Sur Yon",
+          "swift_code": "AGRIFRPPLRY"
+        },
+        {
+          "branch_name": "La Reole",
+          "city": "La Reole",
+          "swift_code": "AGRIFRPPLRE"
+        },
+        {
+          "branch_name": "La Seyne Sur Mer",
+          "city": "La Seyne Sur Mer",
+          "swift_code": "AGRIFRPPLSM"
+        },
+        {
+          "branch_name": "La Rochelle",
+          "city": "La Rochelle",
+          "swift_code": "AGRIFRPPROC"
+        },
+        {
+          "branch_name": "La Tour Du Pin",
+          "city": "La Tour Du Pin",
+          "swift_code": "AGRIFRPPLTP"
+        },
+        {
+          "branch_name": "La Tronche",
+          "city": "La Tronche",
+          "swift_code": "AGRIFRPPLTR"
+        },
+        {
+          "branch_name": "La Verpilliere",
+          "city": "La Verpilliere",
+          "swift_code": "AGRIFRPPLVE"
+        },
+        {
+          "branch_name": "La Valette Du Var",
+          "city": "La Valette Du Var",
+          "swift_code": "AGRIFRPPLVV"
+        },
+        {
+          "branch_name": "La Voulte Sur Rhone",
+          "city": "La Voulte Sur Rhone",
+          "swift_code": "AGRIFRPPASR"
+        },
+        {
+          "branch_name": "Flaine",
+          "city": "Flaine",
+          "swift_code": "AGRIFRPPFLA"
+        },
+        {
+          "branch_name": "Flers",
+          "city": "Flers",
+          "swift_code": "AGRIFRPPFLE"
+        },
+        {
+          "branch_name": "Fleurie",
+          "city": "Fleurie",
+          "swift_code": "AGRIFRPPFLI"
+        },
+        {
+          "branch_name": "Foix",
+          "city": "Foix",
+          "swift_code": "AGRIFRPPFOX"
+        },
+        {
+          "branch_name": "Fontaine",
+          "city": "Fontaine",
+          "swift_code": "AGRIFRPPFON"
+        },
+        {
+          "branch_name": "Fontainebleau",
+          "city": "Fontainebleau",
+          "swift_code": "AGRIFRPPFOT"
+        },
+        {
+          "branch_name": "Fontenay Le Comte",
+          "city": "Fontenay Le Comte",
+          "swift_code": "AGRIFRPPFLC"
+        },
+        {
+          "branch_name": "Fontenay Sous Bois",
+          "city": "Fontenay Sous Bois",
+          "swift_code": "AGRIFRPPFSB"
+        },
+        {
+          "branch_name": "Forbach",
+          "city": "Forbach",
+          "swift_code": "AGRIFRPPFRB"
+        },
+        {
+          "branch_name": "Fougeres",
+          "city": "Fougeres",
+          "swift_code": "AGRIFRPPFOG"
+        },
+        {
+          "branch_name": "Frejus",
+          "city": "Frejus",
+          "swift_code": "AGRIFRPPFRE"
+        },
+        {
+          "branch_name": "Friville Escarbotin",
+          "city": "Friville Escarbotin",
+          "swift_code": "AGRIFRPPFRI"
+        },
+        {
+          "branch_name": "Gap",
+          "city": "Gap",
+          "swift_code": "AGRIFRPPGAP"
+        },
+        {
+          "branch_name": "Gardanne",
+          "city": "Gardanne",
+          "swift_code": "AGRIFRPPGAR"
+        },
+        {
+          "branch_name": "Sud Rhone Alpes Branch",
+          "city": "Genas",
+          "swift_code": "AGRIFRPPGEN"
+        },
+        {
+          "branch_name": "Centre-est Branch",
+          "city": "Genas",
+          "swift_code": "AGRIFRPPGNS"
+        },
+        {
+          "branch_name": "Gennevilliers",
+          "city": "Gennevilliers",
+          "swift_code": "AGRIFRPPGNV"
+        },
+        {
+          "branch_name": "Gex",
+          "city": "Gex",
+          "swift_code": "AGRIFRPPGEX"
+        },
+        {
+          "branch_name": "Gien",
+          "city": "Gien",
+          "swift_code": "AGRIFRPPGIE"
+        },
+        {
+          "branch_name": "Eure Branch",
+          "city": "Gisors",
+          "swift_code": "AGRIFRPPGIO"
+        },
+        {
+          "branch_name": "Oise Branch",
+          "city": "Gisors",
+          "swift_code": "AGRIFRPPGIS"
+        },
+        {
+          "branch_name": "Gornac",
+          "city": "Gornac",
+          "swift_code": "AGRIFRPPGOR"
+        },
+        {
+          "branch_name": "Gourdon",
+          "city": "Gourdon",
+          "swift_code": "AGRIFRPPGOU"
+        },
+        {
+          "branch_name": "Granville",
+          "city": "Granville",
+          "swift_code": "AGRIFRPPGRA"
+        },
+        {
+          "branch_name": "Grasse",
+          "city": "Grasse",
+          "swift_code": "AGRIFRPPGRS"
+        },
+        {
+          "branch_name": "Graulhet",
+          "city": "Graulhet",
+          "swift_code": "AGRIFRPPGRL"
+        },
+        {
+          "branch_name": "38100 Grenoble",
+          "city": "Grenoble",
+          "swift_code": "AGRIFRPP839"
+        },
+        {
+          "branch_name": "Guebwiller",
+          "city": "Guebwiller",
+          "swift_code": "AGRIFRPPGBW"
+        },
+        {
+          "branch_name": "Gueret",
+          "city": "Gueret",
+          "swift_code": "AGRIFRPPGUE"
+        },
+        {
+          "branch_name": "Guingamp",
+          "city": "Guingamp",
+          "swift_code": "AGRIFRPPGUI"
+        },
+        {
+          "branch_name": "Guillestre",
+          "city": "Guillestre",
+          "swift_code": "AGRIFRPPGIL"
+        },
+        {
+          "branch_name": "Gujan Mestras",
+          "city": "Gujan Mestras",
+          "swift_code": "AGRIFRPPMTA"
+        },
+        {
+          "branch_name": "Haguenau",
+          "city": "Haguenau",
+          "swift_code": "AGRIFRPPHGN"
+        },
+        {
+          "branch_name": "Hazebrouck",
+          "city": "Hazebrouck",
+          "swift_code": "AGRIFRPPHAZ"
+        },
+        {
+          "branch_name": "Hayange",
+          "city": "Hayange",
+          "swift_code": "AGRIFRPPHAY"
+        },
+        {
+          "branch_name": "Hendaye",
+          "city": "Hendaye",
+          "swift_code": "AGRIFRPPHEN"
+        },
+        {
+          "branch_name": "Hettange",
+          "city": "Hettange",
+          "swift_code": "AGRIFRPPHET"
+        },
+        {
+          "branch_name": "Sud Rhone Alpes Branch",
+          "city": "Heyrieux",
+          "swift_code": "AGRIFRPPHEY"
+        },
+        {
+          "branch_name": "Centre-est Branch",
+          "city": "Heyrieux",
+          "swift_code": "AGRIFRPPHYX"
+        },
+        {
+          "branch_name": "Houilles",
+          "city": "Houilles",
+          "swift_code": "AGRIFRPPHOU"
+        },
+        {
+          "branch_name": "Douai",
+          "city": "Douai",
+          "swift_code": "AGRIFRPPDOU"
+        },
+        {
+          "branch_name": "83300 Draguignan",
+          "city": "Draguignan",
+          "swift_code": "AGRIFRPP891"
+        },
+        {
+          "branch_name": "Dreux",
+          "city": "Dreux",
+          "swift_code": "AGRIFRPPDRX"
+        },
+        {
+          "branch_name": "Dunkerque",
+          "city": "Dunkerque",
+          "swift_code": "AGRIFRPPDUN"
+        },
+        {
+          "branch_name": "Ecully",
+          "city": "Ecully",
+          "swift_code": "AGRIFRPPECL"
+        },
+        {
+          "branch_name": "Elbeuf",
+          "city": "Elbeuf",
+          "swift_code": "AGRIFRPPELB"
+        },
+        {
+          "branch_name": "Enghien Les Bains",
+          "city": "Enghien Les Bains",
+          "swift_code": "AGRIFRPPENG"
+        },
+        {
+          "branch_name": "Epernay",
+          "city": "Epernay",
+          "swift_code": "AGRIFRPPEPY"
+        },
+        {
+          "branch_name": "88000 Epinal",
+          "city": "Epinal",
+          "swift_code": "AGRIFRPPEPL"
+        },
+        {
+          "branch_name": "Erstein",
+          "city": "Erstein",
+          "swift_code": "AGRIFRPPERS"
+        },
+        {
+          "branch_name": "Espalion",
+          "city": "Espalion",
+          "swift_code": "AGRIFRPPESP"
+        },
+        {
+          "branch_name": "Etampes",
+          "city": "Etampes",
+          "swift_code": "AGRIFRPPETA"
+        },
+        {
+          "branch_name": "27000 Evreux",
+          "city": "Evreux",
+          "swift_code": "AGRIFRPPEVX"
+        },
+        {
+          "branch_name": "Evry",
+          "city": "Evry",
+          "swift_code": "AGRIFRPPEVR"
+        },
+        {
+          "branch_name": "Falaise",
+          "city": "Falaise",
+          "swift_code": "AGRIFRPPFAL"
+        },
+        {
+          "branch_name": "Fayence",
+          "city": "Fayence",
+          "swift_code": "AGRIFRPPFAY"
+        },
+        {
+          "branch_name": "Fecamp",
+          "city": "Fecamp",
+          "swift_code": "AGRIFRPPFEC"
+        },
+        {
+          "branch_name": "Ferney Voltaire",
+          "city": "Ferney Voltaire",
+          "swift_code": "AGRIFRPPFEV"
+        },
+        {
+          "branch_name": "Figeac",
+          "city": "Figeac",
+          "swift_code": "AGRIFRPPFIG"
+        },
+        {
+          "branch_name": "Feyzin",
+          "city": "Feyzin",
+          "swift_code": "AGRIFRPPFEY"
+        },
+        {
+          "branch_name": "Longjumeau",
+          "city": "Longjumeau",
+          "swift_code": "AGRIFRPPLCJ"
+        },
+        {
+          "branch_name": "Longwy",
+          "city": "Longwy",
+          "swift_code": "AGRIFRPPLOW"
+        },
+        {
+          "branch_name": "Lons Le Saunier",
+          "city": "Lons Le Saunier",
+          "swift_code": "AGRIFRPPLON"
+        },
+        {
+          "branch_name": "Lorient",
+          "city": "Lorient",
+          "swift_code": "AGRIFRPPLOR"
+        },
+        {
+          "branch_name": "Loudeac",
+          "city": "Loudeac",
+          "swift_code": "AGRIFRPPLOD"
+        },
+        {
+          "branch_name": "Louhans",
+          "city": "Louhans",
+          "swift_code": "AGRIFRPPLOA"
+        },
+        {
+          "branch_name": "Lourdes",
+          "city": "Lourdes",
+          "swift_code": "AGRIFRPPLOU"
+        },
+        {
+          "branch_name": "Lucon",
+          "city": "Lucon",
+          "swift_code": "AGRIFRPPLUC"
+        },
+        {
+          "branch_name": "Luneville",
+          "city": "Luneville",
+          "swift_code": "AGRIFRPPLUN"
+        },
+        {
+          "branch_name": "Lyon",
+          "city": "Lyon",
+          "swift_code": "AGRIFRPP878"
+        },
+        {
+          "branch_name": "71000 Macon",
+          "city": "Macon",
+          "swift_code": "AGRIFRPPMAC"
+        },
+        {
+          "branch_name": "Maisons Alfort",
+          "city": "Maisons Alfort",
+          "swift_code": "AGRIFRPPMAI"
+        },
+        {
+          "branch_name": "Maisons Laffitte",
+          "city": "Maisons Laffitte",
+          "swift_code": "AGRIFRPPMAL"
+        },
+        {
+          "branch_name": "Malakoff",
+          "city": "Malakoff",
+          "swift_code": "AGRIFRPPMOF"
+        },
+        {
+          "branch_name": "Mallemort",
+          "city": "Mallemort",
+          "swift_code": "AGRIFRPPMAT"
+        },
+        {
+          "branch_name": "04100 Manosque",
+          "city": "Manosque",
+          "swift_code": "AGRIFRPPMAN"
+        },
+        {
+          "branch_name": "Mantes La Jolie",
+          "city": "Mantes La Jolie",
+          "swift_code": "AGRIFRPPMLJ"
+        },
+        {
+          "branch_name": "Margaux",
+          "city": "Margaux",
+          "swift_code": "AGRIFRPPMAG"
+        },
+        {
+          "branch_name": "Marignane",
+          "city": "Marignane",
+          "swift_code": "AGRIFRPPMGN"
+        },
+        {
+          "branch_name": "Marmande",
+          "city": "Marmande",
+          "swift_code": "AGRIFRPPMAD"
+        },
+        {
+          "branch_name": "Le Pouzin",
+          "city": "Le Pouzin",
+          "swift_code": "AGRIFRPPLPZ"
+        },
+        {
+          "branch_name": "Le Puy",
+          "city": "Le Puy",
+          "swift_code": "AGRIFRPPLEY"
+        },
+        {
+          "branch_name": "Le Puy Sainte Reparade",
+          "city": "Le Puy Sainte Reparade",
+          "swift_code": "AGRIFRPPPSR"
+        },
+        {
+          "branch_name": "43157 Le Puy En Velay",
+          "city": "Le Puy En Velay",
+          "swift_code": "AGRIFRPPPUY"
+        },
+        {
+          "branch_name": "Le Raincy",
+          "city": "Le Raincy",
+          "swift_code": "AGRIFRPPRAI"
+        },
+        {
+          "branch_name": "Le Thor",
+          "city": "Le Thor",
+          "swift_code": "AGRIFRPPTHO"
+        },
+        {
+          "branch_name": "Lens",
+          "city": "Lens",
+          "swift_code": "AGRIFRPPLEN"
+        },
+        {
+          "branch_name": "Leognan",
+          "city": "Leognan",
+          "swift_code": "AGRIFRPPLEG"
+        },
+        {
+          "branch_name": "Les Herbiers",
+          "city": "Les Herbiers",
+          "swift_code": "AGRIFRPPLEH"
+        },
+        {
+          "branch_name": "Les Menuires",
+          "city": "Les Menuires",
+          "swift_code": "AGRIFRPPMES"
+        },
+        {
+          "branch_name": "Les Mureaux",
+          "city": "Les Mureaux",
+          "swift_code": "AGRIFRPPLMX"
+        },
+        {
+          "branch_name": "Les Sables Dolonne",
+          "city": "Les Sables Dolonne",
+          "swift_code": "AGRIFRPPLSA"
+        },
+        {
+          "branch_name": "Lesparre",
+          "city": "Lesparre",
+          "swift_code": "AGRIFRPPLES"
+        },
+        {
+          "branch_name": "Levallois Perret",
+          "city": "Levallois Perret",
+          "swift_code": "AGRIFRPPLEP"
+        },
+        {
+          "branch_name": "33500 Libourne",
+          "city": "Libourne",
+          "swift_code": "AGRIFRPPLIB"
+        },
+        {
+          "branch_name": "Lille",
+          "city": "Lille",
+          "swift_code": "AGRIFRPP867"
+        },
+        {
+          "branch_name": "87000 Limoges",
+          "city": "Limoges",
+          "swift_code": "AGRIFRPP895"
+        },
+        {
+          "branch_name": "Lisieux",
+          "city": "Lisieux",
+          "swift_code": "AGRIFRPPLIS"
+        },
+        {
+          "branch_name": "Lognes",
+          "city": "Lognes",
+          "swift_code": "AGRIFRPPLMV"
+        },
+        {
+          "branch_name": "Lomme",
+          "city": "Lomme",
+          "swift_code": "AGRIFRPPLOM"
+        },
+        {
+          "branch_name": "Lagnieu",
+          "city": "Lagnieu",
+          "swift_code": "AGRIFRPPLAG"
+        },
+        {
+          "branch_name": "La Roche Sur Foron",
+          "city": "La Roche Sur Foron",
+          "swift_code": "AGRIFRPPROF"
+        },
+        {
+          "branch_name": "Lagny Sur Marne",
+          "city": "Lagny Sur Marne",
+          "swift_code": "AGRIFRPPLAM"
+        },
+        {
+          "branch_name": "Lamballe",
+          "city": "Lamballe",
+          "swift_code": "AGRIFRPPLAB"
+        },
+        {
+          "branch_name": "Lambesc",
+          "city": "Lambesc",
+          "swift_code": "AGRIFRPPLBC"
+        },
+        {
+          "branch_name": "Langon",
+          "city": "Langon",
+          "swift_code": "AGRIFRPPLGN"
+        },
+        {
+          "branch_name": "52200 Langres",
+          "city": "Langres",
+          "swift_code": "AGRIFRPPLAN"
+        },
+        {
+          "branch_name": "Lannion",
+          "city": "Lannion",
+          "swift_code": "AGRIFRPPLNN"
+        },
+        {
+          "branch_name": "02014 Laon Cedex",
+          "city": "Laon",
+          "swift_code": "AGRIFRPPLAO"
+        },
+        {
+          "branch_name": "Laragne Monteglin",
+          "city": "Laragne Monteglin",
+          "swift_code": "AGRIFRPPLMO"
+        },
+        {
+          "branch_name": "34970 Lattes",
+          "city": "Lattes",
+          "swift_code": "AGRIFRPP835"
+        },
+        {
+          "branch_name": "53 Laval",
+          "city": "Laval",
+          "swift_code": "AGRIFRPPLAV"
+        },
+        {
+          "branch_name": "Lavelanet",
+          "city": "Lavelanet",
+          "swift_code": "AGRIFRPPLVT"
+        },
+        {
+          "branch_name": "Le Blanc Mesnil",
+          "city": "Le Blanc Mesnil",
+          "swift_code": "AGRIFRPPBLM"
+        },
+        {
+          "branch_name": "Le Bourget",
+          "city": "Le Bourget",
+          "swift_code": "AGRIFRPPBGT"
+        },
+        {
+          "branch_name": "Le Cheylard",
+          "city": "Le Cheylard",
+          "swift_code": "AGRIFRPPCEY"
+        },
+        {
+          "branch_name": "Le Havre",
+          "city": "Le Havre",
+          "swift_code": "AGRIFRPPHAV"
+        },
+        {
+          "branch_name": "Le Creusot",
+          "city": "Le Creusot",
+          "swift_code": "AGRIFRPPLEU"
+        },
+        {
+          "branch_name": "72000 Le Mans",
+          "city": "Le Mans",
+          "swift_code": "AGRIFRPP879"
+        },
+        {
+          "branch_name": "Le Lavandou",
+          "city": "Le Lavandou",
+          "swift_code": "AGRIFRPPLLA"
+        },
+        {
+          "branch_name": "Marne La Vallee",
+          "city": "Marne La Vallee",
+          "swift_code": "AGRIFRPPMVA"
+        },
+        {
+          "branch_name": "Marseille",
+          "city": "Marseille",
+          "swift_code": "AGRIFRPPMAR"
+        },
+        {
+          "branch_name": "Martigues",
+          "city": "Martigues",
+          "swift_code": "AGRIFRPPMTS"
+        },
+        {
+          "branch_name": "Maubeuge",
+          "city": "Maubeuge",
+          "swift_code": "AGRIFRPPMAU"
+        },
+        {
+          "branch_name": "Mauleon Barousse",
+          "city": "Mauleon Barousse",
+          "swift_code": "AGRIFRPPMAB"
+        },
+        {
+          "branch_name": "Massy",
+          "city": "Massy",
+          "swift_code": "AGRIFRPPMAS"
+        },
+        {
+          "branch_name": "Mayenne",
+          "city": "Mayenne",
+          "swift_code": "AGRIFRPPMAY"
+        },
+        {
+          "branch_name": "Mazamet",
+          "city": "Mazamet",
+          "swift_code": "AGRIFRPPMAZ"
+        },
+        {
+          "branch_name": "Meaux",
+          "city": "Meaux",
+          "swift_code": "AGRIFRPPMEA"
+        },
+        {
+          "branch_name": "Megeve",
+          "city": "Megeve",
+          "swift_code": "AGRIFRPPMEG"
+        },
+        {
+          "branch_name": "Melun",
+          "city": "Melun",
+          "swift_code": "AGRIFRPPMEL"
+        },
+        {
+          "branch_name": "Menton",
+          "city": "Menton",
+          "swift_code": "AGRIFRPPMEN"
+        },
+        {
+          "branch_name": "Mende",
+          "city": "Mende",
+          "swift_code": "AGRIFRPPMED"
+        },
+        {
+          "branch_name": "Credit Agricole Titres",
+          "city": "Mer",
+          "swift_code": "AGRIFRPP907"
+        },
+        {
+          "branch_name": "Meribel",
+          "city": "Meribel",
+          "swift_code": "AGRIFRPPMEI"
+        },
+        {
+          "branch_name": "Meribel Les Allues",
+          "city": "Meribel Les Allues",
+          "swift_code": "AGRIFRPPMER"
+        },
+        {
+          "branch_name": "Meru",
+          "city": "Meru",
+          "swift_code": "AGRIFRPPMUE"
+        },
+        {
+          "branch_name": "57000 Metz",
+          "city": "Metz",
+          "swift_code": "AGRIFRPP861"
+        },
+        {
+          "branch_name": "Meursault",
+          "city": "Meursault",
+          "swift_code": "AGRIFRPPMEU"
+        },
+        {
+          "branch_name": "Meylan",
+          "city": "Meylan",
+          "swift_code": "AGRIFRPPMEY"
+        },
+        {
+          "branch_name": "Nimes",
+          "city": "Nimes",
+          "swift_code": "AGRIFRPPNIM"
+        },
+        {
+          "branch_name": "Nogent Sur Seine",
+          "city": "Nogent Sur Seine",
+          "swift_code": "AGRIFRPPNOG"
+        },
+        {
+          "branch_name": "Noisiel",
+          "city": "Noisiel",
+          "swift_code": "AGRIFRPPNOI"
+        },
+        {
+          "branch_name": "Noisy Le Grand",
+          "city": "Noisy Le Grand",
+          "swift_code": "AGRIFRPPNLG"
+        },
+        {
+          "branch_name": "Noyon",
+          "city": "Noyon",
+          "swift_code": "AGRIFRPPNOY"
+        },
+        {
+          "branch_name": "Nuits Saint Georges",
+          "city": "Nuits Saint Georges",
+          "swift_code": "AGRIFRPPNUI"
+        },
+        {
+          "branch_name": "Obernai",
+          "city": "Obernai",
+          "swift_code": "AGRIFRPPOBN"
+        },
+        {
+          "branch_name": "Orange",
+          "city": "Orange",
+          "swift_code": "AGRIFRPPORA"
+        },
+        {
+          "branch_name": "Oullins",
+          "city": "Oullins",
+          "swift_code": "AGRIFRPPOUL"
+        },
+        {
+          "branch_name": "Oyonnax",
+          "city": "Oyonnax",
+          "swift_code": "AGRIFRPPOYX"
+        },
+        {
+          "branch_name": "Pamiers",
+          "city": "Pamiers",
+          "swift_code": "AGRIFRPPPAI"
+        },
+        {
+          "branch_name": "Pantin",
+          "city": "Pantin",
+          "swift_code": "AGRIFRPPPAN"
+        },
+        {
+          "branch_name": "Paray Le Monial",
+          "city": "Paray Le Monial",
+          "swift_code": "AGRIFRPPPLM"
+        },
+        {
+          "branch_name": "Pauillac",
+          "city": "Pauillac",
+          "swift_code": "AGRIFRPPPAU"
+        },
+        {
+          "branch_name": "Paris Ile-de-france Branch",
+          "city": "Paris",
+          "swift_code": "AGRIFRPP882"
+        },
+        {
+          "branch_name": "Cls Settlement Business",
+          "city": "Paris",
+          "swift_code": "AGRIFRPPCLS"
+        },
+        {
+          "branch_name": "Peage De Roussillon",
+          "city": "Peage De Roussillon",
+          "swift_code": "AGRIFRPPRIN"
+        },
+        {
+          "branch_name": "Perigueux",
+          "city": "Perigueux",
+          "swift_code": "AGRIFRPPPER"
+        },
+        {
+          "branch_name": "Pertuis",
+          "city": "Pertuis",
+          "swift_code": "AGRIFRPPPTS"
+        },
+        {
+          "branch_name": "Pezenas",
+          "city": "Pezenas",
+          "swift_code": "AGRIFRPPPEZ"
+        },
+        {
+          "branch_name": "Montpellier",
+          "city": "Montpellier",
+          "swift_code": "AGRIFRPPMPL"
+        },
+        {
+          "branch_name": "Montrejeau",
+          "city": "Montrejeau",
+          "swift_code": "AGRIFRPPMON"
+        },
+        {
+          "branch_name": "Montreuil",
+          "city": "Montreuil",
+          "swift_code": "AGRIFRPPMTR"
+        },
+        {
+          "branch_name": "Montreuil Sur Mer",
+          "city": "Montreuil Sur Mer",
+          "swift_code": "AGRIFRPPMOM"
+        },
+        {
+          "branch_name": "Montrouge",
+          "city": "Montrouge",
+          "swift_code": "AGRIFRPPMRG"
+        },
+        {
+          "branch_name": "Morlaix",
+          "city": "Morlaix",
+          "swift_code": "AGRIFRPPMOX"
+        },
+        {
+          "branch_name": "Mortagne Au Perche",
+          "city": "Mortagne Au Perche",
+          "swift_code": "AGRIFRPPMOE"
+        },
+        {
+          "branch_name": "03 Moulins Sur Allier",
+          "city": "Moulins Sur Allier",
+          "swift_code": "AGRIFRPPMLS"
+        },
+        {
+          "branch_name": "Mulhouse",
+          "city": "Mulhouse",
+          "swift_code": "AGRIFRPPMUL"
+        },
+        {
+          "branch_name": "Muret",
+          "city": "Muret",
+          "swift_code": "AGRIFRPPMET"
+        },
+        {
+          "branch_name": "Nancy",
+          "city": "Nancy",
+          "swift_code": "AGRIFRPPNAN"
+        },
+        {
+          "branch_name": "Nangis",
+          "city": "Nangis",
+          "swift_code": "AGRIFRPPNAI"
+        },
+        {
+          "branch_name": "Nanterre",
+          "city": "Nanterre",
+          "swift_code": "AGRIFRPPNTE"
+        },
+        {
+          "branch_name": "44000 Nantes",
+          "city": "Nantes",
+          "swift_code": "AGRIFRPP847"
+        },
+        {
+          "branch_name": "Narbonne",
+          "city": "Narbonne",
+          "swift_code": "AGRIFRPPNAR"
+        },
+        {
+          "branch_name": "Nemours",
+          "city": "Nemours",
+          "swift_code": "AGRIFRPPNEM"
+        },
+        {
+          "branch_name": "Neufchatel En Bray",
+          "city": "Neufchatel En Bray",
+          "swift_code": "AGRIFRPPNEB"
+        },
+        {
+          "branch_name": "Neuilly Sur Seine",
+          "city": "Neuilly Sur Seine",
+          "swift_code": "AGRIFRPPNEU"
+        },
+        {
+          "branch_name": "Nevers",
+          "city": "Nevers",
+          "swift_code": "AGRIFRPPNEV"
+        },
+        {
+          "branch_name": "Nice",
+          "city": "Nice",
+          "swift_code": "AGRIFRPPNIC"
+        },
+        {
+          "branch_name": "Sud Rhone Alpes Branch",
+          "city": "Meyzieu",
+          "swift_code": "AGRIFRPPMEZ"
+        },
+        {
+          "branch_name": "Centre-est Branch",
+          "city": "Meyzieu",
+          "swift_code": "AGRIFRPPMZU"
+        },
+        {
+          "branch_name": "Millau",
+          "city": "Millau",
+          "swift_code": "AGRIFRPPMIL"
+        },
+        {
+          "branch_name": "Miramas",
+          "city": "Miramas",
+          "swift_code": "AGRIFRPPMIS"
+        },
+        {
+          "branch_name": "Mirecourt",
+          "city": "Mirecourt",
+          "swift_code": "AGRIFRPPMIR"
+        },
+        {
+          "branch_name": "Mitry Mory",
+          "city": "Mitry Mory",
+          "swift_code": "AGRIFRPPMYM"
+        },
+        {
+          "branch_name": "Mont De Marsan",
+          "city": "Mont De Marsan",
+          "swift_code": "AGRIFRPPMDM"
+        },
+        {
+          "branch_name": "Modane",
+          "city": "Modane",
+          "swift_code": "AGRIFRPPMOD"
+        },
+        {
+          "branch_name": "Molsheim",
+          "city": "Molsheim",
+          "swift_code": "AGRIFRPPMOL"
+        },
+        {
+          "branch_name": "Montaigu",
+          "city": "Montaigu",
+          "swift_code": "AGRIFRPPMOA"
+        },
+        {
+          "branch_name": "Monistrol Sur Loire",
+          "city": "Monistrol Sur Loire",
+          "swift_code": "AGRIFRPPMOI"
+        },
+        {
+          "branch_name": "Montargis",
+          "city": "Montargis",
+          "swift_code": "AGRIFRPPMTG"
+        },
+        {
+          "branch_name": "82000 Montauban",
+          "city": "Montauban",
+          "swift_code": "AGRIFRPPTTB"
+        },
+        {
+          "branch_name": "Montbeliard",
+          "city": "Montbeliard",
+          "swift_code": "AGRIFRPPMOT"
+        },
+        {
+          "branch_name": "Montelimar",
+          "city": "Montelimar",
+          "swift_code": "AGRIFRPPMOR"
+        },
+        {
+          "branch_name": "Monteux",
+          "city": "Monteux",
+          "swift_code": "AGRIFRPPMTX"
+        },
+        {
+          "branch_name": "Montereau",
+          "city": "Montereau",
+          "swift_code": "AGRIFRPPMTE"
+        },
+        {
+          "branch_name": "Montfavet",
+          "city": "Montfavet",
+          "swift_code": "AGRIFRPPMTF"
+        },
+        {
+          "branch_name": "Montlucon",
+          "city": "Montlucon",
+          "swift_code": "AGRIFRPPMLU"
+        },
+        {
+          "branch_name": "Montluel",
+          "city": "Montluel",
+          "swift_code": "AGRIFRPPMOU"
+        },
+        {
+          "branch_name": "66100 Perpignan",
+          "city": "Perpignan",
+          "swift_code": "AGRIFRPP871"
+        },
+        {
+          "branch_name": "Plan De Cuques",
+          "city": "Plan De Cuques",
+          "swift_code": "AGRIFRPPPDU"
+        },
+        {
+          "branch_name": "Pithiviers",
+          "city": "Pithiviers",
+          "swift_code": "AGRIFRPPPIT"
+        },
+        {
+          "branch_name": "Ploermel",
+          "city": "Ploermel",
+          "swift_code": "AGRIFRPPPLO"
+        },
+        {
+          "branch_name": "Ploufragan",
+          "city": "Ploufragan",
+          "swift_code": "AGRIFRPPPFA"
+        },
+        {
+          "branch_name": "Poissy",
+          "city": "Poissy",
+          "swift_code": "AGRIFRPPPOI"
+        },
+        {
+          "branch_name": "86000 Poitiers",
+          "city": "Poitiers",
+          "swift_code": "AGRIFRPP894"
+        },
+        {
+          "branch_name": "Pont A Mousson",
+          "city": "Pont A Mousson",
+          "swift_code": "AGRIFRPPPAM"
+        },
+        {
+          "branch_name": "Centre-est Branch",
+          "city": "Pont De Cheruy",
+          "swift_code": "AGRIFRPPPCU"
+        },
+        {
+          "branch_name": "Sud Rhone Alpes Branch",
+          "city": "Pont De Cheruy",
+          "swift_code": "AGRIFRPPPCY"
+        },
+        {
+          "branch_name": "Pont De Beauvoisin",
+          "city": "Pont De Beauvoisin",
+          "swift_code": "AGRIFRPPPBV"
+        },
+        {
+          "branch_name": "Pontcharra",
+          "city": "Pontcharra",
+          "swift_code": "AGRIFRPPPON"
+        },
+        {
+          "branch_name": "Pont De Claix",
+          "city": "Pont De Claix",
+          "swift_code": "AGRIFRPPPDC"
+        },
+        {
+          "branch_name": "Prades",
+          "city": "Prades",
+          "swift_code": "AGRIFRPPPRA"
+        },
+        {
+          "branch_name": "Pontorson",
+          "city": "Pontorson",
+          "swift_code": "AGRIFRPPPSO"
+        },
+        {
+          "branch_name": "Provins",
+          "city": "Provins",
+          "swift_code": "AGRIFRPPPRO"
+        },
+        {
+          "branch_name": "Pouilly Sur Loire",
+          "city": "Pouilly Sur Loire",
+          "swift_code": "AGRIFRPPPOU"
+        },
+        {
+          "branch_name": "Puget Sur Argens",
+          "city": "Puget Sur Argens",
+          "swift_code": "AGRIFRPPPUG"
+        },
+        {
+          "branch_name": "07000 Privas",
+          "city": "Privas",
+          "swift_code": "AGRIFRPPPRI"
+        },
+        {
+          "branch_name": "Pujols",
+          "city": "Pujols",
+          "swift_code": "AGRIFRPPPUJ"
+        },
+        {
+          "branch_name": "Saint Andre De Cubzac",
+          "city": "Saint Andre De Cubzac",
+          "swift_code": "AGRIFRPPSAZ"
+        },
+        {
+          "branch_name": "Saint Bonnet En Champsaur",
+          "city": "Saint Bonnet En Champsaur",
+          "swift_code": "AGRIFRPPSBC"
+        },
+        {
+          "branch_name": "Saint Brieuc",
+          "city": "Saint Brieuc",
+          "swift_code": "AGRIFRPP822"
+        },
+        {
+          "branch_name": "Saint Cere",
+          "city": "Saint Cere",
+          "swift_code": "AGRIFRPPSAC"
+        },
+        {
+          "branch_name": "Saint Avold",
+          "city": "Saint Avold",
+          "swift_code": "AGRIFRPPSTA"
+        },
+        {
+          "branch_name": "Saint Christophe En Brionnais",
+          "city": "Saint Christophe En Brionnais",
+          "swift_code": "AGRIFRPPSCB"
+        },
+        {
+          "branch_name": "Saint Denis",
+          "city": "Saint Denis",
+          "swift_code": "AGRIFRPPSDN"
+        },
+        {
+          "branch_name": "Saint Die",
+          "city": "Saint Die",
+          "swift_code": "AGRIFRPPSTD"
+        },
+        {
+          "branch_name": "Saint Dizier",
+          "city": "Saint Dizier",
+          "swift_code": "AGRIFRPPSDZ"
+        },
+        {
+          "branch_name": "Saint Emilion",
+          "city": "Saint Emilion",
+          "swift_code": "AGRIFRPPSEL"
+        },
+        {
+          "branch_name": "Saint Egreve",
+          "city": "Saint Egreve",
+          "swift_code": "AGRIFRPPSEG"
+        },
+        {
+          "branch_name": "42000 Saint Etienne",
+          "city": "Saint Etienne",
+          "swift_code": "AGRIFRPP845"
+        },
+        {
+          "branch_name": "Saint Gaudens",
+          "city": "Saint Gaudens",
+          "swift_code": "AGRIFRPPSGS"
+        },
+        {
+          "branch_name": "Saint Gilles Croix De Vie",
+          "city": "Saint Gilles Croix De Vie",
+          "swift_code": "AGRIFRPPSGV"
+        },
+        {
+          "branch_name": "Saint Germain En Laye",
+          "city": "Saint Germain En Laye",
+          "swift_code": "AGRIFRPPSGL"
+        },
+        {
+          "branch_name": "Saint Girons",
+          "city": "Saint Girons",
+          "swift_code": "AGRIFRPPCGR"
+        },
+        {
+          "branch_name": "Saint Hilaire Du Harcouet",
+          "city": "Saint Hilaire Du Harcouet",
+          "swift_code": "AGRIFRPPSHH"
+        },
+        {
+          "branch_name": "Saint Jean En Royans",
+          "city": "Saint Jean En Royans",
+          "swift_code": "AGRIFRPPSJR"
+        },
+        {
+          "branch_name": "Saint Jean De Luz",
+          "city": "Saint Jean De Luz",
+          "swift_code": "AGRIFRPPLUZ"
+        },
+        {
+          "branch_name": "Saint Jean Pied De Port",
+          "city": "Saint Jean Pied De Port",
+          "swift_code": "AGRIFRPPSJP"
+        },
+        {
+          "branch_name": "Puteaux",
+          "city": "Puteaux",
+          "swift_code": "AGRIFRPPPTX"
+        },
+        {
+          "branch_name": "29000 Quimper",
+          "city": "Quimper",
+          "swift_code": "AGRIFRPP829"
+        },
+        {
+          "branch_name": "Redon",
+          "city": "Redon",
+          "swift_code": "AGRIFRPPRED"
+        },
+        {
+          "branch_name": "51088 Reims Cedex",
+          "city": "Reims",
+          "swift_code": "AGRIFRPP802"
+        },
+        {
+          "branch_name": "Revel",
+          "city": "Revel",
+          "swift_code": "AGRIFRPPREL"
+        },
+        {
+          "branch_name": "35000 Rennes",
+          "city": "Rennes",
+          "swift_code": "AGRIFRPP836"
+        },
+        {
+          "branch_name": "Riom",
+          "city": "Riom",
+          "swift_code": "AGRIFRPPRIO"
+        },
+        {
+          "branch_name": "Rivesaltes",
+          "city": "Rivesaltes",
+          "swift_code": "AGRIFRPPRIV"
+        },
+        {
+          "branch_name": "Roanne",
+          "city": "Roanne",
+          "swift_code": "AGRIFRPPROA"
+        },
+        {
+          "branch_name": "Rodez",
+          "city": "Rodez",
+          "swift_code": "AGRIFRPPROD"
+        },
+        {
+          "branch_name": "Roissy En France",
+          "city": "Roissy En France",
+          "swift_code": "AGRIFRPPROI"
+        },
+        {
+          "branch_name": "Roissy En Brie",
+          "city": "Roissy En Brie",
+          "swift_code": "AGRIFRPPROE"
+        },
+        {
+          "branch_name": "Romans Sur Isere",
+          "city": "Romans Sur Isere",
+          "swift_code": "AGRIFRPPRSI"
+        },
+        {
+          "branch_name": "Rosny Sous Bois",
+          "city": "Rosny Sous Bois",
+          "swift_code": "AGRIFRPPRSB"
+        },
+        {
+          "branch_name": "Roubaix",
+          "city": "Roubaix",
+          "swift_code": "AGRIFRPPROU"
+        },
+        {
+          "branch_name": "Rouen",
+          "city": "Rouen",
+          "swift_code": "AGRIFRPP883"
+        },
+        {
+          "branch_name": "Rueil Malmaison",
+          "city": "Rueil Malmaison",
+          "swift_code": "AGRIFRPPRUM"
+        },
+        {
+          "branch_name": "Rungis",
+          "city": "Rungis",
+          "swift_code": "AGRIFRPPRUN"
+        },
+        {
+          "branch_name": "Saint Ambroix",
+          "city": "Saint Ambroix",
+          "swift_code": "AGRIFRPPSAB"
+        },
+        {
+          "branch_name": "Saint Affrique",
+          "city": "Saint Affrique",
+          "swift_code": "AGRIFRPPSAF"
+        },
+        {
+          "branch_name": "Saint Laurent Du Var",
+          "city": "Saint Laurent Du Var",
+          "swift_code": "AGRIFRPPSLV"
+        },
+        {
+          "branch_name": "Saint Jean De Maurienne",
+          "city": "Saint Jean De Maurienne",
+          "swift_code": "AGRIFRPPSJM"
+        },
+        {
+          "branch_name": "Saint Leu La Foret",
+          "city": "Saint Leu La Foret",
+          "swift_code": "AGRIFRPPSLF"
+        },
+        {
+          "branch_name": "Alsace Branch",
+          "city": "Saint Louis",
+          "swift_code": "AGRIFRPPSAL"
+        },
+        {
+          "branch_name": "Saint Mande",
+          "city": "Saint Mande",
+          "swift_code": "AGRIFRPPSMT"
+        },
+        {
+          "branch_name": "Saint Malo",
+          "city": "Saint Malo",
+          "swift_code": "AGRIFRPPSMR"
+        },
+        {
+          "branch_name": "Saint Marcellin",
+          "city": "Saint Marcellin",
+          "swift_code": "AGRIFRPPSMN"
+        },
+        {
+          "branch_name": "Saint Martin Dheres",
+          "city": "Saint Martin Dheres",
+          "swift_code": "AGRIFRPPSMH"
+        },
+        {
+          "branch_name": "Saint Martin De Crau",
+          "city": "Saint Martin De Crau",
+          "swift_code": "AGRIFRPPSMC"
+        },
+        {
+          "branch_name": "Saint Maur Des Fosses (le Parc)",
+          "city": "Saint Maur Des Fosses (Le Parc)",
+          "swift_code": "AGRIFRPPPSM"
+        },
+        {
+          "branch_name": "Saint Nazaire",
+          "city": "Saint Nazaire",
+          "swift_code": "AGRIFRPPNAZ"
+        },
+        {
+          "branch_name": "Saint Mihiel",
+          "city": "Saint Mihiel",
+          "swift_code": "AGRIFRPPSMI"
+        },
+        {
+          "branch_name": "Saint Omer",
+          "city": "Saint Omer",
+          "swift_code": "AGRIFRPPSTO"
+        },
+        {
+          "branch_name": "Saint Ouen",
+          "city": "Saint Ouen",
+          "swift_code": "AGRIFRPPSAO"
+        },
+        {
+          "branch_name": "Saint Peray",
+          "city": "Saint Peray",
+          "swift_code": "AGRIFRPPSAY"
+        },
+        {
+          "branch_name": "Saint Pol De Leon",
+          "city": "Saint Pol De Leon",
+          "swift_code": "AGRIFRPPPOL"
+        },
+        {
+          "branch_name": "Saint Priest",
+          "city": "Saint Priest",
+          "swift_code": "AGRIFRPPSPT"
+        },
+        {
+          "branch_name": "Saint Quentin",
+          "city": "Saint Quentin",
+          "swift_code": "AGRIFRPPSTQ"
+        },
+        {
+          "branch_name": "Saint Quentin En Yvelines",
+          "city": "Saint Quentin En Yvelines",
+          "swift_code": "AGRIFRPPSQY"
+        },
+        {
+          "branch_name": "Saint Quentin Fallavier",
+          "city": "Saint Quentin Fallavier",
+          "swift_code": "AGRIFRPPSQF"
+        },
+        {
+          "branch_name": "Saint Rambert Dalbon",
+          "city": "Saint Rambert Dalbon",
+          "swift_code": "AGRIFRPPSRA"
+        },
+        {
+          "branch_name": "Saint Raphael",
+          "city": "Saint Raphael",
+          "swift_code": "AGRIFRPPSTR"
+        },
+        {
+          "branch_name": "Saint Remy De Provence",
+          "city": "Saint Remy De Provence",
+          "swift_code": "AGRIFRPPSRP"
+        },
+        {
+          "branch_name": "Saint Tropez",
+          "city": "Saint Tropez",
+          "swift_code": "AGRIFRPPSTP"
+        },
+        {
+          "branch_name": "Saint Vivien De Medoc",
+          "city": "Saint Vivien De Medoc",
+          "swift_code": "AGRIFRPPSVV"
+        },
+        {
+          "branch_name": "Sainte Maxime",
+          "city": "Sainte Maxime",
+          "swift_code": "AGRIFRPPSTM"
+        },
+        {
+          "branch_name": "Sainte Foy La Grande",
+          "city": "Sainte Foy La Grande",
+          "swift_code": "AGRIFRPPSFG"
+        },
+        {
+          "branch_name": "17117 Saintes",
+          "city": "Saintes",
+          "swift_code": "AGRIFRPP817"
+        },
+        {
+          "branch_name": "Salon De Provence",
+          "city": "Salon De Provence",
+          "swift_code": "AGRIFRPPSDP"
+        },
+        {
+          "branch_name": "Sanary",
+          "city": "Sanary",
+          "swift_code": "AGRIFRPPSNY"
+        },
+        {
+          "branch_name": "Sancerre",
+          "city": "Sancerre",
+          "swift_code": "AGRIFRPPSAE"
+        },
+        {
+          "branch_name": "Sarre Union",
+          "city": "Sarre Union",
+          "swift_code": "AGRIFRPPSUN"
+        },
+        {
+          "branch_name": "Sarlat",
+          "city": "Sarlat",
+          "swift_code": "AGRIFRPPSAA"
+        },
+        {
+          "branch_name": "Sannois",
+          "city": "Sannois",
+          "swift_code": "AGRIFRPPSAN"
+        },
+        {
+          "branch_name": "Sarrebourg",
+          "city": "Sarrebourg",
+          "swift_code": "AGRIFRPPSRB"
+        },
+        {
+          "branch_name": "Sauveterre De Guyenne",
+          "city": "Sauveterre De Guyenne",
+          "swift_code": "AGRIFRPPSGE"
+        },
+        {
+          "branch_name": "Sarreguemines",
+          "city": "Sarreguemines",
+          "swift_code": "AGRIFRPPSAR"
+        },
+        {
+          "branch_name": "Sartrouville",
+          "city": "Sartrouville",
+          "swift_code": "AGRIFRPPSAT"
+        },
+        {
+          "branch_name": "Saumur",
+          "city": "Saumur",
+          "swift_code": "AGRIFRPPSAU"
+        },
+        {
+          "branch_name": "Saverne",
+          "city": "Saverne",
+          "swift_code": "AGRIFRPPSAV"
+        },
+        {
+          "branch_name": "Targon",
+          "city": "Targon",
+          "swift_code": "AGRIFRPPTAR"
+        },
+        {
+          "branch_name": "Thiers",
+          "city": "Thiers",
+          "swift_code": "AGRIFRPPTHI"
+        },
+        {
+          "branch_name": "Thionville",
+          "city": "Thionville",
+          "swift_code": "AGRIFRPPTHV"
+        },
+        {
+          "branch_name": "Thann",
+          "city": "Thann",
+          "swift_code": "AGRIFRPPTHN"
+        },
+        {
+          "branch_name": "Tignes",
+          "city": "Tignes",
+          "swift_code": "AGRIFRPPTIG"
+        },
+        {
+          "branch_name": "Thonon Les Bains",
+          "city": "Thonon Les Bains",
+          "swift_code": "AGRIFRPPTLB"
+        },
+        {
+          "branch_name": "Torcy",
+          "city": "Torcy",
+          "swift_code": "AGRIFRPPMLV"
+        },
+        {
+          "branch_name": "Toul",
+          "city": "Toul",
+          "swift_code": "AGRIFRPPTOL"
+        },
+        {
+          "branch_name": "Toulon",
+          "city": "Toulon",
+          "swift_code": "AGRIFRPPTLN"
+        },
+        {
+          "branch_name": "31005 Toulouse",
+          "city": "Toulouse",
+          "swift_code": "AGRIFRPP831"
+        },
+        {
+          "branch_name": "Tourcoing",
+          "city": "Tourcoing",
+          "swift_code": "AGRIFRPPTRG"
+        },
+        {
+          "branch_name": "Tournon",
+          "city": "Tournon",
+          "swift_code": "AGRIFRPPTNN"
+        },
+        {
+          "branch_name": "Tournus",
+          "city": "Tournus",
+          "swift_code": "AGRIFRPPTNS"
+        },
+        {
+          "branch_name": "Tours",
+          "city": "Tours",
+          "swift_code": "AGRIFRPPTOU"
+        },
+        {
+          "branch_name": "Trets",
+          "city": "Trets",
+          "swift_code": "AGRIFRPPTRT"
+        },
+        {
+          "branch_name": "Trouville Sur Mer",
+          "city": "Trouville Sur Mer",
+          "swift_code": "AGRIFRPPTRM"
+        },
+        {
+          "branch_name": "19000 Tulle",
+          "city": "Tulle",
+          "swift_code": "AGRIFRPPTUL"
+        },
+        {
+          "branch_name": "Vaison La Romaine",
+          "city": "Vaison La Romaine",
+          "swift_code": "AGRIFRPPVLR"
+        },
+        {
+          "branch_name": "Uzes",
+          "city": "Uzes",
+          "swift_code": "AGRIFRPPUZE"
+        },
+        {
+          "branch_name": "Val Disere",
+          "city": "Val Disere",
+          "swift_code": "AGRIFRPPVAI"
+        },
+        {
+          "branch_name": "Sceaux",
+          "city": "Sceaux",
+          "swift_code": "AGRIFRPPSCE"
+        },
+        {
+          "branch_name": "Seclin",
+          "city": "Seclin",
+          "swift_code": "AGRIFRPPSEC"
+        },
+        {
+          "branch_name": "Sedan",
+          "city": "Sedan",
+          "swift_code": "AGRIFRPPSED"
+        },
+        {
+          "branch_name": "Senlis",
+          "city": "Senlis",
+          "swift_code": "AGRIFRPPSLS"
+        },
+        {
+          "branch_name": "Selestat",
+          "city": "Selestat",
+          "swift_code": "AGRIFRPPSLT"
+        },
+        {
+          "branch_name": "Sens",
+          "city": "Sens",
+          "swift_code": "AGRIFRPPSEN"
+        },
+        {
+          "branch_name": "Sete",
+          "city": "Sete",
+          "swift_code": "AGRIFRPPSET"
+        },
+        {
+          "branch_name": "Sevres",
+          "city": "Sevres",
+          "swift_code": "AGRIFRPPSEV"
+        },
+        {
+          "branch_name": "Soissons",
+          "city": "Soissons",
+          "swift_code": "AGRIFRPPSOS"
+        },
+        {
+          "branch_name": "Six Fours",
+          "city": "Six Fours",
+          "swift_code": "AGRIFRPPSIX"
+        },
+        {
+          "branch_name": "Souillac",
+          "city": "Souillac",
+          "swift_code": "AGRIFRPPSOU"
+        },
+        {
+          "branch_name": "Seyssinet Pariset",
+          "city": "Seyssinet Pariset",
+          "swift_code": "AGRIFRPPSEP"
+        },
+        {
+          "branch_name": "Sorgues",
+          "city": "Sorgues",
+          "swift_code": "AGRIFRPPSOR"
+        },
+        {
+          "branch_name": "16800 Soyaux",
+          "city": "Soyaux",
+          "swift_code": "AGRIFRPP824"
+        },
+        {
+          "branch_name": "67000 Strasbourg",
+          "city": "Strasbourg",
+          "swift_code": "AGRIFRPP872"
+        },
+        {
+          "branch_name": "Suresnes",
+          "city": "Suresnes",
+          "swift_code": "AGRIFRPPSUR"
+        },
+        {
+          "branch_name": "65000 Tarbes",
+          "city": "Tarbes",
+          "swift_code": "AGRIFRPP869"
+        },
+        {
+          "branch_name": "Tassin La Demi Lune",
+          "city": "Tassin La Demi Lune",
+          "swift_code": "AGRIFRPPTAS"
+        },
+        {
+          "branch_name": "Sud Rhone Alpes Branch",
+          "city": "Tain Lhermitage",
+          "swift_code": "AGRIFRPPTAE"
+        },
+        {
+          "branch_name": "Centre-est Branch",
+          "city": "Tain Lhermitage",
+          "swift_code": "AGRIFRPPTAH"
+        },
+        {
+          "branch_name": "10000 Troyes",
+          "city": "Troyes",
+          "swift_code": "AGRIFRPP810"
+        },
+        {
+          "branch_name": "Ussel",
+          "city": "Ussel",
+          "swift_code": "AGRIFRPPUSS"
+        },
+        {
+          "branch_name": "Val Thorens",
+          "city": "Val Thorens",
+          "swift_code": "AGRIFRPPVTH"
+        },
+        {
+          "branch_name": "26000 Valence",
+          "city": "Valence",
+          "swift_code": "AGRIFRPPVAL"
+        },
+        {
+          "branch_name": "Valenciennes",
+          "city": "Valenciennes",
+          "swift_code": "AGRIFRPPVCS"
+        },
+        {
+          "branch_name": "Valognes",
+          "city": "Valognes",
+          "swift_code": "AGRIFRPPVGE"
+        },
+        {
+          "branch_name": "Vallons Pont Darc",
+          "city": "Vallons Pont Darc",
+          "swift_code": "AGRIFRPPVAA"
+        },
+        {
+          "branch_name": "Valreas",
+          "city": "Valreas",
+          "swift_code": "AGRIFRPPVAS"
+        },
+        {
+          "branch_name": "56000 Vannes",
+          "city": "Vannes",
+          "swift_code": "AGRIFRPP860"
+        },
+        {
+          "branch_name": "Vauvert",
+          "city": "Vauvert",
+          "swift_code": "AGRIFRPPVAU"
+        },
+        {
+          "branch_name": "Velizy Villacoublay",
+          "city": "Velizy Villacoublay",
+          "swift_code": "AGRIFRPPVLZ"
+        },
+        {
+          "branch_name": "Verdun",
+          "city": "Verdun",
+          "swift_code": "AGRIFRPPVRN"
+        },
+        {
+          "branch_name": "Vernon",
+          "city": "Vernon",
+          "swift_code": "AGRIFRPPVER"
+        },
+        {
+          "branch_name": "Versailles",
+          "city": "Versailles",
+          "swift_code": "AGRIFRPPVRS"
+        },
+        {
+          "branch_name": "Vesoul",
+          "city": "Vesoul",
+          "swift_code": "AGRIFRPPVES"
+        },
+        {
+          "branch_name": "Vichy",
+          "city": "Vichy",
+          "swift_code": "AGRIFRPPVIC"
+        },
+        {
+          "branch_name": "Vienne",
+          "city": "Vienne",
+          "swift_code": "AGRIFRPPVIE"
+        },
+        {
+          "branch_name": "Veynes",
+          "city": "Veynes",
+          "swift_code": "AGRIFRPPVEY"
+        },
+        {
+          "branch_name": "Vierzon",
+          "city": "Vierzon",
+          "swift_code": "AGRIFRPPVIZ"
+        },
+        {
+          "branch_name": "Villedieu Les Poeles",
+          "city": "Villedieu Les Poeles",
+          "swift_code": "AGRIFRPPVIL"
+        },
+        {
+          "branch_name": "Villefranche",
+          "city": "Villefranche",
+          "swift_code": "AGRIFRPPVIF"
+        },
+        {
+          "branch_name": "Villefranche De Rouergue",
+          "city": "Villefranche De Rouergue",
+          "swift_code": "AGRIFRPPVIR"
+        },
+        {
+          "branch_name": "Villefranche Sur Saone",
+          "city": "Villefranche Sur Saone",
+          "swift_code": "AGRIFRPPVSS"
+        },
+        {
+          "branch_name": "Villenave Dornon",
+          "city": "Villenave Dornon",
+          "swift_code": "AGRIFRPPVVO"
+        },
+        {
+          "branch_name": "Villeneuve Dascq",
+          "city": "Villeneuve Dascq",
+          "swift_code": "AGRIFRPPVDA"
+        },
+        {
+          "branch_name": "Villeneuve Les Avignon",
+          "city": "Villeneuve Les Avignon",
+          "swift_code": "AGRIFRPPVIA"
+        },
+        {
+          "branch_name": "Villeneuve Sur Lot",
+          "city": "Villeneuve Sur Lot",
+          "swift_code": "AGRIFRPPVSL"
+        },
+        {
+          "branch_name": "Villepinte",
+          "city": "Villepinte",
+          "swift_code": "AGRIFRPPVIP"
+        },
+        {
+          "branch_name": "Villerupt",
+          "city": "Villerupt",
+          "swift_code": "AGRIFRPPVIU"
+        },
+        {
+          "branch_name": "Villeurbanne",
+          "city": "Villeurbanne",
+          "swift_code": "AGRIFRPPVBE"
+        },
+        {
+          "branch_name": "Villers Les Nancy",
+          "city": "Villers Les Nancy",
+          "swift_code": "AGRIFRPPVLN"
+        },
+        {
+          "branch_name": "Vincennes",
+          "city": "Vincennes",
+          "swift_code": "AGRIFRPPVIN"
+        },
+        {
+          "branch_name": "Vire",
+          "city": "Vire",
+          "swift_code": "AGRIFRPPVIX"
+        },
+        {
+          "branch_name": "Vitre",
+          "city": "Vitre",
+          "swift_code": "AGRIFRPPVIT"
+        },
+        {
+          "branch_name": "Vitry Le Francois",
+          "city": "Vitry Le Francois",
+          "swift_code": "AGRIFRPPVLF"
+        },
+        {
+          "branch_name": "Vitrolles",
+          "city": "Vitrolles",
+          "swift_code": "AGRIFRPPVTL"
+        },
+        {
+          "branch_name": "Voiron",
+          "city": "Voiron",
+          "swift_code": "AGRIFRPPVOI"
+        },
+        {
+          "branch_name": "Voreppe",
+          "city": "Voreppe",
+          "swift_code": "AGRIFRPPVOR"
+        },
+        {
+          "branch_name": "Wissembourg",
+          "city": "Wissembourg",
+          "swift_code": "AGRIFRPPWSB"
+        },
+        {
+          "branch_name": "Yvetot",
+          "city": "Yvetot",
+          "swift_code": "AGRIFRPPYVE"
+        },
+        {
+          "branch_name": "Saint Lo",
+          "city": "Saint Lo",
+          "swift_code": "AGRIFRPPSLO"
+        },
+        {
+          "branch_name": "Cayenne",
+          "city": "Cayenne",
+          "swift_code": "AGRIGFG1CAY"
+        },
+        {
+          "branch_name": "Kourou",
+          "city": "Kourou",
+          "swift_code": "AGRIGFG1KOU"
+        },
+        {
+          "branch_name": "Saint Laurent Du Maroni",
+          "city": "Saint Laurent Du Maroni",
+          "swift_code": "AGRIGFG1SDM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cayenne",
+          "swift_code": "AGRIGFG1XXX"
+        },
+        {
+          "branch_name": "Basse Terre",
+          "city": "Basse Terre",
+          "swift_code": "AGRIGPGXBTR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Pointe A Pitre",
+          "swift_code": "AGRIGPGXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Mutuel-caisse Federale Antilles Guyane",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fort De France",
+          "swift_code": "CMCIMQM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Martiniquaise De Fint-somafi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Le Lamentin",
+          "swift_code": "SMFSMQM1XXX"
+        }
+      ]
+    }
+  ]
+}

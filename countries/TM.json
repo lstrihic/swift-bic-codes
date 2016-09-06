@@ -1,0 +1,127 @@
+{
+  "country_name": "Turkmenistan",
+  "alpha_2": "TM",
+  "country_code": "795",
+  "banks": [
+    {
+      "bank_name": "Turkmenbashibank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ashkhabad",
+          "swift_code": "INVATM2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Turkmenbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ashkhabad",
+          "swift_code": "TNBKTM2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Turkmen Turkish Joint Stock Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ashkhabad",
+          "swift_code": "TUTCTM2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Commercial Bank 'garashsyzlyk '",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ashkhabad",
+          "swift_code": "STCGTM21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Bank For Foreign Economic Affairs Of Turkmenistan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ashkhabad",
+          "swift_code": "SBFETM22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Senagat Bank Jscb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ashkhabad",
+          "swift_code": "SENBTM22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Savings Bank Of Turkmenistan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ashkhabad",
+          "swift_code": "SATUTM21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Joint-stock Commercial Bank Rysgal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ashkhabad",
+          "swift_code": "RYSGTM2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Halkbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ashkhabad",
+          "swift_code": "HALKTM22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daykhanbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ashkhabad",
+          "swift_code": "BDAYTM22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Turkmenistan, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ashkhabad",
+          "swift_code": "CBTUTM2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "'garagum' Bank International Joint-stok",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ashkhabad",
+          "swift_code": "IGARTM2XXXX"
+        }
+      ]
+    }
+  ]
+}

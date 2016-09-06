@@ -1,0 +1,1527 @@
+{
+  "country_name": "New Zealand",
+  "alpha_2": "NZ",
+  "country_code": "554",
+  "banks": [
+    {
+      "bank_name": "Young And Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Palmerston North",
+          "swift_code": "YOUGNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Woodward Partners Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "WOPSNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wolf Sparkasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "WOLSNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wolf Alliance Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "WOALNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wmg Yovich And Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Whangarei",
+          "swift_code": "WMGYNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Winstanley And Dickson",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Blenheim",
+          "swift_code": "WINKNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rabobank New Zealand Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "RABONZ2WXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "New Zealand Treasury",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "NZTRNZ2WXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "New Zealand Exchange Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "NZXCNZ2WXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Nominees Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "NATANZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercedes-Benz New Zealand Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "DABENZ2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kookmin Bank, Auckland Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "CZNBNZ2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercedes-Benz Financial Services New Zealand Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "DCFSNZ2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kiwibank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "KIWINZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "General Equity Building Society",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "GEBSNZ2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "New Zealand Railways Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "NZRCNZ2WXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Custom House (Nz) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "CHFXNZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Ag, New Zealand Branch",
+      "branches": [
+        {
+          "branch_name": "Funds Management",
+          "city": "Auckland",
+          "swift_code": "DEUTNZ2ACFM"
+        },
+        {
+          "branch_name": "Custodian Services",
+          "city": "Auckland",
+          "swift_code": "DEUTNZ2ANOM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "DEUTNZ2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Na New Zealand Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "CITINZ2XXXX"
+        },
+        {
+          "branch_name": "Wellington",
+          "city": "Wellington",
+          "swift_code": "CITINZ2102W"
+        },
+        {
+          "branch_name": "Co-op",
+          "city": "Auckland",
+          "swift_code": "CITINZ2XCOP"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of India (New Zealand) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "BKIDNZ2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Baroda (New Zeland) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "BARBNZ2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asb Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Cls Payments Only",
+          "city": "Auckland",
+          "swift_code": "ASBBNZ2ACLS"
+        },
+        {
+          "branch_name": "Foreign Exchange",
+          "city": "Auckland",
+          "swift_code": "ASBBNZ2AFXD"
+        },
+        {
+          "branch_name": "Asb Group Investments",
+          "city": "Auckland",
+          "swift_code": "ASBBNZ2AGRI"
+        },
+        {
+          "branch_name": "International Trade Services",
+          "city": "Auckland",
+          "swift_code": "ASBBNZ2AITS"
+        },
+        {
+          "branch_name": "Money Market",
+          "city": "Auckland",
+          "swift_code": "ASBBNZ2AMMD"
+        },
+        {
+          "branch_name": "Securities",
+          "city": "Auckland",
+          "swift_code": "ASBBNZ2ASEC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "ASBBNZ2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Anz National Bank Limited (Formerly Known As: Anz Banking Group (New Zealand) Ltd)",
+      "branches": [
+        {
+          "branch_name": "1 Christchurch",
+          "city": "Christchurch",
+          "swift_code": "ANZBNZ22797"
+        },
+        {
+          "branch_name": "Auckland Central",
+          "city": "Auckland",
+          "swift_code": "ANZBNZ22102"
+        },
+        {
+          "branch_name": "6000 Wellington",
+          "city": "Wellington",
+          "swift_code": "ANZBNZ22058"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "ANZBNZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Westpactrust Securities Nz Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "WTSLNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Overseas Trade Finance",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "OVTFNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Macquarie Securities New Zealand Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "MSNZNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Greenslades Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dunedin",
+          "swift_code": "WIEGNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Baldwin Smith And Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Blenheim",
+          "swift_code": "BALMNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Direct Broking Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "DIRBNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Auckland Savings And Loan Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tauranga",
+          "swift_code": "AUSLNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Devon Funds Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "DEFMNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Securities New Zealand Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "DEUSNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Morgan Grenfell Auckland New Zealand",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "DMGANZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Currency Online Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Christchurch",
+          "swift_code": "CURRNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "County Natwest Securities (new Zealand",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "CNSNNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Continental Finance Group Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mount",
+          "swift_code": "CNFGNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Continental Capital Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tauranga",
+          "swift_code": "CNCTNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Morgan Grenfell Wellington",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "DMGLNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citigroup Global Markets New Zealand Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "SSSANZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Craig And Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tauranga",
+          "swift_code": "CRAINZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Century Bancorp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "CEBNNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cogent Investment Operations",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "COVONZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cc Holdings Financial Services Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "HOGMNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Binary Credit Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "BIRRNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bishop Campbell And Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Timaru",
+          "swift_code": "BISMNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clavell Equities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "CLAENZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brook Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "BRENNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "British American Tobacco (new Zealand) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "BATSNZA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chartered Savings Loan And Trust Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "CSLTNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asia Pacific Financial Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "APFENZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Anz Mccaughan Securities (nz) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "AMCLNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ants International L.p.",
+      "branches": [
+        {
+          "branch_name": "Ants International L.p.",
+          "city": "Auckland",
+          "swift_code": "ANINNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asia Pacific Banking Group Australia And New Zealand",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "APGTNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Allozy Financial Trust",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Christchurch",
+          "swift_code": "ALIUNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Allozy Financial Group Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "ALNUNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ai Credit Finance Limited",
+      "branches": [
+        {
+          "branch_name": "Ai Credit Finance Limited",
+          "city": "Auckland",
+          "swift_code": "CEIINZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Access Brokerage Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "ACCRNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abn Amro Craigs Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "CRGGNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abn Amro Securities Nz Limited.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "ABNANZA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Westpac New Zealand Limited, A Wholly Owned Subsidiary Of Westpac Banking Corporation",
+      "branches": [
+        {
+          "branch_name": "For All New Zealand Branches",
+          "city": "Auckland",
+          "swift_code": "WPACNZ2WXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tsb Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "New Plymouth",
+          "swift_code": "TSBANZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Travelex Gbp Australia Pty Ltd (Nz Branch)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "COOKNZ2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Accident Compensation Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "ACCNNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Safe And Sound Building Society",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "SSBTNZ2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbs (New Zealand) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "ABNANZ2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Reserve Bank Of New Zealand",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "RBNZNZ22XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "RBNZNZ2SXXX"
+        },
+        {
+          "branch_name": "6011 Wellington",
+          "city": "Wellington",
+          "swift_code": "RBNZNZ2WACC"
+        },
+        {
+          "branch_name": "6011 Wellington",
+          "city": "Wellington",
+          "swift_code": "RBNZNZ2WCCY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "RBNZNZ2WXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trade And Merchant Trust Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "TMTCNZ2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Goldman Sachs New Zealand Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "JBWANZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Globalre Insurance Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "GLIUNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Glendinning And Glendinning",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Palmerston North",
+          "swift_code": "GLEGNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Garlick And Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "GARLNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gabites Sinclair And Partners",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ashburton",
+          "swift_code": "GABSNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Forsyth Barr Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dunedin",
+          "swift_code": "FORBNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fonterra Co-operative Group Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "FONTNZ2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Pacific Trust Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "FPTUNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Financial Trust",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lambton",
+          "swift_code": "HECRNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Excelsior Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "FIXCNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fgbc Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Takapuna",
+          "swift_code": "FGCCNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Nz Capital Equities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "FICQNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Egden Wignall And Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Christchurch",
+          "swift_code": "EGDWNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Esam Cushing And Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hastings",
+          "swift_code": "ESAUNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fisher And Paykel Appliances Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "FPNZNZ2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Macquarie Equities New Zealand Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "MACQNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lr Singleton And Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hastings",
+          "swift_code": "SINENZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "London Capital Nz Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "LOAINZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Leveraged Equities Finance Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "LEEFNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Legacy Capital Trust",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "LECTNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lawrence Millton And Howarth",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Christchurch",
+          "swift_code": "LAMHNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "John Chapman",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taupo",
+          "swift_code": "CHAANZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fay, Richwhite And Company Limited",
+      "branches": [
+        {
+          "branch_name": "Auckland",
+          "city": "Auckland",
+          "swift_code": "FAYRNZ2102A"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "FAYRNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jardine Fleming New Zealand Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "JFLENZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dixipay Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "DIXINZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Isc Financial Group Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "ISFGNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investa Securities Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "IVSCNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J. Rothschild Ppg Securities Limite",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "RPSLNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Idlyc Holdings Trust",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamilton",
+          "swift_code": "IDHTNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial And Commercial Bank Of China (new Zealand) Limited",
+      "branches": [
+        {
+          "branch_name": "Industrial And Commercial Bank Of China (new Zealand) Limited",
+          "city": "Auckland",
+          "swift_code": "ICBKNZ2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Harbour Asset Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "HAAMNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hifx Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "HIFXNZ2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hampshire Savings And Loan Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manly",
+          "swift_code": "HASONZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hamilton Hindin Greene",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Christchurch",
+          "swift_code": "HAHGNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Guardians Of New Zealand Superannuation",
+      "branches": [
+        {
+          "branch_name": "Aim-poms Service",
+          "city": "Auckland",
+          "swift_code": "GNZSNZ2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Globalclear Limited",
+      "branches": [
+        {
+          "branch_name": "Clearing System",
+          "city": "Auckland",
+          "swift_code": "GLOLNZ21002"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "GLOLNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Opt Mobile Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "OPMONZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ord Minnett Group Ltd. Wellington",
+      "branches": [
+        {
+          "branch_name": "Auckland",
+          "city": "Auckland",
+          "swift_code": "OMGLNZ2102A"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "OMGLNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nzij Stockbrokers Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "MACENZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nzi Capital Savings Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "NZCANZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Noble And Lee Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Matamata",
+          "swift_code": "NOBLNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gould Steele And Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "GOUSNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "New Zealand Superannuation Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "NZSFNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "New Zealand International Savings And Loan Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Herne Bay",
+          "swift_code": "NZISNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "New Zealand Stock Exchange-auckland",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "XAUKNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "New Zealand International Finance Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "NZIFNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "New Zealand Emission Unit Register",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "NZEUNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Finance Group Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mount",
+          "swift_code": "NAFGNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nike New Zealand Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "NIKENZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Millennium Fixed Income (new Zealand",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "MFIWNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercxyz One Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "MEONNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ultimate Financial Services Lp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "ULFSNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Universal Gold Finance Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "UNGFNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Celestine Group Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "CEGPNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trillion Private Wealth Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "TRPWNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mama Savings Trust Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Papakura",
+          "swift_code": "MAVTNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Munro, Alan Roderick And Walden, Dale Charles",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Timaru",
+          "swift_code": "MUNHNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Milford Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "MIANNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tea Custodians Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "TECDNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Smartshares Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "SMASNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ross, Sinclair And Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ashburton",
+          "swift_code": "RSSSNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Somerset Smith Partners",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Napier",
+          "swift_code": "SOSRNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Greg Mitchell",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Christchurch",
+          "swift_code": "GMITNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rieh Financial Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Papakura",
+          "swift_code": "RIFLNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs New Zealand Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "BUTWNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "R M Story And Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wanganui",
+          "swift_code": "STOYNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Regan And Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "New Plymouth",
+          "swift_code": "REGANZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "New Zealand Futures And Options Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "XNEENZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pmb Investments Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland Auckland",
+          "swift_code": "PMBINZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sovereign American Crown Trust",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "SAORNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Phoenix Software Corporation Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johnsonville",
+          "swift_code": "PSCLNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pb Standard Capital Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "STTPNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pacific Venture Capital Trust",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "PVCTNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Panterra Financial Services, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "PAIRNZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Seamed Finance Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "SENCNZ21XXX"
+        }
+      ]
+    }
+  ]
+}

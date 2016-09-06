@@ -1,0 +1,452 @@
+{
+  "country_name": "Congo",
+  "alpha_2": "CG",
+  "country_code": "178",
+  "banks": [
+    {
+      "bank_name": "Trust Merchant Bank Sarl",
+      "branches": [
+        {
+          "branch_name": "Trust Merchant Bank Sarl",
+          "city": "Kinshasa",
+          "swift_code": "TRMSCD3KXXX"
+        },
+        {
+          "branch_name": "Trust Merchant Bank Sarl",
+          "city": "Lubumbashi",
+          "swift_code": "TRMSCD3LXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Zairoise De Banques",
+      "branches": [
+        {
+          "branch_name": "Union Zairoise De Banques",
+          "city": "Kinshasa",
+          "swift_code": "UZBACDK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Bank For Africa Rdc Sarl",
+      "branches": [
+        {
+          "branch_name": "United Bank For Africa Rdc Sarl",
+          "city": "Kinshasa",
+          "swift_code": "UNAFCDKSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Switap",
+      "branches": [
+        {
+          "branch_name": "Switap",
+          "city": "Lubumbashi",
+          "swift_code": "SWTTCD31XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Bank Rdc Sarl",
+      "branches": [
+        {
+          "branch_name": "Standard Bank Rdc Sarl",
+          "city": "Kinshasa",
+          "swift_code": "SBICCDKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sofibanque Sarl",
+      "branches": [
+        {
+          "branch_name": "Sofibanque Sarl",
+          "city": "Kinshasa",
+          "swift_code": "SFBXCDKIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rawbank",
+      "branches": [
+        {
+          "branch_name": "Rawbank",
+          "city": "Kinshasa",
+          "swift_code": "RAWBCDKIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Procredit Bank Congo Sarl",
+      "branches": [
+        {
+          "branch_name": "Procredit Bank Congo Sarl",
+          "city": "Kinshasa",
+          "swift_code": "PRCBCDKIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "La Cruche Banque Sarl",
+      "branches": [
+        {
+          "branch_name": "La Cruche Banque Sarl",
+          "city": "Butembo",
+          "swift_code": "CBKICD3BXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fransabank (congo) Sarl",
+      "branches": [
+        {
+          "branch_name": "Fransabank (congo) Sarl",
+          "city": "Kinshasa",
+          "swift_code": "FRZSCDK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nouvelle Banque De Kinshasa",
+      "branches": [
+        {
+          "branch_name": "Nouvelle Banque De Kinshasa",
+          "city": "Kinshasa",
+          "swift_code": "BKINCDK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First International Bank Drc",
+      "branches": [
+        {
+          "branch_name": "First International Bank Drc",
+          "city": "Kinshasa",
+          "swift_code": "FIBLCDKIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Republique Democratique Du Congo Sarl",
+      "branches": [
+        {
+          "branch_name": "Ecobank Republique Democratique Du Congo Sarl",
+          "city": "Kinshasa",
+          "swift_code": "ECOCCDKIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Congo",
+      "branches": [
+        {
+          "branch_name": "Citibank Congo",
+          "city": "Kinshasa",
+          "swift_code": "CITICDKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Byblos Bank Rdc",
+      "branches": [
+        {
+          "branch_name": "Byblos Bank Rdc",
+          "city": "Kinshasa",
+          "swift_code": "BYBACDKIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bgfibank Rdc",
+      "branches": [
+        {
+          "branch_name": "Bgfibank Rdc",
+          "city": "Kinshasa",
+          "swift_code": "BGFICDKIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Zairoise Du Commerce Exterieur",
+      "branches": [
+        {
+          "branch_name": "Banque Zairoise Du Commerce Exterieur",
+          "city": "Lubumbashi",
+          "swift_code": "ZAEXCD31XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Internationale Pour L'afrique Au Congo (biac",
+      "branches": [
+        {
+          "branch_name": "Banque Internationale Pour L'afrique Au Congo (biac",
+          "city": "Kinshasa",
+          "swift_code": "BIACCDKIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Internationale De Credit",
+      "branches": [
+        {
+          "branch_name": "Banque Internationale De Credit",
+          "city": "Kinshasa",
+          "swift_code": "BICDCDKIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Du Credit Agricole 'b.c.a.'",
+      "branches": [
+        {
+          "branch_name": "Banque Du Credit Agricole 'b.c.a.'",
+          "city": "Kinshasa",
+          "swift_code": "ACRBCDK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Continentale Africaine (zaire) Sarl",
+      "branches": [
+        {
+          "branch_name": "Banque Continentale Africaine (zaire) Sarl",
+          "city": "Kinshasa",
+          "swift_code": "CLUXCDK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Commerciale Du Congo",
+      "branches": [
+        {
+          "branch_name": "Banque Commerciale Du Congo",
+          "city": "Lubumbashi",
+          "swift_code": "BCDCCDKI03L"
+        },
+        {
+          "branch_name": "Banque Commerciale Du Congo",
+          "city": "Kinshasa",
+          "swift_code": "BCDCCDKIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Centrale Du Congo",
+      "branches": [
+        {
+          "branch_name": "Banque Centrale Du Congo",
+          "city": "Kinshasa",
+          "swift_code": "BCCGCDKSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Africa-rdc",
+      "branches": [
+        {
+          "branch_name": "Bank Of Africa-rdc",
+          "city": "Kinshasa",
+          "swift_code": "AFRICDKSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Afriland First Bank Congo Democratique",
+      "branches": [
+        {
+          "branch_name": "Afriland First Bank Congo Democratique",
+          "city": "Kinshasa",
+          "swift_code": "AFCDCDKIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Advans Banque Congo",
+      "branches": [
+        {
+          "branch_name": "Advans Banque Congo",
+          "city": "Kinshasa",
+          "swift_code": "ADVBCDKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Access Bank Congo Dr",
+      "branches": [
+        {
+          "branch_name": "Access Bank Congo Dr",
+          "city": "Kinshasa",
+          "swift_code": "ABNGCDKIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "La Congolaise De Banque (lcb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brazzaville",
+          "swift_code": "CRAGCGCGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Congo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brazzaville",
+          "swift_code": "ECOCCGCGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Congo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brazzaville",
+          "swift_code": "SOGECGCGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Du Congo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pointe-noire",
+          "swift_code": "BCMACGCGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Bank For Africa, Congo Brazz",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brazzaville",
+          "swift_code": "UNAFCGCGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bgfibank Congo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brazzaville",
+          "swift_code": "BGFICGCGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Postale Du Congo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brazzaville",
+          "swift_code": "CNNGCGCGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Internationale Du Congo",
+      "branches": [
+        {
+          "branch_name": "Pointe-noire",
+          "city": "Pointe-noire",
+          "swift_code": "CONICGC10C2"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brazzaville",
+          "swift_code": "CONICGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Espirito Santo Congo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brazzaville",
+          "swift_code": "BESCCGCGXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brazzaville",
+          "swift_code": "BESCCGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De Developpement Des Etats De L'afrique Centrale (bdeac",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brazzaville",
+          "swift_code": "BDEACGCGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Congolaise De L'habitat",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brazzaville",
+          "swift_code": "BCHCCGCGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Des Etats De L'afrique Centrale D.n. Congo",
+      "branches": [
+        {
+          "branch_name": "Agence De Pointe-noire",
+          "city": "Pointe-noire",
+          "swift_code": "BEACCGCG410"
+        },
+        {
+          "branch_name": "Ouesso",
+          "city": "Ouesso",
+          "swift_code": "BEACCGCGALL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brazzaville",
+          "swift_code": "BEACCGCGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Commerciale Congolaise",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pointe-noire",
+          "swift_code": "CBEBCGC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Commerciale Internationale (ex Cofipa Congo",
+      "branches": [
+        {
+          "branch_name": "661 Pointe-noire",
+          "city": "Pointe-noire",
+          "swift_code": "BCBPCGCG001"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brazzaville",
+          "swift_code": "BCBPCGCGXXX"
+        }
+      ]
+    }
+  ]
+}

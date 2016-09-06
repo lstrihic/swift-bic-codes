@@ -1,0 +1,697 @@
+{
+  "country_name": "Sudan",
+  "alpha_2": "SD",
+  "country_code": "729",
+  "banks": [
+    {
+      "bank_name": "Workers National Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "WONTSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Capital Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "CBSKSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Industrial Development Bank-sudan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "INSDSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tadamon Islamic Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "TISBSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sudanese Islamic Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "SEIBSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sudanese International Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "SUINSDK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Byblos Bank Africa Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "BYBASDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Blue Nile Mashreg Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "BLNISDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Sahelo-saharienne Pour L'investissement Et Le Commerce-soudan Branche-(b.s.i.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "BSAHSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Oman Ltd. (sudan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "BOLSSDK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Khartoum",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "BAKHSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Sudanese Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "ARABSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Bank For Economic Development In Africa (badea",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "ABEASDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Animal Resources Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "ANRESDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alsalam Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "ALSASDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alrowad Bank For Development And Investment",
+      "branches": [
+        {
+          "branch_name": "Alrowad Bank For Development And Investment",
+          "city": "Khartoum",
+          "swift_code": "RBDISDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Shamal Islamic Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "ISBSSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Nile Bank For Commerce And Development Co.",
+      "branches": [
+        {
+          "branch_name": "Omdurman",
+          "city": "Omdurman",
+          "swift_code": "NILESDKH024"
+        },
+        {
+          "branch_name": "Medani",
+          "city": "Medani",
+          "swift_code": "NILESDKH025"
+        },
+        {
+          "branch_name": "Elmngil",
+          "city": "Elmngil",
+          "swift_code": "NILESDKH026"
+        },
+        {
+          "branch_name": "Elobied",
+          "city": "Elobied",
+          "swift_code": "NILESDKH027"
+        },
+        {
+          "branch_name": "Omrwaba",
+          "city": "Omrwaba",
+          "swift_code": "NILESDKH028"
+        },
+        {
+          "branch_name": "Elnihood",
+          "city": "Elnihood",
+          "swift_code": "NILESDKH02A"
+        },
+        {
+          "branch_name": "Abu Jebeha",
+          "city": "Abu Jebeha",
+          "swift_code": "NILESDKH02B"
+        },
+        {
+          "branch_name": "Niala",
+          "city": "Niala",
+          "swift_code": "NILESDKH02C"
+        },
+        {
+          "branch_name": "El Fashir",
+          "city": "El Fashir",
+          "swift_code": "NILESDKH02D"
+        },
+        {
+          "branch_name": "Haifa",
+          "city": "Haifa",
+          "swift_code": "NILESDKH02E"
+        },
+        {
+          "branch_name": "Elgdarif",
+          "city": "Elgdarif",
+          "swift_code": "NILESDKH02F"
+        },
+        {
+          "branch_name": "Kasla",
+          "city": "Kasla",
+          "swift_code": "NILESDKH02G"
+        },
+        {
+          "branch_name": "Atbra",
+          "city": "Atbra",
+          "swift_code": "NILESDKH02H"
+        },
+        {
+          "branch_name": "Khashm Elgirba",
+          "city": "Elgirba",
+          "swift_code": "NILESDKH02J"
+        },
+        {
+          "branch_name": "Dungla",
+          "city": "Dungla",
+          "swift_code": "NILESDKH02K"
+        },
+        {
+          "branch_name": "Karema",
+          "city": "Karema",
+          "swift_code": "NILESDKH02L"
+        },
+        {
+          "branch_name": "Elgolid",
+          "city": "Elgolid",
+          "swift_code": "NILESDKH02M"
+        },
+        {
+          "branch_name": "Addbh",
+          "city": "Addbh",
+          "swift_code": "NILESDKH02N"
+        },
+        {
+          "branch_name": "Abu Hamad",
+          "city": "Abu Hamad",
+          "swift_code": "NILESDKH02P"
+        },
+        {
+          "branch_name": "Khartoum North Branch",
+          "city": "Khartoum",
+          "swift_code": "NILESDKH0K2"
+        },
+        {
+          "branch_name": "Port Sudan",
+          "city": "Port Sudan",
+          "swift_code": "NILESDKH0PS"
+        },
+        {
+          "branch_name": "Kosti",
+          "city": "Kosti",
+          "swift_code": "NILESDKH0S2"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "NILESDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Baraka Bank (sudan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "RAKASDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agricultural Bank Of Sudan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "ABSUSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Qatar National Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum Amarat",
+          "swift_code": "QNBASDKHXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Muscat",
+          "swift_code": "QNBAOMRXXXX"
+        },
+        {
+          "branch_name": "Custodian",
+          "city": "Doha",
+          "swift_code": "QNBAQAQACUS"
+        },
+        {
+          "branch_name": "Security Lending",
+          "city": "Doha",
+          "swift_code": "QNBAQAQASLB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "QNBAQAQAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Paris",
+          "swift_code": "QNBAFRPPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "QNBAKWKWXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "QNBALBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Habib Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "HABBSDK1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "HIBIGB21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abu Dhabi Islamic Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "ABDISDKHXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "ABDIGB21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Abu Dhabi",
+          "swift_code": "ABDIAEADXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "ABDIQAQAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "ABDIQAQ1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "ABDIIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sudanese French Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "SUFRSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sudanese Egyptian Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "SUEGSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sudan Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "SUCBSDK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Savings And Social Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "SBSUSDK1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "SSODSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saudi Sudanese Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "SAUSSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Real Estate Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "CRETSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Qatar Islamic Bank Sudan Branch",
+      "branches": [
+        {
+          "branch_name": "Qatar Islamic Bank Sudan Branch",
+          "city": "Khartoum",
+          "swift_code": "QIBSSDKHXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "QIBSSDK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Omdurman National Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "OMDBSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Sudan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "NBSUSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Egypt (khartoum",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "NBEKSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Abu Dhabi Khartoum Branch",
+      "branches": [
+        {
+          "branch_name": "Amarat Branch",
+          "city": "Khartoum",
+          "swift_code": "NBADSDKHAMR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "NBADSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ivory Bank",
+      "branches": [
+        {
+          "branch_name": "Ivory Bank",
+          "city": "Khartoum",
+          "swift_code": "IVOBSDK1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "IVOBSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Islamic Bank For Western Sudan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "IBWSSDK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financial Investment Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "FITBSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Farmers Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "FARCSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Faisal Islamic Bank",
+      "branches": [
+        {
+          "branch_name": "Faiha Branch",
+          "city": "Khartoum",
+          "swift_code": "FISBSDKH101"
+        },
+        {
+          "branch_name": "Khartoum Central Station Branch",
+          "city": "Khartoum",
+          "swift_code": "FISBSDKH102"
+        },
+        {
+          "branch_name": "University Of Khartoum Branch",
+          "city": "Khartoum",
+          "swift_code": "FISBSDKH105"
+        },
+        {
+          "branch_name": "Al Saganah Branch",
+          "city": "Khartoum",
+          "swift_code": "FISBSDKH107"
+        },
+        {
+          "branch_name": "Al Suk Al Shabi Khartoum Branch",
+          "city": "Khartoum",
+          "swift_code": "FISBSDKH110"
+        },
+        {
+          "branch_name": "Khartoum North Industrial Area Branch",
+          "city": "Khartoum",
+          "swift_code": "FISBSDKH114"
+        },
+        {
+          "branch_name": "Khartoum New Industrial Area Branch",
+          "city": "Khartoum",
+          "swift_code": "FISBSDKH115"
+        },
+        {
+          "branch_name": "Al Suk Al Mahali Branch",
+          "city": "Khartoum",
+          "swift_code": "FISBSDKH116"
+        },
+        {
+          "branch_name": "Al Suk Al Arabi Branch",
+          "city": "Khartoum",
+          "swift_code": "FISBSDKH118"
+        },
+        {
+          "branch_name": "Omdurman Branch",
+          "city": "Omdurman",
+          "swift_code": "FISBSDKH121"
+        },
+        {
+          "branch_name": "Artisans Branch",
+          "city": "Khartoum",
+          "swift_code": "FISBSDKH122"
+        },
+        {
+          "branch_name": "Portsudan Branch",
+          "city": "Port Sudan",
+          "swift_code": "FISBSDKH401"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "FISBSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Export Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "EXPDSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Elgazeera Sudanese Jordanian Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "GSJBSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "El Nilein Industrial Development Bank Group",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "ENIDSDKHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Sudan",
+      "branches": [
+        {
+          "branch_name": "Head Quarter",
+          "city": "Khartoum",
+          "swift_code": "BSDNSDKHHQR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Khartoum",
+          "swift_code": "BSDNSDKHXXX"
+        }
+      ]
+    }
+  ]
+}

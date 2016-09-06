@@ -1,0 +1,297 @@
+{
+  "country_name": "South Sudan",
+  "alpha_2": "SS",
+  "country_code": "728",
+  "banks": [
+    {
+      "bank_name": "South Sudan Commercial Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "SSDCSSJBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Regent African Bank",
+      "branches": [
+        {
+          "branch_name": "Regent African Bank",
+          "city": "Juba",
+          "swift_code": "RABKSSJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Qnb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "QNBASSJBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "QNBASSJ1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Damascus",
+          "swift_code": "QNBASYDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Phoenix Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Phoenix Commercial Bank",
+          "city": "Juba",
+          "swift_code": "PXCBSSJBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "PXCBSSJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Peoples Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "PBJBSSJBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orbit Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Orbit Bank Plc",
+          "city": "Juba",
+          "swift_code": "ORBTSSJUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nile Commercial Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "NCBLSSJBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Credit Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "CNABSSJBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Commercial Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "NBCPSSJBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mountains Trade And Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "MTDBSSJBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "MTDBSDKJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Liberty Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "LINYSSJBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kcb Sudan Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "KCBLSSJBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "KCBLSDKJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ivory Bank Plc Head Office Juba South Sudan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "IVOJSSJBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Commercial Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "ICBJSSJBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Equity Bank Southern Sudan Limited Head Office",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "EQBLSSJBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "EQBLSSJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eden Commercial Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "EDBKSSJBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank South Sudan Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "ECOCSSJBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "ECOCSSJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Bank Of Ethiopia-southern Sudan Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "CBETSSJBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Co-operative Bank Of South Sudan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "COBLSSJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Charter One Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "COBJSSJBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cfc Stanbic Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "SBICSSJBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Buffalo Commercial Bank Plc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "BCBJSSJBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of South Sudan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "BSSDSSJBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "BSSDSSJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Afriland First Bank South Sudan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "CCEISSJBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "African National Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Juba",
+          "swift_code": "AFNASSJBXXX"
+        }
+      ]
+    }
+  ]
+}

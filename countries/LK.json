@@ -1,0 +1,582 @@
+{
+  "country_name": "Sri Lanka",
+  "alpha_2": "LK",
+  "country_code": "144",
+  "banks": [
+    {
+      "bank_name": "Tks Securities Pvt Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "TKSPLKL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ta Securities Lanka (put) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "SETELKL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Somerville Stockbrokers (pvt) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "SOSPLKL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Softlogic Stockbrokers (pvt) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "ARAVLKL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Perpetual Treasuries Limited",
+      "branches": [
+        {
+          "branch_name": "Perpetual Treasuries Limited",
+          "city": "Colombo",
+          "swift_code": "PPTLLKL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "People's Merchant Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "MEBPLKL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ndbs Stockbrokers (pvt) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "NDSPLKL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nation Lanka Equities (pvt) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "CESPLKL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lanka Securities (pvt) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "LASPLKL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "John Keells Stockbrokers (pvt) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "JKSPLKL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Iifl Securities Ceylon (pvt) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "IFLLLKL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hdf Securities (pvt) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "HDSPLKL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Forbes And Walker Stockbrokers (pvt) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "FWSPLKL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fitch Ratings Lanka Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "FRIPLKL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "De Silva And Abeywardena Stockbrokers (pvt) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "SASVLKL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Stockbrokers (pvt) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "COSPLKL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Bank Primary Dealer Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "CBPDLKL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Colombo Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "XCOLLKL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ceylon Tobacco Company Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "BATSLKA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cdic Sassoon Cumberbatch Stockbrokers (pvt) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "CSCSLKL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lanka Orix Finance Company Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "LOFCLKLCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hatton National Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Foreign Currency Banking Unit",
+          "city": "Colombo",
+          "swift_code": "HBLILKLX001"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "HBLILKLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Capital Treasuries Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "FCTLLKLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dfcc Vardhana Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "DFCCLKLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Ag, Colombo Branch",
+      "branches": [
+        {
+          "branch_name": "Colombo Branch",
+          "city": "Colombo",
+          "swift_code": "DEUTLKLX001"
+        },
+        {
+          "branch_name": "03 Colombo",
+          "city": "Colombo",
+          "swift_code": "DEUTLKLXGMO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "DEUTLKLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Bank Of Ceylon Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "CCEYLKLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank N.A. Sri Lanka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "CITILKLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ceylinco Shriram Securities Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "CSSLLKLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Depository Systems (Pvt) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "CDSPLKLCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Sri Lanka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "CBCELKLSXXX"
+        },
+        {
+          "branch_name": "Employees Provident Fund-cbsl",
+          "city": "Colombo",
+          "swift_code": "CBCELKLXEPF"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "CBCELKLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Alliance Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "CALDLKLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Axis Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "AXISLKLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amana Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "AMNALKLXXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "AMNNTZTZXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "AMNNTZT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Acuity Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "HNBSLKLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "C T Smith Stockbrokers (pvt) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "SMSPLKL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bartleet Mallory Stockbrokers (pvt) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "BMSVLKL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asian Securities (pvt) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "ASSPLKL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asia Stockbroking And Investment Managment (pvt) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "ASIMLKL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asha Phillip Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "ALSBLKL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wealthtrust Securities Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "WTEYLKLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Bank Of Colombo Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "UBCLLKLCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Seylan Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Treasury Division",
+          "city": "Colombo",
+          "swift_code": "SEYBLKLXTRY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "SEYBLKLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sampath Bank Plc-Company No. Pq 144",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "BSAMLKLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "PBBELKLXXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "PBBEMYKLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Peoples Bank",
+      "branches": [
+        {
+          "branch_name": "International Department",
+          "city": "Colombo",
+          "swift_code": "PSBKLKLX022"
+        },
+        {
+          "branch_name": "Overseas Department",
+          "city": "Colombo",
+          "swift_code": "PSBKLKLX023"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "PSBKLKLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pan Asia Banking Corporation Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "PABSLKLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nsb Fund Management Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "NSBFLKLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nations Trust Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "NTBCLKLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Savings Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "NSBALKLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Development Bank Plc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "NDBSLKLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nat Wealth Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "NWSLLKLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mcb Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colombo",
+          "swift_code": "MUCBLKLCXXX"
+        }
+      ]
+    }
+  ]
+}

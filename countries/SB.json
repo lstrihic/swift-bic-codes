@@ -1,0 +1,37 @@
+{
+  "country_name": "Solomon Islands",
+  "alpha_2": "SB",
+  "country_code": "090",
+  "banks": [
+    {
+      "bank_name": "Solomon Islands Tobacco Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Honiara",
+          "swift_code": "BATSSBA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Solomon Islands",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Honiara",
+          "swift_code": "CBSISBSBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank South Pacific Solomon Islands",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Honiara",
+          "swift_code": "NBSISBSBXXX"
+        }
+      ]
+    }
+  ]
+}

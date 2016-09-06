@@ -1,0 +1,3532 @@
+{
+  "country_name": "Ecuador",
+  "alpha_2": "EC",
+  "country_code": "218",
+  "banks": [
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Futuro Y Desarrollo Fundesarrollo",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Futuro Y Desarrollo Fundesarrollo",
+          "city": "Quito",
+          "swift_code": "CHTFECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Educadores De El Oro Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Educadores De El Oro Ltda",
+          "city": "Machala",
+          "swift_code": "OADOECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Credil Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Credil Ltda",
+          "city": "Salcedo",
+          "swift_code": "CHDLECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Accion Rural Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Accion Rural Ltda",
+          "city": "Riobamba",
+          "swift_code": "CDAIECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Codeca Intermediaria Financiera S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guayaquil",
+          "swift_code": "COIFECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Coop De Ahorro Y Credito De La Corp De Org. Campesinas Indigenas De Quisapincha Cociq",
+      "branches": [
+        {
+          "branch_name": "Coop De Ahorro Y Credito De La Corp De Org. Campesinas Indigenas De Quisapincha Cociq",
+          "city": "Ambato",
+          "swift_code": "OAIOECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Camara De Comercio Indigena De Guamote Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Camara De Comercio Indigena De Guamote Ltda",
+          "city": "Guamote",
+          "swift_code": "CCRDECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Casa De Valores Multivalores B.g. S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "CVMUECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Solidaria Estrella Del Mundo",
+      "branches": [
+        {
+          "branch_name": "Caja Solidaria Estrella Del Mundo",
+          "city": "Ambato",
+          "swift_code": "CSEMECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Solidaria Chiquicha",
+      "branches": [
+        {
+          "branch_name": "Caja Solidaria Chiquicha",
+          "city": "Pelileo",
+          "swift_code": "CSOCECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja De Ahorro Y Credito El Ingenio",
+      "branches": [
+        {
+          "branch_name": "Caja De Ahorro Y Credito El Ingenio",
+          "city": "Loja",
+          "swift_code": "AACGECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Central Financoop",
+      "branches": [
+        {
+          "branch_name": "Caja Central Financoop",
+          "city": "Quito",
+          "swift_code": "CJCFECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Universal, S.a. Unibanco",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "BUNIECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Sudamericano S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "BKSOECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banicredit Intermediaria Financiera S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guayaquil",
+          "swift_code": "BAIFECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Procredit S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "ALFLECE1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "PRCBECEQXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Pichincha C.a.",
+      "branches": [
+        {
+          "branch_name": "Guayaquil",
+          "city": "Guayaquil",
+          "swift_code": "PICHECEQ100"
+        },
+        {
+          "branch_name": "Ag",
+          "city": "Guayaquil",
+          "swift_code": "PICHECEQ101"
+        },
+        {
+          "branch_name": "International Operations",
+          "city": "Guayaquil",
+          "swift_code": "PICHECEQ102"
+        },
+        {
+          "branch_name": "Domestic Operations",
+          "city": "Guayaquil",
+          "swift_code": "PICHECEQ103"
+        },
+        {
+          "branch_name": "Treasury And Securities Operations",
+          "city": "Guayaquil",
+          "swift_code": "PICHECEQ104"
+        },
+        {
+          "branch_name": "Money Transfer",
+          "city": "Guayaquil",
+          "swift_code": "PICHECEQ105"
+        },
+        {
+          "branch_name": "Ag La Libertad",
+          "city": "Guayaquil",
+          "swift_code": "PICHECEQ106"
+        },
+        {
+          "branch_name": "Ag Centenario Sur",
+          "city": "Guayaquil",
+          "swift_code": "PICHECEQ107"
+        },
+        {
+          "branch_name": "Ag Centro",
+          "city": "Guayaquil",
+          "swift_code": "PICHECEQ108"
+        },
+        {
+          "branch_name": "Ag El Dorado",
+          "city": "Quito",
+          "swift_code": "PICHECEQ109"
+        },
+        {
+          "branch_name": "Ag Centenario",
+          "city": "Guayaquil",
+          "swift_code": "PICHECEQ110"
+        },
+        {
+          "branch_name": "Ag Alborada",
+          "city": "Guayaquil",
+          "swift_code": "PICHECEQ111"
+        },
+        {
+          "branch_name": "Ag Alban Borja",
+          "city": "Guayaquil",
+          "swift_code": "PICHECEQ112"
+        },
+        {
+          "branch_name": "Ag Mall Del Sol",
+          "city": "Guayaquil",
+          "swift_code": "PICHECEQ113"
+        },
+        {
+          "branch_name": "Ag Urdesa",
+          "city": "Guayaquil",
+          "swift_code": "PICHECEQ114"
+        },
+        {
+          "branch_name": "Ag",
+          "city": "Guayaquil",
+          "swift_code": "PICHECEQ115"
+        },
+        {
+          "branch_name": "Ag",
+          "city": "Guayaquil",
+          "swift_code": "PICHECEQ116"
+        },
+        {
+          "branch_name": "Ag",
+          "city": "Guayaquil",
+          "swift_code": "PICHECEQ117"
+        },
+        {
+          "branch_name": "Ag Policentro",
+          "city": "Guayaquil",
+          "swift_code": "PICHECEQ118"
+        },
+        {
+          "branch_name": "Branch 119",
+          "city": "Guayaquil",
+          "swift_code": "PICHECEQ119"
+        },
+        {
+          "branch_name": "Ag.",
+          "city": "Quito",
+          "swift_code": "PICHECEQ552"
+        },
+        {
+          "branch_name": "Manta",
+          "city": "Manta",
+          "swift_code": "PICHECEQ600"
+        },
+        {
+          "branch_name": "Money Transfer Dept",
+          "city": "Manta",
+          "swift_code": "PICHECEQ605"
+        },
+        {
+          "branch_name": "Portoviejo",
+          "city": "Portoviejo",
+          "swift_code": "PICHECEQ610"
+        },
+        {
+          "branch_name": "Esmeraldas",
+          "city": "Esmeraldas",
+          "swift_code": "PICHECEQ700"
+        },
+        {
+          "branch_name": "Quevedo Branch",
+          "city": "Quevedo",
+          "swift_code": "PICHECEQ804"
+        },
+        {
+          "branch_name": "Tulcan Branch",
+          "city": "Tulcan",
+          "swift_code": "PICHECEQ900"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "PICHECEQXXX"
+        },
+        {
+          "branch_name": "Ag Eloy Alfaro",
+          "city": "Quito",
+          "swift_code": "PICHECEQ524"
+        },
+        {
+          "branch_name": "Ag",
+          "city": "Quito",
+          "swift_code": "PICHECEQ525"
+        },
+        {
+          "branch_name": "Ag",
+          "city": "Quito",
+          "swift_code": "PICHECEQ526"
+        },
+        {
+          "branch_name": "Ag",
+          "city": "Quito",
+          "swift_code": "PICHECEQ527"
+        },
+        {
+          "branch_name": "Ag",
+          "city": "Quito",
+          "swift_code": "PICHECEQ528"
+        },
+        {
+          "branch_name": "Ag",
+          "city": "Quito",
+          "swift_code": "PICHECEQ529"
+        },
+        {
+          "branch_name": "Ag",
+          "city": "Quito",
+          "swift_code": "PICHECEQ530"
+        },
+        {
+          "branch_name": "Ag",
+          "city": "Quito",
+          "swift_code": "PICHECEQ531"
+        },
+        {
+          "branch_name": "Ag",
+          "city": "Quito",
+          "swift_code": "PICHECEQ532"
+        },
+        {
+          "branch_name": "Ag",
+          "city": "Quito",
+          "swift_code": "PICHECEQ533"
+        },
+        {
+          "branch_name": "Ag",
+          "city": "Quito",
+          "swift_code": "PICHECEQ534"
+        },
+        {
+          "branch_name": "Ag",
+          "city": "Quito",
+          "swift_code": "PICHECEQ535"
+        },
+        {
+          "branch_name": "Ag",
+          "city": "Quito",
+          "swift_code": "PICHECEQ536"
+        },
+        {
+          "branch_name": "Branch 537",
+          "city": "Quito",
+          "swift_code": "PICHECEQ537"
+        },
+        {
+          "branch_name": "Branch 538",
+          "city": "Quito",
+          "swift_code": "PICHECEQ538"
+        },
+        {
+          "branch_name": "Branch 539",
+          "city": "Quito",
+          "swift_code": "PICHECEQ539"
+        },
+        {
+          "branch_name": "Branch 540",
+          "city": "Quito",
+          "swift_code": "PICHECEQ540"
+        },
+        {
+          "branch_name": "Branch 541",
+          "city": "Quito",
+          "swift_code": "PICHECEQ541"
+        },
+        {
+          "branch_name": "Santo Domingo",
+          "city": "Santo Domingo",
+          "swift_code": "PICHECEQ550"
+        },
+        {
+          "branch_name": "Suc. El Valle",
+          "city": "Quito",
+          "swift_code": "PICHECEQ551"
+        },
+        {
+          "branch_name": "Treasury And Securities Operations",
+          "city": "Quito",
+          "swift_code": "PICHECEQ504"
+        },
+        {
+          "branch_name": "Money Transfer Department",
+          "city": "Quito",
+          "swift_code": "PICHECEQ505"
+        },
+        {
+          "branch_name": "Quito",
+          "city": "Quito",
+          "swift_code": "PICHECEQ506"
+        },
+        {
+          "branch_name": "Quito",
+          "city": "Quito",
+          "swift_code": "PICHECEQ507"
+        },
+        {
+          "branch_name": "Reconciliation",
+          "city": "Quito",
+          "swift_code": "PICHECEQ508"
+        },
+        {
+          "branch_name": "International Correspondents",
+          "city": "Quito",
+          "swift_code": "PICHECEQ509"
+        },
+        {
+          "branch_name": "Ag Plaza Grande",
+          "city": "Quito",
+          "swift_code": "PICHECEQ510"
+        },
+        {
+          "branch_name": "Ag Amazonas",
+          "city": "Quito",
+          "swift_code": "PICHECEQ511"
+        },
+        {
+          "branch_name": "Suc Norte",
+          "city": "Quito",
+          "swift_code": "PICHECEQ512"
+        },
+        {
+          "branch_name": "Ag La Republica",
+          "city": "Quito",
+          "swift_code": "PICHECEQ513"
+        },
+        {
+          "branch_name": "Ag Av Portugal",
+          "city": "Quito",
+          "swift_code": "PICHECEQ514"
+        },
+        {
+          "branch_name": "Ag Inaquito",
+          "city": "Quito",
+          "swift_code": "PICHECEQ515"
+        },
+        {
+          "branch_name": "Ag El Bosque",
+          "city": "Quito",
+          "swift_code": "PICHECEQ516"
+        },
+        {
+          "branch_name": "Ag Carondelet",
+          "city": "Quito",
+          "swift_code": "PICHECEQ517"
+        },
+        {
+          "branch_name": "Ag Quicentro",
+          "city": "Quito",
+          "swift_code": "PICHECEQ518"
+        },
+        {
+          "branch_name": "Ag C C Inaquito",
+          "city": "Quito",
+          "swift_code": "PICHECEQ519"
+        },
+        {
+          "branch_name": "Ag El Inca",
+          "city": "Quito",
+          "swift_code": "PICHECEQ520"
+        },
+        {
+          "branch_name": "Ag Gonzalez Suarez",
+          "city": "Quito",
+          "swift_code": "PICHECEQ521"
+        },
+        {
+          "branch_name": "Ag Villaflora",
+          "city": "Quito",
+          "swift_code": "PICHECEQ522"
+        },
+        {
+          "branch_name": "Ag Cumbaya",
+          "city": "Quito",
+          "swift_code": "PICHECEQ523"
+        },
+        {
+          "branch_name": "Branch 120",
+          "city": "Guayaquil",
+          "swift_code": "PICHECEQ120"
+        },
+        {
+          "branch_name": "Branch 121",
+          "city": "Guayaquil",
+          "swift_code": "PICHECEQ121"
+        },
+        {
+          "branch_name": "Machala",
+          "city": "Machala",
+          "swift_code": "PICHECEQ200"
+        },
+        {
+          "branch_name": "Ibarra Branch",
+          "city": "Ibarra",
+          "swift_code": "PICHECEQ250"
+        },
+        {
+          "branch_name": "Otavalo Branch",
+          "city": "Otavalo",
+          "swift_code": "PICHECEQ253"
+        },
+        {
+          "branch_name": "Latacunga Branch",
+          "city": "Latacunga",
+          "swift_code": "PICHECEQ270"
+        },
+        {
+          "branch_name": "Cuenca",
+          "city": "Cuenca",
+          "swift_code": "PICHECEQ300"
+        },
+        {
+          "branch_name": "International Operations",
+          "city": "Cuenca",
+          "swift_code": "PICHECEQ302"
+        },
+        {
+          "branch_name": "Branch 304",
+          "city": "Cuenca",
+          "swift_code": "PICHECEQ304"
+        },
+        {
+          "branch_name": "Money Transfer",
+          "city": "Cuenca",
+          "swift_code": "PICHECEQ305"
+        },
+        {
+          "branch_name": "Branch 306",
+          "city": "Cuenca",
+          "swift_code": "PICHECEQ306"
+        },
+        {
+          "branch_name": "Branch 307",
+          "city": "Cuenca",
+          "swift_code": "PICHECEQ307"
+        },
+        {
+          "branch_name": "Riobamba Branch",
+          "city": "Riobamba",
+          "swift_code": "PICHECEQ350"
+        },
+        {
+          "branch_name": "Guaranda Branch",
+          "city": "Guaranda",
+          "swift_code": "PICHECEQ370"
+        },
+        {
+          "branch_name": "Ambato",
+          "city": "Ambato",
+          "swift_code": "PICHECEQ400"
+        },
+        {
+          "branch_name": "Azogues Branch",
+          "city": "Azogues",
+          "swift_code": "PICHECEQ450"
+        },
+        {
+          "branch_name": "Loan And Credits",
+          "city": "Quito",
+          "swift_code": "PICHECEQ500"
+        },
+        {
+          "branch_name": "Quito",
+          "city": "Quito",
+          "swift_code": "PICHECEQ501"
+        },
+        {
+          "branch_name": "Head International Division",
+          "city": "Quito",
+          "swift_code": "PICHECEQ502"
+        },
+        {
+          "branch_name": "Domestic Operations",
+          "city": "Quito",
+          "swift_code": "PICHECEQ503"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco General Ruminahui S.a.",
+      "branches": [
+        {
+          "branch_name": "Guayaquil Branch",
+          "city": "Guayaquil",
+          "swift_code": "BGRMECEQ100"
+        },
+        {
+          "branch_name": "Machala Branch",
+          "city": "Machala",
+          "swift_code": "BGRMECEQ200"
+        },
+        {
+          "branch_name": "Cash Management",
+          "city": "Quito",
+          "swift_code": "BGRMECEQ505"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "BGRMECEQXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Internacional S.a.",
+      "branches": [
+        {
+          "branch_name": "Guayaquil",
+          "city": "Guayaquil",
+          "swift_code": "BINTECEQ100"
+        },
+        {
+          "branch_name": "Head Office And All Branches",
+          "city": "Quito",
+          "swift_code": "BINTECEQXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Financorp S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guayaquil",
+          "swift_code": "BACFECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Del Tungurahua S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office And All Branches",
+          "city": "Guayaquil",
+          "swift_code": "BATUECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Del Litoral S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guayaquil",
+          "swift_code": "LITBECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Del Pacifico",
+      "branches": [
+        {
+          "branch_name": "0901988 Guayaquil",
+          "city": "Guayaquil",
+          "swift_code": "PACIECEG100"
+        },
+        {
+          "branch_name": "La Libertad",
+          "city": "La",
+          "swift_code": "PACIECEG110"
+        },
+        {
+          "branch_name": "07-01 Machala",
+          "city": "Machala",
+          "swift_code": "PACIECEG200"
+        },
+        {
+          "branch_name": "01-01 Cuenca",
+          "city": "Cuenca",
+          "swift_code": "PACIECEG300"
+        },
+        {
+          "branch_name": "Riobamba",
+          "city": "Riobamba",
+          "swift_code": "PACIECEG350"
+        },
+        {
+          "branch_name": "18-01 Ambato",
+          "city": "Ambato",
+          "swift_code": "PACIECEG400"
+        },
+        {
+          "branch_name": "17-01 Quito",
+          "city": "Quito",
+          "swift_code": "PACIECEG500"
+        },
+        {
+          "branch_name": "Santo Domingo",
+          "city": "Santo Domingo",
+          "swift_code": "PACIECEG510"
+        },
+        {
+          "branch_name": "13-05 Manta",
+          "city": "Manta",
+          "swift_code": "PACIECEG600"
+        },
+        {
+          "branch_name": "Portoviejo",
+          "city": "Portoviejo",
+          "swift_code": "PACIECEG640"
+        },
+        {
+          "branch_name": "Galapagos",
+          "city": "Santa Cruz",
+          "swift_code": "PACIECEG871"
+        },
+        {
+          "branch_name": "Ibarra",
+          "city": "Ibarra",
+          "swift_code": "PACIECEGIBA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Guayaquil",
+          "swift_code": "PACIECEGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Del Azuay",
+      "branches": [
+        {
+          "branch_name": "Quito",
+          "city": "Quito",
+          "swift_code": "BAAZECE10EQ"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cuenca",
+          "swift_code": "BAAZECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Abdon Calderon Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Abdon Calderon Ltda",
+          "city": "Portoviejo",
+          "swift_code": "OACBECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito 9 De Octubre Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito 9 De Octubre Ltda",
+          "city": "Salcedo",
+          "swift_code": "CHDTECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito 4 De Octubre",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito 4 De Octubre",
+          "city": "Penipe",
+          "swift_code": "CEOCECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito 27 De Abril",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito 27 De Abril",
+          "city": "Loja",
+          "swift_code": "OATAECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito 23 De Mayo Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito 23 De Mayo Ltda",
+          "city": "Quito",
+          "swift_code": "CHCYECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito 23 De Julio Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito 23 De Julio Ltda",
+          "city": "Cayambe",
+          "swift_code": "CACJECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito 21 De Noviembre Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito 21 De Noviembre Ltda",
+          "city": "Ambato",
+          "swift_code": "CRTVECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito 20 De Febrero Ltda.",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito 20 De Febrero Ltda.",
+          "city": "Quito",
+          "swift_code": "CHOBECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito 16 De Junio",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito 16 De Junio",
+          "city": "Machala",
+          "swift_code": "CHCJECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito 15 De Mayo",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito 15 De Mayo",
+          "city": "Ambato",
+          "swift_code": "CAOYECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito 15 De Diciembre",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito 15 De Diciembre",
+          "city": "Ambato",
+          "swift_code": "OARBECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito 15 De Abril Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito 15 De Abril Ltda",
+          "city": "Portoviejo",
+          "swift_code": "CHDRECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito '29 De Octubre' Ltda",
+      "branches": [
+        {
+          "branch_name": "Agencia Principal Quito",
+          "city": "Quito",
+          "swift_code": "COOCECE1101"
+        },
+        {
+          "branch_name": "Agencia Guayaquil",
+          "city": "Guayaquil",
+          "swift_code": "COOCECE1203"
+        },
+        {
+          "branch_name": "Agencia Loja",
+          "city": "Loja",
+          "swift_code": "COOCECE1305"
+        },
+        {
+          "branch_name": "Agencia Cuenca",
+          "city": "Cuenca",
+          "swift_code": "COOCECE1320"
+        },
+        {
+          "branch_name": "Agencia Ibarra",
+          "city": "Ibarra",
+          "swift_code": "COOCECE1528"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "COOCECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito 15 De Agosto De Pilacoto",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito 15 De Agosto De Pilacoto",
+          "city": "Latacunga",
+          "swift_code": "CDRGECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Credito Y Financiera Indigena Del Ecuador",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Credito Y Financiera Indigena Del Ecuador",
+          "city": "Quito",
+          "swift_code": "CHOFECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa Ahorro Y Credito Union El Ejido",
+      "branches": [
+        {
+          "branch_name": "Cooperativa Ahorro Y Credito Union El Ejido",
+          "city": "Cotacachi",
+          "swift_code": "OAEIECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa Ahorro Y Credito Afro Ecuatoriana De La Pequena Empresa Ltda Cacaepe",
+      "branches": [
+        {
+          "branch_name": "Cooperativa Ahorro Y Credito Afro Ecuatoriana De La Pequena Empresa Ltda Cacaepe",
+          "city": "Esmeraldas",
+          "swift_code": "OADFECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Cacpeco Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Cacpeco Ltda",
+          "city": "Latacunga",
+          "swift_code": "CCPCECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Camara De Comercio De Riobamba Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Camara De Comercio De Riobamba Ltda",
+          "city": "Riobamba",
+          "swift_code": "OADBECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Camara De Comercio Del Canton Bolivar Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Camara De Comercio Del Canton Bolivar Ltda",
+          "city": "Bolivar",
+          "swift_code": "OARCECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Coop De Ahorro Y Credito De La Escuela Sup Politecnica Agropecuari De Manabi Manuel Feliz Lopez",
+      "branches": [
+        {
+          "branch_name": "Coop De Ahorro Y Credito De La Escuela Sup Politecnica Agropecuari De Manabi Manuel Feliz Lopez",
+          "city": "Calceta",
+          "swift_code": "OADUECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Camara De Comercio De Ambato Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Camara De Comercio De Ambato Ltda",
+          "city": "Ambato",
+          "swift_code": "CMCOECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Cacpe Manabi",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Cacpe Manabi",
+          "city": "Portoviejo",
+          "swift_code": "OACPECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Cacique Guritave",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Cacique Guritave",
+          "city": "Azogues",
+          "swift_code": "CADQECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Buena Fe Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Buena Fe Ltda",
+          "city": "Buena Fe",
+          "swift_code": "OAIBECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Bashalan Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Bashalan Ltda",
+          "city": "Riobamba",
+          "swift_code": "COOHECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Bartolome",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Bartolome",
+          "city": "Ambato",
+          "swift_code": "OAEBECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Atuntaqui Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Atuntaqui Ltda",
+          "city": "Atuntaqui",
+          "swift_code": "CATQECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Artesanos Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Artesanos Ltda",
+          "city": "Ibarra",
+          "swift_code": "CDASECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Andina Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Andina Ltda",
+          "city": "Latacunga",
+          "swift_code": "CEADECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Andalucia Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Andalucia Ltda",
+          "city": "Quito",
+          "swift_code": "CHEDECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Tulcan",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Tulcan",
+          "city": "Tulcan",
+          "swift_code": "CHRLECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Ambato Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Ambato Ltda",
+          "city": "Ambato",
+          "swift_code": "CDCAECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Tienda De Dinero Ltda.",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Tienda De Dinero Ltda.",
+          "city": "Portoviejo",
+          "swift_code": "OARTECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Empresa Electrica Quito",
+      "branches": [
+        {
+          "branch_name": "Empresa Electrica Quito",
+          "city": "Quito",
+          "swift_code": "EMEQECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecuacorp S.a. Corp. Ecuatoriana De Inversiones",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guayaquil",
+          "swift_code": "ECEIECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Defactor S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guayaquil",
+          "swift_code": "DEFAECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credito Y Dinero S.a. (credinero",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cuenca",
+          "swift_code": "CRDCECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deposito Centralizado De Compensacion Y Liquidacion De Valores Decevale Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guayaquil",
+          "swift_code": "DCVEECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion Santander",
+      "branches": [
+        {
+          "branch_name": "Corporacion Santander",
+          "city": "Ambato",
+          "swift_code": "CRSDECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion San Francisco De Chibuleo",
+      "branches": [
+        {
+          "branch_name": "Corporacion San Francisco De Chibuleo",
+          "city": "Ambato",
+          "swift_code": "CSFCECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion En Las Huellas Del Banco Grameen",
+      "branches": [
+        {
+          "branch_name": "Corporacion En Las Huellas Del Banco Grameen",
+          "city": "Loja",
+          "swift_code": "COHRECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion De Desarrollo De Mercado Secundario De Hipotecas Cth S.a.",
+      "branches": [
+        {
+          "branch_name": "Corporacion De Desarrollo De Mercado Secundario De Hipotecas Cth S.a.",
+          "city": "Quito",
+          "swift_code": "CDMCECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion Nacional De Telecomunicaciones (cnt",
+      "branches": [
+        {
+          "branch_name": "Corporacion Nacional De Telecomunicaciones (cnt",
+          "city": "Quito",
+          "swift_code": "CNTNECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Coopjadan Ltda, Cooperativa De Ahorro Y Credito Jadan",
+      "branches": [
+        {
+          "branch_name": "Coopjadan Ltda, Cooperativa De Ahorro Y Credito Jadan",
+          "city": "Gualaceo",
+          "swift_code": "CCHEECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion Financiera Nacional",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "CFNAECEQXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Virgen Del Cisne",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Virgen Del Cisne",
+          "city": "Latacunga",
+          "swift_code": "CRDVECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Wuamanloma Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Wuamanloma Ltda",
+          "city": "Pelileo",
+          "swift_code": "CACWECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Vencedores De Pichincha Ltda Cacvp",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Vencedores De Pichincha Ltda Cacvp",
+          "city": "Quito",
+          "swift_code": "CHDVECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Valles Del Lirio Aicep",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Valles Del Lirio Aicep",
+          "city": "Ambato",
+          "swift_code": "OATVECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Vencedores De Tungurahua Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Vencedores De Tungurahua Ltda",
+          "city": "Ambato",
+          "swift_code": "OADVECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Uniotavalo Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Uniotavalo Ltda",
+          "city": "Otavalo",
+          "swift_code": "CHTVECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Uniblock Y Servicios Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Uniblock Y Servicios Ltda",
+          "city": "Latacunga",
+          "swift_code": "CHDKECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Sumak Samy Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Sumak Samy Ltda",
+          "city": "Ambato",
+          "swift_code": "CORKECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Sumac Llacta Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Sumac Llacta Ltda",
+          "city": "Riobamba",
+          "swift_code": "OAEMECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Solidaridad Y Progreso Oriental",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Solidaridad Y Progreso Oriental",
+          "city": "Azogues",
+          "swift_code": "CRTDECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Solidaria Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Solidaria Ltda",
+          "city": "Loja",
+          "swift_code": "OARSECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Sol De Los Andes Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Sol De Los Andes Ltda",
+          "city": "Riobamba",
+          "swift_code": "CHTOECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Socio Amigo Coopsa",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Socio Amigo Coopsa",
+          "city": "Marcabeli",
+          "swift_code": "OAEOECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Sinchi Runa Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Sinchi Runa Ltda",
+          "city": "Saquisili",
+          "swift_code": "CRCHECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Union Mercedaria Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Union Mercedaria Ltda",
+          "city": "Latacunga",
+          "swift_code": "CHOUECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Simiatug Limitada",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Simiatug Limitada",
+          "city": "Guaranda",
+          "swift_code": "OAITECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Saraguros",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Saraguros",
+          "city": "Saraguro",
+          "swift_code": "CHOGECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Santa Lucia",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Santa Lucia",
+          "city": "Ambato",
+          "swift_code": "OAETECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Santa Rosa Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Santa Rosa Ltda",
+          "city": "Santa Rosa",
+          "swift_code": "CHDNECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Santa Isabel Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Santa Isabel Ltda",
+          "city": "Loja",
+          "swift_code": "OADSECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Santa Anita Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Santa Anita Ltda",
+          "city": "Cotacachi",
+          "swift_code": "CDSAECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito San Sebastian",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito San Sebastian",
+          "city": "Loja",
+          "swift_code": "OADNECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito San Santiago De Molleturo",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito San Santiago De Molleturo",
+          "city": "Cuenca",
+          "swift_code": "OAIAECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito San Pedro De Taboada Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito San Pedro De Taboada Ltda",
+          "city": "Sangolqui",
+          "swift_code": "CHRDECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito San Pablo",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito San Pablo",
+          "city": "Ambato",
+          "swift_code": "OAENECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito San Miguel De Los Bancos Ltd",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito San Miguel De Los Bancos Ltd",
+          "city": "San Miguel De Los",
+          "swift_code": "CSMNECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Alli Tarpuc",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Alli Tarpuc",
+          "city": "Riobamba",
+          "swift_code": "OAILECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Alianza Del Valle Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Alianza Del Valle Ltda",
+          "city": "Amaguana",
+          "swift_code": "CAEZECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Accion Y Desarrollo Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Accion Y Desarrollo Ltda",
+          "city": "Guamote",
+          "swift_code": "CCDRECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Agricola Junin",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Agricola Junin",
+          "city": "Junin",
+          "swift_code": "OACRECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Accion Tungurahua Ltda.",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Accion Tungurahua Ltda.",
+          "city": "Ambato",
+          "swift_code": "OAEAECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Crecer Winari Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Crecer Winari Ltda",
+          "city": "Ambato",
+          "swift_code": "OACCECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Agro Productiva Manabi Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Agro Productiva Manabi Ltda",
+          "city": "Portoviejo",
+          "swift_code": "OAEGECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Cotocollao Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Cotocollao Ltda",
+          "city": "Quito",
+          "swift_code": "CHDCECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Corporacion Centro Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Corporacion Centro Ltda",
+          "city": "Quito",
+          "swift_code": "CHDPECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Crediamigo Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Crediamigo Ltda",
+          "city": "Loja",
+          "swift_code": "OAIDECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Cooptopaxi Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Cooptopaxi Ltda",
+          "city": "Latacunga",
+          "swift_code": "CACXECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Cordillera De Los Andes Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Cordillera De Los Andes Ltda",
+          "city": "Quito",
+          "swift_code": "OACLECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Cooprogreso Ltda.",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Cooprogreso Ltda.",
+          "city": "Quito",
+          "swift_code": "CHCRECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Coopartamos Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Coopartamos Ltda",
+          "city": "Ruminahui",
+          "swift_code": "OAEPECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Valorfinsa S.a. Intermediaria Financiera",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "VAIFECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Papeles Fiduciarios S.a. Pafisa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "PAFPECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ministerio De Salud Publica",
+      "branches": [
+        {
+          "branch_name": "Ministerio De Salud Publica",
+          "city": "Quito",
+          "swift_code": "MSAPECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ministerio De Inclusion Economica Y Social",
+      "branches": [
+        {
+          "branch_name": "Ministerio De Inclusion Economica Y Social",
+          "city": "Quito",
+          "swift_code": "MIEYECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Municipio De Quito",
+      "branches": [
+        {
+          "branch_name": "Municipio De Quito",
+          "city": "Quito",
+          "swift_code": "MUQUECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ministerio De Finanzas",
+      "branches": [
+        {
+          "branch_name": "Ministerio De Finanzas",
+          "city": "Quito",
+          "swift_code": "MIFZECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ministerio De Agricultura (magap",
+      "branches": [
+        {
+          "branch_name": "Ministerio De Agricultura (magap",
+          "city": "Quito",
+          "swift_code": "MIGMECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investunion",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "IUNIECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inversiones Modernas Ecuatorianas Inmoec S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manta",
+          "swift_code": "IMEIECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intermediaria Financiera Global C.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guayaquil",
+          "swift_code": "INFGECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Instituto Ecuatoriano De Seguridad Social (iess",
+      "branches": [
+        {
+          "branch_name": "Instituto Ecuatoriano De Seguridad Social (iess",
+          "city": "Quito",
+          "swift_code": "IESSECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Instituto Ecuatoriano De Credito Educativo Y Becas",
+      "branches": [
+        {
+          "branch_name": "Instituto Ecuatoriano De Credito Educativo Y Becas",
+          "city": "Quito",
+          "swift_code": "IECEECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Guayaquil Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guayaquil",
+          "swift_code": "XGUAECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interdin Intermediaria Financiera S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "INIFECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fininco S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guayaquil",
+          "swift_code": "FIIIECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finansa Compania Financiera Nacional",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "FCFNECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finanred S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cuenca",
+          "swift_code": "FIAAECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Facturinsa Facturas Internacionales S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guayaquil",
+          "swift_code": "FAFIECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Factor Amazonas S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guayaquil",
+          "swift_code": "FACAECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finanser Intermediaria Financiera S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guayaquil",
+          "swift_code": "FIIFECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Empresa Publica De Agua Potable Y Saneamiento",
+      "branches": [
+        {
+          "branch_name": "Empresa Publica De Agua Potable Y Saneamiento",
+          "city": "Quito",
+          "swift_code": "EPAPECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Transfiec",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "TRAFECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tecfinsa-tecnologia Financiera Para El Desarrollo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guayaquil",
+          "swift_code": "TECFECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Servicio De Rentas Internas (sri",
+      "branches": [
+        {
+          "branch_name": "Servicio De Rentas Internas (sri",
+          "city": "Quito",
+          "swift_code": "SRISECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Red Financiera Rural",
+      "branches": [
+        {
+          "branch_name": "Red Financiera Rural",
+          "city": "Quito",
+          "swift_code": "RFRUECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Quito Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "XQUIECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pichincha Casa De Valores Picaval S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "PICVECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Coopac Austro Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Coopac Austro Ltda",
+          "city": "Cuenca",
+          "swift_code": "OADPECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Comercio Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Comercio Ltda",
+          "city": "Portoviejo",
+          "swift_code": "CHRCECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Construccion Comercio Y Produccion Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Construccion Comercio Y Produccion Ltda",
+          "city": "Quito",
+          "swift_code": "CHDOECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Chone Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Chone Ltda",
+          "city": "Chone",
+          "swift_code": "CADHECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Choco Tungurahua Runa Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Choco Tungurahua Runa Ltda",
+          "city": "Quito",
+          "swift_code": "CAIHECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Profin Promotora De Financiamiento Comercial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guayaquil",
+          "swift_code": "PPFCECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Casag",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Casag",
+          "city": "Quito",
+          "swift_code": "CHRGECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Cariamanga Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Cariamanga Ltda",
+          "city": "Calvas",
+          "swift_code": "OARMECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Carroceros De Tungurahua",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Carroceros De Tungurahua",
+          "city": "Ambato",
+          "swift_code": "OATCECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Canar Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Canar Ltda",
+          "city": "Canar",
+          "swift_code": "OADCECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Camara De Comerciodel Canton El Carmen Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Camara De Comerciodel Canton El Carmen Ltda",
+          "city": "El Carmen",
+          "swift_code": "OAERECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Camara De Comerciode Santo Domingo",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Camara De Comerciode Santo Domingo",
+          "city": "Santo Domingo",
+          "swift_code": "OARAECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Educadores De Chimborazo Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Educadores De Chimborazo Ltda",
+          "city": "Riobamba",
+          "swift_code": "CECHECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Ecuafuturo Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Ecuafuturo Ltda",
+          "city": "Ambato",
+          "swift_code": "OAIUECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Economia Del Sur Ecosur",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Economia Del Sur Ecosur",
+          "city": "Saraguro",
+          "swift_code": "OADEECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Dorado Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Dorado Ltda",
+          "city": "Ambato",
+          "swift_code": "CRODECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Desarrollo Popularltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Desarrollo Popularltda",
+          "city": "Ambato",
+          "swift_code": "OAEDECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Del Sindicato De Choferes Profesionales Del Azuay Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Del Sindicato De Choferes Profesionales Del Azuay Ltda",
+          "city": "Cuenca",
+          "swift_code": "OADTECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Desarrollo De Los Pueblos Codesarrollo",
+      "branches": [
+        {
+          "branch_name": "Marcabeli Branch",
+          "city": "Marcabeli",
+          "swift_code": "CODSECEQ001"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "CODSECEQXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Del Emigrante Ecuatoriano Y Su Familia Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Del Emigrante Ecuatoriano Y Su Familia Ltda",
+          "city": "Guayaquil",
+          "swift_code": "OAREECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito De Vivienda Y Desarrollo Casa Facil Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito De Vivienda Y Desarrollo Casa Facil Ltda",
+          "city": "Loja",
+          "swift_code": "CHOVECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Del Azuay",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Del Azuay",
+          "city": "Gualaceo",
+          "swift_code": "CHCZECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito De Los Servidores Publicos Del Ministerio De Educacion Y Cultura",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito De Los Servidores Publicos Del Ministerio De Educacion Y Cultura",
+          "city": "Quito",
+          "swift_code": "OAIVECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito De La Pequena Empresa Zamora Chinchipe",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito De La Pequena Empresa Zamora Chinchipe",
+          "city": "Zamora",
+          "swift_code": "CAOQECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito De La Pequena Empresa De Pastaza Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito De La Pequena Empresa De Pastaza Ltda",
+          "city": "Puyo",
+          "swift_code": "CACQECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito De La Pequena Empresa De Loja Cacpe Loja Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito De La Pequena Empresa De Loja Cacpe Loja Ltda",
+          "city": "Loja",
+          "swift_code": "CARQECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito De La Pequena Empresa Biblian Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito De La Pequena Empresa Biblian Ltda",
+          "city": "Biblian",
+          "swift_code": "CPMBECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito De La Microempresafortuna",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito De La Microempresafortuna",
+          "city": "Loja",
+          "swift_code": "OAIPECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito De La Camara De Comercio De Pindal Cadecopi",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito De La Camara De Comercio De Pindal Cadecopi",
+          "city": "Pindal",
+          "swift_code": "OAECECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito De La Pequena Empresa Cacpe Yanzatza Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito De La Pequena Empresa Cacpe Yanzatza Ltda",
+          "city": "Yantzaza",
+          "swift_code": "CAIQECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Fundar",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Fundar",
+          "city": "Vinces",
+          "swift_code": "OARFECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Cuna De La Nacionalidad Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Cuna De La Nacionalidad Ltda",
+          "city": "Guayaquil",
+          "swift_code": "OAICECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Frandesc Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Frandesc Ltda",
+          "city": "Riobamba",
+          "swift_code": "CRTFECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Focla",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Focla",
+          "city": "Lago",
+          "swift_code": "CHDFECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Fernando Daquilema",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Fernando Daquilema",
+          "city": "Riobamba",
+          "swift_code": "CHCFECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Esperanza Y Progreso Del Valle",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Esperanza Y Progreso Del Valle",
+          "city": "Ruminahui",
+          "swift_code": "CAOZECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Esfuerzo Unido Para El Desarrollo Del Chilco La Esperanza Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Esfuerzo Unido Para El Desarrollo Del Chilco La Esperanza Ltda",
+          "city": "Tisaleo",
+          "swift_code": "CHEZECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Empleados Bancarios De El Oro Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Empleados Bancarios De El Oro Ltda",
+          "city": "Machala",
+          "swift_code": "OAIEECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Escencia Indigena Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Escencia Indigena Ltda",
+          "city": "Ibarra",
+          "swift_code": "OACEECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito El Transportista Cacet",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito El Transportista Cacet",
+          "city": "Quito",
+          "swift_code": "OACTECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Emprendedores Coopemprender Limitada",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Emprendedores Coopemprender Limitada",
+          "city": "Quito",
+          "swift_code": "OAEEECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito El Sagrario Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito El Sagrario Ltda",
+          "city": "Ambato",
+          "swift_code": "CHSGECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito El Migrante Solidario",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito El Migrante Solidario",
+          "city": "Biblian",
+          "swift_code": "CHDGECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito El Discapacitado",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito El Discapacitado",
+          "city": "Guayaquil",
+          "swift_code": "CHOOECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito El Calvario Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito El Calvario Ltda",
+          "city": "Tisaleo",
+          "swift_code": "OARVECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Educadores Tulcan Ltda.",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Educadores Tulcan Ltda.",
+          "city": "Tulcan",
+          "swift_code": "OARDECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Educadores De Zamora Chinchipe Ltd",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Educadores De Zamora Chinchipe Ltd",
+          "city": "Zamora",
+          "swift_code": "OADDECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Educadores De Pastaza Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Educadores De Pastaza Ltda",
+          "city": "Puyo",
+          "swift_code": "OARUECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Educadores De Tungurahua Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Educadores De Tungurahua Ltda",
+          "city": "Ambato",
+          "swift_code": "CETAECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito La Benefica Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito La Benefica Ltda",
+          "city": "El",
+          "swift_code": "CHEFECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Educadores Primarios Del Cotopaxi",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Educadores Primarios Del Cotopaxi",
+          "city": "Latacunga",
+          "swift_code": "OACDECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Juventud Ecuatoriana Progresista Ltda.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cuenca",
+          "swift_code": "CJEPECEQXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Kuri Wasi Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Kuri Wasi Ltda",
+          "city": "Pelileo",
+          "swift_code": "CHOKECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Juan Pio De Mora Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Juan Pio De Mora Ltda",
+          "city": "San Miguel",
+          "swift_code": "CAEJECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Juan De Salinas",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Juan De Salinas",
+          "city": "Sangolqui",
+          "swift_code": "CJSLECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Jardin Azuayo Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Jardin Azuayo Ltda",
+          "city": "Paute",
+          "swift_code": "CCJAECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Jose-airo",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Jose-airo",
+          "city": "Loja",
+          "swift_code": "CARJECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Inti Wasi Ltda Inticoop",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Inti Wasi Ltda Inticoop",
+          "city": "Saraguro",
+          "swift_code": "CHTTECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Joyocoto Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Joyocoto Ltda",
+          "city": "Guaranda",
+          "swift_code": "CATJECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Intercultural Tarpuk Runa Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Intercultural Tarpuk Runa Ltda",
+          "city": "Ambato",
+          "swift_code": "OADIECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Iliniza Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Iliniza Ltda",
+          "city": "Latacunga",
+          "swift_code": "CAIZECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Inka Kipu",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Inka Kipu",
+          "city": "Ambato",
+          "swift_code": "CACKECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Huinara Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Huinara Ltda",
+          "city": "Jima",
+          "swift_code": "COTHECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Huaquillas Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Huaquillas Ltda",
+          "city": "Huaquillas",
+          "swift_code": "CHDQECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Guaranda Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Guaranda Ltda",
+          "city": "Guaranda",
+          "swift_code": "CRGNECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Guachapala",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Guachapala",
+          "city": "Guachapala",
+          "swift_code": "CHTHECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Grameen Amazonas Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Grameen Amazonas Ltda",
+          "city": "Lago Agrio",
+          "swift_code": "OAIRECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Gonzanama",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Gonzanama",
+          "city": "Gonzanama",
+          "swift_code": "CHRZECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Genesis Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Genesis Ltda",
+          "city": "Ibarra",
+          "swift_code": "OADGECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Ganansol Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Ganansol Ltda",
+          "city": "Gualaceo",
+          "swift_code": "OARGECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Mujeres Unidas",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Mujeres Unidas",
+          "city": "Ibarra",
+          "swift_code": "CDMUECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Minga Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Minga Ltda",
+          "city": "Riobamba",
+          "swift_code": "CMINECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Migrantes Y Emprendedores Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Migrantes Y Emprendedores Ltda",
+          "city": "Loja",
+          "swift_code": "OADMECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Merced Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Merced Ltda",
+          "city": "Cuenca",
+          "swift_code": "CSMDECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Maria Auxiliadora De Quiroga Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Maria Auxiliadora De Quiroga Ltda",
+          "city": "Cotacachi",
+          "swift_code": "OADRECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Marcabeli Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Marcabeli Ltda",
+          "city": "Marcabeli",
+          "swift_code": "CHTBECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Maquita Cushun Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Maquita Cushun Ltda",
+          "city": "Ambato",
+          "swift_code": "CHRQECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Manuel Esteban Godoy Ortega Ltda Coopmego",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Manuel Esteban Godoy Ortega Ltda Coopmego",
+          "city": "Loja",
+          "swift_code": "CPGMECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Manantial De Oro Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Manantial De Oro Ltda",
+          "city": "Machachi",
+          "swift_code": "CMCNECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Malchingui Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Malchingui Ltda",
+          "city": "Pedro",
+          "swift_code": "CDMLECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Magisterio Manabita Limitada",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Magisterio Manabita Limitada",
+          "city": "Portoviejo",
+          "swift_code": "OACIECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Macodes Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Macodes Ltda",
+          "city": "Cuenca",
+          "swift_code": "OADAECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Luz Del Valle",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Luz Del Valle",
+          "city": "Ruminahui",
+          "swift_code": "CATZECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Las Lagunas",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Las Lagunas",
+          "city": "Saraguro",
+          "swift_code": "OAIGECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Lucha Campesina",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Lucha Campesina",
+          "city": "Cumanda",
+          "swift_code": "CREHECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito La Nueva Jerusalen",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito La Nueva Jerusalen",
+          "city": "Quito",
+          "swift_code": "CDNJECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito La Libertad Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito La Libertad Ltda",
+          "city": "La",
+          "swift_code": "OADLECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito La Inmaculada De San Placido Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito La Inmaculada De San Placido Ltda",
+          "city": "Portoviejo",
+          "swift_code": "OAIIECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito La Floresta Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito La Floresta Ltda",
+          "city": "Ambato",
+          "swift_code": "OAELECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito La Dolorosa Ltda.",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito La Dolorosa Ltda.",
+          "city": "Duran",
+          "swift_code": "CHTDECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Profuturo Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Profuturo Ltda",
+          "city": "Cuenca",
+          "swift_code": "OACFECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Produccion Ahorro Inversion Servicio P.a.i.s. Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Produccion Ahorro Inversion Servicio P.a.i.s. Ltda",
+          "city": "Riobamba",
+          "swift_code": "OARRECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Prevision Ahorro Ydesarollo Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Prevision Ahorro Ydesarollo Ltda",
+          "city": "Quito",
+          "swift_code": "CHCVECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Policia Nacional Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Policia Nacional Ltda",
+          "city": "Quito",
+          "swift_code": "CPCCECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito San Martin De Tisaleo Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito San Martin De Tisaleo Ltda",
+          "city": "Tisaleo",
+          "swift_code": "OAINECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito San Juan De Cotogchoa",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito San Juan De Cotogchoa",
+          "city": "Ruminahui",
+          "swift_code": "CADJECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito San Jose Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito San Jose Ltda",
+          "city": "Chimbo",
+          "swift_code": "CSJSECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito San Marcos",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito San Marcos",
+          "city": "Azogues",
+          "swift_code": "OACSECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito San Gabriel Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito San Gabriel Ltda",
+          "city": "Montufar",
+          "swift_code": "CSGAECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito San Isidro",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito San Isidro",
+          "city": "Sucre",
+          "swift_code": "OARNECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito San Francisco Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito San Francisco Ltda",
+          "city": "Ambato",
+          "swift_code": "CSNFECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito San Fernando Limitada",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito San Fernando Limitada",
+          "city": "Latacunga",
+          "swift_code": "OAISECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito San Antonio Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito San Antonio Ltda",
+          "city": "Ibarra",
+          "swift_code": "OAESECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito San Fernando",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito San Fernando",
+          "city": "Ambato",
+          "swift_code": "OAEFECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito San Francisco De Asis Ltda.",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito San Francisco De Asis Ltda.",
+          "city": "Quito",
+          "swift_code": "CHTNECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Salasaca",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Salasaca",
+          "city": "San Pedro De Pelileo",
+          "swift_code": "OARLECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Runa Shungo",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Runa Shungo",
+          "city": "Latacunga",
+          "swift_code": "OACNECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Riochico",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Riochico",
+          "city": "Portoviejo",
+          "swift_code": "CHEHECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Riobamba",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Riobamba",
+          "city": "Riobamba",
+          "swift_code": "CHDMECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Quilanga Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Quilanga Ltda",
+          "city": "Quilanga",
+          "swift_code": "CHCQECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Puerto Lopez Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Puerto Lopez Ltda",
+          "city": "Puerto",
+          "swift_code": "OACUECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Puerto Francisco De Orellana",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Puerto Francisco De Orellana",
+          "city": "Francisco De",
+          "swift_code": "OARPECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Puellaro Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Puellaro Ltda",
+          "city": "Quito",
+          "swift_code": "CRPUECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Promocion De Vida Asociada Ltda Provida",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Promocion De Vida Asociada Ltda Provida",
+          "city": "Cuenca",
+          "swift_code": "CPVAECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Pedro Moncayo Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Pedro Moncayo Ltda",
+          "city": "Pedro",
+          "swift_code": "CPMYECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Pablo Munoz Vega",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Pablo Munoz Vega",
+          "city": "Tulcan",
+          "swift_code": "CHCBECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Pilahuin",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Pilahuin",
+          "city": "Salcedo",
+          "swift_code": "CAOHECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Padre Julian Lorente Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Padre Julian Lorente Ltda",
+          "city": "Loja",
+          "swift_code": "CHRPECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Oscus Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Oscus Ltda",
+          "city": "Ambato",
+          "swift_code": "CSOSECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Ocipsa",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Ocipsa",
+          "city": "Ambato",
+          "swift_code": "OAROECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Nuka Llakta Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Nuka Llakta Ltda",
+          "city": "Riobamba",
+          "swift_code": "CHTKECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Nuevos Horizontes Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Nuevos Horizontes Ltda",
+          "city": "Machala",
+          "swift_code": "CHRVECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Once De Junio",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Once De Junio",
+          "city": "Machala",
+          "swift_code": "CHRNECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Nueva Loja Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Nueva Loja Ltda",
+          "city": "Lago",
+          "swift_code": "OAEVECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Nueva Fuerza Alianza",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Nueva Fuerza Alianza",
+          "city": "Ambato",
+          "swift_code": "OACVECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Mushuk Pakarik",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Mushuk Pakarik",
+          "city": "Ambato",
+          "swift_code": "CHDHECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Mushuk Pakari Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Mushuk Pakari Ltda",
+          "city": "Salcedo",
+          "swift_code": "CHCKECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Mushug Causay Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Mushug Causay Ltda",
+          "city": "Ambato",
+          "swift_code": "CHRHECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Mushuc Runa Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Mushuc Runa Ltda",
+          "city": "Ambato",
+          "swift_code": "CMRUECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Multicultural Banco Indigena Ltda",
+      "branches": [
+        {
+          "branch_name": "Cooperativa De Ahorro Y Credito Multicultural Banco Indigena Ltda",
+          "city": "Ambato",
+          "swift_code": "CHTMECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Del Austro S.a.",
+      "branches": [
+        {
+          "branch_name": "Sucursal Guayaquil",
+          "city": "Guayaquil",
+          "swift_code": "AUSTECEQ100"
+        },
+        {
+          "branch_name": "Comercio Exterior",
+          "city": "Cuenca",
+          "swift_code": "AUSTECEQ305"
+        },
+        {
+          "branch_name": "Servicios Bancarios",
+          "city": "Cuenca",
+          "swift_code": "AUSTECEQ310"
+        },
+        {
+          "branch_name": "Tresoria",
+          "city": "Cuenca",
+          "swift_code": "AUSTECEQ315"
+        },
+        {
+          "branch_name": "Sucursal Quito",
+          "city": "Quito",
+          "swift_code": "AUSTECEQ500"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cuenca",
+          "swift_code": "AUSTECEQXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Machala, C.a.",
+      "branches": [
+        {
+          "branch_name": "Pinas",
+          "city": "Pinas",
+          "swift_code": "BMACECEG0E3"
+        },
+        {
+          "branch_name": "Naranjal",
+          "city": "Naranjal",
+          "swift_code": "BMACECEG0E4"
+        },
+        {
+          "branch_name": "Pasaje",
+          "city": "Pasaje",
+          "swift_code": "BMACECEG0E5"
+        },
+        {
+          "branch_name": "Zaruma",
+          "city": "Zaruma",
+          "swift_code": "BMACECEG0E6"
+        },
+        {
+          "branch_name": "Santa Rosa",
+          "city": "Santa Rosa",
+          "swift_code": "BMACECEG0E7"
+        },
+        {
+          "branch_name": "Quevedo",
+          "city": "Quevedo",
+          "swift_code": "BMACECEG0E8"
+        },
+        {
+          "branch_name": "Guayaquil",
+          "city": "Guayaquil",
+          "swift_code": "BMACECEG0EG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Guayaquil",
+          "swift_code": "BMACECEGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Loja",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Loja",
+          "swift_code": "LOJBECELXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De La Produccion S.a. Produbanco",
+      "branches": [
+        {
+          "branch_name": "Guayaquil",
+          "city": "Guayaquil",
+          "swift_code": "PRODECEQ100"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "PRODECEQXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Comercial De Manabi S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Portoviejo",
+          "swift_code": "CBMIECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Guayaquil",
+      "branches": [
+        {
+          "branch_name": "Guayaquil",
+          "city": "Guayaquil",
+          "swift_code": "GUAYECEG100"
+        },
+        {
+          "branch_name": "Comercio Exterior Region Centro",
+          "city": "Guayaquil",
+          "swift_code": "GUAYECEG105"
+        },
+        {
+          "branch_name": "Sucursal Cuenca",
+          "city": "Cuenca",
+          "swift_code": "GUAYECEG300"
+        },
+        {
+          "branch_name": "Comercio Exterior Region Sur",
+          "city": "Cuenca",
+          "swift_code": "GUAYECEG305"
+        },
+        {
+          "branch_name": "Sucursal Quito",
+          "city": "Quito",
+          "swift_code": "GUAYECEG500"
+        },
+        {
+          "branch_name": "Comercio Exterior Region Norte",
+          "city": "Quito",
+          "swift_code": "GUAYECEG505"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Guayaquil",
+          "swift_code": "GUAYECEGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Central Del Ecuador",
+      "branches": [
+        {
+          "branch_name": "Quito",
+          "city": "Quito",
+          "swift_code": "BCENECEQ100"
+        },
+        {
+          "branch_name": "Guayaquil",
+          "city": "Guayaquil",
+          "swift_code": "BCENECEQ120"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "BCENECEQXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Cofiec C.a.",
+      "branches": [
+        {
+          "branch_name": "Ambato",
+          "city": "Ambato",
+          "swift_code": "COFBECE1AMB"
+        },
+        {
+          "branch_name": "Cuenca",
+          "city": "Cuenca",
+          "swift_code": "COFBECE1CUE"
+        },
+        {
+          "branch_name": "9 01 6077 Guayaquil",
+          "city": "Guayaquil",
+          "swift_code": "COFBECE1GYE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "COFBECE1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "COFBECEUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Capital S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "BCAPECEQXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Caja De Credito Agricola Y Ganadero S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "EGGAECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bolivariano C.a.",
+      "branches": [
+        {
+          "branch_name": "Matriz",
+          "city": "Guayaquil",
+          "swift_code": "BBOLECEG100"
+        },
+        {
+          "branch_name": "Sucursal Quito",
+          "city": "Quito",
+          "swift_code": "BBOLECEG500"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Guayaquil",
+          "swift_code": "BBOLECEGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Amazonas S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "BACZECE1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Guayaquil",
+          "swift_code": "BASAECEGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asociacion De Bancos Privados Del Ecuador",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "ABPCECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Analytica Investments",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "IVTTECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Americorp Intermediaria Financiera S.a.",
+      "branches": [
+        {
+          "branch_name": "Americorp Intermediaria Financiera S.a.",
+          "city": "Guayaquil",
+          "swift_code": "AMIFECE1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asociacion Mutualista De Ahorro Y Credito Para La Vivienda Pichincha",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "MUPIECEQXXX"
+        }
+      ]
+    }
+  ]
+}

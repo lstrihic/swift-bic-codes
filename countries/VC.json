@@ -1,0 +1,87 @@
+{
+  "country_name": "Saint Vincent and the Grenadines",
+  "alpha_2": "VC",
+  "country_code": "670",
+  "banks": [
+    {
+      "bank_name": "Vanilla Direct Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingstown",
+          "swift_code": "VDBLVCV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stb Swiss Trust Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingstown",
+          "swift_code": "STBSVCV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Commercial Bank (svg) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingstown",
+          "swift_code": "NCBVVC22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Loyal Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingstown",
+          "swift_code": "LOYAVCVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Government Of St.vincent And The Grenadines",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingstown",
+          "swift_code": "GVVGVCVCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Euro Pacific Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingstown",
+          "swift_code": "EPBLVCVCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caribbean And Overseas Trust Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingstown",
+          "swift_code": "CADTVC21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "B2b Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingstown",
+          "swift_code": "BTBBVCVCXXX"
+        }
+      ]
+    }
+  ]
+}

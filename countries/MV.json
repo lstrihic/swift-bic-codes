@@ -1,0 +1,47 @@
+{
+  "country_name": "Maldives",
+  "alpha_2": "MV",
+  "country_code": "462",
+  "banks": [
+    {
+      "bank_name": "The Mauritius Commercial Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Male",
+          "swift_code": "MCBLMVMVXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Maldives Plc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Male",
+          "swift_code": "MALBMVMVXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maldives Islamic Bank Pvt. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Male",
+          "swift_code": "MADVMVMVXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maldives Monetary Authority",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Male",
+          "swift_code": "MMAUMVMVXXX"
+        }
+      ]
+    }
+  ]
+}

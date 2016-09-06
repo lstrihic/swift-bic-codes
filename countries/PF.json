@@ -1,0 +1,107 @@
+{
+  "country_name": "French Polynesia",
+  "alpha_2": "PF",
+  "country_code": "258",
+  "banks": [
+    {
+      "bank_name": "Tresor Public Papeete",
+      "branches": [
+        {
+          "branch_name": "Tresor Public Papeete",
+          "city": "Papeete",
+          "swift_code": "TRPUPFT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Socredo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Papeete",
+          "swift_code": "SOCBPFTXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Office Postes Et Telecom De Polynesie Fr",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Faaa",
+          "swift_code": "OFTPPFT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sogelease Bdp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Papeete",
+          "swift_code": "SOGDPFT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oceor Lease Tahiti",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Papeete",
+          "swift_code": "OCLTPFT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oceanienne De Financement",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Papeete",
+          "swift_code": "OCFOPFT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ieom Papeete",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Papeete",
+          "swift_code": "INDDPFT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Paribas Polynesie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Papeete",
+          "swift_code": "PARBPFT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De Tahiti S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Papeete",
+          "swift_code": "CEPAPFTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De Polynesie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Papeete",
+          "swift_code": "BPOLPFTPXXX"
+        }
+      ]
+    }
+  ]
+}

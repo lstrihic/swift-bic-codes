@@ -1,0 +1,612 @@
+{
+  "country_name": "Monaco",
+  "alpha_2": "MC",
+  "country_code": "492",
+  "banks": [
+    {
+      "bank_name": "Venus Management Company S.a.m.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "VENUMCMCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United European Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "UNEUMCM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs (monaco) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "UBSWMCMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ste Fire Monegasque De Credit-cogenec",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "SFMCMCM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Monegasque De Credit",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "SOMCMCM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Monte Carlo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "SOGEMCM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Bank And Trust Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "SGTMMCM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Bank And Trust Monaco",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "SGBTMCMCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Securitas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "SEUAMCM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Wealth Management Monaco",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "BPPBMCMCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Berkeley Capital Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "BECIMCM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Bank S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "BARCMCC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Bank Plc Monaco",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "BARCMCMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Martin Maurel",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "MAEAMCM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque J. Safra Sarasin (monaco) Sa",
+      "branches": [
+        {
+          "branch_name": "Only Banque De France",
+          "city": "Monaco",
+          "swift_code": "BJSBMCMXLCO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "BJSBMCMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Internationale De Credit Et De Gestion Monaco",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "BCGMMCM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De Gestion Edmond De Rothschild-monaco",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "BERLMCMCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Von Ernst (monaco",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "ERMOMCM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Popolare Di Sondrio (suisse) Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "POSOMCM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Havilland (monaco) S.a.m.",
+      "branches": [
+        {
+          "branch_name": "Monaco",
+          "city": "Monaco",
+          "swift_code": "HAVLMCMXBDF"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "HAVLMCMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Martin Maurel Sella",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "MMSEMCM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Andbanc Monaco Sam",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "BACAMCMCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp-paribas Sa (formerly Banque Nationale De Paris S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "BNPAMCM1XXX"
+        },
+        {
+          "branch_name": "Apac Financement Ent Idf",
+          "city": "Paris",
+          "swift_code": "BNPAFRPPAFE"
+        },
+        {
+          "branch_name": "Brest",
+          "city": "Brest",
+          "swift_code": "BNPAFRPPBRE"
+        },
+        {
+          "branch_name": "Change Et Devises Roubaix",
+          "city": "Paris",
+          "swift_code": "BNPAFRPPCDE"
+        },
+        {
+          "branch_name": "Maisons Des Entrepreneurs Dr Dap",
+          "city": "Paris",
+          "swift_code": "BNPAFRPPMDE"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Marseillaise De Credit",
+      "branches": [
+        {
+          "branch_name": "Ag Monte Carlo",
+          "city": "Monaco",
+          "swift_code": "SMCTMCM1P02"
+        },
+        {
+          "branch_name": "Ag Fontvieille",
+          "city": "Monaco",
+          "swift_code": "SMCTMCM1P04"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "SMCTMCM1XXX"
+        },
+        {
+          "branch_name": "Branch",
+          "city": "Aix En Provence",
+          "swift_code": "SMCTFR2AAIX"
+        },
+        {
+          "branch_name": "Branch",
+          "city": "Avignon",
+          "swift_code": "SMCTFR2AAVI"
+        },
+        {
+          "branch_name": "Branch",
+          "city": "Beziers",
+          "swift_code": "SMCTFR2ABZR"
+        },
+        {
+          "branch_name": "Branch",
+          "city": "Grasse",
+          "swift_code": "SMCTFR2AGRA"
+        },
+        {
+          "branch_name": "Branch",
+          "city": "Marseille",
+          "swift_code": "SMCTFR2AMAR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Marseille",
+          "swift_code": "SMCTFR2AXXX"
+        },
+        {
+          "branch_name": "Branch",
+          "city": "Montpellier",
+          "swift_code": "SMCTFR2AMPL"
+        },
+        {
+          "branch_name": "Branch",
+          "city": "Nice",
+          "swift_code": "SMCTFR2ANIC"
+        },
+        {
+          "branch_name": "Branch",
+          "city": "Nimes",
+          "swift_code": "SMCTFR2ANIM"
+        },
+        {
+          "branch_name": "Branch",
+          "city": "Orange",
+          "swift_code": "SMCTFR2AORA"
+        },
+        {
+          "branch_name": "Branch",
+          "city": "Perpignan",
+          "swift_code": "SMCTFR2APER"
+        },
+        {
+          "branch_name": "Branch",
+          "city": "Saint Tropez",
+          "swift_code": "SMCTFR2ASTP"
+        },
+        {
+          "branch_name": "Branch",
+          "city": "Toulon",
+          "swift_code": "SMCTFR2ATLN"
+        },
+        {
+          "branch_name": "Branch",
+          "city": "Valence",
+          "swift_code": "SMCTFR2AVAL"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Du Nord",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "NORDMCM1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lille",
+          "swift_code": "NORDFRPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Foncier De Monaco",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "CFMOMCMXXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Paris",
+          "swift_code": "CFMOFRP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Monacredit",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "MONCMCM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mirabaud Gestion Privee Sam",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "MGRSMCM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kbl Monaco Private Bankers",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "KBLXMCMCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Private Bank (monaco) S.a. (formerly Hsbc Republic Bank (monaco) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "BLICMCMCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lcl (le Credit Lyonnais) Monaco",
+      "branches": [
+        {
+          "branch_name": "Lcl Le Credit Lyonnais Monaco Beaux Arts",
+          "city": "Monaco",
+          "swift_code": "CRLYMCM1BAS"
+        },
+        {
+          "branch_name": "Lcl Le Credit Lyonnais Centre Daffaires Entreprises",
+          "city": "Monaco",
+          "swift_code": "CRLYMCM1CAE"
+        },
+        {
+          "branch_name": "Lcl Le Credit Lyonnais Monaco Fontvieille",
+          "city": "Monaco",
+          "swift_code": "CRLYMCM1FVI"
+        },
+        {
+          "branch_name": "Lcl Le Credit Lyonnais Monaco La Condamine",
+          "city": "Monaco",
+          "swift_code": "CRLYMCM1LCM"
+        },
+        {
+          "branch_name": "Lcl Le Credit Lyonnais Monaco Les Moulins",
+          "city": "Monaco",
+          "swift_code": "CRLYMCM1LMO"
+        },
+        {
+          "branch_name": "Lcl Le Credit Lyonnais Monte Carlo",
+          "city": "Monaco",
+          "swift_code": "CRLYMCM1MCA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "CRLYMCM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "G Et G Private Finance Sam",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "GNPFMCMCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Efg Bank (monaco",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "EFGBMCMCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Julius Baer (monaco) S.a.m.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "BAERMCMCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse (monaco",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "CRESMCMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Mobilier De Monaco Cmm",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "CMMDMCM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Compagnie Monegasque De Banque S.a.m.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "CMBMMCMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole Monaco (crca Provence Cote D'azur Monaco",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "AGRIMCM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Compagnie De Gestion Privee Monegasque",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "CGPMMCM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cm-cic Monaco",
+      "branches": [
+        {
+          "branch_name": "Cm-cic Banque Europenne Du Credit Mutuel Monaco",
+          "city": "Monaco",
+          "swift_code": "CMCIMCM1BEC"
+        },
+        {
+          "branch_name": "Cm-cic Lyonnaise De Banque",
+          "city": "Monaco",
+          "swift_code": "CMCIMCM1LYB"
+        },
+        {
+          "branch_name": "Cm-cic Cf Sud Europe Mediterranee",
+          "city": "Monaco",
+          "swift_code": "CMCIMCM1SEM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "CMCIMCM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cgm Compagnie De Gestion Privee Mon Egasque S.a.m.",
+      "branches": [
+        {
+          "branch_name": "Aim-poms Service",
+          "city": "Monaco",
+          "swift_code": "AZFMMCMCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capitalia Luxembourg S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "CLSMMCM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bsi Monaco Sam",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "BSILMCMCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bpca Monaco",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monaco",
+          "swift_code": "CCBPMCM1XXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2042 @@
+{
+  "country_name": "Thailand",
+  "alpha_2": "TH",
+  "country_code": "764",
+  "banks": [
+    {
+      "bank_name": "Thanapol Finance And Securities Co Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "THFETHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thanachart Securities Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "NASMTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thana One Finance And Securities Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "TOFETHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yuanta Securities (thailand) Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "YSTCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wall Street Finance And Securities Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "WSFSTHB10BK"
+        },
+        {
+          "branch_name": "Yaowaraj Branch",
+          "city": "Bangkok",
+          "swift_code": "WSFSTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vickers Ballas Securities Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "VIBSTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uob Kay Hian Securities (thailand) Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "UKHSTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Securities Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "UNSETHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Securities Co Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "UNIUTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Asia Finance Public Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "UAPFTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Securities (thailand) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "SWPSTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tsfc Securities Limited.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "TSFCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trinity Securities Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "TRSOTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trang Lending Office",
+      "branches": [
+        {
+          "branch_name": "Trang",
+          "city": "Trang",
+          "swift_code": "LENDTHB10BT"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tisco Securities Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "TSCCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tisco Bank Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "TFPCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Stock Exchange Of Thailand",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "XBKKTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Sri Muang Insurance Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "SMICTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Siam Industrial Credit Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "SSICTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Revenue Department Of Thailand",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "REDPTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Office Of The Securities And Exchange Commission",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "OSECTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Ocean Securities And Finance Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "OCSFTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thaisri Insurance Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "THIOTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thaimex Finance And Securities Public Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "TFSUTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thailand Post Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "TPSTTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thailand Clearing House Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "TCHCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thai Securities Co.ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "THASTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thai Samsung Electronics Co.,ltd.",
+      "branches": [
+        {
+          "branch_name": "Tse",
+          "city": "Chonburi",
+          "swift_code": "SECTTHB15A0"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Chonburi",
+          "swift_code": "SECTTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thai Sakura Finance And Securities Co Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "TSFSTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thai Keha Credit Foncier Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "TKCFTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thai Investment And Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "THISTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thai Fuji Finance And Securities Co Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "TFFSTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thai Financial Trust Public Co Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "TFTPTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thai Financial Syndicate Public Co Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "TFSPTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thai Credit Retail Bank Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "THCETHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thai Bond Market Association",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "TBDCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thai Asset Management Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "TAMOTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Railway Of Thailand",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "STRHTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Securities Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "SCSETHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jpmorgan Chase Bank, N.A., Bangkok Branch",
+      "branches": [
+        {
+          "branch_name": "Interanational Banking Facility",
+          "city": "Bangkok",
+          "swift_code": "CHASTHBXIBF"
+        },
+        {
+          "branch_name": "Test Key And Bke Administration",
+          "city": "Bangkok",
+          "swift_code": "CHASTHBXKEY"
+        },
+        {
+          "branch_name": "Loans And Depositis Services",
+          "city": "Bangkok",
+          "swift_code": "CHASTHBXLND"
+        },
+        {
+          "branch_name": "Money Transfer Services",
+          "city": "Bangkok",
+          "swift_code": "CHASTHBXMTS"
+        },
+        {
+          "branch_name": "Tradingtreasury Operations",
+          "city": "Bangkok",
+          "swift_code": "CHASTHBXTRO"
+        },
+        {
+          "branch_name": "Trade Services",
+          "city": "Bangkok",
+          "swift_code": "CHASTHBXTSD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "CHASTHBXXXX"
+        },
+        {
+          "branch_name": "Jpmorgan Securities-thailand",
+          "city": "Bangkok",
+          "swift_code": "CHASTHBXSEC"
+        }
+      ]
+    },
+    {
+      "bank_name": "Islamic Bank Of Thailand",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "TIBTTHBKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Indian Overseas Bank (Formerly Bharat Overseas Bank Ltd.)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "BHOBTHBKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Government Savings Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "GSBATHBKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Export-Import Bank Of Thailand",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "EXTHTHBKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Ag, Bangkok Branch",
+      "branches": [
+        {
+          "branch_name": "Bangkok",
+          "city": "Bangkok",
+          "swift_code": "DEUTTHBKF4C"
+        },
+        {
+          "branch_name": "Bangkok",
+          "city": "Bangkok",
+          "swift_code": "DEUTTHBKGMO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "DEUTTHBKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cimb Thai Bank Public Company Limited (Formerly Bankthai Public Company Limited)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "UBOBTHBKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Thailand - Bangkok Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "BNPATHBKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Thailand, Bahtnet Payment System",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "BOTHTHBPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Thailand",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "BOTHTHBKXXX"
+        },
+        {
+          "branch_name": "Accounting Group",
+          "city": "Bangkok",
+          "swift_code": "BOTHTHB1ACG"
+        },
+        {
+          "branch_name": "Accounting And Supply Department",
+          "city": "Nakhon Pathom",
+          "swift_code": "BOTHTHB1ASD"
+        },
+        {
+          "branch_name": "Bot Deposits Account Services Team",
+          "city": "Bangkok",
+          "swift_code": "BOTHTHB1CAT"
+        },
+        {
+          "branch_name": "Bot Deposits Account Management Services",
+          "city": "Bangkok",
+          "swift_code": "BOTHTHB1DAS"
+        },
+        {
+          "branch_name": "Deposits And Debt Instruments Group",
+          "city": "Bangkok",
+          "swift_code": "BOTHTHB1DDG"
+        },
+        {
+          "branch_name": "Electronic Clearing House, Payment Systems Group",
+          "city": "Bangkok",
+          "swift_code": "BOTHTHB1ECH"
+        },
+        {
+          "branch_name": "Fund Management Group",
+          "city": "Bangkok",
+          "swift_code": "BOTHTHB1FMG"
+        },
+        {
+          "branch_name": "Credit And Refinancing Division, Financial Markets Operations Group",
+          "city": "Bangkok",
+          "swift_code": "BOTHTHB1FOC"
+        },
+        {
+          "branch_name": "Treasury Operations Division, F O G",
+          "city": "Bangkok",
+          "swift_code": "BOTHTHB1FOT"
+        },
+        {
+          "branch_name": "Bot Northeastern Regional Office",
+          "city": "Bangkok",
+          "swift_code": "BOTHTHB1NEO"
+        },
+        {
+          "branch_name": "Note Issue Group",
+          "city": "Bangkok",
+          "swift_code": "BOTHTHB1NIG"
+        },
+        {
+          "branch_name": "Bot Northern Regional Office",
+          "city": "Bangkok",
+          "swift_code": "BOTHTHB1NRO"
+        },
+        {
+          "branch_name": "Bahtnet Operation Team 1, Payment Systems Group",
+          "city": "Bangkok",
+          "swift_code": "BOTHTHB1OP1"
+        },
+        {
+          "branch_name": "Bahtnet Operation Team 2, Payment Systems Group",
+          "city": "Bangkok",
+          "swift_code": "BOTHTHB1OP2"
+        },
+        {
+          "branch_name": "Bahtnet Operation Team, Payment Systems Group",
+          "city": "Bangkok",
+          "swift_code": "BOTHTHB1PSG"
+        },
+        {
+          "branch_name": "Bot Southern Regional Office",
+          "city": "Bangkok",
+          "swift_code": "BOTHTHB1SRO"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of China, Bangkok Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "BKCHTHBKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Ayudhya Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "AYUDTHBKXXX"
+        },
+        {
+          "branch_name": "Phuket",
+          "city": "Phuket",
+          "swift_code": "AYUDTHB10BP"
+        },
+        {
+          "branch_name": "Songkhla",
+          "city": "Songkhla",
+          "swift_code": "AYUDTHB10BS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of America, N.A. Bangkok",
+      "branches": [
+        {
+          "branch_name": "Bangkok Branch",
+          "city": "Bangkok",
+          "swift_code": "BOFATH2XTHA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "BOFATH2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Small Industry Finance Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "SIFPTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Osk Securities (thailand) Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "BFSOTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ksit Finance And Securities Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "KFSCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "G20 Asset Management Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "GSMNTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cimb Securities (thailand) Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "SEETTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asia Wealth Securities Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "CGSTTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Overseas Bank (Thai) Public Company Limted",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "UOVBTHBKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Royal Bank Of Scotland N.V., Bangkok Branch, Formerly Known As Abn Amro Bank N.V., Bangkok Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "ABNATHBKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thanachart Bank Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "THBKTHBKXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "EFSPTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thailand Securities Depository Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "TSDCTHBKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank (Thai) Pcl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "SCBLTHBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Small And Medium Entreprise Development Bank Of Thailand",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "SMEBTHBKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oversea-Chinese Banking Corporation Limited, Bangkok Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "OCBCTHBKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mizuho Corporate Bank, Ltd., Bangkok Branch (Formerly The Dai-Ichi Kangyo Bank, Ltd., Bangkok Branch)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "MHCBTHBKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercedes-Benz Manufacturing (Thailand) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "MBMATHBKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercedes-Benz Leasing (Thailand) Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "MBLETHBKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercedes-Benz (Thailand) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "DAIXTHBKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mega International Commercial Bank Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Bangna Branch",
+          "city": "Bangkok",
+          "swift_code": "ICBCTHBKBNA"
+        },
+        {
+          "branch_name": "Head Office, Bangkok",
+          "city": "Bangkok",
+          "swift_code": "ICBCTHBKXXX"
+        },
+        {
+          "branch_name": "Chonburi Branch",
+          "city": "Chonburi",
+          "swift_code": "ICBCTHBKCHB"
+        },
+        {
+          "branch_name": "Banpong Branch",
+          "city": "Rajburi",
+          "swift_code": "ICBCTHBKBPO"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asia Securities Trading Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "ASSRTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asia Plus Securities Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "AAASTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asia Equity Thailand Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "ASETTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asia Credit Foncier Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "ASCITHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Apple Wealth Securities Company Limited",
+      "branches": [
+        {
+          "branch_name": "Apple Wealth Securities Company Limited",
+          "city": "Bangkok",
+          "swift_code": "AWSCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amsteel Securities (thailand) Public Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "ASTLTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "American Express Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "AEIBTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Atas International Trading House (thailand) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "AITHTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aira Securities Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "PSSCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aig Retail Bank Public Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "AFTCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aia Company, Thailand Branch",
+      "branches": [
+        {
+          "branch_name": "Aia Company, Thailand Branch",
+          "city": "Bangkok",
+          "swift_code": "ACTHTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Afco Securities Corp Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "AFCETHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Advance Finance Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "ADVNTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Adkinson Securities Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "ADKSTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Acl Securities Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "ACSCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "W.i. Carr (far East) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "WICATHB1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "WICAMYK1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "WICAKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chonburi Lending Office",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chonburi",
+          "swift_code": "LENDTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chiangmai Lending Office",
+      "branches": [
+        {
+          "branch_name": "Chiangmai",
+          "city": "Chiangmai",
+          "swift_code": "LENDTHB10BC"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cathay Trust Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "CATTTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Nomura Securities Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "CAPETHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Nomura Securities Public Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "NMRSTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caisse Nationale Du Credit Agricole",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "AGRITHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bualuang Securities Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "BSPOTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Book Club Finance Public Company Limited, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "BCFPTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Prime Peregine Securities (thailand) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "BPPETHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Baring Research Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "BARHTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays De Zoete Wedd Securities Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "BZWLTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bara Development Finance And Securites Co.ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "BDFCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Thailand Employee's Thrift And Credit Cooperative Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "TETCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank For Agriculture And Agricultural Cooperatives",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "ALCBTHB1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "BAABTHBKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bangkok Mass Transit Authority",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "MARHTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bangkok Investment Public Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "BIPUTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bangkok First Investment And Trust Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "BFITTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ayudhya Securities Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Bangkok",
+          "city": "Bangkok",
+          "swift_code": "AYITTHB1001"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "AYITTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asset Plus Securities Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "APSSTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fitch Ratings (thailand) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "FRIPTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Bangkok City Finance And Securities Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "FBCFTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Asia Securities Public Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "FASPTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finansia Syrus Securities Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "SYSOTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finansa Securities Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "FIEUTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finansa Credit Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "FIRDTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finance Center-fucc Bank International",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "FUCCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Far East Securities Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "FESCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Expressway And Rapid Transit Authority Of Thailand",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "ERTATHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Electricity Generating Authority Of Thailand",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "EGATTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dynamic Eastern Finance Thailand (1991) Public Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "DEFTTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dhana Nakorn Finance And Securities Public Co.,ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "DNFETHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deposit Protection Agency",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "DEPGTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dbs Vickers Securities (thailand) Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "DBSVTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Crosby Research Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "CRSHTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Securities (thailand) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "CSFBTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Comptroller General's Department",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "CGDXTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clsa Securities (thailand) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "CLSATHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citicorp Securities (thailand) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "CISTTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Krungthai Thanakit Finance Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "KRUTTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kim Eng Securities (thailand) Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "KESATHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kiatnakin Finance And Securities Public Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "KFSPTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kiatnakin Bank Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "KIFITHB1XXX"
+        },
+        {
+          "branch_name": "Kiatnakin Bank Public Company Limited",
+          "city": "Bangkok",
+          "swift_code": "KKPBTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Khon Kaen Lending Office",
+      "branches": [
+        {
+          "branch_name": "Khon Kaen",
+          "city": "Khon Kaen",
+          "swift_code": "LENDTHB10BH"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kgi Securities (thailand) Public Company Limited.",
+      "branches": [
+        {
+          "branch_name": "Bangkok",
+          "city": "Bangkok",
+          "swift_code": "KSOPTHB1001"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "KSOPTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kasikorn Securities Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "KSPCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kasikorn Asset Management Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "KAMOTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kaewsong (2548) Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "BCFSTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jp Morgan Securities (thailand) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "JPSTTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial And Commercial Bank Of China (thai) Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "ICBKTHBKXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "ACLXTHBKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "I V Global Securities Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "ISPCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hg Asia Investment Research Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "ASIRTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Government Pension Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "GOPFTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Government Housing Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "GOHUTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Globlex Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "GLSCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Thai Finance And Securities Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "GTFCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "General Finance And Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "GEFSTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ge Money Retail Bank Public Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "MRPCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Office For Securities Brokerage Services",
+      "branches": [
+        {
+          "branch_name": "Nakhon Pathom",
+          "city": "Nakhon Pathom",
+          "swift_code": "OFSBTHB10BN"
+        },
+        {
+          "branch_name": "Songkhla",
+          "city": "Songkhla",
+          "swift_code": "OFSBTHB10BS"
+        },
+        {
+          "branch_name": "Trang",
+          "city": "Trang",
+          "swift_code": "OFSBTHB10BT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Chiangmai",
+          "swift_code": "OFSBTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nithipat Capital And Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "NCSCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nava Finance And Securities Co Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "NAVATHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Itmx Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "NAITTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Housing Authority",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "NAHATHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Finance Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "NFSPTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nakhon Ratchasima Lending Office",
+      "branches": [
+        {
+          "branch_name": "Nakhon Ratchasima",
+          "city": "Nakhon Ratchasima",
+          "swift_code": "LENDTHB10BR"
+        }
+      ]
+    },
+    {
+      "bank_name": "Multi-credit Corporation Of Thailand Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "MULCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mizuho Bank, Ltd., Bangkok Branch",
+      "branches": [
+        {
+          "branch_name": "Mizuho Bank, Ltd., Bangkok Branch",
+          "city": "Bangkok Krung Thep",
+          "swift_code": "MHCBTHB2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Metropolitan Waterworks Authority",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "MEWATHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch Securities (thailand) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "SECYTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merchant Partners Securities Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "ADSCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercantile Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "HLEBTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mass Rapid Transit Authority Of Thailand",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "MRTATHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Macquarie Securities (thailand) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "IBSTTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lynn Phillips Mortgage Credit Foncier Co.,ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "LPMCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Land And Houses Retail Bank Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "LAHRTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ktb Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "HSTHTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kt Zmico Securities Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "ZMSCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sime Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "SIMETHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sicco Securities Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "SSPOTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Siam City Securities Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "CACYTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Siam City Credit Finance And Securities Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "SCCFTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Securities One Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "SOPCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Secondary Mortgage Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "SMCRTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Seamico Securities Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "SESPTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scb Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Bangkok",
+          "city": "Bangkok",
+          "swift_code": "SSTCTHB1001"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "SSTCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sahaviriya Credit Foncier Co.,ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "SCFCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "S.c.f. Finance And Securities Pcl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "SCFSTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Debt Management Office",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "PDMOTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ptt Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "PTPCTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Provincial Waterworks Authority",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "PRWATHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Provincial Electricity Authority",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "PREHTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Poonpipat Finance And Securities Co Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "POFSTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Phillip Securities (thailand) Public Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "PSTPTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Phatra Securities Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "PHSUTHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Panasonic Treasury Centre (thailand) Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "PANATHB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Overseas Union Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "OUBKTHB1XXX"
+        }
+      ]
+    }
+  ]
+}

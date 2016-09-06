@@ -1,0 +1,62 @@
+{
+  "country_name": "R\u00e9union",
+  "alpha_2": "RE",
+  "country_code": "638",
+  "banks": [
+    {
+      "bank_name": "Societe Reunionnaise De Fint-sorefi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Saint Denis",
+          "swift_code": "SORFRER1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oceor Lease Reunion",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Saint Denis",
+          "swift_code": "OCLRRER1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Financiere Pour Le Developpement De La Reunion",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Saint Denis",
+          "swift_code": "SODIRER1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas La Reunion",
+      "branches": [
+        {
+          "branch_name": "Le Port",
+          "city": "Le Port",
+          "swift_code": "BNPARERXPOR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Saint Denis",
+          "swift_code": "BNPARERXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De La Reunion",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Saint Denis",
+          "swift_code": "REUBRERXXXX"
+        }
+      ]
+    }
+  ]
+}

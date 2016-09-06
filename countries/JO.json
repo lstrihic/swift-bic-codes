@@ -1,0 +1,1007 @@
+{
+  "country_name": "Jordan",
+  "alpha_2": "JO",
+  "country_code": "400",
+  "banks": [
+    {
+      "bank_name": "Sukook Investment And Brokerage",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "SUIOJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Jordan-brokerage",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "SGJBJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Financial Investments Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "UNFNJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shua'a For Securities Trading And Investments",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "SSTIJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shareco Brokerage Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "SHBRJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale De Banque-jordanie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "SGMEJOAMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Securities Depository Center",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "SEDCJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sanabel Alkhair For Financial Investments",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "SAFTJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronics Levant Ltd.",
+      "branches": [
+        {
+          "branch_name": "Amman",
+          "city": "Amman",
+          "swift_code": "SECTJOA1770"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "SECTJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samir And Sameh Bros. For Investment",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "SSBNJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Osool Inv And Fin Srv Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "OIFSJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Selwan Financial Brokers",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "SEFRJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Securities Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "NSECJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sabaek For Financial Services",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "SALEJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Palestine Establishment For Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "NADIJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mubadala Financial Investments",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "MUFNJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moh'd Fawas Abu Ennaser And Partners Exchange Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "ABOXJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lbda' For Financial Investment",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "LBDAJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Khaled Hasan, Hadi Washaka, And Muwaffaq Abdel Jaleel Exchange Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "KHHWJOAMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Co. For Investment And Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "UNNCJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Financial Brokerage",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "UNFBJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Arabian Jordanian For Investment And Brokerage Services",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "UAJIJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Financial Investment Company For Shares And Bonds",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "FIOHJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Portfolio Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "NAPSJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Bankers For Brokerage And Financial Invest",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "BRFIJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Arab Financial Investment",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "ARFVJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tanmia Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "TAERJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tadawol",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "TADAJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Arabi Investment Group Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "AIGMJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Amal Financial Invesments Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "AMFNJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Alami Exchange Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "ALEYJOAMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "ALEYJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ajiad For Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "AJSEJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agricultural Credit Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "ACRCJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ahli Brokerage Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "AHBOJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abusheikha Exchange Llc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "ABXLJOAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abdul Kareem Al-rawi And Partner Exchange Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "RAWIJOAMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abc Investments",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "ABCVJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kamiran Ali And Partner Exchange Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "HUDAJOAMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Experts Financial Services",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "EXFSJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aman For Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "AMSIJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alsafwa Finincial Investments",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "ASFVJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aleman Financial Investment",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "ALNVJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al-watanieh For Financial Services Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "ALNEJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alawneh Exchange L.l.c",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "ALELJOAMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alnour For Financial Investments",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "ANFNJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al-shorouq Financial Brokers",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "ALNBJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al-salam For Financial Investments",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "ASFTJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al-sahm International For Investment And Brokerage",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "AIIRJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al-omana'a Portfolio And Investment",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "ALPMJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al-nakheel Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "NAKHJOAMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al-hekma Financial Services",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "ALLEJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al-bilad For Securities And Investment",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "ALSVJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al-aula Financial Investments",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "ALNTJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Wameedh For Financial Services And Investment",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "WFSIJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Samhouri Exchange Co",
+      "branches": [
+        {
+          "branch_name": "Al Samhouri Exchange Co",
+          "city": "Amman",
+          "swift_code": "SAEXJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Rajhi Bank, Jordan Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "RJHIJOAMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Mawared For Brokerage Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "MBRCJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Fares For Financial Invest Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Irbid",
+          "swift_code": "FRRSJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Elite Financial Services",
+      "branches": [
+        {
+          "branch_name": "Elite Financial Services",
+          "city": "Amman",
+          "swift_code": "ELFEJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Awael International",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "AWAIJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Delta Financial Investments",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "DEFVJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cities And Villages Development Bank",
+      "branches": [
+        {
+          "branch_name": "Irbid",
+          "city": "Irbid",
+          "swift_code": "CVDBJOA102I"
+        },
+        {
+          "branch_name": "Karak",
+          "city": "Karak",
+          "swift_code": "CVDBJOA102K"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "CVDBJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Jordan",
+      "branches": [
+        {
+          "branch_name": "Irbid Branch",
+          "city": "Irbid",
+          "swift_code": "CBJOJOAX021"
+        },
+        {
+          "branch_name": "Aqaba Branch",
+          "city": "Aqaba",
+          "swift_code": "CBJOJOAX02A"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "CBJOJOAXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Investments",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "CPIVJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Bank Of Jordan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "EFBKJOAMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Business Women Trading Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "BWTSJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Audi Sal-audi Saradar Group-jordan Branches",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "AUDBJOAMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Aletihad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "UBSIJOAXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Baghdad Exchange Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "BAEXJOAMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Awraq Investment",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "AWRIJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asia Stock Brokers",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "ASSKJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Falcon For Selling And Buying Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "AFSUJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Banking Corporation (jordan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "ABCJJOAMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amwal Brokerage",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "AMWBJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amman Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "XAMMJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amman Bank For Investments",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "AMBIJOM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kamal Exchange Co L.l.c",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "MAKSJOAXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jordan River Financial Investment",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "JRFIJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jordan Islamic Bank",
+      "branches": [
+        {
+          "branch_name": "Amman Branch",
+          "city": "Amman",
+          "swift_code": "JIBAJOAM110"
+        },
+        {
+          "branch_name": "Al-hussein Branch",
+          "city": "Amman",
+          "swift_code": "JIBAJOAM111"
+        },
+        {
+          "branch_name": "Saqf El-sail Branch",
+          "city": "Amman",
+          "swift_code": "JIBAJOAM112"
+        },
+        {
+          "branch_name": "Al-yarmouk Street Branch",
+          "city": "Amman",
+          "swift_code": "JIBAJOAM113"
+        },
+        {
+          "branch_name": "Wasfi-al-tel Street Branch",
+          "city": "Amman",
+          "swift_code": "JIBAJOAM114"
+        },
+        {
+          "branch_name": "H O",
+          "city": "Amman",
+          "swift_code": "JIBAJOAM115"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "JIBAJOAMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jordan Dubai Islamic Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "JDIBJOAMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jordan And Gulf Investment Industrial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "JGIIJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Islamic International Arab Bank",
+      "branches": [
+        {
+          "branch_name": "Central Operations Department Lcs",
+          "city": "Amman",
+          "swift_code": "IIBAJOAM100"
+        },
+        {
+          "branch_name": "Central Operations Department Transfers",
+          "city": "Amman",
+          "swift_code": "IIBAJOAM200"
+        },
+        {
+          "branch_name": "Central Operations Department Lgs And Bcs",
+          "city": "Amman",
+          "swift_code": "IIBAJOAM300"
+        },
+        {
+          "branch_name": "Central Operations Department Back Office",
+          "city": "Amman",
+          "swift_code": "IIBAJOAMJBC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "IIBAJOAMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investment House For Financial Services",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "IHFSJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investment And Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "ISEUJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Financial Center",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "ITFEJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Financial Advisors",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "IFAVJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "IDEVJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Imcan For Financial Services",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "IMFSJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Housing Bank For Trade And Finance, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "HBHOJOAXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Investment House Jordan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "GIHJJOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Future Exchange Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "FUEXJOAMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Friends Financial Investment And Brokerage",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "FFIBJOA1XXX"
+        }
+      ]
+    }
+  ]
+}

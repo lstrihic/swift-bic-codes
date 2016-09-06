@@ -1,0 +1,97 @@
+{
+  "country_name": "Aruba",
+  "alpha_2": "AW",
+  "country_code": "533",
+  "banks": [
+    {
+      "bank_name": "Rbc Royal Bank (aruba) N.v. (formerly Rbtt Bank Aruba N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oranjestad",
+          "swift_code": "RBTTAWAWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interbank Aruba Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oranjestad",
+          "swift_code": "IARUAWA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Imtradex International N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oranjestad",
+          "swift_code": "IMIEAWA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Centrale Bank Van Aruba",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oranjestad",
+          "swift_code": "CBARAWAWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caribbean Mercantile Bank N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oranjestad",
+          "swift_code": "CMBAAWAXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bba Bank N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oranjestad",
+          "swift_code": "BBABAWAWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Di Caribe (aruba) N.v",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oranjestad",
+          "swift_code": "BDCCAWAWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aruba Bank, Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oranjestad",
+          "swift_code": "ARUBAWAXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aib Bank Nv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oranjestad",
+          "swift_code": "ANIBAWA1XXX"
+        }
+      ]
+    }
+  ]
+}

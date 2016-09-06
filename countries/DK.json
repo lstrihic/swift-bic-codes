@@ -1,0 +1,3707 @@
+{
+  "country_name": "Denmark",
+  "alpha_2": "DK",
+  "country_code": "208",
+  "banks": [
+    {
+      "bank_name": "Investeringsforeningen Nordea Investengros Europaeiske Aktier",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOVUDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investengros Euro Investment Grade",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOVRDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rise Spare-og Laanekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Aeroeskoebing",
+          "swift_code": "RISEDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ronde Og Omegns Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Roende",
+          "swift_code": "RSPKDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Refsnaes Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kalundborg",
+          "swift_code": "REPRDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Realdania",
+      "branches": [
+        {
+          "branch_name": "Kdcap245",
+          "city": "Copenhagen",
+          "swift_code": "REKDDKK1245"
+        },
+        {
+          "branch_name": "Kdcamp401",
+          "city": "Copenhagen",
+          "swift_code": "REKDDKK1401"
+        },
+        {
+          "branch_name": "Kdtimb402",
+          "city": "Copenhagen",
+          "swift_code": "REKDDKK1402"
+        },
+        {
+          "branch_name": "Kdcord405",
+          "city": "Copenhagen",
+          "swift_code": "REKDDKK1405"
+        },
+        {
+          "branch_name": "Kdhines407",
+          "city": "Copenhagen",
+          "swift_code": "REKDDKK1407"
+        },
+        {
+          "branch_name": "Kdcatco700",
+          "city": "Copenhagen",
+          "swift_code": "REKDDKK1700"
+        },
+        {
+          "branch_name": "Kdsinai703",
+          "city": "Copenhagen",
+          "swift_code": "REKDDKK1703"
+        },
+        {
+          "branch_name": "Realdania-kdpin704",
+          "city": "Copenhagen",
+          "swift_code": "REKDDKK1704"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "REKDDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Placeringsforeningen Profil Invest",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "PLPIDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pfa Udbetalingsbank A/s",
+      "branches": [
+        {
+          "branch_name": "Pfa Udbetalingsbank A/s",
+          "city": "Copenhagen",
+          "swift_code": "PFUDDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pfa Kapitalforvaltning",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "PFAKDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pfa Pension",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "PFPEDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pen-sam Bank A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Farum",
+          "swift_code": "PSBSDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pbs A/s (payments Business Services",
+      "branches": [
+        {
+          "branch_name": "Target2 Interface",
+          "city": "Ballerup",
+          "swift_code": "PBSEDK21T2I"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ballerup",
+          "swift_code": "PBSEDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pensiondanmark",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "PENODK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wealth Management Fondsmaeglerselskab A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Niva",
+          "swift_code": "WEMFDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unipension Fondsmaeglerselskap A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gentofte",
+          "swift_code": "UNFODK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tryg A/s",
+      "branches": [
+        {
+          "branch_name": "Se3210-001",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21001"
+        },
+        {
+          "branch_name": "No4000-002",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21002"
+        },
+        {
+          "branch_name": "No4000-010 Skagen",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21010"
+        },
+        {
+          "branch_name": "No4000-011 Holberg",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21011"
+        },
+        {
+          "branch_name": "No4000-014",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21014"
+        },
+        {
+          "branch_name": "No4000-015 Aberdeen",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21015"
+        },
+        {
+          "branch_name": "Dk3000-115",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21115"
+        },
+        {
+          "branch_name": "Dk3000-120",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21120"
+        },
+        {
+          "branch_name": "Dk3000-121",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21121"
+        },
+        {
+          "branch_name": "Dk3000-122",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21122"
+        },
+        {
+          "branch_name": "Dk3000-125",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21125"
+        },
+        {
+          "branch_name": "Dk3000-129",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21129"
+        },
+        {
+          "branch_name": "Dk3000-131",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21131"
+        },
+        {
+          "branch_name": "Dk3000-141",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21141"
+        },
+        {
+          "branch_name": "Dk3000-142 Jpm Em Debt",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21142"
+        },
+        {
+          "branch_name": "Dk3000-150",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21150"
+        },
+        {
+          "branch_name": "Dk3000-160",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21160"
+        },
+        {
+          "branch_name": "No4000-220",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21220"
+        },
+        {
+          "branch_name": "No4000-221",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21221"
+        },
+        {
+          "branch_name": "No4000-222",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21222"
+        },
+        {
+          "branch_name": "No4000-235",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21235"
+        },
+        {
+          "branch_name": "No4000-242",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21242"
+        },
+        {
+          "branch_name": "No4000-243",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21243"
+        },
+        {
+          "branch_name": "No4000-250",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21250"
+        },
+        {
+          "branch_name": "Dk3210-301",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21301"
+        },
+        {
+          "branch_name": "Dk3000-302",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21302"
+        },
+        {
+          "branch_name": "Dk3210-321",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21321"
+        },
+        {
+          "branch_name": "Dk3210-340",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21340"
+        },
+        {
+          "branch_name": "Fi3010-410",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21410"
+        },
+        {
+          "branch_name": "Dk3000-001",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21T31"
+        },
+        {
+          "branch_name": "Dk3000-301",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21T33"
+        },
+        {
+          "branch_name": "No4000-001",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21T41"
+        },
+        {
+          "branch_name": "Dk3020-301",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21TG1"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ballerup",
+          "swift_code": "TYYGDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparekassen Midtfjord",
+      "branches": [
+        {
+          "branch_name": "9670 Loegstoer",
+          "city": "Loegstoer",
+          "swift_code": "MIFJDK21LOG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ranum",
+          "swift_code": "MIFJDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparekassen Midt Vest",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Roslev",
+          "swift_code": "MIVEDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparekassen Midtdjurs",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ryomgaard",
+          "swift_code": "SPMJDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparekassen Logumkloster",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Loegumkloster",
+          "swift_code": "LOKLDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparekassen Hobro",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hobro",
+          "swift_code": "SHOBDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparekassen I Skals",
+      "branches": [
+        {
+          "branch_name": "8800 Viborg",
+          "city": "Viborg",
+          "swift_code": "SPISDK21VIB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Skals",
+          "swift_code": "SPISDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparekassen Himmerland A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Aars",
+          "swift_code": "SPHIDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparekassen For Noerre Nebel Og Omegn",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Noerre Nebel",
+          "swift_code": "NRNEDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparekassen Djursland",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Allingaabro",
+          "swift_code": "VIVIDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparekassen Bredebro",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bredebro",
+          "swift_code": "BBRODK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparekassen Den Lille Bikube",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fuglebjerg",
+          "swift_code": "LIBIDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparekassen Faaborg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Faaborg",
+          "swift_code": "FAABDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparekassen Balling",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Spoettrup",
+          "swift_code": "BALLDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Soeby-skader-halling Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hornslet",
+          "swift_code": "SOBYDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Soenderhaa-hoersted Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Snedsted",
+          "swift_code": "SOHODK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skandinavisk Data Center A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballerup",
+          "swift_code": "SDUDDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skandia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "SKADDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saxo Privatbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hellerup",
+          "swift_code": "BRSPDK21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Hellerup",
+          "swift_code": "ETDEDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saxo Payments A/s",
+      "branches": [
+        {
+          "branch_name": "Saxo Payments A/s",
+          "city": "Hellerup",
+          "swift_code": "SXPYDKKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ryomgaard Og Omegns Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ryomgaard",
+          "swift_code": "RYOMDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Totalkredit A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taastrup",
+          "swift_code": "TOTKDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Totalbanken A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Aarup",
+          "swift_code": "BAAADK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Topdanmark Link Livsforsikring A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballerup",
+          "swift_code": "TOLLDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Top Danmark Livsforsikring V A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballerup",
+          "swift_code": "TODVDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Top Danmark Livsforsikring A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballerup",
+          "swift_code": "TODLDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Top Danmark Forsikring A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballerup",
+          "swift_code": "TODFDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Danish Emission Trading Registry",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "DETRDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tdc A/s",
+      "branches": [
+        {
+          "branch_name": "Nordic Telephone",
+          "city": "Copenhagen",
+          "swift_code": "TDCTDKK1NTC"
+        },
+        {
+          "branch_name": "Tdc",
+          "city": "Copenhagen",
+          "swift_code": "TDCTDKK1TDC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "TDCTDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swiss Re Denmark Reinsurance A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "ERFRDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sydinvest Administration A/s",
+      "branches": [
+        {
+          "branch_name": "Sydinvest Administration A/s",
+          "city": "Aabenraa",
+          "swift_code": "SADMDK21INT"
+        },
+        {
+          "branch_name": "Sydinvest Administration A/s",
+          "city": "Aabenraa",
+          "swift_code": "SADMDK21SIE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Aabenraa",
+          "swift_code": "SADMDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Svendborg Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Svendborg",
+          "swift_code": "SVSPDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Steffen Ronn Fondsmaeglerselskab A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "STRDDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparekassen Vendsyssel",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vra",
+          "swift_code": "VRAADK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparekassen Thy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Thisted",
+          "swift_code": "STHYDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparekassen Sundsoere",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Roslev",
+          "swift_code": "SPSUDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparekassen Spar Mors",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Erslev",
+          "swift_code": "BJFLDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparekassen Ravsted",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bylderup-bov",
+          "swift_code": "SRAVDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vordingborg Bank A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vordingborg",
+          "swift_code": "VORDDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vorbasse-hejnsvig Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vorbasse",
+          "swift_code": "VOHEDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparekassen Nordmors",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nykoebing Mors",
+          "swift_code": "NOMODK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vokslev Sogns Spare-og Laanekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nibe",
+          "swift_code": "VSSLDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vistoft Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Knebel",
+          "swift_code": "VISODK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "P.h. Borsmaeglerselskab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "BOLEDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oresundsbro Konsortiet",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "OKONDKKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nykredit Portfolio",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "NYPODKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nykredit Am",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "NYKEDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Novozymes A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bagsvaerd",
+          "swift_code": "NOVZDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Northern Rock Bank Danmark",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "NORNDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordic Asset Management Fondsmaeglerselskab A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "NAMNDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "P-h Borsmaeglerselskab A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "PHBSDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordfyns Bank",
+      "branches": [
+        {
+          "branch_name": "5450 Otterup",
+          "city": "Otterup",
+          "swift_code": "NSBKDK21023"
+        },
+        {
+          "branch_name": "5471 Soendersoe",
+          "city": "Soendersoe",
+          "swift_code": "NSBKDK21024"
+        },
+        {
+          "branch_name": "5464 Brenderup",
+          "city": "Brenderup",
+          "swift_code": "NSBKDK21025"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bogense",
+          "swift_code": "NSBKDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investengros Corporate Bonds",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOVCDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investengros Absolute Return Equities Ii-etisk Valg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOVODKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investengros Absolute Return Equities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOVADKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investbasis 4",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOEVDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investbasis 2",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IONVDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investbasis 3",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOONDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investbasis 1",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOVNDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Virksomhedsobligationer",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen C",
+          "swift_code": "INNHDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Verden",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOIVDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Stabil Balanceret",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen C",
+          "swift_code": "IOIIDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Usa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IONUDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investengros Absolute Return Equities Ii",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOVBDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Stabil Aktier",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen C",
+          "swift_code": "IONTDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Special Global Value",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen C",
+          "swift_code": "IONEDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Special Formueforvaltning Obligationer",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen C",
+          "swift_code": "IOICDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Special European High Yield Bond",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOISDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Oest-europa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IONODKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Nordon",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOIRDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Special Europaeiske Aktier Fokus",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen C",
+          "swift_code": "IOIPDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Mellemlange Obligationer Privat",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen C",
+          "swift_code": "IOINDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Nordic Small Cap",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen C",
+          "swift_code": "IOIODKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Mellemlange Obligationer Pension",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen C",
+          "swift_code": "IOIMDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Latinamerika",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IONADKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Lange Obligationer Privat",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOIADKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Korte Obligationer",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen C",
+          "swift_code": "IONKDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Korte Obligationer Privat",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen C",
+          "swift_code": "IOIKDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Japan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen C",
+          "swift_code": "IVNVDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Kina",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IONIDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Indien",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IONNDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Health Care",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOIHDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Globale Obligationer",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen C",
+          "swift_code": "IOILDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Globale Aktier Indeks",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen C",
+          "swift_code": "IONLDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Global Teknologi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen C",
+          "swift_code": "IONGDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Global Vaekst",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen C",
+          "swift_code": "IOIGDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Fjerneoesten",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "INIJDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Europa Small Cap",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOIUDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Fonde",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOIFDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Europa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen C",
+          "swift_code": "IOIEDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lr Realkredit A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "REAKDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Portefolie Flex",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOPFDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Invest Virksomhedsobligationer Hoejrente",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "NIVHDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investverdens Obligationsmarkeder",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IONDDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investportefolie Verdens Obligationsmarkeder",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOVVDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Pfa Invest",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IVPIDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investportefolie Verden",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOVDDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investportefolie Usa Og Europa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOEUDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investportefolie Lange Obligationer",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOENDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investportefolie Korte Obligationer",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOEKDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investportefolie Emerging Markets Og Asien",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOVMDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investportefolie Eksterne Afdelinger",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOEEDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investportefolie Aktier",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOVKDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investklima Og Miljoe",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "INNJDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investkapitalsikring",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IVNNDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investkorte Obligationer 2",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOEODKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investengros Obligationer",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IONBDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investengros Internationale Aktier Etisk Valg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOVTDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investengros Internationale Aktier",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOVIDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investengros Global High Yield",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOVGDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investglobale Aktier Fokus",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IONRDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lpi Indeksobligationer Ii",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "LINPDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Investlange Obligationer",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOVLDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lpi Indeksobligationer",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "LINMDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lpi High Yield Globale",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "LHYGDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lollands Bank A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nakskov",
+          "swift_code": "LOBADK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Leo Pharma A/s",
+      "branches": [
+        {
+          "branch_name": "Leo Pharma A/s",
+          "city": "Ballerup",
+          "swift_code": "LEPHDK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Langa Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Langaa",
+          "swift_code": "LASADK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lego System A/s",
+      "branches": [
+        {
+          "branch_name": "Lego System A/s",
+          "city": "Billund",
+          "swift_code": "LEGODK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Landbrugets Finansieringsbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "LAFIDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Laegernes Pensionsbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Frederiksberg",
+          "swift_code": "LAPNDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kosmopolitex Bankers Trust K/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "KOTUDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kongeriget Danmarks Hypotekbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "KDHYDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kommunekredit",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "KOMMDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kobenhavns Andelskasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "KOANDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Klim Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fjerritslev",
+          "swift_code": "KLIMDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Juristernes Og Oekonomernes Pensionkasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen V",
+          "swift_code": "JUOPDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jelling Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jelling",
+          "swift_code": "JELLDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jak Andelskasse Varde",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Varde",
+          "swift_code": "JANVDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforvalltningsselskabet Sebinvest A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IVSNDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Invest Stabile Aktier Akkumulerende",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "NISTDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Invest Hoejrentelande",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "NOIHDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Invest Fund Management A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "NIFNDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nie Emerging Market Bonds",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "NEMBDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Finans Danmark A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "UNREDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ni Portfolje Pbpm Balance Kl",
+      "branches": [
+        {
+          "branch_name": "Ni Portfolje Pbpm Balance Kl",
+          "city": "Copenhagen",
+          "swift_code": "PBPMDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ni Portfolie Pbpm Obligationer Kl",
+      "branches": [
+        {
+          "branch_name": "Ni Portfolie Pbpm Obligationer Kl",
+          "city": "Copenhagen",
+          "swift_code": "PPOLDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ni Portefolje Pbpm Globale Aktier Fokus Kl",
+      "branches": [
+        {
+          "branch_name": "Ni Portefolje Pbpm Globale Aktier Fokus Kl",
+          "city": "Copenhagen",
+          "swift_code": "PPGADKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ni Portefolje Globale Aktier Strategi Kl",
+      "branches": [
+        {
+          "branch_name": "Ni Portefolje Globale Aktier Strategi Kl",
+          "city": "Copenhagen",
+          "swift_code": "PGASDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Iss A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "ISSSDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ni Portefolje Pbpm Danske Obligationer Kl",
+      "branches": [
+        {
+          "branch_name": "Ni Portefolje Pbpm Danske Obligationer Kl",
+          "city": "Copenhagen",
+          "swift_code": "PPDODKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ne Fondsmaeglerselskab A/s (ne Capital Management A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Aalborg",
+          "swift_code": "FOCMDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moens Bank A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Askeby",
+          "swift_code": "MONSDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mp Pension",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "PENNDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Midtinvest Investeringsforvaltning A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Herning",
+          "swift_code": "MIDIDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Middelfart Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Middelfart",
+          "swift_code": "MISPDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merkur,den Almennyttige Andelskasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Aalborg",
+          "swift_code": "MEKUDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Markedskraft Danmark, Filial Af Markedskraft Asa Norge",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Aarhus",
+          "swift_code": "MDFMDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maj Invest A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "MAVVDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lunde-kvong Andelskasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Noerre Nebel",
+          "swift_code": "LUKVDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Bank Sa/Nv Denmark Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "FTSBDKKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fjordbank Mors Af 2011 A/",
+      "branches": [
+        {
+          "branch_name": "7870 Glyngoere",
+          "city": "Glyngoere",
+          "swift_code": "MORBDK22GLY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nykoebing Mors",
+          "swift_code": "MORBDK22XXX"
+        },
+        {
+          "branch_name": "7700 Thisted",
+          "city": "Thisted",
+          "swift_code": "MORBDK22THI"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fih Erhvervsbank A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "FIHEDKKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dnb Bank Asa, Filial Af Dnb Bank Asa, Norge",
+      "branches": [
+        {
+          "branch_name": "Cls Nostro Agent Control Branch",
+          "city": "Copenhagen",
+          "swift_code": "DNBADKKXCLS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "DNBADKKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Djurslands Bank A/S",
+      "branches": [
+        {
+          "branch_name": "8961 Allingaabro",
+          "city": "Allingaabro",
+          "swift_code": "DJURDK22ALL"
+        },
+        {
+          "branch_name": "8963 Auning",
+          "city": "Auning",
+          "swift_code": "DJURDK22AUN"
+        },
+        {
+          "branch_name": "8400 Ebeltoft",
+          "city": "Ebeltoft",
+          "swift_code": "DJURDK22EBE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Grenaa",
+          "swift_code": "DJURDK22XXX"
+        },
+        {
+          "branch_name": "8543 Hornslet",
+          "city": "Hornslet",
+          "swift_code": "DJURDK22HSL"
+        },
+        {
+          "branch_name": "8560 Kolind",
+          "city": "Kolind",
+          "swift_code": "DJURDK22KLI"
+        },
+        {
+          "branch_name": "8520 Lystrup",
+          "city": "Lystrup",
+          "swift_code": "DJURDK22LYS"
+        },
+        {
+          "branch_name": "8581 Nimtofte",
+          "city": "Nimtofte",
+          "swift_code": "DJURDK22NIM"
+        },
+        {
+          "branch_name": "8950 Oersted",
+          "city": "Oersted",
+          "swift_code": "DJURDK22OER"
+        },
+        {
+          "branch_name": "8550 Pindstrup",
+          "city": "Pindstrup",
+          "swift_code": "DJURDK22PIN"
+        },
+        {
+          "branch_name": "Risskov",
+          "city": "Risskov",
+          "swift_code": "DJURDK22RIS"
+        },
+        {
+          "branch_name": "8410 Roende",
+          "city": "Roende",
+          "swift_code": "DJURDK22ROE"
+        },
+        {
+          "branch_name": "8550 Ryomgaard",
+          "city": "Ryomgaard",
+          "swift_code": "DJURDK22RYO"
+        },
+        {
+          "branch_name": "Tilst",
+          "city": "Tilst",
+          "swift_code": "DJURDK22TIL"
+        },
+        {
+          "branch_name": "Tranbjerg",
+          "city": "Tranbjerg",
+          "swift_code": "DJURDK22TRA"
+        },
+        {
+          "branch_name": "8961 Vivild",
+          "city": "Vivild",
+          "swift_code": "DJURDK22VIV"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dsv A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Broendby",
+          "swift_code": "DSVADKKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dexia Bank Denmark A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "BILLDKKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Danske Andelskassers Bank A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tjele",
+          "swift_code": "DANBDK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Diba Bank A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Naestved",
+          "swift_code": "DIBADK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carnegie Bank A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "CARNDKKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carnegie Asset Management Fondmaeglerselskab A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "CARNDK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Danmarks Nationalbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "DKNBDKK3XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "DKNBDKKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carlsberg A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "CARWDKK2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bi Asset Management Fondsmaeglerselskab A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "BIAMDKKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arbejdernes Landsbank A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "ALBADKKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alm. Brand Bank",
+      "branches": [
+        {
+          "branch_name": "Sjl-banken",
+          "city": "Copenhagen",
+          "swift_code": "ALMBDKKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alfred Berg Fondsmaeglerselskab A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "BERGDKKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "A.P. Moller-Maersk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "APMMDKKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Glitnir Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "ISBADKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dragsholm Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asnaes",
+          "swift_code": "DRAGDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Bankers Trust K/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "CTRSDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carnegie Kreditinstitut A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "CAJBDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saxo Bank A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hellerup",
+          "swift_code": "SAXODKKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Salling Bank A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skive",
+          "swift_code": "SALLDK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ringkjobing Landbobank A/S",
+      "branches": [
+        {
+          "branch_name": "Herning",
+          "city": "Herning",
+          "swift_code": "RINGDK22HER"
+        },
+        {
+          "branch_name": "Holstebro",
+          "city": "Holstebro",
+          "swift_code": "RINGDK22HOL"
+        },
+        {
+          "branch_name": "Lem",
+          "city": "Lem",
+          "swift_code": "RINGDK22LEM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ringkoebing",
+          "swift_code": "RINGDK22XXX"
+        },
+        {
+          "branch_name": "Former Tarm Bank",
+          "city": "Tarm",
+          "swift_code": "RINGDK22TAR"
+        },
+        {
+          "branch_name": "Viborg",
+          "city": "Viborg",
+          "swift_code": "RINGDK22VIB"
+        }
+      ]
+    },
+    {
+      "bank_name": "Realkredit Danmark",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "RDDKDKKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ostjydsk Bank A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mariager",
+          "swift_code": "OSBADK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nykredit A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "NYKRDKKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Investment Management A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "NDEADKK2XXX"
+        },
+        {
+          "branch_name": "Investment Management",
+          "city": "Copenhagen",
+          "swift_code": "NDEADKX1JPM"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nykredit Bank A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "NYKBDKKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Bank Danmark A/S",
+      "branches": [
+        {
+          "branch_name": "Bank Cash Concentration",
+          "city": "Copenhagen",
+          "swift_code": "NDEADKKKBCC"
+        },
+        {
+          "branch_name": "Copenhagen",
+          "city": "Copenhagen",
+          "swift_code": "NDEADKKKCLS"
+        },
+        {
+          "branch_name": "Copenhagen",
+          "city": "Copenhagen",
+          "swift_code": "NDEADKKKFSI"
+        },
+        {
+          "branch_name": "Copenhagen",
+          "city": "Copenhagen",
+          "swift_code": "NDEADKKKNCL"
+        },
+        {
+          "branch_name": "External Custodian",
+          "city": "Copenhagen",
+          "swift_code": "NDEADKKKPFR"
+        },
+        {
+          "branch_name": "Nordea Sp Dealing Branch",
+          "city": "Copenhagen",
+          "swift_code": "NDEADKKKSPX"
+        },
+        {
+          "branch_name": "Group Funding",
+          "city": "Copenhagen",
+          "swift_code": "NDEADKKKTSY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "NDEADKKKXXX"
+        },
+        {
+          "branch_name": "Ringsted",
+          "city": "Ringsted",
+          "swift_code": "NDEADKKKRIN"
+        },
+        {
+          "branch_name": "Roedovre",
+          "city": "Roedovre",
+          "swift_code": "NDEADKKKROD"
+        },
+        {
+          "branch_name": "Svendborg",
+          "city": "Svendborg",
+          "swift_code": "NDEADKKKSVB"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lan And Spar Bank A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "LOSADKKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Max Bank Af 2011 A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Naestved",
+          "swift_code": "HAHADK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Noerresundby Bank, A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Noerresundby",
+          "swift_code": "NRSBDK24XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kreditbanken A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Aabenraa",
+          "swift_code": "AAKRDK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Id-Sparinvest A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tjele",
+          "swift_code": "SINVDK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Grundfos Finance A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bjerringbro",
+          "swift_code": "GFOSDK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aloc A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Odense",
+          "swift_code": "AOOCDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fs Bank A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Roskilde",
+          "swift_code": "ROBADK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Almind Spare-og Laanekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Viborg",
+          "swift_code": "ALSPDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agri-egens Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ebeltoft",
+          "swift_code": "AGESDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abn Amro Asset Management A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "AASMDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordjyske Bank A/S",
+      "branches": [
+        {
+          "branch_name": "1067 Copenhagen",
+          "city": "Copenhagen",
+          "swift_code": "EBANDK22CPH"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Frederikshavn",
+          "swift_code": "EBANDK22XXX"
+        },
+        {
+          "branch_name": "9800 Hjoerring",
+          "city": "Hjoerring",
+          "swift_code": "EBANDK22HJO"
+        },
+        {
+          "branch_name": "9300 Saeby",
+          "city": "Saeby",
+          "swift_code": "EBANDK22SBY"
+        },
+        {
+          "branch_name": "9990 Skagen",
+          "city": "Skagen",
+          "swift_code": "EBANDK22SKG"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vp Securities A/S",
+      "branches": [
+        {
+          "branch_name": "Copenhagen",
+          "city": "Copenhagen",
+          "swift_code": "VPDKDKKK070"
+        },
+        {
+          "branch_name": "Copenhagen",
+          "city": "Copenhagen",
+          "swift_code": "VPDKDKKK071"
+        },
+        {
+          "branch_name": "Copenhagen",
+          "city": "Copenhagen",
+          "swift_code": "VPDKDKKK072"
+        },
+        {
+          "branch_name": "Copenhagen",
+          "city": "Copenhagen",
+          "swift_code": "VPDKDKKK073"
+        },
+        {
+          "branch_name": "Copenhagen",
+          "city": "Copenhagen",
+          "swift_code": "VPDKDKKK074"
+        },
+        {
+          "branch_name": "Copenhagen",
+          "city": "Copenhagen",
+          "swift_code": "VPDKDKKK075"
+        },
+        {
+          "branch_name": "Vplux",
+          "city": "Copenhagen",
+          "swift_code": "VPDKDKKKALU"
+        },
+        {
+          "branch_name": "Vpdk As Investor",
+          "city": "Copenhagen",
+          "swift_code": "VPDKDKKKINV"
+        },
+        {
+          "branch_name": "Vpdk As Issuer",
+          "city": "Copenhagen",
+          "swift_code": "VPDKDKKKISS"
+        },
+        {
+          "branch_name": "Copenhagen",
+          "city": "Copenhagen",
+          "swift_code": "VPDKDKKKLUX"
+        },
+        {
+          "branch_name": "Copenhagen",
+          "city": "Copenhagen",
+          "swift_code": "VPDKDKKKMCF"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "VPDKDKKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vestjysk Bank",
+      "branches": [
+        {
+          "branch_name": "Esbjerg",
+          "city": "Esbjerg",
+          "swift_code": "VEHODK22ESB"
+        },
+        {
+          "branch_name": "Herning",
+          "city": "Herning",
+          "swift_code": "VEHODK22HER"
+        },
+        {
+          "branch_name": "Holstebro Branch",
+          "city": "Holstebro",
+          "swift_code": "VEHODK22HOL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lemvig",
+          "swift_code": "VEHODK22XXX"
+        },
+        {
+          "branch_name": "Struer",
+          "city": "Struer",
+          "swift_code": "VEHODK22STR"
+        },
+        {
+          "branch_name": "Viborg",
+          "city": "Viborg",
+          "swift_code": "VEHODK22VIB"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abn Amro Asset Management Fondsmaeglerselskab A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "ABKFDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vestfyns Bank A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Assens",
+          "swift_code": "VESBDK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vestas Wind Systems A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Randers",
+          "swift_code": "WINDDK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Royal Bank Of Scotland N.V. (Denmark)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "ABNADKKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparinvest Fondsmaeglerselskab A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taastrup",
+          "swift_code": "SPFODK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jpmorgan Europe Limited (Uk), Copenhagen Filial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "CHASDKKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparekassen Sjaelland",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Holbaek",
+          "swift_code": "SWESDK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparekassen Lolland A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nakskov",
+          "swift_code": "BCPHDKKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparekassen Kronjylland",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Randers",
+          "swift_code": "KRONDK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skjern Bank",
+      "branches": [
+        {
+          "branch_name": "Borris",
+          "city": "Borris",
+          "swift_code": "SKJBDK22BOR"
+        },
+        {
+          "branch_name": "Bramming",
+          "city": "Bramming",
+          "swift_code": "SKJBDK22BRM"
+        },
+        {
+          "branch_name": "6700 Esbjerg",
+          "city": "Esbjerg",
+          "swift_code": "SKJBDK22ESB"
+        },
+        {
+          "branch_name": "2900 Hellerup",
+          "city": "Hellerup",
+          "swift_code": "SKJBDK22HLL"
+        },
+        {
+          "branch_name": "Ribe",
+          "city": "Ribe",
+          "swift_code": "SKJBDK22RIB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Skjern",
+          "swift_code": "SKJBDK22XXX"
+        },
+        {
+          "branch_name": "6800 Varde",
+          "city": "Varde",
+          "swift_code": "SKJBDK22VAR"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skandinaviska Enskilda Banken A/S",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "ESSEDK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carlsberg Breweries A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "CARWDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Four Management Fondsmaeglerselskab A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "CFMFDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Spar Nord Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Aalborg",
+          "swift_code": "SPNODK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brfkredit A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lyngby",
+          "swift_code": "BRFKDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Canegie Asset Administration A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "CADMDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brfkredit Bank A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lyngby",
+          "swift_code": "BRFBDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Borbjerg Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Holstebro",
+          "swift_code": "BOBJDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Boddum-ydby Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hurup Thy",
+          "swift_code": "BOYDDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bjoernskov And Co., A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "BJSKDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bi Management A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "MAGGDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Basisbank A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "ISNKDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bestseller A/s",
+      "branches": [
+        {
+          "branch_name": "Bestseller A/s",
+          "city": "Brande",
+          "swift_code": "BESTDK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banknordik",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kolding",
+          "swift_code": "BANODK21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "BANODKKKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Invest",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "BIVEDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Broager Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Broager",
+          "swift_code": "BRSLDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atp Fondsmaeglerselskab A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hilleroed",
+          "swift_code": "ATFODK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arla Foods Amba",
+      "branches": [
+        {
+          "branch_name": "Alra Finance",
+          "city": "Viby J",
+          "swift_code": "ARDADK21ARF"
+        },
+        {
+          "branch_name": "Arla Foods",
+          "city": "Viby J",
+          "swift_code": "ARDADK21ARL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Viby J",
+          "swift_code": "ARDADK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ap Pension",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "APPNDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Andelskassen J-a-k. Slagelse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Slagelse",
+          "swift_code": "ANJSDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dlr Kredit A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "DLKRDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Difko Bors A/s Fondsmaeglerselskab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "DIBFDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Den Professionelle Forening Ld",
+      "branches": [
+        {
+          "branch_name": "Aktier And Obligationer-pulje",
+          "city": "Copenhagen",
+          "swift_code": "DEPRDKK1AOP"
+        },
+        {
+          "branch_name": "Emerging Markets Aktier-mandat",
+          "city": "Copenhagen",
+          "swift_code": "DEPRDKK1EMA"
+        },
+        {
+          "branch_name": "Globale Aktier-mandat 2",
+          "city": "Copenhagen",
+          "swift_code": "DEPRDKK1GA2"
+        },
+        {
+          "branch_name": "Globale Aktier-mandat",
+          "city": "Copenhagen",
+          "swift_code": "DEPRDKK1GAM"
+        },
+        {
+          "branch_name": "Globale Aktier-pulje",
+          "city": "Copenhagen",
+          "swift_code": "DEPRDKK1GAP"
+        },
+        {
+          "branch_name": "Globale Indeksobligationer-mandat",
+          "city": "Copenhagen",
+          "swift_code": "DEPRDKK1GIM"
+        },
+        {
+          "branch_name": "Guldrandede Obligationer-mandat 1",
+          "city": "Copenhagen",
+          "swift_code": "DEPRDKK1GO1"
+        },
+        {
+          "branch_name": "Guldrandede Obligationer-mandat 2",
+          "city": "Copenhagen",
+          "swift_code": "DEPRDKK1GO2"
+        },
+        {
+          "branch_name": "Kreditobligationer Og Emerging Markets Obligationer-mandat",
+          "city": "Copenhagen",
+          "swift_code": "DEPRDKK1KEO"
+        },
+        {
+          "branch_name": "Kreditobligations Fonde-mandat",
+          "city": "Copenhagen",
+          "swift_code": "DEPRDKK1KOF"
+        },
+        {
+          "branch_name": "Miljo And Klima-mandat",
+          "city": "Copenhagen",
+          "swift_code": "DEPRDKK1MKM"
+        },
+        {
+          "branch_name": "Miljo And Klima-pulje",
+          "city": "Copenhagen",
+          "swift_code": "DEPRDKK1MKP"
+        },
+        {
+          "branch_name": "Mixed Obligationer-pulje",
+          "city": "Copenhagen",
+          "swift_code": "DEPRDKK1MOP"
+        },
+        {
+          "branch_name": "Strategiske Global Aktier-mandat",
+          "city": "Copenhagen",
+          "swift_code": "DEPRDKK1SGA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "DEPRDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Den Lille Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Galten",
+          "swift_code": "GALTDK21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Gjerlev",
+          "swift_code": "GJERDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dexia P-h Private Bank Denmark A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "BILLDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Den Jyske Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Grindsted",
+          "swift_code": "JYSPDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Danske Invest Administration A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "DAIDDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Danske Forsikring Skade I A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ballerup",
+          "swift_code": "DAFKDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Danske Commodities A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Aarhus",
+          "swift_code": "DACDDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Danske Civil And Akademiingeniorers Pensionskasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "DCAKDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Danske Capital",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "DACPDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dansk Supermarked A/s",
+      "branches": [
+        {
+          "branch_name": "D S Forsikring",
+          "city": "Aarhus",
+          "swift_code": "DASKDK21DSF"
+        },
+        {
+          "branch_name": "Salling Invest",
+          "city": "Aarhus",
+          "swift_code": "DASKDK21FSI"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Hojbjerg",
+          "swift_code": "DASKDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dansk O.t.c Fondsmaeglerselskab A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Horsens",
+          "swift_code": "DAOFDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dansk Kapitalforvaltning Fondsmaeglerselskab A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Birkeroed",
+          "swift_code": "DAKFDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dansk Formue-and Investeringspleje A/s Fondsmaeglerselskab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Roskilde",
+          "swift_code": "DFIIDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Danmarks Skibskredit A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "SKIBDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dansk Autoriseret Markedsplads A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Horsens",
+          "swift_code": "DAMKDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Danfoss A/s Corporate Treasury",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nordborg",
+          "swift_code": "DFIBDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "G.p.borsmaglerselskab A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hellerup",
+          "swift_code": "GPBSDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dana Invest Fondsmaeglerselskab A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "DAIODKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Futop Clearing Centre, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "FTUPDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Froslev Mollerup Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nykobing M",
+          "swift_code": "FRMODK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Frorup Andelkasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Frorup",
+          "swift_code": "FROPDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Froes Herreds Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Roedding (s. Jutl.",
+          "swift_code": "FROSDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Forca A/s",
+      "branches": [
+        {
+          "branch_name": "Bioanalytikere",
+          "city": "Copenhagen",
+          "swift_code": "FOCCDK21BIO"
+        },
+        {
+          "branch_name": "Ergoterapeuter",
+          "city": "Copenhagen",
+          "swift_code": "FOCCDK21ERG"
+        },
+        {
+          "branch_name": "Jordmoedre",
+          "city": "Copenhagen",
+          "swift_code": "FOCCDK21JOR"
+        },
+        {
+          "branch_name": "Kontorfunktionaerer",
+          "city": "Copenhagen",
+          "swift_code": "FOCCDK21KON"
+        },
+        {
+          "branch_name": "Kostvejledere",
+          "city": "Copenhagen",
+          "swift_code": "FOCCDK21KOS"
+        },
+        {
+          "branch_name": "Laegesekretaerer",
+          "city": "Copenhagen",
+          "swift_code": "FOCCDK21LAG"
+        },
+        {
+          "branch_name": "Pka Plus",
+          "city": "Copenhagen",
+          "swift_code": "FOCCDK21PKA"
+        },
+        {
+          "branch_name": "Sameje",
+          "city": "Copenhagen",
+          "swift_code": "FOCCDK21SAM"
+        },
+        {
+          "branch_name": "Socialpaedagoer",
+          "city": "Copenhagen",
+          "swift_code": "FOCCDK21SOC"
+        },
+        {
+          "branch_name": "Sygeplejere",
+          "city": "Copenhagen",
+          "swift_code": "FOCCDK21SYG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Hellerup",
+          "swift_code": "FOCCDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fondsmaglerselskabet Maj Invest A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "MAFGDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fondsaeglerselskabet Maj Invest A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "FONKDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Flemloese Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Flemloese",
+          "swift_code": "FLEMDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Flsmidth And Co A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valby",
+          "swift_code": "FLSMDK21XXX"
+        },
+        {
+          "branch_name": "Flsmidth And Co A/s",
+          "city": "Valby",
+          "swift_code": "FLSMDK2FXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Folkesparekassen",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Silkeborg",
+          "swift_code": "FOSPDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Flakkeberg Og Omegns Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Slagelse",
+          "swift_code": "FLAKDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fdb Datterselskab Af 13.december 2012 A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Albertslund",
+          "swift_code": "FDDDDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Faster Andelskasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skjern",
+          "swift_code": "FAANDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fanoe Spare-og Laanekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fanoe",
+          "swift_code": "FASLDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Faelleskassen Samoekonomi J.a.k. Andelskasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Frederiksberg",
+          "swift_code": "FAELDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Egnsbank Han Herred",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fjerritslev",
+          "swift_code": "FJBADK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Egns-invest",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Horsens",
+          "swift_code": "EGNSDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Emerging Markets",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IONMDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dronninglund Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dronninglund",
+          "swift_code": "DRONDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Danmark",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen C",
+          "swift_code": "IOIDDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Aktier",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen C",
+          "swift_code": "IVNIDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Ms Investvalue Aktier",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "INUKDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investeringsforeningen Nordea Invest Aktier Ii",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "IOITDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investering And Tryghed A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Herning",
+          "swift_code": "ITRYDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Invest Administration A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Frederiksberg",
+          "swift_code": "IADMDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hvidbjerg Bank Aktieselskab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Thyholm",
+          "swift_code": "HVBADK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hunstrup-oesterild Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Thisted",
+          "swift_code": "HUSPDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hp Fondsmaeglerselskab A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "FONMDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Henton Borsmaeglerselskab A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Silkeborg",
+          "swift_code": "HEBODK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hals Sparekasse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hals",
+          "swift_code": "HALSDK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gudme Raaschou Us High Yield",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "GRHYDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gudme Raaschou Nordic Alpha",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "GRNADKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gudme Raaschou Investment Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "GRPBDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gudme Raaschou Invest A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "GURIDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gudme Raaschou Health Care",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "GRHCDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gudme Raaschou Eu High Yield",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "GRHEDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gudme Raaschou Selection",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Copenhagen",
+          "swift_code": "GRSLDKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Evolution Fondsmaeglerselskab A/s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kolding",
+          "swift_code": "GEVODK22XXX"
+        }
+      ]
+    }
+  ]
+}

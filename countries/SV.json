@@ -1,0 +1,207 @@
+{
+  "country_name": "El Salvador",
+  "alpha_2": "SV",
+  "country_code": "222",
+  "banks": [
+    {
+      "bank_name": "Scotiabank El Salvador, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Salvador",
+          "swift_code": "BCSASVSSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Primer Banco De Los Trabajadores Soc. Coop. De R.l. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Primer Banco De Los Trabajadores Soc. Coop. De R.l. De C.v.",
+          "city": "San Salvador",
+          "swift_code": "PBTRSVS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Multi Inversiones Banco Cooperativo De Los Trabajadores S.c. De R.l. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Multi Inversiones Banco Cooperativo De Los Trabajadores S.c. De R.l. De C.v.",
+          "city": "San Salvador",
+          "swift_code": "MICJSVS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fedecredito De Cv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Salvador",
+          "swift_code": "FEDRSVSSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fitch Centroamerica (el Salvador Branch Of Panamanian Entity",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Salvador",
+          "swift_code": "FRIPSVS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank, N.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Salvador",
+          "swift_code": "CITISVS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central De Deposito De Valores De El Salvador Sa De Cv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Salvador",
+          "swift_code": "CDVSSVS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Industrial El Salvador, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Salvador",
+          "swift_code": "INDLSVSSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Hipotecario De El Salvador S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Salvador",
+          "swift_code": "BHSASVSSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco G And T Continental El Salvador",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Salvador",
+          "swift_code": "GTCSSVSSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Procredit, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Salvador",
+          "swift_code": "PRCBSVSSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Fomento Agropecuario",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Salvador",
+          "swift_code": "FOAGSVS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Credito Popular S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Salvador",
+          "swift_code": "POPCSVS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De America Central, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Salvador",
+          "swift_code": "BAMCSVSSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Davivienda Salvadoreno Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Salvador",
+          "swift_code": "BSALSVSSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Citibank De El Salvador S.a.",
+      "branches": [
+        {
+          "branch_name": "Nostro Account",
+          "city": "San Salvador",
+          "swift_code": "BACUSVSSNOS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "San Salvador",
+          "swift_code": "BACUSVSSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Central De Reserva De El Salvador",
+      "branches": [
+        {
+          "branch_name": "Gerencia De Tesoreria",
+          "city": "San Salvador",
+          "swift_code": "CENRSVSSGTE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "San Salvador",
+          "swift_code": "CENRSVSSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Agricola, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Salvador",
+          "swift_code": "CAGRSVSSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asociacion Cooperativa De Ahorro Y Credito Del Colegio Medico De El Salvador (comedica De R.l.",
+      "branches": [
+        {
+          "branch_name": "Asociacion Cooperativa De Ahorro Y Credito Del Colegio Medico De El Salvador (comedica De R.l.",
+          "city": "San Salvador",
+          "swift_code": "ACATSVS1XXX"
+        }
+      ]
+    }
+  ]
+}

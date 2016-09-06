@@ -1,0 +1,602 @@
+{
+  "country_name": "Azerbaijan",
+  "alpha_2": "AZ",
+  "country_code": "031",
+  "banks": [
+    {
+      "bank_name": "Yapikredi Azerbaijan Closed Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "KABAAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Xalq Bank Open Joint-stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "HAJCAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Credit Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "UCBXAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unibank Cb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "UBAZAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ulfatbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "ULFAAZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Turan Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "TURAAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The International Bank Of Azerbaijan Republic",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "IBAZAZ2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Treasury Agency",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "CTREAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Oil Fund Of The Republic Of Azerbaijan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "SOILAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Royal Bank Ojsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "ROBKAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rabitabank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "RBTAAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pasha Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "PAHAAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Parabank Jscb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "PAAAAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Open Joint Stock Company Eurobank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "ERBBAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ojsc Vtb Bank (azerbaijan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "VTBAAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ojsc Kredobank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "ANARAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nbc Bank Open Joint Stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "NBCBAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Pakistan Baku Branch (state",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "NBPAAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nakhchivanbank Ojsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nakhchivan",
+          "swift_code": "NAXBAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Technique Ojsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "TECIAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Silk Way Ojsv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "AZALAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Muganbank Ojsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "MUGAAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Milli Iran Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "MILIAZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mech R Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "MECHAZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kapital Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "AIIBAZ2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jscb 'bank Standard'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "MOSZAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsc 'zaminbank'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "ZAMIAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Joint-stock Commercial Bank Rabitabank (gazanbank Branch",
+      "branches": [
+        {
+          "branch_name": "Gazanbank Branch",
+          "city": "Baku",
+          "swift_code": "RBTAAZ2102G"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investment Commercial Bank 'nikoil' (formerly Cb 'ulpar'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "NICBAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gunaybank Joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "GUNAAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Garantiyabank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "GARNAZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gandjabank Joint Stock Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gandja",
+          "swift_code": "GANJAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Expressbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "AZENAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurasia Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "AVRAAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ege International Baku Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "TRIDAZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Demirbank Ojsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "AZERAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Bank Deka-bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "DEKBAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of The Republic Of Azerbaijan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "NABZAZ2CXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "NABZAZ2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caucasus Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "TDJOAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capitalbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "CAPKAZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Investment Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "CANSAZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Baku",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "JBBKAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Azerbaijan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "AZEJAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Btb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "BBTBAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Azersharabbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "AZRSAZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Azerpost Limited Liability Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "AZPOAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Azerbaijan Industry Bank Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "CAPNAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Azerbaijan Credit Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "ACJOAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Azer-turk Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "AZRTAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Azbusinessbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "AZBUAZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atrabank Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "ATRAAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atabank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "ATAZAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amrahbank Joint-stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "AMRAAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agrarkredit Closed Joint-stock Society Non-bank Credit Organization",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "ACJTAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agbank Open Joint-stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "AZEGAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Afb Bank Ojsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "AZFIAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Adjemibank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "ADJEAZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Accessbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "ACABAZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Respublika Ojsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baku",
+          "swift_code": "BRESAZ22XXX"
+        }
+      ]
+    }
+  ]
+}

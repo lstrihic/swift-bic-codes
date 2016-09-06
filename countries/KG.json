@@ -1,0 +1,262 @@
+{
+  "country_name": "Kyrgyzstan",
+  "alpha_2": "KG",
+  "country_code": "417",
+  "banks": [
+    {
+      "bank_name": "Tolubay Bank-closed Joint Stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bishkek",
+          "swift_code": "TOLUKG22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Open Joint-stock Company Capital Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bishkek",
+          "swift_code": "AKILKG22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rsk Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bishkek",
+          "swift_code": "SESVKG22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Optima Bank Ojsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bishkek",
+          "swift_code": "ENEJKG22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ojsc Russian Investment Bank",
+      "branches": [
+        {
+          "branch_name": "Ojsc Russian Investment Bank",
+          "city": "Bishkek",
+          "swift_code": "RINBKG22XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bishkek",
+          "swift_code": "ZLKRKG22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ojsc Kyrgyzdyikanbank",
+      "branches": [
+        {
+          "branch_name": "Ojsc Kyrgyzdyikanbank",
+          "city": "Bishkek",
+          "swift_code": "KSBCKG22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ojsc Halyk Bank Kyrgyzstan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bishkek",
+          "swift_code": "MAKAKG22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of The Kyrgyz Republic",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bishkek",
+          "swift_code": "NBKIKG22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Manas Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bishkek",
+          "swift_code": "MNSBKG22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kyrgyzkredit Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bishkek",
+          "swift_code": "KYRGKG22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kyrgyz Investment And Credit Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bishkek",
+          "swift_code": "KICBKG22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kazkommertsbank Kyrgyzstan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bishkek",
+          "swift_code": "KAKYKG21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Joint-stock Ecoislamicbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bishkek",
+          "swift_code": "ECBIKG22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investment Bank 'ysyk-kol'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bishkek",
+          "swift_code": "INVYKG22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financecreditbank Kab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bishkek",
+          "swift_code": "FIKBKG22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Pakistan Bishkek Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bishkek",
+          "swift_code": "NBPAKG22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dos-credobank Ojsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bishkek",
+          "swift_code": "DOSSKG22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Demir Kyrgyz International Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bishkek",
+          "swift_code": "DEMIKG22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bta Bank Cjsc (formerly Ineximbank Cjsc), Bishkek,kg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bishkek",
+          "swift_code": "EIMBKG22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Asia Cjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bishkek",
+          "swift_code": "ASCJKG22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Kyrgyzstan Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bishkek",
+          "swift_code": "KYRSKG22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bakai Bank Joint Stock",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bishkek",
+          "swift_code": "BAKAKG22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amanbank (joint-stock Russian-kyrgyz Amanbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bishkek",
+          "swift_code": "AJRAKG22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aiyl Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bishkek",
+          "swift_code": "AIYLKG22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bai-tushum And Partners Microfinance Bank Cjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bishkek",
+          "swift_code": "BBTPKG22XXX"
+        }
+      ]
+    }
+  ]
+}

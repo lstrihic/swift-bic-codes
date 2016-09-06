@@ -1,0 +1,262 @@
+{
+  "country_name": "Ethiopia",
+  "alpha_2": "ET",
+  "country_code": "231",
+  "banks": [
+    {
+      "bank_name": "Zemen Bank S.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Addis Abeba",
+          "swift_code": "ZEMEETAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wegagen Bank S.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Addis Abeba",
+          "swift_code": "WEGAETAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Bank Share Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Addis Abeba",
+          "swift_code": "UNTDETAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oromia International Bank S.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Addis Abeba",
+          "swift_code": "ORIRETAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nib International Bank S.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Addis Abeba",
+          "swift_code": "NIBIETAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Ethiopia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Addis Abeba",
+          "swift_code": "NBETETAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lion International Bank S.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Addis Abeba",
+          "swift_code": "LIBSETAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Enat Bank S.c",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Addis Abeba",
+          "swift_code": "ENATETAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Development Bank Of Ethiopia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Addis Abeba",
+          "swift_code": "DEETETAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Debub Global Bank S.c",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Addis Abeba",
+          "swift_code": "DEGAETAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dashen Bank S.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Addis Abeba",
+          "swift_code": "DASHETAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperative Bank Of Oromia S.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Finfine",
+          "swift_code": "CBORETAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Construction And Business Bank",
+      "branches": [
+        {
+          "branch_name": "Addis Abeba",
+          "city": "Addis Abeba",
+          "swift_code": "COUUETAADOC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Addis Abeba",
+          "swift_code": "COUUETAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Bank Of Ethiopia",
+      "branches": [
+        {
+          "branch_name": "Arada Giorgis Branch",
+          "city": "Addis Abeba",
+          "swift_code": "CBETETAAARA"
+        },
+        {
+          "branch_name": "Dire Dawa Main Branch",
+          "city": "Addis Abeba",
+          "swift_code": "CBETETAADIR"
+        },
+        {
+          "branch_name": "Trade Service Center",
+          "city": "Addis Abeba",
+          "swift_code": "CBETETAADOC"
+        },
+        {
+          "branch_name": "Finfine Branch",
+          "city": "Addis Abeba",
+          "swift_code": "CBETETAAFIN"
+        },
+        {
+          "branch_name": "International Banking Department",
+          "city": "Addis Abeba",
+          "swift_code": "CBETETAAIBD"
+        },
+        {
+          "branch_name": "Mehal Gebeya Branch",
+          "city": "Addis Abeba",
+          "swift_code": "CBETETAAMEH"
+        },
+        {
+          "branch_name": "Temenja Yaj Branch",
+          "city": "Addis Abeba",
+          "swift_code": "CBETETAATEM"
+        },
+        {
+          "branch_name": "Treasury Department",
+          "city": "Addis Abeba",
+          "swift_code": "CBETETAATRY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Addis Abeba",
+          "swift_code": "CBETETAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bunna International Bank S.c",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Addis Abeba",
+          "swift_code": "BUNAETAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Berhan International Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Addis Abeba",
+          "swift_code": "BERHETAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Abyssinia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Addis Abeba",
+          "swift_code": "ABYSETAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agricultural And Industrial Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Addis Abeba",
+          "swift_code": "AGINETA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abay Bank S.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Addis Abeba",
+          "swift_code": "ABAYETAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Addis International Bank S.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Addis Abeba",
+          "swift_code": "ABSCETAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Awash International Bank S.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Addis Abeba",
+          "swift_code": "AWINETAAXXX"
+        }
+      ]
+    }
+  ]
+}

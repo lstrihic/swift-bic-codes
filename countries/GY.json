@@ -1,0 +1,152 @@
+{
+  "country_name": "Guyana",
+  "alpha_2": "GY",
+  "country_code": "328",
+  "banks": [
+    {
+      "bank_name": "Republic Bank (guyana) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "RBGLGYGGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Guyana Bank For Trade And Industry Ltd.",
+      "branches": [
+        {
+          "branch_name": "Main Branch",
+          "city": "Georgetown",
+          "swift_code": "GUTIGYGEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Excel Capital Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "EXCAGYGTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Demerara Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "DMBKGYGTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citizens Bank Guyana Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "CBGIGYGGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Guyana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "GUBAGYGGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Baroda (guyana) Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BARBGYGEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Nova Scotia,the",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "NOSCGYGEXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Port Au Prince",
+          "swift_code": "NOSCHTPPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "St. John's",
+          "swift_code": "NOSCAGAGXXX"
+        },
+        {
+          "branch_name": "Offshore Banking Unit",
+          "city": "Bridgetown",
+          "swift_code": "NOSCBBBBBOB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bridgetown",
+          "swift_code": "NOSCBBBBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Basseterre",
+          "swift_code": "NOSCKNSKXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Castries",
+          "swift_code": "NOSCLCLCXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kingstown",
+          "swift_code": "NOSCVCVCXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Philipsburg",
+          "swift_code": "NOSCSXSMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "St. Thomas",
+          "swift_code": "NOSCVIVIXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Roseau",
+          "swift_code": "NOSCDMDMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cairo",
+          "swift_code": "NOSCEGCAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "St. George's",
+          "swift_code": "NOSCGDGDXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NOSCJPJ1XXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,537 @@
+{
+  "country_name": "Tunisia",
+  "alpha_2": "TN",
+  "country_code": "788",
+  "banks": [
+    {
+      "bank_name": "Union Internationale De Banque",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "UIBKTNTTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Bancaire Pour Le Commerce Et L'industrie (groupe Bnp Paribas",
+      "branches": [
+        {
+          "branch_name": "Tunis",
+          "city": "Tunis",
+          "swift_code": "UBCITNTTCHG"
+        },
+        {
+          "branch_name": "Engagement",
+          "city": "Tunis",
+          "swift_code": "UBCITNTTENG"
+        },
+        {
+          "branch_name": "Nabeul Branch",
+          "city": "Nabeul",
+          "swift_code": "UBCITNTTNBL"
+        },
+        {
+          "branch_name": "Tunis",
+          "city": "Tunis",
+          "swift_code": "UBCITNTTPST"
+        },
+        {
+          "branch_name": "Salle Des Marches",
+          "city": "Tunis",
+          "swift_code": "UBCITNTTSDM"
+        },
+        {
+          "branch_name": "Sfax Branch",
+          "city": "Sfax",
+          "swift_code": "UBCITNTTSFX"
+        },
+        {
+          "branch_name": "Sousse Branch",
+          "city": "Sousse",
+          "swift_code": "UBCITNTTSSE"
+        },
+        {
+          "branch_name": "Tunis",
+          "city": "Tunis",
+          "swift_code": "UBCITNTTTCE"
+        },
+        {
+          "branch_name": "Virements Gros Montants",
+          "city": "Tunis",
+          "swift_code": "UBCITNTTVGM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "UBCITNTTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tunisie Valeurs",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "TUNVTNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tunis International Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "TUIBTNTTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stusid Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "TSIDTNTTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Tunisienne Interprofessionnelle Pour La Compensation Et Le Depot Des Valeurs Mobilieres",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "STICTNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Tunisienne De Banque",
+      "branches": [
+        {
+          "branch_name": "Direction De La Succursale Thameur",
+          "city": "Tunis",
+          "swift_code": "STBKTNTT000"
+        },
+        {
+          "branch_name": "Monastir",
+          "city": "Monastir",
+          "swift_code": "STBKTNTT017"
+        },
+        {
+          "branch_name": "Direction Regionale",
+          "city": "Nabeul",
+          "swift_code": "STBKTNTT925"
+        },
+        {
+          "branch_name": "Direction Regionale",
+          "city": "Sousse",
+          "swift_code": "STBKTNTT930"
+        },
+        {
+          "branch_name": "Direction Regionale",
+          "city": "Sfax",
+          "swift_code": "STBKTNTT940"
+        },
+        {
+          "branch_name": "Head Office And All Other Departments",
+          "city": "Tunis",
+          "swift_code": "STBKTNTTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Qatar National Bank-tunisia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ariana",
+          "swift_code": "BTQITNTTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "North Africa International Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "NOAFTNTTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "La Poste Tunisienne",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "LPTNTNTTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fitch North Africa Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "FRIPTNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bourse Des Valeurs Mobilieres De Tunis",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "XTUNTNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Zitouna",
+      "branches": [
+        {
+          "branch_name": "Salle Des Marches",
+          "city": "Tunis",
+          "swift_code": "BZITTNTTSDM"
+        },
+        {
+          "branch_name": "Virements Gros Montants",
+          "city": "Tunis",
+          "swift_code": "BZITTNTTVGM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "BZITTNTTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Tuniso-libyenne",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "ATLDTNTTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Tuniso-koweitienne",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "BTKOTNTTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Tunisienne De Solidarite",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "TUSOTNT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Nationale Agricole",
+      "branches": [
+        {
+          "branch_name": "Direction Regionale",
+          "city": "Sfax",
+          "swift_code": "BNTETNTTSFX"
+        },
+        {
+          "branch_name": "Direction Regionale",
+          "city": "Sousse",
+          "swift_code": "BNTETNTTSSE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "BNTETNTTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Internationale Arabe De Tunisie",
+      "branches": [
+        {
+          "branch_name": "Financement En Devise Export",
+          "city": "Tunis",
+          "swift_code": "BIATTNTTFDE"
+        },
+        {
+          "branch_name": "Remise Export Sfax",
+          "city": "Sfax",
+          "swift_code": "BIATTNTTRXS"
+        },
+        {
+          "branch_name": "Remise Export Tunis",
+          "city": "Tunis",
+          "swift_code": "BIATTNTTRXT"
+        },
+        {
+          "branch_name": "Sfax 3000",
+          "city": "Sfax",
+          "swift_code": "BIATTNTTSFX"
+        },
+        {
+          "branch_name": "Transfert Emis Sfax",
+          "city": "Sfax",
+          "swift_code": "BIATTNTTTES"
+        },
+        {
+          "branch_name": "Transfert Emis Tunis",
+          "city": "Tunis",
+          "swift_code": "BIATTNTTTET"
+        },
+        {
+          "branch_name": "Transfert Recu Sfax",
+          "city": "Sfax",
+          "swift_code": "BIATTNTTTRS"
+        },
+        {
+          "branch_name": "Transfert Recu Tunis",
+          "city": "Tunis",
+          "swift_code": "BIATTNTTTRT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "BIATTNTTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Franco Tunisienne",
+      "branches": [
+        {
+          "branch_name": "Tresorerie",
+          "city": "Tunis",
+          "swift_code": "BFTNTNTTTRS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "BFTNTNTTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De Tunisie Et Des Emirats",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "BTEXTNTTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De Tunisie",
+      "branches": [
+        {
+          "branch_name": "Tunis",
+          "city": "Tunis",
+          "swift_code": "BTBKTNTTVGM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "BTBKTNTTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De L'habitat",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "BHBKTNTTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De Financement Des Pme",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "BFPMTNTTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Centrale De Tunisie",
+      "branches": [
+        {
+          "branch_name": "Tunis",
+          "city": "Tunis",
+          "swift_code": "BCTNTNTTVGM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "BCTNTNTTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Attijari Bank",
+      "branches": [
+        {
+          "branch_name": "Attijari Intermediation",
+          "city": "Tunis",
+          "swift_code": "BSTUTNTTAIN"
+        },
+        {
+          "branch_name": "International Department",
+          "city": "Tunis",
+          "swift_code": "BSTUTNTTINT"
+        },
+        {
+          "branch_name": "Attijari Titre",
+          "city": "Tunis",
+          "swift_code": "BSTUTNTTTIT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "BSTUTNTTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Tunisian Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "ATBKTNTTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amen Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "CFCTTNTTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alubaf International Bank Tunis",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "ALUBTNTTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Baraka Bank Tunisia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "BEITTNTTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tunisian Foreign Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "UTUBTNTTXXX"
+        },
+        {
+          "branch_name": "Marseille",
+          "city": "Marseille",
+          "swift_code": "UTUBFRPPMAR"
+        },
+        {
+          "branch_name": "Belleville",
+          "city": "Paris",
+          "swift_code": "UTUBFRPPBEL"
+        },
+        {
+          "branch_name": "Agence Pyramides",
+          "city": "Paris",
+          "swift_code": "UTUBFRPPPYR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Paris",
+          "swift_code": "UTUBFRPPXXX"
+        },
+        {
+          "branch_name": "Paris",
+          "city": "Paris",
+          "swift_code": "UTUBFRPPBDF"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankers Trust Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "BKTRTNT1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Des Moines,Ia",
+          "swift_code": "BTCDUS44XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Banking Corporation",
+      "branches": [
+        {
+          "branch_name": "Onshore Branch Tunisie",
+          "city": "Tunis",
+          "swift_code": "ABCOTNTT001"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tunis",
+          "swift_code": "ABCOTNTTXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "New York,Ny",
+          "swift_code": "ABCOUS33XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "ABCOIQB1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "ABCOIQBAXXX"
+        }
+      ]
+    }
+  ]
+}

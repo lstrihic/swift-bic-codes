@@ -1,0 +1,152 @@
+{
+  "country_name": "Saint Kitts and Nevis",
+  "alpha_2": "KN",
+  "country_code": "659",
+  "banks": [
+    {
+      "bank_name": "St. Kitts-nevis-anguilla National Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Basseterre",
+          "swift_code": "KNANKNSKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbtt Bank Caribbean Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Basseterre",
+          "swift_code": "RBTTKNSKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbtt Bank (skn) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Charlestown",
+          "swift_code": "RBTTKNNEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nevis Island Administration",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Charlestown",
+          "swift_code": "GVIAKNNEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Magnate Premier Investment Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Basseterre",
+          "swift_code": "MAMSKNS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Goverment Of St. Kitts And Nevis",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Basseterre",
+          "swift_code": "GVKNKNSKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Trade Aim Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Basseterre",
+          "swift_code": "GLTAKNS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurowire Cash Management Trust",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Charlestown",
+          "swift_code": "ECMTKNS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eastern Caribbean Securities Exchange Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Basseterre",
+          "swift_code": "ECSXKNSKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eastern Caribbean Central Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Basseterre",
+          "swift_code": "ECCBKNSKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Centerlink, Llc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Charlestown",
+          "swift_code": "CNLLKNN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Nevis, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Charlestown",
+          "swift_code": "BNEVKNNEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banclear Trust Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Charlestown",
+          "swift_code": "BAUOKNN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Magnate Premier Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Basseterre",
+          "swift_code": "MGPMKNS1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Auckland",
+          "swift_code": "MGPINZ21XXX"
+        }
+      ]
+    }
+  ]
+}

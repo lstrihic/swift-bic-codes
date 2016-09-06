@@ -1,0 +1,4977 @@
+{
+  "country_name": "Finland",
+  "alpha_2": "FI",
+  "country_code": "246",
+  "banks": [
+    {
+      "bank_name": "Tf Bank Ab, Filial Finland",
+      "branches": [
+        {
+          "branch_name": "Tf Bank Ab, Filial Finland",
+          "city": null,
+          "swift_code": "FIFDFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tervon Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "TEOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tervolan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "TEOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Teliasonera Finans Finland, Filial Till Teliasonera Finans Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "TFFFFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tarvasjoen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "TAOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tapiola Asset Management Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "TAPLFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taivassalon Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "TAOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tampereen Seudun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "TAEOFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sysm\u00e4n S\u00e4\u00e4st\u00f6pankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SYSAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sysm\u00e4n Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SYOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taivalkosken Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "TAOAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Svea Ekonomi Ab, Filial I Finland",
+      "branches": [
+        {
+          "branch_name": "Svea Ekonomi Ab, Filial I Finland",
+          "city": null,
+          "swift_code": "SEIDFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Suur-Savon Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SUONFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tapiola Pankki Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tapiola",
+          "swift_code": "TAPIFI22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Suupohjan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SUOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Suomussalmen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SUOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Suomensel\u00e4n Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PYOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Suonenjoen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SUOAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aurator Varainhoito Oy-aurator Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Turku",
+          "swift_code": "AVAAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Basware Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Espoo",
+          "swift_code": "BAWCFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vetelin Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "VEOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vesannon Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "VEOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vehmersalmen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "VEOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vaskion Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "VAOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vasa Andelsbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "VAOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Icecapital Markets Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "ICSUFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vampulan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "VAONFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "As Lhv Pank Finnish Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "LPFBFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Huhtamon Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Huhtamo",
+          "swift_code": "HUOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vetelin Ylip\u00e4\u00e4n Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "VEYOFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Helsinki Capital Partners Rahastoyhtio Oy",
+      "branches": [
+        {
+          "branch_name": "Helsinki Capital Partners Rahastoyhtio Oy",
+          "city": "Helsinki",
+          "swift_code": "HCPRFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Icecapital Asset Management Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "ICSNFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hellanmaan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lapua",
+          "swift_code": "HEOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Haminan Seudun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hamina",
+          "swift_code": "HAEPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Harjavallan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Harjavalta",
+          "swift_code": "HAOKFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hameenlinnan Seudun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hameenlinna",
+          "swift_code": "HAEOFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Haapajarven Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Haapajarvi",
+          "swift_code": "HAOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fsb Oy Pankkiiriliike",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "FSOPFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Glitnir Alternative Investments Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "GLAIFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Front Capital Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "FRCPFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fourton Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Espoo",
+          "swift_code": "FOURFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Head Asset Management Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "HEAAFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fim Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "FISEFIHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fim Asset Management Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "FMAMFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finlandia Group Oyj",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "FIGYFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fa Solutions Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "SOLTFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vammalan Seudun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "VASOFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fennia Asset Management Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "FEANFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Forssan Seudun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Forssa",
+          "swift_code": "FOSOFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Utaj\u00e4rven Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "UTOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Urjalan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "UROSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Valkeakosken Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "VAOAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Life Assurance Finland Ltd, Aktiva Defensiv",
+      "branches": [
+        {
+          "branch_name": "Nordea Life Assurance Finland Ltd, Aktiva Defensiv",
+          "city": "Helsinki",
+          "swift_code": "NLSNFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Life Assurance Finland Ltd, Aktiva Balans",
+      "branches": [
+        {
+          "branch_name": "Nordea Life Assurance Finland Ltd, Aktiva Balans",
+          "city": "Helsinki",
+          "swift_code": "NLADFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Life Assurance Finland Ltd, Aktiva Aggressiv",
+      "branches": [
+        {
+          "branch_name": "Nordea Life Assurance Finland Ltd, Aktiva Aggressiv",
+          "city": "Helsinki",
+          "swift_code": "NLSAFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Japan Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NOJFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Invest, European Smaller Favourites Fund",
+      "branches": [
+        {
+          "branch_name": "Nordea Invest, European Smaller Favourites Fund",
+          "city": "Helsinki",
+          "swift_code": "NIEMFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Private Banking Focus Finland Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NPFIFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Premium Asset Management Growth Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NPAGFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Premium Asset Management Moderate Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NPANFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Premium Asset Management Balanced Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NPAAFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea North America Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NNAFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Norsk Kredittobligasjon Fund",
+      "branches": [
+        {
+          "branch_name": "Nordea Norsk Kredittobligasjon Fund",
+          "city": "Helsinki",
+          "swift_code": "NNKFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Private Banking Focus Nordic Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NPFNFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Nordic Small Cap Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NNSCFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Nordic Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NONFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Medica Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NOMFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Life Assurance Finland Ltd, Real Estate",
+      "branches": [
+        {
+          "branch_name": "Nordea Life Assurance Finland Ltd, Real Estate",
+          "city": "Helsinki",
+          "swift_code": "NLSFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Life Assurance Finland Ltd, Private Equity",
+      "branches": [
+        {
+          "branch_name": "Nordea Life Assurance Finland Ltd, Private Equity",
+          "city": "Helsinki",
+          "swift_code": "NLPQFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Life Assurance Finland Ltd, Nordea Maailma Osake",
+      "branches": [
+        {
+          "branch_name": "Nordea Life Assurance Finland Ltd, Nordea Maailma Osake",
+          "city": "Helsinki",
+          "swift_code": "NLSDFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Life Assurance Finland Ltd, Kauppa Ja Kone",
+      "branches": [
+        {
+          "branch_name": "Nordea Life Assurance Finland Ltd, Kauppa Ja Kone",
+          "city": "Helsinki",
+          "swift_code": "NLANFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Life Assurance Finland Ltd, Heikki Kyostila",
+      "branches": [
+        {
+          "branch_name": "Nordea Life Assurance Finland Ltd, Heikki Kyostila",
+          "city": "Helsinki",
+          "swift_code": "NLAAFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Life Assurance Finland Ltd, Erkki Etola",
+      "branches": [
+        {
+          "branch_name": "Nordea Life Assurance Finland Ltd, Erkki Etola",
+          "city": "Helsinki",
+          "swift_code": "NLSIFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Life Assurance Finland Ltd, Equity Nlp",
+      "branches": [
+        {
+          "branch_name": "Nordea Life Assurance Finland Ltd, Equity Nlp",
+          "city": "Helsinki",
+          "swift_code": "NLAFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Life Assurance Finland Ltd, Alternatives",
+      "branches": [
+        {
+          "branch_name": "Nordea Life Assurance Finland Ltd, Alternatives",
+          "city": "Helsinki",
+          "swift_code": "NLALFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Life Assurance Finland Ltd, Aktiva Offensiv",
+      "branches": [
+        {
+          "branch_name": "Nordea Life Assurance Finland Ltd, Aktiva Offensiv",
+          "city": "Helsinki",
+          "swift_code": "NLSLFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Life Assurance Finland Ltd, Aktiva Global",
+      "branches": [
+        {
+          "branch_name": "Nordea Life Assurance Finland Ltd, Aktiva Global",
+          "city": "Helsinki",
+          "swift_code": "NLAGFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea India Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NOIFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Henkivakuutus Suomi Oy C/o Nordea Life And Pension Assurancce Alleq",
+      "branches": [
+        {
+          "branch_name": "Nordea Henkivakuutus Suomi Oy C/o Nordea Life And Pension Assurancce Alleq",
+          "city": "Helsinki",
+          "swift_code": "NOHUFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Henkivakuutus",
+      "branches": [
+        {
+          "branch_name": "Nordea Henkivakuutus",
+          "city": "Helsinki",
+          "swift_code": "NOHEFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Global Technology Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NGTFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Global Index Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NGIFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Global High Yield",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NGHYFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Global Emerging Markets Equities Ucits Etf",
+      "branches": [
+        {
+          "branch_name": "Nordea Global Emerging Markets Equities Ucits Etf",
+          "city": "Helsinki",
+          "swift_code": "NGEMFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sampo Plc",
+      "branches": [
+        {
+          "branch_name": "Helsinki",
+          "city": "Helsinki",
+          "swift_code": "SAHOFIH1KVA"
+        },
+        {
+          "branch_name": "Helsinki",
+          "city": "Helsinki",
+          "swift_code": "SAHOFIH1MLI"
+        },
+        {
+          "branch_name": "Helsinki",
+          "city": "Helsinki",
+          "swift_code": "SAHOFIH1SAM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "SAHOFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sauvon Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sauvo",
+          "swift_code": "SAOIFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ramirent Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vantaa",
+          "swift_code": "RMRTFI22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rvm Investium Oy",
+      "branches": [
+        {
+          "branch_name": "Rvm Investium Oy",
+          "city": "Helsinki",
+          "swift_code": "RVINFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sanomawsoy Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "SAWSFIHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Omx Nordic Exchange Group Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "XFOMFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Yield Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NOYFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordeaprivate Banking Obligasjon Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NPOFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tuuloksen Saastopankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hameenlinna",
+          "swift_code": "TUSAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Williams De Broe",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "WIBRFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vora Sparbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vora",
+          "swift_code": "VOSPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wip Asset Management Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "WIANFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Viereman Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vierema",
+          "swift_code": "VIERFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Veritas Pension Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Turku",
+          "swift_code": "VEPFFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Visio Varainhoito Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "VISVFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Varpaisjarven Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Varpaisjarvi",
+          "swift_code": "VAOKFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Varainhallinta Tresor Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "VATSFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Valo Research And Trading Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "VARAFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Bankers Omaisuudenhoito Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "UNOMFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uukuniemen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Uukuniemi",
+          "swift_code": "UUOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Valmet Corporation",
+      "branches": [
+        {
+          "branch_name": "Valmet Corporation",
+          "city": "Helsinki",
+          "swift_code": "VLMTFIM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Virolahden Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Virolahti",
+          "swift_code": "VIOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ub Rahastoyhtio Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "RAHTFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Swe Institutional Short Duration Bond Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NSISFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Swe Inflation Linked Bond Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NSILFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea World Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NOWFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Stable Return Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NSRFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Stratega Fixed Income",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NSFIFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Stabile Equities Ucits Etf",
+      "branches": [
+        {
+          "branch_name": "Nordea Stabile Equities Ucits Etf",
+          "city": "Helsinki",
+          "swift_code": "NSEUFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Savings Fixed Income",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NSFNFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Savings 75",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NOVVFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Russia Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NRFNFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Savings 10",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NOVGFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Pro Stable Return Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NPSRFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Pro European Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NPEFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Pro Finland Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NPFFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Savings 25",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NOAVFIH1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NOIIFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Private Banking Norsk Aksje Portefolje",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NPNAFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Private Banking Kort Obligasjon Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NPKOFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Quorum Fund Management Company Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "QFMCFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Privanet Securities Ltd",
+      "branches": [
+        {
+          "branch_name": "Privanet Securities Ltd",
+          "city": "Turku",
+          "swift_code": "PSEUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Private Banking Likviditet Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NPLFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pohjola Pankki Oyj (pohjola Bank Plc) (markets/clearing And Settlement",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "OPSEFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pp-laskenta",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Espoo",
+          "swift_code": "PPLAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pohjola Asset Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "POAEFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pension Fennia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "PEFEFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Parkanon Saastopankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Parkano",
+          "swift_code": "PAAKFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pareto Securities Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "OJFFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oy United Bankers Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "UNBRFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oy Samlink Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Espoo",
+          "swift_code": "SALKFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oy Ahola Maliniemi Partners Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "AHMPFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Overmark Andelsbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Overmark",
+          "swift_code": "OVANFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Opuscapita Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Espoo",
+          "swift_code": "OPUSFI2HXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Op-pohjola Group (securities Transaction Reportingop Branches",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "POHGFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Op Pension Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "PEFNFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Titanium Rahastoyhtio Oy",
+      "branches": [
+        {
+          "branch_name": "Titanium Rahastoyhtio Oy",
+          "city": "Helsinki",
+          "swift_code": "TIRHFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tieto Oyj",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "TICOFIHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Royal Bank Of Scotland Plc, Filial I Finland",
+      "branches": [
+        {
+          "branch_name": "The Royal Bank Of Scotland Plc, Filial I Finland",
+          "city": "Helsingfors",
+          "swift_code": "RBOSFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taaleritehdas Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Espoo",
+          "swift_code": "TAALFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Suodenniemen Saastopankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sastamala",
+          "swift_code": "SUSOFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The State Pension Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "STPDFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sp-rahastoyhtio Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "SPHTFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sp Kapitaali Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "KAPLFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Someron Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Somero",
+          "swift_code": "SOOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Somerniemen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Somerniemi",
+          "swift_code": "SOOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Solidus Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "SODUFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sofi Pankkiiriliike Sofi Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "SOPAFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skargardssparbanken Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Houtskar",
+          "swift_code": "SKASFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skandinaviska Enskilda Banken Ab (publ) Helsinki Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "ENSSFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sideby Andelsbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sideby",
+          "swift_code": "SIAKFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Seligson And Co Oyj",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "SEOYFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Seb Wealth Management Finland Ltd.(former Seb Gyllenberg Asset Management Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "GYAMFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Seb Fund Management Company Finland Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "SEGOFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scania Finans Ab, Finnish Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "SFFNFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Global Dividend Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NGDFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Foresta Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NOFFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Fixed Income Portfolio Plus",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NFIOFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Finnish Small Cap",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NFMCFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Finnish 130/30",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NOFHFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Finland Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NOFUFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea European New Frontiers",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NENFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Far East Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NFEFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Upm-Kymmene Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "UPMKFIHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tyrn\u00e4v\u00e4n Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "TYOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ullavan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "ULOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tuusniemen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "TUOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tuupovaaran Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "TUOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Turun Seudun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "TUSUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tornion Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "TOOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Toholammin Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "TOOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tiistenjoen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "TIOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aros Securities Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "ABBOFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alfred Berg Pankkiiriliike",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "ALFFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alfred Berg Omaisuudenhoito Suomi Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "ABOOFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aktia Asset Management Oy Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "AKAMFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alexandria Pankkiiriliike Oyj",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "ALPYFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "A.g. Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "AGPAFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ach Finland Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Espoo",
+          "swift_code": "POPFFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ahtarin Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ahtari",
+          "swift_code": "AHOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yttermark Sparbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "YTSPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yp\u00e4j\u00e4n Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "YPOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ylitornion Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "YLOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ylivieskan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "YLOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ylih\u00e4rm\u00e4n S\u00e4\u00e4st\u00f6pankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "YLSAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yl\u00e4neen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "YLOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vimpelin Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "VIOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vihannin Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "VIOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Virtain Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "VIOAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Etera Mutual Pension Ins. Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "EMPIFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Etela-savon Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mikkeli",
+          "swift_code": "ETOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Etela-karjalan Saastopankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lappeenranta",
+          "swift_code": "ETSAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Estlander And Ronnlund Financial Products Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vaasa",
+          "swift_code": "ERFPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Estlander And Partners Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "ESPRFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eq Turku Omaisuudenhoito Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Turku",
+          "swift_code": "TUOMFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Erik Selin Bankers Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "ERSBFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eq Pankki Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "EQPIFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eq Asset Management Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "ASNGFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Emissions Trading Registry Of Finland",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "ETRFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Elite Private Banking Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "ELPRFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "E. Ohman J Or Fondbolag Finland Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "OJFAFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Digia Financial Software Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "DIFSFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Danske Bank A/s Helsinki Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "PROEFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Conventum Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "CVMLFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Danske Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Cls Services",
+          "city": "Helsinki",
+          "swift_code": "DABAFIHHCLS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Celeres Rahastoyhtio Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "CERHFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Elcoteq Se",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Espoo",
+          "swift_code": "ELCOFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carnegie Asset Management Finland Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "CRTEFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cargotec Oyj",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "CTECFIHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea European Index Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NEIFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea European High Yield Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NEHYFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Localtapiola Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Asset Management",
+          "city": "Espoo",
+          "swift_code": "TAPIFI22AM1"
+        }
+      ]
+    },
+    {
+      "bank_name": "Liqvinet Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "LIQVFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lappo Andelsbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lappo",
+          "swift_code": "LAADFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lapinlahden Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lapinlahti",
+          "swift_code": "LAPLFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Landsbanki Islands",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "LAISFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kymijoen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Anjalankoski",
+          "swift_code": "KYOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuntien Elakevakuutus",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "KUELFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lago Kapital Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "LAGOFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kouvolan Seudun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kouvola",
+          "swift_code": "KOSUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kotkan Seudun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kotka",
+          "swift_code": "KOSOFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Koillis-savon Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nilsia",
+          "swift_code": "KOOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kjk Capital Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "KJKCFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Keskinainen Elakevakuutusyhtioe Ilmarinen",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "IMPIFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Langelmaen Saastopankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Langelmaki",
+          "swift_code": "LASKFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kemira Oyj",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "KEMIFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jam Advisors Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "JAADFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investa Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "INATFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Keikyan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sastamala",
+          "swift_code": "KESKFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kokemaen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kokemaki",
+          "swift_code": "KOOIFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "If P And C Insurance Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Espoo",
+          "swift_code": "IFPCFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Europe Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NOEUFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Emerging Market Equities Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NEMEFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Equity Portfolio",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NOELFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Emerging Market Bond Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NEMOFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Eastern Europe Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NEEFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Corporate Bond Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NCBFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea China Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NOHFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Aaa Government Bond Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NAGBFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Navi Group Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NAGPFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Capital Protection 75",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NOAOFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Narpes Sparbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Narpes",
+          "swift_code": "NASKFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Netposti",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NETPFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Municipality Finance Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "MUFIFI21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "MUFIFIHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Metso Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "MTSOFIHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Metsa Group Financial Services",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Espoo",
+          "swift_code": "MGRPFI22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mb Corporate Finance Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "MBCFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maskun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Masku",
+          "swift_code": "MAUKFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Luvian Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luvia",
+          "swift_code": "LUOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Parikkalan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PAOKFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "P\u00e4ij\u00e4t-H\u00e4meen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PAOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Paltamon Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PAOAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Paattisten Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PAOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oulun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "OUOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Outokummun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "OUOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oulaisten Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "OUOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Osuuspankki Kantrisalo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "OSKAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "\u00d6stra Korsholms Andelsbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "OSKNFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orip\u00e4\u00e4n Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "OROPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "\u00d6stnylands Andelsbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "OSANFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orimattilan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "OROSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oma S\u00e4\u00e4st\u00f6pankki Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "OMSAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Osuuspankki Poppia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KIOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oriveden Seudun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "ORSOFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nousiaisten Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "NOOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordnet Bank Ab Finsk Filial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "NOUSFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordic Investment Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "NOINFIHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Suomenniemen S\u00e4\u00e4st\u00f6pankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SUSSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Punkalaitumen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PUONFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Suomen Pankki - Finlands Bank",
+      "branches": [
+        {
+          "branch_name": "Target2 Pmj-as Dts",
+          "city": "Helsinki",
+          "swift_code": "SPFBFIHH1A1"
+        },
+        {
+          "branch_name": "Target2 Rahahuolto",
+          "city": "Helsinki",
+          "swift_code": "SPFBFIHH1A2"
+        },
+        {
+          "branch_name": "Target2 Pmj-as Nts",
+          "city": "Helsinki",
+          "swift_code": "SPFBFIHHASI"
+        },
+        {
+          "branch_name": "Helsinki",
+          "city": "Helsinki",
+          "swift_code": "SPFBFIHHCON"
+        },
+        {
+          "branch_name": "Ecb Operations",
+          "city": "Helsinki",
+          "swift_code": "SPFBFIHHECB"
+        },
+        {
+          "branch_name": "Target2 Ncbecb Internal",
+          "city": "Helsinki",
+          "swift_code": "SPFBFIHHEUX"
+        },
+        {
+          "branch_name": "Target2 Rma Internal",
+          "city": "Helsinki",
+          "swift_code": "SPFBFIHHRMA"
+        },
+        {
+          "branch_name": "Target2 Sfa Internal",
+          "city": "Helsinki",
+          "swift_code": "SPFBFIHHSFA"
+        },
+        {
+          "branch_name": "Target2 Sfm Internal",
+          "city": "Helsinki",
+          "swift_code": "SPFBFIHHSFM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "SPFBFIHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pulkkilan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PUOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pudasj\u00e4rven Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PUOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pukkilan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PUOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "P\u00f6yty\u00e4n Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "POOKFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Posion Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "POONFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sallan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SAOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "S\u00e4kyl\u00e4n Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SAOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "S\u00e4\u00e4st\u00f6pankki Sinetti",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "ERSSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "S\u00e4\u00e4st\u00f6pankki Optia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SAOTFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "S-Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "SBANFIHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rym\u00e4ttyl\u00e4n Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "RYOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ruukin Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "RUOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ruoveden Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "RUOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Riistaveden Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "RIOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Resurs Bank Ab Suomen Sivuliike",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "RESKFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Reisj\u00e4rven Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "REOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rautalammin Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "RAOKFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rantasalmen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "RAOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "R\u00e4\u00e4kkyl\u00e4n Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "RAOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Raahen Seudun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "RASUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pyh\u00e4sel\u00e4n Paikallisosuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PYPAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pyh\u00e4rannan S\u00e4\u00e4st\u00f6pankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PYSAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pyh\u00e4laakson Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PYOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Purmo Andelsbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PUANFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Porvoon Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "POOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Polvij\u00e4rven Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "POOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Puolangan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PUOKFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pohjola Pankki Oyj (Pohjola Bank Plc)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "OKOYFIHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pohjois-Savon Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "POOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pohjanmaan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KAOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Piikki\u00f6n Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PIIKFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pihtiputaan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PIOAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pohjolan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "POOAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pielisen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PIOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pielaveden Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PIOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Perhon Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PEOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pet\u00e4j\u00e4veden Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PEOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Per\u00e4sein\u00e4joen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PEOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Peders\u00f6renejdens Andelsbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PEAEFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Suomen Hypoteekkiyhdistys",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SHMSFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sulkavan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SUOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Treasury",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "VKSKFIHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stadshypotek Ab (Publ), Filialverksamheten I Finland",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SJSIFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sotkamon Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SOOAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Someron S\u00e4\u00e4st\u00f6pankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SOAOFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sonkaj\u00e4rven Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SOOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Simpeleen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SIOIFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Siikalatvan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SIONFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Siikajoen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SIOKFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Seb Kort Bank Ab, Helsingin Sivuliike",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SKHSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Satapirkan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PAOIFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Savitaipaleen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SAUPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sievin Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SIOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Satakunnan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "HUOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Siilinj\u00e4rven Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SIOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sampo Bank (Part Of Danske Bank Group)",
+      "branches": [
+        {
+          "branch_name": "Danske Capital",
+          "city": "Helsinki",
+          "swift_code": "DABAFIHHCAP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "DABAFIHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nooa S\u00e4\u00e4st\u00f6pankki Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "NOASFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank International Plc, Finland Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "CITIFIHXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carnegie Investment Bank Ab, Finland Filial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "CASFFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bigbank As Suomen Sivuliike",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "BISKFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Aland Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mariehamn",
+          "swift_code": "AABAFI22XXX"
+        },
+        {
+          "branch_name": "Treasury Department",
+          "city": "Mariehamn",
+          "swift_code": "AABAFI22TMS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Avain S\u00e4\u00e4st\u00f6pankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KOSAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Askolan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "ASOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Artj\u00e4rven Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "AROUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "De Lage Landen Finans Ab, Sivuliike Suomessa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "DLFNFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Auran Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "AUOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Andelsbanken Raseborg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "ANRSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Andelsbanken F\u00f6r \u00c5land",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "ANADFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alavuden Seudun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "ALEPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alavieskan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "ALONFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alaj\u00e4rven Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "ALOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aktia Bank P.L.C.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "HELSFIHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Akaan Seudun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "AKSUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aito S\u00e4\u00e4st\u00f6pankki Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "AISAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alastaron Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "ALOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nivalan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "NIOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "L\u00e4nsi-Uudenmaan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LAOIFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Korsn\u00e4s Andelsbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KOADFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Karvian Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KAOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Karkun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KAUNFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J\u00e4mij\u00e4rven Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "JAOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Itella Pankki Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "ITELFIHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kosken Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KOOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Isojoen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "ISOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ilomantsin Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "ILOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ikaalisten Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "IKOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ikano Bank Ab (Publ), Finland Filial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KPFFFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Humppilan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "HUOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Huittisten S\u00e4\u00e4st\u00f6pankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "HUSOFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Honkilahden Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "HOOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Honkajoen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "HOOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hirvensalmen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "HIOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Himangan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "HIOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Helmi S\u00e4\u00e4st\u00f6pankki Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "HESAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hein\u00e4veden Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "HEOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Haukivuoren Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "HAUUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Helsingin Op Pankki Oyj",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "HEPYFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hartolan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "HAOIFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hannulan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "HAOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Halsuan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "HAONFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hauhon Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "HAUSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hailuodon Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "HAOAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Haapam\u00e4en Seudun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "HASKFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Forex Bank Aktiebolag Filial I Finland",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "FORXFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Folkia As, Suomen Sivuliike",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "FOSIFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fim Pankkiiriliike",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "FIPAFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Evli Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "EVSEFIHHXXX"
+        },
+        {
+          "branch_name": "Investment Funds",
+          "city": "Helsinki",
+          "swift_code": "EVSEFIHHFND"
+        }
+      ]
+    },
+    {
+      "bank_name": "Euroclear Finland Ltd",
+      "branches": [
+        {
+          "branch_name": "Csd Community",
+          "city": "Helsinki",
+          "swift_code": "APKEFIHHCLP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "APKEFIHHXXX"
+        },
+        {
+          "branch_name": "Money Market System",
+          "city": "Helsinki",
+          "swift_code": "APKEFIHHATP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "ECLNFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurajoen S\u00e4\u00e4st\u00f6pankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "EUSPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Euran Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "EUOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eufex Pankki Oyj",
+      "branches": [
+        {
+          "branch_name": "Eufex Pankki Oyj",
+          "city": null,
+          "swift_code": "EUFPFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eufex Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Espoo",
+          "swift_code": "EUFXFIHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Etel\u00e4-Pohjanmaan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "ETOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Etel\u00e4-P\u00e4ij\u00e4nteen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "ETOAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Etel\u00e4-Karjalan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "ETOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Etel\u00e4-H\u00e4meen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "RISOFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Enon Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "ENOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eken\u00e4s Sparbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "EKSRFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Diners Club Finland, Filial Till Diners Club Nordic Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "DCFBFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "K\u00e4rk\u00f6l\u00e4n Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KAOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dnb Bank Asa, Filial Finland",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "DNBAFIHXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kantas\u00e4\u00e4st\u00f6pankki Oy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KANPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Karjalan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KAUAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kannuksen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KAUUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kangasniemen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KAUSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kangasalan Seudun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KASOFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kalkkisten Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KASPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kannonkosken Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KANOFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kalajoen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KAOIFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kainuun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KAOKFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Juuan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "JUOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kalannin S\u00e4\u00e4st\u00f6pankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KALAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jpmorgan Europe Limited, Helsinki Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Helsinki",
+          "swift_code": "CHASFIHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Joroisten Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "JORUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jokioisten Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "JOOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Joensuun Seudun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "JOSSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Janakkalan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "JAOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Luopioisten Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LUOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Luhangan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LUOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J\u00e4ms\u00e4n Seudun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "JASSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lounaismaan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SAOKFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lounais-Suomen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LOOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lounaisrannikon Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "VAOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lokalahden Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LOOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Loimaan Seudun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LOSOFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Liperin Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LIOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Limingan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LIOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Liedon S\u00e4\u00e4st\u00f6pankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LSAAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lopen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LOOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Liedon Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LIOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lepp\u00e4virran Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LEOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lemin Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LEOKFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lehtim\u00e4en Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LEOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lavian Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LAOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lapuan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LAPUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lappaj\u00e4rven Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LAOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lapin Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LASUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "L\u00e4nsi-Uudenmaan S\u00e4\u00e4st\u00f6pankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LASTFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Korpilahden Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KOSNFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Konneveden Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KONOFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Koitin-Pertunmaan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KOOKFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kiikoisten S\u00e4\u00e4st\u00f6pankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KISOFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kiikoisten Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KIOAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kiteen Seudun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KISUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kiihtelysvaaran Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KIOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kihni\u00f6n Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KIOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Keuruun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KEOAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kokkolan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KOSPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Keski-Uudenmaan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KEONFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Keski-Suomen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KEOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kes\u00e4lahden Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KEOIFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kemin Seudun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KESOFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Keiteleen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KEOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "K\u00e4yl\u00e4n Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KAONFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kerim\u00e4en Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KEOKFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kaustisen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KAOAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "L\u00e4nsi-Suomen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LANOFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "L\u00e4nsi-Kymen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LAOKFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lanneveden Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LAOAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lammin S\u00e4\u00e4st\u00f6pankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LAMTFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lammin Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LAONFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Laihian Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LAOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kyyj\u00e4rven Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KYYOFIH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kyr\u00f6nmaan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KYOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kyr\u00f6n Seudun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KYSOFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kvevlax Sparbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KVSPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuusamon Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KUSSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kurun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KUOKFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kurikan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KUOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuhmon Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KUOPFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuhmoisten Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KUOAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kronoby Andelsbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KRADFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kuortaneen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KUONFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kristinestads Sparbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KRSNFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "K\u00f6yli\u00f6n Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "KOONFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nivalan J\u00e4rvikyl\u00e4n Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "NIJOFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Niinijoen Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "NIOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nakkila-Luvian Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "NAOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Myrskyl\u00e4n S\u00e4\u00e4st\u00f6pankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "MYSAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Myrskyl\u00e4n Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "MYOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nagu Andelsbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "NAANFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Myn\u00e4m\u00e4en Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "MYOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Multian Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "MUOSFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mouhij\u00e4rven Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "MOOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mietoisten S\u00e4\u00e4st\u00f6pankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "MISNFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mets\u00e4maan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "MEOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Miehikk\u00e4l\u00e4n Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "MIOUFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mellil\u00e4n Seudun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "MESNFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Marttilan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "MAUNFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "M\u00e4nts\u00e4l\u00e4n Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "MAOKFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "M\u00e4nt\u00e4n Seudun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "MAEKFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maaningan Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "MAOAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Luum\u00e4en Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LUOAFI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merimaskun Osuuspankki",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "MEOSFI21XXX"
+        }
+      ]
+    }
+  ]
+}

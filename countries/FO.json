@@ -1,0 +1,57 @@
+{
+  "country_name": "Faroe Islands",
+  "alpha_2": "FO",
+  "country_code": "234",
+  "banks": [
+    {
+      "bank_name": "Suduroyar Sparikassi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vagur",
+          "swift_code": "SUSPFOT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordoya Sparikassi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Klaksvik",
+          "swift_code": "NOYAFO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fossbankin",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Torshavn",
+          "swift_code": "FOSSFO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eik Banki P/f",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Torshavn",
+          "swift_code": "EIKBFOTFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banknordik P/f (formerly Foroya Banki P/f",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Torshavn",
+          "swift_code": "FIFBFOTXXXX"
+        }
+      ]
+    }
+  ]
+}

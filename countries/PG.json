@@ -1,0 +1,82 @@
+{
+  "country_name": "Papua New Guinea",
+  "alpha_2": "PG",
+  "country_code": "598",
+  "banks": [
+    {
+      "bank_name": "Westpac Bank-png-limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Moresby",
+          "swift_code": "WPACPGPMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Papua New Guinea",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Moresby",
+          "swift_code": "BPNGPGPMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of South Pacific Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Moresby",
+          "swift_code": "BOSPPGPMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Suva",
+          "swift_code": "HABBFJF1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Investment Finance Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Moresby",
+          "swift_code": "FIVFPGPMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maybank (png) Limited, Port Moresby",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Moresby",
+          "swift_code": "MBBEPGPMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Australia And New Zealand Banking Group (png) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Moresby",
+          "swift_code": "ANZBPGPXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "British American Tobacco (png) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Moresby",
+          "swift_code": "BATSPGA1XXX"
+        }
+      ]
+    }
+  ]
+}

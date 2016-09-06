@@ -1,0 +1,97 @@
+{
+  "country_name": "Cuba",
+  "alpha_2": "CU",
+  "country_code": "192",
+  "banks": [
+    {
+      "bank_name": "Banco Popular De Ahorro",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "La Habana",
+          "swift_code": "BPAHCUHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Internacional De Comercio S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "La Habana",
+          "swift_code": "BIDCCUHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Industrial De Venezuela-cuba S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "La Habana",
+          "swift_code": "INDSCUHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Financiero Internacional, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "La Habana",
+          "swift_code": "BFICCUHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Exterior De Cuba",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "La Habana",
+          "swift_code": "BECUCUHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Inversiones S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "La Habana",
+          "swift_code": "BICUCUHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Credito Y Comercio",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "La Habana",
+          "swift_code": "BDCRCUHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Central De Cuba",
+      "branches": [
+        {
+          "branch_name": "Real Timegross Settlement Branch",
+          "city": "La Habana",
+          "swift_code": "BCCUCUHHSLB"
+        },
+        {
+          "branch_name": "Sistema Unico De Compensacion Regional",
+          "city": "La Habana",
+          "swift_code": "BCCUCUHHSUC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "La Habana",
+          "swift_code": "BCCUCUHHXXX"
+        }
+      ]
+    }
+  ]
+}

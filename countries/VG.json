@@ -1,0 +1,202 @@
+{
+  "country_name": "Virgin Islands (British)",
+  "alpha_2": "VG",
+  "country_code": "092",
+  "banks": [
+    {
+      "bank_name": "Vp Bank (bvi) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tortola",
+          "swift_code": "VPBVVGV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Value Star Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tortola",
+          "swift_code": "VSAMVGV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scotiabank (british Virgin Islands) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tortola",
+          "swift_code": "NOSCVGVGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ramburs Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tortola",
+          "swift_code": "RAMBVGV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Quant Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tortola",
+          "swift_code": "QUAAVGV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pyrrho Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tortola",
+          "swift_code": "PYMAVGV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pacific Capital Group Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tortola",
+          "swift_code": "PACGVGV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pacific Alliance Investment Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tortola",
+          "swift_code": "PAIEVGV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ourinvest Capital Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tortola",
+          "swift_code": "OUCAVGV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mvm Overseas Capital Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Roadtown",
+          "swift_code": "MVOCVGV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ion Volium Strategy Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Roadtown",
+          "swift_code": "IOVSVGV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ibis International Fund Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tortola",
+          "swift_code": "IBIFVGV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Everyoung Capital Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tortola",
+          "swift_code": "EVCMVGV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "De Shaw International",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tortola",
+          "swift_code": "SHILVGV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cimb Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tortola",
+          "swift_code": "CBMBVGV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chemium International Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tortola",
+          "swift_code": "CHNIVGV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carlsson Currency Fund Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Roadtown",
+          "swift_code": "CACFVGV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bursatil Clearing Corporation Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tortola",
+          "swift_code": "BCCLVGV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bevco Limited",
+      "branches": [
+        {
+          "branch_name": "Tortola",
+          "city": "Tortola",
+          "swift_code": "BEVCVGV1BEV"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tortola",
+          "swift_code": "BEVCVGV1XXX"
+        }
+      ]
+    }
+  ]
+}

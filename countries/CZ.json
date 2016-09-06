@@ -1,0 +1,1192 @@
+{
+  "country_name": "Czech Republic",
+  "alpha_2": "CZ",
+  "country_code": "203",
+  "banks": [
+    {
+      "bank_name": "Zfp Investments Investicni Spolecnost, A.s.",
+      "branches": [
+        {
+          "branch_name": "Zfp Investments Investicni Spolecnost, A.s.",
+          "city": "Prague",
+          "swift_code": "ZFPICZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Zalozna Creditas Sporitelni Druzstvo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Olomouc",
+          "swift_code": "CTASCZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.P. Morgan Energy Europe S.R.O.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "CHASCZPXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J And T Banka A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "JTBPCZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ge Money Bank, A.S.(Formerly Ge Capital Bank A.S.)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "AGBACZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Bank Sa/Nv, Brussels, Branch Czech Republic",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "GEBACZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fio Banka, A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "FIOBCZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Evropsko-Ruska Banka, A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "FICHCZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Equa Bank A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "EQBKCZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Czech Export Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "CZEECZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Europe Plc, Organizacni Slozka",
+      "branches": [
+        {
+          "branch_name": "Trade Services Dept",
+          "city": "Prague",
+          "swift_code": "CITICZPXTRD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "CITICZPXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citfin, Sporitelni Druzstvo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "CITFCZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ceskoslovenska Obchodni Banka, A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "CEKOCZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ceska Sporitelna A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "GIBACZPXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ceska Narodni Banka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "CNBACZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Centralni Depozitar Cennych Papiru, A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "UNIYCZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bre Bank S.A., Organizacni Slozka Podniku",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "BREXCZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Tokyo-Mitsubishi Ufj (Holland) N.V., Prague Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "BOTKCZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "X-trade Brokers Dom Maklerski Spolka Akcyjna,organizacni Slozka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "TRBDCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Proventus Finance A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "PRNICZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Honor Invest, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "HOIVCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Creditanstalt Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "CAIBCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Akcenta, Sporitelni A Uverni Druzstvo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hradec Kralov",
+          "swift_code": "AKCTCZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Air Bank A.s.",
+      "branches": [
+        {
+          "branch_name": "Air Bank A.s.",
+          "city": "Prague",
+          "swift_code": "AIRACZA1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "AIRACZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "A And Ce Global Finance, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brno",
+          "swift_code": "GLFNCZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "42 Financial Services",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "FNSECZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Zuno Bank Ag, Organizacni Slozka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "ZUNOCZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wood And Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "WOODCZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vseobecna Uverova Banka, A.S. Branch Praha",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "SUBACZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Volksbank Cz, A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brno",
+          "swift_code": "VBOECZ2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unicredit Bank Czech Republic,A.S.",
+      "branches": [
+        {
+          "branch_name": "Securities Settlement",
+          "city": "Prague",
+          "swift_code": "BACXCZPPRET"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "BACXCZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Raiffeisenbank A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "RZBCCZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Royal Bank Of Scotland N.V. (Czech Republic)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "ABNACZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ppf Banka A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "PMBPCZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Postova Banka, A.S.,Pobocka Ceska Republika",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "POBNCZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pioneer Asset Management, A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "PIAMCZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moravsky Penezni Ustav-Sporitelni Druzstvo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "MPUBCZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lbbw Bank Cz A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "SOLACZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Komercni Banka A.S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "KOMBCZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cp Invest Investicni Spolecnost, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "INNLCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Conseq Investment Management,a.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "COVGCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Colosseum, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "CLLSCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citfin-financni Trhy, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "CIIHCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ceskomoravska Zarucni A Rozvojova Banka, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "CMZRCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ceska Banka A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "CSKBCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Partners A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague Prague",
+          "swift_code": "CPPRCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Burzovni Spolecnost Pro Kapitalovy Trh, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "BSPKCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brokerjet Ceske Sporitelny, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "BRCYCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bohm And Partner, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brno",
+          "swift_code": "BOPACZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Body International Brokers A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "BOIOCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bh Securities A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "SEESCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Axa Investicni Spolecnost A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "AXILCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atlantik Financni Trhy, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "ATLKCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atlantik Asset Management Investicni Spolecnost,a.s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brno",
+          "swift_code": "AAMVCZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atlanta Safe, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "ATAFCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Artesa, Sporitelni Druzstvo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "ARTTCZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arcelormittal Ostrava A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ostrava",
+          "swift_code": "USINCZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Akro Investicnlspolecnost, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "AKINCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Highsky Brokers, A. S.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "HIBRCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Brokers, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "GLBOCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Generali Ppf Asset Management A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "PPAMCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gaudea A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "GAUDCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Garfield A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ostrava",
+          "swift_code": "GARFCZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fio, Druzstevni Zalozna",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "FIOZCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finance Zlin, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zlin",
+          "swift_code": "FIZLCZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ezpada S.r.o.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "EZSRCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Exchange S.r.o.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "EXSOCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "European Investment Centre O.c.p., A.s.-organizacni Slozka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brno",
+          "swift_code": "EICOCZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Euro Financial Corporation S.r.o.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "EFCPCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Equity Holding, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "EQHOCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Efekta Consulting, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brno",
+          "swift_code": "EFCOCZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dom Maklerski Banku Ochrony Srodowiska Spolka Akcyjna, Organizacni Slozka Ceska Republika",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "DMORCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Czech Energy Holding, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "CZEHCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cyrrus, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brno",
+          "swift_code": "CYRRCZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cyrrus Corporate Finance, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brno",
+          "swift_code": "CYCFCZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Csob Investicnlspolecnost, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "CSIVCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Csob Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "CSOBCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Plzenska Banka, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Plzen",
+          "swift_code": "PLBACZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pioneer Investicni Spolecnost, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "PISPCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Patria Finance, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "PAFICZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Patria Direct, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "PADICZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Noble Securities S.a. Organizacni Slozka Ceska Republika",
+      "branches": [
+        {
+          "branch_name": "Noble Securities S.a. Organizacni Slozka Ceska Republika",
+          "city": "Prague",
+          "swift_code": "NSOSCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ministry Of Finance Of The Czech Republic",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "MFCRCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merx A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Moravske Budejovice",
+          "swift_code": "MERXCZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meinl Bank Prague",
+      "branches": [
+        {
+          "branch_name": "Meinl Bank Prague",
+          "city": "Prague",
+          "swift_code": "MEINCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lasalle Investment Management, Organizacni Slozka",
+      "branches": [
+        {
+          "branch_name": "Prague Branch",
+          "city": "Prague",
+          "swift_code": "LIMOCZ21BRA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "LIMOCZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Key Investments A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "KEIECZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jung, Dms And Cie.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brno",
+          "swift_code": "JDMSCZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jer Real Estate Advisors (uk) Ltd",
+      "branches": [
+        {
+          "branch_name": "Branch",
+          "city": "Prague",
+          "swift_code": "JREACZP1BRA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "JREACZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J And T Investment Holding, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brno",
+          "swift_code": "INHOCZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J And T Finance, A.s",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "FNENCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J And T Finance Group Ii, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "FIOUCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J And T Asset Management, Investicni Spolecnost, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "ASMVCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investicnlspolecnost Ceske Sporitelny, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "INEYCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investicni Kapitalova Spolecnost Kb, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "INPKCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Investment Management (c.r.), A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "IGINCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wpb Capital, Sporitelni Druzstvo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "WPBCCZPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wood And Company Investicni Spolecnost, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "WCISCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "West Brokers A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Plzen",
+          "swift_code": "WERRCZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wallich And Matthes Czech Republic",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "WMCRCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Virtuse Energy S.r.o Empiria Centre",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "VESECZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Total Solutions S.r.o.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "TOSOCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Czech Registry For Emission Allowances Trading",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "CRMWCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stredisko Cennych Papiru",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "STCUCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stock Exchange Prague Co. Ltd, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "XPRACZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skoda Auto A.s.",
+      "branches": [
+        {
+          "branch_name": "Skoda Auto A.s.",
+          "city": "Mlada Boleslav",
+          "swift_code": "SKOACZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sko Energo Fin.",
+      "branches": [
+        {
+          "branch_name": "Sko Energo Fin.",
+          "city": "Mlada Boleslav",
+          "swift_code": "SKEFCZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sko Energo",
+      "branches": [
+        {
+          "branch_name": "Sko Energo",
+          "city": "Mlada Boleslav",
+          "swift_code": "SKENCZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saxo Bank Prague",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "SAXPCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sarf A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Velichovky",
+          "swift_code": "SAFFCZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Elec. Hungarian-czech",
+      "branches": [
+        {
+          "branch_name": "Seh-cz",
+          "city": "Prague",
+          "swift_code": "SECTCZP1491"
+        },
+        {
+          "branch_name": "Secz",
+          "city": "Prague",
+          "swift_code": "SECTCZP1493"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "SECTCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rsj Invest,a.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Plzen",
+          "swift_code": "RSIVCZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rm-system, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "RMSYCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rm-s Holding, A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prague",
+          "swift_code": "RMHOCZP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Raiffeisenbank Im Stiftland Eg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cheb",
+          "swift_code": "GENOCZ21XXX"
+        }
+      ]
+    }
+  ]
+}

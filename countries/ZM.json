@@ -1,0 +1,432 @@
+{
+  "country_name": "Zambia",
+  "alpha_2": "ZM",
+  "country_code": "894",
+  "banks": [
+    {
+      "bank_name": "Zambia National Commercial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "ZNCOZMLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Zambia Export And Import Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "ZAEIZML1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Bank For Africa Zambia Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "UNAFZMLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank Zambia Ltd",
+      "branches": [
+        {
+          "branch_name": "Ndola South Branch",
+          "city": "Ndola",
+          "swift_code": "SCBLZML102N"
+        },
+        {
+          "branch_name": "Securities Services Unit",
+          "city": "Lusaka",
+          "swift_code": "SCBLZMLXSSU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "SCBLZMLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stanbic Bank Zambia Ltd.",
+      "branches": [
+        {
+          "branch_name": "Kitwe",
+          "city": "Kitwe",
+          "swift_code": "SBICZML10ZK"
+        },
+        {
+          "branch_name": "Ndola",
+          "city": "Ndola",
+          "swift_code": "SBICZML10ZN"
+        },
+        {
+          "branch_name": "Lusaka Branch",
+          "city": "Lusaka",
+          "swift_code": "SBICZMLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sabmiller Zambia",
+      "branches": [
+        {
+          "branch_name": "Lusaka",
+          "city": "Lusaka",
+          "swift_code": "SABMZMZ1HSL"
+        },
+        {
+          "branch_name": "Lusaka",
+          "city": "Lusaka",
+          "swift_code": "SABMZMZ1NBP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "SABMZMZ1XXX"
+        },
+        {
+          "branch_name": "Lusaka",
+          "city": "Lusaka",
+          "swift_code": "SABMZMZ1ZBP"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pangaea/emi Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "PSNIZML1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "New Capital Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "NCBPZML1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Savings And Credit Bank Of Zambia",
+      "branches": [
+        {
+          "branch_name": "Chipata",
+          "city": "Chipata",
+          "swift_code": "NSCBZML1022"
+        },
+        {
+          "branch_name": "Kasama",
+          "city": "Kasama",
+          "swift_code": "NSCBZML1023"
+        },
+        {
+          "branch_name": "Livingstone",
+          "city": "Livingstone",
+          "swift_code": "NSCBZML1024"
+        },
+        {
+          "branch_name": "Mansa",
+          "city": "Mansa",
+          "swift_code": "NSCBZML1025"
+        },
+        {
+          "branch_name": "Mongu",
+          "city": "Mongu",
+          "swift_code": "NSCBZML1026"
+        },
+        {
+          "branch_name": "Solwezi",
+          "city": "Solwezi",
+          "swift_code": "NSCBZML1027"
+        },
+        {
+          "branch_name": "Ndola",
+          "city": "Ndola",
+          "swift_code": "NSCBZML102N"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "NSCBZML1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meridien Biao Zambia Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "MEZAZML1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Manifold Investment Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "MINVZML1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Luse Central Shares Depository Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "LCSDZML1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lusaka Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "XLUSZML1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investrust Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "VSTRZMLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Commercial Bank Zambia Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "ICZAZMLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intermarket Securities Zambia Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "INSZZML1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intermarket Banking Corporation Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "IDHZZMLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Indo-zambia Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "INZAZMLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fx Africa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "FXAFZML1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First National Bank Zambia Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "FIRNZMLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Alliance Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "FALLZMLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finance Bank Zambia Limited.",
+      "branches": [
+        {
+          "branch_name": "Ndola",
+          "city": "Ndola",
+          "swift_code": "ZFBAZML102N"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "ZFBAZMLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Zambia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "ECOCZMLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Development Bank Of Zambia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "DEBZZML1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Zambia Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "CITIZMLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cavmont Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "CAVRZML1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cavmont Merchant Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "CVMTZMLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Bank Plc Zambia",
+      "branches": [
+        {
+          "branch_name": "Kitwe Processing Centre",
+          "city": "Kitwe",
+          "swift_code": "BARCZMLXKPC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "BARCZMLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Zambia",
+      "branches": [
+        {
+          "branch_name": "Authorised Settlement Agent",
+          "city": "Lusaka",
+          "swift_code": "BAZAZMLUASA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "BAZAZMLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of China (zambia) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "BKCHZMLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "African Commercial Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "ACBKZML1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "African Banking Corporation Zambia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "FMBZZMLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Access Bank Zambia Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "AZAMZMLUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ab Bank Zambia Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lusaka",
+          "swift_code": "ABBAZMLUXXX"
+        }
+      ]
+    }
+  ]
+}

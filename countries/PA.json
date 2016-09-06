@@ -1,0 +1,1002 @@
+{
+  "country_name": "Panama",
+  "alpha_2": "PA",
+  "country_code": "591",
+  "banks": [
+    {
+      "bank_name": "Unibank, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "UNIBPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banaprest S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BNASPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Autoridad Del Canal De Panama",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "ACPMPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bac International Bank, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BCINPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Austrobank (overseas) Panama S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "AUBAPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asphaltos Trade S.a. Panama 9th Floor Office",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "ATPFPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ark Investments Sa",
+      "branches": [
+        {
+          "branch_name": "Ark Investments Sa",
+          "city": "Panama City",
+          "swift_code": "ARVNPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Balboa Bank And Trust Corp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BTACPAPAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BAUSPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Allbank Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "ALLKPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "A.i. Credit Fusion Inc",
+      "branches": [
+        {
+          "branch_name": "A.i. Credit Fusion Inc",
+          "city": "Panama City",
+          "swift_code": "AICNPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Andbanc (panama), S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BACAPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Universal S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "David",
+          "swift_code": "BUNVPAPAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "UBANDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Leumi Le Israel B.M.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "LUMIPAPAXXX"
+        },
+        {
+          "branch_name": "Haifa Branch",
+          "city": "Haifa",
+          "swift_code": "LUMIILITHAI"
+        },
+        {
+          "branch_name": "Banking Services Center",
+          "city": "Tel-Aviv",
+          "swift_code": "LUMIILITBSC"
+        },
+        {
+          "branch_name": "Cls Operations",
+          "city": "Tel-Aviv",
+          "swift_code": "LUMIILITCLS"
+        },
+        {
+          "branch_name": "Tel-aviv Main Branch",
+          "city": "Tel-Aviv",
+          "swift_code": "LUMIILITTLV"
+        },
+        {
+          "branch_name": "Tel-aviv Main Branch",
+          "city": "Tel-Aviv",
+          "swift_code": "LUMIILITXXX"
+        },
+        {
+          "branch_name": "Jerusalem Branch",
+          "city": "Jerusalem",
+          "swift_code": "LUMIILITJLM"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco General S A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BAGEPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Helm Bank (panama) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BCTOPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Ficohsa (panama), S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "FCOHPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Del Pacifico (panama) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "PACIPAPXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gnb Sudameris Bank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "GNBKPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Occidente (panama), S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "OCCIPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Disa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BDISPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Bogota S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BBOGPAPBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De La Exportacion (banex) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BAXBPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Corficolombiana (panama) S.a.",
+      "branches": [
+        {
+          "branch_name": "Banco Corficolombiana (panama) S.a.",
+          "city": "Panama",
+          "swift_code": "CRNMPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Colpatria Panama",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "COLPPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Davivienda (panama), S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "CAFEPAPAXXX"
+        },
+        {
+          "branch_name": "Sucursal Zona Libre",
+          "city": "Colon",
+          "swift_code": "CAFEPAPAZLC"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Citibank (panama), S.a.",
+      "branches": [
+        {
+          "branch_name": "Panama Branch",
+          "city": "Panama",
+          "swift_code": "BACUPAPANOS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BACUPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Bogota (panama), S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BBOGPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja De Ahorros",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "CAHRPAPAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "CAJAPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bhd International Bank (panama), S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BHINPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bct Bank International, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BCTBPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bolsa De Valores De Panama S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "XPTYPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bsi Bank (panama",
+      "branches": [
+        {
+          "branch_name": "Bsi Bank (panama",
+          "city": "Panama",
+          "swift_code": "BSILPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banistmo S.a",
+      "branches": [
+        {
+          "branch_name": "Securities",
+          "city": "Panama",
+          "swift_code": "MIDLPAPA001"
+        },
+        {
+          "branch_name": "Colon Branch",
+          "city": "Colon",
+          "swift_code": "MIDLPAPACLN"
+        },
+        {
+          "branch_name": "Panama Branch",
+          "city": "Panama",
+          "swift_code": "MIDLPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of China, Panama Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BKCHPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Do Brasil, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BRASPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banesco S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BANSPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banisi, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "GUAYPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bancredito Panama S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "NCREPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Pichincha Panama",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "PICHPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Panameno De La Vivienda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BPVVPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bancolombia Panama S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama Zona",
+          "swift_code": "COLOPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Panama S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BPTYPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional De Panama",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "NAPAPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Lafise Panama",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BCCEPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Latinoamericano De Comercio Exterior, S.a. (bladex",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BLAEPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Internacional De Costa Rica S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "COSRPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Azteca De Panama Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "AZTKPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Aliado, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BAALPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Santa Cruz, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "SCSPPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banclear Wire Transfers Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BAWTPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banclear Group Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BNGOPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Privada D'andorra (panama) Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BPANPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Bank Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "GLBLPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fpb Bank Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "FPBIPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bilbao Vizcaya Argentaria (panama), S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BBVAPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Filabanco Trust And Banking Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "FILAPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fitch Centroamerica (panama",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "FRIPPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Es Bank (panama) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "ESBPPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "England Foreign Exchange Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "ENFEPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Crypto Capital Corp Sa",
+      "branches": [
+        {
+          "branch_name": "Crypto Capital Corp Sa",
+          "city": "Panama City",
+          "swift_code": "CYCAPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Andorra Panama",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "CRDAPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credicorp Bank S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "CRLDPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commerce Overseas Bank, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "CCIOPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank N.a. Sucursal Panama",
+      "branches": [
+        {
+          "branch_name": "Security Services Panama",
+          "city": "Panama",
+          "swift_code": "CITIPAPASFE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "CITIPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chase Manhattan Bank, The, Panama",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "CHASPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Latinoamericana De Valores, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "CLVLPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Latinoamericana De Valores",
+      "branches": [
+        {
+          "branch_name": "Central Latinoamericana De Valores",
+          "city": "Panama",
+          "swift_code": "LPTYPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Colabanco",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "COLNPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Towerbank International, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "TOWEPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Towerbank International Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Colon",
+          "swift_code": "TIINPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Georges Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "STGBPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Bank Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "CAPBPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronics Latin America Panama (zona Libre) S.a.",
+      "branches": [
+        {
+          "branch_name": "Selapa",
+          "city": "Panama",
+          "swift_code": "SECTPAP1810"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "SECTPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Central International Bank Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "FCINPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scandia Credit Corporation S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "SWCCPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Produbank Panama S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "PRODPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pkb Banca Privada (panama) Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "PKBSPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Petroleos De Latinoamerica S.a.",
+      "branches": [
+        {
+          "branch_name": "Petroleos De Latinoamerica S.a.",
+          "city": "Panama City",
+          "swift_code": "PLAOPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rsi Capital Holdings",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "RSCHPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Overseas Clearing Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "OVCCPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mmg Bank Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "MMGBPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Multibank Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "MCTBPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Metropolitan Capital Holdings Sa",
+      "branches": [
+        {
+          "branch_name": "Metropolitan Capital Holdings Sa",
+          "city": "Panama City",
+          "swift_code": "MECDPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bolivariano Panama S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BBOLPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Metrobrank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "METKPAP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercantil Bank (panama) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "MPANPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Keen Holding S.a, (banco Prival S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "KEHPPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Metrobank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "METOPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inteligo Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "IBNKPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Union Bank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "IUBKPAPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bancolombia Sucursal Panama",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "COLOPAPSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Popular Bank Ltd. Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Panama",
+          "swift_code": "BPDOPAPAXXX"
+        }
+      ]
+    }
+  ]
+}

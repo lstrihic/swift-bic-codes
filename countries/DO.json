@@ -1,0 +1,1727 @@
+{
+  "country_name": "Dominican Republic",
+  "alpha_2": "DO",
+  "country_code": "214",
+  "banks": [
+    {
+      "bank_name": "Agente De Cambio Imbert Balbuena C. Por. A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ACIUDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Hnos De Los Santos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ACHADOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Hermanos Rodriguez, S. A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Moca",
+          "swift_code": "ACHRDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Girosol Corporation, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ACGCDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio First Point",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ACFPDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Extranjero Unicentro Plaza",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ACEUDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Eurodivisas Domini Cana S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ACEDDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio El Efectivo C.por.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ACECDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Diego Vasquez, C.por A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ACDVDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Dario Guzman,s.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "ACDGDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Cibao Express",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "ACCXDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Concepcion",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "AGMCDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Caribe Express, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ACCEDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Checo And Rodriguez, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "ACCDDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio C P Y R Comercial, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "AGACDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Capla, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "AGCPDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Aleybra, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Romana",
+          "swift_code": "AGCLDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agencia De Cambio Franklin Vasquez",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ACFQDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio America, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "AGCEDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wally Agente De Cambio,cxa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Puerto Plata",
+          "swift_code": "WAACDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vt Agente De Cambio, S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago De Los Caballeros",
+          "swift_code": "AGCMDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercado Electronico Dominicano",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "MEEDDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banesco Banco Multiple, S. A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "BANSDOSDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Vimenca",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "VIMEDOSDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Capital De Ahorro Y Credito, S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "CAHCDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asociacion Cibao De Ahorros Y Prestamos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ACIBDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asociacion Cotui De Ahorros Y Prestamos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cotui",
+          "swift_code": "ACAPDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asociacion Bonao De Ahorros Y Prestamos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bonao",
+          "swift_code": "ABHRDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asociacion Barahona De Ahorros Y Prestamos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barahona",
+          "swift_code": "ABHPDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion De Credito Oficorp, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "CODODOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion De Credito Nordestana De Prestamos, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Francisco De Macoris",
+          "swift_code": "CCNPDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion De Credito Monumental, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago De Los Caballeros",
+          "swift_code": "CRDLDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion De Credito Leasing Confisa, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "CCLCDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion De Credito La Americana S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "CRTCDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion De Credito Inversiones Mocanas, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Moca",
+          "swift_code": "CCNMDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion De Credito Finanzar, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "COCZDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion De Credito Fimotors",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "COTFDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion De Credito Finatal, S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "CRDFDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion De Credito El Efectivo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "CCEEDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Consorcio De Tarjetas Dominicanas, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "COTDDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion De Credito America, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "CRTRDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citinversiones De Titulos Y Valores S.a. Puesto De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "CITIDOT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cevaldom Deposito Centralizado De Valores, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "CVDPDOSDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bonanza Banco De Ahorro Y Credito",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "BADODOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cci Puesto De Bolsa, S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "CCPSDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnvalores, Puesto De Bolsa, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "BNUBDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bitacora Valores Puesto De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Bitacora Valores Puesto De Bolsa",
+          "city": "Santo Domingo",
+          "swift_code": "BVPODOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bhd Valores Puesto De Bolsa, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "BHDVDOSDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Rafael Placido C.xa.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ACRPDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio R.u.,s.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Puerto Plata",
+          "swift_code": "ACRADOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio R-m, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ACBMDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Placido Iv, S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "AGCDDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Paulino Y Asociados,s.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Francisco De Macoris",
+          "swift_code": "ACPSDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Patricio Hierro S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nouel",
+          "swift_code": "ACPHDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Moneycorps., I. R., S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ACMEDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Melo, C. Por A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bani",
+          "swift_code": "AGAEDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Marve, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "AGMMDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Marinelly C.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Romana",
+          "swift_code": "AGCYDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Marco's C. Por A. Modulo No. 1b",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "ACMMDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Los Primos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "AGCRDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Leonel, S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vega",
+          "swift_code": "AGCNDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio La Nacional C.por.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ACNCDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Leonor, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Francisco De Macoris",
+          "swift_code": "ACLEDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio La Moredi, S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San",
+          "swift_code": "AGADDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Jr Internacional, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "AGANDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Julio Pea A Y Asociados S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bani",
+          "swift_code": "ACJPDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Inverpla.s.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Puerto Plata",
+          "swift_code": "ACIPDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Julio Diaz, C. X A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ACJDDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Remesas Y Cambio Vimenca, S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ARCVDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Remesas Y Cambio Boya S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ARCYDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Y Remesas Ozama, S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ACRZDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Y Remesas Ctd, S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ACRTDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Transnacional, S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ACAFDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Transacciones Damos, C. Por A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ACTMDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Taveras,s.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "AGCTDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Sp, C. Por A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Puerto Plata",
+          "swift_code": "AGAIDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Salvia Cxa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Puerto Plata",
+          "swift_code": "ACSXDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio S.c.t.,s.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "AGATDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Rosario, C Por A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "AGAODOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Vimenca",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "BCVIDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Rodriguez Reyes, C Por A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Romana",
+          "swift_code": "ACRRDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Rijo Y Asociados C.por A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ACRSDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Remesas Dominicanas, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ACRDDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Atlantico De Ahorro Y Credito, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "BAACDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agente De Cambio Santa Lucia, S. A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "ACSLDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bhd S.a.",
+      "branches": [
+        {
+          "branch_name": "Headquarters Office",
+          "city": "Santo Domingo",
+          "swift_code": "BCBHDOSDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Investimenti Euromediterranea Srl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "INULDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Agricola De La Republica Dominicana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "BAGRDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bdi, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "BBDIDOSDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asociacion Romana De Ahorros Y Prestamos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Romana",
+          "swift_code": "ARAODOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asociacion Popular De Ahorros Y Prestamos (apap",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "APOPDOX1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asociacion Peravia De Ahorros Y Prestamos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bani",
+          "swift_code": "APARDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asociacion Popular De Ahorros Y Prestamos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "APOPDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asociacion Noroestana De Ahorros Y Prestamos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mao",
+          "swift_code": "ANAPDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asociacion Mocana De Ahorros Y Prestamos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Moca",
+          "swift_code": "AMARDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asociacion Maguana De Ahorros Y Prestamos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Juan De La Maguana",
+          "swift_code": "AMAPDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asociacion La Vega Real De Ahorros Y Prestamos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "La Vega",
+          "swift_code": "ALVRDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asociacion Nortena De Ahorros Y Prestamos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Puerto Plata",
+          "swift_code": "ANORDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asociacion La Previsora De Ahorros Y Prestamos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago De Los Caballeros",
+          "swift_code": "APAPDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asociacion La Nacional De Ahorros Y Prestamos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ANAYDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asociacion Higuamo De Ahorros Y Prestamos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Pedro De Macoris",
+          "swift_code": "AHAPDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asociacion Duarte De Ahorros Y Prestamos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Francisco De Macoris",
+          "swift_code": "ADUADOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asociacion Dominicana De Ahorros Y Prestamos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ADAPDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Ahorro Y Credito Rio, S. A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "AHRIDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Ahorro Y Credito Pyme, Bhd, S. A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "BPYMDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Ahorro Y Credito Providencial, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "AHCPDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Ahorro Y Credito Ochoa, S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "AHCHDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Ahorro Y Credito Micro, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "AHRMDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Ahorro Y Credito Inmobiliario, S. A. (banaci",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ACIIDOSDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Ahorro Y Credito Idecosa, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "GBHDDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Ahorro Y Credito Gruficorp S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "BACGDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Ahorro Y Credito Federal, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "AHCEDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Ahorro Y Credito Fihogar",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "AHCGDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Ahorro Y Credito Empire",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "AHREDOS1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "AHREDOSDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Ahorro Y Credito Del Caribe",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "AHRCDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Ahorro Y Credito Confisa, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "AHCODOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Ahorro Y Credito Atlas, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "AHCADOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Ahorro Y Credito Altas Cumbres, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "ACAUDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Ahorro Y Credito Adopem, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "AHCDDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Continental De Desarrollo,s.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "BODSDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Ahorro Y Credito Bellbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "BELNDOSDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Central De La Republica Dominicana",
+      "branches": [
+        {
+          "branch_name": "Santo Domingo",
+          "city": "Santo Domingo",
+          "swift_code": "BCRDDOSXOMA"
+        },
+        {
+          "branch_name": "Santo Domingo",
+          "city": "Santo Domingo",
+          "swift_code": "BCRDDOSXSBC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "BCRDDOSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Santa Cruz",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "SCRZDOSDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Regional Dominicano,s.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago De Los Caballeros",
+          "swift_code": "BGDODO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Ahorro Y Credito Cofaci, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "AHCCDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Providencial, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "PVDLDOSDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Popular Dominicano, C. Por A.",
+      "branches": [
+        {
+          "branch_name": "Depto Trasferencias Internacionales",
+          "city": "Santo Domingo",
+          "swift_code": "BPDODOSXREM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "BPDODOSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Peravia De Ahorros Y Credito",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "PEACDOSDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional De Fomento De La Vivienda Y La Produccion (bnv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "BNVPDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Multiple Promerica De La Republica Dominicana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "PRHRDOSDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Multiple Leon, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "NCREDOSDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Multiple Lafise S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "BCCEDOSDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Multiple De Las Americas, S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "AHCSDOSDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Multiple Caribe",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "STGODOSDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Multiple Ademi. S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "AHCMDOSDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Dominicano Del Progreso S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "BDPRDOSDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Reservas De La Republica Dominicana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "BRRDDOSDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Lopez De Haro",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "BLDHDOSDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Ahorro Y Credito Union",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "UNONDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Desarrollo Agropecuario, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "DEARDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mega Agente De Cambio, S. A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "MEAODOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lafise Valores Santo Domingo, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "LVSDDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jmmb Bdi America, Puesto De Bolsa S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "JBAPDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inversiones Popular S. A., Puesto De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "IPPBDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lafise Dominicana Agente De Cambio, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "LDACDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inversiones Guerrero And Valdez, Agente De Cambio",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "IGVADOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inversiones And Reservas S.a. Puesto De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Inversiones And Reservas S.a. Puesto De Bolsa",
+          "city": "Santo Domingo",
+          "swift_code": "IRPLDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gcs Systems",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "GCSYDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gamelin Agente De Cambio S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "GAACDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fondo Jubilaciones Y Pensiones Del Banco Central, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "FJPCDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finanzas Y Servicios Consolidados",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "FSCODOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Excel Puesto De Bolsa, S. A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "EXPLDOD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion De Credito Toinsa, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "CROTDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion De Credito Reido, C. Por A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "COEDDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion De Credito Prestamos A Las Ordenes, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Francisco De Macoris",
+          "swift_code": "CCPODOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion De Credito Rona, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "CPCRDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion De Credito Preindesa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cotui",
+          "swift_code": "CODPDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion De Credito Oriental",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "CROLDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion De Credito Puertoplatena, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Puerto Plata",
+          "swift_code": "CCPUDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tivalsa",
+      "branches": [
+        {
+          "branch_name": "Tivalsa",
+          "city": "Santo Domingo",
+          "swift_code": "TIVADOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Valores Leon",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "VLEODOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Capital Puesto De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "UCPODOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Quezada Agente De Cambio, S. A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Romana",
+          "swift_code": "QUABDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tesoreria Nacional",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "TENADOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pais Dargam C. Por A., Agente De Cambio",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "PDACDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tesoreria De La Seguridad Social",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "TESLDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Optima Corporacion De Credito, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "OPCCDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Norca S.a. Agente De Cambio",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago De Los Caballeros",
+          "swift_code": "NOABDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Parallax Valores Puesto De Bolsa S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "PVPBDOS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Motor Credito, S.a., Banco De Ahorro Y Credito",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santo Domingo",
+          "swift_code": "MCARDOS1XXX"
+        }
+      ]
+    }
+  ]
+}

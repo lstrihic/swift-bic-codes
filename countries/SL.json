@@ -1,0 +1,172 @@
+{
+  "country_name": "Sierra Leone",
+  "alpha_2": "SL",
+  "country_code": "694",
+  "banks": [
+    {
+      "bank_name": "Zenith Bank (sierra Leone) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Freetown",
+          "swift_code": "ZESLSLFRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Bank For Africa (s/l) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Freetown",
+          "swift_code": "UNAFSLFRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Trust Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Freetown",
+          "swift_code": "UTBSSLFRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank Sierra Leone Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Freetown",
+          "swift_code": "SCBLSLFRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skye Bank (sl) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Freetown",
+          "swift_code": "SKYESLFRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sierra Leone Commercial Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Freetown",
+          "swift_code": "SLCBSLFRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rokel Commercial Bank (sierra Leone) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Freetown Ft",
+          "swift_code": "RCBKSLFRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Cooperative Development Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Freetown",
+          "swift_code": "NCDBSLF1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Commercial Bank(sl) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Freetown",
+          "swift_code": "ICBZSLFRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hfc Mortgage And Savings (sl) Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Freetown",
+          "swift_code": "HFCMSLFRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Guaranty Trust Bank (sl) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Freetown",
+          "swift_code": "GTBISLFRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First International Bank (sl) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Freetown",
+          "swift_code": "FSTISLFRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Sierra Leone Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Freetown",
+          "swift_code": "ECOCSLFRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Phb Sierra Leone",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Freetown",
+          "swift_code": "PHBXSLFRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Sierra Leone",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Freetown",
+          "swift_code": "BSLESLFAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Freetown",
+          "swift_code": "BSLESLFRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Access Bank Sierra Leone Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Freetown",
+          "swift_code": "ABSFSLFRXXX"
+        }
+      ]
+    }
+  ]
+}

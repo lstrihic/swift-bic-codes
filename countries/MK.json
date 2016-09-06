@@ -1,0 +1,412 @@
+{
+  "country_name": "Macedonia (the former Yugoslav Republic of)",
+  "alpha_2": "MK",
+  "country_code": "807",
+  "banks": [
+    {
+      "bank_name": "Zemjodelska Banka A.d.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "ZEMBMK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Zavod Za Platen Promet",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "KMBPMK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Universal Investment Bank Ad Skopje (unibank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "UIBMMK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ttk Banka Ad Skopje",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "TTXBMK2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stopanska Banka Ad Bitola",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bitola",
+          "swift_code": "STBBMK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stopanska Banka A.d.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "STOBMK2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparkasse Bank Makedonija Ad Skopje",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "INSBMK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sakses Brokers Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "SKBRMK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Procredit Bank, Macedonia (formerly Pro Business Bank A.d. Skopje",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "PRBUMK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pelagoniska Banka Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prilep",
+          "swift_code": "PELAMK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ohridska Banka A.d. Ohrid",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ohrid",
+          "swift_code": "OHRDMK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nlb Tutunska Banka Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "TUTNMK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Payment Card Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "NPKMMK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of The Republic Of Macedonia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "NBRMMK2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Money Market And Short-term Securities Of The Rep. Of Macedonia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "PPHVMK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mak Broker Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "MBBRMK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Macedonian Stock Exchange Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "XMAEMK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Macedonian Bank For Development Promotion",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "MBDPMK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kapital Banka Ad Skopje",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "KAPBMK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Komercijalna Banka Ad Skopje",
+      "branches": [
+        {
+          "branch_name": "7000 Bitola",
+          "city": "Bitola",
+          "swift_code": "KOBSMK2XBTB"
+        },
+        {
+          "branch_name": "Gostivar Branch",
+          "city": "Gostivar",
+          "swift_code": "KOBSMK2XGVB"
+        },
+        {
+          "branch_name": "Kocani Branch",
+          "city": "Kocani",
+          "swift_code": "KOBSMK2XKOB"
+        },
+        {
+          "branch_name": "1300 Kumanovo",
+          "city": "Kumanovo",
+          "swift_code": "KOBSMK2XKUB"
+        },
+        {
+          "branch_name": "1430 Kavadarci",
+          "city": "Kavadarci",
+          "swift_code": "KOBSMK2XKVB"
+        },
+        {
+          "branch_name": "Ohrid Branch",
+          "city": "Ohrid",
+          "swift_code": "KOBSMK2XOHB"
+        },
+        {
+          "branch_name": "Prilep Branch",
+          "city": "Prilep",
+          "swift_code": "KOBSMK2XPRB"
+        },
+        {
+          "branch_name": "Strumica Branch",
+          "city": "Strumica",
+          "swift_code": "KOBSMK2XSRB"
+        },
+        {
+          "branch_name": "Stip Branch",
+          "city": "Stip",
+          "swift_code": "KOBSMK2XSTB"
+        },
+        {
+          "branch_name": "1200 Tetovo",
+          "city": "Tetovo",
+          "swift_code": "KOBSMK2XTEB"
+        },
+        {
+          "branch_name": "Veles Branch",
+          "city": "Veles",
+          "swift_code": "KOBSMK2XVEB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "KOBSMK2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Halkbank Ad Skopje",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "EXPCMK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Health Insurance Fund Of Macedonia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "HIFDMK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fersped-broker Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "FLAMMK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clearing House Interbank Clearing Systems",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "KIBSMK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Cooperative Bank Ad Skopje",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "CECBMK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Securities Depository Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "CDHVMK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brokerage House Kb Broker Inc.skopje",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "KBBRMK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Bank Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "INPBMK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Broker House Postel-broker A.d",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "POBRMK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurostandard Bank Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "ESWBMK22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brokerage House Makos-invest Broker Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "MIBRMK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Broker-sb A.d. Skopje Brokerage House Of Stopanska Banka Ad Skopje",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "SBSBMK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bro-deal, Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "BDBKMK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arcelormittal Skopje (crm",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "USINMK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alpha Bank Ad Skopje",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Skopje",
+          "swift_code": "KRSKMK2XXXX"
+        }
+      ]
+    }
+  ]
+}

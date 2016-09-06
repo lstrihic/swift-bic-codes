@@ -1,0 +1,37 @@
+{
+  "country_name": "Eritrea",
+  "alpha_2": "ER",
+  "country_code": "232",
+  "banks": [
+    {
+      "bank_name": "Housing And Commerce Bank Of Eritrea",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asmara",
+          "swift_code": "HCBEERAIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Bank Of Eritrea",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asmara",
+          "swift_code": "CBERERAIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Eritrea",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asmara",
+          "swift_code": "BOERERAIXXX"
+        }
+      ]
+    }
+  ]
+}

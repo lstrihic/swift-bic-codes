@@ -1,0 +1,332 @@
+{
+  "country_name": "Peru",
+  "alpha_2": "PE",
+  "country_code": "604",
+  "banks": [
+    {
+      "bank_name": "Samsung Electronics Peru S.a.c",
+      "branches": [
+        {
+          "branch_name": "Lima 27",
+          "city": "Lima",
+          "swift_code": "SECTPEP1860"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "SECTPEP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kallpa Securities S.a.b",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "KAESPEP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jp Morgan Bank Peru",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "CHASPEP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intervalores",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "INTVPEP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Icbc Peru Bank",
+      "branches": [
+        {
+          "branch_name": "Icbc Peru Bank",
+          "city": "Lima",
+          "swift_code": "ICBKPEP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera De Credito Del Peru",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "FCPEPEP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credibolsa Sociedad Agente De Bolsa S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "CBOLPEP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito Pacifico",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "PACCPEP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Celfin Capital S.a. Sociedad Agente De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "CCSTPEP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cavali S.a. Iclv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "CVLIPEP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De Ahorro Y Credito Chavin Saa",
+      "branches": [
+        {
+          "branch_name": "Principal",
+          "city": "Huaraz",
+          "swift_code": "CRHCPEP1001"
+        },
+        {
+          "branch_name": "Oficina Trujillo",
+          "city": "Trujillo",
+          "swift_code": "CRHCPEP1002"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Trujillo",
+          "swift_code": "CRHCPEP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nor Peru",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Trujillo",
+          "swift_code": "BNPEPEP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Iberoamericano",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "BAIOPEP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scotiabank Peru S.A.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "BSUDPEPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion Financiera De Desarrollo S.A. \u2013 Cofide",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "COFDPEPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mibanco, Banco De La Micro Empresa S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "MIBAPEPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cetco S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "BELPPEPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Santander Peru S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "BSAPPEPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank (Peru) S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "DEUTPEPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Del Peru S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "CITIPEPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Interamericano De Finanzas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "BIFSPEPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Gnb Peru Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "HBPEPEPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De La Nacion",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "BANCPEPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Financiero Del Peru",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "FINAPEPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Credito Del Peru",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "BCPLPEPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Central De Reserva Del Peru",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "CRPEPEPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Continental",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "BCONPEPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Internacional Del Peru (Interbank)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "BINPPEPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Azteca Del Peru, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "AZTKPEPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amerika Financiera S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "AMRKPEPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Comercio",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lima",
+          "swift_code": "BDCMPEPLXXX"
+        }
+      ]
+    }
+  ]
+}

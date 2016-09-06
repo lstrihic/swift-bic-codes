@@ -1,0 +1,267 @@
+{
+  "country_name": "Senegal",
+  "alpha_2": "SN",
+  "country_code": "686",
+  "banks": [
+    {
+      "bank_name": "United Bank For Africa Senegal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "UNAFSNDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Senegalaise De Banque Pour Le Commerce Et L'industrie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "USBASND1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sonabanque",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "SONASND1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale De Banques Au Senegal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "SGSNSNDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Massraf Faysal Al Islami Senegal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "MFISSND1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "La Poste",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "LPSTSND1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Commercial Bank Senegal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "ICSGSNDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Senegal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "ECOCSNDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Diamondbank Senegal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "DBLNSNDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Depositaire Central-banque De Reglement (dcbr Senegal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "DCECSND1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit International Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "CLIBSNDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Du Senegal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "BCMASNDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Compagnie Bancaire De L'afrique Occidentale",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "CBAOSNDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caisse Nationale De Credit Agricole Du Senegal (c.n.c.a.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "CADKSNDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caisse Nationale D'epargne",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "NDECSND1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Sahelo-saharienne Pour L'investissement Et Le Commerce (senegal) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "BSAHSNDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Regionale De Solidarite-senegal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "BRSWSNDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Regionale De Marches",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "BRMXSNDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Nationale Pour Le Developpement Economique Du Senegal (bnde",
+      "branches": [
+        {
+          "branch_name": "Banque Nationale Pour Le Developpement Economique Du Senegal (bnde",
+          "city": "Dakar",
+          "swift_code": "BNDXSNDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Islamique Du Senegal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "ISSNSNDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Internationale Pour Le Commerce Et L'industrie Du Senegal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "BICISNDXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Des Institutions Mutualistes D'afrique De L'ouest",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "BIMUSNDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De L'habitat Du Senegal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "LHSESNDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Centrale Des Etats De L'afrique De L'ouest (b.c.e.a.o.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "BCAOSNDPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Atlantique Senegal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "ATSNSNDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Africa-senegal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "AFRISNDAXXX"
+        }
+      ]
+    }
+  ]
+}

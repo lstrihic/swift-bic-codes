@@ -1,0 +1,392 @@
+{
+  "country_name": "Bolivia (Plurinational State of)",
+  "alpha_2": "BO",
+  "country_code": "068",
+  "banks": [
+    {
+      "bank_name": "Bolsa Boliviana De Valores S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "La Paz",
+          "swift_code": "XBOLBOL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bhn Multibanco S.a.",
+      "branches": [
+        {
+          "branch_name": "Santa Cruz De La Sierra",
+          "city": "Santa Cruz De La Sierra",
+          "swift_code": "BHNMBOL1022"
+        },
+        {
+          "branch_name": "Cochabamba",
+          "city": "Cochabamba",
+          "swift_code": "BHNMBOL1023"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Paz",
+          "swift_code": "BHNMBOL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Union S.a.",
+      "branches": [
+        {
+          "branch_name": "Sucursal Cochabamba",
+          "city": "Cochabamba",
+          "swift_code": "BAUNBO22CBB"
+        },
+        {
+          "branch_name": "Sucursal La Paz",
+          "city": "La Paz",
+          "swift_code": "BAUNBO22LPZ"
+        },
+        {
+          "branch_name": "Sucursal Santa Cruz",
+          "city": "Santa Cruz De La Sierra",
+          "swift_code": "BAUNBO22SCZ"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Santa Cruz De La Sierra",
+          "swift_code": "BAUNBO22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Solidario S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "La Paz",
+          "swift_code": "BSOLBOLPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "BSGEECEQXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Santa Cruz S.a.",
+      "branches": [
+        {
+          "branch_name": "Oruro Branch",
+          "city": "Oruro",
+          "swift_code": "BSCHBO21024"
+        },
+        {
+          "branch_name": "Sucre Branch",
+          "city": "Sucre",
+          "swift_code": "BSCHBO21025"
+        },
+        {
+          "branch_name": "Cochabamba Branch",
+          "city": "Cochabamba",
+          "swift_code": "BSCHBO21CBB"
+        },
+        {
+          "branch_name": "La Paz Branch",
+          "city": "La Paz",
+          "swift_code": "BSCHBO21LPZ"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Santa Cruz De La Sierra",
+          "swift_code": "BSCHBO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional De Bolivia",
+      "branches": [
+        {
+          "branch_name": "Departamento Internacional",
+          "city": "Cochabamba",
+          "swift_code": "BNBOBOLXCBB"
+        },
+        {
+          "branch_name": "Dpto Internacional",
+          "city": "La Paz",
+          "swift_code": "BNBOBOLXLPZ"
+        },
+        {
+          "branch_name": "Departamento Internacional",
+          "city": "Oruro",
+          "swift_code": "BNBOBOLXORU"
+        },
+        {
+          "branch_name": "Departamento Internacional",
+          "city": "Potosi",
+          "swift_code": "BNBOBOLXPOI"
+        },
+        {
+          "branch_name": "Dpto Internacional",
+          "city": "Santa Cruz De La Sierra",
+          "swift_code": "BNBOBOLXSCZ"
+        },
+        {
+          "branch_name": "Departamento Internacional",
+          "city": "Sucre",
+          "swift_code": "BNBOBOLXSRE"
+        },
+        {
+          "branch_name": "Tresoreria",
+          "city": "La Paz",
+          "swift_code": "BNBOBOLXTES"
+        },
+        {
+          "branch_name": "Departamento Internacional",
+          "city": "Tarija",
+          "swift_code": "BNBOBOLXTJA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "La Paz",
+          "swift_code": "BNBOBOLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Minero De Bolivia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "La Paz",
+          "swift_code": "BAMIBOL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Mercantil Santa Cruz S.a.",
+      "branches": [
+        {
+          "branch_name": "Cochabamba",
+          "city": "Cochabamba",
+          "swift_code": "MERBBOLXCBB"
+        },
+        {
+          "branch_name": "Santa Cruz De La Sierra",
+          "city": "Santa Cruz De La Sierra",
+          "swift_code": "MERBBOLXSCZ"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "La Paz",
+          "swift_code": "MERBBOLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Los Andes Procredit",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santa Cruz De La Sierra",
+          "swift_code": "PRCBBO22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Latinoamericano De Desarrollo S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "La Paz",
+          "swift_code": "BALDBOL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Hipotecario Nacional",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "La Paz",
+          "swift_code": "BHNABOL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Ganadero S.a.",
+      "branches": [
+        {
+          "branch_name": "Santa Cruz De La Sierra",
+          "city": "Santa Cruz De La Sierra",
+          "swift_code": "GNDRBO22CMI"
+        },
+        {
+          "branch_name": "Santa Cruz De La Sierra",
+          "city": "Santa Cruz De La Sierra",
+          "swift_code": "GNDRBO22FIT"
+        },
+        {
+          "branch_name": "Santa Cruz De La Sierra",
+          "city": "Santa Cruz De La Sierra",
+          "swift_code": "GNDRBO22GEB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Santa Cruz De La Sierra",
+          "swift_code": "GNDRBO22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Fortaleza Sa",
+      "branches": [
+        {
+          "branch_name": "Banco Fortaleza Sa",
+          "city": "La Paz",
+          "swift_code": "BFORBOL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Economico S.a.",
+      "branches": [
+        {
+          "branch_name": "5603 Santa Cruz De La Sierra",
+          "city": "Santa Cruz De La Sierra",
+          "swift_code": "BOEOBO22BEC"
+        },
+        {
+          "branch_name": "Cochabamba Branch",
+          "city": "Cochabamba",
+          "swift_code": "BOEOBO22CBB"
+        },
+        {
+          "branch_name": "La Paz Branch",
+          "city": "La Paz",
+          "swift_code": "BOEOBO22LPZ"
+        },
+        {
+          "branch_name": "Santa Cruz Branch",
+          "city": "Santa Cruz De La Sierra",
+          "swift_code": "BOEOBO22SCZ"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Santa Cruz De La Sierra",
+          "swift_code": "BOEOBO22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Do Brasil S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "La Paz",
+          "swift_code": "BRASBOLXXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "BRASKYKYXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "BRASPYPXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De La Paz, S.a.",
+      "branches": [
+        {
+          "branch_name": "Santa Cruz De La Sierra",
+          "city": "Santa Cruz De La Sierra",
+          "swift_code": "BPAZBOL1022"
+        },
+        {
+          "branch_name": "Cochabamba",
+          "city": "Cochabamba",
+          "swift_code": "BPAZBOL1023"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "La Paz",
+          "swift_code": "BPAZBOL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Inversion Boliviano S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "La Paz",
+          "swift_code": "BIBOBOL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Credito Oruro",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oruro",
+          "swift_code": "BCROBO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Credito De Bolivia S.a.",
+      "branches": [
+        {
+          "branch_name": "Cochabamba",
+          "city": "Cochabamba",
+          "swift_code": "BCPLBOLXCBB"
+        },
+        {
+          "branch_name": "Santa Cruz De La Sierra",
+          "city": "Santa Cruz De La Sierra",
+          "swift_code": "BCPLBOLXSCZ"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "La Paz",
+          "swift_code": "BCPLBOLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Central De Bolivia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "La Paz",
+          "swift_code": "BCEBBOLPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bisa S.a.",
+      "branches": [
+        {
+          "branch_name": "Cochabamba",
+          "city": "Cochabamba",
+          "swift_code": "BANIBOLXCBB"
+        },
+        {
+          "branch_name": "Santa Cruz De La Sierra",
+          "city": "Santa Cruz De La Sierra",
+          "swift_code": "BANIBOLXSCZ"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "La Paz",
+          "swift_code": "BANIBOLXXXX"
+        }
+      ]
+    }
+  ]
+}

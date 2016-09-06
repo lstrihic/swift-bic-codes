@@ -1,0 +1,267 @@
+{
+  "country_name": "Guinea",
+  "alpha_2": "GN",
+  "country_code": "324",
+  "banks": [
+    {
+      "bank_name": "United Bank For Africa Guinea",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Conakry",
+          "swift_code": "UBAGGNCNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale De Banques En Guinee",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Conakry",
+          "swift_code": "SGGNGNGNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skye Bank Guinea Limited S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Conakry",
+          "swift_code": "SKYEGNGNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orabank Guinee",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Conakry",
+          "swift_code": "ORBKGNGNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nsia Banque Guinee",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Conakry",
+          "swift_code": "BIAOGNGNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Commercial Bank Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Conakry",
+          "swift_code": "ICMOGNCNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First International Bank Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Conakry",
+          "swift_code": "FIBLGNGNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Guinee",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Conakry",
+          "swift_code": "ECOCGNCNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bsic Guinee Conakry",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Conakry",
+          "swift_code": "BSGNGNGNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Pour Le Commerce Et L'industrie De Guinee",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Conakry",
+          "swift_code": "COLIGNGNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Maroco-guineenne Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Conakry",
+          "swift_code": "POMBGNGNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Nationale De Guinee",
+      "branches": [
+        {
+          "branch_name": "Banque Nationale De Guinee",
+          "city": "Conakry",
+          "swift_code": "BQNGGNG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Islamique De Guinee",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Conakry",
+          "swift_code": "ISGUGNGNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Internationale Pour Le Commerce Et L'industrie De La Guinee",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Conakry",
+          "swift_code": "BICIGNCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De Developpement De Guinee",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Conakry",
+          "swift_code": "DEUUGNG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Centrale De La Republique De Guinee",
+      "branches": [
+        {
+          "branch_name": "Banque Centrale De La Republique De Guinee",
+          "city": "Conakry",
+          "swift_code": "REPCGNGAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Conakry",
+          "swift_code": "REPCGNGNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Afriland First Bank Guinee S A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Conakry",
+          "swift_code": "CCEIGNGNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "African Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Conakry",
+          "swift_code": "ADBGGNG1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Yaounde",
+          "swift_code": "AFDBCMC1XXX"
+        },
+        {
+          "branch_name": "African Legal Support Facility",
+          "city": "Abidjan",
+          "swift_code": "AFDBCIABALS"
+        },
+        {
+          "branch_name": "Abidjan",
+          "city": "Abidjan",
+          "swift_code": "AFDBCIABAMI"
+        },
+        {
+          "branch_name": "Abidjan",
+          "city": "Abidjan",
+          "swift_code": "AFDBCIABFSF"
+        },
+        {
+          "branch_name": "Abidjan",
+          "city": "Abidjan",
+          "swift_code": "AFDBCIABMDT"
+        },
+        {
+          "branch_name": "Making Finance",
+          "city": "Abidjan",
+          "swift_code": "AFDBCIABMFW"
+        },
+        {
+          "branch_name": "Abidjan",
+          "city": "Abidjan",
+          "swift_code": "AFDBCIABMIC"
+        },
+        {
+          "branch_name": "Abidjan",
+          "city": "Abidjan",
+          "swift_code": "AFDBCIABNTF"
+        },
+        {
+          "branch_name": "Pida Account",
+          "city": "Abidjan",
+          "swift_code": "AFDBCIABPID"
+        },
+        {
+          "branch_name": "Abidjan",
+          "city": "Abidjan",
+          "swift_code": "AFDBCIABPRS"
+        },
+        {
+          "branch_name": "Abidjan",
+          "city": "Abidjan",
+          "swift_code": "AFDBCIABSRP"
+        },
+        {
+          "branch_name": "Treasury Department",
+          "city": "Abidjan",
+          "swift_code": "AFDBCIABTRY"
+        },
+        {
+          "branch_name": "Abidjan",
+          "city": "Abidjan",
+          "swift_code": "AFDBCIABWAT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "AFDBCIABXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "AFDBKEN1XXX"
+        }
+      ]
+    }
+  ]
+}

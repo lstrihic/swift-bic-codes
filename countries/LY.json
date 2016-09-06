@@ -1,0 +1,1262 @@
+{
+  "country_name": "Libya",
+  "alpha_2": "LY",
+  "country_code": "434",
+  "banks": [
+    {
+      "bank_name": "Wahda Bank",
+      "branches": [
+        {
+          "branch_name": "Main Branch",
+          "city": "Tripoli",
+          "swift_code": "WAHBLYLX011"
+        },
+        {
+          "branch_name": "1st September Branch",
+          "city": "Tripoli",
+          "swift_code": "WAHBLYLX012"
+        },
+        {
+          "branch_name": "Baladiya Branch",
+          "city": "Tripoli",
+          "swift_code": "WAHBLYLX014"
+        },
+        {
+          "branch_name": "Magarba",
+          "city": "Magarba",
+          "swift_code": "WAHBLYLX015"
+        },
+        {
+          "branch_name": "Eltholathaa",
+          "city": "Tripoli",
+          "swift_code": "WAHBLYLX016"
+        },
+        {
+          "branch_name": "Andulus",
+          "city": "Andulus",
+          "swift_code": "WAHBLYLX018"
+        },
+        {
+          "branch_name": "Jadah Branch",
+          "city": "Tripoli",
+          "swift_code": "WAHBLYLX019"
+        },
+        {
+          "branch_name": "Rashid",
+          "city": "Rashid",
+          "swift_code": "WAHBLYLX020"
+        },
+        {
+          "branch_name": "Main Branch",
+          "city": "Benghazi",
+          "swift_code": "WAHBLYLX030"
+        },
+        {
+          "branch_name": "Mukhtar Branch",
+          "city": "Benghazi",
+          "swift_code": "WAHBLYLX031"
+        },
+        {
+          "branch_name": "Maidan Branch",
+          "city": "Benghazi",
+          "swift_code": "WAHBLYLX032"
+        },
+        {
+          "branch_name": "Souk",
+          "city": "Souk",
+          "swift_code": "WAHBLYLX034"
+        },
+        {
+          "branch_name": "Sabri",
+          "city": "Sabri",
+          "swift_code": "WAHBLYLX035"
+        },
+        {
+          "branch_name": "Rwisat",
+          "city": "Rwisat",
+          "swift_code": "WAHBLYLX036"
+        },
+        {
+          "branch_name": "Derna Branch",
+          "city": "Derna",
+          "swift_code": "WAHBLYLX040"
+        },
+        {
+          "branch_name": "Ajdabia",
+          "city": "Ajdabia",
+          "swift_code": "WAHBLYLX041"
+        },
+        {
+          "branch_name": "Sirte",
+          "city": "Sirte",
+          "swift_code": "WAHBLYLX043"
+        },
+        {
+          "branch_name": "Yefren Branch",
+          "city": "Yefren",
+          "swift_code": "WAHBLYLX044"
+        },
+        {
+          "branch_name": "Ben Jwad",
+          "city": "Ben",
+          "swift_code": "WAHBLYLX046"
+        },
+        {
+          "branch_name": "Jalo",
+          "city": "Jalo",
+          "swift_code": "WAHBLYLX048"
+        },
+        {
+          "branch_name": "Zliten",
+          "city": "Zliten",
+          "swift_code": "WAHBLYLX050"
+        },
+        {
+          "branch_name": "Aljeria",
+          "city": "Tripoli",
+          "swift_code": "WAHBLYLX056"
+        },
+        {
+          "branch_name": "Gulf",
+          "city": "Benghazi",
+          "swift_code": "WAHBLYLX066"
+        },
+        {
+          "branch_name": "Tebsti",
+          "city": "Tebsti",
+          "swift_code": "WAHBLYLX081"
+        },
+        {
+          "branch_name": "Tobruk",
+          "city": "Tobruk",
+          "swift_code": "WAHBLYLX083"
+        },
+        {
+          "branch_name": "Misurata Branch",
+          "city": "Misurata",
+          "swift_code": "WAHBLYLX087"
+        },
+        {
+          "branch_name": "National Oil Corporation",
+          "city": "Tripoli",
+          "swift_code": "WAHBLYLX090"
+        },
+        {
+          "branch_name": "Gardin",
+          "city": "Benghazi",
+          "swift_code": "WAHBLYLX096"
+        },
+        {
+          "branch_name": "Ajelat",
+          "city": "Ajelat",
+          "swift_code": "WAHBLYLX097"
+        },
+        {
+          "branch_name": "Mslata",
+          "city": "Mslata",
+          "swift_code": "WAHBLYLX100"
+        },
+        {
+          "branch_name": "Elsaqa",
+          "city": "Tripoli",
+          "swift_code": "WAHBLYLX106"
+        },
+        {
+          "branch_name": "Almdena",
+          "city": "Benghazi",
+          "swift_code": "WAHBLYLX108"
+        },
+        {
+          "branch_name": "Borjtripoli",
+          "city": "Tripoli",
+          "swift_code": "WAHBLYLX110"
+        },
+        {
+          "branch_name": "Mawadelbena",
+          "city": "Benghazi",
+          "swift_code": "WAHBLYLX111"
+        },
+        {
+          "branch_name": "Treasury",
+          "city": "Benghazi",
+          "swift_code": "WAHBLYLX200"
+        },
+        {
+          "branch_name": "Islamic",
+          "city": "Benghazi",
+          "swift_code": "WAHBLYLX601"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Benghazi",
+          "swift_code": "WAHBLYLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Bank For Commerce And Investment",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tripoli",
+          "swift_code": "UNCNLYLTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sahara Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office Benghazi",
+          "city": "Benghazi",
+          "swift_code": "SABKLYLXBEN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tripoli",
+          "swift_code": "SABKLYLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "North Africa Bank",
+      "branches": [
+        {
+          "branch_name": "Islamic Banking Corporation",
+          "city": "Tripoli",
+          "swift_code": "NABLLYLXIBC"
+        },
+        {
+          "branch_name": "Branch",
+          "city": "Tripoli",
+          "swift_code": "NABLLYLXTIP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tripoli",
+          "swift_code": "NABLLYLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Tripoli",
+          "city": "Tripoli",
+          "swift_code": "LNCBLYLT050"
+        },
+        {
+          "branch_name": "Main Branch",
+          "city": "Tripoli",
+          "swift_code": "LNCBLYLT051"
+        },
+        {
+          "branch_name": "Benghazi-main Branch",
+          "city": "Benghazi",
+          "swift_code": "LNCBLYLT052"
+        },
+        {
+          "branch_name": "Sabha",
+          "city": "Sabha",
+          "swift_code": "LNCBLYLT053"
+        },
+        {
+          "branch_name": "Beida-main Branch",
+          "city": "Beida",
+          "swift_code": "LNCBLYLT054"
+        },
+        {
+          "branch_name": "Derna",
+          "city": "Derna",
+          "swift_code": "LNCBLYLT055"
+        },
+        {
+          "branch_name": "Misurata Branch",
+          "city": "Misurata",
+          "swift_code": "LNCBLYLT056"
+        },
+        {
+          "branch_name": "Gharian",
+          "city": "Gharian",
+          "swift_code": "LNCBLYLT057"
+        },
+        {
+          "branch_name": "Tobruk",
+          "city": "Tobruk",
+          "swift_code": "LNCBLYLT058"
+        },
+        {
+          "branch_name": "Khumis Branch",
+          "city": "Al Khums",
+          "swift_code": "LNCBLYLT059"
+        },
+        {
+          "branch_name": "Zawia",
+          "city": "Zawia",
+          "swift_code": "LNCBLYLT060"
+        },
+        {
+          "branch_name": "City",
+          "city": "Tripoli",
+          "swift_code": "LNCBLYLT061"
+        },
+        {
+          "branch_name": "Istiklal Branch",
+          "city": "Tripoli",
+          "swift_code": "LNCBLYLT062"
+        },
+        {
+          "branch_name": "Municipality Square",
+          "city": "Tripoli",
+          "swift_code": "LNCBLYLT064"
+        },
+        {
+          "branch_name": "Seuqeltholatha Branch",
+          "city": "Tripoli",
+          "swift_code": "LNCBLYLT065"
+        },
+        {
+          "branch_name": "Emsaad Br",
+          "city": "Tobruk",
+          "swift_code": "LNCBLYLT066"
+        },
+        {
+          "branch_name": "Ghadames Branch",
+          "city": "Ghadamis",
+          "swift_code": "LNCBLYLT067"
+        },
+        {
+          "branch_name": "Algubba Br",
+          "city": "Derna",
+          "swift_code": "LNCBLYLT068"
+        },
+        {
+          "branch_name": "Ebrak Br",
+          "city": "Sebha",
+          "swift_code": "LNCBLYLT069"
+        },
+        {
+          "branch_name": "Almena Branch",
+          "city": "Tripoli",
+          "swift_code": "LNCBLYLT070"
+        },
+        {
+          "branch_name": "Factory Of Pipes",
+          "city": "Benghazi",
+          "swift_code": "LNCBLYLT105"
+        },
+        {
+          "branch_name": "University Of Omar Almukhtar Branch",
+          "city": "Beida",
+          "swift_code": "LNCBLYLT106"
+        },
+        {
+          "branch_name": "Arouba",
+          "city": "Benghazi",
+          "swift_code": "LNCBLYLT115"
+        },
+        {
+          "branch_name": "Ajdabia",
+          "city": "Ajdabia",
+          "swift_code": "LNCBLYLT117"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tripoli",
+          "swift_code": "LNCBLYLTHOB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tripoli",
+          "swift_code": "LNCBLYLTXXX"
+        },
+        {
+          "branch_name": "Ajdabia",
+          "city": "Ajdabia",
+          "swift_code": "LNCBLY21117"
+        },
+        {
+          "branch_name": "Oubari Br",
+          "city": "Sebha",
+          "swift_code": "LNCBLYLT072"
+        },
+        {
+          "branch_name": "Shahat Branch",
+          "city": "Shahhat",
+          "swift_code": "LNCBLYLT073"
+        },
+        {
+          "branch_name": "Ghat Branch",
+          "city": "Ghat",
+          "swift_code": "LNCBLYLT076"
+        },
+        {
+          "branch_name": "Musfat Branch",
+          "city": "Zawia",
+          "swift_code": "LNCBLYLT077"
+        },
+        {
+          "branch_name": "Ras Lanuf",
+          "city": "Ras Lanuf",
+          "swift_code": "LNCBLYLT078"
+        },
+        {
+          "branch_name": "Alhawari Branch",
+          "city": "Benghazi",
+          "swift_code": "LNCBLYLT079"
+        },
+        {
+          "branch_name": "Sirt Branch",
+          "city": "Sirte",
+          "swift_code": "LNCBLYLT081"
+        },
+        {
+          "branch_name": "Kambut Br",
+          "city": "Tobruk",
+          "swift_code": "LNCBLYLT083"
+        },
+        {
+          "branch_name": "Darag Br",
+          "city": "Gharian",
+          "swift_code": "LNCBLYLT085"
+        },
+        {
+          "branch_name": "Altred Branch",
+          "city": "El Zawia",
+          "swift_code": "LNCBLYLT087"
+        },
+        {
+          "branch_name": "Esbia Br",
+          "city": "Tripoli",
+          "swift_code": "LNCBLYLT089"
+        },
+        {
+          "branch_name": "Tajura",
+          "city": "Tajura",
+          "swift_code": "LNCBLYLT091"
+        },
+        {
+          "branch_name": "Zlitin Branch",
+          "city": "Zliten",
+          "swift_code": "LNCBLYLT093"
+        },
+        {
+          "branch_name": "Massa Br",
+          "city": "Beida",
+          "swift_code": "LNCBLYLT096"
+        },
+        {
+          "branch_name": "Bani-waled Branch",
+          "city": "Bani",
+          "swift_code": "LNCBLYLT098"
+        },
+        {
+          "branch_name": "Elthahrra Branch",
+          "city": "Tripoli",
+          "swift_code": "LNCBLYLT099"
+        },
+        {
+          "branch_name": "Ajmail Br",
+          "city": "Zawia",
+          "swift_code": "LNCBLYLT101"
+        },
+        {
+          "branch_name": "Tarhouna Branch",
+          "city": "Tarhouna",
+          "swift_code": "LNCBLYLT102"
+        },
+        {
+          "branch_name": "Ejehad Branch",
+          "city": "Beida",
+          "swift_code": "LNCBLYLT103"
+        },
+        {
+          "branch_name": "Almujmaae Altgarie Br",
+          "city": "Benghazi",
+          "swift_code": "LNCBLYLT104"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mediterranean Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Benghazi",
+          "swift_code": "METILYLTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mabruk Oil Operation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tripoli",
+          "swift_code": "MOOCLYLTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Libyan Qatari Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tripoli",
+          "swift_code": "LQBKLYLTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Libyan Investment Authority",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tripoli",
+          "swift_code": "LIATLYLTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Libyan Foreign Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tripoli",
+          "swift_code": "LAFBLYLTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jumhouria Bank (albieda Branch",
+      "branches": [
+        {
+          "branch_name": "El Bieda",
+          "city": "El",
+          "swift_code": "JAMBLYLT013"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jumhouria Bank",
+      "branches": [
+        {
+          "branch_name": "Al Maydan Branch",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT001"
+        },
+        {
+          "branch_name": "Al Mgarief Branch",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT002"
+        },
+        {
+          "branch_name": "Al Madina Branch",
+          "city": "Benghazi",
+          "swift_code": "JAMBLYLT003"
+        },
+        {
+          "branch_name": "Dernia Branch",
+          "city": "Derna",
+          "swift_code": "JAMBLYLT004"
+        },
+        {
+          "branch_name": "Bab Al Jadeed Branch",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT005"
+        },
+        {
+          "branch_name": "Ahmed Sharif Branch",
+          "city": "Misurata",
+          "swift_code": "JAMBLYLT006"
+        },
+        {
+          "branch_name": "Al Zawya Branch",
+          "city": "Zawia",
+          "swift_code": "JAMBLYLT009"
+        },
+        {
+          "branch_name": "Assreem Branch",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT010"
+        },
+        {
+          "branch_name": "Tobruk Almadina",
+          "city": "Tobruk",
+          "swift_code": "JAMBLYLT011"
+        },
+        {
+          "branch_name": "Souk Al Jummaa Branch",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT012"
+        },
+        {
+          "branch_name": "Zliten",
+          "city": "Zliten",
+          "swift_code": "JAMBLYLT014"
+        },
+        {
+          "branch_name": "Athara Branch",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT015"
+        },
+        {
+          "branch_name": "Al Marj Branch",
+          "city": "Al Marj",
+          "swift_code": "JAMBLYLT016"
+        },
+        {
+          "branch_name": "Zaliten Branch",
+          "city": "Zliten",
+          "swift_code": "JAMBLYLT017"
+        },
+        {
+          "branch_name": "Sout Of Tripoli Branch",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT018"
+        },
+        {
+          "branch_name": "Mgharba Branch",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT019"
+        },
+        {
+          "branch_name": "Gharian",
+          "city": "Gharian",
+          "swift_code": "JAMBLYLT020"
+        },
+        {
+          "branch_name": "Souk Altolata",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT022"
+        },
+        {
+          "branch_name": "Souk Al Nour Branch",
+          "city": "Benghazi",
+          "swift_code": "JAMBLYLT023"
+        },
+        {
+          "branch_name": "Tarhouna Branch",
+          "city": "Tarhouna",
+          "swift_code": "JAMBLYLT025"
+        },
+        {
+          "branch_name": "Gharian Branch For Islamic Banking",
+          "city": "Gharian",
+          "swift_code": "JAMBLYLT502"
+        },
+        {
+          "branch_name": "Al-mokhtar Branch For Islamic Banking",
+          "city": "Benghazi",
+          "swift_code": "JAMBLYLT503"
+        },
+        {
+          "branch_name": "Derna Branch For Islamic Banking",
+          "city": "Derna",
+          "swift_code": "JAMBLYLT505"
+        },
+        {
+          "branch_name": "Tripoli Committee",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT991"
+        },
+        {
+          "branch_name": "Zawya Committee",
+          "city": "Zawia",
+          "swift_code": "JAMBLYLT992"
+        },
+        {
+          "branch_name": "Jabel Elgharbi Committee",
+          "city": "Gharian",
+          "swift_code": "JAMBLYLT993"
+        },
+        {
+          "branch_name": "Misurata Committee",
+          "city": "Misurata",
+          "swift_code": "JAMBLYLT994"
+        },
+        {
+          "branch_name": "Benghazi Committee",
+          "city": "Benghazi",
+          "swift_code": "JAMBLYLT995"
+        },
+        {
+          "branch_name": "Sebha Committiee",
+          "city": "Sebha",
+          "swift_code": "JAMBLYLT998"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLTXXX"
+        },
+        {
+          "branch_name": "Benghazi Main Branch",
+          "city": "Benghazi",
+          "swift_code": "JAMBLYLT054"
+        },
+        {
+          "branch_name": "Benghazi Credit Committee",
+          "city": "Benghazi",
+          "swift_code": "JAMBLYLT083"
+        },
+        {
+          "branch_name": "Benghazi",
+          "city": "Benghazi",
+          "swift_code": "JAMBLYLTWAB"
+        },
+        {
+          "branch_name": "Gharian Credit Committee",
+          "city": "Gharian",
+          "swift_code": "JAMBLYLT086"
+        },
+        {
+          "branch_name": "Tripoli Credit Committee",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT082"
+        },
+        {
+          "branch_name": "Misurata Credit Committee",
+          "city": "Misurata",
+          "swift_code": "JAMBLYLT084"
+        },
+        {
+          "branch_name": "Libyana Agency",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT366"
+        },
+        {
+          "branch_name": "Zawia Credit Committee",
+          "city": "Zawia",
+          "swift_code": "JAMBLYLT085"
+        },
+        {
+          "branch_name": "Mellitah Oil And Gas Agency",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT094"
+        },
+        {
+          "branch_name": "Tripoli",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT096"
+        },
+        {
+          "branch_name": "Clearing Center",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT098"
+        },
+        {
+          "branch_name": "Al Hadaeq Agency",
+          "city": "Benghazi",
+          "swift_code": "JAMBLYLT100"
+        },
+        {
+          "branch_name": "Tripoli Tower Agency",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT104"
+        },
+        {
+          "branch_name": "Abuatni Branch",
+          "city": "Benghazi",
+          "swift_code": "JAMBLYLT107"
+        },
+        {
+          "branch_name": "Almared Agancy",
+          "city": "Benghazi",
+          "swift_code": "JAMBLYLT113"
+        },
+        {
+          "branch_name": "Goaz Atteek Agency",
+          "city": "Misurata",
+          "swift_code": "JAMBLYLT118"
+        },
+        {
+          "branch_name": "Hay Elanduls Branch",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT120"
+        },
+        {
+          "branch_name": "Fllah Branch",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT121"
+        },
+        {
+          "branch_name": "Blasher Branch",
+          "city": "Tajura",
+          "swift_code": "JAMBLYLT132"
+        },
+        {
+          "branch_name": "Wahda Elarabya Agency",
+          "city": "Benghazi",
+          "swift_code": "JAMBLYLT135"
+        },
+        {
+          "branch_name": "Libyana Agency",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT136"
+        },
+        {
+          "branch_name": "Ras Hasan",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT137"
+        },
+        {
+          "branch_name": "Sabri Agency",
+          "city": "Sabri",
+          "swift_code": "JAMBLYLT143"
+        },
+        {
+          "branch_name": "Barid Agency",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT145"
+        },
+        {
+          "branch_name": "Benghazi Midical Center",
+          "city": "Benghazi",
+          "swift_code": "JAMBLYLT148"
+        },
+        {
+          "branch_name": "Free Zone Agency",
+          "city": "Misurata",
+          "swift_code": "JAMBLYLT150"
+        },
+        {
+          "branch_name": "Mizran Branch",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT151"
+        },
+        {
+          "branch_name": "Fashloum Branch For Islamic Banking",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT501"
+        },
+        {
+          "branch_name": "Tripoli",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT026"
+        },
+        {
+          "branch_name": "Bani Walid",
+          "city": "Bani Walid",
+          "swift_code": "JAMBLYLT028"
+        },
+        {
+          "branch_name": "Sabratah",
+          "city": "Sabratah",
+          "swift_code": "JAMBLYLT032"
+        },
+        {
+          "branch_name": "Sabratha Branch",
+          "city": "Sabratah",
+          "swift_code": "JAMBLYLT033"
+        },
+        {
+          "branch_name": "Margeb Branch",
+          "city": "Al Khums",
+          "swift_code": "JAMBLYLT035"
+        },
+        {
+          "branch_name": "Tripoli University Branch",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT043"
+        },
+        {
+          "branch_name": "Gharyan Branch",
+          "city": "Gharian",
+          "swift_code": "JAMBLYLT048"
+        },
+        {
+          "branch_name": "Misurata Branch",
+          "city": "Misurata",
+          "swift_code": "JAMBLYLT051"
+        },
+        {
+          "branch_name": "Al Marj",
+          "city": "Al Marj",
+          "swift_code": "JAMBLYLT052"
+        },
+        {
+          "branch_name": "Abukmmash Branch",
+          "city": "Zwara",
+          "swift_code": "JAMBLYLT055"
+        },
+        {
+          "branch_name": "Derna",
+          "city": "Derna",
+          "swift_code": "JAMBLYLT060"
+        },
+        {
+          "branch_name": "Bani Waleed Branch",
+          "city": "Bani Walid",
+          "swift_code": "JAMBLYLT065"
+        },
+        {
+          "branch_name": "Ainzara",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT067"
+        },
+        {
+          "branch_name": "Fwihat Branch",
+          "city": "Benghazi",
+          "swift_code": "JAMBLYLT072"
+        },
+        {
+          "branch_name": "Al Athar Branch",
+          "city": "Sabratah",
+          "swift_code": "JAMBLYLT077"
+        },
+        {
+          "branch_name": "Balkhir Branch",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT079"
+        },
+        {
+          "branch_name": "Al Shahenat Agency",
+          "city": "Tajura",
+          "swift_code": "JAMBLYLT080"
+        },
+        {
+          "branch_name": "Arheebat Branch",
+          "city": "Jadu",
+          "swift_code": "JAMBLYLT087"
+        },
+        {
+          "branch_name": "Alandalus Branch",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT090"
+        },
+        {
+          "branch_name": "Gurji Agency",
+          "city": "Tripoli",
+          "swift_code": "JAMBLYLT093"
+        }
+      ]
+    },
+    {
+      "bank_name": "General National Maritime Transport Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tripoli",
+          "swift_code": "GNMTLYL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Gulf Libyan Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tripoli",
+          "swift_code": "FGBLLYLTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tripoli",
+          "swift_code": "DEVOLYLTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Libya",
+      "branches": [
+        {
+          "branch_name": "Benghazi Branch",
+          "city": "Benghazi",
+          "swift_code": "CBLJLYLX001"
+        },
+        {
+          "branch_name": "Sebha Branch",
+          "city": "Sebha",
+          "swift_code": "CBLJLYLX002"
+        },
+        {
+          "branch_name": "Sirte Branch",
+          "city": "Sirte",
+          "swift_code": "CBLJLYLX003"
+        },
+        {
+          "branch_name": "Operation Department",
+          "city": "Tripoli",
+          "swift_code": "CBLJLYLX004"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tripoli",
+          "swift_code": "CBLJLYLXXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tripoli",
+          "swift_code": "CBLJLYLYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bsic Head Office",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tripoli",
+          "swift_code": "WAHALYLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Sahelo-saharienne Pour L'investissement Et Le Commerce (tripoli",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tripoli",
+          "swift_code": "BSAHLYLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Commerce And Development (l.j.s.c.",
+      "branches": [
+        {
+          "branch_name": "Benghazi Main Branch",
+          "city": "Benghazi",
+          "swift_code": "CDBLLYLT011"
+        },
+        {
+          "branch_name": "El Forosia Agency",
+          "city": "Benghazi",
+          "swift_code": "CDBLLYLT012"
+        },
+        {
+          "branch_name": "Benina Airport Agency",
+          "city": "Benghazi",
+          "swift_code": "CDBLLYLT013"
+        },
+        {
+          "branch_name": "Islamic Call Agency",
+          "city": "Benghazi",
+          "swift_code": "CDBLLYLT014"
+        },
+        {
+          "branch_name": "El Berka Agency",
+          "city": "Benghazi",
+          "swift_code": "CDBLLYLT015"
+        },
+        {
+          "branch_name": "Garden City Agency",
+          "city": "Benghazi",
+          "swift_code": "CDBLLYLT017"
+        },
+        {
+          "branch_name": "Children Agency",
+          "city": "Benghazi",
+          "swift_code": "CDBLLYLT018"
+        },
+        {
+          "branch_name": "Ejdabia Branch",
+          "city": "Ejdabia",
+          "swift_code": "CDBLLYLT019"
+        },
+        {
+          "branch_name": "Tripoli Main Branch",
+          "city": "Tripoli",
+          "swift_code": "CDBLLYLT021"
+        },
+        {
+          "branch_name": "Gout Al Shaal Agency",
+          "city": "Tripoli",
+          "swift_code": "CDBLLYLT022"
+        },
+        {
+          "branch_name": "El Fateh Tower Agency",
+          "city": "Tripoli",
+          "swift_code": "CDBLLYLT023"
+        },
+        {
+          "branch_name": "Gergarish Agency",
+          "city": "Tripoli",
+          "swift_code": "CDBLLYLT025"
+        },
+        {
+          "branch_name": "Dat El Imad Agency",
+          "city": "Tripoli",
+          "swift_code": "CDBLLYLT026"
+        },
+        {
+          "branch_name": "Grand Hotel Agency",
+          "city": "Tripoli",
+          "swift_code": "CDBLLYLT027"
+        },
+        {
+          "branch_name": "El Madar Agency",
+          "city": "Tripoli",
+          "swift_code": "CDBLLYLT029"
+        },
+        {
+          "branch_name": "Misurata Main Branch",
+          "city": "Misurata",
+          "swift_code": "CDBLLYLT031"
+        },
+        {
+          "branch_name": "Africa Agency",
+          "city": "Misurata",
+          "swift_code": "CDBLLYLT032"
+        },
+        {
+          "branch_name": "Tobruk Main Branch",
+          "city": "Tobruk",
+          "swift_code": "CDBLLYLT041"
+        },
+        {
+          "branch_name": "Emssaed Agency",
+          "city": "Emssaed",
+          "swift_code": "CDBLLYLT042"
+        },
+        {
+          "branch_name": "El Zawia Main Branch",
+          "city": "El Zawia",
+          "swift_code": "CDBLLYLT051"
+        },
+        {
+          "branch_name": "Zwara Main Branch",
+          "city": "Zwara",
+          "swift_code": "CDBLLYLT052"
+        },
+        {
+          "branch_name": "El Bieda Main Branch",
+          "city": "El",
+          "swift_code": "CDBLLYLT061"
+        },
+        {
+          "branch_name": "Zliten Main Branch",
+          "city": "Zliten",
+          "swift_code": "CDBLLYLT071"
+        },
+        {
+          "branch_name": "Sirte Main Branch",
+          "city": "Sirte",
+          "swift_code": "CDBLLYLT081"
+        },
+        {
+          "branch_name": "Drna Branch",
+          "city": "Derna",
+          "swift_code": "CDBLLYLT091"
+        },
+        {
+          "branch_name": "Al Koms Branch",
+          "city": "Al Khums",
+          "swift_code": "CDBLLYLT101"
+        },
+        {
+          "branch_name": "El Fohit Agency",
+          "city": "Benghazi",
+          "swift_code": "CDBLLYLT111"
+        },
+        {
+          "branch_name": "Twenty Street Agency",
+          "city": "Benghazi",
+          "swift_code": "CDBLLYLT112"
+        },
+        {
+          "branch_name": "Al Hawary",
+          "city": "Benghazi",
+          "swift_code": "CDBLLYLT114"
+        },
+        {
+          "branch_name": "Mobile Bank",
+          "city": "Benghazi",
+          "swift_code": "CDBLLYLT124"
+        },
+        {
+          "branch_name": "Souk El Gouma Agency",
+          "city": "Tripoli",
+          "swift_code": "CDBLLYLT221"
+        },
+        {
+          "branch_name": "Tagora Branch",
+          "city": "Tripoli",
+          "swift_code": "CDBLLYLT222"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Benghazi",
+          "swift_code": "CDBLLYLTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Assaray Trade And Investment Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tripoli",
+          "swift_code": "ATIBLYLTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tripoli",
+          "swift_code": "ACOMLYLTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aman Bank For Commerce And Investment",
+      "branches": [
+        {
+          "branch_name": "Benghazi Branch",
+          "city": "Benghazi",
+          "swift_code": "ABCNLYLT015"
+        },
+        {
+          "branch_name": "Tripoli",
+          "city": "Tripoli",
+          "swift_code": "ABCNLYLT017"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tripoli",
+          "swift_code": "ABCNLYLTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alejma'a Alarabi Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Benghazi",
+          "swift_code": "EJABLYLXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Wafa Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tripoli",
+          "swift_code": "ALWFLYLTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agricultural Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tripoli",
+          "swift_code": "AGRULYLTXXX"
+        }
+      ]
+    }
+  ]
+}

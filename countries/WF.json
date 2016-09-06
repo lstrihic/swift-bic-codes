@@ -1,0 +1,37 @@
+{
+  "country_name": "Wallis and Futuna",
+  "alpha_2": "WF",
+  "country_code": "876",
+  "banks": [
+    {
+      "bank_name": "Tresor Public Uvea Mata Utu",
+      "branches": [
+        {
+          "branch_name": "Tresor Public Uvea Mata Utu",
+          "city": "Mata",
+          "swift_code": "TRPUWF21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ieom Mata Utu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mata Utu",
+          "swift_code": "INDDWF21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De Wallis Et Futuna Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mata",
+          "swift_code": "WAFTWF21XXX"
+        }
+      ]
+    }
+  ]
+}

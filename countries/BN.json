@@ -1,0 +1,177 @@
+{
+  "country_name": "Brunei Darussalam",
+  "alpha_2": "BN",
+  "country_code": "096",
+  "banks": [
+    {
+      "bank_name": "Standard Chartered Bank-brunei",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bandar Seri Begawan",
+          "swift_code": "SCBLBNBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rhb Bank Berhad, Brunei",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bandar Seri Begawan",
+          "swift_code": "RHBBBNBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Perbadanan Tabung Amanah Islam Brunei",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bandar Seri Begawan",
+          "swift_code": "PTAIBNBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank,n.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bandar Seri Begawan",
+          "swift_code": "CITIBNBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brunei Shell Petroleum",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seria",
+          "swift_code": "BRHPBNB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brunei Investment Agency",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bandar Seri Begawan",
+          "swift_code": "BIAGBNB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Corporation (brunei) Bhd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bandar Seri Begawan",
+          "swift_code": "CCBRBNB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Islam Brunei Darussalam Berhad (bibd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bandar Seri Begawan",
+          "swift_code": "BIBDBNBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Baiduri Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bandar Seri Begawan",
+          "swift_code": "BAIDBNBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Autoriti Monetari Brunei Darussalam",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bandar Seri Begawan",
+          "swift_code": "AMBDBNB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Overseas Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bandar Seri Begawan",
+          "swift_code": "UOVBBNBBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sydney",
+          "swift_code": "UOVBAU2SXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Los Angeles,Ca",
+          "swift_code": "UOVBUS6LXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "New York,Ny",
+          "swift_code": "UOVBUS33XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "UOVBGB2LXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Malayan Banking Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bandar Seri Begawan",
+          "swift_code": "MBBEBNBBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "New York,Ny",
+          "swift_code": "MBBEUS33XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "MBBESGSGXXX"
+        },
+        {
+          "branch_name": "Regional Wealth Management",
+          "city": "Singapore",
+          "swift_code": "MBBESGSGRWM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "MBBEGB2LXXX"
+        },
+        {
+          "branch_name": "Ho Chi Minh City",
+          "city": "Ho Chi Minh City",
+          "swift_code": "MBBEVNVXHCM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "MBBEVNVXXXX"
+        }
+      ]
+    }
+  ]
+}

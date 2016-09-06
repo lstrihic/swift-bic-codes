@@ -1,0 +1,67 @@
+{
+  "country_name": "Bhutan",
+  "alpha_2": "BT",
+  "country_code": "064",
+  "banks": [
+    {
+      "bank_name": "T Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Thimphu",
+          "swift_code": "TBBTBTBTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Royal Monetary Authority Of Bhutan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Thimphu",
+          "swift_code": "RMABBTBTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Druk Pnb Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Thimphu",
+          "swift_code": "PUNBBTBTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bhutan National Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Thimphu",
+          "swift_code": "BNBTBTBTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Bhutan",
+      "branches": [
+        {
+          "branch_name": "Phuentsholing Main Branch",
+          "city": "Phuntsholing",
+          "swift_code": "BHUBBTBT001"
+        },
+        {
+          "branch_name": "Thimphu",
+          "city": "Thimphu",
+          "swift_code": "BHUBBTBT022"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Phuntsholing",
+          "swift_code": "BHUBBTBTXXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "country_name": "Equatorial Guinea",
+  "alpha_2": "GQ",
+  "country_code": "226",
+  "banks": [
+    {
+      "bank_name": "Societe Generale De Banque En Guinee Equatoriale",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Malabo",
+          "swift_code": "SGGEGQGQXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Guinee Equatoriale",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Malabo",
+          "swift_code": "ECOCGQGQXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Bank Guinea Ecuatorial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Malabo",
+          "swift_code": "CBGMGQG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ccei Bank Ge",
+      "branches": [
+        {
+          "branch_name": "Bata",
+          "city": "Bata",
+          "swift_code": "CCEIGQGQBAT"
+        },
+        {
+          "branch_name": "Ebiebyin",
+          "city": "Bata",
+          "swift_code": "CCEIGQGQEBI"
+        },
+        {
+          "branch_name": "Mongomo",
+          "city": "Bata",
+          "swift_code": "CCEIGQGQMON"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Malabo",
+          "swift_code": "CCEIGQGQXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bgfibank Guinee Equatoriale",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Malabo",
+          "swift_code": "BGFIGQGQXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Des Etats De L'afrique Centrale D.n. Guinee Equatoriale",
+      "branches": [
+        {
+          "branch_name": "Agence De Bata",
+          "city": "Bata",
+          "swift_code": "BEACGQGQ610"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Malabo",
+          "swift_code": "BEACGQGQXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional De Guinea Ecuatorial (bange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Malabo",
+          "swift_code": "NAGCGQGQXXX"
+        }
+      ]
+    }
+  ]
+}

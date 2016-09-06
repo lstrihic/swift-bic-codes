@@ -1,0 +1,57 @@
+{
+  "country_name": "Dominica",
+  "alpha_2": "DM",
+  "country_code": "212",
+  "banks": [
+    {
+      "bank_name": "National Bank Of Dominica",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Roseau",
+          "swift_code": "NCDMDMDMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Government Of Dominica",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Roseau",
+          "swift_code": "GVDMDMDMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commonwealth Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Roseau",
+          "swift_code": "CMWBDMDMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barnett Capital Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Roseau",
+          "swift_code": "BCBKDMDMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brilla Bank Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Roseau",
+          "swift_code": "BRLLDMDMXXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1447 @@
+{
+  "country_name": "Romania",
+  "alpha_2": "RO",
+  "country_code": "642",
+  "banks": [
+    {
+      "bank_name": "W.b.s. Romania S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "WBROROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Voltinvest S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Craiova",
+          "swift_code": "VOLTRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Volksbank Romania S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "VBBUROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ventrust Investment S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Targu Mures",
+          "swift_code": "VEIVRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Valmob Intermedia S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pitesti",
+          "swift_code": "VAITRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Valahia Capital Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "VACTROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ursus Breweries Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "SABMROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unicredit Tiriac Bank Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "BACXROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unicredit Ca-ib Securities Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "CAUEROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unicapital S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "UNCPROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trend S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bacau",
+          "swift_code": "TEENRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Transilvania Capital S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Miercurea Ciuc",
+          "swift_code": "TRPTRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tradeville Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "VANGROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Transfond S.a.",
+      "branches": [
+        {
+          "branch_name": "Back Office Application",
+          "city": "Bucharest",
+          "swift_code": "TRFDROBSSNT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "TRFDROBSXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "TRFDROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Royal Bank Of Scotland Plc Edinburgh, Romania Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "ABNAROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "B.c.r. Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "BCERROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Austro-rom S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "AUSMROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arcelormittal Tubular Products Roman Sa",
+      "branches": [
+        {
+          "branch_name": "Galati",
+          "city": "Galati",
+          "swift_code": "USINRO21GAL"
+        },
+        {
+          "branch_name": "Iasi",
+          "city": "Iasi",
+          "swift_code": "USINRO21IAS"
+        },
+        {
+          "branch_name": "Roman",
+          "city": "Roman",
+          "swift_code": "USINRO21MSR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Roman",
+          "swift_code": "USINRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alpha Finance Romania Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "ALNRROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Active International Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "ACIRROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Egnatia Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "EGNTROB1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "EGNTGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Actinvest Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brasov",
+          "swift_code": "ACTNRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mkb Romexterra Bank S.A.",
+      "branches": [
+        {
+          "branch_name": "4300 Targu Mures",
+          "city": "Targu Mures",
+          "swift_code": "CRDZROBUTGM"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Millennium S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "MILBROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Italo Romena Spa Italia Volpago Del Montello,Sucursala Bucuresti",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "BITRROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Romaneasca S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "BRMAROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Comerciala Feroviara S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "BFERROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Comerciala Carpatica Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sibiu",
+          "swift_code": "CARPRO22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banc Post S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "BPOSROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ate Bank Romania S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "MINDROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Leumi Romania S.A.",
+      "branches": [
+        {
+          "branch_name": "Cluj-napoca",
+          "city": "Cluj-Napoca",
+          "swift_code": "DAFBRO22CLU"
+        },
+        {
+          "branch_name": "Constanta",
+          "city": "Constanta",
+          "swift_code": "DAFBRO22CTA"
+        },
+        {
+          "branch_name": "Oradea",
+          "city": "Oradea",
+          "swift_code": "DAFBRO22ORA"
+        },
+        {
+          "branch_name": "Timisoara",
+          "city": "Timisoara",
+          "swift_code": "DAFBRO22TIM"
+        },
+        {
+          "branch_name": "Brasov",
+          "city": "Brasov",
+          "swift_code": "DAFBRO22BRA"
+        },
+        {
+          "branch_name": "Bucharest",
+          "city": "Bucharest",
+          "swift_code": "DAFBRO22BUC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "DAFBRO22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alpha Bank Romania Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "BUCUROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Comerciala Romana S.A",
+      "branches": [
+        {
+          "branch_name": "Covasna Branch",
+          "city": "Sfantu Gheorghe",
+          "swift_code": "RNCBROBUCV0"
+        },
+        {
+          "branch_name": "Ialomita Branch",
+          "city": "Slobozia",
+          "swift_code": "RNCBROBUIL0"
+        },
+        {
+          "branch_name": "Caras Severin Branch",
+          "city": "Resita",
+          "swift_code": "RNCBROBUCS0"
+        },
+        {
+          "branch_name": "Arad Branch",
+          "city": "Arad",
+          "swift_code": "RNCBROBUAR0"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "RNCBROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "G.i.f.-grupul De Intermediere Financiara S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "GGIFROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swiss Capital Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "KSRSROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "City Invest S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Galati",
+          "swift_code": "CIYIRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Europe Plc, Dublin-sucursala Romania",
+      "branches": [
+        {
+          "branch_name": "Target 2",
+          "city": "Bucharest",
+          "swift_code": "CITIROBUTGT"
+        },
+        {
+          "branch_name": "Trade Services Dept",
+          "city": "Bucharest",
+          "swift_code": "CITIROBUTRD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "CITIROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cec Bank-s.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "CECEROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central European Investments S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "CEENROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Casa Romana De Compensatie S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sibiu",
+          "swift_code": "CSRCRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Marfin Bank (romania) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "EGNAROBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capitol S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "CATLROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capa Finance Ifn Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "PATRROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bucuresti Global Invest S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "BUGIROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bt Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cluj-Napoca",
+          "swift_code": "SEEERO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bursa De Valori Bucuresti Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "XBSEROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Casa De Compensare Bucuresti S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "CCBUROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carpatica Invest Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sibiu",
+          "swift_code": "CRNVRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Romanian Post National Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "RONCROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brd-groupe Societe Generale Sa",
+      "branches": [
+        {
+          "branch_name": "Campineanu Branch",
+          "city": "Bucharest",
+          "swift_code": "BRDEROBUCAM"
+        },
+        {
+          "branch_name": "Securities Division",
+          "city": "Bucharest",
+          "swift_code": "BRDEROBUTIT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "BRDEROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Fortis Sa/nv Bruxelles Bucharest Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "FTSBROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brd Securities-groupe Societe Generale S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "BSGSROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bforex Global Trading S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "BGLTROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Blom Bank France S.a. Romania Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "BLOMROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bcr Banca Pentru Locuinte S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "BCRLROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Cyprus Pcl Nicosia, Romanian Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "BCYPROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bancpost S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tecuci",
+          "swift_code": "BNNCRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fairwind Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "UNSUROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurosavam S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ploiesti",
+          "swift_code": "EURVROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eximbank Of Romania",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "EXIMROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Etr Romania",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "ETRMROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finaco Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "FIUEROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eteba Romania S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "ETROROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Estinvest S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Focsani",
+          "swift_code": "ESTIRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Esteuro Capital S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "ESCPROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Equity Invest S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "EQIVROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eldainvest S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Galati",
+          "swift_code": "ELDARO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eastern Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "EASCROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Depozitarul Central S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "DECNROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dorinvest S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "DORNROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Delta Valori Mobiliare (d.v.m.) S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "DVMDROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Creditcoop Casa Centrala",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "CRCOROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole Bank Romania S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "BSEAROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Confident Invest Bucharest S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "COIHROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Europe Bank (romania) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "FNNBROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Libra Bank S.a.",
+      "branches": [
+        {
+          "branch_name": "Bucharest",
+          "city": "Bucharest",
+          "swift_code": "BRELROBUCAM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "BRELROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kd Capital Management S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "CPMAROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Invest Trust S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Craiova",
+          "swift_code": "INUTRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intesa Sanpaolo Romania S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Arad",
+          "swift_code": "WBANRO22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intervam S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "ITTRROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interfinbrok Corporation S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Constanta",
+          "swift_code": "INAORO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interdealer Capital Invest S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cluj-Napoca",
+          "swift_code": "INLNRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intercapital Invest S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "ITINROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ifb Finwest S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Arad",
+          "swift_code": "IFFNRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hti Valori Mobiliare S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "HTVMROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hb Invest S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brasov",
+          "swift_code": "IVTSRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ieba Trust S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "IETRROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Bank N.v., Bucharest Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "INGBROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Goldring S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Targu Mures",
+          "swift_code": "GOLIRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Valori Mobiliare S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "GLVMROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Garanti Bank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "UGBIROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Harinvest S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ramnicu Valcea",
+          "swift_code": "HARIRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "G.m. Invest S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "IVTEROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Romanian International Bank Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "ROINROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Roinvest Bucovina S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Suceava",
+          "swift_code": "ROBURO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbs Securities (romania) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "AASOROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Raiffeisen Capital And Investment S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "RACIROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rasdaq",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "XRASROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Raiffeisen Bank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "RZBRROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Raiffeisen Banca Pentru Locuinte S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "RZBLROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Procreditbank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "MIROROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Porsche Bank Romania Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Voluntari",
+          "swift_code": "PORLROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prime Transaction S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "PRTAROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oltenia Grup Invest S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Craiova",
+          "swift_code": "OLGIRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Piraeus Bank Romania",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "PIRBROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nova Invest S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Satu Mare",
+          "swift_code": "NOIVRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Otp Bank Romania S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "OTPVROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nhl Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "SMRSROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Romania",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "NBORROBPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "NBORROBSXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "NBORROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Muntenia Global Invest S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "MUGIROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nextebank S.a. (formerly Mkb Romexterra Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "CRDZROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ministry Of Public Finance",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "TREZROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tbi Bank Ead Sofia Bucharest Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "TBIBROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Target Capital S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cluj-Napoca",
+          "swift_code": "TACIRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "T.g.h. Investment S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Iasi",
+          "swift_code": "TGINRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Super Gold Invest S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pitesti",
+          "swift_code": "SUGIRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ssif Stk Trading S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Arad",
+          "swift_code": "SSSRRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ssif Mobinvest S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oradea",
+          "swift_code": "SSMORO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societatea Nationala De Compensare, Decontare Si Depozitare Pentru Valori Mobiliare Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "SNCDROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kira Credito And Cauzioni Ifn S.a",
+      "branches": [
+        {
+          "branch_name": "Kira Credito And Cauzioni Ifn S.a",
+          "city": "Iasi",
+          "swift_code": "KCCFRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societate De Investitii Financiare Broker S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cluj-Napoca",
+          "swift_code": "SIFKRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sc Smith And Smith Srl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "SSRRROBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "S.s.i.f. Vienna Investment Trust S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "FIEFROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "S.s.i.f. Piraeus Securities Romania S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "SPSMROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "S.s.i.f. Orizont Vest S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oradea",
+          "swift_code": "SSOVRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "S.s.i.f. Romintrade S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brasov",
+          "swift_code": "SSRORO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "S.s.i.f. Fortius Finance S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "SSFIROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "S.c. Depozitarul Sibex S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sibiu",
+          "swift_code": "DESXRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronics Romania Srl",
+      "branches": [
+        {
+          "branch_name": "Voluntari",
+          "city": "Voluntari",
+          "swift_code": "SECTRO214B6"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Voluntari",
+          "swift_code": "SECTRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Romcapital S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Timis",
+          "swift_code": "ROMCRO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rombell Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucharest",
+          "swift_code": "ROECROB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Romexterra Finance S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Targu Mures",
+          "swift_code": "FNCCRO21XXX"
+        }
+      ]
+    }
+  ]
+}

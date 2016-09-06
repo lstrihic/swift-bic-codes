@@ -1,0 +1,577 @@
+{
+  "country_name": "Slovenia",
+  "alpha_2": "SI",
+  "country_code": "705",
+  "banks": [
+    {
+      "bank_name": "Zavarovalnica Triglav D.d.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "ZATRSI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Zavarovalnica Marbor",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Marbor",
+          "swift_code": "ZAMASI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Veritas B.h. D.o.o.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maribor",
+          "swift_code": "VERISI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ts Zeron Imperial Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Celje",
+          "swift_code": "ZEIMSI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Triglav Druzba Za",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "TRDRSI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sid-slovene Export And Development Bank Inc., Ljubljana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "SEDJSI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sberbank Banka D.d.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "SABRSI2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Publikum Borzno Posredovanje,d.d.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "PUBPSI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prva Osebna Zavarovalnica",
+      "branches": [
+        {
+          "branch_name": "Prva Osebna Zavarovalnica",
+          "city": "Ljubljana",
+          "swift_code": "PROZSI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Primorski Financni Center Interfin D.o.o.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Koper",
+          "swift_code": "PFCISI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Poteza D.d.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "POBFSI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Perspektiva Bpd D.d.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "PEBPSI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sid-Slovenska Izvozna In Razvojna Banka, D.D., Ljubljana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "SIDRSI22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Raiffeisen Banka D.D.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maribor",
+          "swift_code": "KREKSI22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Probanka D.D. Maribor",
+      "branches": [
+        {
+          "branch_name": "Branch Celje",
+          "city": "Celje",
+          "swift_code": "PROBSI2XCEL"
+        },
+        {
+          "branch_name": "Koper Branch",
+          "city": "Koper",
+          "swift_code": "PROBSI2XKOP"
+        },
+        {
+          "branch_name": "Ljubljana Branch",
+          "city": "Ljubljana",
+          "swift_code": "PROBSI2XLJU"
+        },
+        {
+          "branch_name": "Slovenj Gradec Branch",
+          "city": "Slovenj Gradec",
+          "swift_code": "PROBSI2XSLG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Maribor",
+          "swift_code": "PROBSI2XXXX"
+        },
+        {
+          "branch_name": "Branch Kranj",
+          "city": "Kranj",
+          "swift_code": "PROBSI2XKRA"
+        }
+      ]
+    },
+    {
+      "bank_name": "Postna Banka Slovenije D.D.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maribor",
+          "swift_code": "PBSLSI22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nova Ljubljanska Banka D.D.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "LJBASI2XXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Trieste",
+          "swift_code": "LJBAIT2TXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nova Kreditna Banka Maribor D.D.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maribor",
+          "swift_code": "KBMASI2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hranilnica Vipava D.D.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vipava",
+          "swift_code": "HKVISI22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hranilnica Lon D.D.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kranj",
+          "swift_code": "HLONSI22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gorenjska Banka D.D., Kranj",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kranj",
+          "swift_code": "GORESI2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Factor Banka D.D.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "FCTBSI2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dezelna Banka Slovenije D.D.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "SZKBSI2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Delavska Hranilnica D.D. Ljubljana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "HDELSI22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Securities Clearing Corporation - Kdd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "KDDSSI22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bks Bank Ag, Bancna Podruznica",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "BFKKSI22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banka Sparkasse D.D.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "KSPKSI22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banka Koper D.D.",
+      "branches": [
+        {
+          "branch_name": "Ibos Code",
+          "city": "Koper",
+          "swift_code": "BAKOSI2XIBO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Koper",
+          "swift_code": "BAKOSI2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banka Celje D.D.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Celje",
+          "swift_code": "SBCESI2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Slovenia",
+      "branches": [
+        {
+          "branch_name": "Poravnava Step2 Mpedd-storitev B2b",
+          "city": "Ljubljana",
+          "swift_code": "BSLJSI2XB2B"
+        },
+        {
+          "branch_name": "Ccbm",
+          "city": "Ljubljana",
+          "swift_code": "BSLJSI2XCCB"
+        },
+        {
+          "branch_name": "Poravnava Step2 Mpedd-storitev Core",
+          "city": "Ljubljana",
+          "swift_code": "BSLJSI2XCOR"
+        },
+        {
+          "branch_name": "Target",
+          "city": "Ljubljana",
+          "swift_code": "BSLJSI2XEUX"
+        },
+        {
+          "branch_name": "Ljubljana",
+          "city": "Ljubljana",
+          "swift_code": "BSLJSI2XIND"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "BSLJSI2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abanka Vipa D.D.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "ABANSI2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mp, Poteza, Publikum, Investicijske Storitve, D.d.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "POPJSI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mp Bph D.d.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "BPHBSI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moja Nalozba Pokojninska Drurba",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maribor",
+          "swift_code": "MNPDSI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moja Delnica Bph D.d.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "MODPSI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ljubljana Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "XLJUSI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kd, Borznoposredniska Druzba, D.o.o",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "BDDOSI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kd Skladi D.o.o.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "SKOOSI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kd Funds",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "FNDDSI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kbm Infond Dzu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maribor",
+          "swift_code": "KBIZSI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kapitalska Druzba",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "KADRSI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jasmin Muhic",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vodice",
+          "swift_code": "JASMSI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ilirika D.d. Ljubljana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "ILIISI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Generali Insurance Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "GEIUSI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gbd Gorenjska Borznoposredniska Druzba D.d.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kranj",
+          "swift_code": "GBDGSI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Certius Bph D.o.o.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "CEBDSI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brokerjet Sparkasse-borzno Posredniska Druzba, D.d.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "BSPDSI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Argonos, Borzno Posredniska Hisa, D.o.o.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "ABPHSI21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Zveza Bank R.Z.Z O.J. Podruznica Ljubljana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "VSGKSI22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unicredit Banka Slovenija D.D.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "BACXSI22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skb Banka D.D.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "SKBASI2XXXX"
+        }
+      ]
+    }
+  ]
+}

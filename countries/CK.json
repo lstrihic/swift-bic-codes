@@ -1,0 +1,57 @@
+{
+  "country_name": "Cook Islands",
+  "alpha_2": "CK",
+  "country_code": "184",
+  "banks": [
+    {
+      "bank_name": "Wall Street Banking Corporation Ltd, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rarotonga",
+          "swift_code": "WSBCCKC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cook Islands Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rarotonga",
+          "swift_code": "CIDBCKC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Security Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Avarua",
+          "swift_code": "CPSBCKCAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Australia And New Zealand Banking Group Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rarotonga",
+          "swift_code": "ANZBCKCRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Security Bank Cook Islands Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Avarua",
+          "swift_code": "CPSBCKCKXXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "country_name": "Namibia",
+  "alpha_2": "NA",
+  "country_code": "516",
+  "banks": [
+    {
+      "bank_name": "Standard Bank Namibia Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Windhoek",
+          "swift_code": "SBNMNANXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Small And Medium Enterprises Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Windhoek",
+          "swift_code": "SMEBNANAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Simonis Storm Securities (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Windhoek",
+          "swift_code": "FLMSNANXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nedbank Namibia Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Windhoek",
+          "swift_code": "NEDSNANXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Namibia Equity Brokers (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Windhoek",
+          "swift_code": "NBOENANXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Irwin, Jacobs, Greene And Associates (pty) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Windhoek",
+          "swift_code": "IJGLNANAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investment House Namibia (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Windhoek",
+          "swift_code": "IHNANANXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First National Bank Of Namibia Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Windhoek",
+          "swift_code": "FIRNNANXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Namclear (pty) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Windhoek",
+          "swift_code": "NAMCNANXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investment House Namibia (pty) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Windhoek",
+          "swift_code": "HYSANAN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ebank Ltd",
+      "branches": [
+        {
+          "branch_name": "Ebank Ltd",
+          "city": "Windhoek",
+          "swift_code": "EBNKNAN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "City Savings And Investment Bank Holdings Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Windhoek",
+          "swift_code": "CSIHNAN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Namibia",
+      "branches": [
+        {
+          "branch_name": "Clearing House",
+          "city": "Windhoek",
+          "swift_code": "CBKNNANAPCH"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Windhoek",
+          "swift_code": "CBKNNANXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Namibian Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Windhoek",
+          "swift_code": "XNAMNAN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Absa Bank Namibia Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Windhoek",
+          "swift_code": "ABSANAN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Windhoek Limited",
+      "branches": [
+        {
+          "branch_name": "Global Custody Branch",
+          "city": "Windhoek",
+          "swift_code": "BWLINANXCHM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Windhoek",
+          "swift_code": "BWLINANXXXX"
+        }
+      ]
+    }
+  ]
+}

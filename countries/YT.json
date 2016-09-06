@@ -1,0 +1,22 @@
+{
+  "country_name": "Mayotte",
+  "alpha_2": "YT",
+  "country_code": "175",
+  "banks": [
+    {
+      "bank_name": "Banque Francaise Commerciale De L'ocean Indien",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mamoudzou",
+          "swift_code": "BFCOYTYTXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Saint Denis",
+          "swift_code": "BFCORERXXXX"
+        }
+      ]
+    }
+  ]
+}

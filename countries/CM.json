@@ -1,0 +1,287 @@
+{
+  "country_name": "Cameroon",
+  "alpha_2": "CM",
+  "country_code": "120",
+  "banks": [
+    {
+      "bank_name": "United Bank For Africa Cameroon Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douala",
+          "swift_code": "UNAFCMCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Bank Of Cameroon Ltd. (ubc Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Akwa-douala",
+          "swift_code": "UCMACMCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank Cameroon S.a.",
+      "branches": [
+        {
+          "branch_name": "Yaounde",
+          "city": "Yaounde",
+          "swift_code": "SCBLCMCX0CY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Douala",
+          "swift_code": "SCBLCMCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale De Banques Au Cameroun",
+      "branches": [
+        {
+          "branch_name": "Yaounde",
+          "city": "Yaounde",
+          "swift_code": "SGCMCMC10CY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Douala",
+          "swift_code": "SGCMCMCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scb Cameroun S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douala",
+          "swift_code": "BCMACMCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Financial Credit Bank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yaounde",
+          "swift_code": "NAFCCMCYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Karamouzi's Bank Trust Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "New Town",
+          "swift_code": "KBTLCMC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Cameroun Sa.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douala",
+          "swift_code": "ECOCCMCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Communautaire D'afrique S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yaounde",
+          "swift_code": "CCAMCMCYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Bank Of Cameroon",
+      "branches": [
+        {
+          "branch_name": "Littoral",
+          "city": "Douala",
+          "swift_code": "CBCDCMCXAKW"
+        },
+        {
+          "branch_name": "West",
+          "city": "Bafoussam",
+          "swift_code": "CBCDCMCXBFS"
+        },
+        {
+          "branch_name": "4004 Bonaberi",
+          "city": "Bonaberi",
+          "swift_code": "CBCDCMCXBON"
+        },
+        {
+          "branch_name": "North",
+          "city": "Garoua",
+          "swift_code": "CBCDCMCXGRA"
+        },
+        {
+          "branch_name": "13171 Mokolo",
+          "city": "Mokolo",
+          "swift_code": "CBCDCMCXMOK"
+        },
+        {
+          "branch_name": "Far North",
+          "city": "Maroua",
+          "swift_code": "CBCDCMCXMRA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Douala",
+          "swift_code": "CBCDCMCXXXX"
+        },
+        {
+          "branch_name": "Center",
+          "city": "Yaounde",
+          "swift_code": "CBCDCMCXYDE"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bgfibank Cameroun Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douala",
+          "swift_code": "BGFICMCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Internationale Du Cameroun Pour L'epargne Et Le Credit",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douala",
+          "swift_code": "ICLRCMCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Des Etats D'afrique Centrale",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yaounde",
+          "swift_code": "BEACCMCPXXX"
+        },
+        {
+          "branch_name": "Services Centraux Yaounde",
+          "city": "Yaounde",
+          "swift_code": "BEACCMCX090"
+        },
+        {
+          "branch_name": "Direction Des Relations Financieres Exterieures",
+          "city": "Yaounde",
+          "swift_code": "BEACCMCX091"
+        },
+        {
+          "branch_name": "D N Yaounde",
+          "city": "Yaounde",
+          "swift_code": "BEACCMCX100"
+        },
+        {
+          "branch_name": "Douala",
+          "city": "Douala",
+          "swift_code": "BEACCMCX110"
+        },
+        {
+          "branch_name": "Garoua",
+          "city": "Garoua",
+          "swift_code": "BEACCMCX120"
+        },
+        {
+          "branch_name": "Nkongsamba",
+          "city": "Nkongsamba",
+          "swift_code": "BEACCMCX130"
+        },
+        {
+          "branch_name": "Limbe",
+          "city": "Limbe",
+          "swift_code": "BEACCMCX140"
+        },
+        {
+          "branch_name": "Bafoussam",
+          "city": "Bafoussam",
+          "swift_code": "BEACCMCX150"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Yaounde",
+          "swift_code": "BEACCMCXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Atlantique Cameroun",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Douala",
+          "swift_code": "ATCRCMCMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Credit And Commerce Cameroon S.a.",
+      "branches": [
+        {
+          "branch_name": "Douala",
+          "city": "Douala",
+          "swift_code": "CCCBCMC10CD"
+        },
+        {
+          "branch_name": "Yaounde",
+          "city": "Yaounde",
+          "swift_code": "CCCBCMC10CY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Garoua",
+          "swift_code": "CCCBCMC1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Afriland First Bank",
+      "branches": [
+        {
+          "branch_name": "Bafoussam",
+          "city": "Bafoussam",
+          "swift_code": "CCEICMCXBAF"
+        },
+        {
+          "branch_name": "Bamenda",
+          "city": "Bamenda",
+          "swift_code": "CCEICMCXBDA"
+        },
+        {
+          "branch_name": "Douala",
+          "city": "Douala",
+          "swift_code": "CCEICMCXDLA"
+        },
+        {
+          "branch_name": "Garoua",
+          "city": "Garoua",
+          "swift_code": "CCEICMCXGRA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Yaounde",
+          "swift_code": "CCEICMCXXXX"
+        }
+      ]
+    }
+  ]
+}

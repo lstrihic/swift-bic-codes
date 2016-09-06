@@ -1,0 +1,672 @@
+{
+  "country_name": "Morocco",
+  "alpha_2": "MA",
+  "country_code": "504",
+  "banks": [
+    {
+      "bank_name": "Upline International S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Casablanca",
+          "swift_code": "UPLNMAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tanger (banque Internationale De) Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tanger",
+          "swift_code": "ITABMAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronics Morocco",
+      "branches": [
+        {
+          "branch_name": "20150 Casablanca",
+          "city": "Casablanca",
+          "swift_code": "SECTMAM1780"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Casablanca",
+          "swift_code": "SECTMAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maroclear Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Casablanca",
+          "swift_code": "MAROMAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Integra Bourse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Casablanca",
+          "swift_code": "ITBOMAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Centrale Populaire (banque) Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Casablanca",
+          "swift_code": "CRPMMAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bourse De Casablanca Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Casablanca",
+          "swift_code": "XCASMAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Tiznit",
+      "branches": [
+        {
+          "branch_name": "Tiznit",
+          "city": "Tiznit",
+          "swift_code": "BCPOMAM10MY"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Tetouan",
+      "branches": [
+        {
+          "branch_name": "Tetouan",
+          "city": "Tetouan",
+          "swift_code": "BCPOMAM10MW"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Taza",
+      "branches": [
+        {
+          "branch_name": "Taza",
+          "city": "Taza",
+          "swift_code": "BCPOMAM10MV"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Ouarzazate",
+      "branches": [
+        {
+          "branch_name": "Ouarzazate",
+          "city": "Ouarzazate",
+          "swift_code": "BCPOMAM10MS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Errachidia",
+      "branches": [
+        {
+          "branch_name": "Errachidia",
+          "city": "Errachidia",
+          "swift_code": "BCPOMAM10MJ"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Casa-sud",
+      "branches": [
+        {
+          "branch_name": "Casablanca",
+          "city": "Casablanca",
+          "swift_code": "BCPOMAM10MH"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Casa-est",
+      "branches": [
+        {
+          "branch_name": "Casablanca",
+          "city": "Casablanca",
+          "swift_code": "BCPOMAM10MG"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Meknes",
+      "branches": [
+        {
+          "branch_name": "Meknes",
+          "city": "Meknes",
+          "swift_code": "BCPOMAMCMEK"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Gharb",
+      "branches": [
+        {
+          "branch_name": "Gharb",
+          "city": "Gharb",
+          "swift_code": "BCPOMAMCGHA"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Marrakech",
+      "branches": [
+        {
+          "branch_name": "Marrakech",
+          "city": "Marrakech",
+          "swift_code": "BCPOMAMCMKH"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire El Jadida",
+      "branches": [
+        {
+          "branch_name": "El Jadida",
+          "city": "El Jadida",
+          "swift_code": "BCPOMAMCELJ"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Fes",
+      "branches": [
+        {
+          "branch_name": "Fes",
+          "city": "Fes",
+          "swift_code": "BCPOMAMCFES"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Casa-Anfa",
+      "branches": [
+        {
+          "branch_name": "Casablanca",
+          "city": "Casablanca",
+          "swift_code": "BCPOMAMCCAS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Laayoune",
+      "branches": [
+        {
+          "branch_name": "Laayoune",
+          "city": "Laayoune",
+          "swift_code": "BCPOMAMCLAY"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Berkane",
+      "branches": [
+        {
+          "branch_name": "Berkane",
+          "city": "Berkane",
+          "swift_code": "BCPOMAMCBRK"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Beni Mellal",
+      "branches": [
+        {
+          "branch_name": "Beni Mellal",
+          "city": "Beni Mellal",
+          "swift_code": "BCPOMAMCBNM"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Al Hoceima",
+      "branches": [
+        {
+          "branch_name": "Al Hoceima",
+          "city": "Al Hoceima",
+          "swift_code": "BCPOMAMCALH"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Agadir",
+      "branches": [
+        {
+          "branch_name": "Agadir",
+          "city": "Agadir",
+          "swift_code": "BCPOMAMCCES"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Marocaine Du Commerce Exterieur",
+      "branches": [
+        {
+          "branch_name": "Agence Corporate",
+          "city": "Casablanca",
+          "swift_code": "BMCEMAMCCOR"
+        },
+        {
+          "branch_name": "Compte Special Mre",
+          "city": "Casablanca",
+          "swift_code": "BMCEMAMCMRE"
+        },
+        {
+          "branch_name": "Salle Des Marches, Casablanca",
+          "city": "Casablanca",
+          "swift_code": "BMCEMAMCSDM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Casablanca",
+          "swift_code": "BMCEMAMCXXX"
+        },
+        {
+          "branch_name": "Offshore Branch Trading Room, Tangier",
+          "city": "Tanger",
+          "swift_code": "BMCEMAMCTCM"
+        },
+        {
+          "branch_name": "Offshore Branch, Tangier",
+          "city": "Tanger",
+          "swift_code": "BMCEMAMCTZF"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Marocaine Pour Le Commerce Et Lindustrie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Casablanca",
+          "swift_code": "BMCIMAMCXXX"
+        },
+        {
+          "branch_name": "Offshore Branch",
+          "city": "Tanger",
+          "swift_code": "BMCIMAMCTOF"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Al-Maghrib",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rabat",
+          "swift_code": "BKAMMAMRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Centrale Populaire",
+      "branches": [
+        {
+          "branch_name": "Dept Back Office",
+          "city": "Casablanca",
+          "swift_code": "BCPOMAMCBKO"
+        },
+        {
+          "branch_name": "Sce Documentaire",
+          "city": "Casablanca",
+          "swift_code": "BCPOMAMCDOC"
+        },
+        {
+          "branch_name": "Sce Financier",
+          "city": "Casablanca",
+          "swift_code": "BCPOMAMCFIN"
+        },
+        {
+          "branch_name": "Dept Monetiques",
+          "city": "Casablanca",
+          "swift_code": "BCPOMAMCMON"
+        },
+        {
+          "branch_name": "Tranferts Des Marocains Residants A Letranger",
+          "city": "Casablanca",
+          "swift_code": "BCPOMAMCMRE"
+        },
+        {
+          "branch_name": "Dept Reconciliation",
+          "city": "Casablanca",
+          "swift_code": "BCPOMAMCREC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Casablanca",
+          "swift_code": "BCPOMAMCXXX"
+        },
+        {
+          "branch_name": "Offschore Branch, Tangier",
+          "city": "Tanger",
+          "swift_code": "BCPOMAMCCIB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Paris",
+          "swift_code": "BCPOFRP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Attijariwafa Bank (Formerly Banque Commerciale Du Maroc)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Casablanca",
+          "swift_code": "BCMAMAMCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Attijari International Bank S.A. - Banque Off Shore",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tanger",
+          "swift_code": "AIBSMAMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Attijariwafa Bank (formerly Banque Commerciale Du Maroc",
+      "branches": [
+        {
+          "branch_name": "Attijari Intermediation",
+          "city": "Casablanca",
+          "swift_code": "BCMAMAMCATI"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Bank Plc.",
+      "branches": [
+        {
+          "branch_name": "Al Fida Avenue Branch",
+          "city": "Casablanca",
+          "swift_code": "ARABMAM10M4"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Marocaine De Banques",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Casablanca",
+          "swift_code": "UMABMAMCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Tanger Offshore",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Casablanca",
+          "swift_code": "SGTGMAMCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Marocaine De Banques",
+      "branches": [
+        {
+          "branch_name": "Cash Management International",
+          "city": "Casablanca",
+          "swift_code": "SGMBMAMCCMI"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Casablanca",
+          "swift_code": "SGMBMAMCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mediafinance",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Casablanca",
+          "swift_code": "MEDCMAMCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "La Caixa, Succursale Maroc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Casablanca",
+          "swift_code": "CAIXMAMCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Immobilier Et Hotelier",
+      "branches": [
+        {
+          "branch_name": "Departement Etranger",
+          "city": "Casablanca",
+          "swift_code": "CIHMMAMCDEP"
+        },
+        {
+          "branch_name": "Salle Des Marches",
+          "city": "Casablanca",
+          "swift_code": "CIHMMAMCSDM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Casablanca",
+          "swift_code": "CIHMMAMCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Groupe Ocp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Casablanca",
+          "swift_code": "GOCPMAMCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole Du Maroc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rabat",
+          "swift_code": "CNCAMAMRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Maghreb",
+      "branches": [
+        {
+          "branch_name": "Trade Services Department",
+          "city": "Casablanca",
+          "swift_code": "CITIMAMCTRD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Casablanca",
+          "swift_code": "CITIMAMCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cdg Capital",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rabat",
+          "swift_code": "RDGCMAMRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Du Maroc",
+      "branches": [
+        {
+          "branch_name": "Trade Center Talborjt",
+          "city": "Agadir",
+          "swift_code": "CDMAMAMC706"
+        },
+        {
+          "branch_name": "Trade Center Quaraouyine",
+          "city": "Fes",
+          "swift_code": "CDMAMAMC707"
+        },
+        {
+          "branch_name": "Trade Center Expansion",
+          "city": "Casablanca",
+          "swift_code": "CDMAMAMC700"
+        },
+        {
+          "branch_name": "Casablanca",
+          "city": "Casablanca",
+          "swift_code": "CDMAMAMC701"
+        },
+        {
+          "branch_name": "Casablanca",
+          "city": "Casablanca",
+          "swift_code": "CDMAMAMC702"
+        },
+        {
+          "branch_name": "Trade Center Centre-ville",
+          "city": "Casablanca",
+          "swift_code": "CDMAMAMC703"
+        },
+        {
+          "branch_name": "All Morocco Branches",
+          "city": "Casablanca",
+          "swift_code": "CDMAMAMCXXX"
+        },
+        {
+          "branch_name": "Trade Center Menara",
+          "city": "Marrakech",
+          "swift_code": "CDMAMAMC704"
+        },
+        {
+          "branch_name": "Trade Center Al Moustagbal",
+          "city": "Oujda",
+          "swift_code": "CDMAMAMC708"
+        },
+        {
+          "branch_name": "Trade Center Boughaz",
+          "city": "Tanger",
+          "swift_code": "CDMAMAMC705"
+        },
+        {
+          "branch_name": "Trade Center Chellah",
+          "city": "Rabat",
+          "swift_code": "CDMAMAMC709"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Tanger",
+      "branches": [
+        {
+          "branch_name": "Tanger",
+          "city": "Tanger",
+          "swift_code": "BCPOMAMCTAT"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caisse De Depot Et De Gestion",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rabat",
+          "swift_code": "CADGMAMRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Rabat",
+      "branches": [
+        {
+          "branch_name": "Rabat",
+          "city": "Rabat",
+          "swift_code": "BCPOMAMCRAB"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Oujda",
+      "branches": [
+        {
+          "branch_name": "Oujda",
+          "city": "Oujda",
+          "swift_code": "BCPOMAMCOUJ"
+        }
+      ]
+    },
+    {
+      "bank_name": "Casablanca Finance Markets",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Casablanca",
+          "swift_code": "CAFGMAMCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Nador",
+      "branches": [
+        {
+          "branch_name": "Nador",
+          "city": "Nador",
+          "swift_code": "BCPOMAMCNAD"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Barid Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rabat",
+          "swift_code": "ABBMMAMCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Safi",
+      "branches": [
+        {
+          "branch_name": "Safi",
+          "city": "Safi",
+          "swift_code": "BCPOMAMCSAF"
+        }
+      ]
+    }
+  ]
+}

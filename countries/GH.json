@@ -1,0 +1,672 @@
+{
+  "country_name": "Ghana",
+  "alpha_2": "GH",
+  "country_code": "288",
+  "banks": [
+    {
+      "bank_name": "Databank Brokerage Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "DABRGHA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Controller And Accountant-general's Department",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "CODGGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citizens Investment Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "CIINGHA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chapel Hill Denham Securities (gh) Limited",
+      "branches": [
+        {
+          "branch_name": "Chapel Hill Denham Securities (gh) Limited",
+          "city": "Accra",
+          "swift_code": "CHNCGHA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cdh Securities Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "CDHSGHA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cal Brokers Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "CABRGHA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cal Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Cal Bank Custody Services",
+          "city": "Accra",
+          "swift_code": "ACCCGHACCBS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "ACCCGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bsic Ghana Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "BSAHGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Bank Of Ghana Ltd.",
+      "branches": [
+        {
+          "branch_name": "Offshore Banking Unit",
+          "city": "Accra",
+          "swift_code": "BARCGHACOBU"
+        },
+        {
+          "branch_name": "All Branches In Ghana",
+          "city": "Accra",
+          "swift_code": "BARCGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Baroda (ghana) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "BARBGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Ghana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "BAGHGHA4XXX"
+        },
+        {
+          "branch_name": "Bank Of Ghana",
+          "city": "Accra",
+          "swift_code": "BAGHGHA5XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "BAGHGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Africa-ghana Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "AMMAGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank For Housing And Construction",
+      "branches": [
+        {
+          "branch_name": "Foreign Branch",
+          "city": "Accra",
+          "swift_code": "HCONGHA10A2"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "HCONGHA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arb Apex Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "AREXGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "African Alliance Securities Ltd",
+      "branches": [
+        {
+          "branch_name": "African Alliance Securities Ltd",
+          "city": "Accra",
+          "swift_code": "AFASGHA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Access Bank (ghana) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "ABNGGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "New World Renaissance Securities Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "NWIVGHA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merchant Bank (ghana) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Kumasi",
+          "city": "Kumasi",
+          "swift_code": "MBGHGHACKSI"
+        },
+        {
+          "branch_name": "Takoradi",
+          "city": "Takoradi",
+          "swift_code": "MBGHGHACTDI"
+        },
+        {
+          "branch_name": "Tema",
+          "city": "Tema",
+          "swift_code": "MBGHGHACTMA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "MBGHGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merban Stockbrokers Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "MSTCGHA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Magnate Financial Services Ghana Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "MFSHGHA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Commercial Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "INCEGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ic Securities (gh) Limited",
+      "branches": [
+        {
+          "branch_name": "Ic Securities (gh) Limited",
+          "city": "Accra",
+          "swift_code": "ICGHGHA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hfc Bank (ghana) Ltd",
+      "branches": [
+        {
+          "branch_name": "Custody Services",
+          "city": "Accra",
+          "swift_code": "HFCAGHACCSD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "HFCAGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Guaranty Trust Bank (ghana) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "GTBIGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intercontinental Bank Ghana Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "INHHGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gold Coast Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "GOCEGHA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Zenith Bank (ghana) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "ZEBLGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Volta River Authority",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "VRATGHA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ut Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "UTBKGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unibank Ghana Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "UBGHGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Bank For Africa (ghana) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "STBGGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trust Bank Ltd, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "TRBLGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Royal Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "TRBGGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Strategic African Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "SARSGHA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sterling Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "STSIGHA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank Ghana Limited",
+      "branches": [
+        {
+          "branch_name": "Kumasi",
+          "city": "Kumasi",
+          "swift_code": "SCBLGHACKSI"
+        },
+        {
+          "branch_name": "Securities Services Unit",
+          "city": "Accra",
+          "swift_code": "SCBLGHACSSU"
+        },
+        {
+          "branch_name": "Takoradi",
+          "city": "Takoradi",
+          "swift_code": "SCBLGHACTDI"
+        },
+        {
+          "branch_name": "Tema",
+          "city": "Tema",
+          "swift_code": "SCBLGHACTMA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "SCBLGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stanbic Bank Ghana Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "SBICGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Ghana Limited",
+      "branches": [
+        {
+          "branch_name": "Kumasi",
+          "city": "Kumasi",
+          "swift_code": "SSEBGHACKSI"
+        },
+        {
+          "branch_name": "Tamale",
+          "city": "Tamale",
+          "swift_code": "SSEBGHACTAM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "SSEBGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Social Security And National Insurance Trust",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "SSNTGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sic Brokerage Limited",
+      "branches": [
+        {
+          "branch_name": "Sic Brokerage Limited",
+          "city": "Accra",
+          "swift_code": "SICGGHA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sdc Brokerage Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "SDBRGHA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prudential Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "PUBKGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nthc Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "NTHCGHA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sabmiller Ghana",
+      "branches": [
+        {
+          "branch_name": "Sabmiller Ghana",
+          "city": "Accra",
+          "swift_code": "SABMGHA1ABL"
+        },
+        {
+          "branch_name": "Sabmiller Ghana",
+          "city": "Accra",
+          "swift_code": "SABMGHA1VGL"
+        },
+        {
+          "branch_name": "Sabmiller Ghana",
+          "city": "Accra",
+          "swift_code": "SABMGHA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ghana Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "XGHAGHA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ghana Revenue Authority",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "GHRAGHACXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "GHRAGHA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ghana Commercial Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Kumasi",
+          "city": "Kumasi",
+          "swift_code": "GHCBGHACKSI"
+        },
+        {
+          "branch_name": "Takoradi",
+          "city": "Takoradi",
+          "swift_code": "GHCBGHACTDI"
+        },
+        {
+          "branch_name": "Tema",
+          "city": "Tema",
+          "swift_code": "GHCBGHACTMA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "GHCBGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Capital Plus Bank Limited",
+      "branches": [
+        {
+          "branch_name": "First Capital Plus Bank Limited",
+          "city": "Accra",
+          "swift_code": "FCPBGHA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Atlantic Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "FAMCGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Atlantic Brokers Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "FABRGHA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fidelity Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "FBLIGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Energy Bank Ghana Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "ENRBGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Ghana",
+      "branches": [
+        {
+          "branch_name": "Accra",
+          "city": "Accra",
+          "swift_code": "ECOCGHACCUS"
+        },
+        {
+          "branch_name": "Kumasi Branch",
+          "city": "Kumasi",
+          "swift_code": "ECOCGHACKSI"
+        },
+        {
+          "branch_name": "Takoradi Branch",
+          "city": "Takoradi",
+          "swift_code": "ECOCGHACTDI"
+        },
+        {
+          "branch_name": "Tema Branch",
+          "city": "Tema",
+          "swift_code": "ECOCGHACTMA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "ECOCGHACXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ebg Stockbrokers Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "STORGHA1XXX"
+        }
+      ]
+    }
+  ]
+}

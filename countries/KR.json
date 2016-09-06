@@ -1,0 +1,2042 @@
+{
+  "country_name": "Korea (Republic of)",
+  "alpha_2": "KR",
+  "country_code": "410",
+  "banks": [
+    {
+      "bank_name": "Yamaguchi Bank, Ltd., The, Busan Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pusan",
+          "swift_code": "YMBKKR2PXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Woori Investment And Securities Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "WISHKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Woori Bank, Seoul",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "HVBKKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Woori Investment Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "KHMBKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wells Fargo Bank, N.a., Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "PNBPKRSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Overseas Bank Limited, Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "UOVBKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Securities Pte. Ltd. Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Seoul Branch",
+          "city": "Seoul",
+          "swift_code": "WAREKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shinan Bnp Paribas Asset Management Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SBPAKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shin Han Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SHHSKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shin Heung Securities Company Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SHHEKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shearson Lehman Brothers",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SHLBKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sg Securities Korea Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SGSEKRSLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sg Securities Korea Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SGSEKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Seoul Guarantee Insurance Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "KSGIKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Techwin Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Samsung Techwin Co., Ltd.",
+          "city": "Seongnam",
+          "swift_code": "SSTWKR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Securities Co.,ltd.",
+      "branches": [
+        {
+          "branch_name": "Derivates Sales Team",
+          "city": "Seoul",
+          "swift_code": "SAMCKRS1DER"
+        },
+        {
+          "branch_name": "Proprietary Trading",
+          "city": "Seoul",
+          "swift_code": "SAMCKRS1PRT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SAMCKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Securities Co.,ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SAMCKRSLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Sds Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SSDSKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Sdi Co.,ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yongin",
+          "swift_code": "SSDIKR22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Heavy Industries",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SSHIKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Everland Inc.",
+      "branches": [
+        {
+          "branch_name": "Samsung Everland Inc.",
+          "city": "Seoul",
+          "swift_code": "SEVFKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronics Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SECTKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Life Insurance Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SSLIKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electro-mechanics Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Suwon-si",
+          "swift_code": "SEMTKR22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung C And T Corporation Trading And Investment",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SCNTKRSTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Asset Management Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SITAKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung C And T Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SCNTKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Ag Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "UBSWKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "U.b.a.f.-union De Banques Arabes Et Francaises",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "UBAFKRSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tongyang Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "TYMBKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tong Yang Investment Trust Management Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "TYITKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tong Yang Investment Trust Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "TOYIKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tong Yang Investment Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "TYSEKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tong Yang Asset Management Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "TYAMKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Korea Post",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "KOPOKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Royal Bank Of Scotland Plc (seoul), Formerly Known As The Royal Bank Of Scotland N.v. (seoul",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "ABNAKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Hongkong And Shanghai Banking Corporation Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "HJCEKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Suhyup Bank (also Known As National Federation Of Fisheries Cooperatives",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "NFFCKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Bank Of New York Mellon, Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "IRVTKRSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Securities Korea Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SCKRKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank Korea Limited",
+      "branches": [
+        {
+          "branch_name": "Custodial Services Department",
+          "city": "Seoul",
+          "swift_code": "SCBLKRSEEQI"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SCBLKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale, Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SOGEKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Steet Bank And Trust Company, Korea Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SBOSKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sk Securities Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SKSEKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shinyoung Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SHSEKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shinhan Investment Corp.",
+      "branches": [
+        {
+          "branch_name": "Back Office",
+          "city": "Seoul",
+          "swift_code": "SSISKRS1BKO"
+        },
+        {
+          "branch_name": "General",
+          "city": "Seoul",
+          "swift_code": "SSISKRS1GEB"
+        },
+        {
+          "branch_name": "Management",
+          "city": "Seoul",
+          "swift_code": "SSISKRS1MGT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SSISKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shinhan Aitas Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SHFAKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ang Investment Trust Management Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "AITMKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aia International, Korea Branch",
+      "branches": [
+        {
+          "branch_name": "Aia International, Korea Branch",
+          "city": "Seoul",
+          "swift_code": "AIKRKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agricultural Bank Of China Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "ABOCKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hanil Securities Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "HANEKRS1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "HANEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rothmans Far East B.v. Korea",
+      "branches": [
+        {
+          "branch_name": "Rothmans Far East B.v. Korea",
+          "city": "Seoul",
+          "swift_code": "BATSKR31XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mirae Asset Maps Global Investments",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "MALSKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Leading Investment And Securities C O., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "LISCKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kiwoom Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "KIWSKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hanyang Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "HSECKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Securities Korea Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "DSALKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Ag, Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "DEUTKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cheil Industries Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Uiwang",
+          "swift_code": "CIISKR22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bzw Securities Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "BZSEKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "British American Tobacco Korea",
+      "branches": [
+        {
+          "branch_name": "British American Tobacco Korea",
+          "city": "Seoul",
+          "swift_code": "BATSKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Busan Bank",
+      "branches": [
+        {
+          "branch_name": "International Department Seoul",
+          "city": "Seoul",
+          "swift_code": "PUSBKR2PINT"
+        },
+        {
+          "branch_name": "Masan Branch",
+          "city": "Masan",
+          "swift_code": "PUSBKR2PMAS"
+        },
+        {
+          "branch_name": "Seoul Branch",
+          "city": "Seoul",
+          "swift_code": "PUSBKR2PSEL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Busan",
+          "swift_code": "PUSBKR2PXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "BNPAKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Securities Korea Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "BPPSKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bat Korea Manufacturing Ltd",
+      "branches": [
+        {
+          "branch_name": "Bat Korea Manufacturing Ltd",
+          "city": "Sacheon",
+          "swift_code": "BATSKR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays De Zoete Wedd Securities Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "BZWSKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Capital Securities Ltd, Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "BCSCKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Bank Plc, Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "BARCKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankers Trust International",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "BKTIKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Baro Investment Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "BRIUKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Nova Scotia, The, Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "NOSCKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Korea, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "BOKRKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Korea",
+      "branches": [
+        {
+          "branch_name": "Bank Of Korea",
+          "city": "Seoul",
+          "swift_code": "BOKRKRSTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Communications Co. Ltd Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "COMMKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of China Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Ansan Branch",
+          "city": "Ansan",
+          "swift_code": "BKCHKRSEANS"
+        },
+        {
+          "branch_name": "Daegu Branch",
+          "city": "Daegu",
+          "swift_code": "BKCHKRSEDAE"
+        },
+        {
+          "branch_name": "Guro Branch",
+          "city": "Seoul",
+          "swift_code": "BKCHKRSEGRO"
+        },
+        {
+          "branch_name": "Guro Branch",
+          "city": "Seoul",
+          "swift_code": "BKCHKRSEGUR"
+        },
+        {
+          "branch_name": "Incheon Branch",
+          "city": "Incheon",
+          "swift_code": "BKCHKRSEICN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "BKCHKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of America, N.a. Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "BOFAKR2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of America, N.a. Pusan",
+      "branches": [
+        {
+          "branch_name": "600 011 Pusan",
+          "city": "Pusan",
+          "swift_code": "BOFAKR2102P"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bilbao Vizcaya Argentaria Sa.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "BBVAKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dbs Bank Ltd, Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Seoul Branch",
+          "city": "Seoul",
+          "swift_code": "DBSSKRSEIBD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "DBSSKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daiwa Securities Capital Markets Korea Co.,ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "DSCCKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daishin Securites Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Daishin Securites Co., Ltd",
+          "city": "Seoul",
+          "swift_code": "DSSCKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daimler Trucks Korea Ltd.",
+      "branches": [
+        {
+          "branch_name": "Daimler Trucks Korea Ltd.",
+          "city": "Seoul",
+          "swift_code": "DTKRKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daewoo Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "DWSEKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daishin Asset Management",
+      "branches": [
+        {
+          "branch_name": "Daishin Asset Management",
+          "city": "Seoul",
+          "swift_code": "DAMSKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daegu Bank, Ltd.,the",
+      "branches": [
+        {
+          "branch_name": "100 070 Seoul",
+          "city": "Seoul",
+          "swift_code": "DAEBKR22SEL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Daegu",
+          "swift_code": "DAEBKR22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dae Yu Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "DAECKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dae Han Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "DAHUKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Securities (europe) Limited, Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "CSFBKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Ag, Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "CRESKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clsa Securities Korea Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "CLSAKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citigroup Global Markets Korea Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "KBSSKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Korea Inc",
+      "branches": [
+        {
+          "branch_name": "Worldlink Operation",
+          "city": "Seoul",
+          "swift_code": "CITIKRSXWLS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "CITIKRSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cimb Securities Ltd., Korea Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "CSKRKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cho Hung Securities Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "CHHEKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cheil Worldwide, Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "CIWWKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "China Construction Bank Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "PCBCKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hanwha Securities Seoul",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "HNWSKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hanwha Life Insurance",
+      "branches": [
+        {
+          "branch_name": "Hanwha Life Insurance",
+          "city": "Seoul",
+          "swift_code": "HWLIKRSEXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "HWLIKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hanshin Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "HNSEKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hanwha Investment Trust Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "HAITKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hanmag Securities Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "HASNKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hana Daetoo Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "HNDTKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hana Bank",
+      "branches": [
+        {
+          "branch_name": "Seoul",
+          "city": "Seoul",
+          "swift_code": "HNBNKRSETCS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "HNBNKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Han Yang Security Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "HAYSKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Goldman Sachs International Bank, Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "GSIBKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Goldman Sachs (asia) L.l.c. Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "GSALKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fitch Ratings Ltd (korea Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "FRIPKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eugene Investment And Securities Co.,ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SEOSKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eland World Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "ELGTKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "E Trade Korea Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "ETSIKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dream Asset Management Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "DASGKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dongsuh Securities Co Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "DOSEKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dongbu Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "DAMGKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dong Bu Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "DSEUKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kfb Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SANSKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Keimyung University",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Daegu",
+          "swift_code": "KEUNKR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kdb Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "KDBSKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kdb Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "KDAMKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kb Investment And Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "HISOKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kb Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "KBAMKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jpmorgan Chase Bank, N.a., Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Telex And S W I F T Message Enquiries",
+          "city": "Seoul",
+          "swift_code": "CHASKRSXENQ"
+        },
+        {
+          "branch_name": "Test Key And Bke Administration",
+          "city": "Seoul",
+          "swift_code": "CHASKRSXKEY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "CHASKRSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jeonbuk Bank",
+      "branches": [
+        {
+          "branch_name": "Jeonju",
+          "city": "Jeonju",
+          "swift_code": "JEONKRS1022"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "JEONKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jeju Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jeju",
+          "swift_code": "JJBKKR22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.p. Morgan Securities Asia Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "JMSAKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.p. Morgan Securities (far East) Ltd",
+      "branches": [
+        {
+          "branch_name": "Telex And S W I F T Message Enquiries",
+          "city": "Seoul",
+          "swift_code": "CHASKRSEENQ"
+        },
+        {
+          "branch_name": "Test Key And Bke Administration",
+          "city": "Seoul",
+          "swift_code": "CHASKRSEKEY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "CHASKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J. Henry Schroder Wagg And Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "JHSWKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial Bank Of Korea",
+      "branches": [
+        {
+          "branch_name": "Head Office Seoul",
+          "city": "Seoul",
+          "swift_code": "IBKOKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Indian Overseas Bank, Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "IOBAKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hyundai Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "HYSEKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hyundai Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "HYAMKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Fund Services (korea) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "HIFKKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hi Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "ASNMKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hewlett-packard Korea Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "HEKOKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kyobo Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "KYOBKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kyongnam Bank",
+      "branches": [
+        {
+          "branch_name": "International Department Seoul",
+          "city": "Seoul",
+          "swift_code": "KYNAKR22ITL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Masan",
+          "swift_code": "KYNAKR22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kyobo Life Insurance Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "KYBOKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kyobo Axa Investment Managers Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "KAIGKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Landesbank Baden-wuerttemberg, Seoul",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "SOLAKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kwangju Bank Ltd, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "KWABKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ktb Investment And Securities Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "BRNAKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ktb Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "KTAMKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Korea Trade Insurance Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "KEXIKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Korea Securities Finance Corporation (ksfc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "KOSFKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Korea Securities Depository",
+      "branches": [
+        {
+          "branch_name": "Fundoperatiom Team",
+          "city": "Seoul",
+          "swift_code": "KSDCKRSEFOT"
+        },
+        {
+          "branch_name": "Fund Settlement Team",
+          "city": "Seoul",
+          "swift_code": "KSDCKRSEFUN"
+        },
+        {
+          "branch_name": "Kdr Team",
+          "city": "Seoul",
+          "swift_code": "KSDCKRSEKDR"
+        },
+        {
+          "branch_name": "Securities Lending And Borrowing",
+          "city": "Seoul",
+          "swift_code": "KSDCKRSESLB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "KSDCKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Korea Long Term Bank Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "KLTEKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Korea Investment Trust Management Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "KITNKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Korea Investment And Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "KISEKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Korea Financial Telecommunications And Clearing Institute",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "KFTCKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Korea Finance Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "KOFCKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Korea Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Busan",
+          "swift_code": "KORXKR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kleinwort Benson Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "KLBCKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kiwoom Securities Co,. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "KIWCKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mirae Asset Investment Management Co Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "MAVAKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mirae Asset Global Investments",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "MAONKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mirae Asset Fund Services",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "MRFSKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch International, Seoul Office",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "MLKRKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch International Incorporated Inc, Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "MLKRKR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch And Company Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "MLCOKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meritz Securities Co.,ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "KFBCKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meritz Asset Management",
+      "branches": [
+        {
+          "branch_name": "Meritz Asset Management",
+          "city": "Seoul",
+          "swift_code": "MEEMKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercedes-benz Korea Limited",
+      "branches": [
+        {
+          "branch_name": "Mercedes-benz Korea Limited",
+          "city": "Seoul",
+          "swift_code": "MBKRKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercedes-benz Financial Services Korea Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "MBFKKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meritz Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "HAISKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Macquarie Securities Korea Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "BSKLKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Macquarie Bank Limited, Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "MACQKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lotte Chemical Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "LTCHKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lg Electronics Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "LGETKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lg Display",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "LGDTKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lg Cns Co.,ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "LGCNKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbs Asia Limited (seoul) Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "HGASKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prudential Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "PBSIKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oversea-chinese Banking Coporation Limited, Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "OCBCKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nonghyup Bank (formerly Known As National Agricultural Cooperative Federation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "NACFKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nomura Financial Investment (korea) Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "NFIKKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nike Sports Korea Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "NIKEKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nh-ca Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "NHAMKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nh Investment And Securities Co.,ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "HNISKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Newedge Financial Hong Kong Limited, Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "NEWGKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "New Japan Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "NJSCKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Pension Service Fund Management Center Management Center",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "NPSFKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Pakistan, Seoul Branch Korea",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "NBPAKRSIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nacfca Itmc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "NACIKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Morgan Stanley Bank International Limited, Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "MSBKKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Morgan Stanley And Co. International Plc, Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "MSKRKRSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Morgan Stanley And Co Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "MSNYKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Morgan Grenfell",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "MGCOKRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mizuho Bank, Ltd., Seoul Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "MHCBKRSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mirae Asset Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "MIAEKRSEXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Seoul",
+          "swift_code": "MIAEKRS1XXX"
+        }
+      ]
+    }
+  ]
+}

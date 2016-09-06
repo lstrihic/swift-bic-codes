@@ -1,0 +1,3672 @@
+{
+  "country_name": "Philippines",
+  "alpha_2": "PH",
+  "country_code": "608",
+  "banks": [
+    {
+      "bank_name": "Philippine Commercial Capital, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Makati City",
+          "swift_code": "PHCCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Philippine Business Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caloocan City",
+          "swift_code": "PPBUPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Peregrine Securities Phils Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PESPPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pdcp Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cebu",
+          "swift_code": "PRBPPH21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PRBPPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pcci Securities Brokers Corporation",
+      "branches": [
+        {
+          "branch_name": "Pcci Securities Brokers Corporation",
+          "city": "Makati City",
+          "swift_code": "PSBOPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Partner Rural Bank (cotabato), Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pigcawayan",
+          "swift_code": "PRTOPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Summa International Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "ILBSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rural Bank Of Pandi (bulacan), Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pandi",
+          "swift_code": "RPBUPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "R And L Investments, Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "RLINPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Quezon Capital Rural Bank, Incorporated",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lucena City",
+          "swift_code": "QCRIPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Queen City Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Iloilo",
+          "swift_code": "QCDFPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Quality Investment And Securities Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "QUISPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Producers Savings Bank Corporation One San Miguel Avenue",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pasig City",
+          "swift_code": "PSCOPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Probity Securities Management Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PROTPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Premium Securities Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PREMPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Premiere Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PRDEPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pnb Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PNBBPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yu Heng Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pasay City",
+          "swift_code": "HENEPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yu And Company, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "YUOYPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yaptinchay Sec. Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "YAPTPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yao And Zialcita Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "YAOZPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Worldsec International Securities Philippines Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "WISPPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wong Securities Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "WONGPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Womens Rural Bank, Inc.",
+      "branches": [
+        {
+          "branch_name": "Womens Rural Bank, Inc.",
+          "city": "Batangas",
+          "swift_code": "WORUPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wolff And Co. Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "WOLFPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Westin Securities Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "WESNPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vicsal Securities And Stockbrokerage Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "VICAPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vicente Goquiolay And Co., Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "VICGPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Venture Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "VENTPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Valiant Bank, Inc. (a Rural Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Iloilo",
+          "swift_code": "VARUPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uy-tioco And Co. Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "TIOCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uob-kay Hian Securities (philippines), Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "UKHCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unicapital Securities,inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "UCSEPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ucpb Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "CPBBPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pnb Republic Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "RPBAPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Platinum Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PLAIPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Planters Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PLDEPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Planbank Rural Bank Of Canlubang Planters, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Calamba",
+          "swift_code": "PRNPPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pierce Interlink Sec. Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PIEIPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Philippines Asia Equity Sec. Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PAESPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Philippine Stock Exchange, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pasig City",
+          "swift_code": "XPHSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Philippine Postal Savings Bank, Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PHSVPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Philippine Postal Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PPOSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Philippine Equity Partners Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PEQPPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Philippine Depository Trust Corp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PHCDPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rural Bank Of Pagbilao Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pagbilao",
+          "swift_code": "RUPAPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rural Bank Of Odiongan Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Batangas",
+          "swift_code": "RUODPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rural Bank Of New Washington (aklan) Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "New Washington",
+          "swift_code": "RNWAPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rural Bank Of Mabalacat, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mabalacat",
+          "swift_code": "RUMAPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rural Bank Of Liloy (zn), Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dipolog City",
+          "swift_code": "LILOPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rural Bank Of Jaen, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jaen",
+          "swift_code": "RUJAPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rural Bank Of Guinobatan, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guinobatan",
+          "swift_code": "RUGUPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rural Bank Of Cauayan Inc.",
+      "branches": [
+        {
+          "branch_name": "Rural Bank Of Cauayan Inc.",
+          "city": "Cauayan",
+          "swift_code": "RBCYPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rural Bank Of Camalig (albay) Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Legazpi",
+          "swift_code": "RUCAPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rtg And Co. Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "RTGCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Robinsons Bank Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quezon City",
+          "swift_code": "ROBPPHMQXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rfm Capital Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "RFCAPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Regina Capital Development Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "REGIPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rcbc Savings Bank, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Makati City",
+          "swift_code": "RCSAPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rcbc Capital Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "RCCOPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbs Asia Securities, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "HGASPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rashind Hussain Securities (philippines) Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "RAHSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "R.s. Lim And Co. Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "LIMSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "R. Nubla Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "NUBLPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sterling Bank Of Asia Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Juan",
+          "swift_code": "STLAPH21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Investment Trust, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mandaluyong City",
+          "swift_code": "STIUPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Securities Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "STACPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ssi-systems Standards Incorporated",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "SSSTPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Squire Securities, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "SUIRPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Solar Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "SOLRPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sg Securities (philippines),inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "SGSEPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Securities Specialists Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "SECLPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Secured Bank, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cagayan De Oro City",
+          "swift_code": "SBRBPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sb Equities Incorporated",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "EQICPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saviour Rural Bank, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lubao",
+          "swift_code": "SAUAPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sapphire Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "SAPPPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronics Philippines Corp.",
+      "branches": [
+        {
+          "branch_name": "Sepco",
+          "city": "Taguig",
+          "swift_code": "SECTPHM15B0"
+        },
+        {
+          "branch_name": "Sephil",
+          "city": "Calamba",
+          "swift_code": "SECTPHM15B1"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taguig",
+          "swift_code": "SECTPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Salisbury Bkt Securities Corporation (formerly: Public Securities Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Makati",
+          "swift_code": "PUBLPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "S.j. Roxas And Company, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "SJROPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rural Bank Of Tangub City Inc.",
+      "branches": [
+        {
+          "branch_name": "Rural Bank Of Tangub City Inc.",
+          "city": "Tangub",
+          "swift_code": "RUTCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rural Bank Of Sta. Ignacia, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santa",
+          "swift_code": "RUSGPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rural Bank Of San Luis (batangas),",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Luis",
+          "swift_code": "RSLSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rural Bank Of San Jose (camarines Sur), Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Camarines Sur",
+          "swift_code": "RSJCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ucpb Savings Bank, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Makati City",
+          "swift_code": "UCSVPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Securities Philippines Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "SWDEPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubp Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "UBPPPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tri-state Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "TRITPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trendline Securities Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "TRENPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Transnational Securities, Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "TRAOPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trans-asia Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "TRAAPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Traders Royal Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "TRBFPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Toyota Financial Services Philippines, Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Makati City",
+          "swift_code": "TFSHPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tower Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "TOWRPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tiaong Rural Bank, Inc.",
+      "branches": [
+        {
+          "branch_name": "Tiaong Rural Bank, Inc.",
+          "city": "Tiaong",
+          "swift_code": "TRULPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Real Bank (a Thrift Bank), Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quezon City",
+          "swift_code": "RETHPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Philippine American Life And General Insurance Company",
+      "branches": [
+        {
+          "branch_name": "The Philippine American Life And General Insurance Company",
+          "city": "Manila",
+          "swift_code": "PALGPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Palawan Bank (palawan Development Bank, Inc.).",
+      "branches": [
+        {
+          "branch_name": "The Palawan Bank (palawan Development Bank, Inc.).",
+          "city": "Puerto",
+          "swift_code": "PAPDPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tansengco And Company Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "TANGPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ta Bank Of The Philippines Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pasig City",
+          "swift_code": "PHIIPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Supreme Stockbroker Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "SUPMPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sun Savings Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Talisay City Cebu",
+          "swift_code": "SUSVPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Summit Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "SUMMPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Summit Rural Bank Of Lipa City, Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lipa City",
+          "swift_code": "SRLCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Papa Securities Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PAPSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pan Asia Securities Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PANIPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pacific Basin Sec. Co. Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PACAPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pacific Ace Savings Bank",
+      "branches": [
+        {
+          "branch_name": "Pacific Ace Savings Bank",
+          "city": "Olongapo",
+          "swift_code": "PASVPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Overseas Union Bank Limited, Manila Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "OUBKPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orix Metro Leasing And Finance Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Makati City",
+          "swift_code": "OMLFPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orientrade Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "ORIEPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Optimum Securities Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "OPTMPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Optimum Developement Bank. Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mandaluyong City",
+          "swift_code": "OPDVPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "One Network Bank, Inc. (a Rural Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Davao City",
+          "swift_code": "ONNRPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ocbc Securities (philippines) Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "OSPNPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nieves Sanchez Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "NIESPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "New World Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "NEWCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nestle Business Services Aoa Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "NESNPHMNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Globalinks Securities And Stocks, Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "GLSTPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Business Holdings Inc.",
+      "branches": [
+        {
+          "branch_name": "Dasmarinas Branch",
+          "city": "Manila",
+          "swift_code": "PCBAPHM10MB"
+        },
+        {
+          "branch_name": "Cebu Branch",
+          "city": "Cebu",
+          "swift_code": "PCBAPHM10MC"
+        },
+        {
+          "branch_name": "Davao Branch",
+          "city": "Davao",
+          "swift_code": "PCBAPHM10MD"
+        },
+        {
+          "branch_name": "Port Area Branch",
+          "city": "Manila",
+          "swift_code": "PCBAPHM10MP"
+        },
+        {
+          "branch_name": "Cubao Branch",
+          "city": "Quezon City",
+          "swift_code": "PCBAPHM10MQ"
+        },
+        {
+          "branch_name": "Ortigas Branch",
+          "city": "San Juan",
+          "swift_code": "PCBAPHM10MS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PCBAPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Genesis Global Securities, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "GEGSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ge Money Bank, Inc. (a Savings Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quezon City",
+          "swift_code": "GEMPPH21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "G.k. Goh Securities (philippines) Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "GKGSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "G.d. Tan And Co Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "TANNPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "G And L Securities Co., Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "SERTPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Municipal Rural Bank Of Libmanan (cs), Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Camarines Sur",
+          "swift_code": "MURLPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Luy's Securities Co Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "LUYSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intra-invest Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "INIEPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Insular Life Savings And Trust Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "ILSTPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Indosuez W.i. Carr Securities (philippines) Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "WICAPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Imperial De Guzman, Abalos And Co Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "IMGAPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Igc Securities, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "IGCSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "I.b. Gimenez Securities, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "GIMSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "I. Ackerman And Co Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "ACKEPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Savings Bank (philipines) Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "HBPHPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Home Savings Bank And Trust Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "HSBTPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hk Securities, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "SEREPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hiyas Banking Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sta. Maria",
+          "swift_code": "HIYCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Highland Securities Phils. Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "HISHPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hang Tsun Securities (phils",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "HTSPPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hdi Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "HDISPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "H.e. Bennett Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BENCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Guoco Securities (phils) Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "GUSPPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Guild Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "GUISPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Guagua Rural Bank, Inc.",
+      "branches": [
+        {
+          "branch_name": "Guagua Rural Bank, Inc.",
+          "city": "Guagua",
+          "swift_code": "GRBUPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gsis Family Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pasig City",
+          "swift_code": "GSFAPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Goldstar Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "GOLCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lucky Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "LUCSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lopez, Locsin, Ledesma And Co Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "LOLLPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Litonjua Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "LITSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lipa Bank Inc.-a Rural Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lipa City",
+          "swift_code": "LIRUPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Legazpi Savings Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Legazpi",
+          "swift_code": "LESIPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Larrgo Securities Co Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "LARCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "L.m. Garcia And Associates, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "GARSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kim Eng Securities Philippines Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "KMESPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Key Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "KEYSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kerry Securities (phils), Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "KERSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Keppel Securities Philippines Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "KESPPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Keppel Bank Philippines, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "KEPHPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Katipunan Bank (zn), Inc. A Rural Bank",
+      "branches": [
+        {
+          "branch_name": "Katipunan Bank (zn), Inc. A Rural Bank",
+          "city": "Dipolog City",
+          "swift_code": "KRBFPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jenn Woei Securities, Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "JEWSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Janiuay Rural Bank, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Iloilo City",
+          "swift_code": "JARUPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.p. Morgan Securities Philippines Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "CHASPHS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.m. Barcelon And Co Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BARNPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Isla Bank (a Thrift Bank), Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "ISTHPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investors Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "INVUPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Multinational Investment Bancorporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "MUIAPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mount Peak Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "MOPSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Morgan Grenfell Phils Sec. Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "MGPSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Microfinance Maximum Savings Bank,inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Puerto",
+          "swift_code": "MIMVPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch Securities Philippines Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "MLSPPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Metrobank Card Corporation (a Finance Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Makati City",
+          "swift_code": "MCCEPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meridian Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "MERTPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merchants Savings And Loan Association, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Makati City",
+          "swift_code": "MSLSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercantile Securities Corp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "MERUPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mdr Securities, Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "MDRSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Market Capital And Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "MACCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mark Securities Corp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "MAKCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Marian Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "MAIEPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Manila Banking Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "MABCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mandarin Securities Corp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "MANUPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Malayan Bank Savings And Mortgage Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "MAARPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Macquarie Capital Securities (philippines) Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "INBLPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "M.d. Bondoc And Co Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BONOPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Luzon Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "LUDVPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Francisco Ortigas Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "FROEPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortune Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "FOTRPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Ressources Management And Securities Corporation,the",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "FIRRPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Peninsula Securities Corp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "FIPSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Pacific Bancorp, Llc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valenzuela",
+          "swift_code": "FPBCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Orient Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "FIOSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Metro Securities Brokerage Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Makati",
+          "swift_code": "FMSOPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Metro Investment Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "FMICPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Integrated Capital Securities, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "FICEPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Consolidated Bank Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tagbilaran",
+          "swift_code": "FIOOPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finvest Securities Co Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "FINUPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Filidian Rural Bank Of Antipolo,inc",
+      "branches": [
+        {
+          "branch_name": "Filidian Rural Bank Of Antipolo,inc",
+          "city": "Antipolo",
+          "swift_code": "FRUNPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Far East Bank And Trust Co, Foreign Currency Deposit Unit (fcdu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "FEBTPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank N.A. Manila Branch",
+      "branches": [
+        {
+          "branch_name": "Cebu",
+          "city": "Cebu",
+          "swift_code": "CITIPHMXCBU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "CITIPHMXXXX"
+        },
+        {
+          "branch_name": "Ibg-treasury Services Unit",
+          "city": "Manila",
+          "swift_code": "CITIPHMXTSU"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Savings Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quezon City",
+          "swift_code": "CITIPH2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chinatrust (Phils.) Commercial Bank Manila",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "CTCBPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "China Banking Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "CHBKPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bdo Private Bank Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BOPBPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Manila Offshore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BNPAPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bdo Unibank Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BNORPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of The Philippine Islands",
+      "branches": [
+        {
+          "branch_name": "Treasury Group",
+          "city": "Manila",
+          "swift_code": "BOPIPHMMTRY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BOPIPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of China Manila Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BKCHPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of America N.A. Manila",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BOFAPH2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Commerce",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PABIPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bangkok Bank Public Company Limited Manila Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BKKBPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bangko Sentral Ng Pilipinas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PHCBPHMDXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PHCBPHMMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PHCBPHMCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asia United Bank Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pasig City",
+          "swift_code": "AUBKPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "David Go Securities Corp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "DAVSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dao Heng Bank Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "DHBIPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cualoping Securities Corp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "CUASPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bpi Direct",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BPDIPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Century Savings Bank Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pasig City",
+          "swift_code": "CESNPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Allied Savings Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Makati City",
+          "swift_code": "ALSGPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "All Asia Securities Management Corp.",
+      "branches": [
+        {
+          "branch_name": "Manila",
+          "city": "Manila",
+          "swift_code": "AASSPHM10MM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cebu",
+          "swift_code": "AASSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al-amanah Islamic Investment Bank Of The Philippines",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Makati City",
+          "swift_code": "AIIPPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Balanga Rural Bank, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Balanga",
+          "swift_code": "BRULPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taiwan Cooperative Bank Manila Offshore Banking Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "TACBPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Security Bank Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "SETCPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rizal Commercial Banking Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "RCBCPHMMXXX"
+        },
+        {
+          "branch_name": "Foreign Currency Deposit Unit-fcdu",
+          "city": "Manila",
+          "swift_code": "RCBCPH21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Philippine Veterans Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PHVBPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Philippine Savings Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PHSBPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Philtrust Bank (Philippine Trust Company)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PHTBPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Crosby Securities (phils) Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "CRSEPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Philippine Bank Of Communications",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "CPHIPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Metropolitan Bank And Trust Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "MBTCPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mega International Commercial Bank Co. Ltd. Manila Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "ICBCPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mizuho Bank Ltd. Manila Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "MHCBPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Land Bank Of The Philippines",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "TLBPPHMMXXX"
+        },
+        {
+          "branch_name": "8000 Davao",
+          "city": "Davao",
+          "swift_code": "TLBPPHM10M2"
+        },
+        {
+          "branch_name": "Iloilo",
+          "city": "Iloilo",
+          "swift_code": "TLBPPHM10M3"
+        },
+        {
+          "branch_name": "General Santos",
+          "city": "General Santos",
+          "swift_code": "TLBPPHM10M4"
+        },
+        {
+          "branch_name": "Cebu",
+          "city": "Cebu",
+          "swift_code": "TLBPPHM10MC"
+        },
+        {
+          "branch_name": "Quezon City",
+          "city": "Quezon City",
+          "swift_code": "TLBPPHM10MQ"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maybank Philippines Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "MBBEPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jpmorgan Chase Bank N.A. Manila Branch",
+      "branches": [
+        {
+          "branch_name": "Offhore Banking Unit",
+          "city": "Manila",
+          "swift_code": "CHASPHMMOBU"
+        },
+        {
+          "branch_name": "Telex And S W I F T Message Enquiries",
+          "city": "Manila",
+          "swift_code": "CHASPHMMENQ"
+        },
+        {
+          "branch_name": "Test Key And Bke Administration",
+          "city": "Manila",
+          "swift_code": "CHASPHMMKEY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "CHASPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "East West Banking Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "EWBCPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ba Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BATTPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Development Bank Of The Philippines",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "DBPHPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aurora Securities, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "AURSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "B. H. Chua Securities Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BHCHPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atc Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "ATCSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asiasec Equities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "ASESPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Astra Securities Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "ASTSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asiatrust Bank",
+      "branches": [
+        {
+          "branch_name": "Antipolo",
+          "city": "Antipolo",
+          "swift_code": "ATDBPHM10M2"
+        },
+        {
+          "branch_name": "Bacoor",
+          "city": "Bacoor",
+          "swift_code": "ATDBPHM10M3"
+        },
+        {
+          "branch_name": "Caloocan City",
+          "city": "Caloocan City",
+          "swift_code": "ATDBPHM10M4"
+        },
+        {
+          "branch_name": "Masinag Branch",
+          "city": "Antipolo",
+          "swift_code": "ATDBPHM10M5"
+        },
+        {
+          "branch_name": "New Manila Branch",
+          "city": "Quezon City",
+          "swift_code": "ATDBPHM10M6"
+        },
+        {
+          "branch_name": "Pasay City",
+          "city": "Pasay City",
+          "swift_code": "ATDBPHM10M7"
+        },
+        {
+          "branch_name": "Del Monte Branch",
+          "city": "Quezon City",
+          "swift_code": "ATDBPHM10M8"
+        },
+        {
+          "branch_name": "Roosevelt Branch",
+          "city": "Quezon City",
+          "swift_code": "ATDBPHM10MA"
+        },
+        {
+          "branch_name": "Salcedo Branch",
+          "city": "Manila",
+          "swift_code": "ATDBPHM10MB"
+        },
+        {
+          "branch_name": "San Juan",
+          "city": "San Juan",
+          "swift_code": "ATDBPHM10MC"
+        },
+        {
+          "branch_name": "Santiago",
+          "city": "Santiago",
+          "swift_code": "ATDBPHM10MD"
+        },
+        {
+          "branch_name": "Tutuban Centermall Branch",
+          "city": "Tondo",
+          "swift_code": "ATDBPHM10ME"
+        },
+        {
+          "branch_name": "Valenzuela",
+          "city": "Valenzuela",
+          "swift_code": "ATDBPHM10MF"
+        },
+        {
+          "branch_name": "Pasong Tamo Branch",
+          "city": "Manila",
+          "swift_code": "ATDBPHM10MM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Quezon City",
+          "swift_code": "ATDBPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atr-kim Eng Securities, Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "ATSCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asi Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "ASISPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asia Pacific Capital Equities And Sec. Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quezon City",
+          "swift_code": "APCEPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Armstrong Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "ARMEPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ansaldo, Godinez And Company, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "ANSGPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amon Securities Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "AMONPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Angping And Associates",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "ANGPPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amethyst Securities Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "AMECPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hongkong And Shanghai Banking Corporation Limited The",
+      "branches": [
+        {
+          "branch_name": "Cebu Branch",
+          "city": "Cebu",
+          "swift_code": "HSBCPHMMCEB"
+        },
+        {
+          "branch_name": "Custody And Clearing",
+          "city": "Manila",
+          "swift_code": "HSBCPHMMSEC"
+        },
+        {
+          "branch_name": "Mnl Treasury Department",
+          "city": "Manila",
+          "swift_code": "HSBCPHMMTRY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taguig City",
+          "swift_code": "HSBCPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asiatrust Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quezon City",
+          "swift_code": "ASDVPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alpha Securities Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "ALPCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Anscor-hagedorn Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "ANSCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asian Oceanic Merit Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "AOMSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agj Securities Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "AGJSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aig-philam Savings Bank, Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "PHSAPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aboitiz Equity Ventures Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cebu",
+          "swift_code": "ABTZPH21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abacus Securities Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "ABAEPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abacus Capital And Investment Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pasig City",
+          "swift_code": "ACICPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aaa Southeast Equities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "AASQPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "A.t. De Castro Securities Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "CASUPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "A And A Securities, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "SEUUPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "1st Macro Bank, Inc. (a Rural Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pateros",
+          "swift_code": "MCRUPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Overseas Bank Philippines",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "UOVBPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Coconut Planters Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "UCPBPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Bank Of The Philippines",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pasig City",
+          "swift_code": "UBPHPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tong Yang Savings Bank Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "TYBKPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jardine Fleming",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "JFLEPHM1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "JFLEIDJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cantilan Bank, Inc. (a Rural Bank",
+      "branches": [
+        {
+          "branch_name": "Cantilan Bank, Inc. (a Rural Bank",
+          "city": "Cantilan",
+          "swift_code": "CNRLPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cathay Securities, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "CATSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bzw (asia) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BWWAPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bureau Of The Treasury",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BUTRPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Campos, Lanuza And Co. Inc.",
+      "branches": [
+        {
+          "branch_name": "Manila",
+          "city": "Manila",
+          "swift_code": "CALAPHM10M2"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "CALAPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bsp-pfo Provident Fund",
+      "branches": [
+        {
+          "branch_name": "Bsp-pfo Provident Fund",
+          "city": "Manila",
+          "swift_code": "BPRFPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bsp-pfo Longevity Trust Fund",
+      "branches": [
+        {
+          "branch_name": "Bsp-pfo Longevity Trust Fund",
+          "city": "Manila",
+          "swift_code": "BLTFPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bsp-pfo Car Plan Fund",
+      "branches": [
+        {
+          "branch_name": "Bsp-pfo Car Plan Fund",
+          "city": "Manila",
+          "swift_code": "BCPFPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bt Brokerage (phils), Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BRKPPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bsp-pfo Amd-pfo Housing Program",
+      "branches": [
+        {
+          "branch_name": "Bsp-pfo Amd-pfo Housing Program",
+          "city": "Manila Metro",
+          "swift_code": "BPFCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bsp Branch Open Account Spc",
+      "branches": [
+        {
+          "branch_name": "Bsp Branch Open Account Spc",
+          "city": "Quezon City",
+          "swift_code": "BBOAPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bsp-pfo Housing Fund",
+      "branches": [
+        {
+          "branch_name": "Bsp-pfo Housing Fund",
+          "city": "Manila",
+          "swift_code": "BHFUPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "British American Tobacco Philippines Ltd.",
+      "branches": [
+        {
+          "branch_name": "British American Tobacco Philippines Ltd.",
+          "city": "Muntinlupa",
+          "swift_code": "BATSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bpi Securities Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BPISPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ab Capital And Investment Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "CAVPPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bpi Leasing Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BPLIPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bpi Card Finance",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BPCNPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bpi Globe Banko Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Makati City",
+          "swift_code": "BPGOPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Peregrine Securities, Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BPPSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bernad Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BEREPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bpi Family Savings Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Makati",
+          "swift_code": "BPFSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bpi Capital Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BPAPPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Benjamin Co Ca And Co Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BENJPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bdo Elite Savings Bank, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taguig City",
+          "swift_code": "BDESPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Belson Securities, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BELCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barcelon Roxas Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BROXPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank One Savings And Trust Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "ONSTPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Makati (a Rural Bank), Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Makati City",
+          "swift_code": "MKRUPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bpi Family Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BPFFPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Lubao (a Rural Bank) Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lubao",
+          "swift_code": "LURUPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bpi-philam Life Insurance Corporation",
+      "branches": [
+        {
+          "branch_name": "Bpi-philam Life Insurance Corporation",
+          "city": "Makati City",
+          "swift_code": "BLIRPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Florida, Inc. (a Rural Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Fernando",
+          "swift_code": "FLRUPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bangko Rural Ng Pasacao (cs), Incorporated",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pasacao, Camarines Sur",
+          "swift_code": "RUPIPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bangko Nuestra Senora Del Pilar Inc. (a Rural Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Simon",
+          "swift_code": "NSPRPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco San Vicente, Inc. (a Rural Bank",
+      "branches": [
+        {
+          "branch_name": "Banco San Vicente, Inc. (a Rural Bank",
+          "city": "San Vicente",
+          "swift_code": "SAVRPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bangko Mabuhay (rural Bank Of Tanza (cavite), Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tanza",
+          "swift_code": "MRTCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "F. Yap Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "YAPSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Evergreen Stock Brokerage And Securities, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "ESBEPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Filipino Savings And Mortgage Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "FIAOPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Equitiworld Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "EQUSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Dharmala",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mandaluyong",
+          "swift_code": "BADAPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Equicom Savings Bank, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Makati City",
+          "swift_code": "EQSNPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Equitable Securities (phils.) Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "EQSPPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Enterprise Bank Inc. (a Thrift Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Del Sur",
+          "swift_code": "ENTHPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eib Securities, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "EISEPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eastern Securities Development Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "EASDPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "East Coast Rural Bank Of Hagonoy, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hagonoy Bulacan",
+          "swift_code": "ECRHPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Entrepreneur Rural Bank, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Pedro",
+          "swift_code": "ENRUPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dungganon Bank (a Microfinance Thrift Bank), Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bacolod City",
+          "swift_code": "DUMTPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "East West Capital Corp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "EAWCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Diversified Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "DIVSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dumaguete City Development Bank,inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dumaguete",
+          "swift_code": "DCDEPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dharmala Securities (phils) Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "DHSPPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Regis Partners Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "TWENPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dbp-daiwa Securities (phils.), Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "DSPHPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "E. Chua Chiaco Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "CHCSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dbs Securities (phils) Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "DBSPPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dbp-daiwa Capital Markets Philippines, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "DBSHPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Manila, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "CMANPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Securities (philippines) Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Makati",
+          "swift_code": "CRESPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Coyiuto Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "COYIPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Country Builders Bank Inc. (a Rural Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taguig City",
+          "swift_code": "COUKPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Lyonnais Securities Philippines Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "CLSAPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Connell Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "COSCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Bank Of Manila",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "COBMPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commonwealth Bank/savings And Loan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "CBSLPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citytrust Securities Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "CITRPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citystate Savings Bank, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pasig City",
+          "swift_code": "CIVVPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citisecurities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "CITSPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "CIVPPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corinthian Securities, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "CORCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bfe Financial Svcs. And Consultancy, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "BFSCPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Century Securities Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "CENEPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "China Bank Savings, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Makati City",
+          "swift_code": "CHSVPHM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "City Savings Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cebu City",
+          "swift_code": "CIVAPHM1XXX"
+        }
+      ]
+    }
+  ]
+}

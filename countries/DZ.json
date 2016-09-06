@@ -1,0 +1,1082 @@
+{
+  "country_name": "Algeria",
+  "alpha_2": "DZ",
+  "country_code": "012",
+  "banks": [
+    {
+      "bank_name": "Union Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "UBDZDZA1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ramallah",
+          "swift_code": "UBSIPS22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trust Bank Algeria",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "TBALDZALXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Algerie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "SOGEDZALXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Natixis Algerie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "NATXDZALXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "BFCEDZALXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Algeria",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "HSBCDZALXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Housing Bank For Trade And Finance Algeria",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "HBHODZALXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fransabank El Djazair Spa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "FSBKDZALXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Epic Algerie Poste",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "EPALDZALXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Populaire D'algerie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "CPALDZALXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole Corporate And Investment Bank Algerie, Spa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "BSUIDZALXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank N.a. Algeria",
+      "branches": [
+        {
+          "branch_name": "Trade Services Dept",
+          "city": "Algiers",
+          "swift_code": "CITIDZALTRD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "CITIDZALXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caisse Nationale D'epargne Et De Prevoyance-banque",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "EPPRDZALXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caisse Algerienne D'assurance Et De Reassurance",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "AASRDZA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas El Djazair",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "BNPADZALXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Nationale D'algerie",
+      "branches": [
+        {
+          "branch_name": "Chlef",
+          "city": "Chlef",
+          "swift_code": "BNALDZAL260"
+        },
+        {
+          "branch_name": "Ghardaia",
+          "city": "Ghardaia",
+          "swift_code": "BNALDZAL291"
+        },
+        {
+          "branch_name": "03000 Laghouat",
+          "city": "Laghouat",
+          "swift_code": "BNALDZAL301"
+        },
+        {
+          "branch_name": "Bejaia",
+          "city": "Bejaia",
+          "swift_code": "BNALDZAL356"
+        },
+        {
+          "branch_name": "Biskra",
+          "city": "Biskra",
+          "swift_code": "BNALDZAL386"
+        },
+        {
+          "branch_name": "Bechar",
+          "city": "Bechar",
+          "swift_code": "BNALDZAL412"
+        },
+        {
+          "branch_name": "Boufarik",
+          "city": "Boufarik",
+          "swift_code": "BNALDZAL430"
+        },
+        {
+          "branch_name": "Staoueli",
+          "city": "Algiers",
+          "swift_code": "BNALDZAL440"
+        },
+        {
+          "branch_name": "Kolea",
+          "city": "Kolea",
+          "swift_code": "BNALDZAL441"
+        },
+        {
+          "branch_name": "Blida",
+          "city": "Blida",
+          "swift_code": "BNALDZAL442"
+        },
+        {
+          "branch_name": "Bouira",
+          "city": "Bouira",
+          "swift_code": "BNALDZAL460"
+        },
+        {
+          "branch_name": "Tamanrasset",
+          "city": "Tamanrasset",
+          "swift_code": "BNALDZAL473"
+        },
+        {
+          "branch_name": "Tebessa",
+          "city": "Tebessa",
+          "swift_code": "BNALDZAL491"
+        },
+        {
+          "branch_name": "Tlemcen",
+          "city": "Tlemcen",
+          "swift_code": "BNALDZAL512"
+        },
+        {
+          "branch_name": "Abou Tachfine",
+          "city": "Tlemcen",
+          "swift_code": "BNALDZAL526"
+        },
+        {
+          "branch_name": "Tlemcen Branch",
+          "city": "Tlemcen",
+          "swift_code": "BNALDZAL527"
+        },
+        {
+          "branch_name": "Tiaret",
+          "city": "Tiaret",
+          "swift_code": "BNALDZAL540"
+        },
+        {
+          "branch_name": "Tizi-ouzou 581",
+          "city": "Tizi-ouzou",
+          "swift_code": "BNALDZAL581"
+        },
+        {
+          "branch_name": "Tizi-ouzou 583",
+          "city": "Tizi-ouzou",
+          "swift_code": "BNALDZAL583"
+        },
+        {
+          "branch_name": "Guevara",
+          "city": "Algiers",
+          "swift_code": "BNALDZAL599"
+        },
+        {
+          "branch_name": "Annaba 810",
+          "city": "Annaba",
+          "swift_code": "BNALDZAL810"
+        },
+        {
+          "branch_name": "Annaba 811",
+          "city": "Annaba",
+          "swift_code": "BNALDZAL811"
+        },
+        {
+          "branch_name": "Constantine 832",
+          "city": "Constantine",
+          "swift_code": "BNALDZAL832"
+        },
+        {
+          "branch_name": "El Khroub",
+          "city": "Constantine",
+          "swift_code": "BNALDZAL835"
+        },
+        {
+          "branch_name": "Constantine 850",
+          "city": "Constantine",
+          "swift_code": "BNALDZAL850"
+        },
+        {
+          "branch_name": "Berrouaghia",
+          "city": "Berrouaghia",
+          "swift_code": "BNALDZAL857"
+        },
+        {
+          "branch_name": "Relizane",
+          "city": "Relizane",
+          "swift_code": "BNALDZAL869"
+        },
+        {
+          "branch_name": "Mostaganem 871",
+          "city": "Mostaganem",
+          "swift_code": "BNALDZAL871"
+        },
+        {
+          "branch_name": "Mostaganem",
+          "city": "Mostaganem",
+          "swift_code": "BNALDZAL876"
+        },
+        {
+          "branch_name": "Msila",
+          "city": "M'sila",
+          "swift_code": "BNALDZAL901"
+        },
+        {
+          "branch_name": "Touggourt",
+          "city": "Touggourt",
+          "swift_code": "BNALDZAL941"
+        },
+        {
+          "branch_name": "30000 Ouargla",
+          "city": "Ouargla",
+          "swift_code": "BNALDZAL946"
+        },
+        {
+          "branch_name": "Oran Soummam",
+          "city": "Oran",
+          "swift_code": "BNALDZAL951"
+        },
+        {
+          "branch_name": "Boulanger Oran",
+          "city": "Oran",
+          "swift_code": "BNALDZAL952"
+        },
+        {
+          "branch_name": "Arzew",
+          "city": "Arzew",
+          "swift_code": "BNALDZAL954"
+        },
+        {
+          "branch_name": "Didouche Mourad Oran",
+          "city": "Oran",
+          "swift_code": "BNALDZAL958"
+        },
+        {
+          "branch_name": "Oran Khemisti",
+          "city": "Oran",
+          "swift_code": "BNALDZAL960"
+        },
+        {
+          "branch_name": "Oran 966",
+          "city": "Oran",
+          "swift_code": "BNALDZAL966"
+        },
+        {
+          "branch_name": "Algiers",
+          "city": "Algiers",
+          "swift_code": "BNALDZALRTG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "BNALDZALXXX"
+        },
+        {
+          "branch_name": "Didouche Mourad",
+          "city": "Algiers",
+          "swift_code": "BNALDZAL601"
+        },
+        {
+          "branch_name": "Krim Belkacem",
+          "city": "Algiers",
+          "swift_code": "BNALDZAL602"
+        },
+        {
+          "branch_name": "Liberte",
+          "city": "Algiers",
+          "swift_code": "BNALDZAL605"
+        },
+        {
+          "branch_name": "Hassiba Ben Bouali",
+          "city": "Algiers",
+          "swift_code": "BNALDZAL607"
+        },
+        {
+          "branch_name": "Bologhine",
+          "city": "Algiers",
+          "swift_code": "BNALDZAL608"
+        },
+        {
+          "branch_name": "Belahdjel",
+          "city": "Algiers",
+          "swift_code": "BNALDZAL615"
+        },
+        {
+          "branch_name": "El Harrach 616",
+          "city": "El Harrach",
+          "swift_code": "BNALDZAL616"
+        },
+        {
+          "branch_name": "El Harrach 619",
+          "city": "El Harrach",
+          "swift_code": "BNALDZAL619"
+        },
+        {
+          "branch_name": "Zirout Youcef",
+          "city": "Algiers",
+          "swift_code": "BNALDZAL620"
+        },
+        {
+          "branch_name": "El Biar",
+          "city": "Algiers",
+          "swift_code": "BNALDZAL621"
+        },
+        {
+          "branch_name": "Ben Mhidi",
+          "city": "Algiers",
+          "swift_code": "BNALDZAL623"
+        },
+        {
+          "branch_name": "Ain El Benian",
+          "city": "Zeralda",
+          "swift_code": "BNALDZAL630"
+        },
+        {
+          "branch_name": "Rouiba 632",
+          "city": "Rouiba",
+          "swift_code": "BNALDZAL632"
+        },
+        {
+          "branch_name": "Birkiladem",
+          "city": "Algiers",
+          "swift_code": "BNALDZAL633"
+        },
+        {
+          "branch_name": "Bordj El Kiffan",
+          "city": "Bordj El Kiffan",
+          "swift_code": "BNALDZAL640"
+        },
+        {
+          "branch_name": "Rouiba 641",
+          "city": "Rouiba",
+          "swift_code": "BNALDZAL641"
+        },
+        {
+          "branch_name": "Bordj Menaiel",
+          "city": "Bordj Menaiel",
+          "swift_code": "BNALDZAL643"
+        },
+        {
+          "branch_name": "Setif",
+          "city": "Setif",
+          "swift_code": "BNALDZAL704"
+        },
+        {
+          "branch_name": "Bordj Bou Arreridj",
+          "city": "Bordj Bou Arreridj",
+          "swift_code": "BNALDZAL705"
+        },
+        {
+          "branch_name": "Skikda",
+          "city": "Skikda",
+          "swift_code": "BNALDZAL743"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Exterieure D'algerie",
+      "branches": [
+        {
+          "branch_name": "Agence Caroubier Naftal",
+          "city": "Algiers",
+          "swift_code": "BEXADZAL001"
+        },
+        {
+          "branch_name": "Agence Riad El Feth",
+          "city": "Algiers",
+          "swift_code": "BEXADZAL002"
+        },
+        {
+          "branch_name": "Agence Cheraga Ville",
+          "city": "Algiers",
+          "swift_code": "BEXADZAL004"
+        },
+        {
+          "branch_name": "Agence Hydra Site Sonatrach",
+          "city": "Algiers",
+          "swift_code": "BEXADZAL005"
+        },
+        {
+          "branch_name": "Agence Rouiba",
+          "city": "Boumerdes",
+          "swift_code": "BEXADZAL006"
+        },
+        {
+          "branch_name": "Agence Cheraga Naftal",
+          "city": "Algiers",
+          "swift_code": "BEXADZAL008"
+        },
+        {
+          "branch_name": "Agence Guevara",
+          "city": "Algiers",
+          "swift_code": "BEXADZAL010"
+        },
+        {
+          "branch_name": "Agence Amirouche",
+          "city": "Algiers",
+          "swift_code": "BEXADZAL012"
+        },
+        {
+          "branch_name": "Agence Khemis Miliana",
+          "city": "Algiers",
+          "swift_code": "BEXADZAL013"
+        },
+        {
+          "branch_name": "Agence Ben Mhidi",
+          "city": "Algiers",
+          "swift_code": "BEXADZAL015"
+        },
+        {
+          "branch_name": "Agence Palis Des Expositions",
+          "city": "Algiers",
+          "swift_code": "BEXADZAL016"
+        },
+        {
+          "branch_name": "Agence Des Accredites",
+          "city": "Algiers",
+          "swift_code": "BEXADZAL017"
+        },
+        {
+          "branch_name": "Agence Hamani",
+          "city": "Algiers",
+          "swift_code": "BEXADZAL018"
+        },
+        {
+          "branch_name": "Agence Belcourt",
+          "city": "Algiers",
+          "swift_code": "BEXADZAL020"
+        },
+        {
+          "branch_name": "Agence Hussein Dey",
+          "city": "Algiers",
+          "swift_code": "BEXADZAL022"
+        },
+        {
+          "branch_name": "Agence Blida",
+          "city": "Blida",
+          "swift_code": "BEXADZAL024"
+        },
+        {
+          "branch_name": "Agence Beni Mered",
+          "city": "Blida",
+          "swift_code": "BEXADZAL025"
+        },
+        {
+          "branch_name": "Agence Medea",
+          "city": "Medea",
+          "swift_code": "BEXADZAL026"
+        },
+        {
+          "branch_name": "Agence Mouzaia",
+          "city": "Blida",
+          "swift_code": "BEXADZAL027"
+        },
+        {
+          "branch_name": "Agence Ghardaia",
+          "city": "Ghardaia",
+          "swift_code": "BEXADZAL028"
+        },
+        {
+          "branch_name": "Agence El-oued",
+          "city": "El-oued",
+          "swift_code": "BEXADZAL094"
+        },
+        {
+          "branch_name": "Agence Ravin",
+          "city": "Algiers",
+          "swift_code": "BEXADZAL095"
+        },
+        {
+          "branch_name": "Agence El Kiffane",
+          "city": "Tlemcen",
+          "swift_code": "BEXADZAL096"
+        },
+        {
+          "branch_name": "Agence El Milia",
+          "city": "Milia",
+          "swift_code": "BEXADZAL097"
+        },
+        {
+          "branch_name": "Agence Oued Aissi",
+          "city": "Tizi-ouzou",
+          "swift_code": "BEXADZAL098"
+        },
+        {
+          "branch_name": "Zeralda",
+          "city": "Algiers",
+          "swift_code": "BEXADZAL100"
+        },
+        {
+          "branch_name": "El Djazair",
+          "city": "Algiers",
+          "swift_code": "BEXADZAL101"
+        },
+        {
+          "branch_name": "El Mouradia",
+          "city": "Algiers",
+          "swift_code": "BEXADZAL102"
+        },
+        {
+          "branch_name": "Constantine Si El Haoues",
+          "city": "Constantine",
+          "swift_code": "BEXADZAL103"
+        },
+        {
+          "branch_name": "Mostaganem Corporate",
+          "city": "Mostaganem",
+          "swift_code": "BEXADZAL104"
+        },
+        {
+          "branch_name": "Ouled Yaich",
+          "city": "Blida",
+          "swift_code": "BEXADZAL112"
+        },
+        {
+          "branch_name": "Boufarik",
+          "city": "Boufarik",
+          "swift_code": "BEXADZAL113"
+        },
+        {
+          "branch_name": "Direction Du Commerce Exterieur",
+          "city": "Algiers",
+          "swift_code": "BEXADZALDCE"
+        },
+        {
+          "branch_name": "Direction Des Operations Avec Letranger-departement L-c Et Nostro",
+          "city": "Algiers",
+          "swift_code": "BEXADZALDOE"
+        },
+        {
+          "branch_name": "Direction Des Relations Internationales",
+          "city": "Algiers",
+          "swift_code": "BEXADZALDRI"
+        },
+        {
+          "branch_name": "Direction De La Tresorerie",
+          "city": "Algiers",
+          "swift_code": "BEXADZALDTD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "BEXADZALXXX"
+        },
+        {
+          "branch_name": "Agence De Relizane",
+          "city": "Relizane",
+          "swift_code": "BEXADZAL073"
+        },
+        {
+          "branch_name": "Agence Oran",
+          "city": "Oran",
+          "swift_code": "BEXADZAL074"
+        },
+        {
+          "branch_name": "Agence Beni Saf",
+          "city": "Beni Saf",
+          "swift_code": "BEXADZAL075"
+        },
+        {
+          "branch_name": "Agence Annaba El Hadjar",
+          "city": "Annaba",
+          "swift_code": "BEXADZAL076"
+        },
+        {
+          "branch_name": "Agence Annaba Asmidal",
+          "city": "Annaba",
+          "swift_code": "BEXADZAL077"
+        },
+        {
+          "branch_name": "Agence Arzew Les Jardins",
+          "city": "Arzew",
+          "swift_code": "BEXADZAL078"
+        },
+        {
+          "branch_name": "Agence Oran Site Sns",
+          "city": "Oran",
+          "swift_code": "BEXADZAL079"
+        },
+        {
+          "branch_name": "Agence Ghazaouet",
+          "city": "Ghazaouet",
+          "swift_code": "BEXADZAL080"
+        },
+        {
+          "branch_name": "Oran El Djamel",
+          "city": "Oran",
+          "swift_code": "BEXADZAL081"
+        },
+        {
+          "branch_name": "Agence Boumerdes",
+          "city": "Boumerdes",
+          "swift_code": "BEXADZAL082"
+        },
+        {
+          "branch_name": "Agence Hassi-rmel",
+          "city": "Hassi-r'mel",
+          "swift_code": "BEXADZAL083"
+        },
+        {
+          "branch_name": "Agence Sig",
+          "city": "Sig",
+          "swift_code": "BEXADZAL084"
+        },
+        {
+          "branch_name": "Agence Skikda Site Sh",
+          "city": "Skikda",
+          "swift_code": "BEXADZAL085"
+        },
+        {
+          "branch_name": "Agence Bousaada",
+          "city": "Bousaada",
+          "swift_code": "BEXADZAL086"
+        },
+        {
+          "branch_name": "Agence El Eulma",
+          "city": "Setif",
+          "swift_code": "BEXADZAL087"
+        },
+        {
+          "branch_name": "Agence De Touggourt",
+          "city": "Touggourt",
+          "swift_code": "BEXADZAL088"
+        },
+        {
+          "branch_name": "Baraki",
+          "city": "Algiers",
+          "swift_code": "BEXADZAL089"
+        },
+        {
+          "branch_name": "Agence Dely Ibrahim",
+          "city": "Algiers",
+          "swift_code": "BEXADZAL090"
+        },
+        {
+          "branch_name": "Agence In Amenas",
+          "city": "In Amenas",
+          "swift_code": "BEXADZAL092"
+        },
+        {
+          "branch_name": "Batna Bouakal",
+          "city": "Batna",
+          "swift_code": "BEXADZAL093"
+        },
+        {
+          "branch_name": "Agence Oum El Bouaghi",
+          "city": "Oum El Bouaghi",
+          "swift_code": "BEXADZAL051"
+        },
+        {
+          "branch_name": "Agence De Skikda",
+          "city": "Skikda",
+          "swift_code": "BEXADZAL052"
+        },
+        {
+          "branch_name": "Agence Setif Ii",
+          "city": "Setif",
+          "swift_code": "BEXADZAL053"
+        },
+        {
+          "branch_name": "Agence Batna",
+          "city": "Batna",
+          "swift_code": "BEXADZAL054"
+        },
+        {
+          "branch_name": "Agence Guelma",
+          "city": "Guelma",
+          "swift_code": "BEXADZAL055"
+        },
+        {
+          "branch_name": "Agence Biskra",
+          "city": "Biskra",
+          "swift_code": "BEXADZAL056"
+        },
+        {
+          "branch_name": "Agence Souk Ahras",
+          "city": "Souk Ahras",
+          "swift_code": "BEXADZAL057"
+        },
+        {
+          "branch_name": "Agence Bordj",
+          "city": "Bordj",
+          "swift_code": "BEXADZAL058"
+        },
+        {
+          "branch_name": "Agence Oran Abdelakader",
+          "city": "Oran",
+          "swift_code": "BEXADZAL060"
+        },
+        {
+          "branch_name": "Agence Saida",
+          "city": "Saida",
+          "swift_code": "BEXADZAL061"
+        },
+        {
+          "branch_name": "Agence Oran Khemisti",
+          "city": "Oran",
+          "swift_code": "BEXADZAL062"
+        },
+        {
+          "branch_name": "Agence Tlemcen Indepdt",
+          "city": "Tlemcen",
+          "swift_code": "BEXADZAL064"
+        },
+        {
+          "branch_name": "Agence Sidi Bel Abbes",
+          "city": "Sidi Bel Abbes",
+          "swift_code": "BEXADZAL065"
+        },
+        {
+          "branch_name": "Agence De Mostaganem",
+          "city": "Mostaganem",
+          "swift_code": "BEXADZAL066"
+        },
+        {
+          "branch_name": "Agence Mascara",
+          "city": "Mascara",
+          "swift_code": "BEXADZAL067"
+        },
+        {
+          "branch_name": "Agence De Chlef",
+          "city": "Chlef",
+          "swift_code": "BEXADZAL068"
+        },
+        {
+          "branch_name": "Agence De Tiaret",
+          "city": "Tiaret",
+          "swift_code": "BEXADZAL069"
+        },
+        {
+          "branch_name": "Agence Arzew Site Sonatrach",
+          "city": "Oran",
+          "swift_code": "BEXADZAL070"
+        },
+        {
+          "branch_name": "Agence Bechar",
+          "city": "Bechar",
+          "swift_code": "BEXADZAL071"
+        },
+        {
+          "branch_name": "Agence Ain Temouchent",
+          "city": "Ain Temouchent",
+          "swift_code": "BEXADZAL072"
+        },
+        {
+          "branch_name": "Agence De Laghouat",
+          "city": "Laghouat",
+          "swift_code": "BEXADZAL029"
+        },
+        {
+          "branch_name": "Agence El Harrach",
+          "city": "Algiers",
+          "swift_code": "BEXADZAL030"
+        },
+        {
+          "branch_name": "Agence Djelfa",
+          "city": "Djelfa",
+          "swift_code": "BEXADZAL031"
+        },
+        {
+          "branch_name": "Agence Ouargla",
+          "city": "Ouargla",
+          "swift_code": "BEXADZAL032"
+        },
+        {
+          "branch_name": "Agence De Hassi-messaoud",
+          "city": "Hassi-messaoud",
+          "swift_code": "BEXADZAL033"
+        },
+        {
+          "branch_name": "Agence De Tizi Ouzou",
+          "city": "Algiers",
+          "swift_code": "BEXADZAL034"
+        },
+        {
+          "branch_name": "30500 Hassi-messaoud",
+          "city": "Hassi-messaoud",
+          "swift_code": "BEXADZAL035"
+        },
+        {
+          "branch_name": "Agence Setif",
+          "city": "Setif",
+          "swift_code": "BEXADZAL036"
+        },
+        {
+          "branch_name": "Agence Bouira",
+          "city": "Bouira",
+          "swift_code": "BEXADZAL037"
+        },
+        {
+          "branch_name": "Agence Hassiba Ben Bouali",
+          "city": "Algiers",
+          "swift_code": "BEXADZAL038"
+        },
+        {
+          "branch_name": "Agence El Khroub",
+          "city": "El Khroub",
+          "swift_code": "BEXADZAL039"
+        },
+        {
+          "branch_name": "Agence De Bejaia",
+          "city": "Bejaia",
+          "swift_code": "BEXADZAL040"
+        },
+        {
+          "branch_name": "Agence Bejaia 041",
+          "city": "Bejaia",
+          "swift_code": "BEXADZAL041"
+        },
+        {
+          "branch_name": "Agence Annaba Revolution",
+          "city": "Annaba",
+          "swift_code": "BEXADZAL042"
+        },
+        {
+          "branch_name": "Agence Jijel Ibn Kheldoun",
+          "city": "Jijel",
+          "swift_code": "BEXADZAL043"
+        },
+        {
+          "branch_name": "Agence Annaba 44",
+          "city": "Annaba",
+          "swift_code": "BEXADZAL044"
+        },
+        {
+          "branch_name": "Agence Tebessa",
+          "city": "Tebessa",
+          "swift_code": "BEXADZAL046"
+        },
+        {
+          "branch_name": "Agence Msila",
+          "city": "M'sila",
+          "swift_code": "BEXADZAL047"
+        },
+        {
+          "branch_name": "Agence Jijel",
+          "city": "Jijel",
+          "swift_code": "BEXADZAL048"
+        },
+        {
+          "branch_name": "Agence De Constantine",
+          "city": "Constantine",
+          "swift_code": "BEXADZAL050"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Du Maghreb Arabe Pour L'investissement Et Le Commerce",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "BMICDZALXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De L'agriculture Et De Developpement Rural",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "BADRDZALXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De Developpement Local",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "BDLODZALXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Algerienne De Developpement",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "FNIZDZALXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "BADZDZALXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Al-baraka D'algerie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "BRKADZALXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Algeria",
+      "branches": [
+        {
+          "branch_name": "Oran",
+          "city": "Oran",
+          "swift_code": "BALGDZA1028"
+        },
+        {
+          "branch_name": "Ouargla",
+          "city": "Ouargla",
+          "swift_code": "BALGDZA102J"
+        },
+        {
+          "branch_name": "Services Bancaires Etrangers",
+          "city": "Algiers",
+          "swift_code": "BALGDZALSBE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "BALGDZALXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "BALGDZAPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Banking Corporation-algeria",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "ABCODZALXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Bank Plc Algeria",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "ARABDZALXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Algeria Gulf Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "AGUBDZALXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Salam Bank Algeria",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Algiers",
+          "swift_code": "SALGDZALXXX"
+        }
+      ]
+    }
+  ]
+}

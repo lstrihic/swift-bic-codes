@@ -1,0 +1,757 @@
+{
+  "country_name": "Kazakhstan",
+  "alpha_2": "KZ",
+  "country_code": "398",
+  "banks": [
+    {
+      "bank_name": "Zaman-bank Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ekibastuz",
+          "swift_code": "ZAJSKZ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kazpost Oao",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "KAJSKZK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kazpochtabank, Joint-stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "KAZPKZK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kazkommertsbank",
+      "branches": [
+        {
+          "branch_name": "Payment Operations",
+          "city": "Almaty",
+          "swift_code": "KZKOKZKX001"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "KZKOKZKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kazakhstan Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "KICEKZKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kazakhstan-ziraat International Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "KZIBKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kaspi Bank Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "CASPKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kazinvestbank, Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "KAZSKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsc Mittal Steel Temirtau",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Temirtau",
+          "swift_code": "USINKZ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsc 'bankpozitiv Kazakhstan'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "DEMIKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Securities Kazakhstan Llp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "HSBCKZB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsc Sb Pnb-kazakhstan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "DABNKZ2PXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsc 'bank Centercredit'",
+      "branches": [
+        {
+          "branch_name": "Aktau Branch",
+          "city": "Aktau",
+          "swift_code": "KCJBKZK1AKT"
+        },
+        {
+          "branch_name": "Almaty Branch",
+          "city": "Almaty",
+          "swift_code": "KCJBKZK1ALM"
+        },
+        {
+          "branch_name": "Almaty Regional Branch",
+          "city": "Almaty",
+          "swift_code": "KCJBKZK1AOF"
+        },
+        {
+          "branch_name": "Astana Branch",
+          "city": "Astana",
+          "swift_code": "KCJBKZK1AST"
+        },
+        {
+          "branch_name": "Aktobe Branch",
+          "city": "Aktobe",
+          "swift_code": "KCJBKZK1ATB"
+        },
+        {
+          "branch_name": "Atyrau Branch",
+          "city": "Atyrau",
+          "swift_code": "KCJBKZK1ATR"
+        },
+        {
+          "branch_name": "Zhezkazgan Branch",
+          "city": "Zhezkazgan",
+          "swift_code": "KCJBKZK1GZK"
+        },
+        {
+          "branch_name": "Karaganda Branch",
+          "city": "Karaganda",
+          "swift_code": "KCJBKZK1KAR"
+        },
+        {
+          "branch_name": "Kokshetau Branch",
+          "city": "Kokshetau",
+          "swift_code": "KCJBKZK1KOK"
+        },
+        {
+          "branch_name": "Kostanai Branch",
+          "city": "Kostanay",
+          "swift_code": "KCJBKZK1KOS"
+        },
+        {
+          "branch_name": "Kyzylorda Branch",
+          "city": "Kyzylorda",
+          "swift_code": "KCJBKZK1KZO"
+        },
+        {
+          "branch_name": "Petropavlovsk Branch",
+          "city": "Petropavlovsk",
+          "swift_code": "KCJBKZK1PTR"
+        },
+        {
+          "branch_name": "Pavlodar Branch",
+          "city": "Pavlodar",
+          "swift_code": "KCJBKZK1PVL"
+        },
+        {
+          "branch_name": "Rudnyi Branch",
+          "city": "Rudnyi",
+          "swift_code": "KCJBKZK1RDN"
+        },
+        {
+          "branch_name": "Shymkent Branch",
+          "city": "Shimkent",
+          "swift_code": "KCJBKZK1SMK"
+        },
+        {
+          "branch_name": "Semey",
+          "city": "Semey",
+          "swift_code": "KCJBKZK1SMP"
+        },
+        {
+          "branch_name": "Taldykorgan Branch",
+          "city": "Taldykorgan",
+          "swift_code": "KCJBKZK1TLD"
+        },
+        {
+          "branch_name": "Taraz Branch",
+          "city": "Taraz",
+          "swift_code": "KCJBKZK1TRZ"
+        },
+        {
+          "branch_name": "Uralsk Branch",
+          "city": "Uralsk",
+          "swift_code": "KCJBKZK1URL"
+        },
+        {
+          "branch_name": "Ust-kamenogorsk Branch",
+          "city": "Ust-kamenogorsk",
+          "swift_code": "KCJBKZK1UST"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "KCJBKZKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Halyk Savings Bank Of Kazakstan",
+      "branches": [
+        {
+          "branch_name": "Treasury Department",
+          "city": "Almaty",
+          "swift_code": "HSBKKZKXTSY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "HSBKKZKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank Kazakhstan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "HSBCKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Halyk Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "HALYKZK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortebank Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "FOBAKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "House Construction Savings Bank Of Kazakhstan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "HCSKKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Express Bank Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "INKZKZK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eximbank Kazakhstan Joint-stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "EXKAKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurasian Development Bank",
+      "branches": [
+        {
+          "branch_name": "Anti-crisis Fund Of Eurasec",
+          "city": "Almaty",
+          "swift_code": "EABRKZK1ACF"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "EABRKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vtb Bank (kazakhstan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "VTBAKZKZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Visor Capital",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "VIAAKZK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Turkiye Kazakhstan International Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "TKIBKZK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tsesna Bank Open Joint-stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Astana",
+          "swift_code": "TSESKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Royal Bank Of Scotland Kazakhstan",
+      "branches": [
+        {
+          "branch_name": "Atyrau Branch",
+          "city": "Atyrau",
+          "swift_code": "ABNAKZKXATY"
+        },
+        {
+          "branch_name": "Tcov Branch",
+          "city": "Tengiz",
+          "swift_code": "ABNAKZKXTCO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "ABNAKZKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shinhan Bank Kazakhstan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "SHBKKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taib Kazak Bank Sb Cjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "TBKBKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sb Sberbank Jsc",
+      "branches": [
+        {
+          "branch_name": "Astana Branch",
+          "city": "Astana",
+          "swift_code": "SABRKZKAAST"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "SABRKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sb Jsc Home Credit And Finance Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "INLMKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronics Kz And Central Asia",
+      "branches": [
+        {
+          "branch_name": "050000 Almaty",
+          "city": "Almaty",
+          "swift_code": "SECTKZK1981"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "SECTKZK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Qazaq Banki Joint Stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kaskelen",
+          "swift_code": "SENIKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ojsc Temirbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "JSRBKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nurbank Joint Stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "NURSKZKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Pakistan Cjsc Sb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "NBPAKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Kazakhstan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "NBRKKZKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurasian Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "EURIKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Development Bank Of Kazakhstan Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Astana",
+          "swift_code": "DVKAKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Delta Bank, Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "NFBAKZ23XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Altyn Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "CRAYKZK1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "CRAYKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cjsc Citibank Kazakhstan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "CITIKZKAXXX"
+        },
+        {
+          "branch_name": "Trade Services Dept",
+          "city": "Almaty",
+          "swift_code": "CITIKZX1TRD"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chase Manhattan Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "CHASKZK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Securities Depository, Cjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "CEDUKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Asian Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "XKAZKZK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "British American Tobacco Kazakhstan Trading Llp",
+      "branches": [
+        {
+          "branch_name": "British American Tobacco Kazakhstan Trading Llp",
+          "city": "Almaty",
+          "swift_code": "BATSKZK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of China Kazakhstan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "BKCHKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Rbk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "KINCKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Kassa Nova",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Astana",
+          "swift_code": "KSNVKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Astana Finance Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "ASFBKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atf Bank",
+      "branches": [
+        {
+          "branch_name": "Almaty",
+          "city": "Almaty",
+          "swift_code": "ALMNKZKATRE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "ALMNKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asiacredit Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "LARIKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alliance Bank",
+      "branches": [
+        {
+          "branch_name": "Almaty",
+          "city": "Almaty",
+          "swift_code": "IRTYKZKA001"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "IRTYKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bta Bank Jsc",
+      "branches": [
+        {
+          "branch_name": "Aktau Branch",
+          "city": "Aktau",
+          "swift_code": "ABKZKZK1023"
+        },
+        {
+          "branch_name": "Atyrau Branch",
+          "city": "Atyrau",
+          "swift_code": "ABKZKZK1024"
+        },
+        {
+          "branch_name": "Kostanay Branch",
+          "city": "Kostanay",
+          "swift_code": "ABKZKZK1025"
+        },
+        {
+          "branch_name": "Uralsk Branch",
+          "city": "Uralsk",
+          "swift_code": "ABKZKZK1026"
+        },
+        {
+          "branch_name": "Shimkent Branch",
+          "city": "Shimkent",
+          "swift_code": "ABKZKZK10K2"
+        },
+        {
+          "branch_name": "Karaganda Branch",
+          "city": "Karaganda",
+          "swift_code": "ABKZKZK10K3"
+        },
+        {
+          "branch_name": "Kokshetau Branch",
+          "city": "Kokshetau",
+          "swift_code": "ABKZKZK10K4"
+        },
+        {
+          "branch_name": "Ust-kamenogorsk Branch",
+          "city": "Ust-kamenogorsk",
+          "swift_code": "ABKZKZK10K5"
+        },
+        {
+          "branch_name": "Securities Markets Dept",
+          "city": "Almaty",
+          "swift_code": "ABKZKZKXSMK"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "ABKZKZKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alfa Bank Jsc Sb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "ALFAKZKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Hilal Islamic Bank Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almaty",
+          "swift_code": "HLALKZKZXXX"
+        }
+      ]
+    }
+  ]
+}

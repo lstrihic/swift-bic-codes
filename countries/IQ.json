@@ -1,0 +1,637 @@
+{
+  "country_name": "Iraq",
+  "alpha_2": "IQ",
+  "country_code": "368",
+  "banks": [
+    {
+      "bank_name": "Warka Bank For Investment And Finance",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "WAIVIQBAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "WAIVLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Company For Financial Transfer",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "UCFTIQB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Bank For Investment",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "UNTVIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Bank Of Iraq",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "UNRAIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Turkiye Is Bankasi A.s. Arbil Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Arbil",
+          "swift_code": "ISBKIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trans Iraq Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "TIRAIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Turkiye Vakiflar Bankasi Erbil Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Arbil",
+          "swift_code": "TVBAIQBRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trade Bank Of Iraq",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "TRIQIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sumer Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "SUCIIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank Iraq Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "SCBLIQB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Real Estate Bank,the",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "REEBIQB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rasheed Bank",
+      "branches": [
+        {
+          "branch_name": "Al-rusafi Branch 505",
+          "city": "Baghdad",
+          "swift_code": "RDBAIQB10B2"
+        },
+        {
+          "branch_name": "Commercial Credit Branch No 506",
+          "city": "Baghdad",
+          "swift_code": "RDBAIQB10B3"
+        },
+        {
+          "branch_name": "Mosul Branch No 3",
+          "city": "Mosul",
+          "swift_code": "RDBAIQB10B5"
+        },
+        {
+          "branch_name": "Arrapha Branch No 76",
+          "city": "Kirkuk",
+          "swift_code": "RDBAIQB10B6"
+        },
+        {
+          "branch_name": "Hilla Branch No 5",
+          "city": "Hilla",
+          "swift_code": "RDBAIQB10B7"
+        },
+        {
+          "branch_name": "Al-thawra Street Branch No 88",
+          "city": "Basrah",
+          "swift_code": "RDBAIQB10B8"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "RDBAIQB1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "RDBAIQBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rabee Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "RASEIQB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "North Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "NRTTIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Islamic Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "NISBIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Iraq",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "NBIQIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mosul Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mosul",
+          "swift_code": "MOUUIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mansour Bank For Investment",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "MBIVIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kurdistan International Bank",
+      "branches": [
+        {
+          "branch_name": "Baghdad Branch",
+          "city": "Baghdad",
+          "swift_code": "KIBIIQBABGH"
+        },
+        {
+          "branch_name": "Duhok Branch",
+          "city": "Duhok",
+          "swift_code": "KIBIIQBADHK"
+        },
+        {
+          "branch_name": "Peshwa Erbil Branch",
+          "city": "Arbil",
+          "swift_code": "KIBIIQBAERB"
+        },
+        {
+          "branch_name": "Sulayminya Branch",
+          "city": "Sulayminya",
+          "swift_code": "KIBIIQBASUL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Arbil",
+          "swift_code": "KIBIIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Blom Bank S.a.l.-iraq",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "BLOMIQB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bbac Sal Erbil Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Arbil",
+          "swift_code": "BBACIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Basrah International Bank For Investment",
+      "branches": [
+        {
+          "branch_name": "Basrah International Bank For Investment",
+          "city": "Baghdad",
+          "swift_code": "BIBIIQB1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "BIBIIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Libano-franaise Sal-iraq",
+      "branches": [
+        {
+          "branch_name": "Banque Libano-franaise Sal-iraq",
+          "city": "Baghdad",
+          "swift_code": "BLFSIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankmed Sal, Iraq",
+      "branches": [
+        {
+          "branch_name": "Bankmed Sal, Iraq",
+          "city": "Arbil",
+          "swift_code": "MEDLIQBAARB"
+        },
+        {
+          "branch_name": "Bankmed Sal, Iraq",
+          "city": "Baghdad",
+          "swift_code": "MEDLIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Baghdad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "BABIIQBAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "BABILBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Karmal Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "KARMIQB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Islamic Regional Cooperation Bank For Development And Investment (s.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "RCDFIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Iraqi Middle East Investment Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "IMEBIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Iraqi Islamic Bank For Investment And Development",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "IRIBIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investment Bank Of Iraq",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "IVBIIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Development Bank For Investment And Islamic Finance",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "IDBQIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial Bank,the",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "IBIQIQB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gulf Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "GUCEIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Erbil Bank For Investment And Finance",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Arbil",
+          "swift_code": "EBIFIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Emerald Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Arbil",
+          "swift_code": "EMERIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Economy Bank For Investment And Finance",
+      "branches": [
+        {
+          "branch_name": "Alshorjah",
+          "city": "Baghdad",
+          "swift_code": "ECOVIQBA616"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "ECOVIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Economy Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "ECOOIQB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Elaf Islamic Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "ELAFIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dijlah And Furat Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "DFDIIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dar Es Salaam Investment Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "DSIVIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Bank Of Iraq",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "CBIQIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Bank Of Iraq (s.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "AUBBIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cihan Bank For Islamic Investment And Finance",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Arbil",
+          "swift_code": "CIHBIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Iraq",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "CBIRIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Byblos Bank Sal Iraq",
+      "branches": [
+        {
+          "branch_name": "Byblos Bank Sal",
+          "city": "Baghdad",
+          "swift_code": "BYBAIQBABAG"
+        },
+        {
+          "branch_name": "Basrah",
+          "city": "Basrah",
+          "swift_code": "BYBAIQBABAS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Arbil",
+          "swift_code": "BYBAIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Babylon Bank Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "BABKIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asya Katilim Bankasi A.s. Arbil Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Arbil",
+          "swift_code": "ASYAIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ashur International Bank For Investment",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "AIBIIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al-iraqia For Money Transfer Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "IRAQIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al-huda Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "BHDAIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al-bilad Islamic Bank For Investment And Finance",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "AIIFIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al-asswar Co. For Money Transfer",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "ASWRIQB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Rafidain Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Baghdad",
+          "swift_code": "RAFBIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Baraka Turk Katilim Bankasi A.s. Erbil Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Arbil",
+          "swift_code": "BTFHIQBAXXX"
+        }
+      ]
+    }
+  ]
+}

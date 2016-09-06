@@ -1,0 +1,862 @@
+{
+  "country_name": "Saudi Arabia",
+  "alpha_2": "SA",
+  "country_code": "682",
+  "banks": [
+    {
+      "bank_name": "Yanbu Aramco Sinopec Refining (yasref) Limited",
+      "branches": [
+        {
+          "branch_name": "Yanbu Aramco Sinopec Refining (yasref) Limited",
+          "city": "Yanbu",
+          "swift_code": "YASRSAD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Carton Industries Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jeddah",
+          "swift_code": "UCSASAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Saudi Fund For Development",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "SFFDSARIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The National Agricultural Development Company (nadec",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "NADESAR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "T.c. Ziraat Bankasi A.s.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jeddah",
+          "swift_code": "TCZBSAJEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Investment Company Ksa",
+      "branches": [
+        {
+          "branch_name": "Riyadh",
+          "city": "Riyadh",
+          "swift_code": "BNPASARBWMI"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "BNPASARBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Saudi Fransi",
+      "branches": [
+        {
+          "branch_name": "Eastern Region",
+          "city": "Alkhobar",
+          "swift_code": "BSFRSARIEST"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "BSFRSARIGEM"
+        },
+        {
+          "branch_name": "Central Region",
+          "city": "Riyadh",
+          "swift_code": "BSFRSARIRYD"
+        },
+        {
+          "branch_name": "Western Region",
+          "city": "Jeddah",
+          "swift_code": "BSFRSARIWST"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "BSFRSARIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Al-jazira",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jeddah",
+          "swift_code": "BJAZSAJE002"
+        },
+        {
+          "branch_name": "King Abdul Aziz Street Br",
+          "city": "Jeddah",
+          "swift_code": "BJAZSAJE006"
+        },
+        {
+          "branch_name": "Khalid Bin Waleed Street Branch",
+          "city": "Jeddah",
+          "swift_code": "BJAZSAJE007"
+        },
+        {
+          "branch_name": "Dammam Branch",
+          "city": "Dammam",
+          "swift_code": "BJAZSAJE009"
+        },
+        {
+          "branch_name": "Makkah Mukarrama Branch",
+          "city": "Makkah Al-mukarrama",
+          "swift_code": "BJAZSAJE010"
+        },
+        {
+          "branch_name": "Madina Munawwara Branch",
+          "city": "Madina Munawwara",
+          "swift_code": "BJAZSAJE011"
+        },
+        {
+          "branch_name": "Alkhobar Branch",
+          "city": "Alkhobar",
+          "swift_code": "BJAZSAJE013"
+        },
+        {
+          "branch_name": "Olayyah Branch",
+          "city": "Riyadh",
+          "swift_code": "BJAZSAJE016"
+        },
+        {
+          "branch_name": "Jubail Branch",
+          "city": "Jubail",
+          "swift_code": "BJAZSAJE019"
+        },
+        {
+          "branch_name": "Madina Road Branch",
+          "city": "Jeddah",
+          "swift_code": "BJAZSAJE021"
+        },
+        {
+          "branch_name": "Hofuf Branch",
+          "city": "Hofuf",
+          "swift_code": "BJAZSAJE025"
+        },
+        {
+          "branch_name": "Buraidah Branch",
+          "city": "Buraidah",
+          "swift_code": "BJAZSAJE026"
+        },
+        {
+          "branch_name": "Sitteen Street Branch",
+          "city": "Riyadh",
+          "swift_code": "BJAZSAJE027"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jeddah",
+          "swift_code": "BJAZSAJEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Al Bilad",
+      "branches": [
+        {
+          "branch_name": "Dammam",
+          "city": "Dammam",
+          "swift_code": "ALBISAR1DAM"
+        },
+        {
+          "branch_name": "Jeddah",
+          "city": "Jeddah",
+          "swift_code": "ALBISARIJED"
+        },
+        {
+          "branch_name": "Trade Finance Center",
+          "city": "Riyadh",
+          "swift_code": "ALBISARITFC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "ALBISARIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Petrolem Investments Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dammam",
+          "swift_code": "APICSADMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alrajhi Commercial Foreign Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jeddah",
+          "swift_code": "AFEXSAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alamoudi Exchange Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jeddah",
+          "swift_code": "AMDISAJEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Rajhi Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "RJHISARIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Inma Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "INMASARIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Amoundi Exchange And Trading",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jeddah",
+          "swift_code": "AMETSAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samba Financial Group",
+      "branches": [
+        {
+          "branch_name": "Eastern Region Branch",
+          "city": "Alkhobar",
+          "swift_code": "SAMBSARIACS"
+        },
+        {
+          "branch_name": "Western Region Branch",
+          "city": "Jeddah",
+          "swift_code": "SAMBSARIJCS"
+        },
+        {
+          "branch_name": "Consumers Branch",
+          "city": "Riyadh",
+          "swift_code": "SAMBSARIRCP"
+        },
+        {
+          "branch_name": "Central Region Branch",
+          "city": "Riyadh",
+          "swift_code": "SAMBSARIRCS"
+        },
+        {
+          "branch_name": "Riyadh Branch",
+          "city": "Riyadh",
+          "swift_code": "SAMBSARIRFX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "SAMBSARIXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dubai",
+          "swift_code": "SAMBAEADXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Doha",
+          "swift_code": "SAMBQAQAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankmuscat",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "BMUSSARIXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "BMUSKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Kuwait",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jeddah",
+          "swift_code": "NBOKSAJEXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "NBOKJOAMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuwait",
+          "swift_code": "NBOKKWKWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Riyad Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "RIBLSARIXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "RIBLGB2LXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Emirates Nbd Pjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "EBILSARIXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "EBILGB2LXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "NBDUGB2LXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab National Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "ARNBSARIXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "ARNBGB2LXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Supreme Foods Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "SUFCSAR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nomura Saudi Arabia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "NSAUSARIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ncb Capital Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jeddah",
+          "swift_code": "NCCOSAJEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Food Industries Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jeddah",
+          "swift_code": "NAFDSAJEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Commercial Bank, The",
+      "branches": [
+        {
+          "branch_name": "Jeddah, Main Branch",
+          "city": "Jeddah",
+          "swift_code": "NCBKSAJE101"
+        },
+        {
+          "branch_name": "Treasury Division",
+          "city": "Jeddah",
+          "swift_code": "NCBKSAJE555"
+        },
+        {
+          "branch_name": "Trade Services-west",
+          "city": "Jeddah",
+          "swift_code": "NCBKSAJE613"
+        },
+        {
+          "branch_name": "Trade Services-central",
+          "city": "Riyadh",
+          "swift_code": "NCBKSAJE614"
+        },
+        {
+          "branch_name": "Trade Services-east",
+          "city": "Dammam",
+          "swift_code": "NCBKSAJE615"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jeddah",
+          "swift_code": "NCBKSAJEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Biscuits And Confectionery Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jeddah",
+          "swift_code": "NBCCSAJEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Morgan Stanley Saudi Arabia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "MSSRSAR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mohammed Hassan Yella And Sons Exchange Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jeddah",
+          "swift_code": "MHYCSAJEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch Kingdom Of Saudi Arabia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "MLSASARIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "M. Mounir Halawani Sons, Exchange Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jeddah",
+          "swift_code": "HFEXSAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "King Abdullah Petroleum Studies And Research Center",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhahran",
+          "swift_code": "KPSRSADDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jpmorgan Chase Bank, N.a. Riyadh",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "CHASSARIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.p. Morgan Saudi Arabia Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "JPMGSARYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Islamic Development Bank",
+      "branches": [
+        {
+          "branch_name": "Jeddah",
+          "city": "Jeddah",
+          "swift_code": "ISLDSAJEICD"
+        },
+        {
+          "branch_name": "International Trade Finance",
+          "city": "Jeddah",
+          "swift_code": "ISLDSAJEITF"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jeddah",
+          "swift_code": "ISLDSAJEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial And Commercial Bank Of China Riyadh Branch, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "ICBKSAR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hoshanco Holding",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "HOSHSARIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gulf International Bank B.s.c., Riyadh",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "GULFSARIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Emaar The Economic City",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jeddah",
+          "swift_code": "KAECSAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "East Africa Maritime",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jeddah",
+          "swift_code": "EAAMSAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Ag, Riyadh Branch",
+      "branches": [
+        {
+          "branch_name": "Domestic Custody Services",
+          "city": "Riyadh",
+          "swift_code": "DEUTSARICUS"
+        },
+        {
+          "branch_name": "Riyadh",
+          "city": "Riyadh",
+          "swift_code": "DEUTSARIGES"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "DEUTSARIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Saudi Arabia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "BNPASARIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Capital (saudi Arabia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "SCBLSARIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shuaa Capital Saudi Arabia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "SHUASAR1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "SHUASARIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saudi Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "TSSMSAR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saudi Investment Bank, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "SIBCSARIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saudi International Petrochemical Co. (sipchem",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jubail",
+          "swift_code": "SIPHSADBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saudi Hollandi Capital",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "SAHCSARIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saudi Hollandi Bank",
+      "branches": [
+        {
+          "branch_name": "Eastern Area Alkhobar",
+          "city": "Alkhobar",
+          "swift_code": "AAALSARIALK"
+        },
+        {
+          "branch_name": "Central Treasury Dept",
+          "city": "Riyadh",
+          "swift_code": "AAALSARICTD"
+        },
+        {
+          "branch_name": "Western Area Jeddah",
+          "city": "Jeddah",
+          "swift_code": "AAALSARIJED"
+        },
+        {
+          "branch_name": "Central Area Riyadh",
+          "city": "Riyadh",
+          "swift_code": "AAALSARIRYD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "AAALSARIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saudi Chevron Phillips Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jubail",
+          "swift_code": "SCHMSADEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saudi Ceramic Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "SACYSAR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saudi British Bank, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "SABBSARIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saudi Basic Industries Corporation (sabic",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "SBHQSARRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saudi Aramco Product Trading Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhahran",
+          "swift_code": "SAPCSADHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saudi Aramco Mobil Refinery Company Limited (samref",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yanbu",
+          "swift_code": "SRMRSAD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saudi Aramco Lubricating Oil Refining Company (luberef",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jeddah",
+          "swift_code": "LBRFSAJDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saudi Aramco",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhahran",
+          "swift_code": "ARAMSADHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saudi Arabian Monetary Agency",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "SAMASARIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sahara Petrochemicals Company Saudi Joint Stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jubail",
+          "swift_code": "SPCUSAJBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sadara Chemical Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dhahran",
+          "swift_code": "SDCCSADAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Qinvest Saudi Arabia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riyadh",
+          "swift_code": "QINVSAR1XXX"
+        }
+      ]
+    }
+  ]
+}

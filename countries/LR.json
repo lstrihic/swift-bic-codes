@@ -1,0 +1,162 @@
+{
+  "country_name": "Liberia",
+  "alpha_2": "LR",
+  "country_code": "430",
+  "banks": [
+    {
+      "bank_name": "West Bank4u",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monrovia",
+          "swift_code": "WETTLRL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Bank For Africa (liberia) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monrovia",
+          "swift_code": "UNAFLRLMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Liberia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monrovia",
+          "swift_code": "NBLILRL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meridien Biao Bank Liberia Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monrovia",
+          "swift_code": "LIMELRL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Liberian Trading And Development Bank, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monrovia",
+          "swift_code": "TLTRLRL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Liberian Bank For Development And Investment, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monrovia",
+          "swift_code": "LBDELRLMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Bank (liberia) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monrovia",
+          "swift_code": "IBLRLRLMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Guaranty Trust Bank (liberia) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monrovia",
+          "swift_code": "GTBILRLMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Bank Liberia Limited (member Bankphb Group",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monrovia",
+          "swift_code": "PHBXLRLMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First International Bank Liberia Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monrovia",
+          "swift_code": "FIERLRLMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Liberia Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monrovia",
+          "swift_code": "ECOCLRLMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Liberia",
+      "branches": [
+        {
+          "branch_name": "Central Bank Of Liberia",
+          "city": "Monrovia",
+          "swift_code": "CBLRLRLAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Monrovia",
+          "swift_code": "CBLRLRLMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agricultural And Cooperative Develoment Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monrovia",
+          "swift_code": "AGRCLRL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Afriland First Bank Liberia Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monrovia",
+          "swift_code": "CCEILRLMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Accessbank Liberia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monrovia",
+          "swift_code": "ACLILRLMXXX"
+        }
+      ]
+    }
+  ]
+}

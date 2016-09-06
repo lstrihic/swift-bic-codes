@@ -1,0 +1,597 @@
+{
+  "country_name": "Jamaica",
+  "alpha_2": "JM",
+  "country_code": "388",
+  "banks": [
+    {
+      "bank_name": "Firstcaribbean International Bank (jamaica) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "FCIBJMKNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Heritage Co-operative Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "FHCRJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Global Financial Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "FGFSJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Global Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "FILBJMKNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Development Bank Of Jamaica Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "NDBJJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citifinance Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "CIAFJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Churches Co-operative Credit Union Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "CCEOJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ccu Investments Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "CCNVJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Union Fund Management Company Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "CUFMJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Solutions Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "CPSOJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital And Credit Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "CPCSJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital And Credit Merchant Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "CCMKJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "C.o.k. Co-operative Credit Union Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "CCENJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bpm Financial Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "BPFIJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barita Investments Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "BAVSJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Nova Scotia Jamaica Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "NOSCJMKNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Jamaica",
+      "branches": [
+        {
+          "branch_name": "Rtgs",
+          "city": "Kingston",
+          "swift_code": "BAJAJMK11KN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "BAJAJMKNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Automated Payments Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "JAPLJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alliance Investment Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "ALNGJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Workers Trust And Merchant Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "WTMBJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ncb Insurance Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "NCICJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ncb Capital Markets Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "NCCMJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Export-import Bank Of Jamaica Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "NAEBJMKIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Commercial Bank Jamaica Limited",
+      "branches": [
+        {
+          "branch_name": "King Street",
+          "city": "Kingston",
+          "swift_code": "JNCBJMK10K2"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "JNCBJMKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moneymasters Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "MONMJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mf And G Trust And Finance Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "MFGTJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mf And G Asset Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "ASAEJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mayberry Investments Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "MAYNJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "M/vl Stockbrokers Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "MVSTJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jn Fund Managers Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "FUNMJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jamaica National Building Society",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "JNBSJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jamaica Co-operative Credit Union League Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "JCCUJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jamaica Money Market Brokers Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "JMMBJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jamaica Central Securities Depository Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "JCSDJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intertrade Finance Corporation Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "ITFCJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ideal Portfolio Services Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "IDPSJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ideal Finance Corporation Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "IDFCJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Guardian Life Limted",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "GULIJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Guardian Asset Management Jamaica Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "GAMJJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Firstcaribbean International Trust And Merchant Bank (jamaica) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "FCIBJM21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Workers Bank Trust Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "WBTCJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "West Indies Union Investment Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mandeville",
+          "swift_code": "WIUIJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Victoria Mutual Wealth Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "VMWMJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Victoria Mutual Building Society",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "VMBSJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ugi Finance And Investments Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "UGFIJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Jamaica Stock Exchange Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "XJAMJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stocks And Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "SSERJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sterling Asset Management Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "STEGJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scotia Dbg Merchant Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "SCDMJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scotia Dbg Investments Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "SCDNJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sagicor Life Jamaica Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "SALJJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbtt Securities Jamaica Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "RBSJJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbc Royal Bank (jamaica) Limited (formerly Rbtt Bank Jamaica Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "RBTTJMKNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Proven Wealth Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "PWELJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prime Asset Management Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "PRTGJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pan Caribbean Merchant Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "PCMBJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pan Caribbean Financial Services Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "PCFSJMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pan Caribbean Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kingston",
+          "swift_code": "PCARJMK1XXX"
+        }
+      ]
+    }
+  ]
+}

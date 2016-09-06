@@ -1,0 +1,872 @@
+{
+  "country_name": "Serbia",
+  "alpha_2": "RS",
+  "country_code": "688",
+  "banks": [
+    {
+      "bank_name": "Vtb Banka Ad Beograd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "MBBGRSBGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vojvodjanska Banka D.d.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Novi Sad",
+          "swift_code": "VBUBRS22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Univerzal Banka Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "UBBGRSBGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unicredit Bank Srbija A.d.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "BACXRSBGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ts-tristar Imperial, International Credit Institute Llc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pancevo",
+          "swift_code": "TIIERS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kbm Banka Ad Kragujevac",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kragujevac",
+          "swift_code": "KRAGRS22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jubmes Banka A.d. Beograd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "JMBNRSBGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hypo Alpe-adria-bank A.d. Beograd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "HAABRSBGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Government Of The Republic Of Serbia Ministry Of Finance",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "UPSRRSB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kbc Banka Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "AAAARSBGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Findomestic Banka Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "FIDMRSBGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurobank Ad",
+      "branches": [
+        {
+          "branch_name": "Custody Unit",
+          "city": "Beograd",
+          "swift_code": "ERBKRSBGSEC"
+        },
+        {
+          "branch_name": "Eurobank Ad",
+          "city": "Beograd",
+          "swift_code": "ERBKRSBGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Erste Bank A.d. Novi Sad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Novi Sad",
+          "swift_code": "GIBARS22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Efg Securities A.d. Belgrade",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "EFSBRSB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dunav Banka A.d. Beograd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "KMEBRS2ZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dijamant Banka Ad Zrenjanin",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zrenjanin",
+          "swift_code": "DIJARS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole Srbija Ad Novi Sad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Novi Sad",
+          "swift_code": "MEBARS22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Securities Depository And Clearing House",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "CSDERSB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cacanska Banka A.d.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cacak",
+          "swift_code": "CABARS22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banka Ekonomike",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pristina",
+          "swift_code": "EKOMRS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Intesa Ad, Beograd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "DBDBRSBGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alpha Bank Srbija Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "JUBARSBGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aik Banka Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nis",
+          "swift_code": "AIKBRS22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Teb Sha",
+      "branches": [
+        {
+          "branch_name": "Klina",
+          "city": "Klina",
+          "swift_code": "TEBKRS22030"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Pristina",
+          "swift_code": "TEBKRS22XXX"
+        },
+        {
+          "branch_name": "Main",
+          "city": "Pristina",
+          "swift_code": "TEBKRS22011"
+        },
+        {
+          "branch_name": "Shadervan",
+          "city": "Pristina",
+          "swift_code": "TEBKRS22012"
+        },
+        {
+          "branch_name": "Ferizaj",
+          "city": "Pristina",
+          "swift_code": "TEBKRS22013"
+        },
+        {
+          "branch_name": "Fushe Kosova",
+          "city": "Pristina",
+          "swift_code": "TEBKRS22014"
+        },
+        {
+          "branch_name": "Peja",
+          "city": "Pristina",
+          "swift_code": "TEBKRS22015"
+        },
+        {
+          "branch_name": "Vushtrri",
+          "city": "Pristina",
+          "swift_code": "TEBKRS22016"
+        },
+        {
+          "branch_name": "Gjilan",
+          "city": "Pristina",
+          "swift_code": "TEBKRS22017"
+        },
+        {
+          "branch_name": "Gjakova",
+          "city": "Pristina",
+          "swift_code": "TEBKRS22018"
+        },
+        {
+          "branch_name": "Dardania",
+          "city": "Pristina",
+          "swift_code": "TEBKRS22020"
+        },
+        {
+          "branch_name": "Rahovec",
+          "city": "Pristina",
+          "swift_code": "TEBKRS22019"
+        },
+        {
+          "branch_name": "Ulpiana",
+          "city": "Pristina",
+          "swift_code": "TEBKRS22021"
+        },
+        {
+          "branch_name": "Skenderaj",
+          "city": "Pristina",
+          "swift_code": "TEBKRS22022"
+        },
+        {
+          "branch_name": "Malisheva",
+          "city": "Pristina",
+          "swift_code": "TEBKRS22023"
+        },
+        {
+          "branch_name": "Drenas",
+          "city": "Pristina",
+          "swift_code": "TEBKRS22024"
+        },
+        {
+          "branch_name": "Theranda",
+          "city": "Pristina",
+          "swift_code": "TEBKRS22025"
+        },
+        {
+          "branch_name": "Lypjan",
+          "city": "Pristina",
+          "swift_code": "TEBKRS22026"
+        },
+        {
+          "branch_name": "Mitrovica",
+          "city": "Pristina",
+          "swift_code": "TEBKRS22027"
+        },
+        {
+          "branch_name": "Hani Elezit",
+          "city": "Pristina",
+          "swift_code": "TEBKRS22029"
+        },
+        {
+          "branch_name": "Prizren Main",
+          "city": "Pristina",
+          "swift_code": "TEBKRS22028"
+        },
+        {
+          "branch_name": "Peja City Office",
+          "city": "Pristina",
+          "swift_code": "TEBKRS22031"
+        },
+        {
+          "branch_name": "Qafa City Office",
+          "city": "Pristina",
+          "swift_code": "TEBKRS22033"
+        },
+        {
+          "branch_name": "Pristina Qendra",
+          "city": "Pristina",
+          "swift_code": "TEBKRS22034"
+        },
+        {
+          "branch_name": "Main",
+          "city": "Pristina",
+          "swift_code": "TEBKXKPR011"
+        },
+        {
+          "branch_name": "Shadervan",
+          "city": "Pristina",
+          "swift_code": "TEBKXKPR012"
+        },
+        {
+          "branch_name": "Ferizaj",
+          "city": "Pristina",
+          "swift_code": "TEBKXKPR013"
+        },
+        {
+          "branch_name": "Fushe Kosova",
+          "city": "Pristina",
+          "swift_code": "TEBKXKPR014"
+        },
+        {
+          "branch_name": "Peja",
+          "city": "Pristina",
+          "swift_code": "TEBKXKPR015"
+        },
+        {
+          "branch_name": "Vushtrri",
+          "city": "Pristina",
+          "swift_code": "TEBKXKPR016"
+        },
+        {
+          "branch_name": "Gjilan",
+          "city": "Pristina",
+          "swift_code": "TEBKXKPR017"
+        },
+        {
+          "branch_name": "Gjakova",
+          "city": "Pristina",
+          "swift_code": "TEBKXKPR018"
+        },
+        {
+          "branch_name": "Rahovec",
+          "city": "Pristina",
+          "swift_code": "TEBKXKPR019"
+        },
+        {
+          "branch_name": "Dardania",
+          "city": "Pristina",
+          "swift_code": "TEBKXKPR020"
+        },
+        {
+          "branch_name": "Ulpiana",
+          "city": "Pristina",
+          "swift_code": "TEBKXKPR021"
+        },
+        {
+          "branch_name": "Skenderaj",
+          "city": "Pristina",
+          "swift_code": "TEBKXKPR022"
+        },
+        {
+          "branch_name": "Malisheva",
+          "city": "Pristina",
+          "swift_code": "TEBKXKPR023"
+        },
+        {
+          "branch_name": "Drenas",
+          "city": "Pristina",
+          "swift_code": "TEBKXKPR024"
+        },
+        {
+          "branch_name": "Theranda",
+          "city": "Pristina",
+          "swift_code": "TEBKXKPR025"
+        },
+        {
+          "branch_name": "Lypjan",
+          "city": "Pristina",
+          "swift_code": "TEBKXKPR026"
+        },
+        {
+          "branch_name": "Mitrovica",
+          "city": "Pristina",
+          "swift_code": "TEBKXKPR027"
+        },
+        {
+          "branch_name": "Prizren Main",
+          "city": "Pristina",
+          "swift_code": "TEBKXKPR028"
+        },
+        {
+          "branch_name": "Hani Elezit",
+          "city": "Pristina",
+          "swift_code": "TEBKXKPR029"
+        },
+        {
+          "branch_name": "Klina",
+          "city": "Klina",
+          "swift_code": "TEBKXKPR030"
+        },
+        {
+          "branch_name": "Peja City Office",
+          "city": "Pristina",
+          "swift_code": "TEBKXKPR031"
+        },
+        {
+          "branch_name": "Qafa City Office",
+          "city": "Pristina",
+          "swift_code": "TEBKXKPR033"
+        },
+        {
+          "branch_name": "Pristina Qendra",
+          "city": "Pristina",
+          "swift_code": "TEBKXKPR034"
+        },
+        {
+          "branch_name": "Teb Sha",
+          "city": "Pristina",
+          "swift_code": "TEBKXKPRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ts-imperial Clearing House Llc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "TCHLRSB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Srpska Banka A.d.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "SRBNRSBGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Banka Srbija Ad Beograd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "SOGYRSBGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sberbank Srbija A.d.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "SABRRSBGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Raiffeisen Banka A.d.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "RZBSRSBGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Racuni Prihoda I Rashoda Nbs",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "NBJORSB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Procredit Bank A.d. Belgrade",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "PRCBRSBGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Postal Savings Bank Jsc",
+      "branches": [
+        {
+          "branch_name": "Corporate Customers",
+          "city": "Beograd",
+          "swift_code": "SBPORSBG100"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "SBPORSBGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Poljoprivredno Investiciona Banka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "PIBBRS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Piraeus Bank Ad Beograd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "PIRBRSBGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pesterbanka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Novi Pazar",
+          "swift_code": "PESTRS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Otp Banka Srbija A.d. Novi Sad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Novi Sad",
+          "swift_code": "OTPVRS22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Opportunity Banka A.d. Novi Sad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Novi Sad",
+          "swift_code": "OPPBRS22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Opportunity Banka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Novi Sad",
+          "swift_code": "OPSARS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nlb Banka A.d. Beograd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Novi Beograd",
+          "swift_code": "CONARS22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Narodna Banka Srbije (national Bank Of Serbia-nbs",
+      "branches": [
+        {
+          "branch_name": "Narodna Banka Srbije (national Bank Of Serbia-nbs",
+          "city": "Beograd",
+          "swift_code": "NBSRRS21001"
+        },
+        {
+          "branch_name": "Narodna Banka Srbije (national Bank Of Serbia-nbs",
+          "city": "Beograd",
+          "swift_code": "NBSRRS21002"
+        },
+        {
+          "branch_name": "Narodna Banka Srbije (national Bank Of Serbia-nbs",
+          "city": "Beograd",
+          "swift_code": "NBSRRS21003"
+        },
+        {
+          "branch_name": "Narodna Banka Srbije (national Bank Of Serbia-nbs",
+          "city": "Beograd",
+          "swift_code": "NBSRRS21004"
+        },
+        {
+          "branch_name": "Narodna Banka Srbije (national Bank Of Serbia-nbs",
+          "city": "Beograd",
+          "swift_code": "NBSRRS21005"
+        },
+        {
+          "branch_name": "Narodna Banka Srbije (national Bank Of Serbia-nbs",
+          "city": "Beograd",
+          "swift_code": "NBSRRS21006"
+        },
+        {
+          "branch_name": "Narodna Banka Srbije (national Bank Of Serbia-nbs",
+          "city": "Beograd",
+          "swift_code": "NBSRRS21007"
+        },
+        {
+          "branch_name": "Narodna Banka Srbije (national Bank Of Serbia-nbs",
+          "city": "Beograd",
+          "swift_code": "NBSRRS21008"
+        },
+        {
+          "branch_name": "Narodna Banka Srbije (national Bank Of Serbia-nbs",
+          "city": "Beograd",
+          "swift_code": "NBSRRS21009"
+        },
+        {
+          "branch_name": "Narodna Banka Srbije (national Bank Of Serbia-nbs",
+          "city": "Kosovska Mitrovica",
+          "swift_code": "NBSRRS21JJ1"
+        },
+        {
+          "branch_name": "Narodna Banka Srbije (national Bank Of Serbia-nbs",
+          "city": "Beograd",
+          "swift_code": "NBSRRS21PI1"
+        },
+        {
+          "branch_name": "Narodna Banka Srbije (national Bank Of Serbia-nbs",
+          "city": "Beograd",
+          "swift_code": "NBSRRS21UP1"
+        },
+        {
+          "branch_name": "Narodna Banka Srbije (national Bank Of Serbia-nbs",
+          "city": "Beograd",
+          "swift_code": "NBSRRS21UP2"
+        },
+        {
+          "branch_name": "Narodna Banka Srbije (national Bank Of Serbia-nbs",
+          "city": "Beograd",
+          "swift_code": "NBSRRS21UP3"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "NBSRRSBDXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "NBSRRSBGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mega-euro Banka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "MEGBRSB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mb Bank A.d. Nis",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nis",
+          "swift_code": "MBBNRS21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Marfin Bank A.d. Beograd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "LIKIRSBGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Komercijalna Banka A.d. Beograd",
+      "branches": [
+        {
+          "branch_name": "Branch Cacak",
+          "city": "Cacak",
+          "swift_code": "KOBBRSBGFCA"
+        },
+        {
+          "branch_name": "Branch Jagodina",
+          "city": "Jagodina",
+          "swift_code": "KOBBRSBGFJA"
+        },
+        {
+          "branch_name": "Kragujevac Branch",
+          "city": "Kragujevac",
+          "swift_code": "KOBBRSBGFKG"
+        },
+        {
+          "branch_name": "Kosovo Polje Branch",
+          "city": "Kosovo Polje",
+          "swift_code": "KOBBRSBGFKP"
+        },
+        {
+          "branch_name": "Branch Kraljevo",
+          "city": "Kraljevo",
+          "swift_code": "KOBBRSBGFKV"
+        },
+        {
+          "branch_name": "Novi Pazar Branch",
+          "city": "Novi Pazar",
+          "swift_code": "KOBBRSBGFNP"
+        },
+        {
+          "branch_name": "Novi Sad Branch",
+          "city": "Novi Sad",
+          "swift_code": "KOBBRSBGFNS"
+        },
+        {
+          "branch_name": "Branch Pozarevac",
+          "city": "Pozarevac",
+          "swift_code": "KOBBRSBGFPO"
+        },
+        {
+          "branch_name": "Sabac Branch",
+          "city": "Sabac",
+          "swift_code": "KOBBRSBGFSA"
+        },
+        {
+          "branch_name": "Branch Sremska Mitrovica",
+          "city": "Sremska Mitrovica",
+          "swift_code": "KOBBRSBGFSM"
+        },
+        {
+          "branch_name": "Branch Sombor",
+          "city": "Sombor",
+          "swift_code": "KOBBRSBGFSO"
+        },
+        {
+          "branch_name": "Subotica Branch",
+          "city": "Subotica",
+          "swift_code": "KOBBRSBGFSU"
+        },
+        {
+          "branch_name": "Branch Uzice",
+          "city": "Uzice",
+          "swift_code": "KOBBRSBGFUE"
+        },
+        {
+          "branch_name": "Vlajevo Branch",
+          "city": "Valjevo",
+          "swift_code": "KOBBRSBGFVA"
+        },
+        {
+          "branch_name": "Branch Zrenjanin",
+          "city": "Zrenjanin",
+          "swift_code": "KOBBRSBGFZR"
+        },
+        {
+          "branch_name": "Main Branch",
+          "city": "Beograd",
+          "swift_code": "KOBBRSBGGFB"
+        },
+        {
+          "branch_name": "Main Branch Nis",
+          "city": "Nis",
+          "swift_code": "KOBBRSBGGFN"
+        },
+        {
+          "branch_name": "37000 Krusevac",
+          "city": "Krusevac",
+          "swift_code": "KOBBRSBGKRS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Beograd",
+          "swift_code": "KOBBRSBGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Raiffeisen Bank Kosovo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pristina",
+          "swift_code": "RBKORS22XXX"
+        },
+        {
+          "branch_name": "Raiffeisen Bank Kosovo",
+          "city": "Pristina",
+          "swift_code": "RBKOXKPRXXX"
+        }
+      ]
+    }
+  ]
+}

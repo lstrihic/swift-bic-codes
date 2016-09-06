@@ -1,0 +1,157 @@
+{
+  "country_name": "Madagascar",
+  "alpha_2": "MG",
+  "country_code": "450",
+  "banks": [
+    {
+      "bank_name": "The Mauritius Commercial Bank (madagascar) Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antananarivo",
+          "swift_code": "MCBLMGMGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Paositra Malagasy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antananarivo",
+          "swift_code": "PAMLMGM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Marche Interbancaire Des Devises M.i.d.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antananarivo",
+          "swift_code": "XMDGMGM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bm Madagascar S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antananarivo",
+          "swift_code": "BAIMMGMGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Sbm Madagascar",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antananarivo",
+          "swift_code": "BSBMMGMGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Industrielle Et Commerciale De Madagascar",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antananarivo",
+          "swift_code": "BICMMGMGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Malgache De L'ocean Indien",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antananarivo",
+          "swift_code": "BMOIMGMGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Accesbanque Madagascar",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antananarivo",
+          "swift_code": "ABMGMGMGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bni Madagascar",
+      "branches": [
+        {
+          "branch_name": "Antsiranana",
+          "city": "Antsiranana",
+          "swift_code": "CLMDMGM10MA"
+        },
+        {
+          "branch_name": "Mahajanga",
+          "city": "Mahajanga",
+          "swift_code": "CLMDMGM10MM"
+        },
+        {
+          "branch_name": "Toamasina",
+          "city": "Toamasina",
+          "swift_code": "CLMDMGM10MT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Antananarivo",
+          "swift_code": "CLMDMGMGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bfv-societe Generale",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antananarivo",
+          "swift_code": "BFAVMGMGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Centrale De Madagascar",
+      "branches": [
+        {
+          "branch_name": "Rtgs Backup Line",
+          "city": "Antananarivo",
+          "swift_code": "REPUMGMGRTG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Antananarivo",
+          "swift_code": "REPUMGMGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Africa Madagascar",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antananarivo",
+          "swift_code": "AFRIMGMGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bgfibank Madagascar",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Antananarivo",
+          "swift_code": "BGFIMGMGXXX"
+        }
+      ]
+    }
+  ]
+}

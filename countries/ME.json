@@ -1,0 +1,127 @@
+{
+  "country_name": "Montenegro",
+  "alpha_2": "ME",
+  "country_code": "499",
+  "banks": [
+    {
+      "bank_name": "Societe Generale Banka Montenegro",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Podgorica",
+          "swift_code": "PDBPMEPGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prva Banka Crne Gore Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Podgorica",
+          "swift_code": "PRVAMEPGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nlb Montenegrobanka A.d. Podgorica",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Podgorica",
+          "swift_code": "MNBAMEPGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Komercijalna Banka Ad Budva",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budva",
+          "swift_code": "KOBBMEP2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Invest Banka Montenegro Ad Podgorica (formaly Pljevaljska Banka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Podgorica",
+          "swift_code": "IBMNMEPGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hypo Alpe-adria-bank A.d. Podgorica",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Podgorica",
+          "swift_code": "HAABMEPGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Crnogorska Komercijalna Banka Ad Podgorica",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Podgorica",
+          "swift_code": "CKBCMEPGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Centralna Banka Crne Gore",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Podgorica",
+          "swift_code": "CBCGMEPGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Montenegro",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Podgorica",
+          "swift_code": "CBCGMEB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Erste Bank Ad Podgorica",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Podgorica",
+          "swift_code": "OPPOMEPGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atlas Banka Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Podgorica",
+          "swift_code": "ATLMMEP2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hipotekarna Banka Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Podgorica",
+          "swift_code": "HBBAMEPGXXX"
+        }
+      ]
+    }
+  ]
+}

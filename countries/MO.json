@@ -1,0 +1,297 @@
+{
+  "country_name": "Macao",
+  "alpha_2": "MO",
+  "country_code": "446",
+  "banks": [
+    {
+      "bank_name": "Wing Lung Bank Limited Macau Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "WUBAMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Macau Chinese Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "MCHNMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Bank Of East Asia,limited Macau Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "BEASMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tai Fung Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "TFBLMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Luso International Banking Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "LUSOMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial And Commercial Bank Of China (macau) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "ICBKMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hua Nan Commercial Bank,ltd. Macau Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "HNBKMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hang Seng Bank Limited,macau Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "HASEMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Commercial Bank, Macau Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "FCBKMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dbs Bank (hong Kong) Limited, Macau Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "DBSSMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Na, Macau",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "CITIMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chong Hing Bank Limited Macau Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "LCHBMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "China Guangfa Bank Co., Ltd Macau Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "GDBKMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "China Construction Bank (macau) Corporation Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "CCBQMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "China Citic Bank International Limited Macau Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "KWHKMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa Geral De Depositos, Sa-sucursal Offshore De Macau",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "CGDIMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Sinopac (formerly Int'l Bank Of Taipei",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "SINOMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa Economica Postal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "CIEPMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of China, Macau Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "BKCHMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Communications Co.,ltd. Macau Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "COMMMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Weng Hang, S.a.(formerly Banco Weng Hang,s.ar.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "WIHBMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Espirito Santo Do Oriente, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "BESCMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Delta Asia S.a.r.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "DABGMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional Ultramarino, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "BNULMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Commercial Portugues",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "BCOMMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Comercial De Macau, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "CMACMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Autoridade Monetaria De Macau",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "MFAMMOMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bpi Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macau",
+          "swift_code": "BBPIMOMXXXX"
+        },
+        {
+          "branch_name": "All Pt Branches Not Listed",
+          "city": "Porto",
+          "swift_code": "BBPIPTPLXXX"
+        },
+        {
+          "branch_name": "Offshore Branch",
+          "city": "Funchal",
+          "swift_code": "BBPIPTPLFUN"
+        }
+      ]
+    }
+  ]
+}

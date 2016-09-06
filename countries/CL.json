@@ -1,0 +1,842 @@
+{
+  "country_name": "Chile",
+  "alpha_2": "CL",
+  "country_code": "152",
+  "banks": [
+    {
+      "bank_name": "Tesoreria General De La Republica",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "TEGECLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tanner Corredores De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Tanner Corredores De Bolsa",
+          "city": "Santiago",
+          "swift_code": "TCBOCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scotia Corredora De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "CBSCCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Santander Investment S.a. Corredores De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "SANMCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronics Chile Limitada (ltda",
+      "branches": [
+        {
+          "branch_name": "Sech",
+          "city": "Santiago",
+          "swift_code": "SECTCLR1850"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "SECTCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Redbanc S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "REBCCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Penta Corredores De Bolsa S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "PCOLCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pacific Overseas International Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "PAONCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Negocios Y Valores S.a C De B",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "NEVACLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moneda Corredores De Bolsa De Bolsa Limitada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "MCBBCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Security",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "BSCLCLRMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Santander Chile",
+      "branches": [
+        {
+          "branch_name": "Global Custody Department",
+          "city": "Santiago",
+          "swift_code": "BSCHCLRMGST"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "BSCHCLRMXXX"
+        },
+        {
+          "branch_name": "Antofagasta",
+          "city": "Antofagasta",
+          "swift_code": "BSCHCLR10R2"
+        },
+        {
+          "branch_name": "Arica",
+          "city": "Arica",
+          "swift_code": "BSCHCLR10R3"
+        },
+        {
+          "branch_name": "Chillan",
+          "city": "Chillan",
+          "swift_code": "BSCHCLR10R4"
+        },
+        {
+          "branch_name": "Concepcion",
+          "city": "Concepcion",
+          "swift_code": "BSCHCLR10R5"
+        },
+        {
+          "branch_name": "Coyhaique",
+          "city": "Coyhaique",
+          "swift_code": "BSCHCLR10R6"
+        },
+        {
+          "branch_name": "Curico",
+          "city": "Curico",
+          "swift_code": "BSCHCLR10R7"
+        },
+        {
+          "branch_name": "Iquique",
+          "city": "Iquique",
+          "swift_code": "BSCHCLR10RA"
+        },
+        {
+          "branch_name": "La Serena",
+          "city": "Serena",
+          "swift_code": "BSCHCLR10RB"
+        },
+        {
+          "branch_name": "Puerto Montt",
+          "city": "Puerto Montt",
+          "swift_code": "BSCHCLR10RD"
+        },
+        {
+          "branch_name": "Punta Arenas",
+          "city": "Punta Arenas",
+          "swift_code": "BSCHCLR10RE"
+        },
+        {
+          "branch_name": "Rancagua",
+          "city": "Rancagua",
+          "swift_code": "BSCHCLR10RF"
+        },
+        {
+          "branch_name": "Talca",
+          "city": "Talca",
+          "swift_code": "BSCHCLR10RG"
+        },
+        {
+          "branch_name": "Temuco",
+          "city": "Temuco",
+          "swift_code": "BSCHCLR10RH"
+        },
+        {
+          "branch_name": "Valdivia",
+          "city": "Valdivia",
+          "swift_code": "BSCHCLR10RJ"
+        },
+        {
+          "branch_name": "Valparaiso",
+          "city": "Valparaiso",
+          "swift_code": "BSCHCLR10RK"
+        },
+        {
+          "branch_name": "Vina Del Mar",
+          "city": "Vina Del Mar",
+          "swift_code": "BSCHCLR10RL"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Ripley",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "RPLYCLRMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Penta",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "BPENCLRMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Paris",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "BCNPCLRMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Itau Chile",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "ITAUCLRMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Internacional",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "BICHCLRMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Falabella",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "FALACLRMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Del Estado De Chile",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "BECHCLRMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Credito E Inversiones",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "CREDCLRMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Chile, As Legal Succesor Of Citibank Chile",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "CITICLRSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Chile",
+      "branches": [
+        {
+          "branch_name": "Export",
+          "city": "Santiago",
+          "swift_code": "BCHICLRMEXP"
+        },
+        {
+          "branch_name": "Import Head Office",
+          "city": "Santiago",
+          "swift_code": "BCHICLRMIMP"
+        },
+        {
+          "branch_name": "Import Other Santiago Branches",
+          "city": "Santiago",
+          "swift_code": "BCHICLRMIOB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "BCHICLRMXXX"
+        },
+        {
+          "branch_name": "Vina Del Mar",
+          "city": "Vina Del Mar",
+          "swift_code": "BCHICLR10R2"
+        },
+        {
+          "branch_name": "Arica",
+          "city": "Arica",
+          "swift_code": "BCHICLR10R3"
+        },
+        {
+          "branch_name": "Iquique",
+          "city": "Iquique",
+          "swift_code": "BCHICLR10R4"
+        },
+        {
+          "branch_name": "Antofagasta",
+          "city": "Antofagasta",
+          "swift_code": "BCHICLR10R5"
+        },
+        {
+          "branch_name": "La Serena",
+          "city": "La Serena",
+          "swift_code": "BCHICLR10R6"
+        },
+        {
+          "branch_name": "Temuco",
+          "city": "Temuco",
+          "swift_code": "BCHICLR10R7"
+        },
+        {
+          "branch_name": "Puerto Montt",
+          "city": "Puerto Montt",
+          "swift_code": "BCHICLR10R8"
+        },
+        {
+          "branch_name": "Punta Arenas",
+          "city": "Punta Arenas",
+          "swift_code": "BCHICLR10RA"
+        },
+        {
+          "branch_name": "Concepcion",
+          "city": "Concepcion",
+          "swift_code": "BCHICLR10RC"
+        },
+        {
+          "branch_name": "Valparaiso",
+          "city": "Valparaiso",
+          "swift_code": "BCHICLR10RV"
+        },
+        {
+          "branch_name": "Coyhaique",
+          "city": "Coyhaique",
+          "swift_code": "BCHICLR10RY"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Consorcio",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "MNEXCLRMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Central De Chile",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "BCECCLRFXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "BCECCLRMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "BCECCLA1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "BCECCLRDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bilbao Vizcaya Argentaria, Chile",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "BHIFCLRMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bice",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "BICECLRMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch Corredores De Bolsa S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "MLOBCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Celfin Capital S.a. Corredores De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Celfin Capital S.a. Corredores De Bolsa",
+          "city": "Santiago",
+          "swift_code": "BPABCLRMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Casa De Moneda De Chile",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "CAMCCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Casa De Cambios Guinazu S.a.",
+      "branches": [
+        {
+          "branch_name": "Casa De Cambios Guinazu S.a.",
+          "city": "Santiago",
+          "swift_code": "GINACLRMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bolsa De Comercio De Santiago",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "XSGOCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bci Corredor De Bolsa S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "BCCSCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bbva Corredores De Bolsa Limitada",
+      "branches": [
+        {
+          "branch_name": "Bbva Corredores De Bolsa Limitada",
+          "city": "Santiago",
+          "swift_code": "BCBDCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of America, S.a. Santiago",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "BOFACLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banchile Corredores De Bolsa S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "BCOSCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Afex Agentes De Valores Limitada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "AAVLCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scotiabank Chile",
+      "branches": [
+        {
+          "branch_name": "Concepcion",
+          "city": "Concepcion",
+          "swift_code": "BKSACLRM068"
+        },
+        {
+          "branch_name": "Santiago",
+          "city": "Iquique",
+          "swift_code": "BKSACLRM055"
+        },
+        {
+          "branch_name": "Arica",
+          "city": "Arica",
+          "swift_code": "BKSACLRM064"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "BKSACLRMXXX"
+        },
+        {
+          "branch_name": "Valparaiso",
+          "city": "Valparaiso",
+          "swift_code": "BKSACLRM061"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rabobank Chile",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "RABOCLRMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank (Chile)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "BLICCLRMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Factorline S.A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "FTLNCLRMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dnb Bank Asa, Agencia En Chile",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "DNBACLRMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank (Chile) S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "DEUTCLRMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deposito Central De Valores S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "DCVVCLRMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corp Banca",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "CONBCLRMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Combanc S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "PCCACLRMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cclv, Contraparte Central S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "ECCVCLRMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mbi Corredores De Bolsa S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "MBCBCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Latcam Pagos Internacionales S.a.",
+      "branches": [
+        {
+          "branch_name": "Latcam Pagos Internacionales S.a.",
+          "city": "Santiago",
+          "swift_code": "LPITCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Larrain Vial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "LARVCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.p. Morgan Corredores De Bolsa Spa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "MOCBCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Itau Chile Corredor De Bolsa Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "ICCSCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Im Trust S.a. Corredores De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "TROBCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gbm Corredores De Bolsa Limitada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "GCBMCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fitch Chile Clasificadora De Reisgo Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "FRIPCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Euroamerica Corredores De Bolsa S.a",
+      "branches": [
+        {
+          "branch_name": "Euroamerica Corredores De Bolsa S.a",
+          "city": "Santiago",
+          "swift_code": "EUOBCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Securities Corredores De Bolsa Limitada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "DSCBCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion Nacional Del Cobre De Chile",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "CNCCCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion Fomento De La Produccion",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "CFPCCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corpcapital Corredores De Bolsa Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "CRRBCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Consumos E De Ahorros Carabineros De Chile Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "CCACCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Consorcio Corredores De Bolsa S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "CNCOCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Comder Contraparte Central S.a.",
+      "branches": [
+        {
+          "branch_name": "Comder Contraparte Central S.a.",
+          "city": "Santiago",
+          "swift_code": "CDERCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Celfin S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "CELFCLR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Celfin Capital Sa Corredores De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago",
+          "swift_code": "CCOACLR1XXX"
+        }
+      ]
+    }
+  ]
+}

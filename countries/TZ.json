@@ -1,0 +1,732 @@
+{
+  "country_name": "Tanzania, United Republic of",
+  "alpha_2": "TZ",
+  "country_code": "834",
+  "banks": [
+    {
+      "bank_name": "United Bank For Africa (tanzania) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "UNAFTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ulc (tanzania) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "ULCTTZT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uchumi Commercial Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Moshi",
+          "swift_code": "UCCTTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubl Bank (tanzania) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "UNILTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Twiga Bancorp Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "NABHTZT1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "TWIGTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trust Bank (tanzania) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "TRBATZT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tib Development Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "TAINTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tanzania Women's Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "TWBLTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tanzania Revenue Authority",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "TARATZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tanzania Postal Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "TAPBTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tanzania Housing Bank",
+      "branches": [
+        {
+          "branch_name": "Hifadhi Branch",
+          "city": "Dar Es Salaam",
+          "swift_code": "TAHOTZT10T2"
+        },
+        {
+          "branch_name": "Tanga Branch",
+          "city": "Tanga",
+          "swift_code": "TAHOTZT10T3"
+        },
+        {
+          "branch_name": "Dodoma Branch",
+          "city": "Dodoma",
+          "swift_code": "TAHOTZT10T4"
+        },
+        {
+          "branch_name": "Mwanza Branch",
+          "city": "Mwanza",
+          "swift_code": "TAHOTZT10T5"
+        },
+        {
+          "branch_name": "Mbeya Branch",
+          "city": "Mbeya",
+          "swift_code": "TAHOTZT10T6"
+        },
+        {
+          "branch_name": "Morogoro Branch",
+          "city": "Morogoro",
+          "swift_code": "TAHOTZT10T7"
+        },
+        {
+          "branch_name": "Moshi Branch",
+          "city": "Moshi",
+          "swift_code": "TAHOTZT10T8"
+        },
+        {
+          "branch_name": "Zanzibar Branch",
+          "city": "Zanzibar",
+          "swift_code": "TAHOTZT10TA"
+        },
+        {
+          "branch_name": "City Branch",
+          "city": "Dar Es Salaam",
+          "swift_code": "TAHOTZT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank Tanzania Ltd",
+      "branches": [
+        {
+          "branch_name": "Securities Services Unit",
+          "city": "Dar Es Salaam",
+          "swift_code": "SCBLTZTXSSU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "SCBLTZTXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stanbic Bank Tanzania Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "SBICTZTXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sabmiller Tanzania",
+      "branches": [
+        {
+          "branch_name": "Dar Es Salaam",
+          "city": "Dar Es Salaam",
+          "swift_code": "SABMTZT1TBL"
+        },
+        {
+          "branch_name": "Dar Es Salaam",
+          "city": "Dar Es Salaam",
+          "swift_code": "SABMTZT1TDL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "SABMTZT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "People's Bank Of Zanzibar, The",
+      "branches": [
+        {
+          "branch_name": "Chake Chake Branch",
+          "city": "Zanzibar",
+          "swift_code": "PBZATZTZCHK"
+        },
+        {
+          "branch_name": "Mwanakwerekwe Branch",
+          "city": "Zanzibar",
+          "swift_code": "PBZATZTZNWK"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Zanzibar",
+          "swift_code": "PBZATZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orbit Securites Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "ORSUTZT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Crdb Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Lumumba Branch",
+          "city": "Dar Es Salaam",
+          "swift_code": "CORUTZT10T2"
+        },
+        {
+          "branch_name": "Tanga",
+          "city": "Tanga",
+          "swift_code": "CORUTZT10T3"
+        },
+        {
+          "branch_name": "Arusha",
+          "city": "Arusha",
+          "swift_code": "CORUTZT10T4"
+        },
+        {
+          "branch_name": "Mwanza",
+          "city": "Mwanza",
+          "swift_code": "CORUTZT10T5"
+        },
+        {
+          "branch_name": "Shinyanga",
+          "city": "Shinyanga",
+          "swift_code": "CORUTZT10T6"
+        },
+        {
+          "branch_name": "Azikiwe Branch",
+          "city": "Dar Es Salaam",
+          "swift_code": "CORUTZT10TD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "CORUTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Covenant Bank For Women (tanzania) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "CBFWTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Bank Of Africa (tanzania) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "CBAFTZTZXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "UNBFTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Tanzania Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "CITITZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Boa Bank Tanzania",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "EUAFTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Bank Tanzania Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "BARCTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Tanzania",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "TANZTZTXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of India (tanzania) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "BKIDTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Baroda (tanzania) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "BARBTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank M Tanzania Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "BNKMTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Azania Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "ADBCTZT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Azania Bancorp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "AZANTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Akiba Commercial Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "AKCOTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "African Banking Corporation Tanzania Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "FMBZTZTXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Advans Bank Tanzania",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "ADVBTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Accessbank Tanzania Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "ACTZTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "East African Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "AFDETZT1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "AFDEUGKAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nairobi",
+          "swift_code": "EADBKEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nic Bank (tanzania) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "SFICTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Microfinance Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "NMIBTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Commerce, The",
+      "branches": [
+        {
+          "branch_name": "Bank House Branch",
+          "city": "Dar Es Salaam",
+          "swift_code": "NLCBTZT10T6"
+        },
+        {
+          "branch_name": "Masdo House Branch",
+          "city": "Dar Es Salaam",
+          "swift_code": "NLCBTZT10T7"
+        },
+        {
+          "branch_name": "Corporate Branch",
+          "city": "Dar Es Salaam",
+          "swift_code": "NLCBTZTX0T3"
+        },
+        {
+          "branch_name": "Arusha Branch",
+          "city": "Arusha",
+          "swift_code": "NLCBTZTX0T4"
+        },
+        {
+          "branch_name": "Mwanza Branch",
+          "city": "Mwanza",
+          "swift_code": "NLCBTZTX0T5"
+        },
+        {
+          "branch_name": "Samora Branch",
+          "city": "Dar Es Salaam",
+          "swift_code": "NLCBTZTX0T8"
+        },
+        {
+          "branch_name": "Moshi Branch",
+          "city": "Moshi",
+          "swift_code": "NLCBTZTX0TM"
+        },
+        {
+          "branch_name": "Financial Department-nbc House",
+          "city": "Dar Es Salaam",
+          "swift_code": "NLCBTZTXFIN"
+        },
+        {
+          "branch_name": "Industrial Branch",
+          "city": "Dar Es Salaam",
+          "swift_code": "NLCBTZTXIND"
+        },
+        {
+          "branch_name": "Kichwele Branch",
+          "city": "Dar Es Salaam",
+          "swift_code": "NLCBTZTXKIC"
+        },
+        {
+          "branch_name": "Mbeya Branch",
+          "city": "Mbeya",
+          "swift_code": "NLCBTZTXMBE"
+        },
+        {
+          "branch_name": "Mnazi Mmoja Branch",
+          "city": "Dar Es Salaam",
+          "swift_code": "NLCBTZTXMNA"
+        },
+        {
+          "branch_name": "Morogoro Branch",
+          "city": "Morogoro",
+          "swift_code": "NLCBTZTXMOR"
+        },
+        {
+          "branch_name": "Tanga Branch",
+          "city": "Tanga",
+          "swift_code": "NLCBTZTXTAN"
+        },
+        {
+          "branch_name": "Headoffice",
+          "city": "Dar Es Salaam",
+          "swift_code": "NLCBTZTXXXX"
+        },
+        {
+          "branch_name": "Zanzibar Branch-unguja",
+          "city": "Zanzibar",
+          "swift_code": "NLCBTZTXZAN"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mwanga Community Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Moshi",
+          "swift_code": "MWCBTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mkombozi Commercial Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "MKCBTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maendeleo Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Maendeleo Bank Ltd",
+          "city": "Dar Es Salaam",
+          "swift_code": "MBTLTZTZXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "MBTLTZT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kilimanjaro Co-operative Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Moshi",
+          "swift_code": "KLMJTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kcb Bank Tanzania Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "KCBLTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Karadha Company Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "KACLTZT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Commercial Bank (tanzania) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "BKMYTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "I And M Bank (t) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "CFUBTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Habib African Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "HABLTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First National Bank Of Tanzania",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "FIRNTZTXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eximbank (tanzania) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "EXTNTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Equity Bank Tanzania Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "EQBLTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Efatha Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "EFABTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Tanzania Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "ECOCTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Diamond Trust Bank Tanzania Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "DTKETZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dar Es Salaam Community Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "DASUTZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Crown Finance And Leasing Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "CFLLTZT1XXX"
+        }
+      ]
+    }
+  ]
+}

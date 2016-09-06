@@ -1,0 +1,5542 @@
+{
+  "country_name": "Japan",
+  "alpha_2": "JP",
+  "country_code": "392",
+  "banks": [
+    {
+      "bank_name": "Bank Of Japan",
+      "branches": [
+        {
+          "branch_name": "For Japans Reserves Use Only",
+          "city": "Tokyo",
+          "swift_code": "BOJPJPJTBJ1"
+        },
+        {
+          "branch_name": "For Japans Reserves Use Only",
+          "city": "Tokyo",
+          "swift_code": "BOJPJPJTMF1"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "BOJPJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Iwate Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Morioka",
+          "swift_code": "BAIWJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Fukuoka, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fukuoka",
+          "swift_code": "FKBKJPJT100"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "FKBKJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Communications, Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "COMMJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of America, Tokyo",
+      "branches": [
+        {
+          "branch_name": "Tokyo Branch",
+          "city": "Tokyo",
+          "swift_code": "BOFAJPJXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Negara Indonesia (Persero), Pt., Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "BNINJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bangkok Bank Public Company Ltd.",
+      "branches": [
+        {
+          "branch_name": "Osaka 541-0056",
+          "city": "Osaka",
+          "swift_code": "BKKBJPJTOSA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "BKKBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bilbao Vizcaya Argentaria Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "BBVAJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Awa Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokushima",
+          "swift_code": "AWABJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ashikaga Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Utsunomiya",
+          "swift_code": "ASIKJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asahi Shinkin Bank, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "ASKBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aozora Bank, Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NCBTJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aomori Bank Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Aomori",
+          "swift_code": "AOMBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amagasaki Shinkin Bank, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amagasaki",
+          "swift_code": "AMASJPJZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Akita Bank, Ltd.,The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Akita",
+          "swift_code": "AKITJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aichi Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nagoya",
+          "swift_code": "AICHJPJNXXX"
+        },
+        {
+          "branch_name": "Osaka 541",
+          "city": "Osaka",
+          "swift_code": "AICHJPJ10JS"
+        },
+        {
+          "branch_name": "Tokyo 103",
+          "city": "Tokyo",
+          "swift_code": "AICHJPJ10JT"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nagano Bank, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nagano",
+          "swift_code": "NAGAJPJZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Musashino Bank Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Treasury And Securities Division",
+          "city": "Saitama",
+          "swift_code": "MUBKJPJTTSD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Saitama",
+          "swift_code": "MUBKJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pictet Asset Management (Japan) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "PICTJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hokuto Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Akita",
+          "swift_code": "HOKBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "China Construction Bank Corporation Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "PCBCJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chiba Kogyo Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "CHIKJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chiba Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "CHBAJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chang Hwa Commercial Bank Ltd., Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "CCBCJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Tanshi Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "CTRLJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brown Brothers Harriman Securities Investment Management (Japan) Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "BBHCJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Securities (Japan) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "BNPAJPJ2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas S.A. - Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "BNPAJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Blackrock Japan Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "BGIAJPJTXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "BLKSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bgc Shoken Kaisha Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "CFILJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Capital Japan Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "BARCJPJ9XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Yokohama, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "HAMAJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Taiwan, Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "BKTWJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of The Ryukyus, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Naha",
+          "swift_code": "RYUBJPJZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Saga, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Saga 840-0813",
+          "city": "Saga",
+          "swift_code": "BKSGJPJTSAG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "BKSGJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Okinawa, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Naha",
+          "swift_code": "BOKIJPJZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Nagoya, Ltd. , The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nagoya",
+          "swift_code": "NAGOJPJNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Kyoto,Ltd.,The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kyoto",
+          "swift_code": "BOKFJPJZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dbs Bank Ltd, Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "DBSSJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daiwa Securities Capital Markets Co.Ltd.",
+      "branches": [
+        {
+          "branch_name": "Japanese Securities Settlements",
+          "city": "Tokyo",
+          "swift_code": "DWSCJPJTJSS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "DWSCJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daiwa Sb Investments Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "DSBIJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daiwa Next Bank, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chiyoda-Ku",
+          "swift_code": "DNEXJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daishi Bank Ltd.,The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "DAISJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daisan Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Matsusaka",
+          "swift_code": "DSBKJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Securities (Japan) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Equity Settlements",
+          "city": "Tokyo",
+          "swift_code": "CSFBJPJXEQT"
+        },
+        {
+          "branch_name": "Tokyo Branch",
+          "city": "Tokyo",
+          "swift_code": "CSFBJPJXPBS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "CSFBJPJXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Ag, Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Tokyo Branch",
+          "city": "Tokyo",
+          "swift_code": "CRESJPJTPBS"
+        },
+        {
+          "branch_name": "Tokyo Branch",
+          "city": "Tokyo",
+          "swift_code": "CRESJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole Securities Asia B.V.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "CRLYJPJ9XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole Cib Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Commodity",
+          "city": "Tokyo",
+          "swift_code": "BSUIJPJTCOM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "BSUIJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cosmo Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "COSSJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commerzbank Ag Tokyo",
+      "branches": [
+        {
+          "branch_name": "Off-shore Business",
+          "city": "Tokyo",
+          "swift_code": "COBAJPJXTOM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "COBAJPJXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citigroup Global Markets Japan Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NSBLJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Japan Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "CITIJPJTXXX"
+        },
+        {
+          "branch_name": "Kobe",
+          "city": "Kobe",
+          "swift_code": "CITIJPJ10JK"
+        },
+        {
+          "branch_name": "Yokohama",
+          "city": "Yokohama",
+          "swift_code": "CITIJPJ10JM"
+        },
+        {
+          "branch_name": "Nagoya",
+          "city": "Nagoya",
+          "swift_code": "CITIJPJ10JN"
+        },
+        {
+          "branch_name": "Osaka",
+          "city": "Osaka",
+          "swift_code": "CITIJPJ10JS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cibc World Markets (Japan) Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "CIWMJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chukyo Bank, Limited, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nagoya",
+          "swift_code": "CKBKJPJNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chugoku Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Okayama",
+          "swift_code": "CHGKJPJZXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "CHGKJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chinatrust Commercial Bank, Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "CTCBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hokuriku Bank, Ltd.,The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "RIKBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hokuetsu Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nagaoka",
+          "swift_code": "HETSJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hokkoku Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kanazawa",
+          "swift_code": "HKOKJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hokkaido Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sapporo",
+          "swift_code": "HKDBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hiroshima Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "HIROJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Higashi-Nippon Bank, Limited, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "HNPBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hana Bank Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "HNBNJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hachijuni Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "HABKJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gunma Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maebashi",
+          "swift_code": "GUMAJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Goldman Sachs Japan Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "GOLDJPJXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Goldman Sachs Asset Management Japan Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "GSAMJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gifu Shinkin Bank, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gifu",
+          "swift_code": "GFSBJPJZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yamanashi Chuo Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kofu",
+          "swift_code": "YCHBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yamaguchi Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Shimonoseki",
+          "swift_code": "YMBKJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yamagata Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yamagata",
+          "swift_code": "YAMBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yachiyo Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "YACYJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Woori Bank, Tokyo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "HVBKJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Westlb Ag, Tokyo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "WELAJPJXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wells Fargo Bank, N.A., Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "PNBPJPJXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ueda Yagi Tanshi Co.,Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "UYTCJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Overseas Bank Ltd., Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Banknotes Department",
+          "city": "Tokyo",
+          "swift_code": "UOVBJPJTBNS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "UOVBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unicredit Bank Ag Tokyo Branch (Hypovereinsbank Tokyo Branch)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "BVBEJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Securities Japan Ltd Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "UBSWJPJ9XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Ag Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Cls Business Only",
+          "city": "Tokyo",
+          "swift_code": "UBSWJPJTCLS"
+        },
+        {
+          "branch_name": "Tokyo Branch",
+          "city": "Tokyo",
+          "swift_code": "UBSWJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "U.B.A.F. - Union De Banques Arabes Et Francaises Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Osaka Branch",
+          "city": "Osaka",
+          "swift_code": "UBAFJPJXOSA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "UBAFJPJXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tsukuba Bank,Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ibaraki",
+          "swift_code": "KGBKJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Global Asset Management (Japan) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "UBSAJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trust And Custody Services Bank, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TCSBJPJ2XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TCSBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Towa Bank Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gunma",
+          "swift_code": "TOWAJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tottori Bank Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tottori",
+          "swift_code": "BIRDJPJZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Toshiba Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minato-Ku",
+          "swift_code": "TOSBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Global Investors Japan Investment Trust C O.,ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "BITBJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banyo Securities Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hyogo",
+          "swift_code": "BANYJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bansei Prime Capital Securites Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kyoto",
+          "swift_code": "BSPCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Axes (japan) Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "AXJSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ark Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "ARKKJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Anz Mccaughan Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "AMCLJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ando Securities Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nagoya",
+          "swift_code": "ANOOJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aozora Securities., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "AOSCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alliance Capital Asset Management (japan) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "ACAMJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "American Express International Japan Asset Management Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "AMEXJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Akagiya Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "AKSEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aizawa Securities Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "AIZAJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aig Global Investment Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "AIMIJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agricultural Bank Of China Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chiyoda-Ku",
+          "swift_code": "ABOCJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ace Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Osaka",
+          "swift_code": "ACSRJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abn Amro Clearing Tokyo Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "FCTOJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yokohama Shinkin Bank, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yokohama",
+          "swift_code": "YOKOJPJMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fukui Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fukui",
+          "swift_code": "FKUIJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Commercial Bank, Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "FCBKJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eighteenth Bank,Limited,The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nagasaki",
+          "swift_code": "EITNJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ehime Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Matsuyama",
+          "swift_code": "HIMEJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "DEUTJPJ7XXX"
+        },
+        {
+          "branch_name": "Japanese Equity Settlement Department",
+          "city": "Tokyo",
+          "swift_code": "DEUTJPJ9DOM"
+        },
+        {
+          "branch_name": "Equity Division",
+          "city": "Tokyo",
+          "swift_code": "DEUTJPJ9EQT"
+        },
+        {
+          "branch_name": "Forex Division",
+          "city": "Tokyo",
+          "swift_code": "DEUTJPJ9FX1"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "DEUTJPJ9XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Asset Management(Japan)Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "DEAMJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Philippine National Bank Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "PNBMJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Panasonic Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Osaka",
+          "swift_code": "PANAJPJSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oversea-Chinese Banking Corporation Limited, Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "OCBCJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Osaka City Shinkin Bank, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Osaka",
+          "swift_code": "OSACJPJSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Okazaki Shinkin Bank, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Okazaki",
+          "swift_code": "OKSBJPJZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Okasan Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "OKASJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oita Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oita",
+          "swift_code": "OITAJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ogaki Kyoritsu Bank,Ltd.,The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ogaki",
+          "swift_code": "OGAKJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ntt Data Getronics Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kawasaki-Shi",
+          "swift_code": "NTDGJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "North Pacific Bank, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sapporo",
+          "swift_code": "NORPJPJPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nomura Securities Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NMRSJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nomura Research Institute, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NRIWJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nomura Asset Management Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Advisory Dept",
+          "city": "Tokyo",
+          "swift_code": "NAMKJPJTADV"
+        },
+        {
+          "branch_name": "Bond And Financial Instrument Trading Dept",
+          "city": "Tokyo",
+          "swift_code": "NAMKJPJTBFT"
+        },
+        {
+          "branch_name": "Tokyo",
+          "city": "Tokyo",
+          "swift_code": "NAMKJPJTFDV"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NAMKJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nissay Asset Management Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NAMJJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Natixis Japan Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NATXJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nanto Bank, Ltd, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nara",
+          "swift_code": "NANTJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jpmorgan Securities Japan Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Cash Equity Middle Office",
+          "city": "Tokyo",
+          "swift_code": "CHASJPJ9CE1"
+        },
+        {
+          "branch_name": "Test Key And Bke Administration",
+          "city": "Tokyo",
+          "swift_code": "CHASJPJ9KEY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "CHASJPJ9XXX"
+        },
+        {
+          "branch_name": "Equity Operation",
+          "city": "Tokyo",
+          "swift_code": "CHASJPJ9EQT"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jpmorgan Asset Management (Japan) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Test Key And Bke Administration",
+          "city": "Tokyo",
+          "swift_code": "CHASJPJZKEY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "CHASJPJZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Joyo Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "JOYOJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Johoku Shinkin Bank, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "OJISJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Johnan Shinkin Bank The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "JSBKJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Imagawa Misawaya Securities Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "IMAGJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Asset Management Japan Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "CICJJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fpg Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "FPSEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dai-ichi Securities Co Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SDAIJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dai Chi Kangyo Securities 6f Marunouchi Centre Bldg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "DCKSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daewoo Securities Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "DAESJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "County Natwest Securities Japan Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "CNSJJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Compag Computer K.k. Finance Industory Network And System Integration",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "COMGJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clsa Securities Japan Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "CLEJJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citicorp International Securities Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "CSVNJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citicorp Center Japan Ltd. Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "CSJLJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chubu Commodity Exchange",
+      "branches": [
+        {
+          "branch_name": "Chubu Commodity Exchange",
+          "city": "Nagoya",
+          "swift_code": "XCCEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chibagin Securities Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "CHUSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chase Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "CHSCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Century Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "CENSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citigroup Asset Management Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SSBCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Totan Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "CTSSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Partners Securities Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "CPSTJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bv Capital Markets (asia) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "BVCMJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Burns Fry Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "BFLEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bear Stearns (japan), Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "BESJJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Baring Asset Management (japan) Limited",
+      "branches": [
+        {
+          "branch_name": "Baring Asset Management (japan) Limited",
+          "city": "Tokyo",
+          "swift_code": "BAMJJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fitch Ratings Japan Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "FRIPJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Bank Of Toyama, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "FBTYJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fil Investments (japan) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "FIDIJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Epic Wisdom Of Japan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "EPWJJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Epic Prowess Of Japan Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "EPJFJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dongsuh Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "DOSEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Donaldson, Lufkin And Jenrette Securities Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "DLJCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dillon, Read And Co Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "DILRJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Diam Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chiyoda",
+          "swift_code": "DIAMJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Development Bank Of Japan Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "DEJAJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daiwa Securities Co.ltd. Co.ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "DWSCJPJ2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daiwa Asset Management Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Daiwa Asset Management Co. Ltd",
+          "city": "Tokyo",
+          "swift_code": "DAMLJPJ1001"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "DAMLJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daitoku Securities Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Aichi",
+          "swift_code": "DAITJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daishin Securities Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SEDAJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daisei Securities Co Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "DSSEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daiko Clearing Services Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "DSBTJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daichu Securities Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Osaka",
+          "swift_code": "DACYJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daicel International Finance Bv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Osaka",
+          "swift_code": "DAIIJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ichiyoshi Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "ICHIJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ibj Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "IBJSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hyundai Securities Co., Ltd Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "HDTKJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hoare Govett Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "HOGTJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hirota Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Osaka",
+          "swift_code": "HIRTJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hiroshima Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hiroshima",
+          "swift_code": "XHIRJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hypo Real Estate Capital Japan Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "DPBBJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hinode Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Osaka",
+          "swift_code": "HISEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hewlett-packard Japan Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "HEJAJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hatori-marshall Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "HMCLJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hachijuni Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nagano",
+          "swift_code": "UEDAJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "H.s. Securities Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "HSCOJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gmo Click Securities,inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "GMCSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Giorgio Armani Japan Co. Limited",
+      "branches": [
+        {
+          "branch_name": "Giorgio Armani Japan Co. Limited",
+          "city": "Tokyo",
+          "swift_code": "GAFIJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fx Prime Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "FXPCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nike Japan Group Llc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "8631",
+          "swift_code": "NJGLJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nike Japan Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NIKEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Niigata Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Niigata",
+          "swift_code": "XNIIJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Niigata Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Niigata",
+          "swift_code": "NIGTJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Newedge Japan Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NEWGJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Netwing Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NIKSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nations-crt Japan Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NACJJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Mutual Insurance Federation Of Agricultural Cooperatives",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "ZENKJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Naruse Securities Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NAREJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nakahara Securities Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NAKSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Naito Securities Co",
+      "branches": [
+        {
+          "branch_name": "Osaka 541-0043",
+          "city": "Osaka",
+          "swift_code": "NAIEJPJ1OSA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NAIEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nagoya Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nagoya",
+          "swift_code": "XNGOJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nagoya Seni Torihikijo (textile Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nagoya",
+          "swift_code": "XNSTJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nagoya Kokumotsu Satou Torihikijo (grain And Sugar Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nagoya",
+          "swift_code": "XNKSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nagasaki-ken Rodo Kinko Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nagasaki",
+          "swift_code": "NARKJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nagasaki Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nagasakishi",
+          "swift_code": "NAGKJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nagano Securities Co.,ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nagano",
+          "swift_code": "NGNOJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nakaizumi Securities Co, Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Shizuoka",
+          "swift_code": "IWTAJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Murosei Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MUSEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Musashi Securities Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kumagaya",
+          "swift_code": "ADOMJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fukuyama Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "FKSEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fukuoka Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fukuoka",
+          "swift_code": "XFKAJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fuji Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "FUSTJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Japan Wealth Management Securities, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "JWMSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Japan Security Clearing Corporation (jgb Clearing",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "JGBCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Japan Securities Finance Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "JSFTJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Japan Securities Clearing Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "JSCCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Japan Securities Agents, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Clearance Section",
+          "city": "Tokyo",
+          "swift_code": "JSEAJPJ1CLR"
+        },
+        {
+          "branch_name": "Custody Section",
+          "city": "Tokyo",
+          "swift_code": "JSEAJPJ1CST"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "JSEAJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Japan Electronic Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Osaka",
+          "swift_code": "JESCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Japan Credit Rating Agency, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chuo-ku",
+          "swift_code": "JCRAJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Japan Bond Trading Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "JBTSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Japan Asia Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MAUCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.p. Morgan Investment Management Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "JPMIJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.m. Sassoon And Co (pte) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "JMSCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Iwai Securities Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Osaka",
+          "swift_code": "IWAIJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Itg Japan Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "ITJAJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Isukamoto Securites Comp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Osaka",
+          "swift_code": "TKMTJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Invast Securities Co.,ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "KOBEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interactive Brokers Securities Japan, Inc. Tekko Kaikan 4 F",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "IBSJJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Instinet Japan Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "INSJJPJ1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "ISNTJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Indosuez Capital Securities (japan) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "ICSJJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Indocam Japan Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "AGRIJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Japan Trustee Services Bank, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Agent Account",
+          "city": "Tokyo",
+          "swift_code": "JTSBJPJTAGE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "JTSBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Japan Post Bank, Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "JPPSJPJKXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "JPPSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Imamura Securities Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kanazawa",
+          "swift_code": "IMAMJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Japan Securities Depository Center, Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "JJSDJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Iyo Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "IYOBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Itau Unibanco S.A., Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "ITAUJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intesa Sanpaolo Spa Tokyo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "BCITJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stb Asset Management Co.,ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SAGLJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Street Global Markets (japan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SSGRJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sassoon Securities Japan Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SASJJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Osaka Seni Torihikijo (textile Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Osaka",
+          "swift_code": "XOSTJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Osaka Mercantile Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Osaka",
+          "swift_code": "XOSMJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Osaka Securities Exchange Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Osaka",
+          "swift_code": "XOSEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orix Securities Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "AKANJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orix Bank Coporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "ORCRJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orient Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "ORITJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Okinawa Kaiho Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Okinawa",
+          "swift_code": "OKWAJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Okasan Online Securities Co.,ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "OKAOJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Okachi Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nagoya",
+          "swift_code": "OKSEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ntt Data Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Koto-ku",
+          "swift_code": "NTTDJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Norinchukin Trust And Banking Co., Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NCTBJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nomura Financial Products And Services Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NFPSJPJTXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Okinawa",
+          "swift_code": "NFPSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nissho Iwai Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NISHJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nissan Century Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NISSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nippon Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Osaka",
+          "swift_code": "NISEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nippon Life Insurance Company",
+      "branches": [
+        {
+          "branch_name": "Global Bond",
+          "city": "Tokyo",
+          "swift_code": "NLICJPJ1BND"
+        },
+        {
+          "branch_name": "Global Equity",
+          "city": "Tokyo",
+          "swift_code": "NLICJPJ1EQY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NLICJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nishimura Securities Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kyoto",
+          "swift_code": "NISMJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nikon Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NKONJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nis Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Osaka 541-0048",
+          "city": "Osaka",
+          "swift_code": "YAMEJPJ1OSA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "YAMEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nikko Asset Management Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Operations",
+          "city": "Tokyo",
+          "swift_code": "NAMTJPJ1OP1"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NAMTJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sapporo Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sapporo",
+          "swift_code": "XSAPJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sanyo Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SESAJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sanwa Asset Management Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SWAMJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sanei Securities Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SAEEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Morgan Stanley Asset And Investment Trust Management Co., Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MSAMJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moody's Sf Japan K.k. (msfj) 20th F",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MOJMJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Me Net Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TMTDJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Matsui Securities Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MATEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Marusan Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MARUJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Marukuni Securities Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MAUUJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maruichi Securities Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MAUSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maruhachi Securities Co",
+      "branches": [
+        {
+          "branch_name": "Nagoya 460-0008",
+          "city": "Nagoya",
+          "swift_code": "MARCJPJ1NGY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MARCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Marufuku Securities Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MAREJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Marudai Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "RUDAJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maeda Securities Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fukuoka",
+          "swift_code": "MAESJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maeda Securities Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MAEEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lucky Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "LUCSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ltcb Securities Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "LTSCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Liquidnet Japan Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minato-Ku",
+          "swift_code": "LIQJJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Macquarie Capital Securities (japan) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MACQJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lg Display Japan Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "LGDTJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lehman Brothers Japan Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "LBFLJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Leading Securities Co.,ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SIEGJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Landesbank Baden-wuerttemberg, Tokyo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SOLAJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kyowa Securities Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "KYOCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kyoto Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kyoto",
+          "swift_code": "XKYOJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kyokuto Securities Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "KYOSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kurokawa Kitoku Securities Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "KUKSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kosei Securities Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "KOSSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kokusai Densin Denwa Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "KDDNJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kohsei Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "KOHSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kobe Kiito Torihikijo (raw Silk Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kobe",
+          "swift_code": "XKKTJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kobe Gomu Torihikijo (rubber Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Osaka",
+          "swift_code": "XKGTJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Koe",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "KOEJJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yutaka Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Nagoya 460-0008",
+          "city": "Nagoya",
+          "swift_code": "YUTEJPJ1NGY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "YUTEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yokohama Commodity Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yokohama",
+          "swift_code": "XYKTJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yokogawa Financial Services Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "YFSCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kimura Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nagoya",
+          "swift_code": "KIMUJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kansai Agricultural Commodities Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Osaka",
+          "swift_code": "XKACJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kazaka Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NGLOJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kanmon Shohin Torihikijo (commodity Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Shimonoseki",
+          "swift_code": "XKSTJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kaneyama Securities Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "KANAJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kaneman Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "KANEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kaneju Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "KSECJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kakaku.com Financial,inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "KAFIJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kabu.com Securities Co.,ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "KASLJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jyujiya Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "JYUJJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsf Trust And Banking Co.,ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "JSTCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jibun Bank Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "JICRJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moody's (japan) K.k.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MOJAJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Monex, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MNXIJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Monex Fx,inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chuo-ku",
+          "swift_code": "MOFXJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mizuho Securities Co.,ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chuo",
+          "swift_code": "MHSCJPJ3XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mizuho Asset Management Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "DKAMJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mitsui Life Insurance Company Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MMLIJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mitsubushi Trust Asset Management Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MTAMJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mito Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MITSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Misawaya Securities Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MISSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Minex Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MINXJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Miki Securities Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MIKIJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Midland Montagu Securities Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MIMSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mf Global Fxa Securities Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MFGLJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercedes-benz Japan Co.ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "DAIXJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meiwa Securities Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MEICJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meiko National Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MESCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meiji Dresdner Asset Management Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MDAMJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Japan Co.,ltd",
+      "branches": [
+        {
+          "branch_name": "Sjc",
+          "city": "Tokyo",
+          "swift_code": "SECTJPJ1201"
+        },
+        {
+          "branch_name": "Syri",
+          "city": "Yokohama",
+          "swift_code": "SECTJPJ1230"
+        },
+        {
+          "branch_name": "Stj",
+          "city": "Tokyo",
+          "swift_code": "SECTJPJ1290"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SECTJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sakura Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "KUSEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sakamoto Hokuriku Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ishikawa",
+          "swift_code": "SHSKJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saikyo Bank Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Shunan",
+          "swift_code": "SAKBJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Roland Dg Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Shizuoka",
+          "swift_code": "RODGJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rakuten, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ku",
+          "swift_code": "RAKUJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rakuten Bank, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "RAKTJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prudential Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "PRUSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prudential Investment Management Japan Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "PIMJJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pinebridge Investments Japan Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "AIGGJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Phillip Securities Japan, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "PHSJJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pcm International Inc. Tokyo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "PCINJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Osaka Shoken Daiko Co., Lt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "OSSHJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sony Global Solutions Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SGSIJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Osawa Securities Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "OSASJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sony Bank Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SNYBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Smith New Court Securities Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SSNCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shinwa Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Niigata",
+          "swift_code": "SINWJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shinsei Trust Banking Co.,ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SHTCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shinsei Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SSECJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shinkin Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SKSCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shinkin Asset Management Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SKAMJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shinkin Trust Bank, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SKTBJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shinkumi Federation Bank, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "ZSFBJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shinginko Tokyo, Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SGTKJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shinei Ishino Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kobe",
+          "swift_code": "SISCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sekisui Finance Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Osaka",
+          "swift_code": "SEFCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scotia Capital Markets",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SCMCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Schroder Securities Japan Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SSCHJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sbi Securities Co.,ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "ETRSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sbi Remit Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Sbi Remit Co., Ltd",
+          "city": "Tokyo",
+          "swift_code": "SBIRJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saxo Bank Fx Securities K.k.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SAUCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Miyazaki Taiyo Bank, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Miyazaki",
+          "swift_code": "MITYJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Minami-nippon Bank,ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kagoshima",
+          "swift_code": "MINPJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Kanagawa Bank,ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kanagawa",
+          "swift_code": "KANGJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Kagoshimasogo Shinkin Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kagoshima",
+          "swift_code": "KAHHJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Imamura Securities Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kanazawa",
+          "swift_code": "IMAMJPJKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Howa Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oita",
+          "swift_code": "HOWAJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Fukushima Bank,ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fukushima",
+          "swift_code": "FKSBJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Fukuho Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Osaka",
+          "swift_code": "FUHOJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Daito Bank,ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Shi",
+          "swift_code": "DATTJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Chikuho Bank,ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fukuoka",
+          "swift_code": "CHIHJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Takagi Securities Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Osaka",
+          "swift_code": "TAKAJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taiyo Investment Trust Managemement Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TITMJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taiheiyo Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TAIHJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tachibana Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TACHJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "T And D Asset Management Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TDAMJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taihelyo Securites Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TAHSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sun Hung Kai Securities Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SHKEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sumitomo Mitsui Trust Bank,limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chiyoda-ku Tokyo-to",
+          "swift_code": "STBCJPJ2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sumitomo Mitsui Asset Management Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Minato-Ku",
+          "swift_code": "SMAMJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sumitomo Life Insurance Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SLICJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial Bank Of Korea, Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "IBKOJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial And Commercial Bank Of China, Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "ICBKJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hyakugo Bank,Ltd.,The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "HYKGJPJTXXX"
+        },
+        {
+          "branch_name": "Tsu",
+          "city": "Tsu",
+          "swift_code": "HYKGJPJTTSU"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Securities (Japan) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "IBJPJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Morgan Stanley Mufg Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Tokyo",
+          "city": "Tokyo",
+          "swift_code": "MSTKJPJXCII"
+        },
+        {
+          "branch_name": "Tokyo",
+          "city": "Tokyo",
+          "swift_code": "MSTKJPJXCLS"
+        },
+        {
+          "branch_name": "Foreign Exchange Operations",
+          "city": "Tokyo",
+          "swift_code": "MSTKJPJXFXO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MSTKJPJXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Momiji Bank, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hiroshima",
+          "swift_code": "HRSBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mizuho Trust And Banking Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "YTBCJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mizuho Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MHSCJPJTXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MHSCJPJ2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mizuho Corporate Bank, Ltd.(Custody)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MHCBJPJ2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Miyazaki Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Miyazaki",
+          "swift_code": "MIYAJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hyakujushi Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "HYAKJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mitsubishi Ufj Morgan Stanley Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "KKSSJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mitsubishi Ufj Merrill Lynch Pb Securities Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MUMLJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mitsubishi Ufj Asset Management Co.,Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chiyoda-Ku",
+          "swift_code": "MUFJJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Minato Bank,Ltd,The (Formerly The Hanshin Bank Ltd)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kobe",
+          "swift_code": "HSINJPJKXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mie Bank Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MIEBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Michinoku Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Aomori",
+          "swift_code": "MCHIJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Metropolitan Bank And Trust Company, Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MBTCJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mellon Global Investments Japan Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MELNJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch Japan Securities Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MLCOJPJXXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MLCOJPJDXXX"
+        },
+        {
+          "branch_name": "Equity Settlement",
+          "city": "Tokyo",
+          "swift_code": "MLCOJPJTJES"
+        },
+        {
+          "branch_name": "Bond Settlement",
+          "city": "Tokyo",
+          "swift_code": "MLCOJPJTJGB"
+        },
+        {
+          "branch_name": "Strategic Development Initiative",
+          "city": "Tokyo",
+          "swift_code": "MLCOJPJTSDI"
+        },
+        {
+          "branch_name": "Treasury Operations",
+          "city": "Tokyo",
+          "swift_code": "MLCOJPJTTSY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MLCOJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mega International Commercial Bank Co., Ltd.,",
+      "branches": [
+        {
+          "branch_name": "Osaka",
+          "city": "Osaka",
+          "swift_code": "ICBCJPJTOSA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "ICBCJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Master Trust Bank Of Japan Ltd, The",
+      "branches": [
+        {
+          "branch_name": "Investor Services Division",
+          "city": "Tokyo",
+          "swift_code": "MTBJJPJTAGT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MTBJJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lombard Odier Darier Hentsch Trust (Japan) Ltd",
+      "branches": [
+        {
+          "branch_name": "Ndp Dept",
+          "city": "Tokyo",
+          "swift_code": "LOCYJPJTNDP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "LOCYJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kyoto Chuo Shinkin Bank, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kyoto",
+          "swift_code": "KCHUJPJYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kyoto Shinkin Bank,The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kyoto",
+          "swift_code": "KYSBJPJZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kumamoto Family Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kumamoto",
+          "swift_code": "KUMAJPJZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Korea Development Bank,The,Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "KODBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kookmin Bank Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "CZNBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kokusai Asset Management Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Fund Accounting Dept",
+          "city": "Tokyo",
+          "swift_code": "KAMGJPJTFAD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "KAMGJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kiyo Bank, Ltd, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Wakayama",
+          "swift_code": "KIYOJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yasuda Capital Management Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "YCMCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Totan Capital Markets Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TIUDJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Toronto-dominion Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TDSEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tokyo-mitsubishi Asset Management Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TMAMJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tokyo Stock Exchange, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "XTKSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tokyo Shoken Daiko Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TSDAJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tokyo Rengo Securities Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TORSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tokyo Kokumotsu Shohin Torihikijo (grain Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "XTKOJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tokyo Kogyoin Torihikijo (commodity Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "XTKTJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tokyo Forex And Ueda Harlow Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TFUHJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tokyo Financial Exchange Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "XTFFJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tokyo Aim,inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "XTAMJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tokai Securities Co",
+      "branches": [
+        {
+          "branch_name": "Nagoya 460",
+          "city": "Nagoya",
+          "swift_code": "TOKSJPJ10JN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TOKSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tir Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "STIRJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Tohoku Bank, Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Morioka",
+          "swift_code": "TOHKJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Taisho Bank,ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Osaka",
+          "swift_code": "TASHJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Taiko Bank,ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nagaoka",
+          "swift_code": "TAIKJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Shimane Bank, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Matsue",
+          "swift_code": "SHMMJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Sendai Bank,ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Myagi",
+          "swift_code": "SEDIJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Ohkawa Shinkin Bank Fukuoka Japan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fukuoka",
+          "swift_code": "OHSHJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The National Registry System",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NRSKJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yamawa Securities Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "YAAEJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yamani Securities Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "YAASJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yamamaru Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "YAMRJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yamagata Securities Co.,ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yamagata",
+          "swift_code": "YMGTJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yamabun Securities Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "YAMSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yahata Securities Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "YAHSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Utsunomiya Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tochigi",
+          "swift_code": "USCOJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Utsumiya Securities Co.,ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "UTSSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Universal Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "UNSCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ueda Butler Treasury Services Limited Tokyo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "UBTSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tri Securities Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "STRIJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Travelex Japan Kk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TRAVJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Traders Securities Co.,ltd No3",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TRSDJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Toyota Financial Services Securities Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nagoya",
+          "swift_code": "TFSCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Toyota Asset Management Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TAMCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Toyohashi Kanken Torihikijo (dried Cocoon Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Aichi",
+          "swift_code": "XTKAJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Toyo Securities Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TYSCJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Towa Securities Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TOWSJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Totan Derivatives Co. Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TTDTJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kitakyushu Bank, Ltd., The(Formerly A Part Of The Yamaguchi Bank,Ltd.)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kitakyusyu",
+          "swift_code": "KITQJPJZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kita-Nippon Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Morioka",
+          "swift_code": "KNPBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kirayaka Bank, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yamagata",
+          "swift_code": "SHIAJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kinki Osaka Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Osaka",
+          "swift_code": "OSABJPJSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Keiyo Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chiba",
+          "swift_code": "KEIBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kansai Urban Banking Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Osaka",
+          "swift_code": "KSBJJPJSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kagoshima Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kagoshima",
+          "swift_code": "KAGOJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kagawa Bank Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Takamatsu",
+          "swift_code": "KGWBJPJZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Juroku Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gifu",
+          "swift_code": "JUROJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shizuoka Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Shizuoka",
+          "swift_code": "SHIZJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shinwa Bank, Ltd. The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sasebo",
+          "swift_code": "SHWAJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shinsei Bank, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "LTCBJPJTHED"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "LTCBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shinkin Central Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "ZENBJPJ2XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "ZENBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shinhan Bank Japan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SHBKJPJXXXX"
+        },
+        {
+          "branch_name": "Fukuoka Branch",
+          "city": "Fukuoka",
+          "swift_code": "SHBKJPJXFUK"
+        },
+        {
+          "branch_name": "Osaka Branch",
+          "city": "Osaka",
+          "swift_code": "SHBKJPJXOSK"
+        },
+        {
+          "branch_name": "Tokyo Branch",
+          "city": "Tokyo",
+          "swift_code": "SHBKJPJXTOK"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shimizu Bank Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Shizuoka",
+          "swift_code": "SMZGJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shikoku Bank,Ltd.,The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kochi",
+          "swift_code": "SIKOJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shiga Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Otsu",
+          "swift_code": "SIGAJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Seto Shinkin Bank, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seto",
+          "swift_code": "SSBKJPJZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Schroder Investment Management (Japan) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SIMJJPJ2XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SIMJJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sbi Sumishin Net Bank, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NTSSJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "San-In Godo Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Matsue 690-0062",
+          "city": "Matsue",
+          "swift_code": "SGBKJPJTMAT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Matsue",
+          "swift_code": "SGBKJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saitama Resona Bank, Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SAIBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Royal Bank Of Scotland Plc (Global Transaction Services)",
+      "branches": [
+        {
+          "branch_name": "Global Transaction Services, Tokyo Branch",
+          "city": "Tokyo",
+          "swift_code": "ABNAJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Resona Bank, Ltd., Trust Dep.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "DIWAJPJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Resona Bank, Ltd., Tokyo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "DIWAJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbs Securities Japan Limited, Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NWSJJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbc Capital Markets (Japan) Ltd., Tokyo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "RBDSJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tomato Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Okayama",
+          "swift_code": "TOMAJPJZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tama Shinkin Bank, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TAMAJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tajima Bank, Ltd, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hyogo",
+          "swift_code": "TJMAJPJZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swift Customer Service Centre Japan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Customer Service Centre Jp",
+          "swift_code": "SWHQJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Suruga Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SRFXJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sumitomo Trust And Banking Company, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Cls Control Branch",
+          "city": "Tokyo",
+          "swift_code": "STBCJPJTCLS"
+        },
+        {
+          "branch_name": "Securities Operation Department",
+          "city": "Tokyo",
+          "swift_code": "STBCJPJTCUS"
+        },
+        {
+          "branch_name": "Securities Administration Department",
+          "city": "Tokyo",
+          "swift_code": "STBCJPJTSAD"
+        },
+        {
+          "branch_name": "Sbs Fuchu",
+          "city": "Tokyo",
+          "swift_code": "STBCJPJTSBS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "STBCJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sugamo Shinkin Bank, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SSHBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Street Trust And Banking Company Limited",
+      "branches": [
+        {
+          "branch_name": "Investment Advisory Reporting",
+          "city": "Tokyo",
+          "swift_code": "SSTBJPJXIAR"
+        },
+        {
+          "branch_name": "Investment Manager Outsourcing Services",
+          "city": "Tokyo",
+          "swift_code": "SSTBJPJXIMS"
+        },
+        {
+          "branch_name": "Investment Trust Mgmt Pricing Agent Outsourcing",
+          "city": "Tokyo",
+          "swift_code": "SSTBJPJXITM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SSTBJPJXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sumisho Computer Systems Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SCSJJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparx Asset Management Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SPAXJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Securities (North Pacific) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SGNPJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Private Banking (Japan) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SGTBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Smbc Nikko Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NKSCJPJTXXX"
+        },
+        {
+          "branch_name": "Tokyo",
+          "city": "Tokyo",
+          "swift_code": "NKSCJPJ1FI1"
+        }
+      ]
+    },
+    {
+      "bank_name": "Smbc Friend Securities Co., Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "YAMTJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shonai Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SNAIJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shoko Chukin Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "SKCKJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tokyo Star Bank Limited, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TSBKJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tokyo Tomin Bank Limited, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TOMIJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tokyo Higashi Shinkin Bank,The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "CHSBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tokushima Bank Ltd, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokushima",
+          "swift_code": "TKSBJPJZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tokio Marine Financial Solutions Ltd",
+      "branches": [
+        {
+          "branch_name": "Hq Central Booking Centre",
+          "city": "Tokyo",
+          "swift_code": "FCTMJPJTCAY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "FCTMJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tokio Marine Asset Management Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TMAJJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tokai Tokyo Securities Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TTSEJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Toho Bank, Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fukushima",
+          "swift_code": "TOHOJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Tokyo Tanshi Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "TKTSJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Tochigi Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Utsunomiya",
+          "swift_code": "TOCIJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Senshu Ikeda Bank, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Osaka",
+          "swift_code": "BIKEJPJSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Nomura Trust And Banking Co., Ltd.",
+      "branches": [
+        {
+          "branch_name": "Tokyo",
+          "city": "Tokyo",
+          "swift_code": "NMTBJPJTDAM"
+        },
+        {
+          "branch_name": "Treasury Department",
+          "city": "Tokyo",
+          "swift_code": "NMTBJPJTFXO"
+        },
+        {
+          "branch_name": "Tokyo",
+          "city": "Tokyo",
+          "swift_code": "NMTBJPJTITA"
+        },
+        {
+          "branch_name": "Tokyo",
+          "city": "Tokyo",
+          "swift_code": "NMTBJPJTTAD"
+        },
+        {
+          "branch_name": "Trust Department",
+          "city": "Tokyo",
+          "swift_code": "NMTBJPJTTRU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NMTBJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Nishi-Nippon City Bank, Ltd",
+      "branches": [
+        {
+          "branch_name": "International Dept",
+          "city": "Fukuoka",
+          "swift_code": "NISIJPJTFKK"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Fukuoka",
+          "swift_code": "NISIJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Bank Of New York Mellon, Tokyo Branch",
+      "branches": [
+        {
+          "branch_name": "Tokyo Branch, Trade Service",
+          "city": "Tokyo",
+          "swift_code": "IRVTJPJX848"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "IRVTJPJXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Bank Of New York Mellon Trust (Japan), Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "IRVTJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Bank Of Kochi, Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kochi",
+          "swift_code": "KOTIJPJZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Hamamatsu Shinkin Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Shizuoka",
+          "swift_code": "HMSKJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Higo Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kumamoto",
+          "swift_code": "HIGOJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The 77 Bank,Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sendai",
+          "swift_code": "BOSSJPJTXXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "country_name": "Comoros",
+  "alpha_2": "KM",
+  "country_code": "174",
+  "banks": [
+    {
+      "bank_name": "Wall Street Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mutsamudu",
+          "swift_code": "WSBOKMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Snpsf (societe Nationale Des Postes",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Moroni",
+          "swift_code": "HAHMKMKMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nysb, Inc",
+      "branches": [
+        {
+          "branch_name": "Nysb, Inc",
+          "city": "Mutsamudu",
+          "swift_code": "NYSBKMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Magnate Premier Private Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mutsamudu",
+          "swift_code": "MAEVKMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intercontinental Credit Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mutsamudu",
+          "swift_code": "ITCEKMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Globalclear Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mutsamudu",
+          "swift_code": "GLOEKMK1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "GLIVGHA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Exim Bank Comores Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Moroni",
+          "swift_code": "EXTNKMKMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dynast Premier Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mutsamudu",
+          "swift_code": "DYPEKMK1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Accra",
+          "swift_code": "DNPRGHA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Pour L'industrie Et Le Commerce Des Comores",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Moroni",
+          "swift_code": "BICCKMKMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Federale De Commerce",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Moroni",
+          "swift_code": "BFDCKMKMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Centrale Des Comoros",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Moroni",
+          "swift_code": "COCBKMKMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Allied Chartered Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mutsamudu",
+          "swift_code": "ALCHKMK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Finance Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mutsamudu",
+          "swift_code": "ITFNKMK1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Miami,Fl",
+          "swift_code": "IFBKUS3MXXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "country_name": "Costa Rica",
+  "alpha_2": "CR",
+  "country_code": "188",
+  "banks": [
+    {
+      "bank_name": "Scotiabank De Costa Rica",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose",
+          "swift_code": "NOSCCRSJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Instituto Nacional De Seguros",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose",
+          "swift_code": "ISNSCRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Grupo Mutual Alajuela-la Vivienda De Ahorro Y Prestamo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Alajuela",
+          "swift_code": "GMAVCRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fitch Costa Rica Calificadora De Riesgo S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose",
+          "swift_code": "FRIPCRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa De Ahorro Y Credito De Los Servidores Publicos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose San Jose",
+          "swift_code": "CAOVCRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion Franco-americana De Finanzas(costa Rica) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose",
+          "swift_code": "FAFCCRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera G And T Continental Costa Rica S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose",
+          "swift_code": "FCCRCRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Coopenae",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose",
+          "swift_code": "CPOPCRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Compania Financiera De Londres Ltda.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose",
+          "swift_code": "FILOCRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central De Valores, S.a. (ceval",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose",
+          "swift_code": "CEVCCRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bct Valores Puesto De Bolsa Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose",
+          "swift_code": "BVPBCRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Popular Y De Desarrollo Comunal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose",
+          "swift_code": "BPDCCRSJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional De Costa Rica",
+      "branches": [
+        {
+          "branch_name": "San Jose",
+          "city": "San Jose",
+          "swift_code": "BNCRCRSJGCI"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose",
+          "swift_code": "BNCRCRSJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Promerica",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose",
+          "swift_code": "PRMKCRSJXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "MMJAECEQXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Internacional De Exportacion S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose",
+          "swift_code": "BAIECRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Improsa, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose",
+          "swift_code": "BIMPCRSJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Lafise S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose",
+          "swift_code": "BCCECRSJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco General (costa Rica), S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose",
+          "swift_code": "BAGECRSJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Del Istmo (costa Rica) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose",
+          "swift_code": "BALYCRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Costa Rica",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose",
+          "swift_code": "BCRICRSJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Credito Agricola De Cartago",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cartago",
+          "swift_code": "BCACCRS1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose",
+          "swift_code": "BCACCRSJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Davivienda (costa Rica), S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose",
+          "swift_code": "BXBACRSJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Soluciones Bansol De Costa Rica S.a. (formerly Financiera Acobo S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Pedro",
+          "swift_code": "BDSOCRSJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Central De Costa Rica",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose",
+          "swift_code": "BCCRCRSJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Cathay De Costa Rica, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose",
+          "swift_code": "KTAYCRSJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bac San Jose",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose",
+          "swift_code": "BSNJCRSJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bct S.a.",
+      "branches": [
+        {
+          "branch_name": "Foreign Exchange Department",
+          "city": "San Jose",
+          "swift_code": "CCIOCRSJBBI"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose",
+          "swift_code": "CCIOCRSJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Citibank De Costa Rica S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Jose",
+          "swift_code": "BACUCRSJXXX"
+        }
+      ]
+    }
+  ]
+}

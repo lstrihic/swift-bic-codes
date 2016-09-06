@@ -1,0 +1,357 @@
+{
+  "country_name": "Botswana",
+  "alpha_2": "BW",
+  "country_code": "072",
+  "banks": [
+    {
+      "bank_name": "Stockbrokers Botswana Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gaborone",
+          "swift_code": "STOOBWG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Bank Of India (botswana) Ltd",
+      "branches": [
+        {
+          "branch_name": "State Bank Of India (botswana) Ltd",
+          "city": "Gaborone",
+          "swift_code": "SBINBWGXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank Botswana Ltd.",
+      "branches": [
+        {
+          "branch_name": "Jwaneng",
+          "city": "Jwaneng",
+          "swift_code": "SCHBBWGX008"
+        },
+        {
+          "branch_name": "Lobatse",
+          "city": "Lobatse",
+          "swift_code": "SCHBBWGX009"
+        },
+        {
+          "branch_name": "Mahalpye",
+          "city": "Mahalpye",
+          "swift_code": "SCHBBWGX013"
+        },
+        {
+          "branch_name": "Palapye",
+          "city": "Palapye",
+          "swift_code": "SCHBBWGX015"
+        },
+        {
+          "branch_name": "Selebi Phikwe",
+          "city": "Selebi Phikwe",
+          "swift_code": "SCHBBWGX016"
+        },
+        {
+          "branch_name": "Haskins Street",
+          "city": "Francistown",
+          "swift_code": "SCHBBWGX017"
+        },
+        {
+          "branch_name": "Orapa",
+          "city": "Orapa",
+          "swift_code": "SCHBBWGX018"
+        },
+        {
+          "branch_name": "Maun",
+          "city": "Maun",
+          "swift_code": "SCHBBWGX019"
+        },
+        {
+          "branch_name": "Mall Branch",
+          "city": "Gaborone",
+          "swift_code": "SCHBBWGX021"
+        },
+        {
+          "branch_name": "Standard House",
+          "city": "Gaborone",
+          "swift_code": "SCHBBWGX022"
+        },
+        {
+          "branch_name": "Industrial",
+          "city": "Gaborone",
+          "swift_code": "SCHBBWGX023"
+        },
+        {
+          "branch_name": "Broadhurst",
+          "city": "Gaborone",
+          "swift_code": "SCHBBWGX024"
+        },
+        {
+          "branch_name": "Industrial Branch",
+          "city": "Francistown",
+          "swift_code": "SCHBBWGX026"
+        },
+        {
+          "branch_name": "Professional House",
+          "city": "Gaborone",
+          "swift_code": "SCHBBWGX027"
+        },
+        {
+          "branch_name": "Foreign Trade",
+          "city": "Gaborone",
+          "swift_code": "SCHBBWGX036"
+        },
+        {
+          "branch_name": "Securities Services Unit",
+          "city": "Gaborone",
+          "swift_code": "SCHBBWGXSSU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Gaborone",
+          "swift_code": "SCHBBWGXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stanbic Bank Botswana Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gaborone",
+          "swift_code": "SBICBWGXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sabmiller Botswana",
+      "branches": [
+        {
+          "branch_name": "Gaborone",
+          "city": "Gaborone",
+          "swift_code": "SABMBWG1BBL"
+        },
+        {
+          "branch_name": "Gaborone",
+          "city": "Gaborone",
+          "swift_code": "SABMBWG1KBL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Gaborone",
+          "swift_code": "SABMBWG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Development Bank",
+      "branches": [
+        {
+          "branch_name": "Francistown",
+          "city": "Francistown",
+          "swift_code": "DNABBWG10BF"
+        },
+        {
+          "branch_name": "Kanye",
+          "city": "Kanye",
+          "swift_code": "DNABBWG10BK"
+        },
+        {
+          "branch_name": "Maun",
+          "city": "Maun",
+          "swift_code": "DNABBWG10BM"
+        },
+        {
+          "branch_name": "Selebi Phikwe",
+          "city": "Phikwe",
+          "swift_code": "DNABBWG10BP"
+        },
+        {
+          "branch_name": "Serowe",
+          "city": "Serowe",
+          "swift_code": "DNABBWG10BS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Gaborone",
+          "swift_code": "DNABBWG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Motswedi Securities (pty) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gaborone",
+          "swift_code": "MOSYBWG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kingdom Bank Africa Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gaborone",
+          "swift_code": "KGBABWGXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investec Securities (botswana) (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gaborone",
+          "swift_code": "ISBTBWG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fx Africa (botswana) Pty Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gaborone",
+          "swift_code": "FXAFBWG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First National Bank Of Botswana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gaborone",
+          "swift_code": "FIRNBWGXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Debswana Diamond Company (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gaborone",
+          "swift_code": "DDCOBWGAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gaborone",
+          "swift_code": "CSERBWG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gaborone",
+          "swift_code": "CAPLBWGAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Botswana Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gaborone",
+          "swift_code": "XBOTBWG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Bank Of Botswana Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gaborone",
+          "swift_code": "BARCBWGXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of India (botswana) Limited",
+      "branches": [
+        {
+          "branch_name": "Bank Of India (botswana) Limited",
+          "city": "Gaborone",
+          "swift_code": "BKIDBWGXXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Gaborone",
+          "swift_code": "BKIDBWB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Botswana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gaborone",
+          "swift_code": "BBOTBWGXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Baroda (botswana) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gaborone",
+          "swift_code": "BARBBWGXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Gaborone Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gaborone",
+          "swift_code": "BGLIBWGXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "African Banking Corporation Of Botswana (proprietary) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gaborone",
+          "swift_code": "FMBZBWGAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abn Amro Bank Botswana Ltd",
+      "branches": [
+        {
+          "branch_name": "International Diamond And Jewelry Group Botswana Offshore",
+          "city": "Gaborone",
+          "swift_code": "ABNABWGAIDJ"
+        },
+        {
+          "branch_name": "International Diamond And Jewelry Group Botswana Onshore",
+          "city": "Gaborone",
+          "swift_code": "ABNABWGALTD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Gaborone",
+          "swift_code": "ABNABWGAXXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1172 @@
+{
+  "country_name": "Bulgaria",
+  "alpha_2": "BG",
+  "country_code": "100",
+  "banks": [
+    {
+      "bank_name": "Zlaten Lev Capital",
+      "branches": [
+        {
+          "branch_name": "Zlaten Lev Capital",
+          "city": "Sofia",
+          "swift_code": "ZLLCBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Zlaten Lev Brokeri Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "ZLLBBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Zagora Finacorp Ad",
+      "branches": [
+        {
+          "branch_name": "Zagora Finacorp Ad",
+          "city": "Haskovo",
+          "swift_code": "ZAFIBG21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ug Market Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Plovdiv",
+          "swift_code": "MAJSBG21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ug Market Fund Management Jsc",
+      "branches": [
+        {
+          "branch_name": "Ug Market Fund Management Jsc",
+          "city": "Plovdiv",
+          "swift_code": "UGMJBG21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubb Asset Management",
+      "branches": [
+        {
+          "branch_name": "Ubb Asset Management",
+          "city": "Sofia",
+          "swift_code": "UBATBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tic Saedinenie Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Plovdiv",
+          "swift_code": "TICEBG21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Texim Asset Management",
+      "branches": [
+        {
+          "branch_name": "Texim Asset Management",
+          "city": "Sofia",
+          "swift_code": "TESMBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tbi Invest Ead",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "TBIEBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tbi Bank Ead",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "TBIBBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tbi Asset Management Ead",
+      "branches": [
+        {
+          "branch_name": "Tbi Asset Management Ead",
+          "city": "Sofia",
+          "swift_code": "TASGBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Synergon Asset Management Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "SAMJBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sts Finance Sc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "STSFBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Status Invest Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "STVNBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Investment",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "STVVBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Somoni Financial Brokerage Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zagora",
+          "swift_code": "SOFKBG21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sofia International Securities Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "SOIUBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sky Asset Management",
+      "branches": [
+        {
+          "branch_name": "Sky Asset Management",
+          "city": "Sofia",
+          "swift_code": "SKSMBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Select Asset Managment",
+      "branches": [
+        {
+          "branch_name": "Select Asset Managment",
+          "city": "Sofia",
+          "swift_code": "SATTBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saglasie Asset Management",
+      "branches": [
+        {
+          "branch_name": "Saglasie Asset Management",
+          "city": "Sofia",
+          "swift_code": "SATGBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Real Finance Asset Management",
+      "branches": [
+        {
+          "branch_name": "Real Finance Asset Management",
+          "city": "Varna",
+          "swift_code": "RFAABG21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Real Finance Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Varna",
+          "swift_code": "REIABG21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Positiva Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "POJSBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Naba Invest Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Varna",
+          "swift_code": "NAIVBG21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Municipal Bank Asset Management",
+      "branches": [
+        {
+          "branch_name": "Municipal Bank Asset Management",
+          "city": "Sofia",
+          "swift_code": "MUAABGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Management Company Dsk Asset Management Ad",
+      "branches": [
+        {
+          "branch_name": "Management Company Dsk Asset Management Ad",
+          "city": "Sofia",
+          "swift_code": "MCDABGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kbc Securities N.v-bulgaria Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "KSBRBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Karoll Capital Management",
+      "branches": [
+        {
+          "branch_name": "Karoll Capital Management",
+          "city": "Sofia",
+          "swift_code": "KACABGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Karoll",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "KAOLBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ip Intercapital Markets Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "INMKBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ip Favorit Cls",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "FALSBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Invetsment Intermediary Rnk Capital Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "IIRCBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Bank N.V. Sofia Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "INGBBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Investment Bank Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "FINVBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurobank Efg Bulgaria Ad",
+      "branches": [
+        {
+          "branch_name": "Custody Department",
+          "city": "Sofia",
+          "swift_code": "BPBIBGSFSEC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "BPBIBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Euro-Finance Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "EUFCBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Emporiki Bank - Bulgaria Ead",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "BINVBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dsk Bank (Formerly State Savings Bank)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "STSABGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "D Commerce Bank Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "DEMIBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporate Commercial Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "KORPBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cibank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "BUIBBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Depository Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "CEDPBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Cooperative Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "CECBBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bulgarian-American Credit Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "BGUSBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bulgarian National Bank - Bgn",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "BNBGBGSDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bulgarian National Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "BNBGBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bulgarian Development Bank (Formerly Encouragement Bank)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "NASBBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas S.A.-Sofia Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "BNPABGSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankservice Ad",
+      "branches": [
+        {
+          "branch_name": "T2 Interoperability",
+          "city": "Sofia",
+          "swift_code": "BSBGBGSFIOP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "BSBGBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alpha Bank-Bulgaria Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "CRBABGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Allianz Bank Bulgaria Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "BUINBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Invest Capital Jsc",
+      "branches": [
+        {
+          "branch_name": "Invest Capital Jsc",
+          "city": "Sofia",
+          "swift_code": "INCJBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ccb Assets Management Ead",
+      "branches": [
+        {
+          "branch_name": "Ccb Assets Management Ead",
+          "city": "Sofia",
+          "swift_code": "CSMEBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alfa Asset Management Ead",
+      "branches": [
+        {
+          "branch_name": "Alfa Asset Management Ead",
+          "city": "Sofia",
+          "swift_code": "AAMEBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agency For Credit Ratings And Analyses Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "ACCGBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Adamant Capital Partners Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "ADCRBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Activa Asset Management Jsc",
+      "branches": [
+        {
+          "branch_name": "Activa Asset Management Jsc",
+          "city": "Sofia",
+          "swift_code": "AAMJBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abv Investicii Eood",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "ABIEBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Bulgarian Bank",
+      "branches": [
+        {
+          "branch_name": "Headquarter",
+          "city": "Sofia",
+          "swift_code": "UBBSBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unicredit Bulbank Ad",
+      "branches": [
+        {
+          "branch_name": "Plovdiv Branch",
+          "city": "Plovdiv",
+          "swift_code": "UNCRBGSF720"
+        },
+        {
+          "branch_name": "9000 Varna",
+          "city": "Varna",
+          "swift_code": "UNCRBGSF733"
+        },
+        {
+          "branch_name": "V Tarnovo Branch",
+          "city": "V. Tarnovo",
+          "swift_code": "UNCRBGSF081"
+        },
+        {
+          "branch_name": "Serdika Branch",
+          "city": "Sofia",
+          "swift_code": "UNCRBGSF031"
+        },
+        {
+          "branch_name": "Vitosha Branch",
+          "city": "Sofia",
+          "swift_code": "UNCRBGSF426"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "UNCRBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tokuda Bank Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "CREXBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "T.C. Ziraat Bankasi - Sofia Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "TCZBBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Expressbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Varna",
+          "swift_code": "TTBBBG22XXX"
+        },
+        {
+          "branch_name": "Custody Management",
+          "city": "Varna",
+          "swift_code": "TTBBBG22CUS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Raiffeisenbank (Bulgaria) Ead",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "RZBBBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Procredit Bank (Bulgaria) Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "PRCBBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Piraeus Bank Bulgaria Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "PIRBBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Peb Teximbank Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "TEXIBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Municipal Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "SOMBBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mkb Unionbank Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "CBUNBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Isbank Gmbh Sofia Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "ISBKBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investbank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "IORTBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Asset Bank Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "IABGBGSFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capman Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "CPNMBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intercard Finance Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "INTFBGSFXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Milano",
+          "swift_code": "INTFITMMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Milano",
+          "swift_code": "INTFITM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capman Asset Management",
+      "branches": [
+        {
+          "branch_name": "Capman Asset Management",
+          "city": "Sofia",
+          "swift_code": "CPSMBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Markets Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "CAMJBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Invest Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "CAIJBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bull Trend Brokerage Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "BUTKBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bulgarian Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "XBULBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bulgarian Credit Rating Agency",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "BCRCBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bulex Invest Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Varna",
+          "swift_code": "BUIVBG21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bulbrokers Ead",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "BUAABGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bulbrokers A D",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "BULBBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bgproinvest",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "BGPRBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Beta Corp Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "BEJSBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Benchmark Finance",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "BEFNBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Leumi Romania-sofia Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "LUMIBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Balkan Investment Company Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "BICYBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Balkan Advisory Company-ip Ead",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "BAPDBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Avus Capital",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "AVCABGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Avc Finance Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "AVFIBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aval In Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "AVJCBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Markets",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "GLMKBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Focal Point Investments Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "FPIJBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Financial Brokerage House Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "FFBHBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finance Engineering Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "FIEJBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fina-s Ad Investment Intermediary",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "FIRYBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fh Ever Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "EEERBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ffbh Asset Management",
+      "branches": [
+        {
+          "branch_name": "Ffbh Asset Management",
+          "city": "Sofia",
+          "swift_code": "FFAMBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Factori Jsco",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "FAJSBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Expat Asset Management",
+      "branches": [
+        {
+          "branch_name": "Expat Asset Management",
+          "city": "Sofia",
+          "swift_code": "EAMGBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurobank Bulgaria Ad",
+      "branches": [
+        {
+          "branch_name": "International Securities Depository",
+          "city": "Sofia",
+          "swift_code": "BPBIBGSFISD"
+        }
+      ]
+    },
+    {
+      "bank_name": "Elana Trading Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "ELTABGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Elana Fund Management",
+      "branches": [
+        {
+          "branch_name": "Elana Fund Management",
+          "city": "Sofia",
+          "swift_code": "ELFGBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ef Asset Management",
+      "branches": [
+        {
+          "branch_name": "Ef Asset Management",
+          "city": "Sofia",
+          "swift_code": "AMNMBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dilingova Finansova Kompania Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "DIFKBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deltastock Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "DETTBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "De Novo Ead",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "NODABGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "D.i.s.l. Securities Jsc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sofia",
+          "swift_code": "DISJBGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Concord Asset Management",
+      "branches": [
+        {
+          "branch_name": "Concord Asset Management",
+          "city": "Sofia",
+          "swift_code": "CNAEBGS1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Chicago",
+          "swift_code": "COETUS41XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Compass Invest Jsc",
+      "branches": [
+        {
+          "branch_name": "Compass Invest Jsc",
+          "city": "Sofia",
+          "swift_code": "COIJBGS1XXX"
+        }
+      ]
+    }
+  ]
+}

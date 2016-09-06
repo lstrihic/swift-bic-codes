@@ -1,0 +1,17 @@
+{
+  "country_name": "Saint Helena, Ascension and Tristan da Cunha",
+  "alpha_2": "SH",
+  "country_code": "654",
+  "banks": [
+    {
+      "bank_name": "Bank Of St. Helena",
+      "branches": [
+        {
+          "branch_name": "Bank Of St. Helena",
+          "city": "Jamestown",
+          "swift_code": "BHELSHJ1XXX"
+        }
+      ]
+    }
+  ]
+}

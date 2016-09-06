@@ -1,0 +1,1742 @@
+{
+  "country_name": "Pakistan",
+  "alpha_2": "PK",
+  "country_code": "586",
+  "banks": [
+    {
+      "bank_name": "Wall Street Exchange Company (pvt) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "WSEPPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trust Investment Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lahore",
+          "swift_code": "TIBLPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trust Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Karachi",
+          "city": "Karachi",
+          "swift_code": "TRBAPKK1CLI"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "TRBAPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Topline Securities Pvt Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "TOSVPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Royal Bank Of Scotland Limited",
+      "branches": [
+        {
+          "branch_name": "Cpu Trade Operation, Islamabad",
+          "city": "Islamabad",
+          "swift_code": "ABNAPKK1CIB"
+        },
+        {
+          "branch_name": "Cpu Trade Operation, Karachi",
+          "city": "Karachi",
+          "swift_code": "ABNAPKK1CKH"
+        },
+        {
+          "branch_name": "Cpu Trade Operation",
+          "city": "Lahore",
+          "swift_code": "ABNAPKK1CLH"
+        },
+        {
+          "branch_name": "Islamabad Branch",
+          "city": "Islamabad",
+          "swift_code": "ABNAPKK1ISB"
+        },
+        {
+          "branch_name": "Lahore Branch",
+          "city": "Lahore",
+          "swift_code": "ABNAPKK1LHR"
+        },
+        {
+          "branch_name": "Remittance Department, Karachi",
+          "city": "Karachi",
+          "swift_code": "ABNAPKK1PIN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "ABNAPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taurus Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "TASRPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Summit Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Trade Processing Center South",
+          "city": "Karachi",
+          "swift_code": "SUMBPKKAKHI"
+        },
+        {
+          "branch_name": "Trade Processing Centre North",
+          "city": "Lahore",
+          "swift_code": "SUMBPKKALHE"
+        },
+        {
+          "branch_name": "Forex And Treasury Department",
+          "city": "Karachi",
+          "swift_code": "SUMBPKKATRY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "SUMBPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sultan Ghulam Husein Dattoo (brokers",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "SGHDPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Bank Of Pakistan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "SBPPPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank (pakistan) Limited",
+      "branches": [
+        {
+          "branch_name": "Clifton Branch",
+          "city": "Karachi",
+          "swift_code": "SCBLPKKXCLF"
+        },
+        {
+          "branch_name": "Karachi",
+          "city": "Karachi",
+          "swift_code": "SCBLPKKXEQI"
+        },
+        {
+          "branch_name": "Lahore Branch",
+          "city": "Lahore",
+          "swift_code": "SCBLPKKXLHR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "SCBLPKKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Soneri Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Akbar Chowk Branch",
+          "city": "Lahore",
+          "swift_code": "SONEPKKAALH"
+        },
+        {
+          "branch_name": "Badami Bagh Branch",
+          "city": "Lahore",
+          "swift_code": "SONEPKKABBL"
+        },
+        {
+          "branch_name": "Bahawalpur Branch",
+          "city": "Bahawalpur",
+          "swift_code": "SONEPKKABWP"
+        },
+        {
+          "branch_name": "Chungi Amer Sadhu",
+          "city": "Lahore",
+          "swift_code": "SONEPKKACAL"
+        },
+        {
+          "branch_name": "Cavalary Ground Branch",
+          "city": "Lahore",
+          "swift_code": "SONEPKKACGL"
+        },
+        {
+          "branch_name": "Clifton Branch",
+          "city": "Karachi",
+          "swift_code": "SONEPKKACKR"
+        },
+        {
+          "branch_name": "Circular Road, Lahore Branch",
+          "city": "Lahore",
+          "swift_code": "SONEPKKACLH"
+        },
+        {
+          "branch_name": "Chowk Yadgar, Peshawar",
+          "city": "Peshawar",
+          "swift_code": "SONEPKKACYP"
+        },
+        {
+          "branch_name": "Defence Branch",
+          "city": "Karachi",
+          "swift_code": "SONEPKKADHK"
+        },
+        {
+          "branch_name": "Defence Branch, Lahore",
+          "city": "Lahore",
+          "swift_code": "SONEPKKADLH"
+        },
+        {
+          "branch_name": "Phase Iii, Defence",
+          "city": "Lahore",
+          "swift_code": "SONEPKKADPL"
+        },
+        {
+          "branch_name": "Main Branch,faisalabad",
+          "city": "Faisalabad",
+          "swift_code": "SONEPKKAFSD"
+        },
+        {
+          "branch_name": "Main Branch Gunjranwala",
+          "city": "Gujranwala",
+          "swift_code": "SONEPKKAGJR"
+        },
+        {
+          "branch_name": "Gulberg Branch, Lahore",
+          "city": "Lahore",
+          "swift_code": "SONEPKKAGLH"
+        },
+        {
+          "branch_name": "Main Branch, Hyderabad",
+          "city": "Hyderabad",
+          "swift_code": "SONEPKKAHYD"
+        },
+        {
+          "branch_name": "Islamic Banking Cloth Market Branch",
+          "city": "Karachi",
+          "swift_code": "SONEPKKAICK"
+        },
+        {
+          "branch_name": "Islamic Banking New Garden Town Branch",
+          "city": "Lahore",
+          "swift_code": "SONEPKKAIGL"
+        },
+        {
+          "branch_name": "Main Branch Ismamabad",
+          "city": "Islamabad",
+          "swift_code": "SONEPKKAISD"
+        },
+        {
+          "branch_name": "Jodia Bazar, Karachi",
+          "city": "Karachi",
+          "swift_code": "SONEPKKAJKR"
+        },
+        {
+          "branch_name": "Main Branch",
+          "city": "Karachi",
+          "swift_code": "SONEPKKAKAR"
+        },
+        {
+          "branch_name": "Korangi Industrial Area Branch",
+          "city": "Karachi",
+          "swift_code": "SONEPKKAKKR"
+        },
+        {
+          "branch_name": "Main Branch",
+          "city": "Lahore",
+          "swift_code": "SONEPKKALHR"
+        },
+        {
+          "branch_name": "Islamabad",
+          "city": "Islamabad",
+          "swift_code": "SONEPKKAMIS"
+        },
+        {
+          "branch_name": "Karachi",
+          "city": "Karachi",
+          "swift_code": "SONEPKKAMJK"
+        },
+        {
+          "branch_name": "Model Town Branch",
+          "city": "Lahore",
+          "swift_code": "SONEPKKAMLH"
+        },
+        {
+          "branch_name": "Main Branch,multan",
+          "city": "Multan",
+          "swift_code": "SONEPKKAMTN"
+        },
+        {
+          "branch_name": "New Challi Branch",
+          "city": "Karachi",
+          "swift_code": "SONEPKKANCK"
+        },
+        {
+          "branch_name": "Main Branch,peshawar",
+          "city": "Peshawar",
+          "swift_code": "SONEPKKAPSH"
+        },
+        {
+          "branch_name": "Qartaba Chowk Branch Lahore",
+          "city": "Lahore",
+          "swift_code": "SONEPKKAQCL"
+        },
+        {
+          "branch_name": "Main Branch,quetta",
+          "city": "Quetta",
+          "swift_code": "SONEPKKAQTA"
+        },
+        {
+          "branch_name": "Main Branch Rawalpindi",
+          "city": "Rawalpindi",
+          "swift_code": "SONEPKKARWP"
+        },
+        {
+          "branch_name": "Shahrah-e-faisal Branch",
+          "city": "Karachi",
+          "swift_code": "SONEPKKASFK"
+        },
+        {
+          "branch_name": "Site Branch",
+          "city": "Karachi",
+          "swift_code": "SONEPKKASIK"
+        },
+        {
+          "branch_name": "Main Branch Sialkot",
+          "city": "Sialkot",
+          "swift_code": "SONEPKKASKT"
+        },
+        {
+          "branch_name": "Main Branch Sukkur",
+          "city": "Sukkur",
+          "swift_code": "SONEPKKASUK"
+        },
+        {
+          "branch_name": "Thoker Niaz Baig",
+          "city": "Lahore",
+          "swift_code": "SONEPKKATNL"
+        },
+        {
+          "branch_name": "Forex And Treasury Department",
+          "city": "Karachi",
+          "swift_code": "SONEPKKATRY"
+        },
+        {
+          "branch_name": "Upper Mall Branch",
+          "city": "Lahore",
+          "swift_code": "SONEPKKAUML"
+        },
+        {
+          "branch_name": "Main Branch Wazirabad",
+          "city": "Wazirabad",
+          "swift_code": "SONEPKKAWZD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "SONEPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale, The French And International Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "SOGEPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sme Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Islamabad",
+          "swift_code": "SMESPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sindh Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "SINDPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Silkbank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "SAUDPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Silk Finance",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sialkot",
+          "swift_code": "SILKPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Khyber, The",
+      "branches": [
+        {
+          "branch_name": "Bok-karachi Branch",
+          "city": "Karachi",
+          "swift_code": "KHYBPKKA024"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Peshawar",
+          "swift_code": "KHYBPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "B. Saleem Gazipura (brokers",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "SAGRPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aziz Fida Hussain (brokers",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "AFHBPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Askari Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Awt Plaza, Rawalpindi Branch",
+          "city": "Rawalpindi",
+          "swift_code": "ASCMPKKA001"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arif Habib Limited",
+      "branches": [
+        {
+          "branch_name": "Arif Habib Limited",
+          "city": "Karachi",
+          "swift_code": "ARHAPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aqeel Karim Dhedhi (brokers",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "AKDBPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ali Hussain Rajabali (brokers",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "AHRRPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Albaraka Bank (pakistan)limited",
+      "branches": [
+        {
+          "branch_name": "54000 Lahore",
+          "city": "Lahore",
+          "swift_code": "AIINPKKALHR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "AIINPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Allied Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Sitara Tower Branch",
+          "city": "Faisalabad",
+          "swift_code": "ABPAPKKA237"
+        },
+        {
+          "branch_name": "7-e-iii, Corporate Centre, Branch Lahore 0361",
+          "city": "Lahore",
+          "swift_code": "ABPAPKKA361"
+        },
+        {
+          "branch_name": "Chen One Tower 74 Abdali Road Branch",
+          "city": "Multan",
+          "swift_code": "ABPAPKKA393"
+        },
+        {
+          "branch_name": "Blue Area Branch, Corporate Branch, Islamabad",
+          "city": "Islamabad",
+          "swift_code": "ABPAPKKA443"
+        },
+        {
+          "branch_name": "Branch Karachi 0949",
+          "city": "Karachi",
+          "swift_code": "ABPAPKKA949"
+        },
+        {
+          "branch_name": "199-upper Mall, Lahore 0979",
+          "city": "Karachi",
+          "swift_code": "ABPAPKKA979"
+        },
+        {
+          "branch_name": "Export Processing Zone Branch, Off Shore Banking Unit",
+          "city": "Karachi",
+          "swift_code": "ABPAPKKAEPZ"
+        },
+        {
+          "branch_name": "Faisalabad City",
+          "city": "Faisalabad",
+          "swift_code": "ABPAPKKAFSD"
+        },
+        {
+          "branch_name": "Gujranwala City",
+          "city": "Karachi",
+          "swift_code": "ABPAPKKAGUJ"
+        },
+        {
+          "branch_name": "Islamabad City",
+          "city": "Islamabad",
+          "swift_code": "ABPAPKKAISL"
+        },
+        {
+          "branch_name": "Lahore City",
+          "city": "Lahore",
+          "swift_code": "ABPAPKKALHR"
+        },
+        {
+          "branch_name": "Multan City",
+          "city": "Multan",
+          "swift_code": "ABPAPKKAMUL"
+        },
+        {
+          "branch_name": "Peshawar City",
+          "city": "Karachi",
+          "swift_code": "ABPAPKKAPSH"
+        },
+        {
+          "branch_name": "Rawalpindi City",
+          "city": "Karachi",
+          "swift_code": "ABPAPKKARWP"
+        },
+        {
+          "branch_name": "Sialkot City",
+          "city": "Sialkot",
+          "swift_code": "ABPAPKKASKT"
+        },
+        {
+          "branch_name": "Trade Factory Wing, Trade Tower, Central Office, Karachi",
+          "city": "Karachi",
+          "swift_code": "ABPAPKKATFW"
+        },
+        {
+          "branch_name": "Bath Island",
+          "city": "Karachi",
+          "swift_code": "ABPAPKKATKC"
+        },
+        {
+          "branch_name": "Treasury Operations Trops, Operations Group, Central Office",
+          "city": "Karachi",
+          "swift_code": "ABPAPKKATRY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "ABPAPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Askaribank Limited",
+      "branches": [
+        {
+          "branch_name": "Saima Trade Tower Branch",
+          "city": "Karachi",
+          "swift_code": "ASCMPKKA002"
+        },
+        {
+          "branch_name": "Cantonment Branch",
+          "city": "Quetta",
+          "swift_code": "ASCMPKKA003"
+        },
+        {
+          "branch_name": "Cantonment Branch",
+          "city": "Peshawar",
+          "swift_code": "ASCMPKKA004"
+        },
+        {
+          "branch_name": "Sat Branch",
+          "city": "Lahore",
+          "swift_code": "ASCMPKKA006"
+        },
+        {
+          "branch_name": "University Road Branch",
+          "city": "Faisalabad",
+          "swift_code": "ASCMPKKA009"
+        },
+        {
+          "branch_name": "Sialkot Branch",
+          "city": "Sialkot",
+          "swift_code": "ASCMPKKA010"
+        },
+        {
+          "branch_name": "Gujranwala Branch",
+          "city": "Gujranwala",
+          "swift_code": "ASCMPKKA012"
+        },
+        {
+          "branch_name": "Multan Branch",
+          "city": "Multan",
+          "swift_code": "ASCMPKKA013"
+        },
+        {
+          "branch_name": "Gujrat Branch",
+          "city": "Gujrat",
+          "swift_code": "ASCMPKKA037"
+        },
+        {
+          "branch_name": "Ibb, Rawalpindi",
+          "city": "Rawalpindi",
+          "swift_code": "ASCMPKKA901"
+        },
+        {
+          "branch_name": "Ibb, Peshawar",
+          "city": "Peshawar",
+          "swift_code": "ASCMPKKA902"
+        },
+        {
+          "branch_name": "Islamic Bkg Br,jinnah Rd",
+          "city": "Quetta",
+          "swift_code": "ASCMPKKA903"
+        },
+        {
+          "branch_name": "Islamic Bkg Br, Jodia Bazar",
+          "city": "Karachi",
+          "swift_code": "ASCMPKKA904"
+        },
+        {
+          "branch_name": "Islamic Bkg Br, Blue Area",
+          "city": "Islamabad",
+          "swift_code": "ASCMPKKA905"
+        },
+        {
+          "branch_name": "Islamic Bkg Br, Walton Cantt",
+          "city": "Lahore",
+          "swift_code": "ASCMPKKA906"
+        },
+        {
+          "branch_name": "Central Foreign Trade Unit",
+          "city": "Karachi",
+          "swift_code": "ASCMPKKAFT1"
+        },
+        {
+          "branch_name": "Central Foreign Trade Unit",
+          "city": "Lahore",
+          "swift_code": "ASCMPKKAFT2"
+        },
+        {
+          "branch_name": "Central Foreign Trade Unit",
+          "city": "Rawalpindi",
+          "swift_code": "ASCMPKKAFT3"
+        },
+        {
+          "branch_name": "Head Office, Rawalpindi",
+          "city": "Rawalpindi",
+          "swift_code": "ASCMPKKAHOR"
+        },
+        {
+          "branch_name": "Islamic Treasury Desk, Khi",
+          "city": "Karachi",
+          "swift_code": "ASCMPKKAIBT"
+        },
+        {
+          "branch_name": "International Division",
+          "city": "Rawalpindi",
+          "swift_code": "ASCMPKKAIND"
+        },
+        {
+          "branch_name": "Treasury Division",
+          "city": "Karachi",
+          "swift_code": "ASCMPKKATRY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "ASCMPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samba Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "SAMBPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Royal Exchange Ltd",
+      "branches": [
+        {
+          "branch_name": "51310 Sialkot",
+          "city": "Sialkot",
+          "swift_code": "ROEXPKK1GAO"
+        },
+        {
+          "branch_name": "Branch",
+          "city": "Sialkot",
+          "swift_code": "ROEXPKK1SKT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sialkot",
+          "swift_code": "ROEXPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "I. Puri Securities (pvt) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "PUSVPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ific Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "IFBLPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank Oman S.a.o.g. (formerly Oman International Bank",
+      "branches": [
+        {
+          "branch_name": "Lahore Branch",
+          "city": "Lahore",
+          "swift_code": "OIBAPKKALHR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "OIBAPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Women Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "FWOMPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Habib Metropolitan Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Main Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA001"
+        },
+        {
+          "branch_name": "Lahore Branch",
+          "city": "Lahore",
+          "swift_code": "MPBLPKKA002"
+        },
+        {
+          "branch_name": "Peshawar Branch",
+          "city": "Peshawar",
+          "swift_code": "MPBLPKKA003"
+        },
+        {
+          "branch_name": "Quetta Branch",
+          "city": "Quetta",
+          "swift_code": "MPBLPKKA004"
+        },
+        {
+          "branch_name": "Mirpur A K Branch",
+          "city": "Mirpur",
+          "swift_code": "MPBLPKKA005"
+        },
+        {
+          "branch_name": "Sialkot Branch",
+          "city": "Sialkot",
+          "swift_code": "MPBLPKKA006"
+        },
+        {
+          "branch_name": "Hyderabad Branch",
+          "city": "Hyderabad",
+          "swift_code": "MPBLPKKA007"
+        },
+        {
+          "branch_name": "Multan Branch",
+          "city": "Multan",
+          "swift_code": "MPBLPKKA008"
+        },
+        {
+          "branch_name": "Faisalabad Branch",
+          "city": "Faisalabad",
+          "swift_code": "MPBLPKKA009"
+        },
+        {
+          "branch_name": "Islamabad Branch",
+          "city": "Islamabad",
+          "swift_code": "MPBLPKKA010"
+        },
+        {
+          "branch_name": "Cloth Market Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA011"
+        },
+        {
+          "branch_name": "Sharah-e-faisal Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA012"
+        },
+        {
+          "branch_name": "Paper Market Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA013"
+        },
+        {
+          "branch_name": "Gulshan-e-iqbal Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA014"
+        },
+        {
+          "branch_name": "Jodia Bazar Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA015"
+        },
+        {
+          "branch_name": "Rahim Yar Khan Branch",
+          "city": "Rahimyar Khan",
+          "swift_code": "MPBLPKKA016"
+        },
+        {
+          "branch_name": "Kasur Branch",
+          "city": "Kasur",
+          "swift_code": "MPBLPKKA017"
+        },
+        {
+          "branch_name": "Karachi Stock Exchange Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA018"
+        },
+        {
+          "branch_name": "Gujranwala Branch",
+          "city": "Gujranwala",
+          "swift_code": "MPBLPKKA019"
+        },
+        {
+          "branch_name": "M A Jinnah Road Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA020"
+        },
+        {
+          "branch_name": "Main Boulevard Branch",
+          "city": "Lahore",
+          "swift_code": "MPBLPKKA061"
+        },
+        {
+          "branch_name": "Korangi Industrial Area Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA062"
+        },
+        {
+          "branch_name": "Marriot Road Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA063"
+        },
+        {
+          "branch_name": "Hbz Islamic Banking Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA064"
+        },
+        {
+          "branch_name": "Business Avenue Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA065"
+        },
+        {
+          "branch_name": "Preedy Street Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA066"
+        },
+        {
+          "branch_name": "Baghbanpura Branch",
+          "city": "Lahore",
+          "swift_code": "MPBLPKKA067"
+        },
+        {
+          "branch_name": "Hbz Bahadurabad Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA068"
+        },
+        {
+          "branch_name": "Raiwind Road Branch",
+          "city": "Lahore",
+          "swift_code": "MPBLPKKA069"
+        },
+        {
+          "branch_name": "Khayaban-e-shahbaz Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA070"
+        },
+        {
+          "branch_name": "North Nazimabad Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA071"
+        },
+        {
+          "branch_name": "Rashid Minhas Road Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA072"
+        },
+        {
+          "branch_name": "Mission Road Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA073"
+        },
+        {
+          "branch_name": "Garden Town Branch",
+          "city": "Lahore",
+          "swift_code": "MPBLPKKA074"
+        },
+        {
+          "branch_name": "Mangopir Road Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA075"
+        },
+        {
+          "branch_name": "Ravi Road Branch",
+          "city": "Lahore",
+          "swift_code": "MPBLPKKA076"
+        },
+        {
+          "branch_name": "Dha Phase Ii Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA077"
+        },
+        {
+          "branch_name": "Gulistan-e-johar Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA078"
+        },
+        {
+          "branch_name": "Soldier Bazar Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA079"
+        },
+        {
+          "branch_name": "U.p. More Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA080"
+        },
+        {
+          "branch_name": "Paposh Nagar Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA041"
+        },
+        {
+          "branch_name": "Textile Plaza Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA042"
+        },
+        {
+          "branch_name": "Islamic Banking Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA043"
+        },
+        {
+          "branch_name": "Water Pump Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA044"
+        },
+        {
+          "branch_name": "Shershah Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA045"
+        },
+        {
+          "branch_name": "Badami Bagh Branch",
+          "city": "Lahore",
+          "swift_code": "MPBLPKKA046"
+        },
+        {
+          "branch_name": "F-10 Markaz Branch",
+          "city": "Islamabad",
+          "swift_code": "MPBLPKKA047"
+        },
+        {
+          "branch_name": "Model Town Branch",
+          "city": "Lahore",
+          "swift_code": "MPBLPKKA048"
+        },
+        {
+          "branch_name": "Small Industrial Estates Branch",
+          "city": "Sialkot",
+          "swift_code": "MPBLPKKA049"
+        },
+        {
+          "branch_name": "University Road Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA050"
+        },
+        {
+          "branch_name": "Boat Basin Clifton Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA051"
+        },
+        {
+          "branch_name": "Hbz Plaza Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA052"
+        },
+        {
+          "branch_name": "Davis Road Branch",
+          "city": "Lahore",
+          "swift_code": "MPBLPKKA053"
+        },
+        {
+          "branch_name": "Sargodha Road Branch",
+          "city": "Faisalabad",
+          "swift_code": "MPBLPKKA054"
+        },
+        {
+          "branch_name": "Murree Road Branch",
+          "city": "Rawalpindi",
+          "swift_code": "MPBLPKKA055"
+        },
+        {
+          "branch_name": "Mereweather Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA056"
+        },
+        {
+          "branch_name": "Hbz Clifton Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA057"
+        },
+        {
+          "branch_name": "City Court Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA058"
+        },
+        {
+          "branch_name": "Plaza Square Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA059"
+        },
+        {
+          "branch_name": "Site Avenue Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA060"
+        },
+        {
+          "branch_name": "Allama Iqbal Road Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA081"
+        },
+        {
+          "branch_name": "Islamic Banking Gulberg Branch",
+          "city": "Lahore",
+          "swift_code": "MPBLPKKA082"
+        },
+        {
+          "branch_name": "Lines Area Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA083"
+        },
+        {
+          "branch_name": "Shahrah-e-quaid-e-azam Branch",
+          "city": "Lahore",
+          "swift_code": "MPBLPKKA084"
+        },
+        {
+          "branch_name": "Treasury Dept., Head Office",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA092"
+        },
+        {
+          "branch_name": "Central Export Unit",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKACEU"
+        },
+        {
+          "branch_name": "Central Import Unit",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKACIU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKAXXX"
+        },
+        {
+          "branch_name": "North Napier Road Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA021"
+        },
+        {
+          "branch_name": "Karimabad Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA022"
+        },
+        {
+          "branch_name": "S I T E Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA023"
+        },
+        {
+          "branch_name": "D H A Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA024"
+        },
+        {
+          "branch_name": "Gulberg Branch",
+          "city": "Lahore",
+          "swift_code": "MPBLPKKA025"
+        },
+        {
+          "branch_name": "Korangi Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA026"
+        },
+        {
+          "branch_name": "Timber Market Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA027"
+        },
+        {
+          "branch_name": "Saddar Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA028"
+        },
+        {
+          "branch_name": "Alamgir Road Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA029"
+        },
+        {
+          "branch_name": "Khayaban-e-ittehad Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA030"
+        },
+        {
+          "branch_name": "Hyderi Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA031"
+        },
+        {
+          "branch_name": "Circular Road Branch",
+          "city": "Lahore",
+          "swift_code": "MPBLPKKA032"
+        },
+        {
+          "branch_name": "Dhoraji Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA033"
+        },
+        {
+          "branch_name": "Defence Branch",
+          "city": "Lahore",
+          "swift_code": "MPBLPKKA034"
+        },
+        {
+          "branch_name": "North Karachi Industrial Area Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA035"
+        },
+        {
+          "branch_name": "Rawalpindi Branch",
+          "city": "Rawalpindi",
+          "swift_code": "MPBLPKKA036"
+        },
+        {
+          "branch_name": "Gulshan Chowrangi Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA037"
+        },
+        {
+          "branch_name": "Khalid Bin Walid Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA038"
+        },
+        {
+          "branch_name": "Landhi Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA039"
+        },
+        {
+          "branch_name": "Ceramic Market Branch",
+          "city": "Karachi",
+          "swift_code": "MPBLPKKA040"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Capital Equities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "FCEQPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Faysal Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Faisalabad Branch",
+          "city": "Faisalabad",
+          "swift_code": "FAYSPKKA111"
+        },
+        {
+          "branch_name": "Lahore Mall Branch",
+          "city": "Lahore",
+          "swift_code": "FAYSPKKA112"
+        },
+        {
+          "branch_name": "Islamabad Blue Area Branch",
+          "city": "Islamabad",
+          "swift_code": "FAYSPKKA113"
+        },
+        {
+          "branch_name": "Peshawar Branch",
+          "city": "Peshawar",
+          "swift_code": "FAYSPKKA114"
+        },
+        {
+          "branch_name": "Quetta Branch",
+          "city": "Quetta",
+          "swift_code": "FAYSPKKA115"
+        },
+        {
+          "branch_name": "Mirpur-aj And K-branch",
+          "city": "Mirpur",
+          "swift_code": "FAYSPKKA116"
+        },
+        {
+          "branch_name": "Gulberg Branch",
+          "city": "Lahore",
+          "swift_code": "FAYSPKKA117"
+        },
+        {
+          "branch_name": "Clifton Branch",
+          "city": "Karachi",
+          "swift_code": "FAYSPKKA118"
+        },
+        {
+          "branch_name": "Gulshan-e-iqbal Branch",
+          "city": "Karachi",
+          "swift_code": "FAYSPKKA119"
+        },
+        {
+          "branch_name": "Rawalpindi Branch",
+          "city": "Rawalpindi",
+          "swift_code": "FAYSPKKA120"
+        },
+        {
+          "branch_name": "Multan Branch",
+          "city": "Multan",
+          "swift_code": "FAYSPKKA121"
+        },
+        {
+          "branch_name": "Sialkot Branch",
+          "city": "Sialkot",
+          "swift_code": "FAYSPKKA122"
+        },
+        {
+          "branch_name": "Jodia Bazar Branch",
+          "city": "Karachi",
+          "swift_code": "FAYSPKKA123"
+        },
+        {
+          "branch_name": "Dha-karachi Branch",
+          "city": "Karachi",
+          "swift_code": "FAYSPKKA124"
+        },
+        {
+          "branch_name": "Dha-lahore Branch",
+          "city": "Lahore",
+          "swift_code": "FAYSPKKA125"
+        },
+        {
+          "branch_name": "F-10 Markaz Branch",
+          "city": "Islamabad",
+          "swift_code": "FAYSPKKA126"
+        },
+        {
+          "branch_name": "Shaheed-e-millat Branch, Karachi",
+          "city": "Karachi",
+          "swift_code": "FAYSPKKA127"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "FAYSPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Faisal Islamic Bank Of Bahrain",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "FAIBPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rupali Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "RUPBPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Elixir Securities Pakistan (pvt) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "WICAPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dubai Islamic Bank Pakistan Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "DUIBPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Ag, Lahore Branch",
+      "branches": [
+        {
+          "branch_name": "54000 Lahore",
+          "city": "Lahore",
+          "swift_code": "DEUTPKK102L"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Ag, Islamabad Branch",
+      "branches": [
+        {
+          "branch_name": "Islamabad",
+          "city": "Islamabad",
+          "swift_code": "DEUTPKK1ISL"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Ag, Karachi Branch",
+      "branches": [
+        {
+          "branch_name": "Islamabad",
+          "city": "Islamabad",
+          "swift_code": "DEUTPKKAISB"
+        },
+        {
+          "branch_name": "Lahore Branch",
+          "city": "Lahore",
+          "swift_code": "DEUTPKKALHR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "DEUTPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Depository Company Of Pakistan Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "CDCPPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Burj Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "BURJPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bma Capital Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "BMCMPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Punjab, The",
+      "branches": [
+        {
+          "branch_name": "Main Branch",
+          "city": "Lahore",
+          "swift_code": "BPUNPKKA002"
+        },
+        {
+          "branch_name": "Nusrat Road Branch",
+          "city": "Multan",
+          "swift_code": "BPUNPKKA004"
+        },
+        {
+          "branch_name": "Railway Road Branch",
+          "city": "Faisalabad",
+          "swift_code": "BPUNPKKA010"
+        },
+        {
+          "branch_name": "Trust Plaza Branch",
+          "city": "Gujranwala",
+          "swift_code": "BPUNPKKA011"
+        },
+        {
+          "branch_name": "Gul-e-akra Plaza Branch",
+          "city": "Rawalpindi",
+          "swift_code": "BPUNPKKA014"
+        },
+        {
+          "branch_name": "Bank Square Branch",
+          "city": "Lahore",
+          "swift_code": "BPUNPKKA024"
+        },
+        {
+          "branch_name": "M M Tower Branch, Lahore",
+          "city": "Lahore",
+          "swift_code": "BPUNPKKA052"
+        },
+        {
+          "branch_name": "Tpc Karachi",
+          "city": "Karachi",
+          "swift_code": "BPUNPKKA239"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "BPUNPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Paklibya Holding Company (private) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "PHCPPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bhayani Securities (pvt) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "KABBPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Optimus Capital Management (pvt) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "OCMVPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nib Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "NIBPPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pakistan Tobacco Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Islamabad",
+          "swift_code": "BATSPKA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meezan Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "MEZNPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Majeed Adam",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "MAADPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kasb Bank Limited",
+      "branches": [
+        {
+          "branch_name": "F I And I D",
+          "city": "Karachi",
+          "swift_code": "PLCOPKKA001"
+        },
+        {
+          "branch_name": "Trade Finance Processing Centre",
+          "city": "Karachi",
+          "swift_code": "PLCOPKKA002"
+        },
+        {
+          "branch_name": "Islamabad Branch",
+          "city": "Islamabad",
+          "swift_code": "PLCOPKKA005"
+        },
+        {
+          "branch_name": "Centralized Ops",
+          "city": "Karachi",
+          "swift_code": "PLCOPKKA011"
+        },
+        {
+          "branch_name": "I I Chundrigar Road Branch",
+          "city": "Karachi",
+          "swift_code": "PLCOPKKAKHI"
+        },
+        {
+          "branch_name": "Treasury Back Office",
+          "city": "Karachi",
+          "swift_code": "PLCOPKKATRY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi Sindh",
+          "swift_code": "PLCOPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Khadim Ali Shah Bukhari And Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "KASBPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankislami Pakistan Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "BKIPPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Karachi Stock Exchange (guarantee) Limited, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "XKARPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Js Global Capital Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "JSCMPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Js Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "JSBLPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pakistan Kuwait Investment Company Private Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "PKICPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jehangir Siddiqui And Co. Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "JESIPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Invisor Securities (pvt) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "IVSPPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial And Commercial Bank Of China, Karachi Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "ICBKPKKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Igi Finex Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "IGFSPKK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jardine Fleming Pakistan Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karachi",
+          "swift_code": "JAFPPKK1XXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "country_name": "Djibouti",
+  "alpha_2": "DJ",
+  "country_code": "262",
+  "banks": [
+    {
+      "bank_name": "Warka Bank For Investment And Finance Djibouti",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Djibouti",
+          "swift_code": "WAIVDJJDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shoura Bank-djibouti",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Djibouti",
+          "swift_code": "SBDJDJJDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Salaam African Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Djibouti",
+          "swift_code": "ISEADJJDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Exim Bank (djibouti) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Djibouti",
+          "swift_code": "EXTNDJJDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Commercial Bank Djibouti",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Djibouti",
+          "swift_code": "ICDJDJJDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dahabshil Bank International",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Djibouti",
+          "swift_code": "DBISDJJ2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cac International Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Djibouti",
+          "swift_code": "CACDDJJDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Pour Le Commerce Et L'industrie-mer Rouge",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Djibouti",
+          "swift_code": "BCIMDJJXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De Djibouti Et Du Moyen Orient",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Djibouti",
+          "swift_code": "BDMODJD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Centrale De Djibouti",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Djibouti",
+          "swift_code": "BCDJDJJDXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Djibouti",
+          "swift_code": "BNDJDJD1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De Depot Et Credit Djibouti",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Djibouti",
+          "swift_code": "DECDDJJDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Africa Mer Rouge",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Djibouti",
+          "swift_code": "MRINDJJDXXX"
+        }
+      ]
+    }
+  ]
+}

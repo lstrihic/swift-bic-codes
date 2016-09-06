@@ -1,0 +1,77 @@
+{
+  "country_name": "Saint Lucia",
+  "alpha_2": "LC",
+  "country_code": "662",
+  "banks": [
+    {
+      "bank_name": "Statetrust Bank And Trust Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Castries",
+          "swift_code": "STTTLCLCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hermes Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gros-islet",
+          "swift_code": "HEMMLCL2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Government Of Saint Lucia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Castries",
+          "swift_code": "GVLCLCLCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Investment Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gros-islet",
+          "swift_code": "DEVTLCL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Saint Lucia Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Castries",
+          "swift_code": "BOSLLCLCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Saint Lucia International Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gros-islet",
+          "swift_code": "BSLULCLCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "1st National Bank St.lucia Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Castries",
+          "swift_code": "LUOBLCLCXXX"
+        }
+      ]
+    }
+  ]
+}

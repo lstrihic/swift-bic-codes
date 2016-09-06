@@ -1,0 +1,1992 @@
+{
+  "country_name": "Greece",
+  "alpha_2": "GR",
+  "country_code": "300",
+  "banks": [
+    {
+      "bank_name": "Zacharias G. Portalakis S.a. Brokerage Firm",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "ZPBFGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union De Creditos Inmobiliarios S.a. Establecimiento Financiero De Credito",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "UCISGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Themist. Sot. Sotiriadis Chrimatistiriaki Anonymos Etaireia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "THSTGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Telesis Securities Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "TESCGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Zeus Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "ZESEGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Solidus Securities Anonymos Chrimatistiriaki Etaireia Parochis Ependytikon Ypiresion",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "SOSXGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Greece",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "SGGRGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Bank And Trust (hellas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "SGBTGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Social Insurance Institute Unified Insurance Fund For Employees",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "SIIUGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sarros Securities Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "SARRGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prelium Securities And Investment Services S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "PSISGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronics Greece S",
+      "branches": [
+        {
+          "branch_name": "Chalandri",
+          "city": "Chalandri",
+          "swift_code": "SECTGR214N2"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Chalandri Athens",
+          "swift_code": "SECTGR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Praxis International Securities And Investment Services S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "PISNGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Piraeus Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "SIGSGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pentedekas Securities Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "PESRGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pegasus Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "PESUGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pandk Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "PAECGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pinnacle Financial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "PFEAGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pandk S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "PADDGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pancretan Cooperative Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Heraklion",
+          "swift_code": "STPGGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investment Bank Of Greece S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "IBOGGRAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hellenic Exchanges S.A.",
+      "branches": [
+        {
+          "branch_name": "Helex Ancillary System",
+          "city": "Athens",
+          "swift_code": "HCSDGRAAASI"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "HCSDGRAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Greek Branch Of Kedr Jcsc Cb",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "KEDRGRAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "General Bank Of Greece Sa",
+      "branches": [
+        {
+          "branch_name": "Agrinio",
+          "city": "Agrinio",
+          "swift_code": "GHBAGRAA043"
+        },
+        {
+          "branch_name": "International Cash Centralization",
+          "city": "Athens",
+          "swift_code": "GHBAGRAACTI"
+        },
+        {
+          "branch_name": "Custody Dept",
+          "city": "Athens",
+          "swift_code": "GHBAGRAAGSS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "GHBAGRAAXXX"
+        },
+        {
+          "branch_name": "Florina",
+          "city": "Florina",
+          "swift_code": "GHBAGRAA062"
+        },
+        {
+          "branch_name": "Halkis",
+          "city": "Halkis",
+          "swift_code": "GHBAGRAA032"
+        },
+        {
+          "branch_name": "Heraklion",
+          "city": "Heraklion",
+          "swift_code": "GHBAGRAA039"
+        },
+        {
+          "branch_name": "Ioannina",
+          "city": "Ioannina",
+          "swift_code": "GHBAGRAA020"
+        },
+        {
+          "branch_name": "Kalamata",
+          "city": "Kalamata",
+          "swift_code": "GHBAGRAA045"
+        },
+        {
+          "branch_name": "Kavala",
+          "city": "Kavala",
+          "swift_code": "GHBAGRAA041"
+        },
+        {
+          "branch_name": "Larissa",
+          "city": "Larissa",
+          "swift_code": "GHBAGRAA010"
+        },
+        {
+          "branch_name": "Piraeus",
+          "city": "Piraeus",
+          "swift_code": "GHBAGRAA004"
+        },
+        {
+          "branch_name": "Rhodos",
+          "city": "Rhodos",
+          "swift_code": "GHBAGRAA064"
+        },
+        {
+          "branch_name": "Serres",
+          "city": "Serres",
+          "swift_code": "GHBAGRAA015"
+        },
+        {
+          "branch_name": "Thessaloniki",
+          "city": "Thessaloniki",
+          "swift_code": "GHBAGRAA005"
+        },
+        {
+          "branch_name": "Volos",
+          "city": "Volos",
+          "swift_code": "GHBAGRAA037"
+        },
+        {
+          "branch_name": "Patra",
+          "city": "Patra",
+          "swift_code": "GHBAGRAA007"
+        },
+        {
+          "branch_name": "Custody Bonds Settlement",
+          "city": "Athens",
+          "swift_code": "GHBAGRAACBS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ministry Of Ecomony And Finance, General Accounting Office",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "MFGAGRAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank International Plc - Greek Branch",
+      "branches": [
+        {
+          "branch_name": "Athens",
+          "city": "Athens",
+          "swift_code": "CITIGRAA731"
+        },
+        {
+          "branch_name": "Restricted Use Citibank Athens Target 2",
+          "city": "Athens",
+          "swift_code": "CITIGRAASEC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "CITIGRAAXXX"
+        },
+        {
+          "branch_name": "Piraeus",
+          "city": "Piraeus",
+          "swift_code": "CITIGRAA732"
+        },
+        {
+          "branch_name": "Thessaloniki",
+          "city": "Thessaloniki",
+          "swift_code": "CITIGRAA733"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Securities Services, Greece",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "PARBGRAXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Black Sea Trade And Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Thessaloniki",
+          "swift_code": "BSTDGR2TXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Attica Bank Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "ATTIGRAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Greece",
+      "branches": [
+        {
+          "branch_name": "Foreign Exchange Transcactions Section",
+          "city": "Athens",
+          "swift_code": "BNGRGRAA013"
+        },
+        {
+          "branch_name": "Government Securities Custody And Management Section",
+          "city": "Athens",
+          "swift_code": "BNGRGRAA027"
+        },
+        {
+          "branch_name": "Deposit Accounts Section",
+          "city": "Athens",
+          "swift_code": "BNGRGRAA042"
+        },
+        {
+          "branch_name": "Money Markets Section",
+          "city": "Athens",
+          "swift_code": "BNGRGRAA094"
+        },
+        {
+          "branch_name": "Athens Clearing Office",
+          "city": "Athens",
+          "swift_code": "BNGRGRAAACO"
+        },
+        {
+          "branch_name": "Tgt2 Sad Bank Indirect Member",
+          "city": "Athens",
+          "swift_code": "BNGRGRAABR4"
+        },
+        {
+          "branch_name": "Tgt2 Account27, Indirect Member",
+          "city": "Athens",
+          "swift_code": "BNGRGRAABR8"
+        },
+        {
+          "branch_name": "Book Entry Securities Managemt Section-corr Central Bk Model Syst",
+          "city": "Athens",
+          "swift_code": "BNGRGRAACCB"
+        },
+        {
+          "branch_name": "Large-value Payments System Management Section",
+          "city": "Athens",
+          "swift_code": "BNGRGRAACON"
+        },
+        {
+          "branch_name": "Dias-ch",
+          "city": "Athens",
+          "swift_code": "BNGRGRAADIA"
+        },
+        {
+          "branch_name": "Ecb Account For Bank Of Greece",
+          "city": "Athens",
+          "swift_code": "BNGRGRAAEUX"
+        },
+        {
+          "branch_name": "Treasury Operations Support Section",
+          "city": "Athens",
+          "swift_code": "BNGRGRAAFXD"
+        },
+        {
+          "branch_name": "Hermes Rtgs System",
+          "city": "Athens",
+          "swift_code": "BNGRGRAAHRM"
+        },
+        {
+          "branch_name": "Payments Of Book Entry Securities Section",
+          "city": "Athens",
+          "swift_code": "BNGRGRAAPBS"
+        },
+        {
+          "branch_name": "Sepa Credit Transfer",
+          "city": "Athens",
+          "swift_code": "BNGRGRAASCT"
+        },
+        {
+          "branch_name": "Book Entry Securities Management Section",
+          "city": "Athens",
+          "swift_code": "BNGRGRAASSS"
+        },
+        {
+          "branch_name": "Athens",
+          "city": "Athens",
+          "swift_code": "BNGRGRAAST2"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "BNGRGRAAXXX"
+        },
+        {
+          "branch_name": "Reserves Management Backup Section",
+          "city": "Athens",
+          "swift_code": "BNGRGRAA012"
+        },
+        {
+          "branch_name": "Documentary Credits Section",
+          "city": "Athens",
+          "swift_code": "BNGRGRAA017"
+        },
+        {
+          "branch_name": "Accounting Control Section",
+          "city": "Athens",
+          "swift_code": "BNGRGRAA030"
+        },
+        {
+          "branch_name": "Cash Processing Section",
+          "city": "Athens",
+          "swift_code": "BNGRGRAA053"
+        },
+        {
+          "branch_name": "Data Control Section",
+          "city": "Athens",
+          "swift_code": "BNGRGRAA059"
+        },
+        {
+          "branch_name": "Thessaloniki Branch",
+          "city": "Thessaloniki",
+          "swift_code": "BNGRGRAA121"
+        },
+        {
+          "branch_name": "Tgt2 Greek Branch Of Kedr-indirect Member",
+          "city": "Athens",
+          "swift_code": "BNGRGRAABRQ"
+        },
+        {
+          "branch_name": "Athens",
+          "city": "Athens",
+          "swift_code": "BNGRGRAABRR"
+        },
+        {
+          "branch_name": "Payment Of Public Entities Salaries",
+          "city": "Athens",
+          "swift_code": "BNGRGRAAEAP"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alpha Bank Ae",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "CRBAGRAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agricultural Bank Of Greece",
+      "branches": [
+        {
+          "branch_name": "Agrinio Branch",
+          "city": "Agrinio",
+          "swift_code": "ABGRGRAA203"
+        },
+        {
+          "branch_name": "Alexandroupoli Br",
+          "city": "Alexandroupoli",
+          "swift_code": "ABGRGRAA208"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "ABGRGRAAXXX"
+        },
+        {
+          "branch_name": "Arta Br",
+          "city": "Arta",
+          "swift_code": "ABGRGRAA222"
+        },
+        {
+          "branch_name": "Main Branch",
+          "city": "Athens",
+          "swift_code": "ABGRGRAA100"
+        },
+        {
+          "branch_name": "Attikis Br",
+          "city": "Athens",
+          "swift_code": "ABGRGRAA207"
+        },
+        {
+          "branch_name": "Nea Smyrni Br",
+          "city": "Athens",
+          "swift_code": "ABGRGRAA215"
+        },
+        {
+          "branch_name": "Chalkida Branch",
+          "city": "Chalkida",
+          "swift_code": "ABGRGRAA201"
+        },
+        {
+          "branch_name": "Chania Branch",
+          "city": "Chania",
+          "swift_code": "ABGRGRAA109"
+        },
+        {
+          "branch_name": "Florina Br",
+          "city": "Florina",
+          "swift_code": "ABGRGRAA220"
+        },
+        {
+          "branch_name": "Drama Br",
+          "city": "Drama",
+          "swift_code": "ABGRGRAA216"
+        },
+        {
+          "branch_name": "Heraklion Branch",
+          "city": "Heraklion",
+          "swift_code": "ABGRGRAA300"
+        },
+        {
+          "branch_name": "Ioannina Branch",
+          "city": "Ioannina",
+          "swift_code": "ABGRGRAA103"
+        },
+        {
+          "branch_name": "Kalamata Branch",
+          "city": "Kalamata",
+          "swift_code": "ABGRGRAA108"
+        },
+        {
+          "branch_name": "Karditsa Br",
+          "city": "Karditsa",
+          "swift_code": "ABGRGRAA218"
+        },
+        {
+          "branch_name": "Kastoria Branch",
+          "city": "Kastoria",
+          "swift_code": "ABGRGRAA104"
+        },
+        {
+          "branch_name": "Katerini Branch",
+          "city": "Katerini",
+          "swift_code": "ABGRGRAA106"
+        },
+        {
+          "branch_name": "Komotini Br",
+          "city": "Komotini",
+          "swift_code": "ABGRGRAA219"
+        },
+        {
+          "branch_name": "Kavala Branch",
+          "city": "Kavala",
+          "swift_code": "ABGRGRAA800"
+        },
+        {
+          "branch_name": "Kozani Br",
+          "city": "Kozani",
+          "swift_code": "ABGRGRAA206"
+        },
+        {
+          "branch_name": "Lamia Branch",
+          "city": "Lamia",
+          "swift_code": "ABGRGRAA204"
+        },
+        {
+          "branch_name": "Larissa Branch",
+          "city": "Larissa",
+          "swift_code": "ABGRGRAA101"
+        },
+        {
+          "branch_name": "Mytilini Br",
+          "city": "Mytilini",
+          "swift_code": "ABGRGRAA214"
+        },
+        {
+          "branch_name": "Patra Branch",
+          "city": "Patra",
+          "swift_code": "ABGRGRAA700"
+        },
+        {
+          "branch_name": "Livadia Br",
+          "city": "Livadia",
+          "swift_code": "ABGRGRAA110"
+        },
+        {
+          "branch_name": "Piraeus Br",
+          "city": "Piraeus",
+          "swift_code": "ABGRGRAA210"
+        },
+        {
+          "branch_name": "Rhodos Br",
+          "city": "Rhodos",
+          "swift_code": "ABGRGRAA228"
+        },
+        {
+          "branch_name": "Serres Br",
+          "city": "Serres",
+          "swift_code": "ABGRGRAA211"
+        },
+        {
+          "branch_name": "Thessaloniki Branch",
+          "city": "Thessaloniki",
+          "swift_code": "ABGRGRAA200"
+        },
+        {
+          "branch_name": "Volos Branch",
+          "city": "Volos",
+          "swift_code": "ABGRGRAA102"
+        },
+        {
+          "branch_name": "Xanthi Branch",
+          "city": "Xanthi",
+          "swift_code": "ABGRGRAA500"
+        },
+        {
+          "branch_name": "Frankfurt Branch",
+          "city": "Frankfurt Am Main",
+          "swift_code": "ABGRDEFFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aegean Baltic Bank S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "AEBAGRAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of America, N.A. Athens",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "BOFAGR2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pan. Vl. Tzemos Securities Company S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "PTECGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Laiki Attalos Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "LAAEGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kyprou Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "KYSEGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Efg Telesis Finance S A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "EFTFGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Efg Eurobank Asset Management Anonymi Etaireia Parochis Ependytikon Ypiresion",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "EEAMGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gklompal Chrimatodotiseis Ependyseon Anonymi Etaireia Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "GLOFGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "G.a. Pervanas Securities And Investment Services Company S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "PSIEGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortius Finance Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "FFISGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fidis Bank Gmbh",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "FIATGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Falcon Finance S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "FAFNGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Euroxx Securities Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "EUSSGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "European Reliance Finance S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khalandri",
+          "swift_code": "EURNGR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurocorp Securities Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "EUEEGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurocorp S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "EUORGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurotrust Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "EUECGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurobank Ergasias S.a.",
+      "branches": [
+        {
+          "branch_name": "Custody Foreign Institutional Investors Dept.",
+          "city": "Athens",
+          "swift_code": "ERBKGRAASEC"
+        },
+        {
+          "branch_name": "Eurobank Ergasias S.a.",
+          "city": "Athens",
+          "swift_code": "ERBKGRAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Etaireia Diacheirisis Eidikou Kefalaiou T.a.p.-o.t.e. Anonymi Etaireia Parochis Ependytikon Ypiresion",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "EDETGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ergo Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "ERGRGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Erb Eurobank Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "EFESGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Epic Anonymi Etaireia Parochis Ependytikon Ypiresion",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "EPISGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Energon Capital Finance Investment Services S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Thessaloniki",
+          "swift_code": "ECFNGR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Emporiki Credicom Bank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "EMCRGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Emporiki Asset Management Mfmc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "EAMMGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Elias A. Petropoulakis Securities And Investment Services S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "EPSIGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Artion Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "ARSIGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alpha Trust Investment Services S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kifisia",
+          "swift_code": "ATIEGR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alpha Private Investment Services",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "APISGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alpha Finance Brokerage Investment Services S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "ALPRGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alke Stockbrokers S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "ALKEGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aeolian Investment Fund S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "AEIFGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agricultural Bank Of Greece Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "AGGEGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abax Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "ABXEGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "A. Sarris Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "SAUEGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unicredit Bank Ag (Hypovereinsbank) Athens",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "HYVEGRAAXXX"
+        },
+        {
+          "branch_name": "Target2",
+          "city": "Athens",
+          "swift_code": "HYVEGRAATRS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alico Eurobank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "ALEEGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tt Hellenic Postbank S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "GPSBGRAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "T.C. Ziraat Bankasi Athens Central Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "TCZBGRATXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Panellinia Bank S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "PNELGRAAXXX"
+        },
+        {
+          "branch_name": "Piraeus",
+          "city": "Piraeus",
+          "swift_code": "PNELGRA1102"
+        },
+        {
+          "branch_name": "Koropi Branch",
+          "city": "Athens",
+          "swift_code": "PNELGRA1103"
+        },
+        {
+          "branch_name": "Egaleo Branch",
+          "city": "Athens",
+          "swift_code": "PNELGRA1104"
+        },
+        {
+          "branch_name": "Ilioupoli Branch",
+          "city": "Athens",
+          "swift_code": "PNELGRA1110"
+        },
+        {
+          "branch_name": "Renti Branch",
+          "city": "Athens",
+          "swift_code": "PNELGRA1112"
+        },
+        {
+          "branch_name": "Livadia",
+          "city": "Livadia",
+          "swift_code": "PNELGRA1261"
+        },
+        {
+          "branch_name": "Thessaloniki",
+          "city": "Thessaloniki",
+          "swift_code": "PNELGRA1310"
+        },
+        {
+          "branch_name": "Thessaloniki",
+          "city": "Thessaloniki",
+          "swift_code": "PNELGRA1311"
+        },
+        {
+          "branch_name": "Thessaloniki",
+          "city": "Thessaloniki",
+          "swift_code": "PNELGRA1312"
+        },
+        {
+          "branch_name": "Larissa",
+          "city": "Larissa",
+          "swift_code": "PNELGRA1410"
+        },
+        {
+          "branch_name": "Volos",
+          "city": "Volos",
+          "swift_code": "PNELGRA1421"
+        },
+        {
+          "branch_name": "Komotini",
+          "city": "Komotini",
+          "swift_code": "PNELGRA1531"
+        },
+        {
+          "branch_name": "Xanthi",
+          "city": "Xanthi",
+          "swift_code": "PNELGRA1541"
+        },
+        {
+          "branch_name": "Agrinio",
+          "city": "Agrinio",
+          "swift_code": "PNELGRA1641"
+        },
+        {
+          "branch_name": "Arta",
+          "city": "Arta",
+          "swift_code": "PNELGRA1681"
+        },
+        {
+          "branch_name": "Tripoli Branch",
+          "city": "Athens",
+          "swift_code": "PNELGRA1710"
+        },
+        {
+          "branch_name": "Kalamata",
+          "city": "Kalamata",
+          "swift_code": "PNELGRA1721"
+        }
+      ]
+    },
+    {
+      "bank_name": "Olayan Investments Company Establishment",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Glyfada",
+          "swift_code": "OLAYGR22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dynamic Securities S A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "DYCUGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Drax Investment Services S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "DSISGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Diolkos Asset Management S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "DIAAGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Diethnis Chrimatistiriaki-intersec",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "DICHGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "D.a. Tsekouras Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "TSSCGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cyclos Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "CYSEGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperative Bank Of Thessalia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pyli Trikalon",
+          "swift_code": "STTKGR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daimlerchrysler Bank Polska Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "DAPLGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperative Bank Of Serres",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Serres",
+          "swift_code": "COESGR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Effect S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "EFFTGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperative Bank Of Lesvos-limnos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mytilini",
+          "swift_code": "STMIGR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperative Bank Of Epirus L.t.d.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ioannina",
+          "swift_code": "STIOGR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperative Bank Of Dodecanese",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kalithies Rodos",
+          "swift_code": "STDOGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperative Bank Of Corinthia Coop. L.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Corinth",
+          "swift_code": "STKPGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperative Bank Of Chania Coop. L.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chania",
+          "swift_code": "STXAGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperative Bank Of Achaia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Patra",
+          "swift_code": "STAXGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Compagnie Financiere Europeenne S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "ECFIGRA1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ECFILUL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Consignment Deposits And Loans Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "CDLFGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Co-operative Bank Of Western Macedonia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kozani",
+          "swift_code": "STKZGR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Co-operative Bank Of Pieria, L.l.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Katerini",
+          "swift_code": "STPIGR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Co-operative Bank Of Lamia, L.l.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lamia",
+          "swift_code": "STLMGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Co-operative Bank Of Karditsa, L.l.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Karditsa",
+          "swift_code": "STKAGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Co-operative Bank Of Evros, L.l.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Alexandroupoli",
+          "swift_code": "STEOGR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Co-operative Bank Of Evia, L.l.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chalkida",
+          "swift_code": "STEBGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Co-operative Bank Of Drama, L.l.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Drama",
+          "swift_code": "STDRGR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cfs Securities And Investment Services S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "CSIEGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cetelem Sa Cetelem Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kallithea",
+          "swift_code": "CETEGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "CSEUGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnpparibas Private Bank-greek Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "BPPBGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Grece",
+      "branches": [
+        {
+          "branch_name": "Athens Branch",
+          "city": "Athens",
+          "swift_code": "BNPAGRA1XXX"
+        },
+        {
+          "branch_name": "Athens Branch",
+          "city": "Athens",
+          "swift_code": "BNPAGRAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bmw Austria Bank Gmbh",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "BMASGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Beta Chrimatistiriaki Anonymi Etairia Parochis Ependytikon Ypiresion",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "BETEGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Axon Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "AXSEGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Athinaiki Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "ATSUGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Athexclear",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "ATHCGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atlas Securities Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "ATSRGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Athens Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "XATHGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Athens Derivatives Exchange S.a. (adex), The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "XADEGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Karamanof Securities And Investment Services S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "KASNGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "John Chr. Mavrikis Securities Company S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "JCMSGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investment Analysis Financial Services S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Thessaloniki",
+          "swift_code": "INLSGR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intersec S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "ITSCGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kappa Brokerage S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "KPABGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "INUEGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interbanking Systems S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "DIASGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interac Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "ITSEGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Index Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "IDXEGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Icap Group",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "ICGOGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Pantelakis Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "MDPSGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hermes Securities S.a..",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "HERMGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hellenicamerican Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "HESUGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hellenic Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "HLSEGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Guardian Trust Chrimatistiriaki Anonymi Etaireia Parochis Ependytikon Ypiresion Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "GUTUGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hellenic Post Office S A Elta",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "HEPOGR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Greek Greenhouse Gas Emissions Registry",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kifisia",
+          "swift_code": "GGGEGR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Diacheirisi Kefalaion Anonymi Etaireia Parochis Ependytikon Ypiresion Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "GFMAGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "P K Securities Ae",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "PKSEGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Olympia Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "OLSCGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nuntius Hellenic Securities S A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "NUNTGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Northern Hellenic Investment Services S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Thessaloniki",
+          "swift_code": "NHISGR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nikos Komninos Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "NIKCGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "New Mellon Asset And Wealth Management Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "NMAWGR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Securities Co S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "NASOGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Investment Bank For Industrial Development S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Thessaloniki",
+          "swift_code": "INIDGR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "N.chryssochoidis S.b.s.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "CHSKGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Midas Financial Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "MIFUGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Metochiki Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "MEETGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merit Anonymi Chrimatistiriaki Etaireia Parochis Ependytikon Ypiresion",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "MEUEGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Northern Greece Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "NOGSGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Megatrust Olympiaki Chrimatistiriaki Anonymi Etairia Parochis Ependytikon Ypiresion",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "MEBVGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Market Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "MAUIGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Magna Trust Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "MATCGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Leon Depolas Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "LEDEGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lavrentakis Stavros Emm. Securities S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "SELCGRA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lambrakis Press Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "DOLDGRA1XXX"
+        }
+      ]
+    }
+  ]
+}

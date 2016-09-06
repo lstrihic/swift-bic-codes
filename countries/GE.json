@@ -1,0 +1,497 @@
+{
+  "country_name": "Georgia",
+  "alpha_2": "GE",
+  "country_code": "268",
+  "banks": [
+    {
+      "bank_name": "Treasury Service Ministry Of Finance Of Georgia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "TSMFGE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tbc Bank",
+      "branches": [
+        {
+          "branch_name": "Batumi Branch",
+          "city": "Batumi",
+          "swift_code": "TBCBGE22835"
+        },
+        {
+          "branch_name": "Borjomi Branch",
+          "city": "Borjomi",
+          "swift_code": "TBCBGE22762"
+        },
+        {
+          "branch_name": "Kutaisi Branch",
+          "city": "Kutaisi",
+          "swift_code": "TBCBGE22888"
+        },
+        {
+          "branch_name": "Poti Branch",
+          "city": "Poti",
+          "swift_code": "TBCBGE22937"
+        },
+        {
+          "branch_name": "Rustavi Branch",
+          "city": "Rustavi",
+          "swift_code": "TBCBGE22844"
+        },
+        {
+          "branch_name": "Vera Branch",
+          "city": "Tbilisi",
+          "swift_code": "TBCBGE22818"
+        },
+        {
+          "branch_name": "Nadzaladevi Branch",
+          "city": "Tbilisi",
+          "swift_code": "TBCBGE22820"
+        },
+        {
+          "branch_name": "Mtatsminda Branch",
+          "city": "Tbilisi",
+          "swift_code": "TBCBGE22821"
+        },
+        {
+          "branch_name": "Central Branch",
+          "city": "Tbilisi",
+          "swift_code": "TBCBGE22830"
+        },
+        {
+          "branch_name": "Didube Branch",
+          "city": "Tbilisi",
+          "swift_code": "TBCBGE22836"
+        },
+        {
+          "branch_name": "Saburtalo Branch",
+          "city": "Tbilisi",
+          "swift_code": "TBCBGE22838"
+        },
+        {
+          "branch_name": "Marjanishvili Branch",
+          "city": "Tbilisi",
+          "swift_code": "TBCBGE22850"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "TBCBGE22XXX"
+        },
+        {
+          "branch_name": "Telavi Branch",
+          "city": "Telavi",
+          "swift_code": "TBCBGE22824"
+        }
+      ]
+    },
+    {
+      "bank_name": "Procredit Bank, Georgia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "MIBGGE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Progressbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "PRSGGE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Georgia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "BNLNGE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "T.C. Ziraat Bankasi A.S. Tbilisi Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "TCZBGE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mfo Intel Express Georgia Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "INEXGE22XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "INEXGE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Millennium Worx Llc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "MLNMGE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsc Vtb Bank Georgia",
+      "branches": [
+        {
+          "branch_name": "Akhaltsikhe Branch",
+          "city": "Akhaltsikhe",
+          "swift_code": "UGEBGE22617"
+        },
+        {
+          "branch_name": "Batumi Branch",
+          "city": "Batumi",
+          "swift_code": "UGEBGE22655"
+        },
+        {
+          "branch_name": "Gardabani Branch",
+          "city": "Gardabani",
+          "swift_code": "UGEBGE22622"
+        },
+        {
+          "branch_name": "Gori Branch",
+          "city": "Gori",
+          "swift_code": "UGEBGE22602"
+        },
+        {
+          "branch_name": "Gurjaani Branch",
+          "city": "Gurjaani",
+          "swift_code": "UGEBGE22624"
+        },
+        {
+          "branch_name": "Kutaisi Branch",
+          "city": "Kutaisi",
+          "swift_code": "UGEBGE22605"
+        },
+        {
+          "branch_name": "Marneuli Branch",
+          "city": "Marneuli",
+          "swift_code": "UGEBGE22639"
+        },
+        {
+          "branch_name": "Ozurgeti Branch",
+          "city": "Ozurgeti",
+          "swift_code": "UGEBGE22643"
+        },
+        {
+          "branch_name": "Poti Branch",
+          "city": "Poti",
+          "swift_code": "UGEBGE22606"
+        },
+        {
+          "branch_name": "Rustavi Branch",
+          "city": "Rustavi",
+          "swift_code": "UGEBGE22607"
+        },
+        {
+          "branch_name": "Rustaveli Branch",
+          "city": "Tbilisi",
+          "swift_code": "UGEBGE22604"
+        },
+        {
+          "branch_name": "Central Branch",
+          "city": "Tbilisi",
+          "swift_code": "UGEBGE22615"
+        },
+        {
+          "branch_name": "Didube Branch",
+          "city": "Tbilisi",
+          "swift_code": "UGEBGE22665"
+        },
+        {
+          "branch_name": "Mtatsminda Branch",
+          "city": "Tbilisi",
+          "swift_code": "UGEBGE22666"
+        },
+        {
+          "branch_name": "Krzanini Branch",
+          "city": "Tbilisi",
+          "swift_code": "UGEBGE22668"
+        },
+        {
+          "branch_name": "Saburtalo Branch",
+          "city": "Tbilisi",
+          "swift_code": "UGEBGE22670"
+        },
+        {
+          "branch_name": "Abkhazeti Branch",
+          "city": "Tbilisi",
+          "swift_code": "UGEBGE22687"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "UGEBGE22XXX"
+        },
+        {
+          "branch_name": "Telavi Branch",
+          "city": "Telavi",
+          "swift_code": "UGEBGE22629"
+        },
+        {
+          "branch_name": "Zugdidi Branch",
+          "city": "Zugdidi",
+          "swift_code": "UGEBGE22603"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsc Privatbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "CAVOGE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsc Bta Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "DISNGE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investbank, Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "IJSMGE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsc Cartu Bank",
+      "branches": [
+        {
+          "branch_name": "Batumi Branch",
+          "city": "Batumi",
+          "swift_code": "CRTUGE22092"
+        },
+        {
+          "branch_name": "Kutaisi Branch",
+          "city": "Kutaisi",
+          "swift_code": "CRTUGE22087"
+        },
+        {
+          "branch_name": "Mtatsminda Branch",
+          "city": "Tbilisi",
+          "swift_code": "CRTUGE22086"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "CRTUGE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsc Liberty Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "LBRTGE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Bank Of Azerbaijan-Georgia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "IBAZGE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Constanta Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "CNSBGE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Basisbank, Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "CBASGE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Turkiye Is Bankasi A.s. Batumi Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Batumi",
+          "swift_code": "ISBKGE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Halyk Bank Georgia Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "HABGGE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Russian-georgian Bank Of Reconstruction And Development",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "RGBRGE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsc Pasha Bank Georgia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "PAHAGE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsc Kor Standard Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "KSBGGE22XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "AGREGE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Georgian Investment Group",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "GEIGGE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsc Caucasus Development Bank-georgia",
+      "branches": [
+        {
+          "branch_name": "Jsc Caucasus Development Bank-georgia",
+          "city": "Tbilisi",
+          "swift_code": "DEVGGE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Galt And Taggart (jsc) Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "GTJSGE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finca Bank Georgia Jsc",
+      "branches": [
+        {
+          "branch_name": "Finca Bank Georgia Jsc",
+          "city": "Tbilisi",
+          "swift_code": "FGEOGE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "British American Tobacco Georgia Limited",
+      "branches": [
+        {
+          "branch_name": "British American Tobacco Georgia Limited",
+          "city": "Tbilisi",
+          "swift_code": "BATSGE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Republic (Societe Generale Group)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "REPLGE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Georgia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "BAGAGE22BOG"
+        },
+        {
+          "branch_name": "Custody Services",
+          "city": "Tbilisi",
+          "swift_code": "BAGAGE22CUS"
+        },
+        {
+          "branch_name": "0179 Tbilisi",
+          "city": "Tbilisi",
+          "swift_code": "BAGAGE22GTS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tbilisi",
+          "swift_code": "BAGAGE22XXX"
+        }
+      ]
+    }
+  ]
+}

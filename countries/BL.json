@@ -1,0 +1,182 @@
+{
+  "country_name": "Rwanda",
+  "alpha_2": "RW",
+  "country_code": "646",
+  "banks": [
+    {
+      "bank_name": "Urwego Opportunity Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Urwego Opportunity Bank Limited",
+          "city": "Kigali",
+          "swift_code": "UOBRRWRWXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kigali",
+          "swift_code": "UOBRRWR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Rwanda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kigali",
+          "swift_code": "CBRWRWR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kcb Rwanda Sa",
+      "branches": [
+        {
+          "branch_name": "Central Clearing Centre-head Office",
+          "city": "Kigali",
+          "swift_code": "KCBLRWRW161"
+        },
+        {
+          "branch_name": "Kcb Rwanda-rubavu",
+          "city": "Rubavu",
+          "swift_code": "KCBLRWRW162"
+        },
+        {
+          "branch_name": "Kcb Rwanda-huye Branch",
+          "city": "Huye",
+          "swift_code": "KCBLRWRW163"
+        },
+        {
+          "branch_name": "Kcb Rwanda-rusizi Branch",
+          "city": "Rusizi",
+          "swift_code": "KCBLRWRW164"
+        },
+        {
+          "branch_name": "Kcb Rwanda-musanze Branch",
+          "city": "Musanze",
+          "swift_code": "KCBLRWRW165"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kigali",
+          "swift_code": "KCBLRWRWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fina Bank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kigali",
+          "swift_code": "BARWRWRWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Equity Bank Rwanda Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kigali",
+          "swift_code": "EQBLRWRWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Rwanda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kigali",
+          "swift_code": "ECOCRWRWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Development Bank Of Rwanda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kigali",
+          "swift_code": "BRDRRWRWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Compagnie Generale De Banque/cogebanque",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kigali",
+          "swift_code": "CGBKRWRWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Du Rwanda S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kigali",
+          "swift_code": "BPRWRWRWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Nationale Du Rwanda (bnr",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kigali",
+          "swift_code": "BNRWRWRPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kigali",
+          "swift_code": "BNRWRWRWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De L'habitat Du Rwanda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kigali",
+          "swift_code": "LHRWRWRWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Commerciale Du Rwanda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kigali",
+          "swift_code": "BCRWRWRWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Kigali Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kigali",
+          "swift_code": "BKIGRWRWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Access Bank (rwanda) Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kigali",
+          "swift_code": "BKORRWRWXXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "country_name": "Mauritius",
+  "alpha_2": "MU",
+  "country_code": "480",
+  "banks": [
+    {
+      "bank_name": "Thomas Cook (mauritius) Operations Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "TCILMUM1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "TCILMUMUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Super Group Trading Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "SGCTMUM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stock Exchange Of Mauritius Ltd, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "XMAUMUM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Bank Of Mauritius Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "STCBMUMUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank (mauritius) Ltd",
+      "branches": [
+        {
+          "branch_name": "Securities Services Unit",
+          "city": "Ebene",
+          "swift_code": "SCBLMUMUSSU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ebene",
+          "swift_code": "SCBLMUMUXXX"
+        },
+        {
+          "branch_name": "Fm Asset Servicing",
+          "city": "Port Louis",
+          "swift_code": "SCBLMUMUZOP"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Bank (mauritius) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "SBICMUMUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparkassa Ekonomisk Forening Ltee",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pamplemousses",
+          "swift_code": "KSSAMUM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sbi (mauritius) Ltd",
+      "branches": [
+        {
+          "branch_name": "William Newton Street",
+          "city": "Port Louis",
+          "swift_code": "INILMUMU101"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "INILMUMUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Providence Life Limited, Pcc",
+      "branches": [
+        {
+          "branch_name": "Providence Life Limited, Pcc",
+          "city": "Ebene",
+          "swift_code": "PLLPMUM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clsa (mauritius) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "CLSAMUM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citigroup Strategic Holdings Mauritius Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "CSHMMUM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citigroup Holdings Mauritius Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "CIHAMUM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Depository And Settlement Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "CEDTMUM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Century Banking Corporation Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "CBCLMUMUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bramer Banking Corporation Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "BBCLMUMUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Markets Brokers Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ebene",
+          "swift_code": "CMAKMUM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citigroup Global Markets Mauritius Private Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "CGMMMUM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Bank Mauritius Ltd",
+      "branches": [
+        {
+          "branch_name": "M A F E X Branch",
+          "city": "Port Louis",
+          "swift_code": "BARCMUMUMAF"
+        },
+        {
+          "branch_name": "Mauritius Offshore Banking Unit",
+          "city": "Port Louis",
+          "swift_code": "BARCMUMUOBU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ebene",
+          "swift_code": "BARCMUMUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banyantree Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cyber City",
+          "swift_code": "BTBLMUMUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Des Mascareignes Ltee",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "BAIMMUMUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank One Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "BKONMUMUXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "FSCBMUMUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Anglo-mauritius Stockbrokers Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "GENRMUM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Mauritius",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "BOMMMUPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "African Alliance Stockbroking Holdings Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cyber City",
+          "swift_code": "AASHMUM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Afrasia Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "AFBLMUMUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abc Banking Corporation Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "ABCKMUMUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Axys Stockbroking Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "AXSOMUM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nomura Mauritius Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "NOMAMUMUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Newton Securities Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "NESCMUM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Platinum One Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "PLOEMUM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Matco Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cyber City",
+          "swift_code": "MTTCMUM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mantaray Investments (mauritius) Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "MAVUMUM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mauritius Post And Cooperative Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "MPCBMUMUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mauritius Commercial Bank Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "MCBLMUMUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investec Bank (mauritius) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "IVESMUMUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Idfc Advisors Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "IDADMUM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Huizhou One Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "HUONMUM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Forex Direct Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tamarin",
+          "swift_code": "FXDLMUMUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mcb Stockbrokers Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "MCSOMUM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank (mauritius) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "DBMLMUMUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dunearn Investments (mauritius) Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "DEIMMUMUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Securities Mauritius Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "DEUTMUMLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dbm Ltd. (mauritius",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "DBMAMUM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Countinghouse Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ebene",
+          "swift_code": "CHSLMUMUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Habib Bank Ltd Mauritius",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "HABBMUMUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hongkong And Shanghai Banking Corporation Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Hbmu Branch",
+          "city": "Ebene",
+          "swift_code": "HSBCMUMUOBU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ebene",
+          "swift_code": "HSBCMUMUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Exon Finance Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Louis",
+          "swift_code": "EXONMUM1XXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,772 @@
+{
+  "country_name": "Malta",
+  "alpha_2": "MT",
+  "country_code": "470",
+  "banks": [
+    {
+      "bank_name": "Zfp Equity Trading (malta) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sliema",
+          "swift_code": "ZETMMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Z Investment Partners Malta Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valletta",
+          "swift_code": "IVPMMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "W And J Coppini Investment Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valletta",
+          "swift_code": "CISRMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vitesse Funds Sicav Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Birkirkara",
+          "swift_code": "VIFSMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vitesse Advisors Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Birkirkara",
+          "swift_code": "VIADMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Valletta Fund Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Floriana",
+          "swift_code": "VAFMMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Capital Management Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gzira",
+          "swift_code": "UCMNMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tradexec (tex) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valletta",
+          "swift_code": "TRTEMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tell Investments Cp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sliema",
+          "swift_code": "TELTMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tell Capital Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sliema",
+          "swift_code": "TECAMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Syspay Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sliema",
+          "swift_code": "SYSPMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparkasse Bank Malta Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sliema",
+          "swift_code": "SBMTMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samrob Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Floriana",
+          "swift_code": "SAOBMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rizzo Farrugia And Co.(stockbrokers) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sliema",
+          "swift_code": "RIFSMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Raiffeisen Malta Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sliema",
+          "swift_code": "RZBMMTMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nemea Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Julians",
+          "swift_code": "NMEAMTMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Malta Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valletta",
+          "swift_code": "XMALMTMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nbg Bank Malta Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sliema",
+          "swift_code": "FNNBMTMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lombard Bank Malta Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valletta",
+          "swift_code": "LBMAMTMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Garanti Bank, Malta Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sliema",
+          "swift_code": "TGBAMTMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Iig Bank (Malta) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Julians",
+          "swift_code": "IIGBMTMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fimbank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sliema",
+          "swift_code": "FIMBMTM3XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Izola Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valletta",
+          "swift_code": "IZOLMTMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ess-Databridge Exchange Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valletta",
+          "swift_code": "ESSDMTMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mediterranean Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valletta",
+          "swift_code": "MBWMMTMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fcm Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valletta",
+          "swift_code": "FCMFMTMTXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Valletta",
+          "swift_code": "FCMFMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Europe Bank N.V. Malta Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sliema",
+          "swift_code": "FBHLMTMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bawag Malta Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sliema",
+          "swift_code": "BAWAMTM3XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banif Bank (Malta) Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gzira",
+          "swift_code": "BNIFMTMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Malta",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valletta",
+          "swift_code": "MALTMTMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aps Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Birkirkara",
+          "swift_code": "APSBMTMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Valletta P.L.C.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Venera",
+          "swift_code": "VALLMTMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Akbank T.A.S. (Malta Branch)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Julians",
+          "swift_code": "AKBKMTMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank Malta P.L.C.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valletta",
+          "swift_code": "MMEBMTMTXXX"
+        },
+        {
+          "branch_name": "Qormi",
+          "city": "Qormi",
+          "swift_code": "MMEBMTM10M2"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pdk Financial Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stj St. Julian's",
+          "swift_code": "PDKFMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jesmond Mizzi Financial Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valletta",
+          "swift_code": "JMFSMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Michael Grech Financial Investment Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Victoria",
+          "swift_code": "MGFIMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lombard Asset Managers Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mriehel",
+          "swift_code": "LOAGMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Island Financial Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Birkirkara",
+          "swift_code": "ISFSMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Investment Services (malta) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Blata Il-bajda",
+          "swift_code": "HINSMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Stockbrokers (malta) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valletta",
+          "swift_code": "HSSBMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Fund Management (malta) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Blata Il-bajda",
+          "swift_code": "HSFMMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Globalcapital Financial Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Balzan",
+          "swift_code": "GLFMMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finco Treasury Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Floriana",
+          "swift_code": "FTRMMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financial Plus Investment Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sliema",
+          "swift_code": "FPISMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Globalcapital Fund Advisors Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gzira",
+          "swift_code": "GLFAMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fexco Financial Services (malta) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Gwann",
+          "swift_code": "FFSMMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financial Planning Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ta'xbiex",
+          "swift_code": "FPLSMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Growth Investments Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Floriana",
+          "swift_code": "GROIMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hogg Capital Investments Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sliema",
+          "swift_code": "HOCIMTM1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sliema",
+          "swift_code": "HOCVMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Exante Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Julian's",
+          "swift_code": "EXAEMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finacom Investment House Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "G'mangia",
+          "swift_code": "FIIHMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "D.b.r. Investments Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zurrieq",
+          "swift_code": "DBINMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eft Global Limited",
+      "branches": [
+        {
+          "branch_name": "Eft Global Limited",
+          "city": "Valletta",
+          "swift_code": "EFTGMTM2XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Valletta",
+          "swift_code": "EFTGMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ferratum Bank (malta) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valletta",
+          "swift_code": "FEMAMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Erste Bank (malta) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sliema",
+          "swift_code": "GIBAMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Epic Financial Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Burmarrad",
+          "swift_code": "EPFSMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Curmi And Partners Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ta'xbiex",
+          "swift_code": "CURPMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cultor Asset Management International Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Marsascala",
+          "swift_code": "CSMIMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Crystal Finance Investments Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valletta",
+          "swift_code": "CRFVMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commbank Europe Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sliema",
+          "swift_code": "CTBEMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citco Custody Limited",
+      "branches": [
+        {
+          "branch_name": "Citco Custody Limited",
+          "city": "Valletta",
+          "swift_code": "CITCMTMTXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Valletta",
+          "swift_code": "CITCMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Charts Investment Management Service Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Floriana",
+          "swift_code": "CIMVMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays International Investments (malta) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Julian's",
+          "swift_code": "BARCMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Securities Depository, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valletta",
+          "swift_code": "CESDMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amstel Capital (malta) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sliema",
+          "swift_code": "AMCTMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Calamatta Cuschieri And Co. Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valletta",
+          "swift_code": "CCUHMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "W And J Coppini And Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sliema",
+          "swift_code": "COPXMTMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Volksbank Malta Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sliema",
+          "swift_code": "VBMAMTM3XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Travelex Financial Services Malta Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sliema",
+          "swift_code": "TGBPMTMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Voicecash Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Taxbiex",
+          "swift_code": "VOCBMTMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agribank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Luqa",
+          "swift_code": "AGRKMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atlas Investment Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ta'xbiex",
+          "swift_code": "ATISMTM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Paymix Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Swatar",
+          "swift_code": "PYMXMTM1XXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "country_name": "Tajikistan",
+  "alpha_2": "TJ",
+  "country_code": "762",
+  "banks": [
+    {
+      "bank_name": "Tojiksodirotbonk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dushanbe",
+          "swift_code": "TOJITJ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The First Microfinancebank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dushanbe",
+          "swift_code": "FMBTTJ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tajprombank Zao",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dushanbe",
+          "swift_code": "TAZATJ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sohibkorbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dushanbe",
+          "swift_code": "SOHBTJ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orienbank, Open Joint Stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dushanbe",
+          "swift_code": "OTJKTJ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nbp Pakistan Subsidiary Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dushanbe",
+          "swift_code": "NBPATJ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Tajikistan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dushanbe",
+          "swift_code": "NATJTJ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mdo Matin",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khujand",
+          "swift_code": "MDMATJ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Llc Microcredit Deposit Organizatio N Barakat",
+      "branches": [
+        {
+          "branch_name": "Llc Microcredit Deposit Organizatio N Barakat",
+          "city": "Dushanbe",
+          "swift_code": "BRKTTJ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kazkommertsbank Tajikistan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dushanbe",
+          "swift_code": "KATJTJ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kafolatbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dushanbe",
+          "swift_code": "KACJTJ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fononbank Cjsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dushanbe",
+          "swift_code": "FONOTJ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fnbo Creditinvest Zao",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dushanbe",
+          "swift_code": "CRZNTJ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eskhata Bank Opened Joint Stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khujand",
+          "swift_code": "EJSATJ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eskaha Bank Opened Joint Stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Khujand",
+          "swift_code": "EOJSTJ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Csd Mdo 'imon International'",
+      "branches": [
+        {
+          "branch_name": "Csd Mdo 'imon International'",
+          "city": "Khujand",
+          "swift_code": "NABWTJ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cjsu Mikrokredit Deposit Organization Cpital Plus",
+      "branches": [
+        {
+          "branch_name": "Cjsu Mikrokredit Deposit Organization Cpital Plus",
+          "city": "Dushanbe",
+          "swift_code": "CPBSTJ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cjsmdo 'spitamen Capital'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dushanbe",
+          "swift_code": "SPRBTJ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cjsc Ib 'kont'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dushanbe",
+          "swift_code": "KONTTJ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cjsc 'bonki Rushdi Tojikiston'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dushanbe",
+          "swift_code": "BRTATJ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Asian Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dushanbe",
+          "swift_code": "CEAATJ21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amonatbonk The State Saving Bank Republic Of Tajikistan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dushanbe",
+          "swift_code": "ASSETJ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agroinvestbank Open Joint Stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dushanbe",
+          "swift_code": "AGIBTJ22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Accessbank Tajikistan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dushanbe",
+          "swift_code": "ACTJTJ22XXX"
+        }
+      ]
+    }
+  ]
+}

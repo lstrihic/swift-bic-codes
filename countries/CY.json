@@ -1,0 +1,2232 @@
+{
+  "country_name": "Cyprus",
+  "alpha_2": "CY",
+  "country_code": "196",
+  "banks": [
+    {
+      "bank_name": "Zerich Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "ZESUCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ws Financial And Investment Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "FNISCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Windsor Brokers Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "WIBOCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Veles International Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "VEITCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uprecht Investment Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "UPINCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unistream Cyprus Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "UNSTCY2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ucp Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Larnaca",
+          "swift_code": "UCSCCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Advisory Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "UBASCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "U.f.g.i.s. Trading Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Larnaca",
+          "swift_code": "UFTRCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ts-tristar Imperial, International Credit Institute Cy Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Larnaca",
+          "swift_code": "TIIRCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tkbc International Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "TKBCCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Point Of Contact Communications (services) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Paphos",
+          "swift_code": "TPOCCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Cyprus Investment And Securities Corporation Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "CISOCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tfi Markets Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "TFIMCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stomarli Holdings Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "STHDCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Spyke Equity Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "SPEQCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Solid Financial Services Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "SONSCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Greece S.a. Cyprus Branch (578",
+      "branches": [
+        {
+          "branch_name": "National Bank Of Greece S.a. Cyprus Branch (578",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "ETHNCYNNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ikos Asset Management Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "IKAMCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dfg Capital (cyprus) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "DFCYCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Cyprus Limited",
+      "branches": [
+        {
+          "branch_name": "Limassol Operation Onshore",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "SOGECY2NAMA"
+        },
+        {
+          "branch_name": "Limassol Branch Offshore",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "SOGECY2NLIM"
+        },
+        {
+          "branch_name": "Nicosia Operation",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "SOGECY2NNIC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "SOGECY2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Russian Commercial Bank (Cyprus) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "RCBLCY2IXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ronin Europe Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "RNINCY2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Roinco Enterprises Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "ROIECY2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Renaissance Securities (Cyprus) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "RESPCY2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Privatbank, Cyprus Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "PBANCY2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Piraeus Bank Cyprus Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "PIRBCY2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ojsc Promsvyazbank, Cyprus Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "PRMSCY2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nkb Investments Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "NKBICY2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Greece (Cyprus) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Ayia Napa Branch 532",
+          "city": "Ayia Napa",
+          "swift_code": "ETHNCY2N532"
+        },
+        {
+          "branch_name": "Famagusta Branch 530",
+          "city": "Larnaca",
+          "swift_code": "ETHNCY2N530"
+        },
+        {
+          "branch_name": "Larnaca Branch 535",
+          "city": "Larnaca",
+          "swift_code": "ETHNCY2N535"
+        },
+        {
+          "branch_name": "Limassol Main Branch 540",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "ETHNCY2N540"
+        },
+        {
+          "branch_name": "Makarios Iiis Av Branch 541",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "ETHNCY2N541"
+        },
+        {
+          "branch_name": "Omonia Branch 544",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "ETHNCY2N544"
+        },
+        {
+          "branch_name": "Ayios Nicolaos Branch 553",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "ETHNCY2N553"
+        },
+        {
+          "branch_name": "Eleftheria Sq Branch 521",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "ETHNCY2N521"
+        },
+        {
+          "branch_name": "Nicosia Branch 525",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "ETHNCY2N525"
+        },
+        {
+          "branch_name": "Morphou Branch 526",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "ETHNCY2N526"
+        },
+        {
+          "branch_name": "Athalassa Branch 527",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "ETHNCY2N527"
+        },
+        {
+          "branch_name": "Latsia Branch 528",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "ETHNCY2N528"
+        },
+        {
+          "branch_name": "Nicosia International Business Banking Division 549",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "ETHNCY2N549"
+        },
+        {
+          "branch_name": "Back Office 999",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "ETHNCY2N999"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "ETHNCY2NXXX"
+        },
+        {
+          "branch_name": "Paphos Branch 545",
+          "city": "Paphos",
+          "swift_code": "ETHNCY2N545"
+        },
+        {
+          "branch_name": "Paralimni Branch 531",
+          "city": "Paralimni",
+          "swift_code": "ETHNCY2N531"
+        },
+        {
+          "branch_name": "Limassol International Business Banking Division 550",
+          "city": "Limassol (lemesos",
+          "swift_code": "ETHNCY2N550"
+        }
+      ]
+    },
+    {
+      "bank_name": "Marfin Popular Bank Public Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Limassol (lemesos)",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "LIKICY2N120"
+        },
+        {
+          "branch_name": "2081 Nicosia (lefkosia)",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "LIKICY2N001"
+        },
+        {
+          "branch_name": "Nicosia (lefkosia)",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "LIKICY2NBRK"
+        },
+        {
+          "branch_name": "Nicosia (lefkosia)",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "LIKICY2NDOC"
+        },
+        {
+          "branch_name": "Nicosia (lefkosia)",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "LIKICY2NSMK"
+        },
+        {
+          "branch_name": "Nicosia (lefkosia)",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "LIKICY2NTMK"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "LIKICY2NXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "LIKIGB2LXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lebanon And Gulf Bank S.A.L. - Larnaca Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Larnaca",
+          "swift_code": "LGBACY2LXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jordan Ahli Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "JONBCY2IXXX"
+        },
+        {
+          "branch_name": "Jordan Branches Management",
+          "city": "Amman",
+          "swift_code": "JONBJOAXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ibl Bank, Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "INLECY2LXXX"
+        },
+        {
+          "branch_name": "Ibl Bank, Sal",
+          "city": "Baghdad",
+          "swift_code": "INLEIQBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hellenic Bank Public Company Ltd.",
+      "branches": [
+        {
+          "branch_name": "Larnaca",
+          "city": "Larnaca",
+          "swift_code": "HEBACY2NLAR"
+        },
+        {
+          "branch_name": "Limassol (lemesos)",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "HEBACY2NLIM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "HEBACY2NHDO"
+        },
+        {
+          "branch_name": "2081 Nicosia (lefkosia)",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "HEBACY2NNIC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "HEBACY2NXXX"
+        },
+        {
+          "branch_name": "Paphos",
+          "city": "Paphos",
+          "swift_code": "HEBACY2NPAP"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gpb Financial Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "GPBFCY2LXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Investment Bank Cyprus International Banking Unit",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "FINVCY2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fbme Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "FBMECY2NXXX"
+        },
+        {
+          "branch_name": "Limassol (lemesos)",
+          "city": "Limassol (lemesos",
+          "swift_code": "FBMECY2102I"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dar Es Salaam",
+          "swift_code": "FBMETZTZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Falcon Brokers Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "FBRKCY2LXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "FBRKCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Emporiki Bank - Cyprus Ltd",
+      "branches": [
+        {
+          "branch_name": "Engomi",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "EMPOCY2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Csc24seven.com Limited",
+      "branches": [
+        {
+          "branch_name": "Csc24seven.com Limited",
+          "city": "Larnaca",
+          "swift_code": "CSCCCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Bank Of Greece S.a. International Banking Unit",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "EMPOCYN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clr Securities And Financial Services Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "CSFRCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Intelligence (cyprus) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "CAIYCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brokercreditservice (cyprus) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "BCSUCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brokercreditservice (cyprus) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "BRCRCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankmed Sal-cyprus",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "MEDLCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Axia Ventures (cyprus) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "AXVCCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atlantic Securities Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "ATSICY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Artcap Eastern Investments",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "AREICY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Argus Stockbrokers Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "ARSOCYN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amg Kapital Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "AMKACY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alpinex Financial Services (cyprus) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "AFSYCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alliance Factors Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "ALTOCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alfa Capital Holdings (cyprus) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "ALFACY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Usb Bank Plc (Formerly Universal Bank Public Ltd)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "UNVKCY2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trasta Komercbanka Cyprus Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "KBRBCY2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Td Investments Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "TDINCY2NXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "IVEMCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Icfi (cyprus) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "ICCYCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hellenic Bank (investments) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "HIPCCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Grant Asset Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "GRAMCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Capital Securities And Financial Services Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "GCSFCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fmc Securities Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "FMSECY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fintailor Investments Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "FINTCY2LXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "FNIVCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finam Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "FNMACY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fervent Holdings Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "FEHOCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fenway Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "FESECY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Feathersword Investment Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Larnaca",
+          "swift_code": "FEAICY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fascinating Trading Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "FATRCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Exscale Investment Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "EXIVCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Euroorient Securities And Financial Services Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "EUSACY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurobank Cyprus Ltd",
+      "branches": [
+        {
+          "branch_name": "Eurobank Cyprus Ltd",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "ERBKCY2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Entris Equity Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "ENEQCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Egnatia Financial Services (cyprus) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "EFSCCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Egnaro Investments Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "EGINCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dragon Capital (cyprus) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "DRCCCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dgrn Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "DRRNCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nam Holdings Limited Julia House",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "NAMHCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moody's Investors Service Cyprus Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "MOODCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Metropol (cyprus) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "MECYCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meritkapital Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "MEIPCY22XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "MEIPCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mega Equity Securities And Financial Services Public Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "MESFCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mdm Investments Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "MINUCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mc-bbl Finance Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "MCFNCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Masterton Development Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "MADECY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Linvest Capital Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "LICLCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Levos Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "LEVSCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ledbetter Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "LEDTCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lce Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "LCCOCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Laruftis Investment Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "LAIVCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kab Strategy (cyprus) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "KASYCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jet Money Services Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "JMSSCY2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J And T Financial Investments Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "FNINCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Branch Of Open Joint-stock Company Avtovazbank In The Republic Of Cyprus",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "AVBKCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interfin Trade (overseas) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "ITTOCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Infina Investments (cyprus) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "CSNNCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sharelink Securities And Financial Services Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "SSFVCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "S.l. Capital Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "CACVCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rmg Holding Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "RMHLCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Reserve Invest (cyprus) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "RINCCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Renaissance Wealth Management (cyprus) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "RWMCCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Renaissance Investment Management (cyprus) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "RCICCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Renaissance Financial Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "REFVCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Regency Asset Management (cyprus) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "RAMCCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rahim Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "RAIICY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prochoice Chrimatistiriaki Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Larnaca",
+          "swift_code": "PRCKCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pasternak Holdings Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "PAHOCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Otkritie Finance (cyprus) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "OTFCCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Open.ru Brokerage House (cyprus) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "OBHCCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "One Plus Capital Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "ONPCCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Omega Funds Investment Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "OMFVCY2NXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "OMFVCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Olma Financial Services Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "OLMACY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nomos Investment (cyprus) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "NICYCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Neevas Investment Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "NEIECY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nbi Investments Limited Frema House",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (lemesos",
+          "swift_code": "NIFHCY21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cyprus Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "XCYSCY2NXXX"
+        },
+        {
+          "branch_name": "Cse Ancillary System",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "XCYSCY2NASI"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cyprus Development Bank Public Company Ltd, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "CYDBCY2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Co-Operative Central Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "CCBKCY2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Cooperative Bank Of Bulgaria Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "CECBCY2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Cyprus",
+      "branches": [
+        {
+          "branch_name": "Accounting Department",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "CBCYCY2NACC"
+        },
+        {
+          "branch_name": "Cash Section",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "CBCYCY2NCAS"
+        },
+        {
+          "branch_name": "Correspondent Central Banking Model",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "CBCYCY2NCCB"
+        },
+        {
+          "branch_name": "Cheques Clearing House",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "CBCYCY2NCCH"
+        },
+        {
+          "branch_name": "Cy T2 Contingency",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "CBCYCY2NCON"
+        },
+        {
+          "branch_name": "Cyprus Stock Exchange-mts",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "CBCYCY2NCSE"
+        },
+        {
+          "branch_name": "External Debt Section",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "CBCYCY2NEDS"
+        },
+        {
+          "branch_name": "Exchange Operations And Settlements",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "CBCYCY2NEOS"
+        },
+        {
+          "branch_name": "Foreign Business Unit",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "CBCYCY2NFBU"
+        },
+        {
+          "branch_name": "Government Payments System",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "CBCYCY2NGPS"
+        },
+        {
+          "branch_name": "Issue Section",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "CBCYCY2NISS"
+        },
+        {
+          "branch_name": "Jcctransfer",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "CBCYCY2NJCC"
+        },
+        {
+          "branch_name": "Government Stocks",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "CBCYCY2NLSS"
+        },
+        {
+          "branch_name": "Monetary Policy Operations",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "CBCYCY2NMPO"
+        },
+        {
+          "branch_name": "Management Of Reserves",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "CBCYCY2NMRS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "CBCYCY2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Byblos Bank S.A.L. (Ibu)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "BYBACY2IXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Blom Bank S.A.L.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "BLOMCY2IXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "BLOMJOAMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "BLOMLBBXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bbac Sal Limassol Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "BBACCY2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Bank Plc, International Banking Unit",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "BARCCYNNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Sba - International Banking Unit",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "SBAACY2IXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Bemo Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "EUMOCY2IXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "EUMOLBBEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Cyprus Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Limassol (lemesos)",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "BCYPCY2N030"
+        },
+        {
+          "branch_name": "Nicosia (lefkosia)",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "BCYPCY2N010"
+        },
+        {
+          "branch_name": "Treasury",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "BCYPCY2NTSY"
+        },
+        {
+          "branch_name": "Head Office In Nicosia And All Cyprus Offices",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "BCYPCY2NXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Athens",
+          "swift_code": "BCYPGRAAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Beirut S.A.L. International Banking Unit (Ibu) Limassol",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "BABECY2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Transilvania S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (lefkosia",
+          "swift_code": "BTRLCY21XXX"
+        },
+        {
+          "branch_name": "Bt Securities",
+          "city": "Cluj-Napoca",
+          "swift_code": "BTRLRO22BTS"
+        },
+        {
+          "branch_name": "Ag Billa",
+          "city": "Cluj-Napoca",
+          "swift_code": "BTRLRO22CJ8"
+        },
+        {
+          "branch_name": "Cluj-napoca Branch",
+          "city": "Cluj-Napoca",
+          "swift_code": "BTRLRO22CJA"
+        },
+        {
+          "branch_name": "Marasti",
+          "city": "Cluj-Napoca",
+          "swift_code": "BTRLRO22CJM"
+        },
+        {
+          "branch_name": "Zorilor",
+          "city": "Cluj-Napoca",
+          "swift_code": "BTRLRO22CJZ"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cluj-Napoca",
+          "swift_code": "BTRLRO22XXX"
+        },
+        {
+          "branch_name": "Constanta Branch",
+          "city": "Constanta",
+          "swift_code": "BTRLRO22CTA"
+        },
+        {
+          "branch_name": "Craiova Branch",
+          "city": "Craiova",
+          "swift_code": "BTRLRO22DJA"
+        },
+        {
+          "branch_name": "Deva Branch",
+          "city": "Deva",
+          "swift_code": "BTRLRO22HDA"
+        },
+        {
+          "branch_name": "Ag Chisinau Cris",
+          "city": "Chisinau Cris",
+          "swift_code": "BTRLRO22AR4"
+        },
+        {
+          "branch_name": "Falticeni",
+          "city": "Falticeni",
+          "swift_code": "BTRLRO22SVF"
+        },
+        {
+          "branch_name": "Galati Branch",
+          "city": "Galati",
+          "swift_code": "BTRLRO22GLA"
+        },
+        {
+          "branch_name": "Fagaras",
+          "city": "Fagaras",
+          "swift_code": "BTRLRO22BVF"
+        },
+        {
+          "branch_name": "Iasi Branch",
+          "city": "Iasi",
+          "swift_code": "BTRLRO22ISA"
+        },
+        {
+          "branch_name": "Huedin",
+          "city": "Huedin",
+          "swift_code": "BTRLRO22CJH"
+        },
+        {
+          "branch_name": "Dej Branch",
+          "city": "Dej",
+          "swift_code": "BTRLRO22CJD"
+        },
+        {
+          "branch_name": "Dragasani",
+          "city": "Dragasani",
+          "swift_code": "BTRLRO22VLD"
+        },
+        {
+          "branch_name": "Zona Liberta Giurgiu Branch",
+          "city": "Giurgiu",
+          "swift_code": "BTRLRO22GRA"
+        },
+        {
+          "branch_name": "Ag Ineu",
+          "city": "Ineu",
+          "swift_code": "BTRLRO22AR5"
+        },
+        {
+          "branch_name": "Ag Mangalia",
+          "city": "Mangalia",
+          "swift_code": "BTRLRO22CTM"
+        },
+        {
+          "branch_name": "Ag Campina",
+          "city": "Campina",
+          "swift_code": "BTRLRO21PH1"
+        },
+        {
+          "branch_name": "Medias Branch",
+          "city": "Medias",
+          "swift_code": "BTRLRO21SB1"
+        },
+        {
+          "branch_name": "Sibiu Branch",
+          "city": "Sibiu",
+          "swift_code": "BTRLRO21SB2"
+        },
+        {
+          "branch_name": "Tulcea Branch",
+          "city": "Tulcea",
+          "swift_code": "BTRLRO21TLA"
+        },
+        {
+          "branch_name": "Buzau Branch",
+          "city": "Buzau",
+          "swift_code": "BTRLRO22BZA"
+        },
+        {
+          "branch_name": "Ag Carei",
+          "city": "Carei",
+          "swift_code": "BTRLRO22SMC"
+        },
+        {
+          "branch_name": "Gherla",
+          "city": "Gherla",
+          "swift_code": "BTRLRO22CJG"
+        },
+        {
+          "branch_name": "Sebes Branch",
+          "city": "Sebes",
+          "swift_code": "BTRLRO21AB1"
+        },
+        {
+          "branch_name": "Rosetti Branch",
+          "city": "Bucharest",
+          "swift_code": "BTRLRO21BBT"
+        },
+        {
+          "branch_name": "Ag Republicii",
+          "city": "Oradea",
+          "swift_code": "BTRLRO21BH1"
+        },
+        {
+          "branch_name": "Ag Cantemir",
+          "city": "Oradea",
+          "swift_code": "BTRLRO21BH2"
+        },
+        {
+          "branch_name": "Ag Lotus",
+          "city": "Oradea",
+          "swift_code": "BTRLRO21BH3"
+        },
+        {
+          "branch_name": "Ag Dorobantilor",
+          "city": "Cluj-Napoca",
+          "swift_code": "BTRLRO21CJ1"
+        },
+        {
+          "branch_name": "Ag Manastur",
+          "city": "Cluj-Napoca",
+          "swift_code": "BTRLRO21CJ2"
+        },
+        {
+          "branch_name": "Ag Baritiu",
+          "city": "Cluj-Napoca",
+          "swift_code": "BTRLRO21CJ3"
+        },
+        {
+          "branch_name": "Zorilor Branch",
+          "city": "Cluj-Napoca",
+          "swift_code": "BTRLRO21CJ4"
+        },
+        {
+          "branch_name": "Grigorescu Branch",
+          "city": "Cluj-Napoca",
+          "swift_code": "BTRLRO21CJ5"
+        },
+        {
+          "branch_name": "Marasti Branch",
+          "city": "Cluj-Napoca",
+          "swift_code": "BTRLRO21CJ6"
+        },
+        {
+          "branch_name": "Campia Turzii Branch",
+          "city": "Campia Turzii",
+          "swift_code": "BTRLRO21CJ7"
+        },
+        {
+          "branch_name": "Ag Giurgiu",
+          "city": "Giurgiu",
+          "swift_code": "BTRLRO21GR1"
+        },
+        {
+          "branch_name": "Ag Hunedoara",
+          "city": "Hunedoara",
+          "swift_code": "BTRLRO21HD1"
+        },
+        {
+          "branch_name": "Miercurea Ciuc Branch",
+          "city": "Miercurea Ciuc",
+          "swift_code": "BTRLRO21HRA"
+        },
+        {
+          "branch_name": "Targu Mures Branch",
+          "city": "Targu Mures",
+          "swift_code": "BTRLRO21MS1"
+        },
+        {
+          "branch_name": "Sighisoara Branch",
+          "city": "Sighisoara",
+          "swift_code": "BTRLRO21MS2"
+        },
+        {
+          "branch_name": "Ag Lugoj",
+          "city": "Lugoj",
+          "swift_code": "BTRLRO22TML"
+        },
+        {
+          "branch_name": "Focsani Branch",
+          "city": "Focsani",
+          "swift_code": "BTRLRO22VRA"
+        },
+        {
+          "branch_name": "Petrosani",
+          "city": "Petrosani",
+          "swift_code": "BTRLRO22HDP"
+        },
+        {
+          "branch_name": "Odorheiu Secuiesc",
+          "city": "Odorheiu Secuiesc",
+          "swift_code": "BTRLRO22HRO"
+        },
+        {
+          "branch_name": "Onesti",
+          "city": "Onesti",
+          "swift_code": "BTRLRO22BCO"
+        },
+        {
+          "branch_name": "Oradea Branch",
+          "city": "Oradea",
+          "swift_code": "BTRLRO22BHA"
+        },
+        {
+          "branch_name": "Neamt Branch",
+          "city": "Piatra Neamt",
+          "swift_code": "BTRLRO22NTA"
+        },
+        {
+          "branch_name": "Ploiesti Branch",
+          "city": "Ploiesti",
+          "swift_code": "BTRLRO22PHA"
+        },
+        {
+          "branch_name": "Ramnicu Sarat",
+          "city": "Ramnicu Sarat",
+          "swift_code": "BTRLRO22BZR"
+        },
+        {
+          "branch_name": "Pitesti Branch",
+          "city": "Pitesti",
+          "swift_code": "BTRLRO22AGA"
+        },
+        {
+          "branch_name": "Ag Radauti",
+          "city": "Radauti",
+          "swift_code": "BTRLRO22SVR"
+        },
+        {
+          "branch_name": "Valcea Branch",
+          "city": "Ramnicu Valcea",
+          "swift_code": "BTRLRO22VLA"
+        },
+        {
+          "branch_name": "Ag Reghin",
+          "city": "Reghin",
+          "swift_code": "BTRLRO22MSR"
+        },
+        {
+          "branch_name": "Ag Roman",
+          "city": "Roman",
+          "swift_code": "BTRLRO22NTR"
+        },
+        {
+          "branch_name": "Satu Mare Branch",
+          "city": "Satu Mare",
+          "swift_code": "BTRLRO22SMA"
+        },
+        {
+          "branch_name": "Sfantu Gheorghe Branch",
+          "city": "Sfantu Gheorghe",
+          "swift_code": "BTRLRO22CVA"
+        },
+        {
+          "branch_name": "Slatina",
+          "city": "Slatina",
+          "swift_code": "BTRLRO22OTA"
+        },
+        {
+          "branch_name": "Suceava Branch",
+          "city": "Suceava",
+          "swift_code": "BTRLRO22SVA"
+        },
+        {
+          "branch_name": "Tg Jiu Branch",
+          "city": "Targu Jiu",
+          "swift_code": "BTRLRO22GJA"
+        },
+        {
+          "branch_name": "Dambovita Branch",
+          "city": "Targoviste",
+          "swift_code": "BTRLRO22DBA"
+        },
+        {
+          "branch_name": "Arad Branch",
+          "city": "Arad",
+          "swift_code": "BTRLRO22ARA"
+        },
+        {
+          "branch_name": "Bacau Branch",
+          "city": "Bacau",
+          "swift_code": "BTRLRO22BCA"
+        },
+        {
+          "branch_name": "Baia Mare Branch",
+          "city": "Baia Mare",
+          "swift_code": "BTRLRO22MMA"
+        },
+        {
+          "branch_name": "Beius",
+          "city": "Beius",
+          "swift_code": "BTRLRO22BHB"
+        },
+        {
+          "branch_name": "Bistrita Branch",
+          "city": "Bistrita",
+          "swift_code": "BTRLRO22BNA"
+        },
+        {
+          "branch_name": "Botosani",
+          "city": "Botosani",
+          "swift_code": "BTRLRO22BTA"
+        },
+        {
+          "branch_name": "Braila Branch",
+          "city": "Braila",
+          "swift_code": "BTRLRO22BRA"
+        },
+        {
+          "branch_name": "Brasov Branch",
+          "city": "Brasov",
+          "swift_code": "BTRLRO22BVA"
+        },
+        {
+          "branch_name": "Ag Dorobanti",
+          "city": "Bucharest",
+          "swift_code": "BTRLRO22BB4"
+        },
+        {
+          "branch_name": "Ag Magheru",
+          "city": "Bucharest",
+          "swift_code": "BTRLRO22BB3"
+        },
+        {
+          "branch_name": "Ag Marriott",
+          "city": "Bucharest",
+          "swift_code": "BTRLRO22BB2"
+        },
+        {
+          "branch_name": "Bucuresti Chibrit",
+          "city": "Bucharest",
+          "swift_code": "BTRLRO22BBC"
+        },
+        {
+          "branch_name": "Bucuresti Otopeni",
+          "city": "Bucharest",
+          "swift_code": "BTRLRO22BOT"
+        },
+        {
+          "branch_name": "Bucuresti Voluntari",
+          "city": "Bucharest",
+          "swift_code": "BTRLRO22BVO"
+        },
+        {
+          "branch_name": "Centre Nouveau Branch",
+          "city": "Bucharest",
+          "swift_code": "BTRLRO22BBL"
+        },
+        {
+          "branch_name": "Militari Branch",
+          "city": "Bucharest",
+          "swift_code": "BTRLRO22BB1"
+        },
+        {
+          "branch_name": "Obor Branch",
+          "city": "Bucharest",
+          "swift_code": "BTRLRO22BBB"
+        },
+        {
+          "branch_name": "Pantelimon Branch",
+          "city": "Bucharest",
+          "swift_code": "BTRLRO22BBP"
+        },
+        {
+          "branch_name": "Piata Alba-iulia Branch",
+          "city": "Bucharest",
+          "swift_code": "BTRLRO22BBA"
+        },
+        {
+          "branch_name": "Victoriei Branch",
+          "city": "Bucharest",
+          "swift_code": "BTRLRO22BBV"
+        },
+        {
+          "branch_name": "Ag Sighet",
+          "city": "Sighet",
+          "swift_code": "BTRLRO22MMS"
+        },
+        {
+          "branch_name": "Sibiu Branch",
+          "city": "Sibiu",
+          "swift_code": "BTRLRO22SBA"
+        },
+        {
+          "branch_name": "Slobozia",
+          "city": "Slobozia",
+          "swift_code": "BTRLRO22ILA"
+        },
+        {
+          "branch_name": "Mures Branch",
+          "city": "Targu Mures",
+          "swift_code": "BTRLRO22MSA"
+        },
+        {
+          "branch_name": "Targu Neamt",
+          "city": "Targu Neamt",
+          "swift_code": "BTRLRO22NTT"
+        },
+        {
+          "branch_name": "Timisoara Branch",
+          "city": "Timisoara",
+          "swift_code": "BTRLRO22TMA"
+        },
+        {
+          "branch_name": "Ag Tg Secuiesc",
+          "city": "Targu Secuiesc",
+          "swift_code": "BTRLRO22CVT"
+        },
+        {
+          "branch_name": "Mehedinti Branch",
+          "city": "Turnu Severin",
+          "swift_code": "BTRLRO22MHA"
+        },
+        {
+          "branch_name": "Turda Branch",
+          "city": "Turda",
+          "swift_code": "BTRLRO22CJT"
+        },
+        {
+          "branch_name": "Vatra Dornei",
+          "city": "Vatra Dornei",
+          "swift_code": "BTRLRO22SVV"
+        },
+        {
+          "branch_name": "Zalau Branch",
+          "city": "Zalau",
+          "swift_code": "BTRLRO22SJA"
+        },
+        {
+          "branch_name": "Tecuci",
+          "city": "Tecuci",
+          "swift_code": "BTRLRO22GLT"
+        },
+        {
+          "branch_name": "Resita",
+          "city": "Resita",
+          "swift_code": "BTRLRO22CSA"
+        },
+        {
+          "branch_name": "Ag Nadlac",
+          "city": "Nadlac",
+          "swift_code": "BTRLRO22AR3"
+        },
+        {
+          "branch_name": "Aiud",
+          "city": "Aiud",
+          "swift_code": "BTRLRO22ABI"
+        },
+        {
+          "branch_name": "Alba Branch",
+          "city": "Alba Iulia",
+          "swift_code": "BTRLRO22ABA"
+        },
+        {
+          "branch_name": "Ag Alesd",
+          "city": "Alesd",
+          "swift_code": "BTRLRO22BH4"
+        },
+        {
+          "branch_name": "Alexandria",
+          "city": "Alexandria",
+          "swift_code": "BTRLRO22TRA"
+        },
+        {
+          "branch_name": "Ag Arad",
+          "city": "Arad",
+          "swift_code": "BTRLRO22AR1"
+        },
+        {
+          "branch_name": "Ag Arad",
+          "city": "Arad",
+          "swift_code": "BTRLRO22AR2"
+        },
+        {
+          "branch_name": "Banca Transilvania S.A.",
+          "city": "Roma",
+          "swift_code": "BTRLITR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Baltikums Bank As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "CBBRCY2LXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "CBBRLV22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atonline Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "ATONCY2NXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atlascapital Financial Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "ACFSCY2LXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "As Ltb Bank Cyprus Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "LATCCY2LXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Jordan Investment Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "AJIBCY2IXXX"
+        },
+        {
+          "branch_name": "Clearing",
+          "city": "Limassol (lemesos",
+          "swift_code": "AJIBCY2ICCC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Amman",
+          "swift_code": "AJIBJOAXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alpha Bank Cyprus Limited",
+      "branches": [
+        {
+          "branch_name": "Larnaca",
+          "city": "Larnaca",
+          "swift_code": "ABKLCY2NLAR"
+        },
+        {
+          "branch_name": "Limassol (lemesos)",
+          "city": "Limassol (Lemesos)",
+          "swift_code": "ABKLCY2NLIM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nicosia (Lefkosia)",
+          "swift_code": "ABKLCY2NXXX"
+        },
+        {
+          "branch_name": "Paphos",
+          "city": "Paphos",
+          "swift_code": "ABKLCY2NPAP"
+        }
+      ]
+    }
+  ]
+}

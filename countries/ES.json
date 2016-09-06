@@ -1,0 +1,7702 @@
+{
+  "country_name": "Spain",
+  "alpha_2": "ES",
+  "country_code": "724",
+  "banks": [
+    {
+      "bank_name": "Gaesco Bolsa Sociedad De Valores Y Bolsa Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "GAESESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "European Credit Capital Markets Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ECCMESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dai-ichi Kangyo Bank,ltd,the",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "DKBBESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Zurich Insurance Plc. Sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "ZURIESBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wafabank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "WAFAESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sociedad Rectora De La Bolsa De Valores De Bilbaos.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bilbao",
+          "swift_code": "XBILES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Renta 4 Sociedad De Valores, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "RENTESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Registro Nacional De Derechos Da Emission De Gei-renade",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "La Coruna (a Coruna",
+          "swift_code": "RNDEES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rcscch 1604 Sicav Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "RCSIESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rci Spain",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "RCINESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Puig, S.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "PUIGESBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Proxima Alfa Investments",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "PRLIES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prosegur Compania De Seguridad, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "PSGRESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Privatbank Ihag Zuerich Ag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fuengirola",
+          "swift_code": "IHZUES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Privat Bank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "PRVBESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Primer Banco Ahorro Y Prestamo Vivienda Familiar,s.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "PAPIESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Porcelanosa S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Castellon De La",
+          "swift_code": "PRCLES22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Popular Gestion Privada Sgiic",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "PGPSESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Popular Bolsa, Sociedad De Valores, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "POPBESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pontegadea Inversiones, S.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Arteixo A Coruna",
+          "swift_code": "POGAES2CXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Philippine National Bank, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "PNBMESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pentor A.v.b., S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "PENTESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Patrinvest Inversion S.i.c.a.v S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Castellon",
+          "swift_code": "PAIVES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Osuna Y Marco, S.a., A.v.b.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "OSMAESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Olivarda Sicav Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "OLSIESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oficina De Armonizacion Del Mercado Interior (oami",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Alicante",
+          "swift_code": "OAMIES22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sociedad Estatal Correos Y Telegrafos, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "COYTESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sociedad De Gestion De Los Sistemas De Registro, Compensacion Y Liquidacion De Valores, S.a. (iberclear",
+      "branches": [
+        {
+          "branch_name": "Madrid",
+          "city": "Madrid",
+          "swift_code": "IBRCESM1AS2"
+        },
+        {
+          "branch_name": "Madrid",
+          "city": "Madrid",
+          "swift_code": "IBRCESMMAS1"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sociedad De Gestion De Los Sistemas De Registro, Compensacion Y Liquid. De Valores, S.a. (iberclear",
+      "branches": [
+        {
+          "branch_name": "Sociedad De Gestion De Los Sistemas De Registro, Compensacion Y Liquid. De Valores, S.a. (iberclear",
+          "city": "Las Rozas De Madrid",
+          "swift_code": "RGTRESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sociedad Anonima Industrias Celulosa Aragonesa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zaragoza",
+          "swift_code": "SAICES2ZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sinergia Advisors 2006, A.v. S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "SIADESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Siaga S.v.b., S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "SIAGESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sg Securities Madrid S.v.b., S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "SGSEESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Servicio De Pagos Interbancarios,s.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CAMMES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Segurcaixa Sociedad Anonima De Seguros Y Reaseguros",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "SSAEESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sebroker Bolsa Agencia De Valores, S A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "SBAOESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Schroder Securities Sv Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "SCSUESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Santander Investment Bolsa, S.v., S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "SCHLESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronica Espanola",
+      "branches": [
+        {
+          "branch_name": "Sesa",
+          "city": "Madrid",
+          "swift_code": "SECTESM1470"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "SECTESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "S.e. Banken Luxembourg S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Pedro De Alcantara",
+          "swift_code": "LUXEES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Roca Sanitario, S. A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "GROCESBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Riva Y Garcia-1877, Sociedad De Valores, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "RIGIESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rheinhyp Rheinische Hypothekenbank A.g.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "RHRHESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rentcaixa, S.a De Seguros Y Reaseguros",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "RTCAESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Renta Markets Sv,sa",
+      "branches": [
+        {
+          "branch_name": "Renta Markets Sv,sa",
+          "city": "Madrid",
+          "swift_code": "RMSVESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vueling Airlines S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "VLNGESBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vidacaixa, S.a De Seguros Y Reaseguros",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "VDCAESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Usategi Inversiones Sicav Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "USISESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Urquijo Bolsa Y Valores S.v.b., S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "UBAVESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Fenosa Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "UNFEESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union De Creditos Inmobiliarios, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "UCINESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unicorp Patrimonio, Sociedad De Valores, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Malaga",
+          "swift_code": "UPSVES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ucabail, S.e.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "UCSSESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Securities Espana Sociedad De Valores Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "UBSSESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tressis, Sv, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "TEESESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tokyo Sociedad De Valores Y Bolsa (espana) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "TSVBESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tesoro Publico-spain Spanish Government Gobierno De Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "TPSGESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tesoro Publico Traspaso De Depositos",
+      "branches": [
+        {
+          "branch_name": "Colateral Swaps",
+          "city": "Madrid",
+          "swift_code": "TESOESM1SWP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "TESOESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tesoreria General De La Seguridad Social",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "TESSESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Telefonica, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "TEFEESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Telefonica Gestion De Servicios Compartidos Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "TEFGESMMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "TEFGESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stifel Nicolaus Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "STNCESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sol Melia, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Palma De Mallorca",
+          "swift_code": "SOELES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Valores",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "SGVLESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Xunta De Galicia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago De Compostela",
+          "swift_code": "CAGCES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "X-trade Brokers Dm S.a. Sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "TBESESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oddo Sv, Sociedad De Valores",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ODDOESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Norwich And Peterborough Building Society",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Roque",
+          "swift_code": "NPBSES21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Peterborough",
+          "swift_code": "NPBSGB21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordkapp Inversiones Sociedad De Valores S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valencia",
+          "swift_code": "NISVESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Norbolsa, Sociedad De Valores Y Bolsa, S.a",
+      "branches": [
+        {
+          "branch_name": "Norbolsa",
+          "city": "Bilbao",
+          "swift_code": "NORLESB1BIO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bilbao",
+          "swift_code": "NORLESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nmas1 Equities, Sv, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "NMEQESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nibc Petercam Gestion",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "NIPGES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nh Hoteles Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "NHSAESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nexus Energia S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "NEXNESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Newedge Group (madrid Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "NEWGESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Newcourt Finance (france) S.n.c. Sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "NFFSESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nebursa, S.a., S.v.b.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "NEBUESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Morgan Stanley Wealth Management, S.v., S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "MSWMESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Morgan Stanley Sv. Sa.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "MSTAESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Morcote Inversiones Sicav Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "MOIIESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moody's Investors Service Espana, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "MOODESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Monty Global Payments, S.a.u.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "MNTYESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Monte De Piedad Y Caja General De Ahorros De Badajoz",
+      "branches": [
+        {
+          "branch_name": "06001 Badajoz",
+          "city": "Badajoz",
+          "swift_code": "CECAESMM010"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mizuho Corporate Bank, Ltd.,madrid Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "IBJTESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mirabaud Securities Llp Madrid Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "MIRSESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mirabaud Finanzas S.v., S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "VEFIESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "D.b. Securities, S.a., S.v.b.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "SCURESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cygnus Asset Management Sgiic, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CSMGESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Securities S.v. S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CSROESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole Indosuez Cheuvreux Espana, Sa Sv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CAICESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole (crcam Sud Mediterranee-ariege-pyrenees Orientales S.e.",
+      "branches": [
+        {
+          "branch_name": "Credit Agricole (crcam Sud Mediterranee-ariege-pyrenees Orientales S.e.",
+          "city": "Barcelona",
+          "swift_code": "AGRIESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cortal Consors Sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CCSEESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corretaje E Informacion Monetaria Y De Divisas, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CIMDESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion Financiera Denia S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CRFDESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Consulnor Servicios Financieros, Sociedad De Valores S.a.u.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bilbao",
+          "swift_code": "GALAES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Consorcio De Compensacion De Seguros",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CDCSESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Comunidad De Madrid",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CMADESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Comunidad Autonoma De Las Islas Baleares",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Palma De Mallorca",
+          "swift_code": "CBALES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Comunidad Autonoma De La Region De Murcia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Murcia",
+          "swift_code": "CAMUES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Comunidad Autonoma De Castilla Y Leon",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valladolid",
+          "swift_code": "JCYLES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Comunidad Autonoma De Canarias",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Las Palmas De Gran Canaria",
+          "swift_code": "GCANES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Comsa Emte S.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "CMEMESBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Compania De Distribucion Integral Logista,s.a.u",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CDILESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cofitur Inversiones Sicav Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "COVSESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cnp Vida De Seguros Y Reaseguros, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "SVSRESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Europea Popular De Inversiones S.v.b.,s.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "EUPIESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurofinanzas, S.a., S.v.b.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "EUASESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurodeal A.v.b., S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "EUDAESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurobank Del Mediterraneo S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "EUMEESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Espirito Santo Bank Of Florida",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ESBFESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Espaclear, Sistemas De Compensacion De Activos Financieros Sa/av",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ESCCESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Endesa, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ENDEESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Electronic Trading System Valores, S.v., S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ETSVESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "El Fondo De Garantia De Depositos En Cajas De Ahorro",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "FGDCESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dws Investments Sgiic",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "DWISESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Duro Felguera, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gijon",
+          "swift_code": "DUFEES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Don Curro Inversiones Sicav Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "DCISESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dl Corporation Agencia De Valores S A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "COAVESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Gestion",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "DEGEESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Diputacion General De Aragon",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zaragoza",
+          "swift_code": "ARGCES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Credit S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "DECRESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Depfa-bank Europe, Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "DPFAESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "De Lage Landen International B.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "LLISESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Davigel Espana S.a.",
+      "branches": [
+        {
+          "branch_name": "Davigel Espana S.a.",
+          "city": "Sant Just",
+          "swift_code": "DAVNES2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "G.v.c. General De Valores Y Cambios, S.a., S.v.b.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "GGVCESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fuji Bank,limited,the",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "FUJIESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Franfinance, Sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "FRANESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Frit Ravich, S.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Macanet De La Selva",
+          "swift_code": "FRAVES22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fondo De Garantia De Depositos De Entidades De Credito",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "FGDEESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fonditel Egfp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "FOEGESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fomento De Construcciones Y Contratas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "FCOTESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fluidra, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sabadell",
+          "swift_code": "FDRAESBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fitch Ratings Espana. S.a.u.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "FRIPESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fineco Sociedad De Valores S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bilbao",
+          "swift_code": "FIOVES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finandenia Credit And Guarantee Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "FCGBESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fiesta Hotels And Resorts Sl",
+      "branches": [
+        {
+          "branch_name": "Fiesta Hotels And Resorts Sl",
+          "city": "Ibiza",
+          "swift_code": "PHGPES22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fidentiis Equities Sociedad De Valores Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "FIDSESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fibanc Excellent Fi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "FBBEESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ferrovial S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "FERRESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "F G Inversiones Bursatiles Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "FGIBESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Everis Spain, S.l.u.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "EVIRESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eurosafei, Sociedad De Valores Y Bolsa, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ESAFESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "European Credit Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "EUCEESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hotelbeds Spain, S.l.u.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Palma De Mallorca",
+          "swift_code": "HBDSES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hewlett-packard Espanola S.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Las Rozas De Madrid",
+          "swift_code": "HEESESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hermes Bolsa, Avb, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "HEBVESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Grupo Turistico Transhotel S.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Sebastian De Reyes",
+          "swift_code": "TRCSESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Grupo Inversor Hesperia, S.a.",
+      "branches": [
+        {
+          "branch_name": "Grupo Inversor Hesperia, S.a.",
+          "city": "Barcelona",
+          "swift_code": "GIHSESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Grifols S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "GRLSESBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gobierno De Navarra",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pamplona",
+          "swift_code": "CANAES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gobierno De Cantabria",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santander",
+          "swift_code": "CTCAES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Globalcaja, Caja Rural De Albacete, Ciudad Real Y Cuenca, S.c.c.",
+      "branches": [
+        {
+          "branch_name": "45003 Toledo",
+          "city": "Toledo",
+          "swift_code": "BCOEESMM190"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gestion De Patrimonios Mobiliarios, S.a., Agenciade Valores Y Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "GEPMESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gestion De Activos Del Mediterraneo, Sociedad De Alores S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Alicante",
+          "swift_code": "GEAMES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gestinvest Internacional",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "GESNESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gestemar Securities S.v.b.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "GESMESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gesmosa-gbi, A.v., S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "GESGESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gesmadrid S.a., S.g.i.i.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "GESAESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gesinca Inversiones",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "GINVESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Generalitat Valenciana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valencia",
+          "swift_code": "CAVAESV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "General De Valores Y Cambio, S.a., S.v.b.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "GGVCESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gefonsa Sa Agencia De Valores",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "GEAVESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gamesa Corporacion Tecnologica, S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zamudio",
+          "swift_code": "GAMCES2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Minerales Y Productos Derivados S.a",
+      "branches": [
+        {
+          "branch_name": "Minerales Y Productos Derivados S.a",
+          "city": "Bilbao",
+          "swift_code": "MYPDES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "London Forfaiting A Paris, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "LOFPESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intermediarios Financieros, S.a., A.v.b.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "FSINESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interdin Bolsa, Sociedad De Valores, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "INTOESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intercaixa Valores S.a., S.v.b.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ICVAESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interbrokers Espanola De Valores, Agencia De Valores, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "IEVAESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Instituto De Credito Oficial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ICROESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inmob Calera Y Chozas Cart Sicav Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "ICCRESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industria Diseno Textil, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Arteixo",
+          "swift_code": "ITXEES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Indra Sistemas, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Alcobendas",
+          "swift_code": "ISSAESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Indosuez Capital Securities Espana, S.a. S.v.b.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "VALGESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inbarsave Sicav Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "IBSVESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ifxbg Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "IFXGESM1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "IFXGGB21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Roadtown Tortola",
+          "swift_code": "IFXGVGV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ibersecurities Sociedad De Valores S.a.u.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "IBERESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Iberostar Hoteles Y Apartamentos, S.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Palma De Mallorca",
+          "swift_code": "STARES2MXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Iberian Equities A.v., S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "IBEQESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Iberia Lineas Aereas De Espana S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "IBLAESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Iberdrola S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bilbao",
+          "swift_code": "IBDLES2BXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Iberagentes Bolsa S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "IBEOESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hypothekenbank Frankfurt Ag, Spain Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "EHYPESMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Investment Bank Plc,sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "HSVBESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Intermediarios (espana) A.v.,s.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valencia",
+          "swift_code": "HSIEESV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Link Securities Sociedad De Valores S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "LISEESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Legg Mason Ltd. Spain",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "LEMPESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Laboratorios Hipra, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gerona (girona",
+          "swift_code": "HIPRES22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Laboratorios Del Dr. Esteve, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "ESTEESBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Laboral Kutxa",
+      "branches": [
+        {
+          "branch_name": "Vitoria",
+          "city": "Vitoria",
+          "swift_code": "CLPEES21012"
+        },
+        {
+          "branch_name": "Eibar",
+          "city": "Eibar",
+          "swift_code": "CLPEES21023"
+        },
+        {
+          "branch_name": "San Sebastian",
+          "city": "San Sebastian",
+          "swift_code": "CLPEES21060"
+        },
+        {
+          "branch_name": "Bilbao",
+          "city": "Bilbao",
+          "swift_code": "CLPEES21083"
+        },
+        {
+          "branch_name": "Madrid",
+          "city": "Madrid",
+          "swift_code": "CLPEES21121"
+        },
+        {
+          "branch_name": "Pamplona",
+          "city": "Pamplona",
+          "swift_code": "CLPEES21195"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kutxagest",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Sebastian",
+          "swift_code": "KUTAES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kepler Equities, Sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "JBBRESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Junta De Comunidades De Castilla-la Mancha",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toledo",
+          "swift_code": "JCMAES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Junta De Andalucia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sevilla",
+          "swift_code": "JANDESS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jp Morgan Sociedad De Valores Y Bolsa S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "JPMVESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jose Gregorio Juncos Martinez",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "JGJMESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jb Capital Markets Sociedad De Valores, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "MBCMESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.p. Morgan Securities Limited-sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CHASESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.p. Morgan Securities Limited Sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "JPMSESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.l. Contreras Y Asociados, S.a., A.v.b.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ASOCESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ipar Kutxa Rural, S.c.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bilbao",
+          "swift_code": "CVRVES2BXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inverseguros Sociedad De Valores Y Bolsa, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "INSGESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Invercaixa Valores S.v.b., S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "INBVESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intermoney Valores S.v.b., S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "IVALESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mg Valores, S.a., S.v.b.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "VASVESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mfao, Sociedad Rectora Del Mercado De Futuros Del Aceite De Oliva, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Jaen",
+          "swift_code": "XSRMES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch International Bank Limiited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "MLIBESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch Capital Markets Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "MLCBESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merchbolsa Agencia De Valores, S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "XBAVESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercavalor Sociedad De Valores Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "MERRESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercato Continuo Espanol",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "XMCEESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercagentes S.a., Sociedad De Valores",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bilbao",
+          "swift_code": "MERSESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercados Y Gestion De Valores A.v.b. S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "MGVAESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meffclear",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "MEFEESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meff Sociedad Rectora De Productos Financieros Derivados De Renta Variable, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "XMRVESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mediolanium Alpha Plus-f.i.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "MEAUESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Medigestion 02 Sicav Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "MESVESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Medifond Plus Fi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "MEPLESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mediacion Bursatil, S.v.b., S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "MEBUESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maxwell E Espinosa A I, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "MXESESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Martinez Gil Y Asociados Agencia Valores Bolsa Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "MAGAESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mapfre Inversion Sociedad De Valores S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "MISVESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "M And B Capital Advisers, Sociedad De Valores, S..",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CADRESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cimd, S.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CIDDESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chemical Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CHAGESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Hispano De Bolsa S.v.b., S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CEHBESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Celeris Servicios Financieros, S.a. E.f.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CSFAESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Casse Di Risparmio Di Firenze E Pistoia E Pescia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "PISTESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carnegie Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CANEESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Candy Hoover Electrodomesticos S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bergara",
+          "swift_code": "CAHEES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Camion World Comercial Sl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Olot",
+          "swift_code": "CAWCES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Calculo Y Tratamiento De La Informacion Cti, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CTIXESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Siete, Caja Rural, Scc",
+      "branches": [
+        {
+          "branch_name": "Santa Cruz De Tenerife",
+          "city": "Santa Cruz De Tenerife",
+          "swift_code": "BCOEESMM076"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural Vinaros S.c.c.v.",
+      "branches": [
+        {
+          "branch_name": "12500 Vinaros",
+          "city": "Vinaros",
+          "swift_code": "BCOEESMM174"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural San Jose De Almassora",
+      "branches": [
+        {
+          "branch_name": "Castellon",
+          "city": "Castellon",
+          "swift_code": "BCOEESMM130"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural San Isidro Vall D'uxo",
+      "branches": [
+        {
+          "branch_name": "Vall Duxo",
+          "city": "La Vall D'uixo",
+          "swift_code": "BCOEESMM111"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural San Isidro De Les Coves De Vinroma, S. Coop. De Credito V.",
+      "branches": [
+        {
+          "branch_name": "12185 Les Coves De Vinroma",
+          "city": "Les Coves De Vinroma",
+          "swift_code": "BCOEESMM166"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural San Augustin De Fuente Alamo",
+      "branches": [
+        {
+          "branch_name": "30320 Fuente Alamo",
+          "city": "Fuente Alamo",
+          "swift_code": "BCOEESMM018"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural Ntra. Sra. Del Campo",
+      "branches": [
+        {
+          "branch_name": "14660 Canete Torres (cordoba)",
+          "city": "Canete De Las Torres",
+          "swift_code": "BCOEESMM104"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural Ntra. Sra. De Guadalupe, Sdad. Coop. Cdto.",
+      "branches": [
+        {
+          "branch_name": "14850 Baena (cordoba)",
+          "city": "Baena",
+          "swift_code": "BCOEESMM089"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural Ntra. Senora De La Esperanza",
+      "branches": [
+        {
+          "branch_name": "Onda",
+          "city": "Onda",
+          "swift_code": "BCOEESMM134"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural Ntra Sra Del Rosario",
+      "branches": [
+        {
+          "branch_name": "14857 Nueva Carteya (cordoba)",
+          "city": "Nueva Carteya",
+          "swift_code": "BCOEESMM098"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural Nestra Madre Del Sol",
+      "branches": [
+        {
+          "branch_name": "14430 Adamuz",
+          "city": "Adamuz",
+          "swift_code": "BCOEESMM115"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Courtois",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "COURESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Commerciale Du Maroc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BCMAESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankia Bolsa Sociedad De Valores, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CMBOESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankers Trust Company, Sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BKTRESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of New York, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "IRVTESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of America Europe Card Services, Mbna Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "AECEESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Austria Creditanstalt International Ag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BKAUESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banesto Bolsa Sa Sociedad De Valores Y Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BTOBESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banesto Banco De Emisiones S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BAEMESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bandenia Secure Processing Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Las Rozas De Madrid",
+          "swift_code": "BAUCESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bandenia S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BNNDESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bandenia Properties Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Las Rozas De Madrid",
+          "swift_code": "BNRRESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bandenia Private Equity Partnes Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Las Rozas De Madrid",
+          "swift_code": "BPEEESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bandenia Participadas S.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Las Rozas De Madrid",
+          "swift_code": "BADTESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bandenia Financial Group Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BFGMESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bandenia Fiduciary Management Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BFIGESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bandenia Emprende S.a.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Las Rozas De Madrid",
+          "swift_code": "BNESESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bandenia Finanzia E.d.e., S.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Las Rozas De Madrid",
+          "swift_code": "BAZEESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bandenia Capital Investment Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Las Rozas De Madrid",
+          "swift_code": "BNCVESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bandenia Banca",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BNNAESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural Del Sur,sdad.coop.cto (formerly Caja Rural De Huelva Y Sevilla",
+      "branches": [
+        {
+          "branch_name": "Sevilla",
+          "city": "El Cuervo De Sevilla",
+          "swift_code": "BCOEESMM187"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De Algemesi",
+      "branches": [
+        {
+          "branch_name": "Valencia",
+          "city": "Valencia",
+          "swift_code": "BCOEESMM117"
+        }
+      ]
+    },
+    {
+      "bank_name": "Btm Securities (spain) S.a. S.v.b.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BTMSESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Boursorama Sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BOUEESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bilbao Plaza Financiera Depositaria, Agencia De V Lores, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bilbao",
+          "swift_code": "BPFDES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Beta Capital S.v.b., S.a.",
+      "branches": [
+        {
+          "branch_name": "Barcelona Office",
+          "city": "Barcelona",
+          "swift_code": "BECAESM1BAR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BECAESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bestinver, S.v.b., S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BEERESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bes Investimento Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BEIVESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bolsa De Valencia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valencia",
+          "swift_code": "XVALESV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bear, Crosby And Pike, A.v., S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BECKESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bbva Seguros",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BBSGESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bbva Gestion",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BBGEESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Benito Y Monjardin S.v.b., S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BENMESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bbva And Partners Alternative Investments S.a., A.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BPAVESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bayerische Hypo-und Vereinsbank Ag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "HYVEESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Pizarro Y Rocoder S.a., S.v.b.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BAZWESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barcelona Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "XBARESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Sudameris",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BSUDESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Scs Alliance",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "BSSAESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Scandinave En Suisse",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Marbella",
+          "swift_code": "SCSIESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Regionale D'escompte Et De Depots",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "REDEESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Internationale A Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "BILLESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De Albal, Coop. De Credito V.",
+      "branches": [
+        {
+          "branch_name": "46470 Albal",
+          "city": "Albal",
+          "swift_code": "BCOEESMM150"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural Central, S.c.c.",
+      "branches": [
+        {
+          "branch_name": "03300 Orihuela",
+          "city": "Alicante",
+          "swift_code": "BCOEESMM005"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural Casas Ibanez Sdad. Coop.",
+      "branches": [
+        {
+          "branch_name": "02200 Casas Ibanez",
+          "city": "Casas Ibanez",
+          "swift_code": "BCOEESMM127"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural Betxi, S. Coop. De Credito V.",
+      "branches": [
+        {
+          "branch_name": "12549 Betxi",
+          "city": "Betxi",
+          "swift_code": "BCOEESMM138"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa Rural Altea Ccv",
+      "branches": [
+        {
+          "branch_name": "Altea",
+          "city": "Altea",
+          "swift_code": "CCRIES2A045"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa Guissona",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guissona",
+          "swift_code": "CAXIES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa Barcelona Seguros Vida, S.a. Seguros Y Reaseguros",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "CBSVESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cai Bolsa S.v., S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zaragoza",
+          "swift_code": "CAOLES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caceis Bank Espana, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "IXIUESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "C.r.s. Jose De Nules",
+      "branches": [
+        {
+          "branch_name": "Nules",
+          "city": "Nules",
+          "swift_code": "CCRIES2A135"
+        }
+      ]
+    },
+    {
+      "bank_name": "C.r.s. Jose De Burriana Sccv",
+      "branches": [
+        {
+          "branch_name": "Burriana",
+          "city": "Burriana",
+          "swift_code": "CCRIES2A112"
+        }
+      ]
+    },
+    {
+      "bank_name": "C.r.s. Jaime Alquerias Nino Perdido Sccv",
+      "branches": [
+        {
+          "branch_name": "Alquerias",
+          "city": "Alquerias",
+          "swift_code": "CCRIES2A119"
+        }
+      ]
+    },
+    {
+      "bank_name": "C.r.s. Isidro De Vilafames Sccv",
+      "branches": [
+        {
+          "branch_name": "Vilafames",
+          "city": "Vilafames",
+          "swift_code": "CCRIES2A165"
+        }
+      ]
+    },
+    {
+      "bank_name": "C.r.de Villar Ccv",
+      "branches": [
+        {
+          "branch_name": "Villar Del Arzobispo",
+          "city": "Villar Del Arzobispo",
+          "swift_code": "CCRIES2A152"
+        }
+      ]
+    },
+    {
+      "bank_name": "C.r.de Alginet Sccv",
+      "branches": [
+        {
+          "branch_name": "Alginet",
+          "city": "Alginet",
+          "swift_code": "CCRIES2A179"
+        }
+      ]
+    },
+    {
+      "bank_name": "C.r. San Roque De Almenara Sccv",
+      "branches": [
+        {
+          "branch_name": "Almenara",
+          "city": "Almenara",
+          "swift_code": "CCRIES2A095"
+        }
+      ]
+    },
+    {
+      "bank_name": "C.r. La Junquera De Chilches Sccv",
+      "branches": [
+        {
+          "branch_name": "Chilches",
+          "city": "Chilches",
+          "swift_code": "CCRIES2A157"
+        }
+      ]
+    },
+    {
+      "bank_name": "C.r. De Cheste Scc",
+      "branches": [
+        {
+          "branch_name": "Cheste (valencia)",
+          "city": "Cheste",
+          "swift_code": "CCRIES2A121"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bucefalia Inversiones Sicav Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "BUIIESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De Villamalea",
+      "branches": [
+        {
+          "branch_name": "Albacete",
+          "city": "Albacete",
+          "swift_code": "BCOEESMM144"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De Zamora",
+      "branches": [
+        {
+          "branch_name": "Zamora",
+          "city": "Zamora",
+          "swift_code": "BCOEESMM085"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De Utrera",
+      "branches": [
+        {
+          "branch_name": "Sevilla",
+          "city": "Sevilla",
+          "swift_code": "BCOEESMM020"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De Teruel",
+      "branches": [
+        {
+          "branch_name": "Teruel",
+          "city": "Teruel",
+          "swift_code": "BCOEESMM080"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De Soria",
+      "branches": [
+        {
+          "branch_name": "Soria",
+          "city": "Soria",
+          "swift_code": "BCOEESMM017"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De Salamanca",
+      "branches": [
+        {
+          "branch_name": "Salamanca",
+          "city": "Salamanca",
+          "swift_code": "BCOEESMM016"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De Navarra",
+      "branches": [
+        {
+          "branch_name": "Pamplona",
+          "city": "Pamplona",
+          "swift_code": "BCOEESMM008"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De Mota Del Cuervo",
+      "branches": [
+        {
+          "branch_name": "16630 Mota Del Cuervo",
+          "city": "Mota Del Cuervo",
+          "swift_code": "BCOEESMM116"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De L'alcudia",
+      "branches": [
+        {
+          "branch_name": "Valencia",
+          "city": "Valencia",
+          "swift_code": "BCOEESMM096"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De Jaen",
+      "branches": [
+        {
+          "branch_name": "Jaen",
+          "city": "Jaen",
+          "swift_code": "BCOEESMM067"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De Guissona Sociedad Cooperativa De Credito",
+      "branches": [
+        {
+          "branch_name": "25210 Guissona",
+          "city": "Guissona",
+          "swift_code": "BCOEESMM140"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De Granada",
+      "branches": [
+        {
+          "branch_name": "Granada",
+          "city": "Granada",
+          "swift_code": "BCOEESMM023"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De Gijon",
+      "branches": [
+        {
+          "branch_name": "Gijon",
+          "city": "Gijon",
+          "swift_code": "BCOEESMM007"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De Extremadura",
+      "branches": [
+        {
+          "branch_name": "Badajoz",
+          "city": "Badajoz",
+          "swift_code": "BCOEESMM009"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De Cordoba",
+      "branches": [
+        {
+          "branch_name": "Cordoba",
+          "city": "Cordoba",
+          "swift_code": "BCOEESMM063"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De Castilla La Mancha, S.c.c.",
+      "branches": [
+        {
+          "branch_name": "45004 Toledo",
+          "city": "Albacete",
+          "swift_code": "BCOEESMM081"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De Benicarlo",
+      "branches": [
+        {
+          "branch_name": "12580 Benicarlo",
+          "city": "Benicarlo",
+          "swift_code": "BCOEESMM162"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De Asturias",
+      "branches": [
+        {
+          "branch_name": "Oviedo",
+          "city": "Gijon",
+          "swift_code": "BCOEESMM059"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De Almendralejo",
+      "branches": [
+        {
+          "branch_name": "06200 Almendralejo",
+          "city": "Almendralejo",
+          "swift_code": "BCOEESMM001"
+        }
+      ]
+    },
+    {
+      "bank_name": "Westlb Ag Madrid Branch, Madrid",
+      "branches": [
+        {
+          "branch_name": "Funding Unit",
+          "city": "Madrid",
+          "swift_code": "WELAESMMFUN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "WELAESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Volkswagen Bank Gmbh, S.E.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "VOWAES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unoe Bank, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "UNOEESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unicaja (Montes De Piedad Y Caja De Ahorros De Ronda, Cadiz, Almeria, Malaga, Antequera Y Jaen",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Malaga",
+          "swift_code": "UCJAES2MXXX"
+        },
+        {
+          "branch_name": "Cta Garantia",
+          "city": "Madrid",
+          "swift_code": "UCJAES2MGAR"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Bank, S.A.",
+      "branches": [
+        {
+          "branch_name": "Succursal En Espana",
+          "city": "Madrid",
+          "swift_code": "UBSWESMMXXX"
+        },
+        {
+          "branch_name": "Branch",
+          "city": "Madrid",
+          "swift_code": "UBSWESMMNPB"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubi Banca International-Sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "UBIBESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Triodos Bank Nv, Se",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "TRIOESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Royal Bank Of Scotland N.V. Sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Barcelona",
+          "city": "Barcelona",
+          "swift_code": "ABNAESMMBAR"
+        },
+        {
+          "branch_name": "Local Electronic Banking",
+          "city": "Madrid",
+          "swift_code": "ABNAESMMLEB"
+        },
+        {
+          "branch_name": "28006 Madrid",
+          "city": "Madrid",
+          "swift_code": "ABNAESMMMAD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ABNAESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Targobank, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "POHIESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Svenska Handelsbanken Ab",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Marbella",
+          "swift_code": "HANDES21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Paris",
+          "swift_code": "HANDFRPPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "HANDLT2XXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "HANDLV22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale, Sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Barcelona",
+          "city": "Barcelona",
+          "swift_code": "SOGEESMMBAR"
+        },
+        {
+          "branch_name": "Market Branch",
+          "city": "Madrid",
+          "swift_code": "SOGEESMMAGM"
+        },
+        {
+          "branch_name": "Sg Madrid Trade Services",
+          "city": "Madrid",
+          "swift_code": "SOGEESMMTRA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "SOGEESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sociedad Rectora De La Bolsa De Valores De Bilbao, S.A.",
+      "branches": [
+        {
+          "branch_name": "Ancillary System",
+          "city": "Bilbao",
+          "swift_code": "XRBVES2BSCL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bilbao",
+          "swift_code": "XRBVES2BXXX"
+        },
+        {
+          "branch_name": "Liquidacion Cuenta Garantia",
+          "city": "Bilbao",
+          "swift_code": "XRBVES2BGAR"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sociedad Rectora De La Bolsa De Valores De Barcelona S.A.",
+      "branches": [
+        {
+          "branch_name": "Anciilary System",
+          "city": "Barcelona",
+          "swift_code": "XBCNESBBSCL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "XBCNESBBXXX"
+        },
+        {
+          "branch_name": "Ser De Comp Y Liq Bolsa De Valores De Barcelona Cuenta Garantias",
+          "city": "Barcelona",
+          "swift_code": "XBCNESBBGAR"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sociedad Rectora Bolsa Valores De Valencia, Sau",
+      "branches": [
+        {
+          "branch_name": "Ancillary System",
+          "city": "Valencia",
+          "swift_code": "XRVVESVVSCL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Valencia",
+          "swift_code": "XRVVESVVXXX"
+        },
+        {
+          "branch_name": "Cuenta De Garantias",
+          "city": "Valencia",
+          "swift_code": "XRVVESVVGAR"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sociedad Espanola De Sistemas De Pago, S.A.",
+      "branches": [
+        {
+          "branch_name": "Garantias",
+          "city": "Madrid",
+          "swift_code": "IPAYESMMGT1"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "IPAYESMMXXX"
+        },
+        {
+          "branch_name": "Sistema Vinculado",
+          "city": "Madrid",
+          "swift_code": "IPAYESMMAS1"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sociedad De Gestion De Los Sistemas De Registro, Compensacion Y Liquidacion De Valores, S.A. (Iberclear)",
+      "branches": [
+        {
+          "branch_name": "Ancillary System",
+          "city": "Madrid",
+          "swift_code": "IBRCESMMASI"
+        },
+        {
+          "branch_name": "Madrid",
+          "city": "Madrid",
+          "swift_code": "IBRCESMMCDE"
+        },
+        {
+          "branch_name": "Iberclear-multilateral Guaranty Account",
+          "city": "Madrid",
+          "swift_code": "IBRCESMMGAR"
+        },
+        {
+          "branch_name": "Madrid",
+          "city": "Madrid",
+          "swift_code": "IBRCESMMINV"
+        },
+        {
+          "branch_name": "Madrid",
+          "city": "Madrid",
+          "swift_code": "IBRCESMMISS"
+        },
+        {
+          "branch_name": "Madrid",
+          "city": "Madrid",
+          "swift_code": "IBRCESMMMVL"
+        },
+        {
+          "branch_name": "Madrid",
+          "city": "Madrid",
+          "swift_code": "IBRCESMMSCL"
+        },
+        {
+          "branch_name": "Senaf",
+          "city": "Madrid",
+          "swift_code": "IBRCESMMSNF"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "IBRCESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Self Trade Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "SELFESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Santander Securities Services,S.A.",
+      "branches": [
+        {
+          "branch_name": "Santander Securities Services,S.A.",
+          "city": null,
+          "swift_code": "BSSSESM2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Santander Investment Services S.A.",
+      "branches": [
+        {
+          "branch_name": "Santander Securities Services",
+          "city": "Boadilla Del Monte",
+          "swift_code": "SABNESMMSSS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Boadilla Del Monte",
+          "swift_code": "SABNESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Sygma Hispania",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "SHSAESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Nazionale Del Lavoro",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BNLIESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aldesa Construcciones S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ACORESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aguilar Y De La Fuente, S.a. Agencia De Valores",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "AGFAESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agenbolsa A.v.b. S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "AGAVESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Afina Pentor, A.v., S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "AFPEESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Advantic S.l",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ADATESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aca, S.a. Sociedad De Valores",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "ACSVESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abn-amro, S.a. S.v.b.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ABAMESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abertis Infraestructuras, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "ABIRESBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abengoa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sevilla",
+          "swift_code": "ABGOESSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abasic Slu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "DSGLESBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "A.t. Equities Span A.v.b., S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "EQSAESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "A.t. Equities Spain A.v. S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ATECESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "A.b. Asesores Bursatiles Bolsa, Sa, S.v.b.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ABABESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Carige Spa-cassa Di Risparmio Di Genova E Imperia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CRGEESM1XXX"
+        },
+        {
+          "branch_name": "Agenzia 74-genova",
+          "city": "Genova",
+          "swift_code": "CRGEITG1424"
+        },
+        {
+          "branch_name": "Main Branch",
+          "city": "Genova",
+          "swift_code": "CRGEITGG040"
+        },
+        {
+          "branch_name": "Genova",
+          "city": "Genova",
+          "swift_code": "CRGEITGG057"
+        },
+        {
+          "branch_name": "Genova",
+          "city": "Genova",
+          "swift_code": "CRGEITGG061"
+        },
+        {
+          "branch_name": "Area Terr La Spezia E Toscana",
+          "city": "La Spezia",
+          "swift_code": "CRGEITGG068"
+        },
+        {
+          "branch_name": "Area Terr Savona-albenga",
+          "city": "Savona",
+          "swift_code": "CRGEITGG069"
+        },
+        {
+          "branch_name": "Area Terr Genova Centro",
+          "city": "Genova",
+          "swift_code": "CRGEITGG071"
+        },
+        {
+          "branch_name": "Area Terr Chiavari",
+          "city": "Chiavari",
+          "swift_code": "CRGEITGG073"
+        },
+        {
+          "branch_name": "Area Terr Genova Levante",
+          "city": "Genova",
+          "swift_code": "CRGEITGG074"
+        },
+        {
+          "branch_name": "Area Terr Genova Ponente",
+          "city": "Genova",
+          "swift_code": "CRGEITGG075"
+        },
+        {
+          "branch_name": "Area Terr Genova Polcevera",
+          "city": "Genova",
+          "swift_code": "CRGEITGG076"
+        },
+        {
+          "branch_name": "Area Terr Genova Bisagno",
+          "city": "Genova",
+          "swift_code": "CRGEITGG077"
+        },
+        {
+          "branch_name": "Area Terr Imperia",
+          "city": "Imperia",
+          "swift_code": "CRGEITGG078"
+        },
+        {
+          "branch_name": "Branch No 42-mercato Ittico",
+          "city": "Genova",
+          "swift_code": "CRGEITGG082"
+        },
+        {
+          "branch_name": "Branch 56",
+          "city": "Genova",
+          "swift_code": "CRGEITGG084"
+        },
+        {
+          "branch_name": "Branch N 49",
+          "city": "Genova",
+          "swift_code": "CRGEITGG085"
+        },
+        {
+          "branch_name": "Staz Marittima Branch",
+          "city": "Genova",
+          "swift_code": "CRGEITGG087"
+        },
+        {
+          "branch_name": "Branch No 35",
+          "city": "Genova",
+          "swift_code": "CRGEITGG089"
+        },
+        {
+          "branch_name": "Branch N 41",
+          "city": "Genova",
+          "swift_code": "CRGEITGG090"
+        },
+        {
+          "branch_name": "Branch 44",
+          "city": "Genova",
+          "swift_code": "CRGEITGG091"
+        },
+        {
+          "branch_name": "La Spezia-branch 4",
+          "city": "La Spezia",
+          "swift_code": "CRGEITGG392"
+        },
+        {
+          "branch_name": "Branch 3",
+          "city": "La Spezia",
+          "swift_code": "CRGEITGG393"
+        },
+        {
+          "branch_name": "Brugnato",
+          "city": "Brugnato",
+          "swift_code": "CRGEITGG394"
+        },
+        {
+          "branch_name": "La Spezia",
+          "city": "La Spezia",
+          "swift_code": "CRGEITGG395"
+        },
+        {
+          "branch_name": "Sarzana",
+          "city": "Sarzana",
+          "swift_code": "CRGEITGG396"
+        },
+        {
+          "branch_name": "Branch No 1-la Spezia",
+          "city": "La Spezia",
+          "swift_code": "CRGEITGG397"
+        },
+        {
+          "branch_name": "Branch No 2",
+          "city": "La Spezia",
+          "swift_code": "CRGEITGG398"
+        },
+        {
+          "branch_name": "Levanto",
+          "city": "Levanto",
+          "swift_code": "CRGEITGG399"
+        },
+        {
+          "branch_name": "Varese Ligure",
+          "city": "Varese Ligure",
+          "swift_code": "CRGEITGG400"
+        },
+        {
+          "branch_name": "19032 Lerici",
+          "city": "Lerici",
+          "swift_code": "CRGEITGG401"
+        },
+        {
+          "branch_name": "19031 Ameglia",
+          "city": "Ameglia",
+          "swift_code": "CRGEITGG402"
+        },
+        {
+          "branch_name": "19020 Sesta Godano",
+          "city": "Sesta Godano",
+          "swift_code": "CRGEITGG403"
+        },
+        {
+          "branch_name": "19020 Bolano",
+          "city": "Bolano",
+          "swift_code": "CRGEITGG404"
+        },
+        {
+          "branch_name": "19037 Santo Stefano Di Magra",
+          "city": "Santo Stefano Di Magra",
+          "swift_code": "CRGEITGG405"
+        },
+        {
+          "branch_name": "19016 Monterosso Al Mare",
+          "city": "Monterosso Al Mare",
+          "swift_code": "CRGEITGG406"
+        },
+        {
+          "branch_name": "19018 Vernazza",
+          "city": "Vernazza",
+          "swift_code": "CRGEITGG407"
+        },
+        {
+          "branch_name": "19025 Portovenere",
+          "city": "Portovenere",
+          "swift_code": "CRGEITGG408"
+        },
+        {
+          "branch_name": "19020 Ricco Del Golfo Di Spezia",
+          "city": "Ricco' Del Golfo Di Spezia",
+          "swift_code": "CRGEITGG409"
+        },
+        {
+          "branch_name": "19017 Riomaggiore",
+          "city": "Riomaggiore",
+          "swift_code": "CRGEITGG410"
+        },
+        {
+          "branch_name": "San Lorenzo Al Mare",
+          "city": "San Lorenzo Al Mare",
+          "swift_code": "CRGEITGG411"
+        },
+        {
+          "branch_name": "San Bartolomeo Branch",
+          "city": "San Bartolomeo Al Mare",
+          "swift_code": "CRGEITGG308"
+        },
+        {
+          "branch_name": "Latte Di Ventimiglia Branch",
+          "city": "Ventimiglia",
+          "swift_code": "CRGEITGG309"
+        },
+        {
+          "branch_name": "Coldirodi (sanremo)",
+          "city": "Sanremo",
+          "swift_code": "CRGEITGG310"
+        },
+        {
+          "branch_name": "Santo Stefano Al Mare",
+          "city": "Santo Stefano Al Mare",
+          "swift_code": "CRGEITGG311"
+        },
+        {
+          "branch_name": "Ventimiglia",
+          "city": "Ventimiglia",
+          "swift_code": "CRGEITGG312"
+        },
+        {
+          "branch_name": "Diano Marina",
+          "city": "Diano Marina",
+          "swift_code": "CRGEITGG314"
+        },
+        {
+          "branch_name": "Vallecrosia",
+          "city": "Vallecrosia",
+          "swift_code": "CRGEITGG315"
+        },
+        {
+          "branch_name": "Filiale Di Camporosso",
+          "city": "Camporosso",
+          "swift_code": "CRGEITGG316"
+        },
+        {
+          "branch_name": "18024 Dolcedo",
+          "city": "Dolcedo",
+          "swift_code": "CRGEITGG317"
+        },
+        {
+          "branch_name": "Branch 1",
+          "city": "Sanremo",
+          "swift_code": "CRGEITGG318"
+        },
+        {
+          "branch_name": "Branch 1",
+          "city": "Badalucco",
+          "swift_code": "CRGEITGG319"
+        },
+        {
+          "branch_name": "Dolceacqua",
+          "city": "Dolceacqua",
+          "swift_code": "CRGEITGG320"
+        },
+        {
+          "branch_name": "Branch 3",
+          "city": "Ventimiglia",
+          "swift_code": "CRGEITGG321"
+        },
+        {
+          "branch_name": "Branch 2",
+          "city": "Imperia",
+          "swift_code": "CRGEITGG322"
+        },
+        {
+          "branch_name": "Branch 3",
+          "city": "Sanremo",
+          "swift_code": "CRGEITGG323"
+        },
+        {
+          "branch_name": "Branch 4",
+          "city": "Sanremo",
+          "swift_code": "CRGEITGG324"
+        },
+        {
+          "branch_name": "Branch 2",
+          "city": "Arma Di Taggia (taggia",
+          "swift_code": "CRGEITGG325"
+        },
+        {
+          "branch_name": "Branch 5",
+          "city": "Sanremo",
+          "swift_code": "CRGEITGG326"
+        },
+        {
+          "branch_name": "Riva Ligure",
+          "city": "Riva Ligure",
+          "swift_code": "CRGEITGG327"
+        },
+        {
+          "branch_name": "54011 Aulla",
+          "city": "Aulla",
+          "swift_code": "CRGEITGG349"
+        },
+        {
+          "branch_name": "Finalpia Branch",
+          "city": "Finale Ligure",
+          "swift_code": "CRGEITGG207"
+        },
+        {
+          "branch_name": "Toirano",
+          "city": "Toirano",
+          "swift_code": "CRGEITGG208"
+        },
+        {
+          "branch_name": "Leca Di Albenga Branch",
+          "city": "Albenga",
+          "swift_code": "CRGEITGG209"
+        },
+        {
+          "branch_name": "Santa Corona Branch",
+          "city": "Pietra Ligure",
+          "swift_code": "CRGEITGG210"
+        },
+        {
+          "branch_name": "Quiliano",
+          "city": "Quiliano",
+          "swift_code": "CRGEITGG211"
+        },
+        {
+          "branch_name": "Cairo Montenotte",
+          "city": "Cairo Montenotte",
+          "swift_code": "CRGEITGG213"
+        },
+        {
+          "branch_name": "Villanova Dalbenga",
+          "city": "Villanova D'albenga",
+          "swift_code": "CRGEITGG216"
+        },
+        {
+          "branch_name": "Branch No 1",
+          "city": "Savona",
+          "swift_code": "CRGEITGG218"
+        },
+        {
+          "branch_name": "Branch No 2",
+          "city": "Savona",
+          "swift_code": "CRGEITGG219"
+        },
+        {
+          "branch_name": "Savona",
+          "city": "Savona",
+          "swift_code": "CRGEITGG220"
+        },
+        {
+          "branch_name": "Branch 1",
+          "city": "Loano",
+          "swift_code": "CRGEITGG224"
+        },
+        {
+          "branch_name": "Mercato Ortofrutticolo",
+          "city": "Albenga",
+          "swift_code": "CRGEITGG225"
+        },
+        {
+          "branch_name": "Imperia",
+          "city": "Imperia",
+          "swift_code": "CRGEITGG300"
+        },
+        {
+          "branch_name": "Sanremo",
+          "city": "Sanremo",
+          "swift_code": "CRGEITGG301"
+        },
+        {
+          "branch_name": "Bordighera",
+          "city": "Bordighera",
+          "swift_code": "CRGEITGG302"
+        },
+        {
+          "branch_name": "Pieve Di Teco",
+          "city": "Pieve Di Teco",
+          "swift_code": "CRGEITGG303"
+        },
+        {
+          "branch_name": "Taggia",
+          "city": "Taggia",
+          "swift_code": "CRGEITGG304"
+        },
+        {
+          "branch_name": "Ospedaletti",
+          "city": "Ospedaletti",
+          "swift_code": "CRGEITGG305"
+        },
+        {
+          "branch_name": "Arma Di Taggia (taggia)",
+          "city": "Arma Di Taggia (taggia",
+          "swift_code": "CRGEITGG306"
+        },
+        {
+          "branch_name": "Porto Maurizio Branch",
+          "city": "Imperia",
+          "swift_code": "CRGEITGG307"
+        },
+        {
+          "branch_name": "San Salvatore (cogorno)",
+          "city": "San Salvatore",
+          "swift_code": "CRGEITGG182"
+        },
+        {
+          "branch_name": "Filiale Di Bogliasco",
+          "city": "Bogliasco",
+          "swift_code": "CRGEITGG183"
+        },
+        {
+          "branch_name": "16030 Gattorna (moconesi)",
+          "city": "Gattorna (moconesi",
+          "swift_code": "CRGEITGG184"
+        },
+        {
+          "branch_name": "Branch 1",
+          "city": "Busalla",
+          "swift_code": "CRGEITGG185"
+        },
+        {
+          "branch_name": "Avegno",
+          "city": "Avegno",
+          "swift_code": "CRGEITGG186"
+        },
+        {
+          "branch_name": "Banca Carige Spa-cassa Di Risparmio Di Genova E Imperia",
+          "city": "Genova",
+          "swift_code": "CRGEITGG190"
+        },
+        {
+          "branch_name": "Genova Amt Branch 53",
+          "city": "Genova",
+          "swift_code": "CRGEITGG191"
+        },
+        {
+          "branch_name": "Branch No 51-mercato Carnio",
+          "city": "Genova",
+          "swift_code": "CRGEITGG192"
+        },
+        {
+          "branch_name": "Ospedale Quarto-branch 52",
+          "city": "Genova",
+          "swift_code": "CRGEITGG193"
+        },
+        {
+          "branch_name": "S. Benigno Branch",
+          "city": "Genova",
+          "swift_code": "CRGEITGG195"
+        },
+        {
+          "branch_name": "Corte Lambruschini Branch",
+          "city": "Genova",
+          "swift_code": "CRGEITGG196"
+        },
+        {
+          "branch_name": "Branch No 60",
+          "city": "Genova",
+          "swift_code": "CRGEITGG198"
+        },
+        {
+          "branch_name": "Branch No 61",
+          "city": "Genova",
+          "swift_code": "CRGEITGG199"
+        },
+        {
+          "branch_name": "Albenga",
+          "city": "Albenga",
+          "swift_code": "CRGEITGG200"
+        },
+        {
+          "branch_name": "Alassio",
+          "city": "Alassio",
+          "swift_code": "CRGEITGG201"
+        },
+        {
+          "branch_name": "Finale Ligure Branch",
+          "city": "Finale Ligure",
+          "swift_code": "CRGEITGG202"
+        },
+        {
+          "branch_name": "Varazze",
+          "city": "Varazze",
+          "swift_code": "CRGEITGG203"
+        },
+        {
+          "branch_name": "Loano",
+          "city": "Loano",
+          "swift_code": "CRGEITGG204"
+        },
+        {
+          "branch_name": "Pietra Ligure",
+          "city": "Pietra Ligure",
+          "swift_code": "CRGEITGG205"
+        },
+        {
+          "branch_name": "Branch No 1-pietra Ligure Levante",
+          "city": "Pietra Ligure",
+          "swift_code": "CRGEITGG206"
+        },
+        {
+          "branch_name": "Branch 40",
+          "city": "Genova",
+          "swift_code": "CRGEITGG139"
+        },
+        {
+          "branch_name": "Recco",
+          "city": "Recco",
+          "swift_code": "CRGEITGG140"
+        },
+        {
+          "branch_name": "Santa Margherita Ligure",
+          "city": "Santa Margherita Ligure",
+          "swift_code": "CRGEITGG141"
+        },
+        {
+          "branch_name": "Chiavari",
+          "city": "Chiavari",
+          "swift_code": "CRGEITGG142"
+        },
+        {
+          "branch_name": "Sestri Levante",
+          "city": "Sestri Levante",
+          "swift_code": "CRGEITGG143"
+        },
+        {
+          "branch_name": "Rapallo",
+          "city": "Rapallo",
+          "swift_code": "CRGEITGG144"
+        },
+        {
+          "branch_name": "Rezzoaglio",
+          "city": "Rezzoaglio",
+          "swift_code": "CRGEITGG145"
+        },
+        {
+          "branch_name": "Busalla",
+          "city": "Busalla",
+          "swift_code": "CRGEITGG146"
+        },
+        {
+          "branch_name": "Montoggio",
+          "city": "Montoggio",
+          "swift_code": "CRGEITGG147"
+        },
+        {
+          "branch_name": "Torriglia",
+          "city": "Torriglia",
+          "swift_code": "CRGEITGG148"
+        },
+        {
+          "branch_name": "Campoligure",
+          "city": "Campoligure",
+          "swift_code": "CRGEITGG149"
+        },
+        {
+          "branch_name": "Arenzano",
+          "city": "Arenzano",
+          "swift_code": "CRGEITGG150"
+        },
+        {
+          "branch_name": "Rovegno",
+          "city": "Rovegno",
+          "swift_code": "CRGEITGG151"
+        },
+        {
+          "branch_name": "Ronco Scrivia",
+          "city": "Ronco Scrivia",
+          "swift_code": "CRGEITGG153"
+        },
+        {
+          "branch_name": "Cogoleto",
+          "city": "Cogoleto",
+          "swift_code": "CRGEITGG154"
+        },
+        {
+          "branch_name": "Isola Del Cantone",
+          "city": "Isola Del Cantone",
+          "swift_code": "CRGEITGG155"
+        },
+        {
+          "branch_name": "Camogli",
+          "city": "Camogli",
+          "swift_code": "CRGEITGG156"
+        },
+        {
+          "branch_name": "Rossiglione",
+          "city": "Rossiglione",
+          "swift_code": "CRGEITGG157"
+        },
+        {
+          "branch_name": "Masone",
+          "city": "Masone",
+          "swift_code": "CRGEITGG158"
+        },
+        {
+          "branch_name": "Casella",
+          "city": "Casella",
+          "swift_code": "CRGEITGG159"
+        },
+        {
+          "branch_name": "16023 Fontanigorda",
+          "city": "Fontanigorda",
+          "swift_code": "CRGEITGG160"
+        },
+        {
+          "branch_name": "Sori",
+          "city": "Sori",
+          "swift_code": "CRGEITGG162"
+        },
+        {
+          "branch_name": "Pedemonte Branch",
+          "city": "Pedemonte (serra Ricco'",
+          "swift_code": "CRGEITGG163"
+        },
+        {
+          "branch_name": "Pieve Ligure",
+          "city": "Pieve Ligure",
+          "swift_code": "CRGEITGG164"
+        },
+        {
+          "branch_name": "Savignone",
+          "city": "Savignone",
+          "swift_code": "CRGEITGG165"
+        },
+        {
+          "branch_name": "Branch No 1",
+          "city": "Santa Margherita Ligure",
+          "swift_code": "CRGEITGG166"
+        },
+        {
+          "branch_name": "Tiglieto",
+          "city": "Tiglieto",
+          "swift_code": "CRGEITGG167"
+        },
+        {
+          "branch_name": "Santolcese",
+          "city": "Sant'olcese",
+          "swift_code": "CRGEITGG168"
+        },
+        {
+          "branch_name": "Moconesi",
+          "city": "Moconesi",
+          "swift_code": "CRGEITGG169"
+        },
+        {
+          "branch_name": "Casarza Ligure",
+          "city": "Ligure",
+          "swift_code": "CRGEITGG170"
+        },
+        {
+          "branch_name": "Mignanego",
+          "city": "Mignanego",
+          "swift_code": "CRGEITGG171"
+        },
+        {
+          "branch_name": "Portofino",
+          "city": "Portofino",
+          "swift_code": "CRGEITGG172"
+        },
+        {
+          "branch_name": "Zoagli",
+          "city": "Zoagli",
+          "swift_code": "CRGEITGG173"
+        },
+        {
+          "branch_name": "San Colombano Certenoli",
+          "city": "San Colombano Certenoli",
+          "swift_code": "CRGEITGG174"
+        },
+        {
+          "branch_name": "Bargagli",
+          "city": "Bargagli",
+          "swift_code": "CRGEITGG175"
+        },
+        {
+          "branch_name": "Lavagna",
+          "city": "Lavagna",
+          "swift_code": "CRGEITGG176"
+        },
+        {
+          "branch_name": "Moneglia",
+          "city": "Moneglia",
+          "swift_code": "CRGEITGG177"
+        },
+        {
+          "branch_name": "Branch 1",
+          "city": "Rapallo",
+          "swift_code": "CRGEITGG179"
+        },
+        {
+          "branch_name": "Campomorone",
+          "city": "Campomorone",
+          "swift_code": "CRGEITGG180"
+        },
+        {
+          "branch_name": "Carasco",
+          "city": "Carasco",
+          "swift_code": "CRGEITGG181"
+        },
+        {
+          "branch_name": "Branch N 18",
+          "city": "Genova",
+          "swift_code": "CRGEITGG118"
+        },
+        {
+          "branch_name": "Branch No 19",
+          "city": "Genova",
+          "swift_code": "CRGEITGG119"
+        },
+        {
+          "branch_name": "Branch N 20",
+          "city": "Genova",
+          "swift_code": "CRGEITGG120"
+        },
+        {
+          "branch_name": "Branch N.21",
+          "city": "Genova",
+          "swift_code": "CRGEITGG121"
+        },
+        {
+          "branch_name": "Branch N.22",
+          "city": "Genova",
+          "swift_code": "CRGEITGG122"
+        },
+        {
+          "branch_name": "Branch N.23",
+          "city": "Genova",
+          "swift_code": "CRGEITGG123"
+        },
+        {
+          "branch_name": "Branch No 24",
+          "city": "Genova",
+          "swift_code": "CRGEITGG124"
+        },
+        {
+          "branch_name": "Branch N.25",
+          "city": "Genova",
+          "swift_code": "CRGEITGG125"
+        },
+        {
+          "branch_name": "Branch N.26",
+          "city": "Genova",
+          "swift_code": "CRGEITGG126"
+        },
+        {
+          "branch_name": "Branch N.27",
+          "city": "Genova",
+          "swift_code": "CRGEITGG127"
+        },
+        {
+          "branch_name": "Branch N.28",
+          "city": "Genova",
+          "swift_code": "CRGEITGG128"
+        },
+        {
+          "branch_name": "Branch No 29",
+          "city": "Genova",
+          "swift_code": "CRGEITGG129"
+        },
+        {
+          "branch_name": "Branch No 30",
+          "city": "Genova",
+          "swift_code": "CRGEITGG130"
+        },
+        {
+          "branch_name": "Branch No 31",
+          "city": "Genova",
+          "swift_code": "CRGEITGG131"
+        },
+        {
+          "branch_name": "Branch N. 32",
+          "city": "Genova",
+          "swift_code": "CRGEITGG132"
+        },
+        {
+          "branch_name": "Branch No 33",
+          "city": "Genova",
+          "swift_code": "CRGEITGG133"
+        },
+        {
+          "branch_name": "Branch No 34",
+          "city": "Genova",
+          "swift_code": "CRGEITGG134"
+        },
+        {
+          "branch_name": "Branch No 43-palazzo Giustizia",
+          "city": "Genova",
+          "swift_code": "CRGEITGG136"
+        },
+        {
+          "branch_name": "Ansaldo Branch",
+          "city": "Genova",
+          "swift_code": "CRGEITGG137"
+        },
+        {
+          "branch_name": "Branch No 58-istituto Gaslini",
+          "city": "Genova",
+          "swift_code": "CRGEITGG138"
+        },
+        {
+          "branch_name": "Branch No 38-ospedale Sampierdarena",
+          "city": "Genova",
+          "swift_code": "CRGEITGG094"
+        },
+        {
+          "branch_name": "Branch No 46 Comune Di Genova",
+          "city": "Genova",
+          "swift_code": "CRGEITGG098"
+        },
+        {
+          "branch_name": "Branch No 51-ospedale Galliera",
+          "city": "Genova",
+          "swift_code": "CRGEITGG099"
+        },
+        {
+          "branch_name": "Branch N 1",
+          "city": "Genova",
+          "swift_code": "CRGEITGG101"
+        },
+        {
+          "branch_name": "Branch No 2",
+          "city": "Genova",
+          "swift_code": "CRGEITGG102"
+        },
+        {
+          "branch_name": "Branch N 3",
+          "city": "Genova",
+          "swift_code": "CRGEITGG103"
+        },
+        {
+          "branch_name": "Branch N 4",
+          "city": "Genova",
+          "swift_code": "CRGEITGG104"
+        },
+        {
+          "branch_name": "Branch N 5",
+          "city": "Genova",
+          "swift_code": "CRGEITGG105"
+        },
+        {
+          "branch_name": "Branch N 6",
+          "city": "Genova",
+          "swift_code": "CRGEITGG106"
+        },
+        {
+          "branch_name": "Branch N 7",
+          "city": "Genova",
+          "swift_code": "CRGEITGG107"
+        },
+        {
+          "branch_name": "Branch N 8",
+          "city": "Genova",
+          "swift_code": "CRGEITGG108"
+        },
+        {
+          "branch_name": "Branch N 9",
+          "city": "Genova",
+          "swift_code": "CRGEITGG109"
+        },
+        {
+          "branch_name": "Branch N 10",
+          "city": "Genova",
+          "swift_code": "CRGEITGG110"
+        },
+        {
+          "branch_name": "Branch N 11",
+          "city": "Genova",
+          "swift_code": "CRGEITGG111"
+        },
+        {
+          "branch_name": "Branch N 12",
+          "city": "Genova",
+          "swift_code": "CRGEITGG112"
+        },
+        {
+          "branch_name": "Branch N 13",
+          "city": "Genova",
+          "swift_code": "CRGEITGG113"
+        },
+        {
+          "branch_name": "Branch No 14",
+          "city": "Genova",
+          "swift_code": "CRGEITGG114"
+        },
+        {
+          "branch_name": "Branch 15",
+          "city": "Genova",
+          "swift_code": "CRGEITGG115"
+        },
+        {
+          "branch_name": "Branch N 16",
+          "city": "Genova",
+          "swift_code": "CRGEITGG116"
+        },
+        {
+          "branch_name": "Branch No 17",
+          "city": "Genova",
+          "swift_code": "CRGEITGG117"
+        },
+        {
+          "branch_name": "Branch 67",
+          "city": "Genova",
+          "swift_code": "CRGEITGG438"
+        },
+        {
+          "branch_name": "Branch 65",
+          "city": "Genova",
+          "swift_code": "CRGEITGG439"
+        },
+        {
+          "branch_name": "Branch 2",
+          "city": "Rapallo",
+          "swift_code": "CRGEITGG440"
+        },
+        {
+          "branch_name": "Branch 62",
+          "city": "Genova",
+          "swift_code": "CRGEITGG441"
+        },
+        {
+          "branch_name": "Branch 77",
+          "city": "Genova",
+          "swift_code": "CRGEITGG442"
+        },
+        {
+          "branch_name": "Branch 1",
+          "city": "Sestri Levante",
+          "swift_code": "CRGEITGG443"
+        },
+        {
+          "branch_name": "Branch 63",
+          "city": "Genova",
+          "swift_code": "CRGEITGG444"
+        },
+        {
+          "branch_name": "Branch 45",
+          "city": "Genova",
+          "swift_code": "CRGEITGG445"
+        },
+        {
+          "branch_name": "Branch 37",
+          "city": "Genova",
+          "swift_code": "CRGEITGG447"
+        },
+        {
+          "branch_name": "Branch 55",
+          "city": "Genova",
+          "swift_code": "CRGEITGG448"
+        },
+        {
+          "branch_name": "Branch 57",
+          "city": "Genova",
+          "swift_code": "CRGEITGG449"
+        },
+        {
+          "branch_name": "Branch 84",
+          "city": "Genova",
+          "swift_code": "CRGEITGG454"
+        },
+        {
+          "branch_name": "Branch 85",
+          "city": "Genova",
+          "swift_code": "CRGEITGG455"
+        },
+        {
+          "branch_name": "Genova Branch 86",
+          "city": "Genova",
+          "swift_code": "CRGEITGG456"
+        },
+        {
+          "branch_name": "Via Pisa Branch 87",
+          "city": "Genova",
+          "swift_code": "CRGEITGG457"
+        },
+        {
+          "branch_name": "Branch 88",
+          "city": "Genova",
+          "swift_code": "CRGEITGG458"
+        },
+        {
+          "branch_name": "Back-office Estero, Team 1",
+          "city": "Genova",
+          "swift_code": "CRGEITGG931"
+        },
+        {
+          "branch_name": "Back-office Estero, Team 2",
+          "city": "Genova",
+          "swift_code": "CRGEITGG932"
+        },
+        {
+          "branch_name": "Back-office Estero, Team 3",
+          "city": "Genova",
+          "swift_code": "CRGEITGG933"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Genova",
+          "swift_code": "CRGEITGGXXX"
+        },
+        {
+          "branch_name": "16025 Montebruno",
+          "city": "Montebruno",
+          "swift_code": "CRGEITGG415"
+        },
+        {
+          "branch_name": "16022 Davagna",
+          "city": "Davagna",
+          "swift_code": "CRGEITGG416"
+        },
+        {
+          "branch_name": "Branch 78",
+          "city": "Genova",
+          "swift_code": "CRGEITGG418"
+        },
+        {
+          "branch_name": "Branch 79",
+          "city": "Genova",
+          "swift_code": "CRGEITGG419"
+        },
+        {
+          "branch_name": "Branch 80",
+          "city": "Genova",
+          "swift_code": "CRGEITGG420"
+        },
+        {
+          "branch_name": "Branch 81",
+          "city": "Genova",
+          "swift_code": "CRGEITGG421"
+        },
+        {
+          "branch_name": "Branch 82",
+          "city": "Genova",
+          "swift_code": "CRGEITGG422"
+        },
+        {
+          "branch_name": "Branch 83",
+          "city": "Genova",
+          "swift_code": "CRGEITGG423"
+        },
+        {
+          "branch_name": "Branch No 75",
+          "city": "Genova",
+          "swift_code": "CRGEITGG425"
+        },
+        {
+          "branch_name": "Branch 76",
+          "city": "Genova",
+          "swift_code": "CRGEITGG426"
+        },
+        {
+          "branch_name": "Branch 68",
+          "city": "Genova",
+          "swift_code": "CRGEITGG428"
+        },
+        {
+          "branch_name": "Branch 69",
+          "city": "Genova",
+          "swift_code": "CRGEITGG429"
+        },
+        {
+          "branch_name": "Branch 70",
+          "city": "Genova",
+          "swift_code": "CRGEITGG430"
+        },
+        {
+          "branch_name": "Branch 71",
+          "city": "Genova",
+          "swift_code": "CRGEITGG431"
+        },
+        {
+          "branch_name": "Branch 72",
+          "city": "Genova",
+          "swift_code": "CRGEITGG432"
+        },
+        {
+          "branch_name": "Branch 73",
+          "city": "Genova",
+          "swift_code": "CRGEITGG433"
+        },
+        {
+          "branch_name": "Branch 1",
+          "city": "Chiavari",
+          "swift_code": "CRGEITGG434"
+        },
+        {
+          "branch_name": "Branch 1",
+          "city": "Lavagna",
+          "swift_code": "CRGEITGG435"
+        },
+        {
+          "branch_name": "Branch 66",
+          "city": "Genova",
+          "swift_code": "CRGEITGG436"
+        },
+        {
+          "branch_name": "Branch 64",
+          "city": "Genova",
+          "swift_code": "CRGEITGG437"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional De Cuba",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BNACESM1XXX"
+        },
+        {
+          "branch_name": "Division Central",
+          "city": "La Habana",
+          "swift_code": "BNACCUHH011"
+        },
+        {
+          "branch_name": "Division Comercial",
+          "city": "La Habana",
+          "swift_code": "BNACCUHH613"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "La Habana",
+          "swift_code": "BNACCUHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "B.i. Capital A.v.b., S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CATBESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "B. And T. Asociados Financieros, S.a., S.v.b.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ASFIESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Axesor Conocer Para Decidir Sa Axesor",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Armilla Granada",
+          "swift_code": "ACDAES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Axa Seguros Generales, Sa De Seguros Y Reseguros",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "AXIPESBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Axa Mediterranean Services",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "AXMSESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Axa Ibercapital",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "AXIBESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Axa Aurora Vida",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bilbao",
+          "swift_code": "AXAVES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Auriga Global Investors Sociedad De Valores, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ASSVESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atl 12 Capital Inversiones Av, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ATCVESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Associates Capital Corporation Plc Sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ASSCESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arteche Lantegi Elkartea S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mungia",
+          "swift_code": "ARLEES2BXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arquia Gestion",
+      "branches": [
+        {
+          "branch_name": "Arquia Gestion",
+          "city": "Barcelona",
+          "swift_code": "ARGEESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aribau Productos S L",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "LOCAESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Applus Servicios Tecnologicos,s.l.u",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cerdanyola Del Valles",
+          "swift_code": "APSTES22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Andino, Agencia De Valores Y Bolsa, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ANDOESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "American Express Company Of Spain",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "AMESESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Altura Markets, S.a, S.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ALMTESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Almirall, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "PFPFESBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "All Trading Brokers Europe, A.v., S.a.u.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ATBEESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Sbs-agro",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "STOLESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Privado Portugues, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BPPOESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Pichincha",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "PIESESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Mediolanum, S.a.",
+      "branches": [
+        {
+          "branch_name": "Madrid",
+          "city": "Madrid",
+          "swift_code": "BFIVESB10MM"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Industrial De Cataluna, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "INALESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Grupo Cajatres",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Burgos",
+          "swift_code": "TRESES21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Burgos",
+          "swift_code": "TRESES2BXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Fimestic S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "FIEIESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Esfinge S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ESFIESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Do Brasil Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BRASESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Las Activ. Economicas Exteriores (vnesheconombank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "AEEVESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Desarrollo Economico Espanol",
+      "branches": [
+        {
+          "branch_name": "08007 Barcelona",
+          "city": "Barcelona",
+          "swift_code": "DEEEESM10BB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "DEEEESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Barcelona, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BAROESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Consolidado Espana, S.a..",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CONSESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Condal, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BCNDESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Comercial Portugues S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BCOMESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Comercial Most Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "MOSTESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Canarias De Venezuela, Ca",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santa Cruz De Tenerife",
+          "swift_code": "BOCAES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bilbao Vizcaya Argentaria S.a.",
+      "branches": [
+        {
+          "branch_name": "Gestoras De Renta Fija",
+          "city": "Madrid",
+          "swift_code": "BBVAESM1CTM"
+        },
+        {
+          "branch_name": "Equity Executions Confirmations Nsv Ctm",
+          "city": "Madrid",
+          "swift_code": "BBVAESM1CTX"
+        },
+        {
+          "branch_name": "Middle Office Renta Variable",
+          "city": "Madrid",
+          "swift_code": "BBVAESM1RMS"
+        },
+        {
+          "branch_name": "Cliente Multipais",
+          "city": "Madrid",
+          "swift_code": "BBVAESMMCMP"
+        },
+        {
+          "branch_name": "Madrid",
+          "city": "Madrid",
+          "swift_code": "BBVAESMMREL"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Alicantino De Comercio S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ALCIESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Cr\u00e9dito Social Cooperativo, S.A.",
+      "branches": [
+        {
+          "branch_name": "Banco De Cr\u00e9dito Social Cooperativo, S.A.",
+          "city": null,
+          "swift_code": "BCCAESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Castilla-La Mancha, S.A.",
+      "branches": [
+        {
+          "branch_name": "Cuenca",
+          "city": "Cuenca",
+          "swift_code": "CECAESMM105"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Albacete, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "ALACESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Cooperativo Espanol S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BCOEESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Caminos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CCOCESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Santander Consumer Finance, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "SCFBESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Landesbank Hessen-Thueringen Girozentrale",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "HELAESM1XXX"
+        },
+        {
+          "branch_name": "64283 Darmstadt",
+          "city": "Darmstadt",
+          "swift_code": "HELADEFF508"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Frankfurt Am Main",
+          "swift_code": "HELADEFFXXX"
+        },
+        {
+          "branch_name": "Frankfurt Branch",
+          "city": "Frankfurt Am Main",
+          "swift_code": "HELADEF1CB1"
+        },
+        {
+          "branch_name": "Frankfurt Am Main",
+          "city": "Frankfurt Am Main",
+          "swift_code": "HELADEFFGC1"
+        }
+      ]
+    },
+    {
+      "bank_name": "Efg Bank (Luxembourg) S.A., Sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "EFGBESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De Aragon, Sociedad Cooperativa De Credito",
+      "branches": [
+        {
+          "branch_name": "50003 Zaragoza",
+          "city": null,
+          "swift_code": "BCOEESMM191"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa Rural Lalcora",
+      "branches": [
+        {
+          "branch_name": "12110 Alcora",
+          "city": "Alcora",
+          "swift_code": "BCOEESMM113"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Inversis Net, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "INVLESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Industrial De Bilbao, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "INBBESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Gallego",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "La Coruna (A Coruna)",
+          "swift_code": "GALEES2GXXX"
+        },
+        {
+          "branch_name": "Ferrol",
+          "city": "Ferrol",
+          "swift_code": "GALEES2102F"
+        },
+        {
+          "branch_name": "Lugo",
+          "city": "Lugo",
+          "swift_code": "GALEES2102L"
+        },
+        {
+          "branch_name": "Muros",
+          "city": "Muros",
+          "swift_code": "GALEES2102M"
+        },
+        {
+          "branch_name": "Pontevedra",
+          "city": "Pontevedra",
+          "swift_code": "GALEES2102P"
+        },
+        {
+          "branch_name": "Orense",
+          "city": "Orense",
+          "swift_code": "GALEES2102R"
+        },
+        {
+          "branch_name": "Santiago De Compostela",
+          "city": "Santiago De Compostela",
+          "swift_code": "GALEES2102S"
+        },
+        {
+          "branch_name": "Vigo",
+          "city": "Vigo",
+          "swift_code": "GALEES2102V"
+        },
+        {
+          "branch_name": "Madrid Branch",
+          "city": "Madrid",
+          "swift_code": "GALEES210MM"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Finantia Sofinloc, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "FIOFESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Financiero Y De Ahorros Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BFASESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Europeo De Finanzas, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "BEDFESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Etcheverria S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "La Coruna (A Coruna)",
+          "swift_code": "ETCHES2GXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Espirito Santo, Spain Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BESMESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Espirito Santo Investimento Sucursal Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ESSIESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Espanol De Credito",
+      "branches": [
+        {
+          "branch_name": "Madrid And All Spanish Offices",
+          "city": "Madrid",
+          "swift_code": "ESPCESMMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Paris",
+          "swift_code": "ESPCFRP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Depositario Bbva, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BVADESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Sabadell S.A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sabadell",
+          "swift_code": "BSABESBBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "BSABGB2LXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Miami,Fl",
+          "swift_code": "BSABUS3XXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Casablanca",
+          "swift_code": "BSABMAMCXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "BSABPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Promoci\u00f3n De Negocios, S.A. (Promobanc)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PRNEESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Madrid S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "MADRESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De La Nacion Argentina, Sucursal Madrid",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "NACNESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Finanzas E Inversiones S.A. (Fibanc)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "BFIVESBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Espana",
+      "branches": [
+        {
+          "branch_name": "Asi",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMASI"
+        },
+        {
+          "branch_name": "Aym",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMAYM"
+        },
+        {
+          "branch_name": "C01",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMC01"
+        },
+        {
+          "branch_name": "C02",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMC02"
+        },
+        {
+          "branch_name": "C02",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMC03"
+        },
+        {
+          "branch_name": "C03",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMC04"
+        },
+        {
+          "branch_name": "C04",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMC05"
+        },
+        {
+          "branch_name": "C06",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMC06"
+        },
+        {
+          "branch_name": "C07",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMC07"
+        },
+        {
+          "branch_name": "C08",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMC08"
+        },
+        {
+          "branch_name": "C09",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMC09"
+        },
+        {
+          "branch_name": "C10",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMC10"
+        },
+        {
+          "branch_name": "C11",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMC11"
+        },
+        {
+          "branch_name": "C12",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMC12"
+        },
+        {
+          "branch_name": "C13",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMC13"
+        },
+        {
+          "branch_name": "Foreign Operations Back Office",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMECB"
+        },
+        {
+          "branch_name": "Interncb",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMEUX"
+        },
+        {
+          "branch_name": "Fade",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMFAD"
+        },
+        {
+          "branch_name": "Fge",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMFGE"
+        },
+        {
+          "branch_name": "Fgs",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMFGS"
+        },
+        {
+          "branch_name": "Fgt",
+          "city": "Madrid",
+          "swift_code": "ESPBESM1FGT"
+        },
+        {
+          "branch_name": "Ofi",
+          "city": "Madrid",
+          "swift_code": "ESPBESM1OFI"
+        },
+        {
+          "branch_name": "Trd",
+          "city": "Madrid",
+          "swift_code": "ESPBESM1TRD"
+        },
+        {
+          "branch_name": "C14",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMC14"
+        },
+        {
+          "branch_name": "C15",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMC15"
+        },
+        {
+          "branch_name": "Cgg",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMCGG"
+        },
+        {
+          "branch_name": "Ffa",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMFFA"
+        },
+        {
+          "branch_name": "Madrid",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMFPP"
+        },
+        {
+          "branch_name": "Occ",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMOCC"
+        },
+        {
+          "branch_name": "Fgb",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMFGB"
+        },
+        {
+          "branch_name": "Banco De Espana Faa",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMFAA"
+        },
+        {
+          "branch_name": "Madrid",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMFGC"
+        },
+        {
+          "branch_name": "Frob",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMFRB"
+        },
+        {
+          "branch_name": "Gar",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMGAR"
+        },
+        {
+          "branch_name": "Madrid",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMHIT"
+        },
+        {
+          "branch_name": "Mid",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMMID"
+        },
+        {
+          "branch_name": "Reserve Management Services",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMRMS"
+        },
+        {
+          "branch_name": "Banco De Espana",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMSDD"
+        },
+        {
+          "branch_name": "Banco De Espana",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMSTE"
+        },
+        {
+          "branch_name": "Tca",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMTCA"
+        },
+        {
+          "branch_name": "Tec",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMTEC"
+        },
+        {
+          "branch_name": "Tfp 9049",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMTFP"
+        },
+        {
+          "branch_name": "Tlc",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMTLC"
+        },
+        {
+          "branch_name": "Banco De Espana",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMTSS"
+        },
+        {
+          "branch_name": "Tte",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMTTE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ESPBESMMXXX"
+        },
+        {
+          "branch_name": "Aad",
+          "city": null,
+          "swift_code": "ESPBESM1AAD"
+        },
+        {
+          "branch_name": "Amf",
+          "city": "Madrid",
+          "swift_code": "ESPBESM1AMF"
+        },
+        {
+          "branch_name": "Cbe",
+          "city": "Madrid",
+          "swift_code": "ESPBESM1CBE"
+        },
+        {
+          "branch_name": "Cdi",
+          "city": "Madrid",
+          "swift_code": "ESPBESM1CDI"
+        },
+        {
+          "branch_name": "Madrid",
+          "city": "Madrid",
+          "swift_code": "ESPBESM1CPM"
+        },
+        {
+          "branch_name": "Egd",
+          "city": "Madrid",
+          "swift_code": "ESPBESM1EGD"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Dep\u00f3sitos, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "BDEPESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Psa Finance, S.E.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PSABESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Privee Edmond De Rothschild Europe, Sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "PRIBESMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Marocaine Du Commerce Exterieur International, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BMCEESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Chaabi Du Maroc Sucursal Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BCDMESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankoa S.A. Credit Agricole",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Sebastian",
+          "swift_code": "BKOAES22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankinter, S.A.",
+      "branches": [
+        {
+          "branch_name": "Alicante",
+          "city": "Alicante",
+          "swift_code": "BKBKESMMALI"
+        },
+        {
+          "branch_name": "Barcelona",
+          "city": "Barcelona",
+          "swift_code": "BKBKESMMBAR"
+        },
+        {
+          "branch_name": "Bilbao",
+          "city": "Bilbao",
+          "swift_code": "BKBKESMMBIL"
+        },
+        {
+          "branch_name": "Las Palmas De Gran Canaria",
+          "city": "Las Palmas De Gran Canaria",
+          "swift_code": "BKBKESMMLPS"
+        },
+        {
+          "branch_name": "Malaga",
+          "city": "Malaga",
+          "swift_code": "BKBKESMMMAL"
+        },
+        {
+          "branch_name": "Back Office Tesoreria-arbitrajes",
+          "city": "Madrid",
+          "swift_code": "BKBKESMMBAC"
+        },
+        {
+          "branch_name": "Funds Department",
+          "city": "Madrid",
+          "swift_code": "BKBKESMMFON"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BKBKESMMXXX"
+        },
+        {
+          "branch_name": "Murcia",
+          "city": "Murcia",
+          "swift_code": "BKBKESMMMUR"
+        },
+        {
+          "branch_name": "Pamplona",
+          "city": "Pamplona",
+          "swift_code": "BKBKESMMNAV"
+        },
+        {
+          "branch_name": "Palma De Mallorca",
+          "city": "Palma De Mallorca",
+          "swift_code": "BKBKESMMPAL"
+        },
+        {
+          "branch_name": "Santa Cruz De Tenerife",
+          "city": "Santa Cruz De Tenerife",
+          "swift_code": "BKBKESMMTEN"
+        },
+        {
+          "branch_name": "San Sebastian",
+          "city": "San Sebastian",
+          "swift_code": "BKBKESMMSSE"
+        },
+        {
+          "branch_name": "Santander",
+          "city": "Santander",
+          "swift_code": "BKBKESMMSAN"
+        },
+        {
+          "branch_name": "Sevilla",
+          "city": "Sevilla",
+          "swift_code": "BKBKESMMSEV"
+        },
+        {
+          "branch_name": "Valencia",
+          "city": "Valencia",
+          "swift_code": "BKBKESMMVAL"
+        },
+        {
+          "branch_name": "Vigo",
+          "city": "Vigo",
+          "swift_code": "BKBKESMMVIG"
+        },
+        {
+          "branch_name": "Zaragoza",
+          "city": "Zaragoza",
+          "swift_code": "BKBKESMMZAR"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankia S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Valencia",
+          "swift_code": "CAHMESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of America N.A. Madrid",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BOFAES2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bancopopular-E S.A.",
+      "branches": [
+        {
+          "branch_name": "Bancopopular-E S.A.",
+          "city": "Madrid",
+          "swift_code": "POPLESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bancofar, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "BAOFESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Santander S.A.",
+      "branches": [
+        {
+          "branch_name": "Santander Madrid Cls Control Branch",
+          "city": "Madrid",
+          "swift_code": "BSCHESMMCLS"
+        },
+        {
+          "branch_name": "All Spain Branches",
+          "city": "Madrid",
+          "swift_code": "BSCHESMMXXX"
+        },
+        {
+          "branch_name": "Equities",
+          "city": "London",
+          "swift_code": "BSCHGB2LEQU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "BSCHGB2LXXX"
+        },
+        {
+          "branch_name": "Paris",
+          "city": "Paris",
+          "swift_code": "BSCHFRPPBF1"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Paris",
+          "swift_code": "BSCHFRPPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Frankfurt Am Main",
+          "swift_code": "BSCHDEFFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Santander S.A Ciudad Grupo Santander.Edf.Pampa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BSCHESMGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Portugu\u00eas De Investimento, S.A., S.E.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "BPIPESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Popular Espanol, S.A.",
+      "branches": [
+        {
+          "branch_name": "Barcelona",
+          "city": "Barcelona",
+          "swift_code": "POPUESMMBAR"
+        },
+        {
+          "branch_name": "Securities",
+          "city": "Madrid",
+          "swift_code": "POPUESMMBOL"
+        },
+        {
+          "branch_name": "Cash Management",
+          "city": "Madrid",
+          "swift_code": "POPUESMMCMG"
+        },
+        {
+          "branch_name": "Red Exterior Department",
+          "city": "Madrid",
+          "swift_code": "POPUESMMREX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "POPUESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Pichincha Espa\u00f1a, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PICHESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Pastor S.A.",
+      "branches": [
+        {
+          "branch_name": "08007 Barcelona",
+          "city": "Barcelona",
+          "swift_code": "PSTRESMMBAR"
+        },
+        {
+          "branch_name": "48009 Bilbao",
+          "city": "Bilbao",
+          "swift_code": "PSTRESMMBIL"
+        },
+        {
+          "branch_name": "15003 La Coruna (a Coruna)",
+          "city": "La Coruna (A Coruna)",
+          "swift_code": "PSTRESMMLCO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "La Coruna (A Coruna)",
+          "swift_code": "PSTRESMMXXX"
+        },
+        {
+          "branch_name": "46002 Valencia",
+          "city": "Valencia",
+          "swift_code": "PSTRESMMVAL"
+        },
+        {
+          "branch_name": "Vigo",
+          "city": "Vigo",
+          "swift_code": "PSTRESMMVGO"
+        },
+        {
+          "branch_name": "Zaragoza",
+          "city": "Zaragoza",
+          "swift_code": "PSTRESMMZAR"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Occidental, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "OCBAESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Mare Nostrum, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "GBMNESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa Rural Galega",
+      "branches": [
+        {
+          "branch_name": "Lugo",
+          "city": "Lugo",
+          "swift_code": "BCOEESMM070"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa Rural Albalat Dels Sorells",
+      "branches": [
+        {
+          "branch_name": "46135 Albalat Dels Sorells",
+          "city": "Albalat Dels Sorells",
+          "swift_code": "CCRIES2A186"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa R.S.Josep De Vilavella Sccv",
+      "branches": [
+        {
+          "branch_name": "Villavieja",
+          "city": null,
+          "swift_code": "CCRIES2A160"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa R. De Turis, C.C.V",
+      "branches": [
+        {
+          "branch_name": "46389 Turis",
+          "city": "Turis",
+          "swift_code": "CCRIES2A123"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa R. De Callosa De En Sarria Ccv",
+      "branches": [
+        {
+          "branch_name": "Callosa De Ensarria",
+          "city": null,
+          "swift_code": "CCRIES2A105"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa Popular Caixa Rural",
+      "branches": [
+        {
+          "branch_name": "46980 Paterna",
+          "city": "Paterna",
+          "swift_code": "BCOEESMM159"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa Geral De Dep\u00f3sitos, S.A., S.E.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "CGDIES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa Destalvis Del Penedes",
+      "branches": [
+        {
+          "branch_name": "Barcelona",
+          "city": "Vilafranca Del Penedes",
+          "swift_code": "CECAESMM081"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa Destalvis De Catalunya, Tarragona I Manresa(Catalunyacaixa)",
+      "branches": [
+        {
+          "branch_name": "Credit Management",
+          "city": "Barcelona",
+          "swift_code": "CESCESBB008"
+        },
+        {
+          "branch_name": "Treasury Department",
+          "city": "Barcelona",
+          "swift_code": "CESCESBB544"
+        },
+        {
+          "branch_name": "Back Office Internacional",
+          "city": "Barcelona",
+          "swift_code": "CESCESBB571"
+        },
+        {
+          "branch_name": "Bke Department",
+          "city": "Barcelona",
+          "swift_code": "CESCESBB600"
+        },
+        {
+          "branch_name": "Main Branch",
+          "city": "Barcelona",
+          "swift_code": "CESCESBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credit Dels. Enginyers-Caja De Credito De Los Ingenieros Soc. Coop. De Credito",
+      "branches": [
+        {
+          "branch_name": "Pruebas Tesoria",
+          "city": "Barcelona",
+          "swift_code": "CDENESBBTES"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "CDENESBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "C.M. Capital Markets Bolsa Sociedad De Valores, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CAPIESMMXXX"
+        },
+        {
+          "branch_name": "Brokerage Services",
+          "city": "Madrid",
+          "swift_code": "CAPIESMMBKR"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Securities Services, Spain",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "PARBESMHXXX"
+        },
+        {
+          "branch_name": "Madrid",
+          "city": "Madrid",
+          "swift_code": "PARBESMXFDA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "PARBESMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas S.A. Sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BNPAESMHXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BNPAESMSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Espana, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BNPAESMMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BNPAESMZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bilbao Bizkaia Kutxa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bilbao",
+          "swift_code": "BASKES2BXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bigbank As Consumer Finance, Sucursal En Espa\u00f1a",
+      "branches": [
+        {
+          "branch_name": "Bigbank As Consumer Finance, Sucursal En Espa\u00f1a",
+          "city": null,
+          "swift_code": "BIGKESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bbva Banco De Financiaci\u00f3n, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "BBFIES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Bank S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BARCESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De Almendralejo, Scc",
+      "branches": [
+        {
+          "branch_name": "Almendralejo",
+          "city": null,
+          "swift_code": "CCRIES2A001"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural Catolico Agraria",
+      "branches": [
+        {
+          "branch_name": "Villarreal",
+          "city": null,
+          "swift_code": "CCRIES2A110"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Laboral Popular, Coop. De Credito (Caja Laboral)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mondragon",
+          "swift_code": "CLPEES2MXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja General De Ahorros De Granada",
+      "branches": [
+        {
+          "branch_name": "Granada",
+          "city": "Granada",
+          "swift_code": "CECAESMM031"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Espana De Inversiones, Salamanca Y Soria, Camp",
+      "branches": [
+        {
+          "branch_name": "24002 Leon",
+          "city": "Leon",
+          "swift_code": "CSPAES2L108"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Leon",
+          "swift_code": "CSPAES2LXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja De Credito De Petrel,C.R.,Ccv",
+      "branches": [
+        {
+          "branch_name": "03610 Petrel",
+          "city": "Petrel",
+          "swift_code": "CCRIES2A029"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja De Cr\u00e9dito Cooperativo, S.C.C.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "CCCVESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja De Arquitectos S.Coop.De Credito",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "CASDESBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja De Ahorros Y Monte De Piedad Del Circulo Catolico De Obreros De Burgos",
+      "branches": [
+        {
+          "branch_name": "09005 Burgos",
+          "city": "Burgos",
+          "swift_code": "CECAESMM017"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja De Ahorros Y Monte De Piedad De Ontinyent",
+      "branches": [
+        {
+          "branch_name": "Valencia",
+          "city": "Ontinyent",
+          "swift_code": "CECAESMM045"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja De Ahorros Y Monte De Piedad De Las Baleares",
+      "branches": [
+        {
+          "branch_name": "07001 Palma De Mallorca",
+          "city": "Palma De Mallorca",
+          "swift_code": "CECAESMM051"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja De Ahorros Y Monte De Piedad De Extremadura",
+      "branches": [
+        {
+          "branch_name": "10003 Caceres",
+          "city": "Caceres",
+          "swift_code": "CECAESMM099"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja De Ahorros De Santander Y Cantabria",
+      "branches": [
+        {
+          "branch_name": "39001 Santander",
+          "city": "Santander",
+          "swift_code": "CECAESMM066"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja De Ahorros De Salamanca Y Soria (Caja Duero)",
+      "branches": [
+        {
+          "branch_name": "Financial Department",
+          "city": "Madrid",
+          "swift_code": "CSSOES2SFIN"
+        },
+        {
+          "branch_name": "Treasury Department",
+          "city": "Madrid",
+          "swift_code": "CSSOES2STRE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Salamanca",
+          "swift_code": "CSSOES2SXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja De Ahorros De Pollensa",
+      "branches": [
+        {
+          "branch_name": "Baleares",
+          "city": "Pollensa",
+          "swift_code": "CECAESMM056"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja De Ahorros De Murcia",
+      "branches": [
+        {
+          "branch_name": "30005 Murcia",
+          "city": "Murcia",
+          "swift_code": "CECAESMM043"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja De Ahorros De La Inmaculada De Aragon",
+      "branches": [
+        {
+          "branch_name": "50004 Zaragoza",
+          "city": "Zaragoza",
+          "swift_code": "CECAESMM086"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixabank, S.A.",
+      "branches": [
+        {
+          "branch_name": "Main Branch",
+          "city": "Barcelona",
+          "swift_code": "CAIXESBBXXX"
+        },
+        {
+          "branch_name": "48009 Bilbao",
+          "city": "Bilbao",
+          "swift_code": "CAIXESBB609"
+        },
+        {
+          "branch_name": "17001 Gerona (girona)",
+          "city": "Gerona (Girona)",
+          "swift_code": "CAIXESBB655"
+        },
+        {
+          "branch_name": "35007 Las Palmas De Gran Canaria",
+          "city": "Las Palmas De Gran Canaria",
+          "swift_code": "CAIXESBB521"
+        },
+        {
+          "branch_name": "25007 Lerida (lleida)",
+          "city": "Lerida (Lleida)",
+          "swift_code": "CAIXESBB654"
+        },
+        {
+          "branch_name": "Madrid Territorial",
+          "city": "Madrid",
+          "swift_code": "CAIXESBBMAD"
+        },
+        {
+          "branch_name": "07002 Palma De Mallorca",
+          "city": "Palma De Mallorca",
+          "swift_code": "CAIXESBB652"
+        },
+        {
+          "branch_name": "38003 Santa Cruz De Tenerife",
+          "city": "Santa Cruz De Tenerife",
+          "swift_code": "CAIXESBB523"
+        },
+        {
+          "branch_name": "43001 Tarragona",
+          "city": "Tarragona",
+          "swift_code": "CAIXESBBTAR"
+        },
+        {
+          "branch_name": "41011 Sevilla",
+          "city": "Sevilla",
+          "swift_code": "CAIXESBB661"
+        },
+        {
+          "branch_name": "46002 Valencia",
+          "city": "Valencia",
+          "swift_code": "CAIXESBB666"
+        },
+        {
+          "branch_name": "50001 Zaragoza",
+          "city": "Zaragoza",
+          "swift_code": "CAIXESBB528"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa Rural Torrent, C.C.V.",
+      "branches": [
+        {
+          "branch_name": "Torrent",
+          "city": null,
+          "swift_code": "CCRIES2A118"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ebn Banco De Negocios,S.A.(Ebn Banco)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "PROAESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dz Bank Ag Deutsche Zentral Genossenschaftsbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "GENOESM1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "GENOGB2LXXX"
+        },
+        {
+          "branch_name": "10117 Berlin",
+          "city": "Berlin",
+          "swift_code": "GENODEFF120"
+        },
+        {
+          "branch_name": "Frankfurt Am Main",
+          "city": "Frankfurt Am Main",
+          "swift_code": "GENODEFFBEG"
+        },
+        {
+          "branch_name": "Frankfurt Am Main",
+          "city": "Frankfurt Am Main",
+          "swift_code": "GENODEFFBSC"
+        },
+        {
+          "branch_name": "Unicash",
+          "city": "Frankfurt Am Main",
+          "swift_code": "GENODEFFEBL"
+        },
+        {
+          "branch_name": "Security Markets",
+          "city": "Frankfurt Am Main",
+          "swift_code": "GENODEFFSMK"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Frankfurt Am Main",
+          "swift_code": "GENODEFFXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Frankfurt Am Main",
+          "swift_code": "GENODE55XXX"
+        },
+        {
+          "branch_name": "30175 Hannover",
+          "city": "Hannover",
+          "swift_code": "GENODEFF250"
+        },
+        {
+          "branch_name": "34117 Kassel",
+          "city": "Kassel",
+          "swift_code": "GENODEFF520"
+        },
+        {
+          "branch_name": "80333 Muenchen",
+          "city": "Muenchen",
+          "swift_code": "GENODEFF701"
+        },
+        {
+          "branch_name": "90402 Nuernberg",
+          "city": "Nuernberg",
+          "swift_code": "GENODEFF760"
+        },
+        {
+          "branch_name": "26122 Oldenburg",
+          "city": "Oldenburg",
+          "swift_code": "GENODEFF280"
+        },
+        {
+          "branch_name": "Augsburg",
+          "city": "Augsburg",
+          "swift_code": "GENODEF1503"
+        },
+        {
+          "branch_name": "Dotationskonto",
+          "city": "Frankfurt Am Main",
+          "swift_code": "GENODEF1DOT"
+        },
+        {
+          "branch_name": "Bischofsheim",
+          "city": "Bischofsheim",
+          "swift_code": "GENODEF1NDY"
+        },
+        {
+          "branch_name": "Oschatz",
+          "city": "Oschatz",
+          "swift_code": "GENODEF1RIY"
+        },
+        {
+          "branch_name": "Bilateral Clearing",
+          "city": "Frankfurt Am Main",
+          "swift_code": "GENODEFFBIL"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dexia Sabadell Banco Local S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "DSBLESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Pfandbriefbank Ag, S.E",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "DPBBESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Sociedad Anonima Espanola",
+      "branches": [
+        {
+          "branch_name": "Bcn-branch",
+          "city": "Barcelona",
+          "swift_code": "DEUTESBBASS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "DEUTESBBXXX"
+        },
+        {
+          "branch_name": "28046 Madrid",
+          "city": "Madrid",
+          "swift_code": "DEUTESBB030"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Ag Spanish Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "DBSCESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Ag, Sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CRESESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole Luxembourg, S.E.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "AGRIESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Confederacion Espanola De Cajas De Ahorros",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CECAESMMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "CECAGB2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Espana S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CITIES2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cajasur Banco, S.A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "CSURES2CXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cajamar Caja Rural, Sociedad Cooperativa De Credito",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Almeria",
+          "swift_code": "CCRIES2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De San Vicente Vall D'Uxo",
+      "branches": [
+        {
+          "branch_name": "Vall Duxo",
+          "city": null,
+          "swift_code": "CCRIES2A102"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Rural De Burgos",
+      "branches": [
+        {
+          "branch_name": "Burgos",
+          "city": "Burgos",
+          "swift_code": "BCOEESMM060"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kbl European Private Bankers S.A. Sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "KBLXESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intesa Sanpaolo S.P.A. (Former Sanpaolo Imi), Madrid Branch, Madrid",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BCITESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Direct Nv, Sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "INGDESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Belgium S.A. Sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BBRUESMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial And Commercial Bank Of China(Europe)S.A.,Sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ICBKESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ikb Deutsche Industriebank Ag, S.E.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "IKBDESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ibercaja Banco S A U",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zaragoza",
+          "swift_code": "CAZRES2ZXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hypothekenbank Frankfurt A.G., S.E.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "EHYPESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gse Tompla Holding, S.L.U.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "GSEHESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Giraud Iberica,S.A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pamplona",
+          "swift_code": "GEODES2PXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "General Electric Capital Bank, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "GEECESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "General De Valores Y Cambios S.V. S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelona",
+          "swift_code": "GVCBESBBXXX"
+        },
+        {
+          "branch_name": "Etb Gvc Gaesco",
+          "city": "Barcelona",
+          "swift_code": "GVCBESBBETB"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fortis Bank, S.A., Sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Barcelona Branch",
+          "city": "Barcelona",
+          "swift_code": "GEBAESMMBAR"
+        },
+        {
+          "branch_name": "48009 Bilbao",
+          "city": "Bilbao",
+          "swift_code": "GEBAESMMBIL"
+        },
+        {
+          "branch_name": "Madrid Branch",
+          "city": "Madrid",
+          "swift_code": "GEBAESMMMAD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "GEBAESMMXXX"
+        },
+        {
+          "branch_name": "Valencia Branch",
+          "city": "Valencia",
+          "swift_code": "GEBAESMMVAL"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fce Bank Plc S.E.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "FCEFESM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Evo Banco S.A.",
+      "branches": [
+        {
+          "branch_name": "Evo Banco S.A.",
+          "city": null,
+          "swift_code": "EVOBESMMXXX"
+        },
+        {
+          "branch_name": "Back Office",
+          "city": "Madrid",
+          "swift_code": "EVOBESMMBAC"
+        },
+        {
+          "branch_name": "Payment Systems Dept.",
+          "city": "Madrid",
+          "swift_code": "EVOBESMMLCO"
+        }
+      ]
+    },
+    {
+      "bank_name": "Europe Arab Bank, Plc-Sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ARABESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Santander Brasil, E.F.C., S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SBFCESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Santander Asset Management, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Boadilla Del Monte",
+          "swift_code": "SAMXESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Repsol Ypf S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "REPYESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Renta 4 Banco, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "RENBESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbc Dexia Investor Services Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BVALESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rabobank International Madrid Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "PRABESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Popular Banca Privada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "POPIESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pictet And Cie (Europe)S.A. Sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "PICTESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Open Bank Santander Consumer S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "OPENESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nuevo Micro Bank, S.A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "MIKBESB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ncg Banco S.A.",
+      "branches": [
+        {
+          "branch_name": "Intl Operations And Foreign Trade",
+          "city": "La Coruna (A Coruna)",
+          "swift_code": "CAGLESMMCOP"
+        },
+        {
+          "branch_name": "Payment Systems Dept",
+          "city": "La Coruna (A Coruna)",
+          "swift_code": "CAGLESMMLCO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "La Coruna (A Coruna)",
+          "swift_code": "CAGLESMMXXX"
+        },
+        {
+          "branch_name": "Back Office",
+          "city": "Madrid",
+          "swift_code": "CAGLESMMBAC"
+        },
+        {
+          "branch_name": "Foreign Trade And Intl Operations",
+          "city": "Madrid",
+          "swift_code": "CAGLESMMBOI"
+        },
+        {
+          "branch_name": "Vigo",
+          "city": "Vigo",
+          "swift_code": "CAGLESMMVIG"
+        },
+        {
+          "branch_name": "Extranjero-vigo",
+          "city": "Vigo",
+          "swift_code": "CAGLESMMVOP"
+        }
+      ]
+    },
+    {
+      "bank_name": "Natixis, S.A., S.E.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "NATXESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch Capital Markets Espana S.A., Svb",
+      "branches": [
+        {
+          "branch_name": "Madrid",
+          "city": "Madrid",
+          "swift_code": "MLCEESMMMEO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "MLCEESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meff",
+      "branches": [
+        {
+          "branch_name": "Meff Euro Services",
+          "city": "Barcelona",
+          "swift_code": "MEFFESBBMES"
+        },
+        {
+          "branch_name": "Meff Renta Fija",
+          "city": "Barcelona",
+          "swift_code": "MEFFESBBMRF"
+        },
+        {
+          "branch_name": "Margin Account",
+          "city": "Barcelona",
+          "swift_code": "MEFFESBBMRG"
+        },
+        {
+          "branch_name": "Meffrepo",
+          "city": "Barcelona",
+          "swift_code": "MEFFESBBRRR"
+        },
+        {
+          "branch_name": "Meff Renta Variable",
+          "city": "Madrid",
+          "swift_code": "MEFFESBBMRV"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "MEFFESBBXXX"
+        },
+        {
+          "branch_name": "Ancillary System",
+          "city": "Barcelona",
+          "swift_code": "MEFFESBBCCP"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lombard Odier Darier Hentsch And Cie (Espana) S.V., S.A.",
+      "branches": [
+        {
+          "branch_name": "Ndp Dept",
+          "city": "Madrid",
+          "swift_code": "LOCYESMMNDP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "LOCYESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lloyds Bank International Sa",
+      "branches": [
+        {
+          "branch_name": "All Spanish Offices",
+          "city": "Madrid",
+          "swift_code": "LOYDESMMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "LOYIESMMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "HLFXESMMXXX"
+        },
+        {
+          "branch_name": "Bilbao",
+          "city": "Bilbao",
+          "swift_code": "LOYDESM102B"
+        },
+        {
+          "branch_name": "29600 Marbella",
+          "city": "Marbella",
+          "swift_code": "LOYDESM102M"
+        },
+        {
+          "branch_name": "Pamplona",
+          "city": "Pamplona",
+          "swift_code": "LOYDESM102N"
+        },
+        {
+          "branch_name": "Palma De Mallorca",
+          "city": "Palma De Mallorca",
+          "swift_code": "LOYDESM102P"
+        },
+        {
+          "branch_name": "08008 Barcelona",
+          "city": "Barcelona",
+          "swift_code": "LOYDESM10BB"
+        },
+        {
+          "branch_name": "41001 Sevilla",
+          "city": "Sevilla",
+          "swift_code": "LOYDESM10SS"
+        },
+        {
+          "branch_name": "Santa Cruz De Tenerife",
+          "city": "Santa Cruz De Tenerife",
+          "swift_code": "LOYDESM10TF"
+        },
+        {
+          "branch_name": "46002 Valencia",
+          "city": "Valencia",
+          "swift_code": "LOYDESM10VV"
+        }
+      ]
+    },
+    {
+      "bank_name": "Liberbank, S.A.",
+      "branches": [
+        {
+          "branch_name": "28014 Madrid",
+          "city": "Madrid",
+          "swift_code": "CECAESMM048"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Caixa Geral",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "CGDIESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bpi S.A.- Sucursal En Espana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BBPIESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Banif, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "NORTESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Alcala S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ALCLESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Pueyo, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Villanueva De La Serena",
+          "swift_code": "BAPUES22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Popolare Etica",
+      "branches": [
+        {
+          "branch_name": "Banca Popolare Etica",
+          "city": null,
+          "swift_code": "ETICES21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca March, S.A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Palma De Mallorca",
+          "swift_code": "BMARES2MXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "BMARGB2LXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Attijariwafa Bank Europe Sucursal En Espana Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BCMAESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aresbank, S.A.",
+      "branches": [
+        {
+          "branch_name": "08007 Barcelona",
+          "city": "Barcelona",
+          "swift_code": "AREBESMMBAR"
+        },
+        {
+          "branch_name": "35007 Las Palmas De Gran Canaria",
+          "city": "Las Palmas De Gran Canaria",
+          "swift_code": "AREBESMMCAN"
+        },
+        {
+          "branch_name": "International Division",
+          "city": "Madrid",
+          "swift_code": "AREBESMMINT"
+        },
+        {
+          "branch_name": "Financial Division",
+          "city": "Madrid",
+          "swift_code": "AREBESMMINV"
+        },
+        {
+          "branch_name": "28046 Madrid",
+          "city": "Madrid",
+          "swift_code": "AREBESMMMAD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "AREBESMMXXX"
+        },
+        {
+          "branch_name": "29600 Marbella",
+          "city": "Marbella",
+          "swift_code": "AREBESMMMAR"
+        }
+      ]
+    },
+    {
+      "bank_name": "Andbank Espa\u00f1a, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "BACAESMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Allfunds Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ALLFESMMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "ALLFGB2LXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Milano",
+          "swift_code": "ALLFITMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ahorro Corporacion Financiera, S.V., S.A.",
+      "branches": [
+        {
+          "branch_name": "Madrid Office",
+          "city": "Madrid",
+          "swift_code": "AHCFESMMMAD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "AHCFESMMXXX"
+        },
+        {
+          "branch_name": "Valencia Office",
+          "city": "Valencia",
+          "swift_code": "AHCFESMMVAL"
+        },
+        {
+          "branch_name": "Barcelona Office",
+          "city": "Barcelona",
+          "swift_code": "AHCFESMMBAR"
+        }
+      ]
+    }
+  ]
+}

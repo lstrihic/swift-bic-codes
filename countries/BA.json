@@ -1,0 +1,362 @@
+{
+  "country_name": "Bosnia and Herzegovina",
+  "alpha_2": "BA",
+  "country_code": "070",
+  "banks": [
+    {
+      "bank_name": "Ziraatbank Bh D.d. Sarajevo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sarajevo",
+          "swift_code": "TZBBBA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vakufska Banka Dd Sarajevo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sarajevo",
+          "swift_code": "VAKUBA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Banka D.d. Sarajevo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sarajevo",
+          "swift_code": "UBKSBA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unicredit Bank A.d. Banja Luka (former Nova Banjalucka Banka A.d. Banja Luka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Banja Luka",
+          "swift_code": "BLBABA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unicredit Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mostar",
+          "swift_code": "UNCRBA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tas D.o.o.",
+      "branches": [
+        {
+          "branch_name": "Tas D.o.o.",
+          "city": "Sarajevo",
+          "swift_code": "TADOBA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparkasse Bank Dd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sarajevo",
+          "swift_code": "ABSBBA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sberbank Bh D.d., Sarajevo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sarajevo",
+          "swift_code": "SABRBA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sberbank A.d. Banja Luka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Banja Luka",
+          "swift_code": "SABRBA2BXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Raiffeisen Bank D.d. Bosna I Hercegovina",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sarajevo",
+          "swift_code": "RZBABA2SXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Procredit Bank D.d. Sarajevo, Bosnia And Herzegovina",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sarajevo",
+          "swift_code": "MEBBBA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Privredna Banka Sarajevo Dd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sarajevo",
+          "swift_code": "PBSCBA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prijedorska Banka A.d.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Prijevor",
+          "swift_code": "PRIJBA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pavlovic International Bank A.d.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bijeljina",
+          "swift_code": "PAVLBA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nova Banka Ad Banjaluka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Banja Luka",
+          "swift_code": "NOBIBA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nlb Razvojna Banka A.d. Banja Luka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Banja Luka",
+          "swift_code": "RAZBBA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nlb Banka D.d., Tuzla",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tuzla",
+          "swift_code": "TBTUBA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moja Banka Dd Sarajevo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sarajevo",
+          "swift_code": "FMBABA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mf Banka A.d. Banja Luka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Banja Luka",
+          "swift_code": "MFBLBA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Komercijalno-investiciona Banka Dd Velika Kladusa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Velika Kladusa",
+          "swift_code": "KINBBA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Komercijalna Banka Ad Banja Luka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Banja Luka",
+          "swift_code": "KOBBBA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investiciono-komercijalna Banka Dd Zenica",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zenica",
+          "swift_code": "IKBZBA2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intesa Sanpaolo Banka D.d. Bosna I Hercegovina",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sarajevo",
+          "swift_code": "UPBKBA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hypo Alpe-adria-bank A.d.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Banja Luka",
+          "swift_code": "HAABBA2BXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hippo Banka Dd. Zenica",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zenica",
+          "swift_code": "HBZEBA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fima Vrijednosnice D.o.o.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rijeka Rika",
+          "swift_code": "FIJDBA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Euro Capital Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sarajevo",
+          "swift_code": "EUCMBA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Development Bank Of The Federation Of Bosnia And Herzegovina",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sarajevo",
+          "swift_code": "IBBHBA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Centralna Banka Bosne I Hercegovine",
+      "branches": [
+        {
+          "branch_name": "Department For Public Debt Servicing",
+          "city": "Sarajevo",
+          "swift_code": "CBBSBA22PDS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sarajevo",
+          "swift_code": "CBBSBA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bosna Bank International Dd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sarajevo",
+          "swift_code": "BBIBBA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bor Banka Dd Sarajevo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sarajevo",
+          "swift_code": "BOIRBA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bobar Banka A.d.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bijeljina",
+          "swift_code": "BATOBA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Balkan Investment Bank Ad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Banja Luka",
+          "swift_code": "BALVBA22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hypo Alpe-Adria-Bank D.D.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mostar",
+          "swift_code": "HAABBA22XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Zagreb",
+          "swift_code": "HAABHR22XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ljubljana",
+          "swift_code": "HAABSI22XXX"
+        }
+      ]
+    }
+  ]
+}

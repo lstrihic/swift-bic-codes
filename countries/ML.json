@@ -1,0 +1,172 @@
+{
+  "country_name": "Mali",
+  "alpha_2": "ML",
+  "country_code": "466",
+  "banks": [
+    {
+      "bank_name": "Uba Mali S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bamako",
+          "swift_code": "UNAFMLB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Mali",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bamako",
+          "swift_code": "ECOCMLBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Depositaire Central/banque De Reglement",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bamako",
+          "swift_code": "DCRBMLB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bicim",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bamako",
+          "swift_code": "BICIMLBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bci-mali",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bamako",
+          "swift_code": "COLIMLBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Sahelo-saharienne Pour L'investissement Et Le Commerce (mali) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bamako",
+          "swift_code": "BSAHMLBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Regionale De Solidarite-mali",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bamako",
+          "swift_code": "BRSWMLBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Malienne De Solidarite",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bamako",
+          "swift_code": "BMSMMLBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Internationale Pour Le Mali Sa.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bamako",
+          "swift_code": "BIPMMLBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Nationale De Developpement Agricole (bnda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bamako",
+          "swift_code": "BNADMLBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De L' Habitat Du Mali",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bamako",
+          "swift_code": "BAHMMLBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De Developpement Du Mali-s.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bamako",
+          "swift_code": "BDMAMLBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Atlantique Mali",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bamako",
+          "swift_code": "ATMLMLBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Commerciale Du Sahel Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bamako",
+          "swift_code": "ALIMMLBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Africa-mali",
+      "branches": [
+        {
+          "branch_name": "Bamako",
+          "city": "Bamako",
+          "swift_code": "AFRIMLBA022"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bamako",
+          "swift_code": "AFRIMLBAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque (mali) Centrale Des Etats De L'afrique Et De L'ouest",
+      "branches": [
+        {
+          "branch_name": "Mopti Branch",
+          "city": "Mopti",
+          "swift_code": "BCAOMLBAMOP"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "country_name": "Puerto Rico",
+  "alpha_2": "PR",
+  "country_code": "630",
+  "banks": [
+    {
+      "bank_name": "Scotiabank De Puerto Rico",
+      "branches": [
+        {
+          "branch_name": "San Juan",
+          "city": "San Juan",
+          "swift_code": "NOSCPR22MIA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Hato Rey",
+          "swift_code": "NOSCPR22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ponce Federal Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ponce",
+          "swift_code": "PFEBPR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oriental Bank",
+      "branches": [
+        {
+          "branch_name": "Hato Rey",
+          "city": "Hato Rey",
+          "swift_code": "BBVAPRS1INT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Hato Rey",
+          "swift_code": "BBVAPRSJXXX"
+        },
+        {
+          "branch_name": "Oriental Bank",
+          "city": "Hato Rey",
+          "swift_code": "OBPRPRSJXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Hato Rey",
+          "swift_code": "OBPRPRS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Firstbank Puerto Rico",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santurce",
+          "swift_code": "FBPRPRSJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Facebank International Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guaynabo",
+          "swift_code": "FILCPR22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Italbank International, Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Juan",
+          "swift_code": "IBIIPRSJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nodus International Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Juan",
+          "swift_code": "NDBKPRSJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank, Na Puerto Rico",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Juan",
+          "swift_code": "CITIPRSJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caracas International Banking Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Juan",
+          "swift_code": "CIBPPRSJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bst International Bank, Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hato Rey",
+          "swift_code": "TOTAPR22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Santander Puerto Rico",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Juan",
+          "swift_code": "BSCHPRSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Popular De Puerto Rico",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Juan",
+          "swift_code": "BPPRPRSBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "San Juan",
+          "swift_code": "BPPRPRSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bbo International Private Bank Inc",
+      "branches": [
+        {
+          "branch_name": "Bbo International Private Bank Inc",
+          "city": "San Juan",
+          "swift_code": "BBOIPRSJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arca International Bank, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Juan",
+          "swift_code": "ARNRPRSJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco San Juan Internacional Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Juan",
+          "swift_code": "BSJIPRSJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bancolombia Puerto Rico Internacional Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Juan",
+          "swift_code": "CFSUPRSJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Activo International Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Juan",
+          "swift_code": "ACTTPRSJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Andcapital Bank International Corp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hato Rey",
+          "swift_code": "ACBIPR22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Acesco Caribe, Mfg.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Catano",
+          "swift_code": "ACAIPR21XXX"
+        }
+      ]
+    }
+  ]
+}

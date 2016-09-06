@@ -1,0 +1,442 @@
+{
+  "country_name": "Yemen",
+  "alpha_2": "YE",
+  "country_code": "887",
+  "banks": [
+    {
+      "bank_name": "Yemen Lng Company Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sanaa",
+          "swift_code": "YELNYES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yemen Kuwait Bank-islamic Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sanaa",
+          "swift_code": "YKIBYESAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yemen Kuwait Bank For Trade And Investment Y.s.c., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sanaa",
+          "swift_code": "YKBAYESAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yemen Gulf Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sanaa",
+          "swift_code": "YGBKYESAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yemen Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sanaa",
+          "swift_code": "YECOYESAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yemen Bank For Reconstruction And Development",
+      "branches": [
+        {
+          "branch_name": "Sanaa Branch",
+          "city": "Sanaa",
+          "swift_code": "YBRDYESA101"
+        },
+        {
+          "branch_name": "Zubairi Branch",
+          "city": "Sanaa",
+          "swift_code": "YBRDYESA103"
+        },
+        {
+          "branch_name": "Abdulmoghni Branch",
+          "city": "Sanaa",
+          "swift_code": "YBRDYESA105"
+        },
+        {
+          "branch_name": "Immigrants Branch",
+          "city": "Sanaa",
+          "swift_code": "YBRDYESA107"
+        },
+        {
+          "branch_name": "Haddah Branch",
+          "city": "Sanaa",
+          "swift_code": "YBRDYESA111"
+        },
+        {
+          "branch_name": "Amran Branch",
+          "city": "Amran",
+          "swift_code": "YBRDYESA119"
+        },
+        {
+          "branch_name": "Taiz Branch",
+          "city": "Taizz",
+          "swift_code": "YBRDYESA201"
+        },
+        {
+          "branch_name": "26th September Branch",
+          "city": "Taizz",
+          "swift_code": "YBRDYESA203"
+        },
+        {
+          "branch_name": "Ibb Branch",
+          "city": "Ibb",
+          "swift_code": "YBRDYESA301"
+        },
+        {
+          "branch_name": "Hodeidah Branch",
+          "city": "Hodeida",
+          "swift_code": "YBRDYESA401"
+        },
+        {
+          "branch_name": "Sanaa Street Branch",
+          "city": "Hodeida",
+          "swift_code": "YBRDYESA403"
+        },
+        {
+          "branch_name": "Dhamar Branch",
+          "city": "Dhamar",
+          "swift_code": "YBRDYESA501"
+        },
+        {
+          "branch_name": "Al Saeeda Branch",
+          "city": "Aden",
+          "swift_code": "YBRDYESA601"
+        },
+        {
+          "branch_name": "Muklla Branch",
+          "city": "Mukalla",
+          "swift_code": "YBRDYESA603"
+        },
+        {
+          "branch_name": "Al-shaikh Othman Branch",
+          "city": "Aden",
+          "swift_code": "YBRDYESA607"
+        },
+        {
+          "branch_name": "Isb Branch",
+          "city": "Sanaa",
+          "swift_code": "YBRDYESAI00"
+        },
+        {
+          "branch_name": "Isb Sanaa Office",
+          "city": "Sanaa",
+          "swift_code": "YBRDYESAS00"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sanaa",
+          "swift_code": "YBRDYESAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tadhamon International Islamic Bank",
+      "branches": [
+        {
+          "branch_name": "Sanaa Branch",
+          "city": "Sanaa",
+          "swift_code": "TIBKYESA101"
+        },
+        {
+          "branch_name": "Taizz Branch",
+          "city": "Taizz",
+          "swift_code": "TIBKYESA102"
+        },
+        {
+          "branch_name": "Aden Branch",
+          "city": "Aden",
+          "swift_code": "TIBKYESA103"
+        },
+        {
+          "branch_name": "Hodeida Branch",
+          "city": "Hodeida",
+          "swift_code": "TIBKYESA104"
+        },
+        {
+          "branch_name": "Mukalla Branch",
+          "city": "Mukalla",
+          "swift_code": "TIBKYESA105"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sanaa",
+          "swift_code": "TIBKYESAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shamil Bank Of Yemen And Bahrain",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sanaa",
+          "swift_code": "SBYBYESAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saba Islamic Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sanaa",
+          "swift_code": "SAAIYESAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sanaa",
+          "swift_code": "SSLBYES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Yemen",
+      "branches": [
+        {
+          "branch_name": "Aidroos Branch",
+          "city": "Aden",
+          "swift_code": "NBOYYESA001"
+        },
+        {
+          "branch_name": "Arawa Branch",
+          "city": "Aden",
+          "swift_code": "NBOYYESA002"
+        },
+        {
+          "branch_name": "Malaa Branch",
+          "city": "Aden",
+          "swift_code": "NBOYYESA003"
+        },
+        {
+          "branch_name": "Seiyun Branch",
+          "city": "Seiyun",
+          "swift_code": "NBOYYESA007"
+        },
+        {
+          "branch_name": "Mukalla",
+          "city": "Mukalla",
+          "swift_code": "NBOYYESA009"
+        },
+        {
+          "branch_name": "Sanaa Branch",
+          "city": "Sanaa",
+          "swift_code": "NBOYYESA033"
+        },
+        {
+          "branch_name": "Hodeida Branch",
+          "city": "Hodeida",
+          "swift_code": "NBOYYESA034"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Aden",
+          "swift_code": "NBOYYESAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Islamic Bank Of Yemen For Finance And Investment",
+      "branches": [
+        {
+          "branch_name": "Sanaa Branch",
+          "city": "Sanaa",
+          "swift_code": "ISBYYESA101"
+        },
+        {
+          "branch_name": "Hodeidah Branch",
+          "city": "Hodeida",
+          "swift_code": "ISBYYESA103"
+        },
+        {
+          "branch_name": "Taiz Branch",
+          "city": "Taizz",
+          "swift_code": "ISBYYESA105"
+        },
+        {
+          "branch_name": "Aden-crater Branch",
+          "city": "Aden",
+          "swift_code": "ISBYYESA107"
+        },
+        {
+          "branch_name": "Sheikh Othman Branch",
+          "city": "Aden",
+          "swift_code": "ISBYYESA109"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sanaa",
+          "swift_code": "ISBYYESAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Bank Of Yemen Y.s.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sanaa",
+          "swift_code": "IBOYYESAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Housing Credit Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sanaa",
+          "swift_code": "HOCBYES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperative And Agricultural Credit Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sanaa",
+          "swift_code": "CACBYESASAN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sanaa",
+          "swift_code": "CACBYESAXXX"
+        },
+        {
+          "branch_name": "15495 Sanaa",
+          "city": "Sanaa",
+          "swift_code": "CACBYESAYIS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Yemen",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sanaa",
+          "swift_code": "CBYEYESAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Yemen",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Aden",
+          "swift_code": "BAYEYEY1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Bank Plc-yemen",
+      "branches": [
+        {
+          "branch_name": "Hodeida",
+          "city": "Hodeida",
+          "swift_code": "ARABYES102H"
+        },
+        {
+          "branch_name": "Taizz",
+          "city": "Taizz",
+          "swift_code": "ARABYES102T"
+        },
+        {
+          "branch_name": "Aden Branch",
+          "city": "Aden",
+          "swift_code": "ARABYESAADN"
+        },
+        {
+          "branch_name": "Central Operation Unit",
+          "city": "Sanaa",
+          "swift_code": "ARABYESACOU"
+        },
+        {
+          "branch_name": "Hodaida Branch",
+          "city": "Hodeida",
+          "swift_code": "ARABYESAHOD"
+        },
+        {
+          "branch_name": "Ibb Branch",
+          "city": "Ibb",
+          "swift_code": "ARABYESAIBB"
+        },
+        {
+          "branch_name": "Mukalla Branch",
+          "city": "Mukalla",
+          "swift_code": "ARABYESAMKL"
+        },
+        {
+          "branch_name": "Sanaa Branch",
+          "city": "Sanaa",
+          "swift_code": "ARABYESASA1"
+        },
+        {
+          "branch_name": "Taizz Branch",
+          "city": "Taizz",
+          "swift_code": "ARABYESATAZ"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sanaa",
+          "swift_code": "ARABYESAXXX"
+        },
+        {
+          "branch_name": "Yemen Branch Centre",
+          "city": "Sanaa",
+          "swift_code": "ARABYESAYBC"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alkuraimi Islamic Microfinance Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sanaa",
+          "swift_code": "KRMBYESAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ministry Of Finance",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sanaa",
+          "swift_code": "MOFYYESAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Muscat",
+          "swift_code": "MINIOMRUXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Beirut",
+          "swift_code": "MINFLBBEXXX"
+        }
+      ]
+    }
+  ]
+}

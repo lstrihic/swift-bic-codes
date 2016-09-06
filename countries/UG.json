@@ -1,0 +1,447 @@
+{
+  "country_name": "Uganda",
+  "alpha_2": "UG",
+  "country_code": "800",
+  "banks": [
+    {
+      "bank_name": "United Bank For Africa (uganda) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "UNAFUGKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uganda Securities Exchange Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "USCDUGKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fina Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "FBAKUGKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Equity Stock Brokers",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "EQSBUGK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Equity Bank Uganda Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "EQBLUGKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Engiplan Consultants",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "ENCOUGK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Uganda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "ECOCUGKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Diamond Trust Bank Uganda Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "DTKEUGKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dfcu Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "DFCUUGKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Crested Stocks And Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Crested Stocks And Securities Limited",
+          "city": "Kampala",
+          "swift_code": "CRKSUGK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Crane Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "CRANUGKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Co-operative Bank Ltd.,the",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "COPBUGK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Uganda Limited",
+      "branches": [
+        {
+          "branch_name": "Trade Services Dept",
+          "city": "Kampala",
+          "swift_code": "CITIUGKATRD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "CITIUGKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Centenary Rural Development Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "CERBUGKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cairo International Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "CAIEUGKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Bank Of Uganda Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "BARCUGKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Uganda",
+      "branches": [
+        {
+          "branch_name": "Letters Of Credit Processing",
+          "city": "Kampala",
+          "swift_code": "UGBAUGKABKG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "UGBAUGKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of India (uganda) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "BKIDUGKAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "UGKAUGK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Baroda (uganda) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "BARBUGKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Africa-uganda Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "AFRIUGKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abc Capital Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala Ka",
+          "swift_code": "ABCFUGKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uganda Institute Of Bankers",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "UIDBUGK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uganda Development Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "UGDBUGKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trust Bank (uganda) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "TRBAUGK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tropical Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "TROAUGKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tropical Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "LAUBUGK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank Uganda Limited",
+      "branches": [
+        {
+          "branch_name": "Securities Services Unit",
+          "city": "Kampala",
+          "swift_code": "SCBLUGKASSU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "SCBLUGKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stanbic Bank Uganda Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "SBICUGKXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sabmiller Uganda",
+      "branches": [
+        {
+          "branch_name": "Kampala",
+          "city": "Kampala",
+          "swift_code": "SABMUGT1NBL"
+        },
+        {
+          "branch_name": "Kampala",
+          "city": "Kampala",
+          "swift_code": "SABMUGT1RBL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "SABMUGT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Postbank Uganda Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "UGPBUGKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orient Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "ORINUGKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nile Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "NLBKUGK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nc Bank Uganda Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "NINCUGKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mbea Brokerage Services (u) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "MBRSUGK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "M/d Trans Africa Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "TRARUGK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kcb Bank Uganda Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "KCBLUGKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Credit Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "ICFBUGK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Imperial Bank (uganda) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "IMPLUGKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Housing Finance Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "HFINUGKAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gold Trust Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "GOLTUGK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Trust Bank Uganda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kampala",
+          "swift_code": "GLTBUGKAXXX"
+        }
+      ]
+    }
+  ]
+}

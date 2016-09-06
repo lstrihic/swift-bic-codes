@@ -1,0 +1,3067 @@
+{
+  "country_name": "Portugal",
+  "alpha_2": "PT",
+  "country_code": "620",
+  "banks": [
+    {
+      "bank_name": "Zurich-companhia De Seguros S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "ZURIPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "X-trade Brokers D.m. S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "TBPTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Universo-banco Directo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Porto",
+          "swift_code": "UVBDPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unicre-instituicao Financeira De Credito S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "UIFCPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Bank Of Tokyo-mitsubishi Ufj, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Lisbon Office",
+          "city": "Lisbon",
+          "swift_code": "BOTKPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societa Gestora Do Fundo De Pensoes",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "SGFEPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sibs-sociedade Interbancaria De Servicos S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon Lisbon",
+          "swift_code": "SISRPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Santander Asset Management-sociedade Gestora De Fundos De Investimento Mobiliario, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "SAGCPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronica Portugal",
+      "branches": [
+        {
+          "branch_name": "Sep",
+          "city": "Lisbon",
+          "swift_code": "SECTPTP14E0"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "SECTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Luso Partners-sociedade Corretora, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "LPSCPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lisbon Brokers Sociedade Corretora S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "LBSCPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "L.j. Carregosa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Porto",
+          "swift_code": "CAOEPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investquest Societa Gestora Patrimonios",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "ISGAPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intervalores-sociedade Corretora, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "ITCAPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intermoney Valores, Sociedad De Valores, Sa-succursal Em Portugal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "IVSVPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intermoney Portugal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "IMPTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interbolsa-s.g.s.l.s.c.v.m., S.a.",
+      "branches": [
+        {
+          "branch_name": "Porto",
+          "city": "Porto",
+          "swift_code": "IBLSPTPPCUG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Porto",
+          "swift_code": "IBLSPTPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Igfcss",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Porto",
+          "swift_code": "IGFCPT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hypothekenbank Frankfurt Ag, Portugal Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "EHYPPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hbf-banco Financiero Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "HBFIPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Golden Broker Sociedade Corretora Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Porto",
+          "swift_code": "GBSCPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fundo Garantia Credito Agricola Mut Uo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "FGCAPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fundo De Resolucao",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "FURSPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fundo De Garantia De Depositos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "FUGDPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finivalor-sociedade Gestora De Fundos Mobiliarios S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "FIVRPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fincor-sociedade Corretora Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "FICCPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Royal Bank Of Scotland Plc-sucursal Em Portugal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "RBOSPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rheinhyp Rheinische Hypothenkenbank Ag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "RHRHPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Portuguese Emission Trading Registry",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amadora",
+          "swift_code": "PETGPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pexsettle",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "PEXSPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Paulo Lopes And Lopes Lda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pombal",
+          "swift_code": "PLLAPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orey Valores-sociedade Corretora, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "OVSCPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oney Ific Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "ONIFPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Omiclear-sociedade De Compensacao De Mercados De Energia, S.g.c.c.c.c., S.a.",
+      "branches": [
+        {
+          "branch_name": "Ancillary System Account",
+          "city": "Lisbon",
+          "swift_code": "OMICPTPLASA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "OMICPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ok2deal-sociedade Corretora, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Porto",
+          "swift_code": "OKCOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nco Dealer, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "NCOEPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ncg Banco, S.a., Sucursal Em Portugal",
+      "branches": [
+        {
+          "branch_name": "Lisbon Unconnected",
+          "city": "Lisbon",
+          "swift_code": "CAGLPTP1LBU"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mts Portugal Sgmr, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "PMTSPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Montepio Geral-caixa Economica",
+      "branches": [
+        {
+          "branch_name": "Servicio Titulos",
+          "city": "Alges",
+          "swift_code": "MPIOPTPLTIT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "MPIOPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Monte De Piedad Y Caja General De Ahorros De Badajoz, Sucursal Em Portugal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "MPCGPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Millenium Bcp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "MIBPPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Miillennium Bcp-gestao De Fundos De Investimento, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "MBGFPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Midas Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "MIDEPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Math Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "MAUDPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Macif Portugal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "MAPGPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "M.g. Gestao De Activos Financeiros-sociedade Gestora De Fundos De Investimento Mobiliario S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "GAFSPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "F And C Portugal, Gestao De Patrimonios, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "PGPAPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Euronext Lisboa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "XLISPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Espirito Santo Dealer Sociedade Financeira De Corretagem",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "ESDEPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Sao Pedro Do Sul",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "S. Pedro Do Sul",
+          "swift_code": "CTAUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Sao Bartolomeu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "S. Bartolomeu De Messines",
+          "swift_code": "CILTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Sao Joao Da Pesqueira Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "S. Joao Da Pesqueira",
+          "swift_code": "CIOUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Santiago Do Cacem Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santiago Do Cacem",
+          "swift_code": "CILUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Santa Marta De Penaguiao",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santa Marta De Penaguiao",
+          "swift_code": "CILMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Samora Correia Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Samora Correia",
+          "swift_code": "CIOOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Salvaterra De Magos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Salvaterra De Magos",
+          "swift_code": "CIOTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Povoa De Varzim, Vila Do Conde E Esposende Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Povoa De Varzim",
+          "swift_code": "CIOMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Porto De Mos Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Porto De Mos",
+          "swift_code": "CICUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Portalegre Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Portalegre",
+          "swift_code": "CIIOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Ponte De Sor Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ponte De Sor",
+          "swift_code": "CIITPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Pombal Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pombal",
+          "swift_code": "CEAOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Pernes Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pernes",
+          "swift_code": "CIIMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Penalva Do Castelo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Penalva Do Castelo",
+          "swift_code": "CIROPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Paredes Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Paredes",
+          "swift_code": "CIRTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Ovar Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ovar",
+          "swift_code": "CIRUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Oliveira Do Hos Pital, C.r.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oliveira Do Hospital",
+          "swift_code": "CIRMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Oliveira Do Bairro Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oliveira Do Bairro",
+          "swift_code": "CIGOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Oliveira De Azemeis Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oliveira De Azemeis",
+          "swift_code": "CRLMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Olhao Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Moncarapacho",
+          "swift_code": "CIGUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eser Sociedade Financeira De Corretagem Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "ESFCPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Do Sobral Do Monteagraco Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sobral De Monte Agraco",
+          "swift_code": "CTGTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Vila Nova De Tazem",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vila Nova De Tazem",
+          "swift_code": "CTOTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Vila Nova De Famalicao Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vila Nova De Famalicao",
+          "swift_code": "CTOUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Vila Nova De Ancos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vila Nova De Ancos",
+          "swift_code": "CTOMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Vila Franca De Xira Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vila Franca De Xira",
+          "swift_code": "CTCOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Vila Franca Das Naves, C R L",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vila Franca Das Naves",
+          "swift_code": "CTCTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Vila Do Bispo Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vila Do Bispo",
+          "swift_code": "CTCUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Vale De Cambra Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vale De Cambra",
+          "swift_code": "CTCMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Vagos Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vagos",
+          "swift_code": "CIIUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Tramagal, C.r..",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tramagal",
+          "swift_code": "CTITPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Torres Vedras,c.r.l",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Torres Vedras",
+          "swift_code": "CTIUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Terras Do Sousa, Ave, Basto E Tamega, Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Felgueiras",
+          "swift_code": "CTIMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Terras De Miranda Do Douro Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Miranda Do Douro",
+          "swift_code": "CTROPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Tarouca-cooperativa De Responsabilidade Limitada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tarouca",
+          "swift_code": "CTRTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Tabuaco E Serna",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tabuaco",
+          "swift_code": "CEGOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Sousel Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sousel",
+          "swift_code": "CTGOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Silves Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Silves",
+          "swift_code": "CTGUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Sever Do Vouga",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sever Do Vouga",
+          "swift_code": "CTGMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Seia Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Seia",
+          "swift_code": "CTAOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Satao E Vila Nova De Paiva",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Satao",
+          "swift_code": "CTATPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Sao Teotonio, Rl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "S. Teotonio",
+          "swift_code": "CTAMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Do Ribatejo Sul Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Benfica Do Ribatejo",
+          "swift_code": "COOTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Do Ribatejo Nortec.r.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Torres Novas",
+          "swift_code": "COOUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Do Ribatejo Centro",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santarem",
+          "swift_code": "COGUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Do Peso Da Regua",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Peso Da Regua",
+          "swift_code": "COIOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Do Norte Alentejan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fronteira",
+          "swift_code": "COIUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Do Minho Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Braga",
+          "swift_code": "CORMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Do Guadiana Inter.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Moura",
+          "swift_code": "COGOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Do Concelho De Pinhel",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Freixedas",
+          "swift_code": "COGTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Do Concelho De Mealhada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mealhada",
+          "swift_code": "CTRMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Do Concelho Da Feira",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santa Maria Da Feira",
+          "swift_code": "CTIOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Do Cartaxo, Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cartaxo",
+          "swift_code": "COAOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Do Alto Minho, Cr",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Viana Do Castelo",
+          "swift_code": "COATPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Do Alto Guadiana",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reguengos De Monsaraz",
+          "swift_code": "COAUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Do Alto Douro Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Alijo",
+          "swift_code": "COAMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Do Alto Corgo E Ta",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vila Real",
+          "swift_code": "CIGTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Do Algarve Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Faro",
+          "swift_code": "CTLTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Viseu-tondela",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Viseu",
+          "swift_code": "CTLUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Vila Vicosa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vila Vicosa",
+          "swift_code": "CTLMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Vila Verde E De",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vila Verde",
+          "swift_code": "CTOOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Esaf-espirito Santo Gestao De Patrimonios, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "ESGPPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Esaf-es Fundos De Pensoes, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "ESFPPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Esaf-es Fundos De Investimento Mobiliario, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "EFIMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Esaf-es Fundos De Investimento Imobiliario, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "EFIIPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dif Broker-soc.corretora, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "DBRCPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ctt-correios De Portugal, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "CTTPPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credifin-banco De Credito Ao Consumo S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Porto",
+          "swift_code": "CRRCPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credibanco-banco De Credito Pessoal Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "CRRSPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Companhia Portuguesa De Rating, S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "COOGPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central-banco De Investimento, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "PCBIPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Investimentos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "CENIPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixagest Tecnicas De Gestao De Fundos, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "CTGFPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa Economica Social",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Porto",
+          "swift_code": "CAEOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa Economica Do Porto",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Porto",
+          "swift_code": "CAEPPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa Economica Da Associacao De Socorros Mutuos De Empregados No Comercio De Lisboa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "CEARPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Dos Acores Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ponta Delgada",
+          "swift_code": "CTLOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Do Vale Do Sousa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Penafiel",
+          "swift_code": "COLMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Do Vale Do Dao C.r.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mangualde",
+          "swift_code": "CDOOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Do Sotavento Algarve",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tavira",
+          "swift_code": "COOOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Popular Portugal S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "CRBNPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Finantia S.A.",
+      "branches": [
+        {
+          "branch_name": "Finantia Corretora",
+          "city": "Lisbon",
+          "swift_code": "BFIAPTPLCOR"
+        },
+        {
+          "branch_name": "Finantia International",
+          "city": "Lisbon",
+          "swift_code": "BFIAPTPLINT"
+        },
+        {
+          "branch_name": "Finantia Securities",
+          "city": "Lisbon",
+          "swift_code": "BFIAPTPLSEC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "BFIAPTPLXXX"
+        },
+        {
+          "branch_name": "Madeira Offshore Branch",
+          "city": "Madeira",
+          "swift_code": "BFIAPTPLSFE"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Invest S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "IVVSPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Espirito Santo Dos Acores S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ponta Delgada",
+          "swift_code": "BESAPTPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Espirito Santo De Investimento S.A.",
+      "branches": [
+        {
+          "branch_name": "Funchal",
+          "city": "Funchal",
+          "swift_code": "ESSIPTPLFUN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "ESSIPTPLXXX"
+        },
+        {
+          "branch_name": "Porto",
+          "city": "Porto",
+          "swift_code": "ESSIPTPLPOR"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Portugal",
+      "branches": [
+        {
+          "branch_name": "Bp-ccbm",
+          "city": "Lisbon",
+          "swift_code": "BGALPTTGCCB"
+        },
+        {
+          "branch_name": "Bp-back-office",
+          "city": "Lisbon",
+          "swift_code": "BGALPTTGBAC"
+        },
+        {
+          "branch_name": "Bp-minimum Reserves",
+          "city": "Lisbon",
+          "swift_code": "BGALPTTGMRR"
+        },
+        {
+          "branch_name": "Bp-monetary Policy Operations",
+          "city": "Lisbon",
+          "swift_code": "BGALPTTGSIT"
+        },
+        {
+          "branch_name": "Contabilidade E Pagamentos",
+          "city": "Lisbon",
+          "swift_code": "BGALPTPLDCP"
+        },
+        {
+          "branch_name": "Det-emissao E Tesouraria",
+          "city": "Lisbon",
+          "swift_code": "BGALPTTGDET"
+        },
+        {
+          "branch_name": "Funds",
+          "city": "Lisbon",
+          "swift_code": "BGALPTPLGPF"
+        },
+        {
+          "branch_name": "Sistemas De Pagamentos",
+          "city": "Lisbon",
+          "swift_code": "BGALPTTGXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "BGALPTPLXXX"
+        },
+        {
+          "branch_name": "Lisbon",
+          "city": "Lisbon",
+          "swift_code": "BGALPTPLCON"
+        },
+        {
+          "branch_name": "Fundo Garantia",
+          "city": "Porto",
+          "swift_code": "BGALPTTGFGC"
+        },
+        {
+          "branch_name": "Collateral Management Pt Parties",
+          "city": "Lisbon",
+          "swift_code": "BGALPTPLPTP"
+        },
+        {
+          "branch_name": "Mercado Monetario Interbancario",
+          "city": "Lisbon",
+          "swift_code": "BGALPTTGMMI"
+        },
+        {
+          "branch_name": "Collateral Management Pt Parties",
+          "city": "Lisbon",
+          "swift_code": "BGALPTTGPTP"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Investimento Global S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "BDIGPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Efisa S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "EFISPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Caja Espana De Inversiones Salamanca Y Soria S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "CSSOPTPXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bilbao Vizcaya Argentaria (Portugal) S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "BBVAPTPLXXX"
+        },
+        {
+          "branch_name": "Lisbon",
+          "city": "Lisbon",
+          "swift_code": "BBVAPTPLTG2"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Comercial Portugues",
+      "branches": [
+        {
+          "branch_name": "Offshore Branch-corporate Area",
+          "city": "Funchal",
+          "swift_code": "BCOMPTPLOFI"
+        },
+        {
+          "branch_name": "Offshore Branch",
+          "city": "Funchal",
+          "swift_code": "BCOMPTPLSFE"
+        },
+        {
+          "branch_name": "Funchal",
+          "city": "Funchal",
+          "swift_code": "BCOMPTPLFUN"
+        },
+        {
+          "branch_name": "All Non Listed Branches",
+          "city": "Lisbon",
+          "swift_code": "BCOMPTPLXXX"
+        },
+        {
+          "branch_name": "Bopb-lisboa",
+          "city": "Lisbon",
+          "swift_code": "BCOMPTPLB01"
+        },
+        {
+          "branch_name": "Correspondent Banking Division",
+          "city": "Lisbon",
+          "swift_code": "BCOMPTPLINT"
+        },
+        {
+          "branch_name": "Institutional Custody",
+          "city": "Lisbon",
+          "swift_code": "BCOMPTPLDRI"
+        },
+        {
+          "branch_name": "Rua Instituto Industrial N 7",
+          "city": "Lisbon",
+          "swift_code": "BCOMPTPLLEU"
+        },
+        {
+          "branch_name": "Treasury Division",
+          "city": "Lisbon",
+          "swift_code": "BCOMPTPLDIF"
+        },
+        {
+          "branch_name": "2744-005 Lisbon",
+          "city": "Lisbon",
+          "swift_code": "BCOMPTPLB07"
+        },
+        {
+          "branch_name": "Lisbon",
+          "city": "Lisbon",
+          "swift_code": "BCOMPTPLLES"
+        },
+        {
+          "branch_name": "Tagus Park",
+          "city": "Oeiras",
+          "swift_code": "BCOMPTPLOTP"
+        },
+        {
+          "branch_name": "Latino Coelho",
+          "city": "Porto",
+          "swift_code": "BCOMPTPLPLC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Oeiras",
+          "swift_code": "CISFPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bic Portugues S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "BPNPPTPLXXX"
+        },
+        {
+          "branch_name": "Sucursal Financeira Exterior",
+          "city": "Madeira",
+          "swift_code": "BPNPPTPLSFE"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bic Portugues",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "BCCBPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Do Brasil Ag Sucursal Em Portugal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "BRASPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bai Europa Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "BAIPPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "As Privatbank Sucursal Em Portugal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "PRTTPTP2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agencia Gestao Da Tesouraria E Div. Publica Igcp Epe",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "IGCPPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Nelas Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nelas",
+          "swift_code": "CIGMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Favaios Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Favaios",
+          "swift_code": "CDGTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bpi Gestao De Activos-sociedade Gestora De Fundo S De Investimento Mobiliario, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "BPGAPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Montemor-o-novo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montemor-o-novo",
+          "swift_code": "CIAUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Mora Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mora",
+          "swift_code": "CIATPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Comercial De Macau S.a.r.l.",
+      "branches": [
+        {
+          "branch_name": "4100 Porto",
+          "city": "Porto",
+          "swift_code": "CMACPTP1OPR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "CMACPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Beja E Mertola Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Beja",
+          "swift_code": "CERMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Cetelem Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "CETMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Mortagua Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mortagua",
+          "swift_code": "CEOMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa Credito Agricola Mutuo De Leiria Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Leiria",
+          "swift_code": "CDCTPTP2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa Banco De Investimento S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "CXBIPTPLXXX"
+        },
+        {
+          "branch_name": "Madeira Offshore Branch",
+          "city": "Madeira",
+          "swift_code": "CXBIPTPLMOB"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa Central De Credito Agricola Mutuo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "CCCMPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa Economica Da Misericordia De Angra Do Heroismo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Angra Do Heroismo",
+          "swift_code": "CEMAPTP2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Fortis Sucursal Em Portugal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "GEBAPTPLXXX"
+        },
+        {
+          "branch_name": "Lisbon",
+          "city": "Lisbon",
+          "swift_code": "GEBAPTPLLIS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Portugal",
+      "branches": [
+        {
+          "branch_name": "Lisbon",
+          "city": "Lisbon",
+          "swift_code": "BNPAPTPLLIS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Privee Espirito Santo S.A. Sucursal Em Portugal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "CFESPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Privee Edmond De Rothschild Europe Sucursal Portuguesa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "PRIBPTPXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banif Banco Internacional Do Funchal S.A.",
+      "branches": [
+        {
+          "branch_name": "Endereco Swift Funchal",
+          "city": "Funchal",
+          "swift_code": "BNIFPTPLFUN"
+        },
+        {
+          "branch_name": "Endereco Swift Sfe",
+          "city": "Funchal",
+          "swift_code": "BNIFPTPLSFE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "BNIFPTPLXXX"
+        },
+        {
+          "branch_name": "Endereco Swift Porto",
+          "city": "Porto",
+          "swift_code": "BNIFPTPLOPO"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Sucursal Em Portugal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "BNPAPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Santander Totta Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "TOTAPTPLXXX"
+        },
+        {
+          "branch_name": "Madeira Offshore Branch",
+          "city": "Madeira",
+          "swift_code": "TOTAPTPLMOB"
+        }
+      ]
+    },
+    {
+      "bank_name": "Best Banco Electronico De Servico Total S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "BESZPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Rural Europa S/A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "RUBAPTPFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Privado Atlantico Europa Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "BAPAPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banif Banco De Investimento S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "BNFIPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Portugues De Investimento S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "BPIPPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Portugues De Gestao S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "BPGPPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Axa Portugal Seguros Vida",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "APSVPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Axa Life Europe Limited Sucursal Em Portugal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "AXLPPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Autoeuropa",
+      "branches": [
+        {
+          "branch_name": "Autoeuropa",
+          "city": "Quinta Do",
+          "swift_code": "AUOEPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Atrium Investimentos-sociedade Financeira De Corretagem, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "AIFCPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Argentaria Volare",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "ARVOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ascor Dealer S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "ASDEPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Allianz Portugal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "ALPOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Activobabnk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Oeiras",
+          "swift_code": "ACTVPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "A-vision-prestacao De Servicos",
+      "branches": [
+        {
+          "branch_name": "A-vision-prestacao De Servicos",
+          "city": "Palmela",
+          "swift_code": "AVPEPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ncg Banco S.A. Sucursal Em Portugal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Porto",
+          "swift_code": "CAGLPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Itau Bba International Limited Sucursal Em Portugal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "ITAUPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interbolsa S.G.S.L.S.C.V.M. S.A.",
+      "branches": [
+        {
+          "branch_name": "Technical Account",
+          "city": "Porto",
+          "swift_code": "IBLSPTPP999"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hyposwiss Private Bank Geneve Sa Sucursal Em Portugal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "CCIEPTPXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finibanco S.A.",
+      "branches": [
+        {
+          "branch_name": "1050 Lisbon",
+          "city": "Lisbon",
+          "swift_code": "FBCOPTPPLIS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Porto",
+          "swift_code": "FBCOPTPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing B Nv/Sa Sucursal Em Portugal (Formerly Bank Brussels Lambert Lisbon Branch)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "BBRUPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Ag Portugal Branch",
+      "branches": [
+        {
+          "branch_name": "Sucursal Financeira Exterior-offshore",
+          "city": "Funchal",
+          "swift_code": "DEUTPTPLFUN"
+        },
+        {
+          "branch_name": "Sicoi",
+          "city": "Lisbon",
+          "swift_code": "DEUTPTPLSIC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "DEUTPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dexia Sabadell Sucursal Portugal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "DSBLPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Barcelos Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Barcelos",
+          "swift_code": "CEGTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Azambuja Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Azambuja",
+          "swift_code": "CROOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Avis",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Avis",
+          "swift_code": "CEGUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Arronches Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Arronches",
+          "swift_code": "CEATPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Arouca Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Arouca",
+          "swift_code": "CRLTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Arruda Dos Vinhos Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Arruda Dos Vinhos",
+          "swift_code": "CRIOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Armamar E Moime",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Armamar",
+          "swift_code": "CEAMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Anadia Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Anadia",
+          "swift_code": "CRGMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Aveiro Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Aveiro",
+          "swift_code": "CEGMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Alte Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Alte",
+          "swift_code": "CRIUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Alter Do Chao,crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Alter Do Chao",
+          "swift_code": "CRAOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Aljezur Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Aljezur",
+          "swift_code": "CROMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Amares, Coopertiva De Responsabilisade Limitada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Amares",
+          "swift_code": "CRRMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Alenquer Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Alenquer",
+          "swift_code": "CCLMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Alcoutim Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Martim Longo",
+          "swift_code": "CRAUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Alcobaca, Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Alcobaca",
+          "swift_code": "CRRTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Alcanhoes, C.rl.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Santarem",
+          "swift_code": "CRRUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Alcacovas E Viana Do Alentejo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Viana Do Alentejo",
+          "swift_code": "CCOOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Alcacer Do Sal Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Alcacer Do Sal",
+          "swift_code": "CRGTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Wealth Management, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "BPWMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Securities Services, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "PARBPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bie-bank And Trust Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "BITUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Fundos, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "BAUUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Psa Finance (sucursal Em Portugal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "PSABPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bpi Dealer-sociedade Financeira De Corretagem, A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Porto",
+          "swift_code": "BSFCPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of China (luxembourg) S.a. Portugal Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "BKCHPTPLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Primus, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Paco De",
+          "swift_code": "PRUUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Santander Consumer Portugal Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "IBNBPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Mello De Investimentos S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "MEIIPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Mello",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "MEOLPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Mello Imobiliario, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "MEIMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Mais Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "MIISPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Madesant-sociedade Unipessoal S.a. (zona Franca Da Madeira",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Funchal",
+          "swift_code": "MASNPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Expresso Atlantico Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "EXATPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Investimento Imobiliario Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "INIOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bolsa De Derivados Do Porto",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Porto",
+          "swift_code": "XBDPPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Boston Latino Americano S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Funchal",
+          "swift_code": "BBLAPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Credibom, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Alges",
+          "swift_code": "CRBBPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Fafe Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fafe",
+          "swift_code": "CDGUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Estremoz, Monfrte E Arronches Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Estremoz",
+          "swift_code": "CDAOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Evora Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Evora",
+          "swift_code": "CDGMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Estarreja Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Estarreja",
+          "swift_code": "CDATPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Entre Tejo E Sado Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Setubal",
+          "swift_code": "CDAUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Coruche Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Coruche",
+          "swift_code": "CELOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Coimbra Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Coimbra",
+          "swift_code": "CELTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Celorico Da Beira",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Celorico Da Beira",
+          "swift_code": "CELUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Castro Daire Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Castro Daire",
+          "swift_code": "CELMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Carregal Do Sal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Carregal Do Sal",
+          "swift_code": "CEOTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Cantanhede Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cantanhede",
+          "swift_code": "CEOUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Campo Maior Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Campo Maior",
+          "swift_code": "CEAUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Cabeceiras De B Asto, Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Refojos",
+          "swift_code": "CEIUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Bombarral Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bombarral",
+          "swift_code": "CERTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Castelo Branco Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Castelo Branco",
+          "swift_code": "CEOOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Benavente Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Benavente",
+          "swift_code": "CERUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Borba Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Borba",
+          "swift_code": "CEROPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Aguiar Da Beira",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Aguiar Da Beira",
+          "swift_code": "CCCTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Albufeira Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Albufeira",
+          "swift_code": "CCOTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Cadaval Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cadaval",
+          "swift_code": "CEITPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Albergaria-a-velha",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Albergaria-a-velha",
+          "swift_code": "CCOUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Das Serras De Ansiao Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ansiao",
+          "swift_code": "CCLUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Abrunheira Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montemor-o-velho",
+          "swift_code": "CCLTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Agueda, Crl.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Agueda",
+          "swift_code": "CCLOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Da Zona Do Pinhal Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Serta",
+          "swift_code": "CCCUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Da Terra Quente Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Carrazeda De Ansiaes",
+          "swift_code": "CCIUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Da Regiao Do Fundao",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fundao",
+          "swift_code": "CCIMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Da Murtosa Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Murtosa",
+          "swift_code": "CCRUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Caldas Da Rainh A, Obidos E Peniche, Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Caldas Da Rainha",
+          "swift_code": "CEIOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Da Costa Verde Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vila Nova De Gaia",
+          "swift_code": "CCGTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Da Figueira Da Fozcrl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Figueira Da Foz",
+          "swift_code": "CCGOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Da Batalha Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Batalha",
+          "swift_code": "CCGMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Da Guarda Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guarda",
+          "swift_code": "CCRMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Da Regiao De Braga",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mirandela",
+          "swift_code": "CCROPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Da Area Metropolitana Do Porto Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maia",
+          "swift_code": "CCATPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Da Chamusca, C.r.l",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chamusca",
+          "swift_code": "CCCHPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricloa Mutuo De Aljustrel E Alm Odovar, C.r.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Aljustrel",
+          "swift_code": "CROUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa Agricola Gestione",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lisbon",
+          "swift_code": "CAOGPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Montalegre, Cr",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montalegre",
+          "swift_code": "CDLOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Monforte Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monforte",
+          "swift_code": "CDLTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Mafra Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mafra",
+          "swift_code": "CDOTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Lourinha Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lourinha",
+          "swift_code": "CDOUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo Beira Centro Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Arganil",
+          "swift_code": "CCAUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Mogadouro E Vim Ioso, Cooperativa De Responsabilidade Limitada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mogadouro",
+          "swift_code": "CDLUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Loures, Sintra E Litoral, Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Loures",
+          "swift_code": "CDCOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Lamego Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lamego",
+          "swift_code": "CDIOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Lagoa Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lagoa",
+          "swift_code": "CDITPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Lafoes Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vouzela",
+          "swift_code": "CDIUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Mira Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mira",
+          "swift_code": "CDLMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Guimaraes",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guimaraes",
+          "swift_code": "CDRTPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Fornos De Algodres-c.r.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fornos De Algodres",
+          "swift_code": "CDRUPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Figueiro Dos Vinhos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Figueiro Dos Vinhos",
+          "swift_code": "CDRMPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Ferreira Do Alentejo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ferreira Do Alentejo",
+          "swift_code": "CDGOPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Idanha-a-nova E",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Idanha-a-nova",
+          "swift_code": "CDROPTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caixa De Credito Agricola Mutuo De Ilhavo Crl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ilhavo",
+          "swift_code": "CDIMPTP1XXX"
+        }
+      ]
+    }
+  ]
+}

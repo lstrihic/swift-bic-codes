@@ -1,0 +1,1382 @@
+{
+  "country_name": "Colombia",
+  "alpha_2": "CO",
+  "country_code": "170",
+  "banks": [
+    {
+      "bank_name": "Suvalor",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "SUVACOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronica De Columbia",
+      "branches": [
+        {
+          "branch_name": "Samcol",
+          "city": "Bogota",
+          "swift_code": "SECTCOB1813"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "SECTCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Refineria De Cartagena S.a.",
+      "branches": [
+        {
+          "branch_name": "Patrimonio Autonomo",
+          "city": "Bogota",
+          "swift_code": "RCARCOB2PTA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "RCARCOB2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Coltefinanciera S.A. Compania De Financiamiento Comercial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Medellin",
+          "swift_code": "CLTECOBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Colombia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CITICOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Camara De Compensacion De Divisas De Colombia S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CCDCCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Colombia Corporacion Financiera S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "BNPACOBBXXX"
+        },
+        {
+          "branch_name": "Securities Services",
+          "city": "Bogota",
+          "swift_code": "BNPACOBBB2S"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bancolombia S.A.",
+      "branches": [
+        {
+          "branch_name": "Barranquilla",
+          "city": "Barranquilla",
+          "swift_code": "COLOCOBMBAQ"
+        },
+        {
+          "branch_name": "Bucaramanga",
+          "city": "Bucaramanga",
+          "swift_code": "COLOCOBMBGA"
+        },
+        {
+          "branch_name": "Cali",
+          "city": "Cali",
+          "swift_code": "COLOCOBMCL1"
+        },
+        {
+          "branch_name": "Cartagena",
+          "city": "Cartagena",
+          "swift_code": "COLOCOBMCTG"
+        },
+        {
+          "branch_name": "Medellin",
+          "city": "Medellin",
+          "swift_code": "COLOCOBMMD1"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Medellin",
+          "swift_code": "COLOCOBMXXX"
+        },
+        {
+          "branch_name": "Pereira",
+          "city": "Pereira",
+          "swift_code": "COLOCOBMPEI"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Santander Colombia S.A.",
+      "branches": [
+        {
+          "branch_name": "Barranquilla",
+          "city": "Barranquilla",
+          "swift_code": "BSCHCOBBBAQ"
+        },
+        {
+          "branch_name": "Bogota",
+          "city": "Bogota",
+          "swift_code": "BSCHCOBBBO1"
+        },
+        {
+          "branch_name": "Security Services Colombia",
+          "city": "Bogota",
+          "swift_code": "BSCHCOBBSSC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "BSCHCOBBXXX"
+        },
+        {
+          "branch_name": "Cali",
+          "city": "Cali",
+          "swift_code": "BSCHCOBBCL1"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Procredit Colombia Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "PRCBCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Popular-Colombia",
+      "branches": [
+        {
+          "branch_name": "Armenia",
+          "city": "Armenia",
+          "swift_code": "BPOPCOBBAXM"
+        },
+        {
+          "branch_name": "Zona Norte",
+          "city": "Barranquilla",
+          "swift_code": "BPOPCOBBBAQ"
+        },
+        {
+          "branch_name": "Zona 1",
+          "city": "Bogota",
+          "swift_code": "BPOPCOBBBO1"
+        },
+        {
+          "branch_name": "Zona 2",
+          "city": "Bogota",
+          "swift_code": "BPOPCOBBBO2"
+        },
+        {
+          "branch_name": "Zona 3",
+          "city": "Bogota",
+          "swift_code": "BPOPCOBBBO3"
+        },
+        {
+          "branch_name": "Headquarters",
+          "city": "Bogota",
+          "swift_code": "BPOPCOBBXXX"
+        },
+        {
+          "branch_name": "Zona Oriental",
+          "city": "Bucaramanga",
+          "swift_code": "BPOPCOBBBGA"
+        },
+        {
+          "branch_name": "Cartagena",
+          "city": "Cartagena",
+          "swift_code": "BPOPCOBBCTG"
+        },
+        {
+          "branch_name": "Zona Central",
+          "city": "Ibague",
+          "swift_code": "BPOPCOBBIBE"
+        },
+        {
+          "branch_name": "Manizales",
+          "city": "Manizales",
+          "swift_code": "BPOPCOBBMZ1"
+        },
+        {
+          "branch_name": "Zona Noroccidental",
+          "city": "Medellin",
+          "swift_code": "BPOPCOBBMD1"
+        },
+        {
+          "branch_name": "Pereira",
+          "city": "Pereira",
+          "swift_code": "BPOPCOBBPEI"
+        },
+        {
+          "branch_name": "San Andres",
+          "city": "San Andres",
+          "swift_code": "BPOPCOBBADZ"
+        },
+        {
+          "branch_name": "Zona Sur",
+          "city": "Cali",
+          "swift_code": "BPOPCOBBCL1"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Gnb Sudameris",
+      "branches": [
+        {
+          "branch_name": "Barranquilla",
+          "city": "Barranquilla",
+          "swift_code": "BSUDCOBBBAQ"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "BSUDCOBBXXX"
+        },
+        {
+          "branch_name": "Cali",
+          "city": "Cali",
+          "swift_code": "BSUDCOBBCL1"
+        },
+        {
+          "branch_name": "Cartagena",
+          "city": "Cartagena",
+          "swift_code": "BSUDCOBBCTG"
+        },
+        {
+          "branch_name": "Bucaramanga",
+          "city": "Bucaramanga",
+          "swift_code": "BSUDCOBBBGA"
+        },
+        {
+          "branch_name": "Manizales",
+          "city": "Manizales",
+          "swift_code": "BSUDCOBBMZ1"
+        },
+        {
+          "branch_name": "Medellin",
+          "city": "Medellin",
+          "swift_code": "BSUDCOBBMD1"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Occidente",
+      "branches": [
+        {
+          "branch_name": "Barranquilla",
+          "city": "Barranquilla",
+          "swift_code": "OCCICOBCBAQ"
+        },
+        {
+          "branch_name": "Bogota",
+          "city": "Bogota",
+          "swift_code": "OCCICOBCBO2"
+        },
+        {
+          "branch_name": "Bucaramanga",
+          "city": "Bucaramanga",
+          "swift_code": "OCCICOBCBGA"
+        },
+        {
+          "branch_name": "Branch",
+          "city": "Cali",
+          "swift_code": "OCCICOBCCL1"
+        },
+        {
+          "branch_name": "Headquarters",
+          "city": "Cali",
+          "swift_code": "OCCICOBCXXX"
+        },
+        {
+          "branch_name": "Cartagena",
+          "city": "Cartagena",
+          "swift_code": "OCCICOBCCTG"
+        },
+        {
+          "branch_name": "Medellin",
+          "city": "Medellin",
+          "swift_code": "OCCICOBCMD4"
+        },
+        {
+          "branch_name": "San Andres",
+          "city": "San Andres",
+          "swift_code": "OCCICOBCADZ"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De La Republica",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "BREPCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Comercio Exterior S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "BCEXCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Bogota",
+      "branches": [
+        {
+          "branch_name": "Barranquilla",
+          "city": "Barranquilla",
+          "swift_code": "BBOGCOBBBAQ"
+        },
+        {
+          "branch_name": "Bucaramanga",
+          "city": "Bucaramanga",
+          "swift_code": "BBOGCOBBBGA"
+        },
+        {
+          "branch_name": "Cali",
+          "city": "Cali",
+          "swift_code": "BBOGCOBBCL1"
+        },
+        {
+          "branch_name": "Cartagena",
+          "city": "Cartagena",
+          "swift_code": "BBOGCOBBCTG"
+        },
+        {
+          "branch_name": "Cucuta",
+          "city": "Cucuta",
+          "swift_code": "BBOGCOBBCUC"
+        },
+        {
+          "branch_name": "Manizales",
+          "city": "Manizales",
+          "swift_code": "BBOGCOBBMZ1"
+        },
+        {
+          "branch_name": "Headquarters Offices",
+          "city": "Bogota",
+          "swift_code": "BBOGCOBBBO1"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "BBOGCOBBXXX"
+        },
+        {
+          "branch_name": "Medellin",
+          "city": "Medellin",
+          "swift_code": "BBOGCOBBMD1"
+        },
+        {
+          "branch_name": "Pereira",
+          "city": "Pereira",
+          "swift_code": "BBOGCOBBPEI"
+        },
+        {
+          "branch_name": "San Andres",
+          "city": "San Andres",
+          "swift_code": "BBOGCOBBADZ"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Davivienda S.A.(Formerly Granbanco Bancafe S.A.)",
+      "branches": [
+        {
+          "branch_name": "Barranquilla",
+          "city": "Barranquilla",
+          "swift_code": "CAFECOBBBAQ"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CAFECOBBXXX"
+        },
+        {
+          "branch_name": "Cali",
+          "city": "Cali",
+          "swift_code": "CAFECOBBCL1"
+        },
+        {
+          "branch_name": "Medellin",
+          "city": "Medellin",
+          "swift_code": "CAFECOBBMD1"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Colpatria",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "COLPCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Caja Social",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CASOCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bilbao Vizcaya Argentaria Colombia S.A.",
+      "branches": [
+        {
+          "branch_name": "Headquarters",
+          "city": "Bogota",
+          "swift_code": "GEROCOBBBO1"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "GEROCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Av Villas S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "BAVICOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Agrario De Colombia S.A. (Formerly Caja De Credito Agrario Industrial Y Minero)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CCAICOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ach Colombia S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "ACHCCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Progreso Corporacion Financiera S.a.",
+      "branches": [
+        {
+          "branch_name": "Cali",
+          "city": "Cali",
+          "swift_code": "CFPRCOB10BC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CFPRCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deposito Centralizado De Valores De Colombia S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "DCVDCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Compania General De Inversiones Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "COGICOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ascredibanco",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "ASCRCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alliance Enterprise S.a.s.",
+      "branches": [
+        {
+          "branch_name": "Lowe Ssp-3 Sa",
+          "city": "Bogota",
+          "swift_code": "HUBCCOBBLWE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "HUBCCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Administradora Colombiana De Pensiones-colpensiones",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "ACDPCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Acciones Y Valores S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "ACVRCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Polipropileno Del Caribe S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "PPCOCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Macrofinanciera, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "MCTBCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jpmorgan Corporacion Financiera S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CHASCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Colombia , S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "BISTCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Helm Bank",
+      "branches": [
+        {
+          "branch_name": "Barranquilla",
+          "city": "Barranquilla",
+          "swift_code": "BCTOCOBBBAQ"
+        },
+        {
+          "branch_name": "Cali",
+          "city": "Cali",
+          "swift_code": "BCTOCOBBCL1"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "BCTOCOBBXXX"
+        },
+        {
+          "branch_name": "Medellin",
+          "city": "Medellin",
+          "swift_code": "BCTOCOBBMD1"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Miami",
+          "swift_code": "HELMUS31XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Giros Y Finanzas C.F.C. S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cali",
+          "swift_code": "GYDVCOBCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fondo Latinoamericano De Reservas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "FLARCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fondo De Garantias De Instituciones Financieras",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "FOGICOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera Energetica Nacional S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "FENSCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera Cambiamos S.A. C.F.C.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "FIBFCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fiduciaria Bogota",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "FBOGCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecopetrol S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "ECOPCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Correval S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CRVLCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion Financiera Colombiana (Formerly Corporacion Financiera Del Valle S.A.)",
+      "branches": [
+        {
+          "branch_name": "Barranquilla Agency",
+          "city": "Barranquilla",
+          "swift_code": "CFVACOBCBAQ"
+        },
+        {
+          "branch_name": "Bogota Agency",
+          "city": "Bogota",
+          "swift_code": "CFVACOBCBO1"
+        },
+        {
+          "branch_name": "International Branch",
+          "city": "Cali",
+          "swift_code": "CFVACOBCCL1"
+        },
+        {
+          "branch_name": "Cali",
+          "city": "Cali",
+          "swift_code": "CFVACOBCFXO"
+        },
+        {
+          "branch_name": "Headquarters",
+          "city": "Cali",
+          "swift_code": "CFVACOBCXXX"
+        },
+        {
+          "branch_name": "Medellin Agency",
+          "city": "Medellin",
+          "swift_code": "CFVACOBCMD1"
+        }
+      ]
+    },
+    {
+      "bank_name": "Compania De Profesionales De Bolsa S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "PDBCCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Compania Financiera Internacional Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "FINCCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Compania De Ahorro E Vivienda Colmena",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CAVCCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Coltejer S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Itagui",
+          "swift_code": "COLJCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Colsubsidio",
+      "branches": [
+        {
+          "branch_name": "Colsubsidio",
+          "city": "Bogota",
+          "swift_code": "CCSFCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Colombia Movil Sa Esp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "TIGOCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cititrust Bogota",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CTRUCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CITICO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cerveceria Union S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CEUNCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cerveceria Del Valle S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CEVACOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cenit Transporte Y Logistica De Hidrocarburos S.a.s.",
+      "branches": [
+        {
+          "branch_name": "Cenit Transporte Y Logistica De Hidrocarburos S.a.s.",
+          "city": "Bogota",
+          "swift_code": "CTLHCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caja Popular Cooperativa Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CAPCCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bolsa Y Renta Comisionista De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Medellin",
+          "swift_code": "BRMBCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bolsa De Valores De Colombia S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "XBOGCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bavaria S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "BAVRCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Baring Securities (andean Pact) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "BSECCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Santander De Negocios Colombia S.a.",
+      "branches": [
+        {
+          "branch_name": "Banco Santander De Negocios Colombia S.a.",
+          "city": "Bogota",
+          "swift_code": "SANTCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Pichincha S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "PICHCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Mundial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "BMUNCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Falabella S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "FALACOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deposito Central De Valores (dcv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "DCVCCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corredores Asociados S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CRRDCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion Popular De Ahorro E Vivienda Corpavi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CPOACOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion Nacional De Ahorro E Vivienda Conavi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Medellin",
+          "swift_code": "CNAACOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion Grancolombiana De Ahorro E Vivienda Granahorrar",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CGAGCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion Financiera Union Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "COFUCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion Financiera Popular Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CFPOCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion Financiera Inter S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CFIICOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion Financiera Del Transporte S.a.",
+      "branches": [
+        {
+          "branch_name": "Medellin",
+          "city": "Medellin",
+          "swift_code": "TRFCCOB10BM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "TRFCCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion Financiera Del Tolima Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CFTOCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion Financiera De Santander",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bucaramanga",
+          "swift_code": "CORFCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion Financiera De Occidente S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CFOPCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion Financiera De Caldas S.a.",
+      "branches": [
+        {
+          "branch_name": "Branch Office",
+          "city": "Manizales",
+          "swift_code": "CFCACOB10B2"
+        },
+        {
+          "branch_name": "Bogota",
+          "city": "Bogota",
+          "swift_code": "CFCACOB10BB"
+        },
+        {
+          "branch_name": "Cali",
+          "city": "Cali",
+          "swift_code": "CFCACOB10BC"
+        },
+        {
+          "branch_name": "Medellin",
+          "city": "Medellin",
+          "swift_code": "CFCACOB10BM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manizales",
+          "swift_code": "CFCACOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion Financiera Aliadas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CFALCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion De Ahorro Y Vivienda Las Villas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CAHVCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion De Ahorro E Vivienda Del Valle",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CAVVCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperativa Financiera De Antioquia, Cfa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "FIACCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Consorcio Fiducolombia Fiducomercio Municipio Sant",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cali",
+          "swift_code": "CFFMCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Compania Global De Pinturas S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Medellin",
+          "swift_code": "COOLCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Postobon S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Medellin",
+          "swift_code": "PTBOCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Municipio Santiago De Cali",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cali",
+          "swift_code": "MSCLCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Municipio De Medellin",
+      "branches": [
+        {
+          "branch_name": "Municipio De Medellin",
+          "city": "Medellin",
+          "swift_code": "MUMDCOBMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercantil De Invesiones Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "INMECOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Malteria Tropical S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "MATOCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Itau Bba Colombia Sa Corporacion Financeira",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CBBACOB1XXX"
+        },
+        {
+          "branch_name": "Itau Bba Colombia Sa Corporacion Financeira",
+          "city": "Bogota",
+          "swift_code": "CBBACOBBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "CBBACO21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inversora Pichincha S.a. C.f.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "INPFCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intercanje Limitada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "IBOLCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Instituto De Credito Territorial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "ICRTCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Impresora Del Sur S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "IMSUCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hocol S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "HCOLCOBBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Golden Gate Investments Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "BCAMCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Securities S.a. Comisionista De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Global Securities S.a. Comisionista De Bolsa",
+          "city": "Medellin",
+          "swift_code": "GSCBCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fondo Andino De Reservas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "FOARCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fitch Ratings Colombia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "FRIPCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera Monserrate Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "FIMOCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera De Inversiones Ltda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "FIESCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera Colpatria S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "FCOLCOB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Empresa De Telecomunicaciones De Bogota S.a E.sp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bogota",
+          "swift_code": "ETBCCOBBXXX"
+        }
+      ]
+    }
+  ]
+}

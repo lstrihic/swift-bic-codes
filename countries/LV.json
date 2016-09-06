@@ -1,0 +1,527 @@
+{
+  "country_name": "Latvia",
+  "alpha_2": "LV",
+  "country_code": "428",
+  "banks": [
+    {
+      "bank_name": "Suprema As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "SPRALV21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sia Transact Pro",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "TPROLV22XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "TPROLV21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sia Eps Finance Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "SEFMLV21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sia Dixipay",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "SIDILV21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronics Baltics",
+      "branches": [
+        {
+          "branch_name": "Riga",
+          "city": "Riga",
+          "swift_code": "SECTLV21961"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "SECTLV21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sc Parex Banka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "PAEXLV21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Riga Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "XRISLV21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pohjola Bank Plc Latvian Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "OKOYLV2XXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "OKOYLV21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ogres Komercbanka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "OKBALV21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ltfja Kks Jurnieku Forums",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "LKJFLV21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Llc Streampay",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "LLSTLV21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Llc Investment Brokerage Company 'maximus Capital Markets'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "LIBCLV21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Latvian Chamber Of Agriculture Cooperative Credit Union 'krajkase'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kuldiga",
+          "swift_code": "KRAJLV22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Latgales Finansu Un Investiciju Kompanija As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rezekne",
+          "swift_code": "LFIKLV21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Regionala Investiciju Banka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "RIBRLV22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Norvik Banka, Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "LATBLV22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Bank Finland Plc Latvia Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "NDEALV2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mortgage And Land Bank Of Latvia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "LHZBLV22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Latvijas Pasta Banka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "LAPBLV2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Latvian Central Depository,The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "LCDELV22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsc Citadele Banka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "PARXLV22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ge Money Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "BATRLV2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eesti Krediidipank Latvijas Filiale",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "MOSBLV2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Danske Bank A/S,Latvija Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "MARALV22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Latvia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "LACBLV2XXXX"
+        },
+        {
+          "branch_name": "Ccbm Operations",
+          "city": "Riga",
+          "swift_code": "LACBLV2XCCB"
+        }
+      ]
+    },
+    {
+      "bank_name": "Baltic International Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "BLIBLV22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "As Unicredit Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "VBRILV2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "As Smp Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "MULTLV2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "As Privatbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "PRTTLV22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "As Ltb Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "LATCLV22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "As Latvijas Biznesa Banka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "LLBBLV2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "As Dnb Banka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "RIKOLV2XXXX"
+        },
+        {
+          "branch_name": "4600 Rezekne",
+          "city": "Rezekne",
+          "swift_code": "RIKOLV21023"
+        },
+        {
+          "branch_name": "Bolderaja Branch",
+          "city": "Riga",
+          "swift_code": "RIKOLV21033"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ablv Bank, As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "AIZKLV22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kooperativa Krajaizdevu Sabiedriba 'dzelzcelnieks Ks'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "KKSDLV21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsc Rb Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "JSSILV21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jsc Latvian Post",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "LPNSLV21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Data Latvia",
+      "branches": [
+        {
+          "branch_name": "First Data Latvia",
+          "city": "Riga",
+          "swift_code": "FRDLLV22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fincross Securities As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "FSECLV21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dnovo Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "DNOVLV21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Balticpay Corporation Sia",
+      "branches": [
+        {
+          "branch_name": "Balticpay Corporation Sia",
+          "city": "Riga",
+          "swift_code": "BLOILV21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "As Ibs Renesource Capital",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "IRCALV21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "As Baltijas Privatbanka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "BLPBLV21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ab.lv Capital Markets",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "ABCRLV21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "A/s Saules Investicijas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "TAPSLV21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trasta Komercbanka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "KBRBLV2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Treasury Of The Republic Of Latvia, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "TRELLV22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Seb Banka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "UNLALV2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rigensis Bank As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "RGNSLV22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rietumu Banka",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "RTMBLV2XXXX"
+        }
+      ]
+    }
+  ]
+}

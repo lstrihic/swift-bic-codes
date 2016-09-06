@@ -1,0 +1,112 @@
+{
+  "country_name": "Haiti",
+  "alpha_2": "HT",
+  "country_code": "332",
+  "banks": [
+    {
+      "bank_name": "Unibank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Petion-ville",
+          "swift_code": "UBNKHTPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Haitienne De Banque S.a.",
+      "branches": [
+        {
+          "branch_name": "Delmas Branch",
+          "city": "Port Au Prince",
+          "swift_code": "SOGHHTP1022"
+        },
+        {
+          "branch_name": "Petion-ville",
+          "city": "Petion-ville",
+          "swift_code": "SOGHHTP1023"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Port Au Prince",
+          "swift_code": "SOGHHTPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Bank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Au Prince",
+          "swift_code": "CPPLHTPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Nationale De Developpement Agricole Et Industriel",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cap-haitien",
+          "swift_code": "BNDIHT21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Nationale De Credit (bnc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Au Prince",
+          "swift_code": "BNCHHTPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De Promotion Commerciale Et Industrielle S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Petion-ville",
+          "swift_code": "BDPCHTP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De La Republique D'haiti",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Au Prince",
+          "swift_code": "BRHAHTPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De L'union Haitienne",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Au Prince",
+          "swift_code": "BUHEHTPPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Nationale De Paris",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Port Au Prince",
+          "swift_code": "BNPAHTP1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "BNPAJESHXXX"
+        }
+      ]
+    }
+  ]
+}

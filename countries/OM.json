@@ -1,0 +1,472 @@
+{
+  "country_name": "Oman",
+  "alpha_2": "OM",
+  "country_code": "512",
+  "banks": [
+    {
+      "bank_name": "Vision Securities Company Llc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Muscat",
+          "swift_code": "VSCLOMR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vision Investment Services Co (s.a.o.c",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "VISIOMR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Securities L.l.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "USECOMR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State General Reserve Fund-ministry Of Finance",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Muscat",
+          "swift_code": "SGRFOMRXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Bank Of India, Muscat, Oman",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Muscat",
+          "swift_code": "SBINOMRXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oman United Exchange Co. Llc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Muscat",
+          "swift_code": "OMUEOMR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oman Security Portfolio Co. (saog",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "OSPOOMR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oman Investments Services (saoc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "OISOOMR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Oman",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "CBOMOMRUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankmuscat Saog",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Muscat",
+          "swift_code": "BMUSOMRXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Sohar S.a.o.g",
+      "branches": [
+        {
+          "branch_name": "Sohar Islamic",
+          "city": "Ruwi",
+          "swift_code": "BSHROMRUISL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "BSHROMRUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Beirut S.a.l.-oman Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Muscat",
+          "swift_code": "BABEOMRXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Baroda, Greater Muttrah Branch",
+      "branches": [
+        {
+          "branch_name": "Salalah Branch",
+          "city": "Muttrah",
+          "swift_code": "BARBOMMXSAL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "BARBOMMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Nizwa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Muscat",
+          "swift_code": "BNZWOMRXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alizz Islamic Bank",
+      "branches": [
+        {
+          "branch_name": "Alizz Islamic Bank",
+          "city": "Muscat",
+          "swift_code": "IZZBOMRUXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Muscat",
+          "swift_code": "IZZBOMR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Dhofar (s.a.o.g.",
+      "branches": [
+        {
+          "branch_name": "Maisarah Islamic Banking Services",
+          "city": "Ruwi",
+          "swift_code": "BDOFOMRUMIB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "BDOFOMRUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Shurooq Securities Co Llc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "SHUROMR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Shalman Securities Co (saog",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Muttrah",
+          "swift_code": "SHEAOMR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Qurum Investment Services (saoc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "QURUOMR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Madina Financial And Investment Services Co. (s.a.o.g",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "MFIEOMR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ahli Bank S.a.o.g",
+      "branches": [
+        {
+          "branch_name": "Al Hilal",
+          "city": "Muscat",
+          "swift_code": "AUBOOMRUALH"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "AUBOOMRUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Amin Securities Company Llc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "ASMLOMR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Ahlia Asset Mgt Co. (saoc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "AAMOOMR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oman Banking Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "BOGUOMR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oman Arab Bank Saoc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "OMABOMRUXXX"
+        },
+        {
+          "branch_name": "Al-yusr Islamic Banking",
+          "city": "Ruwi",
+          "swift_code": "OMABOMRUYSR"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oman And Uae Exchange Centre Co Llc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "OUAEOMRUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oman And Emirates Investment Holding Co Saog",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "OMEMOMR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Securities Company Saog",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Al Harthy Complex",
+          "swift_code": "NASGOMR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Abu Dhabi, Oman Main Branch",
+      "branches": [
+        {
+          "branch_name": "Trade Finance Department",
+          "city": "Muttrah",
+          "swift_code": "NBADOMRXTFO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Muscat",
+          "swift_code": "NBADOMRXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Octal Petrochemicals Fzc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Muscat",
+          "swift_code": "OPCFOMRXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Muscat Securities Market",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Muscat",
+          "swift_code": "XMUSOMM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Muscat Depository And Securities Registration Co Saoc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "MDSROMR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Financial Services",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "IFELOMR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Muzn Islamic Banking Trading Under National Bank Of Oman",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "MUZNOMR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Habib Bank Oman",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "HABBOMRXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Middle East Brokerage Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "MEBCOMR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gulf Investment Services Co. (s.a.o.g",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "GISCOMR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank Oman S.a.o.g (formerly Hsbc Bank Middle East",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "BBMEOMRXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Financial Investments S.a.o.g",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi / Muscat",
+          "swift_code": "GFISOMR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financial Services Company Saog",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "FIVOOMR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oman International Development And Investment Company Saog",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "OIDIOMR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Financial Services Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ruwi",
+          "swift_code": "FISOOMR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Efg Hermes Oman Llc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Muscat",
+          "swift_code": "EFGHOMM1XXX"
+        }
+      ]
+    }
+  ]
+}

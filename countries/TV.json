@@ -1,0 +1,17 @@
+{
+  "country_name": "Tuvalu",
+  "alpha_2": "TV",
+  "country_code": "798",
+  "banks": [
+    {
+      "bank_name": "National Bank Of Tuvalu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Funafuti",
+          "swift_code": "NABTTVTVXXX"
+        }
+      ]
+    }
+  ]
+}

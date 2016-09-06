@@ -1,0 +1,312 @@
+{
+  "country_name": "C\u00f4te d'Ivoire",
+  "alpha_2": "CI",
+  "country_code": "384",
+  "banks": [
+    {
+      "bank_name": "Versus Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "VSBKCIABXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Bank For Africa Cote D'ivoire",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "UNAFCIABXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank Cote D'ivoire",
+      "branches": [
+        {
+          "branch_name": "Securities Services",
+          "city": "Abidjan",
+          "swift_code": "SCBLCIABSSU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "SCBLCIABXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Ivoirienne De Banque",
+      "branches": [
+        {
+          "branch_name": "Siege",
+          "city": "Abidjan",
+          "swift_code": "SIVBCIABXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale De Banques En Cote D'ivoire",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "SGCICIABXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sgi Hudson And Cie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "SGHUCIA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Guaranty Trust Bank Cote D'ivoire",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "GTBICIABXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Diamondbank Cote D'ivoire",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "DBLNCIABXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cofipa Investment Bank Ci",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "IBCICIABXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caisse Nationale Des Caisse Epargne",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "CNCGCIABXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank-cote D'ivoire S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "ECOCCIABXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bsic Cote D'ivoire",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "BSAHCIABXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bridge Bank Group Cote D'ivoire",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "BGCDCIABXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bourse Des Valeurs Abidjan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "XABJCIA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Biao Investissement",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "BRCICIA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bgfibank Cote D'ivoire",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "BGFICIABXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bourse Regionale Des Valeurs Mobilieres",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "BRVICIA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Regionale De Solidarite-cote D'ivoire",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "BRSWCIABXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Pour Le Financement De L'agriculture",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "BFACCIABXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Internationale Pour Le Commerce Et L'industrie De La Cote D'ivoire",
+      "branches": [
+        {
+          "branch_name": "Bouake",
+          "city": "Bouake",
+          "swift_code": "BICICIABBKE"
+        },
+        {
+          "branch_name": "Abidjan",
+          "city": "Abidjan",
+          "swift_code": "BICICIABBSE"
+        },
+        {
+          "branch_name": "Plateau",
+          "city": "Abidjan",
+          "swift_code": "BICICIABPLT"
+        },
+        {
+          "branch_name": "Sud",
+          "city": "Abidjan",
+          "swift_code": "BICICIABSUD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "BICICIABXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Nationale D'investissement",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "CSSSCIABXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Internationale Pour L'afrique De L'ouest (biaoci",
+      "branches": [
+        {
+          "branch_name": "Bouake",
+          "city": "Bouake",
+          "swift_code": "BIAOCIAB032"
+        },
+        {
+          "branch_name": "Korhogo",
+          "city": "Korhogo",
+          "swift_code": "BIAOCIAB033"
+        },
+        {
+          "branch_name": "Daloa",
+          "city": "Daloa",
+          "swift_code": "BIAOCIAB034"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "BIAOCIABXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De L'habitat De Cote D'ivoire",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "BHCICIABXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Atlantique Cote D'ivoire",
+      "branches": [
+        {
+          "branch_name": "San Pedro",
+          "city": "San Pedro",
+          "swift_code": "ATCICIABSAN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "ATCICIABXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Africa-cote D'ivoire",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "AFRICIABXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Access Bank Cote D'ivoire",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "OMFNCIABXXX"
+        }
+      ]
+    }
+  ]
+}

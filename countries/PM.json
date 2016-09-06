@@ -1,0 +1,37 @@
+{
+  "country_name": "Saint Pierre and Miquelon",
+  "alpha_2": "PM",
+  "country_code": "666",
+  "banks": [
+    {
+      "bank_name": "Credit Saint Pierrais",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Saint Pierre Et Miquelon",
+          "swift_code": "CSPIPMPMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cispm",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Saint Pierre Et Miquelon",
+          "swift_code": "CIPMPMP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De Saint-pierrre Et Miquelon",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Miquelon Langlade",
+          "swift_code": "BDILPMPMXXX"
+        }
+      ]
+    }
+  ]
+}

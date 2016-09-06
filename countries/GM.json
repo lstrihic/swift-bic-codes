@@ -1,0 +1,137 @@
+{
+  "country_name": "Gambia",
+  "alpha_2": "GM",
+  "country_code": "270",
+  "banks": [
+    {
+      "bank_name": "Zenith Bank Gambia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Banjul",
+          "swift_code": "ZEIBGMGMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "U.s. Africa Bank (gambia) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Banjul",
+          "swift_code": "USABGMG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trust Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Banjul",
+          "swift_code": "TBLTGMGMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank Gambia Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Banjul",
+          "swift_code": "SCBLGMGMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skye Bank Limited, Gambia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Banjul",
+          "swift_code": "SKYEGMGMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Guaranty Trust Bank (gambia) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Banjul",
+          "swift_code": "GTBGGMGMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First International Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Banjul",
+          "swift_code": "FIBLGMGMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Gambia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Serrekunda",
+          "swift_code": "ECOCGMGMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of The Gambia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Banjul",
+          "swift_code": "CBGAGMGMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bsic Gambia Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kanifing",
+          "swift_code": "BSAHGMGMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Phb (gambia) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Banjul",
+          "swift_code": "ITBCGMGMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Access Bank Gambia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Fajara",
+          "swift_code": "ACGAGMGFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Gambian Islamic Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Banjul",
+          "swift_code": "AGIXGMGMXXX"
+        }
+      ]
+    }
+  ]
+}

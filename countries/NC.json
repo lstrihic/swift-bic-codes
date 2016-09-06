@@ -1,0 +1,162 @@
+{
+  "country_name": "New Caledonia",
+  "alpha_2": "NC",
+  "country_code": "540",
+  "banks": [
+    {
+      "bank_name": "Tresor Public Noumea",
+      "branches": [
+        {
+          "branch_name": "Tresor Public Noumea",
+          "city": "Noumea",
+          "swift_code": "TRPUNCN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Caledonienne De Banque S G C B",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Noumea",
+          "swift_code": "SOGENCNNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oceor Lease Noumea",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Noumea",
+          "swift_code": "OCLNNCN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Noumea Credit",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Noumea",
+          "swift_code": "NOUCNCN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Joc Gestion Privee",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Noumea",
+          "swift_code": "JOGPNCN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ge Financement Pacifique Sas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Noumea",
+          "swift_code": "FPSSNCN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Csse Cit Agricole Mutuel Nlle Caledonie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Noumea",
+          "swift_code": "CCAENCN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Insititut D Emission D Outre-mer",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Noumea",
+          "swift_code": "INDDNCN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Caledonien Et Tahitien",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Noumea",
+          "swift_code": "CCTCNCN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Centre Financier De Noumea",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Noumea",
+          "swift_code": "CEFNNCN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caisse D'epargne De Nouvelle Caledonie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Noumea",
+          "swift_code": "CDNCNCN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Nouvelle Caledonie Noumea",
+      "branches": [
+        {
+          "branch_name": "Koumac",
+          "city": "Koumac",
+          "swift_code": "BNPANCNXKOU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Noumea",
+          "swift_code": "BNPANCNXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De Nouvelle Caledonie",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Noumea",
+          "swift_code": "CEPANCNMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Caledonienne D'investissement",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Noumea",
+          "swift_code": "BCADNCNNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Paribas Pacifique",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Noumea",
+          "swift_code": "PARBNCN1XXX"
+        }
+      ]
+    }
+  ]
+}

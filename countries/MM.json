@@ -1,0 +1,232 @@
+{
+  "country_name": "Myanmar",
+  "alpha_2": "MM",
+  "country_code": "104",
+  "banks": [
+    {
+      "bank_name": "Yoma Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Yoma Bank Limited",
+          "city": "Yangon",
+          "swift_code": "YOMAMMMYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Amara Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yangon",
+          "swift_code": "UABMMMMYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Of Burma Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yangon",
+          "swift_code": "UBUBMMM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "People's Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yangon",
+          "swift_code": "BAPSMMM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Myawaddy Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Myawaddy Bank Limited",
+          "city": "Yangon",
+          "swift_code": "MWDBMMMYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tun Foundation Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yangon",
+          "swift_code": "TFBKMMMYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Myanmar Oriental Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yangon",
+          "swift_code": "MYORMMMYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Myanmar Citizens Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yangon",
+          "swift_code": "MCIZMMMYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Myanma Investment And Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Full Branch",
+          "city": "Yangon",
+          "swift_code": "MICBMMMYMAN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Yangon",
+          "swift_code": "MICBMMMYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Myanma Foreign Trade Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yangon",
+          "swift_code": "MFTBMMMYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Myanma Apex Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yangon",
+          "swift_code": "MMABMMMYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Myanma Industrial Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yangon",
+          "swift_code": "MYIDMMMYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Innwa Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nay Pyi Taw",
+          "swift_code": "AVABMMMYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Myanma Economic Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yangon",
+          "swift_code": "MYEBMMMYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Private Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yangon",
+          "swift_code": "FPBPMMMYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Co-operative Bank Limited (public Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yangon",
+          "swift_code": "CPOBMMMYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Construction And Housing Development Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Construction And Housing Development Bank Ltd.",
+          "city": "Yangon",
+          "swift_code": "CHDDMMM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kanbawza Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yangon",
+          "swift_code": "KBZBMMMYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Myanmar",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yangon",
+          "swift_code": "CBMYMMMYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Treasure Bank Public Company Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yangon",
+          "swift_code": "MLFBMMMYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asia Green Development Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pyi",
+          "swift_code": "AGDBMMMYXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ayeyarwady Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Yangon",
+          "swift_code": "AYABMMMYXXX"
+        }
+      ]
+    }
+  ]
+}

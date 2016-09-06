@@ -1,0 +1,117 @@
+{
+  "country_name": "Chad",
+  "alpha_2": "TD",
+  "country_code": "148",
+  "banks": [
+    {
+      "bank_name": "United Bank For Africa-tchad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "N'djamena",
+          "swift_code": "UNAFTDNDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Tchad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "N'djamena",
+          "swift_code": "SOGETDNDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orabank Tchad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "N'djamena",
+          "swift_code": "ORBKTDNDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Tchad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "N'djamena",
+          "swift_code": "ECOCTDNDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Bank Tchad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "N ' Djamena",
+          "swift_code": "CBTNTDNDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Tchadienne De Credit Et De Depots S.a. (b.t.c.d.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "N ' Djamena",
+          "swift_code": "BTCHTDN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Sahelo-saharienne Pour L'investissement Et Le Commerce (tchad) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "N ' Djamena",
+          "swift_code": "BSAHTDNDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Des Etats De L'afrique Centrale D.n. Tchad",
+      "branches": [
+        {
+          "branch_name": "Agence De Moundou",
+          "city": "Moundou",
+          "swift_code": "BEACTDND210"
+        },
+        {
+          "branch_name": "Agence De Sarh",
+          "city": "Sarh",
+          "swift_code": "BEACTDND220"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "N'djamena",
+          "swift_code": "BEACTDNDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Commerciale Du Chari",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "N ' Djamena",
+          "swift_code": "BCCXTDNDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Agricole Et Commerciale",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "N'djamena",
+          "swift_code": "BAGCTDNDXXX"
+        }
+      ]
+    }
+  ]
+}

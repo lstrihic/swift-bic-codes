@@ -1,0 +1,57 @@
+{
+  "country_name": "Central African Republic",
+  "alpha_2": "CF",
+  "country_code": "140",
+  "banks": [
+    {
+      "bank_name": "Ecobank Centrafrique",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangui",
+          "swift_code": "ECOCCFCFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Bank Centrafrique",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangui",
+          "swift_code": "CBCACFCFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Sahelo-saharienne Centre Afrique",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangui",
+          "swift_code": "BSAHCFCFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Populaire Maroco-centrafricaine B.p.m.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangui",
+          "swift_code": "BPMCCFCFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Des Etats De L'afrique Centrale D.n. Centrafrique",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bangui",
+          "swift_code": "BEACCFCFXXX"
+        }
+      ]
+    }
+  ]
+}

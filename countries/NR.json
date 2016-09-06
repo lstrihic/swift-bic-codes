@@ -1,0 +1,17 @@
+{
+  "country_name": "Nauru",
+  "alpha_2": "NR",
+  "country_code": "520",
+  "banks": [
+    {
+      "bank_name": "Eagle Bank Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nauru",
+          "swift_code": "EGBNNRN1XXX"
+        }
+      ]
+    }
+  ]
+}

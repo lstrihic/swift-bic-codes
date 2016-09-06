@@ -1,0 +1,322 @@
+{
+  "country_name": "Iceland",
+  "alpha_2": "IS",
+  "country_code": "352",
+  "banks": [
+    {
+      "bank_name": "Vsp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reykjavik",
+          "swift_code": "VSPVISR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Virding Hf.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reykjavik",
+          "swift_code": "VIRDISR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vbs Investment Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reykjavik",
+          "swift_code": "VBINISR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tindar Verdbref",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reykjavik",
+          "swift_code": "TIVEISR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Icelandic Securities Depository Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reykjavik",
+          "swift_code": "ICSDISR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Spron Verdbref Hf",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reykjavik",
+          "swift_code": "SPVRISR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sph",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hafnarfjordur",
+          "swift_code": "SPPHISR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparisjoourinn I Keflavik",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reykjanesbae",
+          "swift_code": "SPKFISR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sparisjoour Myrasyslu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Borgarnes",
+          "swift_code": "SPMYISR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saga Capital Fjarfestingarbanki Hf.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Akureyri",
+          "swift_code": "SACVISR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Reykjavik Capital Hf",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reykjavik",
+          "swift_code": "NOVEISR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ossur Hf",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reykjavik",
+          "swift_code": "OSSRISR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Registry Of Iceland",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reykjavik",
+          "swift_code": "NARIISR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nasdaq Omx Iceland Hf",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reykjavik",
+          "swift_code": "XICEISR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Joklar-verdbref Hf",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reykjavik",
+          "swift_code": "JOKLISR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Islenskir Fjarfestar Hf.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reykjavik",
+          "swift_code": "ISFJISR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Islandspostur Hf",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reykjavik",
+          "swift_code": "ICGIISR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Islandsbanki Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reykjavik",
+          "swift_code": "VISLISR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Icelandic Securities Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Akureyri",
+          "swift_code": "ICSCISR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hf Verdbref",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reykjavik",
+          "swift_code": "VERRISR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Byr Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reykjavik",
+          "swift_code": "BYSEISR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Borgun Hf",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reykjavik",
+          "swift_code": "BORGISREXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Audur Capital Hf.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reykjavik",
+          "swift_code": "AUCAISR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Artica Finance Hf.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kopavogur",
+          "swift_code": "ARNIISR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Straumur Fjarfestingabanki Hf",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reykjavik",
+          "swift_code": "STRBISREXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nbi Hf",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reykjavik",
+          "swift_code": "NBIIISREXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mp Bank Hf.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reykjavik",
+          "swift_code": "MPBAISREXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Islandsbanki Hf",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reykjavik",
+          "swift_code": "GLITISREXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Iceland",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reykjavik",
+          "swift_code": "SISLISREXXX"
+        },
+        {
+          "branch_name": "Reykjavik",
+          "city": "Reykjavik",
+          "swift_code": "SISLISRENGL"
+        },
+        {
+          "branch_name": "Reykjavik",
+          "city": "Reykjavik",
+          "swift_code": "SISLISRENKB"
+        },
+        {
+          "branch_name": "Reykjavik",
+          "city": "Reykjavik",
+          "swift_code": "SISLISRENLB"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arion Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Reykjavik",
+          "swift_code": "ESJAISREXXX"
+        }
+      ]
+    }
+  ]
+}

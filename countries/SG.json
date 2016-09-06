@@ -1,0 +1,6122 @@
+{
+  "country_name": "Singapore",
+  "alpha_2": "SG",
+  "country_code": "702",
+  "banks": [
+    {
+      "bank_name": "Abn Amro Bank N.v. Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Commercial And Merchant Banking",
+          "city": "Singapore",
+          "swift_code": "ABNASG2ACMB"
+        },
+        {
+          "branch_name": "International Private Clients Department",
+          "city": "Singapore",
+          "swift_code": "ABNASG2AIPC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ABNASG2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aberdeen Asset Management Asia Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ABFMSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bpi International Finance Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BPIISGS1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "BPIITHB1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "BPIITWT1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "BPIIJPJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "West Merchant Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "WMBLSGS1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Duesseldorf",
+          "swift_code": "WMBLDED1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Woori Bank, Singapore",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "HVBKSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Westpac Singapore Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "WPACSGSLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Westlb Ag, Singapore",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "WELASGSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Securities (singapore) Pte. Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BZWPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chartered Asset Management Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CATPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Baring Securities Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SEBRSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Capital Futures (singapore) Private Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BZWSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banking Computer Services Private Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SACHSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Singapore Limited (formerly Ing Asia Private Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "INGPSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Montreal, Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BOFMSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Morgan Stanley Ag, Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "MSSASGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank J. Safra Sarasin Ltd, Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SARASGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Santander, S.a. Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BSCHSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Axis Bank Limited(formerly Uti Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "UTIBSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Axa Rosenberg Investment Management Asia Pacific Ltd.",
+      "branches": [
+        {
+          "branch_name": "Axa Rosenberg Investment Management Asia Pacific Ltd.",
+          "city": "Singapore",
+          "swift_code": "RAAISGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asian-american Merchant Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "AAMBSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asc Equity Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ASEPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Artradis Fund Management Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "AFMPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aps Asset Management Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "APSMSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amfraser Securities Pte. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "FRSESGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Bank Sa Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "NDPBSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nomura Securities Singapore Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "NOMSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nomura Research Institute (singapore) Private Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "NRISSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nomura Futures (singapore) Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "NOMRSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Noble Resources Pte. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "NOEPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nittan Marshalls (singapore) Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "MSPLSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nippon Credit Bank Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "NCBTSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nikko Securities (singapore) Pte Ltd.,the",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "NIKKSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nikko Futures (singapore) Pte Ltd., The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "NIKOSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nikko Asset Management Singapore Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "NCMSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nike Singapore Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "NIKESGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nike Global Trading Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "NGTPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nibc Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "DNIBSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "New Japan Mechant Bank (singapore) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "NJMBSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered (2000) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SCMASGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Securities (singapore) Pte Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SSIPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Phillip Futures Pte. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "PHFUSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pheim Asset Management (asia) Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "PAMASGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Peregrine Securities Singapore Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "PSSPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pegasus Taiwan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "PETASGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pegasus Asia Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "PEAFSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Parkway Munda Capital Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "PMCCSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Paribas Private Banking Asia Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "PPBASGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Panasonic Asia Pacific Pte. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "PANASGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pama (singapore) Private Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "PSPLSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oww Capital Partners Pte. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "OWWMSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oub Securities Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "OUSPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oub Bullion And Futures Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "OUBFSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ong Research Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ONRPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ong First Tradition Pte. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "OFCFSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ong And Company Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ONCOSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ong And Company Private Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ONGCSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ocbc Nominee Pte Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "OCNPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ocbc Investment Research Private Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "OIRPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ocbc Bullion And Futures Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "OCBCSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ntuc Income Insurance Co-operative Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "NIICSGA1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "NIICSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Asset Management(singapore) Pte. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SASGSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Asia Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Sapl",
+          "city": "Singapore",
+          "swift_code": "SECTSGS1540"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SECTSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sal Industrial Leasing Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "INLLSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rothschild Ventures Asia Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "RVAPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rothschild Bullion And Financial Futures Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "RBFFSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rothschild Asset Management (s) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ROAMSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Richard Chandler Singapore Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "OGSLSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yamaichi Securities (singapore) Pteltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "YASESGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yamaichi Futures Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "YAMASGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wilmar International Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "WILMSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wells Fargo Bank Minnesota Na",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "NWNBSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wardley Broking Services Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "WBSSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wako Merchant Bank (singapore) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "WMBSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vp Bank (singapore) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "VPBVSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Volvo Treasury Asia Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "VTALSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vickers Ballas Investments Research Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "VIBRSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vertex Management Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "VEMPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Verizon Asia Pacific Holdings Pte.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "VZAPSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uob Venture Management Private Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "UVMPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uob Securities Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "UOBSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uob Bullion And Futures Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "UOBFSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uob Asia Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "UMBISGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Bancaire Privee Ubp Sa Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Union Bancaire Privee Ubp Sa Singapore Branch",
+          "city": "Singapore",
+          "swift_code": "UBPGSGSXXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "UBPGSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Warburg And Associates (singapore) Nominees Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SASPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Securities Pte. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "WSSPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Futures Singapore Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ABNASGF1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rhb-cathay Securities Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "RHBCSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Reuters Transaction Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "RTSLSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Republic National Bank Of New York (singapore)limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BLICSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Reliance Asset Management (sg) Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "RAAPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Refco (singapore) Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "REFCSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Raffles Nominees (pte.) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SCBLSG21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pure Commerce (s) Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "PURESGS1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "PURESGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prudential-bache Futures Asia Pacific Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "PBFASGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prudential Portfolio Managers Singapore Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "PPMLSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Proa Partners Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Aim-poms Service",
+          "city": "Singapore",
+          "swift_code": "PPPLSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Phillip Securities Research Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "PSRPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Phillip Securities Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "PHSESGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St Capital Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CAPASGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Smith New Court Securities Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SNCPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Smith New Court (singapore) Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SNCOSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Smbc Nikko Securities (singapore) Pte. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "NKSCSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Singapore Exchange Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "XSESSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Singapore Commodity Exchange Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "XSCESGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Silver Metis",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SIEESGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shell Eastern Petroleum Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SEPPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sg Securities (singapore) Custodial Services Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SGSCSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sg Asset Management (singapore) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SGAMSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sepl-pulau Bukom",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SEBUSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sembawang Capital Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SECESGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Seed Ventures Management Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SVMPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Schroder Securities (singapore) Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SSSPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sbci And Associates Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ASSSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sassoon Financial Futures Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SASSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sanyo Merchant Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SAMKSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sanwa Futures (singapore) Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SFSTSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Santander Investment Services",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SAIVSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tullett Prebon (singapore) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "PRYLSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tullett Liberty Pte. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "TTDPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tsang And Ong Stockbrokers Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "TORPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tsang And Ong Stockbrokers (pte) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "TSANSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Transtech Venture Management Private Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "TVMPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Transpac Capital Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "TRCPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tradition Singapore (pte) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "OTSPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tokio Marine Asset Management International Pte. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "TMAJSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tlb Bullion And Futures Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "TLBFSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Royal Bank Of Scotland Asia Securities (singapore) Pte Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "AASLSG21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Templeton Asset Management Ltd",
+      "branches": [
+        {
+          "branch_name": "Singapore",
+          "city": "Singapore",
+          "swift_code": "TIMISGSGBEM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "TIMISGSGXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "TIMISGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Temasek Holdings (private) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "TEHOSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tat Lee Securities Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "TATESGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Symphony",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SYMHSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swiss Reinsurance Company, Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SWRESGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sun Hung Kai Securities Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SHKESGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sun Hung Kai Bullion And Futures Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SUHKSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Summit Securities Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SUSESGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Suez Apac Management (s) Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SAMPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank (singapore) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SCBLSG22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Natwest Futures (asia) Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "NATWSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "N.m. Rothschild And Sons (singapore) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ROTHSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moody's Singapore Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "MOITSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mizuho Futures (singapore) Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "FUJISGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mitsubishi Ufj Securities (singapore), Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BOISSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Minex Corporation Singapore Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "MINXSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alliance Securities (pte",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ALLSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Wealth Partners Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "WEPPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aia-walden Management Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "AWMPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aia Singapore Private Limited",
+      "branches": [
+        {
+          "branch_name": "Aia Singapore Private Limited",
+          "city": "Singapore",
+          "swift_code": "AISPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abn Amro Clearing Bank N.v., Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "FGCISGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Pacific Finance Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CEPFSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cef (singapore) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CESLSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cazenove And Co. (singapore) Pte. Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CAZESGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cargill Financial Services Asia Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CFSASGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital House Investment Management (singapore) Pte",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CHNGSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cantor Fitzgerald (singapore) Capital Markets Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CFSPSGS1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CFSPSGSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bunge Agribusiness Singapore Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BLTDSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Btm Futures Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BOTFSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Btig Singapore Pte. Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BTSPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bt Futures (singapore) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BTFSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bt Brokerage And Associates Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BTBASGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bronte Investment Management (singapore) Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BIMNSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bridge Capital",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BRPTSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bp Singapore Pte Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BPSISGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bordier And Cie (singapore) Ltd",
+      "branches": [
+        {
+          "branch_name": "Bordier And Cie (singapore) Ltd",
+          "city": "Singapore",
+          "swift_code": "BORDSGSXXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BORDSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas-singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Commodity Finance Operation Centre",
+          "city": "Singapore",
+          "swift_code": "BNPASGSGGCG"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Securities (singapore) Pte. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BPESSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Capital (singapore) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BNPSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Blocsec Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BLPTSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse First Boston Pacific Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CSFBSGP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse First Boston (singapore) Futures Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "FBSFSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Lyonnais Rouse (pte) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ROUSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Lyonnais International Asset Management (s) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CLIASGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole Cib Merchant Bank Asia Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "IASISGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole Asset Management Singapore Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "IAMSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Union Asset Management (singapore) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CUAASGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clsa Asia Products Pte. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CSPPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clariden Leu Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CLARSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clariden Asset Management (singapore) Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CAMSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citigroup Global Markets Singapore Securities Pte.ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SSBGSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citigroup Global Markets Singapore Pte. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SBSPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citicorp International Singapore Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CISISGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citicorp Futures Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CITISGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Singapore Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CITISG21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cimb-gk Research Pte. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "JGRPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cimb Securities (singapore) Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "GKGTSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "China Merchants Bank Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "China Merchants Bank Singapore Branch",
+          "city": "Singapore",
+          "swift_code": "CMBCSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chase Investment Bank (singapore) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CIBSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fitch Ratings Singapore Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "FRIPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fil Investment Management (singapore) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "FIISSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Falcon Private Bank Ltd Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "UEBESGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Elliott And Carmen International Llp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ECQLSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Elliott And Carmen Group Llp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ECGLSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecics Investments Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ECIPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "E.sun Commercial Bank, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ESUNSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Duet",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "DUETSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dow Financial Services Inc. Singapore",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "DFSISGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dmg And Partners Securities Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "DASPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Asia And Partners Securities Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "MGAPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dbsn Services Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "DBSNSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dbs Trading (pte) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "DBSTSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dbs Capital Investments Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "DBCISGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dbs Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Derivatives Operation Department",
+          "city": "Singapore",
+          "swift_code": "DBSSSGSGDOD"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daiwa Sb Investments (singapore) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "DICMSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daiwa Institute Of Research (singapore) Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "DIRSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daiwa Capital Markets Futures Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "DAWASGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cys Express Exchange Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CYSSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daiwa Asset Management (singapore) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "DAMLSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Millennium Securities Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "MISTSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kleinwort Benson Research (asia) Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "KBRASGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Futures And Options (singapore) Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "INGFSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Barings Singapore",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "INBNSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Asset Management (singapore) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "INAASGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Iifl Securities Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "IIFLSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Icap Ap (singapore) Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "APPLSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Global Asset Management (singapore) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "HSMSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Futures (singapore) Pte Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "HSBCSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hewlett-packard Singapore (sales) Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "HSSPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hewlett-packard Singapore (private) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "HESISGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hbz International Exchange Co (singapore) Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "HIEESGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Havenport Asset Management Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "HVPASGS1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "LMAMSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Harlow, Ueda, Sassoon (singapore) Private Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "HUSISGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Guocoland Retail Management Pte. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "FCFMSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Grand Orient Securities Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "GOSESGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Grains And Industrial Products Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BLTDSG21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gordian Capital Singapore Private Limited",
+      "branches": [
+        {
+          "branch_name": "Gordian Capital Singapore Private Limited",
+          "city": "Singapore",
+          "swift_code": "GCSPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Google Asia Pacific Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "GOOGSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Goldman Sachs Futures Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "GSFSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Goldman Sachs Asset Management Intl Singapore",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "GSAMSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Galena Asset Management (asia) Pte. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "GANSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kimco Mac",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "KIMCSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kimco Japan Long Short",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "KJLSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kim Eng Futures Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "KMEFSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Khattar Capital International Pte. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SAPTSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Keppel Securities Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "KEPSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Keppel Bullion And Futures Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "KEPPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kankaku (singapore) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "NKMSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jp Morgan Futures Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "MFCSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jl Capital Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CPPESGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jardine Fleming Singapore Securities Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "JFSSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.p. Morgan Securites Singapore Private Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "JPSESGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ivenio Holdings Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "IVHPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ivaldi Capital Pte. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "IVCPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Itochu Capital And Investment (asia) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ICISSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kim Eng Securities Pte. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "KMESSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ipp Financial Advisers Pte. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "IPPPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Invesco Asset Management Singapore Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "GTMGSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Instinet Singapore Services Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ISSPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Sos Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ISOSSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mgec Group Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "MGGPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mf Global Singapore Pte. Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "MFGLSGS1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SCFTSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch Singapore Commodities Pte. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "MLFSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mbl Merchant Bank (singapore) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "MMBSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maywood Asset Management Pte. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "MSMPSGS1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "MSMPSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Martin-bierbaum (singapore) Private Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BIEMSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Macquarie Capital Securities (singapore) Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BSSLSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lum Chang Securities Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "LUMCSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ltcb Merchant Bank (singapore) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "LMBSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lsi Technologies Singapore Pte. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "LTSPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lloyds Tsb Merchant Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "HSAMSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lim And Tan Securities Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "LIMTSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lianhe Investments Pte. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "LHIVSGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lg Display Singapore Pte. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "LGDTSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lehman Brothers Singapore Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "LBPSSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lehman Brothers Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "LSINSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lehman Brothers Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "LEBPSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lehman Brothers Capital Asia Pte. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "LBCASGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lee And Co (stock And Share Brokers) Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "LEECSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vtb Capital Plc, Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "MNBLSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uob Kay Hian Pte Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "KHPLSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Overseas Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Banknotes Department",
+          "city": "Singapore",
+          "swift_code": "UOVBSGSGBNS"
+        },
+        {
+          "branch_name": "Transaction Banking",
+          "city": "Singapore",
+          "swift_code": "UOVBSGSGCMS"
+        },
+        {
+          "branch_name": "Client Portfolio Management",
+          "city": "Singapore",
+          "swift_code": "UOVBSGSGCPM"
+        },
+        {
+          "branch_name": "Custody Services Division",
+          "city": "Singapore",
+          "swift_code": "UOVBSGSGCSD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "UOVBSGSGXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "UOVBTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unicredit Bank Ag Singapore Branch (Hypovereinsbank Ag Singapore Branch)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BVBESGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Global Asset Management (Singapore) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "UBSASGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Ag Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Cls Businness Only",
+          "city": "Singapore",
+          "swift_code": "UBSWSGSGCLS"
+        },
+        {
+          "branch_name": "Singapore Branch",
+          "city": "Singapore",
+          "swift_code": "UBSWSGSGXXX"
+        },
+        {
+          "branch_name": "Swift For Corporate",
+          "city": "Singapore",
+          "swift_code": "UBSWSGSGCIC"
+        }
+      ]
+    },
+    {
+      "bank_name": "U.B.A.F. - Union De Banques Arabes Et Francaises",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "UBAFSGSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Taiwan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BKTWSGSGXXX"
+        },
+        {
+          "branch_name": "Department Of Business",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP003"
+        },
+        {
+          "branch_name": "Guancian Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP007"
+        },
+        {
+          "branch_name": "Department Of Trusts",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP008"
+        },
+        {
+          "branch_name": "Tainan Branch",
+          "city": "Tainan",
+          "swift_code": "BKTWTWTP009"
+        },
+        {
+          "branch_name": "Taichung Branch",
+          "city": "Taichung",
+          "swift_code": "BKTWTWTP010"
+        },
+        {
+          "branch_name": "Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKTWTWTP011"
+        },
+        {
+          "branch_name": "Keelung Branch",
+          "city": "Keelung",
+          "swift_code": "BKTWTWTP012"
+        },
+        {
+          "branch_name": "Chung-hsin New Village Branch",
+          "city": "Nantou",
+          "swift_code": "BKTWTWTP013"
+        },
+        {
+          "branch_name": "Chiayi Branch",
+          "city": "Chia Yi",
+          "swift_code": "BKTWTWTP014"
+        },
+        {
+          "branch_name": "Hsinchu Branch",
+          "city": "Hsinchu",
+          "swift_code": "BKTWTWTP015"
+        },
+        {
+          "branch_name": "Changhua Branch",
+          "city": "Changhua",
+          "swift_code": "BKTWTWTP016"
+        },
+        {
+          "branch_name": "Pingtung Branch",
+          "city": "Pingtung",
+          "swift_code": "BKTWTWTP017"
+        },
+        {
+          "branch_name": "Hualien Branch",
+          "city": "Hualien",
+          "swift_code": "BKTWTWTP018"
+        },
+        {
+          "branch_name": "Yenping Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP019"
+        },
+        {
+          "branch_name": "Chungshan Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP020"
+        },
+        {
+          "branch_name": "Kaohsiung Export Processing Zone",
+          "city": "Kaohsiung",
+          "swift_code": "BKTWTWTP021"
+        },
+        {
+          "branch_name": "Yilan Branch",
+          "city": "I-lan",
+          "swift_code": "BKTWTWTP022"
+        },
+        {
+          "branch_name": "Taitung Branch",
+          "city": "Taitung",
+          "swift_code": "BKTWTWTP023"
+        },
+        {
+          "branch_name": "Penghu Branch",
+          "city": "Penghu",
+          "swift_code": "BKTWTWTP024"
+        },
+        {
+          "branch_name": "Fengshan Branch",
+          "city": "Fengshan",
+          "swift_code": "BKTWTWTP025"
+        },
+        {
+          "branch_name": "Xinzhuang Fuduxin Branch",
+          "city": "Hsinchuang",
+          "swift_code": "BKTWTWTP280"
+        },
+        {
+          "branch_name": "Global Custody",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTPCUS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTPHDO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTPXXX"
+        },
+        {
+          "branch_name": "Wanhua Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP242"
+        },
+        {
+          "branch_name": "Bansin Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP243"
+        },
+        {
+          "branch_name": "Shuanghe Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP244"
+        },
+        {
+          "branch_name": "Nan Hsinchuang Branch",
+          "city": "Hsinchuang",
+          "swift_code": "BKTWTWTP245"
+        },
+        {
+          "branch_name": "Taosing Branch",
+          "city": "Tao-yuan",
+          "swift_code": "BKTWTWTP246"
+        },
+        {
+          "branch_name": "Sinming Branch",
+          "city": "Tao-yuan",
+          "swift_code": "BKTWTWTP247"
+        },
+        {
+          "branch_name": "Lioujia Branch",
+          "city": "Hsinchu",
+          "swift_code": "BKTWTWTP248"
+        },
+        {
+          "branch_name": "North Taichung Branch",
+          "city": "Taichung",
+          "swift_code": "BKTWTWTP249"
+        },
+        {
+          "branch_name": "Central Taichung Branch",
+          "city": "Taichung",
+          "swift_code": "BKTWTWTP250"
+        },
+        {
+          "branch_name": "Jianan Branch",
+          "city": "Chia Yi",
+          "swift_code": "BKTWTWTP252"
+        },
+        {
+          "branch_name": "Nandu Branch",
+          "city": "Tainan",
+          "swift_code": "BKTWTWTP253"
+        },
+        {
+          "branch_name": "Cianjin Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKTWTWTP254"
+        },
+        {
+          "branch_name": "North Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKTWTWTP255"
+        },
+        {
+          "branch_name": "Chenggong Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKTWTWTP256"
+        },
+        {
+          "branch_name": "North Hualien Branch",
+          "city": "Hualien",
+          "swift_code": "BKTWTWTP257"
+        },
+        {
+          "branch_name": "Xinhu Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP270"
+        },
+        {
+          "branch_name": "Wufu Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKTWTWTP271"
+        },
+        {
+          "branch_name": "Lioujiading Branch",
+          "city": "Tainan",
+          "swift_code": "BKTWTWTP272"
+        },
+        {
+          "branch_name": "Chungdu Branch",
+          "city": "Taichung",
+          "swift_code": "BKTWTWTP278"
+        },
+        {
+          "branch_name": "Taipei International Airport Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP279"
+        },
+        {
+          "branch_name": "Yenpu Branach",
+          "city": "Pingtung",
+          "swift_code": "BKTWTWTP176"
+        },
+        {
+          "branch_name": "East Taoyuan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "BKTWTWTP186"
+        },
+        {
+          "branch_name": "Lu Jhou Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP187"
+        },
+        {
+          "branch_name": "Kaohsiung Airport Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKTWTWTP191"
+        },
+        {
+          "branch_name": "Taipei Port Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP218"
+        },
+        {
+          "branch_name": "Taichung Science Park Branch",
+          "city": "Taichung",
+          "swift_code": "BKTWTWTP220"
+        },
+        {
+          "branch_name": "Kaohsiung Science Park Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKTWTWTP221"
+        },
+        {
+          "branch_name": "Donghu Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP223"
+        },
+        {
+          "branch_name": "Gaorong Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKTWTWTP224"
+        },
+        {
+          "branch_name": "Nankang Software Park Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP225"
+        },
+        {
+          "branch_name": "Longtan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "BKTWTWTP226"
+        },
+        {
+          "branch_name": "Rende Branch",
+          "city": "Tainan",
+          "swift_code": "BKTWTWTP227"
+        },
+        {
+          "branch_name": "Linkou Branch",
+          "city": "Tao-yuan",
+          "swift_code": "BKTWTWTP228"
+        },
+        {
+          "branch_name": "Muzha Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP229"
+        },
+        {
+          "branch_name": "Tainan Innovation And Research Park Branch",
+          "city": "Tainan",
+          "swift_code": "BKTWTWTP230"
+        },
+        {
+          "branch_name": "Wuchang Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP236"
+        },
+        {
+          "branch_name": "Taipei Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP238"
+        },
+        {
+          "branch_name": "Jinshan Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP239"
+        },
+        {
+          "branch_name": "Sinan Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP240"
+        },
+        {
+          "branch_name": "Jiantan Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP241"
+        },
+        {
+          "branch_name": "Hsitwun Branch",
+          "city": "Taichung",
+          "swift_code": "BKTWTWTP141"
+        },
+        {
+          "branch_name": "Tienmou Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP142"
+        },
+        {
+          "branch_name": "Lukang Branch",
+          "city": "Changhua",
+          "swift_code": "BKTWTWTP143"
+        },
+        {
+          "branch_name": "Neili Branch",
+          "city": "Tao-yuan",
+          "swift_code": "BKTWTWTP144"
+        },
+        {
+          "branch_name": "Tainan Science-based Industrial Park",
+          "city": "Tainan",
+          "swift_code": "BKTWTWTP146"
+        },
+        {
+          "branch_name": "Huwei Branch",
+          "city": "Yunlin",
+          "swift_code": "BKTWTWTP147"
+        },
+        {
+          "branch_name": "Tamsui Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP148"
+        },
+        {
+          "branch_name": "Treasury Department",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP151"
+        },
+        {
+          "branch_name": "Neihu Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP153"
+        },
+        {
+          "branch_name": "Chiabei Branch",
+          "city": "Chia Yi",
+          "swift_code": "BKTWTWTP154"
+        },
+        {
+          "branch_name": "Donggang Branch",
+          "city": "Pingtung",
+          "swift_code": "BKTWTWTP155"
+        },
+        {
+          "branch_name": "Hsi Chih Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP156"
+        },
+        {
+          "branch_name": "Wuchi Branch",
+          "city": "Taichung",
+          "swift_code": "BKTWTWTP157"
+        },
+        {
+          "branch_name": "Hsiao Kang Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKTWTWTP159"
+        },
+        {
+          "branch_name": "Chungping Branch",
+          "city": "Pingtung",
+          "swift_code": "BKTWTWTP160"
+        },
+        {
+          "branch_name": "Peitalu",
+          "city": "Hsinchu",
+          "swift_code": "BKTWTWTP164"
+        },
+        {
+          "branch_name": "Wenshan Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP165"
+        },
+        {
+          "branch_name": "Taiping Branch",
+          "city": "Taichung",
+          "swift_code": "BKTWTWTP170"
+        },
+        {
+          "branch_name": "Defang Branch",
+          "city": "Taichung",
+          "swift_code": "BKTWTWTP171"
+        },
+        {
+          "branch_name": "Chien Kuo Branch",
+          "city": "Tao-yuan",
+          "swift_code": "BKTWTWTP172"
+        },
+        {
+          "branch_name": "Nantze",
+          "city": "Kaohsiung",
+          "swift_code": "BKTWTWTP091"
+        },
+        {
+          "branch_name": "Taichung Ind Park Office",
+          "city": "Taichung",
+          "swift_code": "BKTWTWTP092"
+        },
+        {
+          "branch_name": "Tunhwa Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP106"
+        },
+        {
+          "branch_name": "Nankang Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP107"
+        },
+        {
+          "branch_name": "Hoping Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP108"
+        },
+        {
+          "branch_name": "Shui Nan Branch",
+          "city": "Taichung",
+          "swift_code": "BKTWTWTP109"
+        },
+        {
+          "branch_name": "Chunglun Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP110"
+        },
+        {
+          "branch_name": "Tucheng Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP111"
+        },
+        {
+          "branch_name": "Taoyuan International Airport Branch",
+          "city": "Tao-yuan",
+          "swift_code": "BKTWTWTP115"
+        },
+        {
+          "branch_name": "Dahchang Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKTWTWTP116"
+        },
+        {
+          "branch_name": "Wu Chia Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKTWTWTP118"
+        },
+        {
+          "branch_name": "Bo Ai Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKTWTWTP119"
+        },
+        {
+          "branch_name": "Chung Chuang Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKTWTWTP120"
+        },
+        {
+          "branch_name": "Ping Chen Branch",
+          "city": "Tao-yuan",
+          "swift_code": "BKTWTWTP121"
+        },
+        {
+          "branch_name": "Jen Ai Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP122"
+        },
+        {
+          "branch_name": "Nan-kan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "BKTWTWTP123"
+        },
+        {
+          "branch_name": "Yuan Shan Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP124"
+        },
+        {
+          "branch_name": "Wu Ku Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP135"
+        },
+        {
+          "branch_name": "Ta Li Branch",
+          "city": "Taichung",
+          "swift_code": "BKTWTWTP136"
+        },
+        {
+          "branch_name": "An Nan Branch",
+          "city": "Tainan",
+          "swift_code": "BKTWTWTP137"
+        },
+        {
+          "branch_name": "Tai Pao Branch",
+          "city": "Chia Yi",
+          "swift_code": "BKTWTWTP067"
+        },
+        {
+          "branch_name": "Jhubei Branch",
+          "city": "Hsinchu",
+          "swift_code": "BKTWTWTP068"
+        },
+        {
+          "branch_name": "Offshore Banking Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP069"
+        },
+        {
+          "branch_name": "Shihlin Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP070"
+        },
+        {
+          "branch_name": "Hsinchuang Branch",
+          "city": "Hsinchuang",
+          "swift_code": "BKTWTWTP071"
+        },
+        {
+          "branch_name": "Ta-chia Branch",
+          "city": "Taichung",
+          "swift_code": "BKTWTWTP072"
+        },
+        {
+          "branch_name": "Science-based Industrial Park Branch",
+          "city": "Hsinchu",
+          "swift_code": "BKTWTWTP073"
+        },
+        {
+          "branch_name": "Shu-lin Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP074"
+        },
+        {
+          "branch_name": "Hsin Tien Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP075"
+        },
+        {
+          "branch_name": "Department Of International Banking",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP076"
+        },
+        {
+          "branch_name": "Li Ming Branch",
+          "city": "Taichung",
+          "swift_code": "BKTWTWTP079"
+        },
+        {
+          "branch_name": "Min Sheng Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP080"
+        },
+        {
+          "branch_name": "Yung Kang Branch",
+          "city": "Tainan",
+          "swift_code": "BKTWTWTP081"
+        },
+        {
+          "branch_name": "San Dou Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKTWTWTP082"
+        },
+        {
+          "branch_name": "Taipei World Trade Center Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP085"
+        },
+        {
+          "branch_name": "Ta An Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP086"
+        },
+        {
+          "branch_name": "Hua Chiang Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP087"
+        },
+        {
+          "branch_name": "Chao Chou Branch",
+          "city": "Pingtung",
+          "swift_code": "BKTWTWTP088"
+        },
+        {
+          "branch_name": "Su-ao Branch",
+          "city": "I-lan",
+          "swift_code": "BKTWTWTP089"
+        },
+        {
+          "branch_name": "Taya Office",
+          "city": "Taichung",
+          "swift_code": "BKTWTWTP090"
+        },
+        {
+          "branch_name": "Minchuan Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP046"
+        },
+        {
+          "branch_name": "Tantzu Branch",
+          "city": "Taichung",
+          "swift_code": "BKTWTWTP047"
+        },
+        {
+          "branch_name": "Yungho Branch",
+          "city": "New Taipei City",
+          "swift_code": "BKTWTWTP048"
+        },
+        {
+          "branch_name": "Yuan-lin Branch",
+          "city": "Yuan-lin",
+          "swift_code": "BKTWTWTP049"
+        },
+        {
+          "branch_name": "Sungchiang Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP050"
+        },
+        {
+          "branch_name": "Kusan Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKTWTWTP051"
+        },
+        {
+          "branch_name": "Lungshan Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP052"
+        },
+        {
+          "branch_name": "Chungshiaw Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP053"
+        },
+        {
+          "branch_name": "Hsinyi Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP054"
+        },
+        {
+          "branch_name": "Fu Hsing Branch",
+          "city": "Taichung",
+          "swift_code": "BKTWTWTP055"
+        },
+        {
+          "branch_name": "Sanmin Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKTWTWTP056"
+        },
+        {
+          "branch_name": "Taichung Harbor Branch",
+          "city": "Taichung",
+          "swift_code": "BKTWTWTP057"
+        },
+        {
+          "branch_name": "Lou Tung Branch",
+          "city": "Yilan",
+          "swift_code": "BKTWTWTP058"
+        },
+        {
+          "branch_name": "Puli Branch",
+          "city": "Nantou",
+          "swift_code": "BKTWTWTP059"
+        },
+        {
+          "branch_name": "Kangshan Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKTWTWTP060"
+        },
+        {
+          "branch_name": "Hsingsing Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKTWTWTP061"
+        },
+        {
+          "branch_name": "Linya Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKTWTWTP062"
+        },
+        {
+          "branch_name": "Sungshan Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP064"
+        },
+        {
+          "branch_name": "Chien Hsing Branch",
+          "city": "Taichung",
+          "swift_code": "BKTWTWTP065"
+        },
+        {
+          "branch_name": "Chungho Branch",
+          "city": "Chungho",
+          "swift_code": "BKTWTWTP066"
+        },
+        {
+          "branch_name": "Tao-yuan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "BKTWTWTP026"
+        },
+        {
+          "branch_name": "Panchiao Branch",
+          "city": "Panchiao",
+          "swift_code": "BKTWTWTP027"
+        },
+        {
+          "branch_name": "Hsinyin Branch",
+          "city": "Hsinyin",
+          "swift_code": "BKTWTWTP028"
+        },
+        {
+          "branch_name": "Miao Li Branch",
+          "city": "Miao Li",
+          "swift_code": "BKTWTWTP029"
+        },
+        {
+          "branch_name": "Fengyuan Branch",
+          "city": "Fengyuan",
+          "swift_code": "BKTWTWTP030"
+        },
+        {
+          "branch_name": "Touliu Branch",
+          "city": "Touliu",
+          "swift_code": "BKTWTWTP031"
+        },
+        {
+          "branch_name": "Nantou Branch",
+          "city": "Nantou",
+          "swift_code": "BKTWTWTP032"
+        },
+        {
+          "branch_name": "Nanmen Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP033"
+        },
+        {
+          "branch_name": "Kungkuan Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP034"
+        },
+        {
+          "branch_name": "Tzoyin Branch",
+          "city": "Tzoyin",
+          "swift_code": "BKTWTWTP035"
+        },
+        {
+          "branch_name": "Peitou Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP036"
+        },
+        {
+          "branch_name": "Wufeng Branch",
+          "city": "Taichung",
+          "swift_code": "BKTWTWTP037"
+        },
+        {
+          "branch_name": "Kin-men Branch",
+          "city": "Kin-men",
+          "swift_code": "BKTWTWTP038"
+        },
+        {
+          "branch_name": "Matsu Branch",
+          "city": "Nan-kan Mat-su",
+          "swift_code": "BKTWTWTP039"
+        },
+        {
+          "branch_name": "An Ping Branch",
+          "city": "Tainan",
+          "swift_code": "BKTWTWTP040"
+        },
+        {
+          "branch_name": "Chungli Branch",
+          "city": "Chung Li",
+          "swift_code": "BKTWTWTP041"
+        },
+        {
+          "branch_name": "Sanchung Branch",
+          "city": "Sanchung",
+          "swift_code": "BKTWTWTP042"
+        },
+        {
+          "branch_name": "Toufen Branch",
+          "city": "Toufen",
+          "swift_code": "BKTWTWTP043"
+        },
+        {
+          "branch_name": "Chienchen Branch",
+          "city": "Kaohsiung",
+          "swift_code": "BKTWTWTP044"
+        },
+        {
+          "branch_name": "Chenchung Branch",
+          "city": "Taipei",
+          "swift_code": "BKTWTWTP045"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Los Angeles,Ca",
+          "swift_code": "BKTWUS6LXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of New Zealand",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BKNZSGSGXXX"
+        },
+        {
+          "branch_name": "9016 Dunedin",
+          "city": "Dunedin",
+          "swift_code": "BKNZNZ22900"
+        },
+        {
+          "branch_name": "8011 Christchurch",
+          "city": "Christchurch",
+          "swift_code": "BKNZNZ22800"
+        },
+        {
+          "branch_name": "1010 Auckland",
+          "city": "Auckland",
+          "swift_code": "BKNZNZ22100"
+        },
+        {
+          "branch_name": "Branch",
+          "city": "Wellington",
+          "swift_code": "BKNZNZ22500"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "BKNZNZ22985"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Wellington",
+          "swift_code": "BKNZNZ22XXX"
+        },
+        {
+          "branch_name": "6011 Wellington",
+          "city": "Wellington",
+          "swift_code": "BKNZNZ22TVL"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Communications Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "COMMSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of China Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BKCHSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of America N.A. Singapore",
+      "branches": [
+        {
+          "branch_name": "Asia Currency Unit",
+          "city": "Singapore",
+          "swift_code": "BOFASG2XACU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BOFASG2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of America (Singapore) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Emerging Markets Group",
+          "city": "Singapore",
+          "swift_code": "BOFASG3XEMG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BOFASG3XXXX"
+        },
+        {
+          "branch_name": "Singapore",
+          "city": "Singapore",
+          "swift_code": "BOFASG3XJVC"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Negara Indonesia (Persero) P.T.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BNINSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Mandiri (Persero)Tbk. Pt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BMRISGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Hapoalim (Switzerland) Ltd Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "POALSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bangkok Bank Public Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BKKBSGSGXXX"
+        },
+        {
+          "branch_name": "Bond Trading",
+          "city": "Bangkok",
+          "swift_code": "BKKBTHBKTRD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "BKKBTHBKXXX"
+        },
+        {
+          "branch_name": "Chiangmai",
+          "city": "Chiangmai",
+          "swift_code": "BKKBTHB10BC"
+        },
+        {
+          "branch_name": "Phuket",
+          "city": "Phuket",
+          "swift_code": "BKKBTHB10BP"
+        },
+        {
+          "branch_name": "Songkhla",
+          "city": "Songkhla",
+          "swift_code": "BKKBTHB10BS"
+        },
+        {
+          "branch_name": "Kaohsiung",
+          "city": "Kaohsiung",
+          "swift_code": "BKKBTWT10TK"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "BKKBGB2LXXX"
+        },
+        {
+          "branch_name": "Hanoi",
+          "city": "Hanoi",
+          "swift_code": "BKKBVNV10V5"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jakarta",
+          "swift_code": "BKKBIDJAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bilbao Vizcaya Argentaria Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BBVASGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Antwerp Diamond Bank Asia Pacific Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ADIASGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agricultural Bank Of China Limited Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ABOCSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Afc Merchant Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "AFCMSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skandinaviska Enskilda Banken Ab (Publ)",
+      "branches": [
+        {
+          "branch_name": "Singapore",
+          "city": "Singapore",
+          "swift_code": "ESSESGSGCLS"
+        },
+        {
+          "branch_name": "Singapore Branch",
+          "city": "Singapore",
+          "swift_code": "ESSESGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Bank Finland Plc, Singapore",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "NDEASGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lion Capital Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "OAMLSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Securities (Singapore) Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "HJCSSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dvb Group Merchant Bank (Asia) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "DVKBSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commerzbank Ag, Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "COBASGSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clsa Singapore Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Singapore",
+          "city": "Singapore",
+          "swift_code": "CLSSSGSGCHV"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CLSSSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citic Bank International Limited Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "KWHKSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cimb Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CIBBSGSGXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "CIBBGB2LXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "CIBBMYKLXXX"
+        },
+        {
+          "branch_name": "Securities Borrowing And Lending",
+          "city": "Kuala Lumpur",
+          "swift_code": "CIBBMYKLSBL"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chinatrust Commercial Bank Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CTCBSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "China Construction Bank Corporation, Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "PCBCSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chang Hwa Commercial Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CCBCSGSGXXX"
+        },
+        {
+          "branch_name": "Offshore Banking Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP212"
+        },
+        {
+          "branch_name": "Taichung-head Office",
+          "city": "Taichung",
+          "swift_code": "CCBCTWTP220"
+        },
+        {
+          "branch_name": "Chilin Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP300"
+        },
+        {
+          "branch_name": "Chengnei Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP301"
+        },
+        {
+          "branch_name": "Pei-taichung Branch",
+          "city": "Taichung",
+          "swift_code": "CCBCTWTP400"
+        },
+        {
+          "branch_name": "Nan-taichung Branch",
+          "city": "Taichung",
+          "swift_code": "CCBCTWTP401"
+        },
+        {
+          "branch_name": "Peitun Branch",
+          "city": "Taichung",
+          "swift_code": "CCBCTWTP402"
+        },
+        {
+          "branch_name": "Shuinan Branch",
+          "city": "Taichung",
+          "swift_code": "CCBCTWTP403"
+        },
+        {
+          "branch_name": "Nantun Branch",
+          "city": "Taichung",
+          "swift_code": "CCBCTWTP404"
+        },
+        {
+          "branch_name": "Taichung Branch",
+          "city": "Taichung",
+          "swift_code": "CCBCTWTP405"
+        },
+        {
+          "branch_name": "Keelung Branch",
+          "city": "Keelung",
+          "swift_code": "CCBCTWTP410"
+        },
+        {
+          "branch_name": "Jenai Branch",
+          "city": "Keelung",
+          "swift_code": "CCBCTWTP411"
+        },
+        {
+          "branch_name": "Tung-keelung Branch",
+          "city": "Keelung",
+          "swift_code": "CCBCTWTP412"
+        },
+        {
+          "branch_name": "Ilan Branch",
+          "city": "I-lan",
+          "swift_code": "CCBCTWTP420"
+        },
+        {
+          "branch_name": "Lotung Branch",
+          "city": "Lotung",
+          "swift_code": "CCBCTWTP421"
+        },
+        {
+          "branch_name": "Pei Men Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP500"
+        },
+        {
+          "branch_name": "Taipei Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP501"
+        },
+        {
+          "branch_name": "Wanhua Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP502"
+        },
+        {
+          "branch_name": "Hsimen Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP503"
+        },
+        {
+          "branch_name": "Yunglo Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP504"
+        },
+        {
+          "branch_name": "Hsin-ming Branch",
+          "city": "Chen",
+          "swift_code": "CCBCTWTP930"
+        },
+        {
+          "branch_name": "Puhsin Branch",
+          "city": "Yangmei City",
+          "swift_code": "CCBCTWTP931"
+        },
+        {
+          "branch_name": "Hsitun Branch",
+          "city": "Taichung",
+          "swift_code": "CCBCTWTP933"
+        },
+        {
+          "branch_name": "Ta-fa Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CCBCTWTP934"
+        },
+        {
+          "branch_name": "Tung-linkou Branch",
+          "city": "Tao-yuan",
+          "swift_code": "CCBCTWTP935"
+        },
+        {
+          "branch_name": "Tukoo Branch",
+          "city": "Yunlin",
+          "swift_code": "CCBCTWTP952"
+        },
+        {
+          "branch_name": "Luchu Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CCBCTWTP954"
+        },
+        {
+          "branch_name": "Suao Branch",
+          "city": "I-lan",
+          "swift_code": "CCBCTWTP955"
+        },
+        {
+          "branch_name": "Pei-tainan Branch",
+          "city": "Tainan",
+          "swift_code": "CCBCTWTP956"
+        },
+        {
+          "branch_name": "Tantzu Branch",
+          "city": "Taichung",
+          "swift_code": "CCBCTWTP960"
+        },
+        {
+          "branch_name": "Pei-chiayi Branch",
+          "city": "Chia Yi",
+          "swift_code": "CCBCTWTP961"
+        },
+        {
+          "branch_name": "Pei-hsinchu Branch",
+          "city": "Hsinchu",
+          "swift_code": "CCBCTWTP962"
+        },
+        {
+          "branch_name": "Chienhsing Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CCBCTWTP963"
+        },
+        {
+          "branch_name": "San Ho Rd Branch",
+          "city": "New Taipei City",
+          "swift_code": "CCBCTWTP964"
+        },
+        {
+          "branch_name": "Chicheng Branch",
+          "city": "Hsintien",
+          "swift_code": "CCBCTWTP965"
+        },
+        {
+          "branch_name": "Linkou Branch",
+          "city": "Linkou",
+          "swift_code": "CCBCTWTP968"
+        },
+        {
+          "branch_name": "Chiang Tsui Branch",
+          "city": "New Taipei City",
+          "swift_code": "CCBCTWTP969"
+        },
+        {
+          "branch_name": "Chang An East Road Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP971"
+        },
+        {
+          "branch_name": "Ching-kuang Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP972"
+        },
+        {
+          "branch_name": "Tachih Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP973"
+        },
+        {
+          "branch_name": "Tung Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CCBCTWTP814"
+        },
+        {
+          "branch_name": "Nan-kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CCBCTWTP815"
+        },
+        {
+          "branch_name": "Pei-kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CCBCTWTP816"
+        },
+        {
+          "branch_name": "Sanmin Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CCBCTWTP817"
+        },
+        {
+          "branch_name": "Chanchen Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CCBCTWTP819"
+        },
+        {
+          "branch_name": "Chiu-ju Lu Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CCBCTWTP820"
+        },
+        {
+          "branch_name": "Hsinhsing Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CCBCTWTP821"
+        },
+        {
+          "branch_name": "Lingya Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CCBCTWTP822"
+        },
+        {
+          "branch_name": "Ta-shun Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CCBCTWTP823"
+        },
+        {
+          "branch_name": "Po-ai Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CCBCTWTP824"
+        },
+        {
+          "branch_name": "Zuoying Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CCBCTWTP825"
+        },
+        {
+          "branch_name": "Pingtung Branch",
+          "city": "Pingtung",
+          "swift_code": "CCBCTWTP830"
+        },
+        {
+          "branch_name": "Tungkang Branch",
+          "city": "Pingtung",
+          "swift_code": "CCBCTWTP831"
+        },
+        {
+          "branch_name": "Chaochou Branch",
+          "city": "Pingtung",
+          "swift_code": "CCBCTWTP832"
+        },
+        {
+          "branch_name": "Hengchun Branch",
+          "city": "Pingtung",
+          "swift_code": "CCBCTWTP834"
+        },
+        {
+          "branch_name": "Hualien Branch",
+          "city": "Hualien",
+          "swift_code": "CCBCTWTP840"
+        },
+        {
+          "branch_name": "Taitung Branch",
+          "city": "Taitung",
+          "swift_code": "CCBCTWTP850"
+        },
+        {
+          "branch_name": "Sy Yuan Branch",
+          "city": "New Taipei City",
+          "swift_code": "CCBCTWTP926"
+        },
+        {
+          "branch_name": "Tucheng Branch",
+          "city": "Tu Cheng",
+          "swift_code": "CCBCTWTP928"
+        },
+        {
+          "branch_name": "Pei-taoyuan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "CCBCTWTP929"
+        },
+        {
+          "branch_name": "Peikang Branch",
+          "city": "Yunlin",
+          "swift_code": "CCBCTWTP613"
+        },
+        {
+          "branch_name": "Talin Branch",
+          "city": "Chia Yi",
+          "swift_code": "CCBCTWTP620"
+        },
+        {
+          "branch_name": "Chiayi Branch",
+          "city": "Chia Yi",
+          "swift_code": "CCBCTWTP621"
+        },
+        {
+          "branch_name": "Tung-chiayi Branch",
+          "city": "Chia Yi",
+          "swift_code": "CCBCTWTP622"
+        },
+        {
+          "branch_name": "Hsinying Branch",
+          "city": "Tainan",
+          "swift_code": "CCBCTWTP623"
+        },
+        {
+          "branch_name": "Yungkang Branch",
+          "city": "Tainan",
+          "swift_code": "CCBCTWTP624"
+        },
+        {
+          "branch_name": "Stsp Tree Valley Branch",
+          "city": "Tainan",
+          "swift_code": "CCBCTWTP625"
+        },
+        {
+          "branch_name": "Guiren Branch",
+          "city": "Tainan",
+          "swift_code": "CCBCTWTP626"
+        },
+        {
+          "branch_name": "Tainan Branch",
+          "city": "Tainan",
+          "swift_code": "CCBCTWTP640"
+        },
+        {
+          "branch_name": "Yenping Branch",
+          "city": "Tainan",
+          "swift_code": "CCBCTWTP641"
+        },
+        {
+          "branch_name": "Hsi-tainan Branch",
+          "city": "Tainan",
+          "swift_code": "CCBCTWTP642"
+        },
+        {
+          "branch_name": "Tung-tainan Branch",
+          "city": "Tainan",
+          "swift_code": "CCBCTWTP643"
+        },
+        {
+          "branch_name": "Nan-tainan Branch",
+          "city": "Tainan",
+          "swift_code": "CCBCTWTP644"
+        },
+        {
+          "branch_name": "An-nan Branch",
+          "city": "Tainan",
+          "swift_code": "CCBCTWTP645"
+        },
+        {
+          "branch_name": "Chishan Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CCBCTWTP650"
+        },
+        {
+          "branch_name": "Kangshan Branch",
+          "city": "Kang Shan",
+          "swift_code": "CCBCTWTP651"
+        },
+        {
+          "branch_name": "Fengshan Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CCBCTWTP652"
+        },
+        {
+          "branch_name": "Kaohsiung Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CCBCTWTP811"
+        },
+        {
+          "branch_name": "Chi-hsien Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CCBCTWTP812"
+        },
+        {
+          "branch_name": "Yencheng Branch",
+          "city": "Kaohsiung",
+          "swift_code": "CCBCTWTP813"
+        },
+        {
+          "branch_name": "Taipin Branch",
+          "city": "Taichung",
+          "swift_code": "CCBCTWTP589"
+        },
+        {
+          "branch_name": "Tsaotun Branch",
+          "city": "Tsaotun Town",
+          "swift_code": "CCBCTWTP590"
+        },
+        {
+          "branch_name": "Nantou Branch",
+          "city": "Nantou",
+          "swift_code": "CCBCTWTP591"
+        },
+        {
+          "branch_name": "Puli Branch",
+          "city": "Nantou",
+          "swift_code": "CCBCTWTP592"
+        },
+        {
+          "branch_name": "Shuilikeng Branch",
+          "city": "Nantou",
+          "swift_code": "CCBCTWTP593"
+        },
+        {
+          "branch_name": "Chushan Branch",
+          "city": "Nantou",
+          "swift_code": "CCBCTWTP594"
+        },
+        {
+          "branch_name": "Tatu Branch",
+          "city": "Taichung",
+          "swift_code": "CCBCTWTP596"
+        },
+        {
+          "branch_name": "Jhubei Branch",
+          "city": "Nchu Jhubei",
+          "swift_code": "CCBCTWTP598"
+        },
+        {
+          "branch_name": "Changhwa Branch",
+          "city": "Changhua",
+          "swift_code": "CCBCTWTP600"
+        },
+        {
+          "branch_name": "Lukang Branch",
+          "city": "Changhua",
+          "swift_code": "CCBCTWTP601"
+        },
+        {
+          "branch_name": "Yuanlin Branch",
+          "city": "Changhua",
+          "swift_code": "CCBCTWTP602"
+        },
+        {
+          "branch_name": "Hsihu Branch",
+          "city": "Hsihu",
+          "swift_code": "CCBCTWTP603"
+        },
+        {
+          "branch_name": "Peitou Branch",
+          "city": "Changhua",
+          "swift_code": "CCBCTWTP604"
+        },
+        {
+          "branch_name": "Hsiluo Branch",
+          "city": "Yunlin",
+          "swift_code": "CCBCTWTP605"
+        },
+        {
+          "branch_name": "Hemei Branch",
+          "city": "Hemei",
+          "swift_code": "CCBCTWTP606"
+        },
+        {
+          "branch_name": "Dali Branch",
+          "city": "Taichung",
+          "swift_code": "CCBCTWTP607"
+        },
+        {
+          "branch_name": "Erlin Branch",
+          "city": "Erlin Township",
+          "swift_code": "CCBCTWTP609"
+        },
+        {
+          "branch_name": "Touliu Branch",
+          "city": "Touliu",
+          "swift_code": "CCBCTWTP610"
+        },
+        {
+          "branch_name": "Tounan Branch",
+          "city": "Yunlin",
+          "swift_code": "CCBCTWTP611"
+        },
+        {
+          "branch_name": "Huwei Branch",
+          "city": "Yunlin",
+          "swift_code": "CCBCTWTP612"
+        },
+        {
+          "branch_name": "Tanshui Branch",
+          "city": "New Taipei City",
+          "swift_code": "CCBCTWTP568"
+        },
+        {
+          "branch_name": "Yangmei Branch",
+          "city": "Yangmei City",
+          "swift_code": "CCBCTWTP569"
+        },
+        {
+          "branch_name": "Tao-yuan Branch",
+          "city": "Tao-yuan",
+          "swift_code": "CCBCTWTP570"
+        },
+        {
+          "branch_name": "Chungli Branch",
+          "city": "Chung Li",
+          "swift_code": "CCBCTWTP571"
+        },
+        {
+          "branch_name": "Hsinchu Branch",
+          "city": "Hsinchu",
+          "swift_code": "CCBCTWTP572"
+        },
+        {
+          "branch_name": "Chutung Branch",
+          "city": "Chutung Town",
+          "swift_code": "CCBCTWTP573"
+        },
+        {
+          "branch_name": "Miaoli Branch",
+          "city": "Miao Li",
+          "swift_code": "CCBCTWTP574"
+        },
+        {
+          "branch_name": "Hsinchu Science-based Industrial Park Branch",
+          "city": "Hsinchu",
+          "swift_code": "CCBCTWTP575"
+        },
+        {
+          "branch_name": "Pei-chungli Branch",
+          "city": "Chung Li",
+          "swift_code": "CCBCTWTP576"
+        },
+        {
+          "branch_name": "Ba De Branch",
+          "city": "De City",
+          "swift_code": "CCBCTWTP577"
+        },
+        {
+          "branch_name": "Zhunan Branch",
+          "city": "Zhunan Town",
+          "swift_code": "CCBCTWTP578"
+        },
+        {
+          "branch_name": "Nankan Branch",
+          "city": "Luchu",
+          "swift_code": "CCBCTWTP579"
+        },
+        {
+          "branch_name": "Yuanli Branch",
+          "city": "Yuanli Town",
+          "swift_code": "CCBCTWTP580"
+        },
+        {
+          "branch_name": "Tachia Branch",
+          "city": "Taichung",
+          "swift_code": "CCBCTWTP581"
+        },
+        {
+          "branch_name": "Chingshui Branch",
+          "city": "Taichung",
+          "swift_code": "CCBCTWTP582"
+        },
+        {
+          "branch_name": "Fengyuan Branch",
+          "city": "Fengyuan",
+          "swift_code": "CCBCTWTP583"
+        },
+        {
+          "branch_name": "Tungshih Branch",
+          "city": "Taichung",
+          "swift_code": "CCBCTWTP584"
+        },
+        {
+          "branch_name": "Wufeng Branch",
+          "city": "Taichung",
+          "swift_code": "CCBCTWTP585"
+        },
+        {
+          "branch_name": "Nan-feng Branch",
+          "city": "Taichung",
+          "swift_code": "CCBCTWTP586"
+        },
+        {
+          "branch_name": "Shalu Branch",
+          "city": "Taichung",
+          "swift_code": "CCBCTWTP587"
+        },
+        {
+          "branch_name": "Wugu Industrial Park Branch",
+          "city": "New Taipei City",
+          "swift_code": "CCBCTWTP548"
+        },
+        {
+          "branch_name": "Nan-hsinchuang Branch",
+          "city": "Hsinchuang",
+          "swift_code": "CCBCTWTP549"
+        },
+        {
+          "branch_name": "Sanchungpu Branch",
+          "city": "New Taipei City",
+          "swift_code": "CCBCTWTP550"
+        },
+        {
+          "branch_name": "Pei-sanchungpu Branch",
+          "city": "New Taipei City",
+          "swift_code": "CCBCTWTP551"
+        },
+        {
+          "branch_name": "Hsintien Branch",
+          "city": "New Taipei City",
+          "swift_code": "CCBCTWTP552"
+        },
+        {
+          "branch_name": "Yungho Branch",
+          "city": "New Taipei City",
+          "swift_code": "CCBCTWTP553"
+        },
+        {
+          "branch_name": "Juifang Branch",
+          "city": "New Taipei City",
+          "swift_code": "CCBCTWTP554"
+        },
+        {
+          "branch_name": "Hsinchuang Branch",
+          "city": "Hsinchuang",
+          "swift_code": "CCBCTWTP555"
+        },
+        {
+          "branch_name": "Shulin Branch",
+          "city": "New Taipei City",
+          "swift_code": "CCBCTWTP556"
+        },
+        {
+          "branch_name": "Panchiao Branch",
+          "city": "Panchiao",
+          "swift_code": "CCBCTWTP557"
+        },
+        {
+          "branch_name": "Sanhsia Branch",
+          "city": "New Taipei City",
+          "swift_code": "CCBCTWTP558"
+        },
+        {
+          "branch_name": "Fuho Branch",
+          "city": "New Taipei City",
+          "swift_code": "CCBCTWTP559"
+        },
+        {
+          "branch_name": "Kuang-fu Branch",
+          "city": "Panchiao",
+          "swift_code": "CCBCTWTP560"
+        },
+        {
+          "branch_name": "Tung-sanchng Branch",
+          "city": "Sanchung",
+          "swift_code": "CCBCTWTP561"
+        },
+        {
+          "branch_name": "Pei Hsin Branch",
+          "city": "Hsintien",
+          "swift_code": "CCBCTWTP562"
+        },
+        {
+          "branch_name": "Nan-sanchung Branch",
+          "city": "New Taipei City",
+          "swift_code": "CCBCTWTP563"
+        },
+        {
+          "branch_name": "Chungho Branch",
+          "city": "Chungho",
+          "swift_code": "CCBCTWTP564"
+        },
+        {
+          "branch_name": "Hsi-sanchung Branch",
+          "city": "New Taipei City",
+          "swift_code": "CCBCTWTP565"
+        },
+        {
+          "branch_name": "Hsi-chih Branch",
+          "city": "New Taipei City",
+          "swift_code": "CCBCTWTP566"
+        },
+        {
+          "branch_name": "Shuangho Branch",
+          "city": "New Taipei City",
+          "swift_code": "CCBCTWTP567"
+        },
+        {
+          "branch_name": "Taipei World Trade Center Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP526"
+        },
+        {
+          "branch_name": "Tunhwa Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP527"
+        },
+        {
+          "branch_name": "Chien Kuo Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP528"
+        },
+        {
+          "branch_name": "Nei-hu Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP529"
+        },
+        {
+          "branch_name": "Tienmu Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP530"
+        },
+        {
+          "branch_name": "Chung Cheng Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP531"
+        },
+        {
+          "branch_name": "Jen-ho Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP532"
+        },
+        {
+          "branch_name": "Yung-chun Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP533"
+        },
+        {
+          "branch_name": "Guanglong Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP534"
+        },
+        {
+          "branch_name": "Mucha Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP535"
+        },
+        {
+          "branch_name": "Sinhu Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP536"
+        },
+        {
+          "branch_name": "Tung-hu Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP537"
+        },
+        {
+          "branch_name": "Nankang Science Industrial Park Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP538"
+        },
+        {
+          "branch_name": "Bei Tou Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP539"
+        },
+        {
+          "branch_name": "Heping Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP540"
+        },
+        {
+          "branch_name": "Longtan Branch",
+          "city": "Longtan",
+          "swift_code": "CCBCTWTP542"
+        },
+        {
+          "branch_name": "Xike Branch",
+          "city": "New Taipei City",
+          "swift_code": "CCBCTWTP543"
+        },
+        {
+          "branch_name": "Sinshu Branch",
+          "city": "New Taipei",
+          "swift_code": "CCBCTWTP545"
+        },
+        {
+          "branch_name": "Lide Branch",
+          "city": "New Taipei",
+          "swift_code": "CCBCTWTP546"
+        },
+        {
+          "branch_name": "Taishan Branch",
+          "city": "New Taipei City",
+          "swift_code": "CCBCTWTP547"
+        },
+        {
+          "branch_name": "Chiencheng Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP505"
+        },
+        {
+          "branch_name": "Tatung Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP506"
+        },
+        {
+          "branch_name": "Chengde Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP507"
+        },
+        {
+          "branch_name": "Chungshan North Road Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP508"
+        },
+        {
+          "branch_name": "Tungmen Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP510"
+        },
+        {
+          "branch_name": "Kuting Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP511"
+        },
+        {
+          "branch_name": "Wufenpu Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP512"
+        },
+        {
+          "branch_name": "Ta-an Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP513"
+        },
+        {
+          "branch_name": "Chengtung Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP514"
+        },
+        {
+          "branch_name": "Chunglun Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP515"
+        },
+        {
+          "branch_name": "Shuangyuan Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP516"
+        },
+        {
+          "branch_name": "Shihlin Branch",
+          "city": "Shihlin",
+          "swift_code": "CCBCTWTP517"
+        },
+        {
+          "branch_name": "Central Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP518"
+        },
+        {
+          "branch_name": "Sungshan Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP519"
+        },
+        {
+          "branch_name": "Chung Hsiao Tung Lu Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP520"
+        },
+        {
+          "branch_name": "Hsin Yi Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP521"
+        },
+        {
+          "branch_name": "Tung Taipei Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP522"
+        },
+        {
+          "branch_name": "Min Sheng Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP523"
+        },
+        {
+          "branch_name": "Hsi-sung Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP524"
+        },
+        {
+          "branch_name": "Fu Hsing Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP525"
+        },
+        {
+          "branch_name": "Sung Chiang Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP975"
+        },
+        {
+          "branch_name": "Hsi-neihu Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP979"
+        },
+        {
+          "branch_name": "Nankang Branch",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTP980"
+        },
+        {
+          "branch_name": "Chung-kang Branch",
+          "city": "Taichung",
+          "swift_code": "CCBCTWTP981"
+        },
+        {
+          "branch_name": "Luchou Branch",
+          "city": "New Taipei City",
+          "swift_code": "CCBCTWTP983"
+        },
+        {
+          "branch_name": "Chung-hua Road Branch",
+          "city": "Tainan",
+          "swift_code": "CCBCTWTP984"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "CCBCTWTPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cargill Tsf Asia Pte. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CTSFSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bsi Bank Limited Singapore",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BSILSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Wealth Management (Formerly Known As Bnp Paribas Private Bank)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BPPBSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Trust Services Singapore Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BPTSSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BNPASGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Securities Services Sa",
+      "branches": [
+        {
+          "branch_name": "Global Custody",
+          "city": "Singapore",
+          "swift_code": "PARBSGSGISI"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "PARBSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Pictet And Cie (Asia) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "PICTSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Tokyo Mitsubishi Ufj Ltd. The",
+      "branches": [
+        {
+          "branch_name": "Singapore Branch",
+          "city": "Singapore",
+          "swift_code": "BOTKSGSXXXX"
+        },
+        {
+          "branch_name": "Manila Branch",
+          "city": "Manila",
+          "swift_code": "BOTKPHMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dnb Bank Asa, Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "DNBASGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dnb Asia Ltd.",
+      "branches": [
+        {
+          "branch_name": "Singapore 0106",
+          "city": "Singapore",
+          "swift_code": "DNBASGSGMER"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dksh Management Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "DKSHSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dexia Banque Internationale A Luxembourg",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BILLSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Ag (Private Banking)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "DEUTSGSPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dbs Vickers Securities (Singapore) Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "DBSESGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dbs Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Investment Banking Department",
+          "city": "Singapore",
+          "swift_code": "DBSSSGSGIBD"
+        },
+        {
+          "branch_name": "Pcg-private Banking Department",
+          "city": "Singapore",
+          "swift_code": "DBSSSGSGPCG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "DBSSSGSGXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "DBSSGB2LXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dubai",
+          "swift_code": "DBSSAEADXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daiwa Capital Markets Singapore Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "DASMSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daimler South East Asia Pte.Ltd.",
+      "branches": [
+        {
+          "branch_name": "Industrial Accounts",
+          "city": "Singapore",
+          "swift_code": "DCAGSGSGIBA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "DCAGSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Custom House Currency Exchange (Singapore) Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CHFXSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Securities (Singapore) Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CSFBSGSEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Ag, Singapore Private Banking",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CSPBSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Ag, Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Singapore Branch",
+          "city": "Singapore",
+          "swift_code": "CRESSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse (Singapore) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CSFBSGSXXXX"
+        },
+        {
+          "branch_name": "Singapore Division",
+          "city": "Singapore",
+          "swift_code": "CSFBSGSXIND"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Industriel Et Commercial - Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CMCISGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole (Suisse)Sa - Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "AGRISG2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Institutional Trust Services (Singapore) Limited",
+      "branches": [
+        {
+          "branch_name": "Global Custody Asia",
+          "city": "Singapore",
+          "swift_code": "BBDASGSXGCA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BBDASGSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hl Bank, Singapore",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "HLBBSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hewlett-Packard Asia Pacific Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "HPQQSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hang Seng Bank Limited, Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "HASESGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hang Seng Asset Management Pte Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "HSASSGSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hana Bank (Singapore Branch)",
+      "branches": [
+        {
+          "branch_name": "Singapore Branch",
+          "city": "Singapore",
+          "swift_code": "HNBNSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Government Of Singapore Investment Corporation Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Tbc",
+          "city": "Singapore",
+          "swift_code": "GSICSGSGBAC"
+        },
+        {
+          "branch_name": "Tbc",
+          "city": "Singapore",
+          "swift_code": "GSICSGSGCAC"
+        },
+        {
+          "branch_name": "Tbc",
+          "city": "Singapore",
+          "swift_code": "GSICSGSGHAC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "GSICSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Goldman Sachs (Singapore) Pte",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "GSSGSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fullerton Fund Management Company Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "FFMCSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fullerton (Private) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "THPLSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fraser And Neave, Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "FANLSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Gulf Bank, Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "FGBMSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Far Eastern Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "FAEASGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Emirates Nbd Bank Pjsc (Enbd)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "EBILSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Efg Bank Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "EFGBSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dz Bank Ag, Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "GENOSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lgt Bank (Singapore) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BLFLSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Land Bank Of Taiwan, Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "LBOTSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Krung Thai Bank Plc, Singapore Bran Ch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "KRTHSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Korea Exchange Bank, Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "KOEXSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Keppel Corporation Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "KEPCSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kbc Bank Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "KREDSGSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.P. Morgan (S.E.A.) Limited",
+      "branches": [
+        {
+          "branch_name": "Test Key And Bke Administration",
+          "city": "Singapore",
+          "swift_code": "CMSESGSGKEY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CMSESGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investment Company Of The Peoples Republic Of China (Singapore) Pte Ltd., Singapore",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "PBOCSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intesa Sanpaolo S.P.A. (Former Sanpaolo Imi), Singapore Branch, Singapore",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BCITSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hua Nan Commercial Bank, Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "HNBKSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsh Nordbank Ag (Formerly Hamburgische Landesbank Girozentrale Singapore Branch)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "HSHNSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nomura Singapore Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SNOMSGSGXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SNOMSGL1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nomura Investments (Singapore) Pte",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "NOISSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nomura Asset Management Singapore Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "NOCMSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Australia Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "NATASGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Morgan Stanley Investment Management Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "MSAMSGSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Monetary Authority Of Singapore, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "MASGSGSMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "MASGSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mizuho Corporate Bank Ltd. Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "MHCBSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch International Bank Limited (Merchant Bank)",
+      "branches": [
+        {
+          "branch_name": "Private Client",
+          "city": "Singapore",
+          "swift_code": "MLIBSGSXGWM"
+        },
+        {
+          "branch_name": "Precious Metals",
+          "city": "Singapore",
+          "swift_code": "MLIBSGSXMET"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "MLIBSGSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch (Singapore) Pte. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "MLSSSGSGXXX"
+        },
+        {
+          "branch_name": "Singapore",
+          "city": "Singapore",
+          "swift_code": "MLSSSGSGIND"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercedes-Benz Financial Services Singapore Pte Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "DFISSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mega International Commercial Bank Co., Ltd., Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ICBCSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Macquarie Bank Limited, Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "MACQSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lombard Odier Darier Hentsch And Cie (Singapore) Ltd",
+      "branches": [
+        {
+          "branch_name": "Ndp Dept",
+          "city": "Singapore",
+          "swift_code": "LOCYSGSGNDP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "LOCYSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lloyds Tsb Bank Plc, Singapore",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "LOYDSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Singapore Exchange Derivatives Clearing Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "XSIMSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shinhan Bank, Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SHBKSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Schroder Investment Management (Singapore) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SIMNSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Schroder And Co (Asia) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SALISGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rhb Bank Berhad",
+      "branches": [
+        {
+          "branch_name": "Main Branch",
+          "city": "Singapore",
+          "swift_code": "RHBBSGSGXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bangkok",
+          "swift_code": "DCBBTHBKXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Kuala Lumpur",
+          "swift_code": "RHBBMYKLXXX"
+        },
+        {
+          "branch_name": "Kota Kinabalu Sabah",
+          "city": "Kota Kinabalu, Sabah",
+          "swift_code": "RHBBMYK1KKB"
+        },
+        {
+          "branch_name": "Penang Penang",
+          "city": "Penang, Penang",
+          "swift_code": "RHBBMYK1PNG"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbc Dexia Trust Services Singapore",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "DTSSSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Raiffeisen Bank International Ag Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "RZBASGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rabobank, Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "RABOSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Qatar National Bank (Qnb)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "QNBASGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prudential Asset Management Singapore Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ESINSGSGXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "PAMGSGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Philippine National Bank-Singapore",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "PNBMSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ocbc Securities Private Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "OCSPSGSGXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "OCSESGS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Northern Trust Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CNORSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Norinchukin Bank, The",
+      "branches": [
+        {
+          "branch_name": "Singapore Branch",
+          "city": "Singapore",
+          "swift_code": "NOCUSGSGXXX"
+        },
+        {
+          "branch_name": "Treasury And Securities Operations Division",
+          "city": "Tokyo",
+          "swift_code": "NOCUJPJTCLS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "NOCUJPJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Toronto Dominion (South East Asia) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "TDOMSG2SXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Royal Bank Of Scotland N.V. (Singapore)",
+      "branches": [
+        {
+          "branch_name": "Access Online Asia",
+          "city": "Singapore",
+          "swift_code": "ABNASGSGAOA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ABNASGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Islamic Bank Of Asia Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "TIBASGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Hongkong And Shanghai Banking Corporation Limited, Singapore",
+      "branches": [
+        {
+          "branch_name": "Cls Division",
+          "city": "Singapore",
+          "swift_code": "HSBCSGSGCLS"
+        },
+        {
+          "branch_name": "Custody And Clearing",
+          "city": "Singapore",
+          "swift_code": "HSBCSGSGCNC"
+        },
+        {
+          "branch_name": "Treasury Settlement Operations",
+          "city": "Singapore",
+          "swift_code": "HSBCSGSGFEX"
+        },
+        {
+          "branch_name": "Global Wealth Solution",
+          "city": "Singapore",
+          "swift_code": "HSBCSGSGGWS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "HSBCSGSGXXX"
+        },
+        {
+          "branch_name": "Private Banking Division",
+          "city": "Singapore",
+          "swift_code": "HSBCSGSGPBD"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Central Depository (Pte) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CDPLSGSHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Central Depository (Pte) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "CDPLSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Bank Of Nova Scotia, Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "NOSCSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Bank Of New York Mellon, Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "IRVTSGSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Bank Of East Asia Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "BEASSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Svenska Handelsbanken, Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "HANDSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sumitomo Trust And Banking Company Limited, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "STBCSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Street Bank And Trust Company, Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Investment Services Division",
+          "city": "Singapore",
+          "swift_code": "SBOSSGSXAGC"
+        },
+        {
+          "branch_name": "Investment Services Division",
+          "city": "Singapore",
+          "swift_code": "SBOSSGSXAGD"
+        },
+        {
+          "branch_name": "Investment Operations Division",
+          "city": "Singapore",
+          "swift_code": "SBOSSGSXAGE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SBOSSGSXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Bank Plc, Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SBSASGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Bank And Trust, Singapore Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "SGBTSGSGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Skandinaviska Enskilda Banken S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "ESSESGSPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Luxembourg",
+          "swift_code": "ESSELULLXXX"
+        }
+      ]
+    }
+  ]
+}

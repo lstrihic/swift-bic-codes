@@ -1,0 +1,2932 @@
+{
+  "country_name": "South Africa",
+  "alpha_2": "ZA",
+  "country_code": "710",
+  "banks": [
+    {
+      "bank_name": "Wj Morgan And Associates",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "WJMAZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wellsfaber (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Howard Place",
+          "swift_code": "WEPTZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vw Of South Africa",
+      "branches": [
+        {
+          "branch_name": "Vw Of South Africa",
+          "city": "Uitenhage",
+          "swift_code": "SOAFZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vunani Fund Mangers (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "VFMPZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Visio Capital Management Pty Ltd",
+      "branches": [
+        {
+          "branch_name": "Aim-poms Service",
+          "city": "Sandton",
+          "swift_code": "VMGCZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vector Equities (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "VEQTZAJ1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "VEQTZAJCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unibank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "UNAAZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trustlink",
+      "branches": [
+        {
+          "branch_name": "Pretoria",
+          "city": "Pretoria",
+          "swift_code": "LINKZAJJABC"
+        },
+        {
+          "branch_name": "Pretoria",
+          "city": "Pretoria",
+          "swift_code": "LINKZAJJEFC"
+        },
+        {
+          "branch_name": "Pretoria",
+          "city": "Pretoria",
+          "swift_code": "LINKZAJJKLM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Pretoria",
+          "swift_code": "LINKZAJJXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Pretoria",
+          "swift_code": "LINKZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Treasuryone (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pretoria",
+          "swift_code": "TRPYZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thirty Four South Research And Trading (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "TFSRZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Government Of The Rsa In Its National Treasury",
+      "branches": [
+        {
+          "branch_name": "Office Of The Accountant General",
+          "city": "Pretoria",
+          "swift_code": "TALMZAJPOAG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Pretoria",
+          "swift_code": "TALMZAJPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Pretoria",
+          "swift_code": "TALMZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Strate",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "STRAZAJ2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Bank Nominees (transvaal) (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "SNTPZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stakeholder Data Services (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sandton / Johannesburg",
+          "swift_code": "SHDAZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "South African Reserve Bank Pch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "SRCRZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investec Securities (pty) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg Gauteng",
+          "swift_code": "IVESZA31XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Infinity Financial Services (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "IFSEZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial Development Corporation Of South Africa Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "IDCFZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Incorporated Securities (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rosebank",
+          "swift_code": "INSPZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Impala Platinum",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "IMPNZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hans Merensky Holdings",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "HAMHZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Grindrod Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Durban",
+          "swift_code": "GREGZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Graaffs Trust Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "GRTRZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gencor Treasury",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "GETRZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gbs Mutual Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Grahamstown",
+          "swift_code": "GBSMZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fx Africa Foreign Exchange (pty)ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sandton",
+          "swift_code": "FXAFZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Freeworld Capital Holdings (pty)ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pretoria",
+          "swift_code": "FREEZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Foord Asset Management (proprietary) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pinelands",
+          "swift_code": "FRDGZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fitch Southern Africa (pty) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "FRIPZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finbond Mutual Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pretoria",
+          "swift_code": "FBMBZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financial Currency Brokers S.a. (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Marshalltown",
+          "swift_code": "FCBPZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fedsure Asset Management Co. (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "FAMTZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fedlife Assurance Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "FEASZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fbc Fidelity Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "FBCCZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Farmwise Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "FARMZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "South African Reserve Bank Fir",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "SRROZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Royal Asset Management (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "RAMYZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nike South Africa (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "NIKEZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nfb Financial Services Group",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "NFBGZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mvunonala Asset Managers (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "MAMYZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mpf Management Services (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "MMSPZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moody's Investors Service South Africa (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "MIESZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Momentum Life Assurers Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Centurion",
+          "swift_code": "MOLAZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mls Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "MLSMZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mergence Investment Managers (pty",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "MIMTZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Melville Douglas Investment Management (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "MDIMZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meeg Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "East London",
+          "swift_code": "BTRKZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Marriott Merchant Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Durban",
+          "swift_code": "MAMRZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mark Alexander Investments Cc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Place / Howard",
+          "swift_code": "MAAIZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lomberg Pulford And Co (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "LOPUZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lion Securities Cc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "East London",
+          "swift_code": "LISYZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lewis And Wayne Treasury",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "LWTRZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Knoydart Investments (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rondebosch",
+          "swift_code": "KNIPZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ken Powell Financial Services (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Houghton",
+          "swift_code": "KPFSZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Karlein Independent Investment Consultancy Cc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rondebosch",
+          "swift_code": "KIIOZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jci Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "JCTRZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ip Management Company (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "MAOYZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Robert Cowen Investments (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "RCIPZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rezco (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Muldersdrift",
+          "swift_code": "REPTZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Regiments Fund Managers 91",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg Gauteng",
+          "swift_code": "REFGZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rand Registrars",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Southdale",
+          "swift_code": "RANDZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rand Refinery Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "RRPLZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Psg Asset Management (pty) Ltd 1st Floor Psg House",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "PAAYZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Protea Insurance Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "PRIUZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prospur Portfolio Managers (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "PPMPZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Project Resources And Acquisitions (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Centurion",
+          "swift_code": "CAPFZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pro-equity (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Arcadia",
+          "swift_code": "PRPYZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pps Investments (pty) Ltd Travers House, Boundary Terraces",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "PIPTZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Plexus Asset Management Plexus House",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Durbanville",
+          "swift_code": "PAMXZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Philippus De Witt Emds Bpk",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "PDWEZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Peter Berry Trust Services (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "PBTSZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Personal Trust Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "PERRZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Paul Clarke And Associates Cc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vlaeberg",
+          "swift_code": "PACTZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Omigsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "OMIGZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Old Mutual Life Assurance Company (south Africa) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "ROKLZAJTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oasis Crescent Capital (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "OASMZA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "South African Mutual Life Assurance Society",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "MLASZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "South African International Money Brokers (pty) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "SAIOZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "South African Housing Trust Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Randburg",
+          "swift_code": "SAHTZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "South African Futures Exchange-agricultural Market Division",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Houghton",
+          "swift_code": "XSFAZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "South African Breweries Ltd",
+      "branches": [
+        {
+          "branch_name": "South African Breweries Ltd",
+          "city": "Johannesburg",
+          "swift_code": "SABMZAJ1ABL"
+        },
+        {
+          "branch_name": "Johannesburg 2196",
+          "city": "Johannesburg",
+          "swift_code": "SABMZAJ1SAB"
+        },
+        {
+          "branch_name": "Sabfin Branch",
+          "city": "Johannesburg",
+          "swift_code": "SABMZAJ1SFN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "SABMZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Smk Securities (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "SMKSZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sitc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Centurion",
+          "swift_code": "STTCZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sishen Iron Ore Company (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Sishen Iron Ore Company (pty) Ltd",
+          "city": "Centurion",
+          "swift_code": "SIOCZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sharegro Investment Company (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Melville",
+          "swift_code": "SICPZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sg Securitiies Johannesburg Pty Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "SGSJZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sesfikile Capital (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "SEPTZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Senekal Mouton And Kitshoff Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "SEMKZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Seardel Investment Corporation Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "SENPZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sanlam Credit Conduit Proprietary Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "GBSEZAJ5XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronics South Africa (pty) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Ssa",
+          "city": "Johannesburg",
+          "swift_code": "SECTZAJ1720"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "SECTZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sage Selection Cc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "SAGEZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Safex",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "XSAFZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saambou Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pretoria",
+          "swift_code": "SAABZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ryan Anderson And Co (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "RYAPZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bidvest Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Braamfontein",
+          "swift_code": "BIDBZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barnard Jacobs Mellett And Co (Pty) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "SBJMZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barnard Jacobs Mellet Private Client Services (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "BJMRZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankserv Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "BKSVZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Taiwan, South Africa Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Rosebank",
+          "swift_code": "BKTWZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of China Johannesburg Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "BKCHZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "B.P. Bernstein",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "BERNZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Anglorand Securities Pty Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "PALRZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Anglo American Sa Finance Limited",
+      "branches": [
+        {
+          "branch_name": "Johannesburg",
+          "city": "Johannesburg",
+          "swift_code": "AACLZAJJCIM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "AACLZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Allan Gray Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "GRAYZAJCXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "AIICZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Albaraka Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Durban",
+          "swift_code": "ALBRZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Afrifocus Securities (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "AFRFZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "African Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "AFRCZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abvest Associates Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Claremont",
+          "swift_code": "ABVSZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Absa Stockbrokers (Proprietary) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "ABSAZAJ2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Absa Capital Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sandton",
+          "swift_code": "ABSAZAJ3XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Absa Bank Limited",
+      "branches": [
+        {
+          "branch_name": "International Center Bloemfontein",
+          "city": "Bloemfontein",
+          "swift_code": "ABSAZAJJCBF"
+        },
+        {
+          "branch_name": "Corporate Banking Services-western Cape476",
+          "city": "Cape Town",
+          "swift_code": "ABSAZAJJCCT"
+        },
+        {
+          "branch_name": "Corporate Banking Services-natal479",
+          "city": "Durban",
+          "swift_code": "ABSAZAJJCDB"
+        },
+        {
+          "branch_name": "Absa Capital Brokers",
+          "city": "Johannesburg",
+          "swift_code": "ABSAZAJJACS"
+        },
+        {
+          "branch_name": "Corporate Banking Services-witwatersrand235",
+          "city": "Johannesburg",
+          "swift_code": "ABSAZAJJCWI"
+        },
+        {
+          "branch_name": "Absa Issuing Agent",
+          "city": "Johannesburg",
+          "swift_code": "ABSAZAJJMG1"
+        },
+        {
+          "branch_name": "Absa Trade Reporting",
+          "city": "Johannesburg",
+          "swift_code": "ABSAZAJJMG2"
+        },
+        {
+          "branch_name": "Absa Custody",
+          "city": "Johannesburg",
+          "swift_code": "ABSAZAJJMG3"
+        },
+        {
+          "branch_name": "Money Market Branch",
+          "city": "Johannesburg",
+          "swift_code": "ABSAZAJJMMD"
+        },
+        {
+          "branch_name": "Absa Reconcilitaion Division",
+          "city": "Johannesburg",
+          "swift_code": "ABSAZAJJREK"
+        },
+        {
+          "branch_name": "Lending Division",
+          "city": "Johannesburg",
+          "swift_code": "ABSAZAJJSLB"
+        },
+        {
+          "branch_name": "Money Market Branch",
+          "city": "Johannesburg",
+          "swift_code": "ABSAZAJJTMS"
+        },
+        {
+          "branch_name": "Johannesburg",
+          "city": "Johannesburg",
+          "swift_code": "ABSAZAJJTRS"
+        },
+        {
+          "branch_name": "Vostro Branch",
+          "city": "Johannesburg",
+          "swift_code": "ABSAZAJJVOS"
+        },
+        {
+          "branch_name": "All South African Offices",
+          "city": "Johannesburg",
+          "swift_code": "ABSAZAJJXXX"
+        },
+        {
+          "branch_name": "International Banking Centre Nelspruit449",
+          "city": "Nelspruit",
+          "swift_code": "ABSAZAJJCNE"
+        },
+        {
+          "branch_name": "Corporate Banking Services-eastern Cape480",
+          "city": "Port Elizabeth",
+          "swift_code": "ABSAZAJJCPE"
+        },
+        {
+          "branch_name": "Corporate Banking Services-northern Transvaal478",
+          "city": "Pretoria",
+          "swift_code": "ABSAZAJJCPT"
+        },
+        {
+          "branch_name": "Credit Card Admin Centre",
+          "city": "Pretoria",
+          "swift_code": "ABSAZAJJCRD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "ABSAGB2LXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "28e Capital Pty Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Centurion",
+          "swift_code": "ECATZAJ4XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Exectrust (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "TRBPZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bond Street Securities (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Durbanville",
+          "swift_code": "BSSYZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Afc Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "AFCAZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Strate Ltd.(Formerly Universal Exchange Corporation Limited)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sandton",
+          "swift_code": "UNEXZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rmb Asset Management (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sandton",
+          "swift_code": "RMBAZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Legae Securities (Pty) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "LESPZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ffo Securities (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "FFOSZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eskom Treasury",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "ESKOZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Development Bank Of Southern Africa Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Midrand",
+          "swift_code": "DESFZAJMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Securities Pty Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "IVJRZAJJXXX"
+        },
+        {
+          "branch_name": "Cape Town 8001",
+          "city": "Cape Town",
+          "swift_code": "IVJRZAJ10JC"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Securities (Johannesburg) (Pty) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sandton",
+          "swift_code": "CRESZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cratos Capital (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Illovo",
+          "swift_code": "CRCAZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Consilium Capital (Sa) (Pty) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "COCPZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Computershare Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "CSCUZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Computershare Limited",
+      "branches": [
+        {
+          "branch_name": "Johannesburg 2001",
+          "city": "Johannesburg",
+          "swift_code": "CSEVZAJJ100"
+        },
+        {
+          "branch_name": "Johannesburg 2001",
+          "city": "Johannesburg",
+          "swift_code": "CSEVZAJJ200"
+        },
+        {
+          "branch_name": "Johannesburg",
+          "city": "Johannesburg",
+          "swift_code": "CSEVZAJJ300"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "CSEVZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cks Equities (Pty)Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Four Ways",
+          "swift_code": "CKSEZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citigroup Global Markets (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "SSBSZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank South Africa",
+      "branches": [
+        {
+          "branch_name": "Trade Services Dept",
+          "city": "Sandton",
+          "swift_code": "CITIZAJXTRD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sandton",
+          "swift_code": "CITIZAJXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "China Construction Bank Johannesburg Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sandton",
+          "swift_code": "PCBCZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capitec Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Stellenbosch",
+          "swift_code": "CABLZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cadiz Stock Broking",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "SPTSZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Business Connexion",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Midrand",
+          "swift_code": "BCXGZAJMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brockhouse Cooper Sa Pty",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "BROKZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bpi Capital Africa (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "BBPIZAJCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Boe Stockbrokers (Pty) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Bloemfontein 9301",
+          "city": "Bloemfontein",
+          "swift_code": "NBOEZAJ2022"
+        },
+        {
+          "branch_name": "Cape Town 8001",
+          "city": "Cape Town",
+          "swift_code": "NBOEZAJ2033"
+        },
+        {
+          "branch_name": "Johannesburg 2001",
+          "city": "Johannesburg",
+          "swift_code": "NBOEZAJ2044"
+        },
+        {
+          "branch_name": "Institutions Department",
+          "city": "Johannesburg",
+          "swift_code": "NBOEZAJ2INT"
+        },
+        {
+          "branch_name": "Private Clients Department",
+          "city": "Johannesburg",
+          "swift_code": "NBOEZAJ2PVT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "NBOEZAJ2XXX"
+        },
+        {
+          "branch_name": "Pietermaritzburg 3201",
+          "city": "Pietermaritzburg",
+          "swift_code": "NBOEZAJ2011"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lefika Securities (Pty)Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "LESTZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jse Limited",
+      "branches": [
+        {
+          "branch_name": "Settlement Authority-money Markets Isins",
+          "city": "Sandton",
+          "swift_code": "XJSEZAJJISN"
+        },
+        {
+          "branch_name": "Settlement Authority-margining",
+          "city": "Sandton",
+          "swift_code": "XJSEZAJJMRG"
+        },
+        {
+          "branch_name": "Settlement Authority",
+          "city": "Sandton",
+          "swift_code": "XJSEZAJJSAT"
+        },
+        {
+          "branch_name": "Jse Limited Safex",
+          "city": "Sandton",
+          "swift_code": "XJSEZAJJSFX"
+        },
+        {
+          "branch_name": "Settlement Authority Securities Lending Desk",
+          "city": "Sandton",
+          "swift_code": "XJSEZAJJSLB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sandton",
+          "swift_code": "XJSEZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jpmorgan Securities South Africa",
+      "branches": [
+        {
+          "branch_name": "Test Key And Bke Administration",
+          "city": "Johannesburg",
+          "swift_code": "JPMSZAJJKEY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "JPMSZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jpmorgan Administration (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "TAFAZAJCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jp Morgan Equities Limited",
+      "branches": [
+        {
+          "branch_name": "Cape Town 8001",
+          "city": "Cape Town",
+          "swift_code": "JPMEZAJJ011"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "JPMEZAJJXXX"
+        },
+        {
+          "branch_name": "Pietermaritzburg 3201",
+          "city": "Pietermaritzburg",
+          "swift_code": "JPMEZAJJ022"
+        },
+        {
+          "branch_name": "Rosebank 2196",
+          "city": "Rosebank",
+          "swift_code": "JPMEZAJJ033"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investec Securities Ltd.",
+      "branches": [
+        {
+          "branch_name": "Johannesburg 2001",
+          "city": "Johannesburg",
+          "swift_code": "IVESZAJ2011"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "IVESZAJ2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investec Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sandton",
+          "swift_code": "IVESZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Independent Securities (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "ISECZAJJXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "ISZAZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Imara S.P. Reid (Pty) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "REMAZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Securities (South Africa) (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Johannesburg 2001",
+          "city": "Johannesburg",
+          "swift_code": "SMJCZAJC011"
+        },
+        {
+          "branch_name": "Whk Branch",
+          "city": "Johannesburg",
+          "swift_code": "SMJCZAJCWHK"
+        },
+        {
+          "branch_name": "Houghton",
+          "city": "Johannesburg",
+          "swift_code": "SMJCZAJCXXX"
+        },
+        {
+          "branch_name": "Rondebosch 7700",
+          "city": "Rondebosch",
+          "swift_code": "SMJCZAJC022"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hbz Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Durban",
+          "swift_code": "HBZHZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Habib Overseas Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "HOBLZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Grindrod Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Durban",
+          "swift_code": "GRIDZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Golding And Slabbert (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "GOSLZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Golden Dividend 531 (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "GDPTZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Genbel Securities Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "GBSEZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Four M Traders (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Melrose Arch",
+          "swift_code": "FORMZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Firstrand Bank Ltd Head Office Incl. Divisions First National Bank, Fnb Corporate And Rand Merchant Bank",
+      "branches": [
+        {
+          "branch_name": "Custody Services, International Banking",
+          "city": "Johannesburg",
+          "swift_code": "FIRNZAJJ896"
+        },
+        {
+          "branch_name": "Johannesburg",
+          "city": "Johannesburg",
+          "swift_code": "FIRNZAJJRSL"
+        },
+        {
+          "branch_name": "Head Office And All South African Offices",
+          "city": "Johannesburg",
+          "swift_code": "FIRNZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Riscura Solutions Pty (Ltd)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "RISPZAJCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Regiments Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Roodepoort",
+          "swift_code": "REGMZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prudential Portfolio Managers (Sa) (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Claremont",
+          "swift_code": "PPMTZAJCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prime Securities (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "PSERZAJCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prescient Securities Pty Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Constantia",
+          "swift_code": "PCNTZAJCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prescient Investment Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "PRVGZAJCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Philippus De Witt (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "WIMOZAJJXXX"
+        },
+        {
+          "branch_name": "Pretoria Branch",
+          "city": "Pretoria",
+          "swift_code": "WIMOZAJJPRE"
+        }
+      ]
+    },
+    {
+      "bank_name": "Peregrine Equities(Pty)Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "PRSMZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Online Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "PSSYZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Old Mutual Investment Group(Sa) Pty Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "OMAMZAJCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nvest Securities (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "East London",
+          "swift_code": "NVSEZAJCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Noah Financial Innovation (Proprietary) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "METLZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nedbank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "NEDSZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Navigare Securities Pty Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "NAVGZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch South Africa (Proprietary) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "SBKHZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercantile Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sandton",
+          "swift_code": "LISAZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maitland Fund Services (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "FNSOZAJCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Macquarie First South Securities (Proprietary) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Parktown",
+          "swift_code": "FSSEZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Macquarie First South Equities (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "MFSQZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Strate Ltd",
+      "branches": [
+        {
+          "branch_name": "Strate Registrar",
+          "city": "Johannesburg",
+          "swift_code": "STRAZAJJREG"
+        },
+        {
+          "branch_name": "Tfs",
+          "city": "Johannesburg",
+          "swift_code": "STRAZAJJTFS"
+        },
+        {
+          "branch_name": "Central Depository",
+          "city": "Sandton",
+          "swift_code": "STRAZAJJCDX"
+        },
+        {
+          "branch_name": "Unexcor",
+          "city": "Sandton",
+          "swift_code": "STRAZAJJUNX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Sandton",
+          "swift_code": "STRAZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stanlib Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Melrose Arch",
+          "swift_code": "LBAMZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Bank Of South Africa Limited,The",
+      "branches": [
+        {
+          "branch_name": "Africa Custody Network",
+          "city": "Johannesburg",
+          "swift_code": "SBZAZAJJAFR"
+        },
+        {
+          "branch_name": "Cash Reporting",
+          "city": "Johannesburg",
+          "swift_code": "SBZAZAJJBOL"
+        },
+        {
+          "branch_name": "Continuous Link Settlement",
+          "city": "Johannesburg",
+          "swift_code": "SBZAZAJJCLS"
+        },
+        {
+          "branch_name": "Securities Lending",
+          "city": "Johannesburg",
+          "swift_code": "SBZAZAJJFSL"
+        },
+        {
+          "branch_name": "International Banking System Users",
+          "city": "Johannesburg",
+          "swift_code": "SBZAZAJJICM"
+        },
+        {
+          "branch_name": "Pan African Liquidity Management",
+          "city": "Johannesburg",
+          "swift_code": "SBZAZAJJPLM"
+        },
+        {
+          "branch_name": "Head Office And All South African Offices",
+          "city": "Johannesburg",
+          "swift_code": "SBZAZAJJXXX"
+        },
+        {
+          "branch_name": "Standard Bank Of South Africa Limited,The",
+          "city": "Johannesburg",
+          "swift_code": "SBZAZAJJATG"
+        }
+      ]
+    },
+    {
+      "bank_name": "South African Reserve Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pretoria",
+          "swift_code": "SARBZAJ5XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Pretoria",
+          "swift_code": "SARBZAJ6XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Pretoria",
+          "swift_code": "SARBZAJHXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Pretoria",
+          "swift_code": "SARBZAJPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Pretoria",
+          "swift_code": "SARBZAJ4XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Pretoria",
+          "swift_code": "SARBZAJSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "South African Bank Of Athens Limited, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "BATHZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale, Johannesburg Branch",
+      "branches": [
+        {
+          "branch_name": "Securities Branch",
+          "city": "Johannesburg",
+          "swift_code": "SOGEZAJJSGS"
+        },
+        {
+          "branch_name": "Securities Lending And Borowing",
+          "city": "Johannesburg",
+          "swift_code": "SOGEZAJJSLB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "SOGEZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sg Frankel Pollak Securities",
+      "branches": [
+        {
+          "branch_name": "East London",
+          "city": "Vincent",
+          "swift_code": "SFPSZAJJ011"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sbg Securities (Pty) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "SBEQZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sasfin Frankel Pollak Securities (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Benoni 1500",
+          "city": "Benoni",
+          "swift_code": "SFPSZAJJ044"
+        },
+        {
+          "branch_name": "Cape Town 8001",
+          "city": "Cape Town",
+          "swift_code": "SFPSZAJJ055"
+        },
+        {
+          "branch_name": "Durban 4001",
+          "city": "Durban",
+          "swift_code": "SFPSZAJJ066"
+        },
+        {
+          "branch_name": "Johannesburg 2001",
+          "city": "Johannesburg",
+          "swift_code": "SFPSZAJJ033"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "SFPSZAJJXXX"
+        },
+        {
+          "branch_name": "Sandton 2196",
+          "city": "Sandton",
+          "swift_code": "SFPSZAJJ022"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sasfin Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "SASFZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sanlam Securities (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "GBSEZAJ3XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sanlam Prime Services (Proprietary) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "GBSEZAJ4XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sanlam Investment Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bellville",
+          "swift_code": "SANLZAJCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sanlam Capital Markets",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "GBSEZAJ2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sa Stock Brokers (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "SBPTZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rmb Stockbroking (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sandton",
+          "swift_code": "FNEQZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rmb Securities (Pty) Limited",
+      "branches": [
+        {
+          "branch_name": "Jse Settlement Office",
+          "city": "Johannesburg",
+          "swift_code": "RMBSZAJJJSE"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "RMBSZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ach Trading Cc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bedfordview",
+          "swift_code": "SBCHZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Absa Trust Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "ABTRZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abax Investments",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "ABIVZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wwc Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "WWSEZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Watermark Securities (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "WASPZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vunani Securities (Proprietary) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sandton",
+          "swift_code": "CEQPZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ultra Registrars (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "ULTRZAJCXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "ULTRZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs South Africa (Proprietary) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "UBSWZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Transnet Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "TNETZAJJXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "TRNNZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tov Capital Markets And Share Trading (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sandton",
+          "swift_code": "TOVSZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thebe Stockbroking Pty Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Roodepoort",
+          "swift_code": "PLRPZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Hongkong And Shanghai Banking Corporation Limited-Jhb Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sandton",
+          "swift_code": "HSBCZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tfs Securities (Pty) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sandton",
+          "swift_code": "TFSSZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Telkom Sa Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Pretoria",
+          "swift_code": "TELKZAJPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Teba Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sunninghill",
+          "swift_code": "YOUBZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taquanta Securities (Pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sandown",
+          "swift_code": "NIBZZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Syfrets Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "SYSCZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swiss Re Life And Health Africa Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "SWREZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Boe Trust Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "SYTRZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Boe Private Bank Trust Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "BOEPZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Johannesburg",
+      "branches": [
+        {
+          "branch_name": "Bnp Paribas Sa",
+          "city": "Johannesburg",
+          "swift_code": "BNPAZAJJEQD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Melrose Arch",
+          "swift_code": "BNPAZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bcx Confirmations",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Midrand",
+          "swift_code": "BCXCZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of India Johannesburg Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "BKIDZAJJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Brussels Lambert, Bbl Representative Office In South Africa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "BBRUZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aylett And Co (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "AYPTZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Astley And Pearce (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "ASPPZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arrow Financial Services (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "ARFSZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arqaam Capital South Africa (pty) Limited",
+      "branches": [
+        {
+          "branch_name": "Arqaam Capital South Africa (pty) Limited",
+          "city": "Johannesburg",
+          "swift_code": "ARQMZAJJXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "ARQMZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Argon Asset Management (pty) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "AREMZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aquarius Platinum Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Centurion",
+          "swift_code": "AQPLZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Anderson Wilson And Partners Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "ANWPZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "American Express Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Braamfontein",
+          "swift_code": "AEIBZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Altron Finance (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Parktown",
+          "swift_code": "ALTFZAJJXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Parktown",
+          "swift_code": "ALTFZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alexander Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Marshalltown",
+          "swift_code": "ALAAZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agilisto",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "AGLLZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Afripack",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Durban",
+          "swift_code": "AFRPZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "African Harvest (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "AHFMZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Efficient Collective Investments Pty Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "ECITZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dolfin Financial Services (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "DFSPZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Decimax Securities (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "DESPZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Guarantee Insurance Corporation Of Africa Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Randburg",
+          "swift_code": "CRGUZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit And Savings Help Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "CRAHZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Coronation Specialised Funds (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Claremont",
+          "swift_code": "CSFYZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Coronation Holdings Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "COHLZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Coronation Fund Managers",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Claremont",
+          "swift_code": "COUGZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Coopers And Lybrand Corporate Finance (pty) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "CLCFZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Consolidated Fund Managers (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "CFMPZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Community Bank (under Curatorship",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sandton",
+          "swift_code": "CUBCZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cgu Holdings Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "CUSAZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ccd (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Claremont",
+          "swift_code": "CCPTZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Catalyst Fund Managers",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "CAUGZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Carpe Diem Estate",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Upington",
+          "swift_code": "CADAZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Corporation (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Braamfontein",
+          "swift_code": "CACPZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cadiz",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cape Town",
+          "swift_code": "CADZZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Btn Mondial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Greater Germiston",
+          "swift_code": "BTMOZAJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brait Secutities (pty) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Johannesburg",
+          "swift_code": "BSPTZAJ1XXX"
+        }
+      ]
+    }
+  ]
+}

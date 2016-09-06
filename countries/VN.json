@@ -1,0 +1,3742 @@
+{
+  "country_name": "Viet Nam",
+  "alpha_2": "VN",
+  "country_code": "704",
+  "banks": [
+    {
+      "bank_name": "Wooribank Hochiminh",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "HVBKVN2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Woori Bank, Hanoi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "HVBKVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vndirect Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VNDSVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vinasiam Bank Hochiminh City",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VNBKVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vina Securities Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VSJCVNV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vietnam Technological And Commercial Joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "VTCBVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Communications Co.,ltd Ho Chi Minh City Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "COMMVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bangkok Bank Pcl",
+      "branches": [
+        {
+          "branch_name": "Hanoi Branch",
+          "city": "Hanoi",
+          "swift_code": "BKKBVNVXHAN"
+        },
+        {
+          "branch_name": "Ho Chi Minh Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "BKKBVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asia Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "ASCBVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Anz Bank(vietnam) Limited",
+      "branches": [
+        {
+          "branch_name": "Ho Chi Minh City",
+          "city": "Ho Chi Minh City",
+          "swift_code": "ANZBVNVX472"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "ANZBVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "An Binh Commercial Joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "ABBKVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aia (vietnam)life Insurance Company Limited",
+      "branches": [
+        {
+          "branch_name": "Aia (vietnam)life Insurance Company Limited",
+          "city": "Ho Chi Minh City",
+          "swift_code": "AVICVNV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Acb Securities Company, Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "ACBSVNVCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mizuho Bank, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Hochiminh Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "MHCBVNVXHCM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "MHCBVNVXXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tokyo",
+          "swift_code": "MHCBJPJ6XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vietnam Securities Depository",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "VISDVNV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tienphong Commercial Joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "TPBVVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orient Commercial Joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "ORCOVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hua Nan Commercial Bank, Ltd. Hochiminh City Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "HNBKVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "HSCCVNV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank (vietnam) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Can Tho",
+          "city": "Can Tho",
+          "swift_code": "HSBCVNVX003"
+        },
+        {
+          "branch_name": "Binh Duong",
+          "city": "Binh Duong",
+          "swift_code": "HSBCVNVX004"
+        },
+        {
+          "branch_name": "Da Nang",
+          "city": "Da Nang",
+          "swift_code": "HSBCVNVX005"
+        },
+        {
+          "branch_name": "Hanoi Branch",
+          "city": "Hanoi",
+          "swift_code": "HSBCVNVXVHN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "HSBCVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Horizon Securities Corporation (hrs",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "HSCRVNV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hong Leong Bank Vietnam Limited",
+      "branches": [
+        {
+          "branch_name": "Hanoi Branch",
+          "city": "Hanoi",
+          "swift_code": "HLBBVNVX002"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "HLBBVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hochiminh City Development Joint Stock Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Hdb-hanoi Branch",
+          "city": "Hanoi",
+          "swift_code": "HDBCVNVX008"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "HDBCVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ho Chi Minh Securities Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "HSCCVNV2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Petro Commercial Joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "GBNKVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Far East National Bank, Ho Chi Minh City Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "FENBVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Donga Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "EACBVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank, Ho Chi Minh City Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "DEUTVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dbs Bank Ltd.-ho Chi Minh City Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "DBSSVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dai-nam Ngan-hang (dai-nam Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "DNDBVNV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ctbc Bank Co., Ltd Hochi Minh City Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "CTCBVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commonwealth Bank Of Australia Ho Chi Minh City",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "CTBAVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "China Construction Bank Corporation Ho Chi Minh City Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "PCBCVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "British American Tobacco Vinataba (jv) Ltd",
+      "branches": [
+        {
+          "branch_name": "British American Tobacco Vinataba (jv) Ltd",
+          "city": "Bien Hoa",
+          "swift_code": "BATSVNV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Vietnam-ho Chi Minh City Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "BNPAVNVNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Baoviet Joint Stock Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "BVBVVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bao Viet Securities Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "BVSCVNV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ocean Commercial Joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hai Duong",
+          "swift_code": "OJBAVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "North Asia Commercial Joint-stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vinh",
+          "swift_code": "NASCVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Natixis Branch In Hochiminh City (formerly Natexispopulaires-ho Chi Minh City",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "BFCEVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nam Viet Commercial Joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "NVBAVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nam A Commercial Joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "NAMAVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Military Commercial Joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Sgd Branch",
+          "city": "Hanoi",
+          "swift_code": "MSCBVNVX001"
+        },
+        {
+          "branch_name": "Hcm Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "MSCBVNVX002"
+        },
+        {
+          "branch_name": "Haiphong Branch",
+          "city": "Haiphong",
+          "swift_code": "MSCBVNVX003"
+        },
+        {
+          "branch_name": "84511 Da Nang",
+          "city": "Da Nang",
+          "swift_code": "MSCBVNVX004"
+        },
+        {
+          "branch_name": "Dbp Branch",
+          "city": "Hanoi",
+          "swift_code": "MSCBVNVX005"
+        },
+        {
+          "branch_name": "Govap Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "MSCBVNVX006"
+        },
+        {
+          "branch_name": "Can Tho Branch",
+          "city": "Can Tho",
+          "swift_code": "MSCBVNVX007"
+        },
+        {
+          "branch_name": "Viet Tri Branch",
+          "city": "Viet Tri",
+          "swift_code": "MSCBVNVX008"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "MSCBVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercedes-benz Vietnam Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "DABEVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mekong Housing Bank (mhb",
+      "branches": [
+        {
+          "branch_name": "Main Transaction Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "MHBBVNVX110"
+        },
+        {
+          "branch_name": "Camau",
+          "city": "Ca Mau",
+          "swift_code": "MHBBVNVX111"
+        },
+        {
+          "branch_name": "Hanoi",
+          "city": "Hanoi",
+          "swift_code": "MHBBVNVX116"
+        },
+        {
+          "branch_name": "Saigon",
+          "city": "Ho Chi Minh City",
+          "swift_code": "MHBBVNVX117"
+        },
+        {
+          "branch_name": "Danang",
+          "city": "Da Nang",
+          "swift_code": "MHBBVNVX119"
+        },
+        {
+          "branch_name": "Quangninh",
+          "city": "Quang Ninh",
+          "swift_code": "MHBBVNVX126"
+        },
+        {
+          "branch_name": "Khanhhoa",
+          "city": "Nha Trang",
+          "swift_code": "MHBBVNVX129"
+        },
+        {
+          "branch_name": "Dongnai",
+          "city": "Dong Nai",
+          "swift_code": "MHBBVNVX130"
+        },
+        {
+          "branch_name": "Cholon",
+          "city": "Ho Chi Minh City",
+          "swift_code": "MHBBVNVX138"
+        },
+        {
+          "branch_name": "Bacninh",
+          "city": "Bac Ninh",
+          "swift_code": "MHBBVNVX141"
+        },
+        {
+          "branch_name": "Haiphong",
+          "city": "Haiphong",
+          "swift_code": "MHBBVNVX142"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "MHBBVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mekong Development Joint Stock Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "MDBKVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maybank Kim Eng Securities Joint Stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "MKESVNV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lien Viet Post Joint Stock Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Thanh Hau Giang",
+          "swift_code": "LVBKVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Korea Exchange Bank, Hanoi Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "KOEXVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kookmin Bank / Ho Chi Minh City Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "CZNBVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kien Long Commercial Joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "KLBKVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Joint Stock Commercial Bank For Investment And Development Of Vietnam",
+      "branches": [
+        {
+          "branch_name": "Transaction Center No 1",
+          "city": "Hanoi",
+          "swift_code": "BIDVVNVX120"
+        },
+        {
+          "branch_name": "Ha Thanh Branch",
+          "city": "Hanoi",
+          "swift_code": "BIDVVNVX122"
+        },
+        {
+          "branch_name": "Quang Trung Branch",
+          "city": "Hanoi",
+          "swift_code": "BIDVVNVX123"
+        },
+        {
+          "branch_name": "Dong Do Branch",
+          "city": "Hanoi",
+          "swift_code": "BIDVVNVX125"
+        },
+        {
+          "branch_name": "Sogiaodich2 Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "BIDVVNVX130"
+        },
+        {
+          "branch_name": "Gia Dinh Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "BIDVVNVX135"
+        },
+        {
+          "branch_name": "Saigon Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "BIDVVNVX140"
+        },
+        {
+          "branch_name": "Northern Hanoi Branch",
+          "city": "Hanoi",
+          "swift_code": "BIDVVNVX150"
+        },
+        {
+          "branch_name": "Transaction Center No 3",
+          "city": "Hanoi",
+          "swift_code": "BIDVVNVX160"
+        },
+        {
+          "branch_name": "Hanoi Branch",
+          "city": "Hanoi",
+          "swift_code": "BIDVVNVX211"
+        },
+        {
+          "branch_name": "Cau Giay Branch",
+          "city": "Hanoi",
+          "swift_code": "BIDVVNVX215"
+        },
+        {
+          "branch_name": "Thang Long Branch",
+          "city": "Hanoi",
+          "swift_code": "BIDVVNVX220"
+        },
+        {
+          "branch_name": "Ho Chi Minh City Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "BIDVVNVX310"
+        },
+        {
+          "branch_name": "Tan Tao Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "BIDVVNVX311"
+        },
+        {
+          "branch_name": "Thu Duc Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "BIDVVNVX314"
+        },
+        {
+          "branch_name": "Haiphong Branch",
+          "city": "Haiphong",
+          "swift_code": "BIDVVNVX321"
+        },
+        {
+          "branch_name": "Lang Son Branch",
+          "city": "Lang Son",
+          "swift_code": "BIDVVNVX351"
+        },
+        {
+          "branch_name": "Yen Bai Branch",
+          "city": "Yen Bai",
+          "swift_code": "BIDVVNVX371"
+        },
+        {
+          "branch_name": "Thai Nguyen Branch",
+          "city": "Thai Nguyen",
+          "swift_code": "BIDVVNVX390"
+        },
+        {
+          "branch_name": "Phu Tho Branch",
+          "city": "Phu Tho",
+          "swift_code": "BIDVVNVX421"
+        },
+        {
+          "branch_name": "Dac Lac Branch",
+          "city": "Dac Lac",
+          "swift_code": "BIDVVNVX631"
+        },
+        {
+          "branch_name": "Binh Duong Branch",
+          "city": "Binh Duong",
+          "swift_code": "BIDVVNVX650"
+        },
+        {
+          "branch_name": "Dong Nai Branch",
+          "city": "Bien Hoa",
+          "swift_code": "BIDVVNVX670"
+        },
+        {
+          "branch_name": "Dong Thap Branch",
+          "city": "Dong Thap",
+          "swift_code": "BIDVVNVX691"
+        },
+        {
+          "branch_name": "An Giang Branch",
+          "city": "An Giang",
+          "swift_code": "BIDVVNVX701"
+        },
+        {
+          "branch_name": "Tien Giang Branch",
+          "city": "Tien Giang",
+          "swift_code": "BIDVVNVX710"
+        },
+        {
+          "branch_name": "Ben Tre Branch",
+          "city": "Ben Tre",
+          "swift_code": "BIDVVNVX721"
+        },
+        {
+          "branch_name": "Can Tho Branch",
+          "city": "Can Tho",
+          "swift_code": "BIDVVNVX741"
+        },
+        {
+          "branch_name": "Kien Giang Branch",
+          "city": "Kien Giang",
+          "swift_code": "BIDVVNVX750"
+        },
+        {
+          "branch_name": "Vung Tau Branch",
+          "city": "Vung Tau",
+          "swift_code": "BIDVVNVX760"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "BIDVVNVXXXX"
+        },
+        {
+          "branch_name": "Vinh Phuc Branch",
+          "city": "Vinh Phuc",
+          "swift_code": "BIDVVNVX425"
+        },
+        {
+          "branch_name": "Bac Giang Branch",
+          "city": "Bac Giang",
+          "swift_code": "BIDVVNVX431"
+        },
+        {
+          "branch_name": "Bac Ninh Branch",
+          "city": "Bac Ninh",
+          "swift_code": "BIDVVNVX432"
+        },
+        {
+          "branch_name": "Quang Ninh Branch",
+          "city": "Quang Ninh",
+          "swift_code": "BIDVVNVX440"
+        },
+        {
+          "branch_name": "Ha Tay Branch",
+          "city": "Ha Tay",
+          "swift_code": "BIDVVNVX450"
+        },
+        {
+          "branch_name": "Hai Duong Branch",
+          "city": "Hai Duong",
+          "swift_code": "BIDVVNVX460"
+        },
+        {
+          "branch_name": "Hung Yen Branch",
+          "city": "Hung Yen",
+          "swift_code": "BIDVVNVX465"
+        },
+        {
+          "branch_name": "Nam Dinh Branch",
+          "city": "Nam Dinh",
+          "swift_code": "BIDVVNVX480"
+        },
+        {
+          "branch_name": "Thanh Moa Branch",
+          "city": "Thanh Moa",
+          "swift_code": "BIDVVNVX501"
+        },
+        {
+          "branch_name": "Quang Binh Branch",
+          "city": "Quang Binh",
+          "swift_code": "BIDVVNVX531"
+        },
+        {
+          "branch_name": "Hue Branch",
+          "city": "Hue City",
+          "swift_code": "BIDVVNVX551"
+        },
+        {
+          "branch_name": "Da Nang City Branch",
+          "city": "Da Nang",
+          "swift_code": "BIDVVNVX561"
+        },
+        {
+          "branch_name": "Binh Dinh Branch",
+          "city": "Binh Dinh",
+          "swift_code": "BIDVVNVX580"
+        },
+        {
+          "branch_name": "Phu Tai Branch",
+          "city": "Phu Tai",
+          "swift_code": "BIDVVNVX581"
+        },
+        {
+          "branch_name": "Phu Yen Branch",
+          "city": "Phu Yen",
+          "swift_code": "BIDVVNVX590"
+        },
+        {
+          "branch_name": "Khanh Hoa Branch",
+          "city": "Khanh Hoa",
+          "swift_code": "BIDVVNVX601"
+        },
+        {
+          "branch_name": "Binh Thuan Branch",
+          "city": "Binh Thuan",
+          "swift_code": "BIDVVNVX611"
+        },
+        {
+          "branch_name": "Ninh Thuan Branch",
+          "city": "Ninh Thuan",
+          "swift_code": "BIDVVNVX615"
+        },
+        {
+          "branch_name": "Gia Lai Branch",
+          "city": "Gia Lai",
+          "swift_code": "BIDVVNVX620"
+        },
+        {
+          "branch_name": "Kon Tum Branch",
+          "city": "Kon Tum",
+          "swift_code": "BIDVVNVX625"
+        }
+      ]
+    },
+    {
+      "bank_name": "Joint Stock Commercial Bank For Foreign Trade Of Vietnam",
+      "branches": [
+        {
+          "branch_name": "Operations Centre",
+          "city": "Hanoi",
+          "swift_code": "BFTVVNVX001"
+        },
+        {
+          "branch_name": "Hanoi Branch",
+          "city": "Hanoi",
+          "swift_code": "BFTVVNVX002"
+        },
+        {
+          "branch_name": "Haiphong Branch",
+          "city": "Haiphong",
+          "swift_code": "BFTVVNVX003"
+        },
+        {
+          "branch_name": "Da Nang Branch",
+          "city": "Da Nang",
+          "swift_code": "BFTVVNVX004"
+        },
+        {
+          "branch_name": "Qui Nhon Branch",
+          "city": "Qui Nhon",
+          "swift_code": "BFTVVNVX005"
+        },
+        {
+          "branch_name": "Nha Trang Branch",
+          "city": "Nha Trang",
+          "swift_code": "BFTVVNVX006"
+        },
+        {
+          "branch_name": "Ho Chi Minh City Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "BFTVVNVX007"
+        },
+        {
+          "branch_name": "Vung Tau Branch",
+          "city": "Vung Tau",
+          "swift_code": "BFTVVNVX008"
+        },
+        {
+          "branch_name": "Kien Giang Branch",
+          "city": "Kien Giang",
+          "swift_code": "BFTVVNVX009"
+        },
+        {
+          "branch_name": "Vinh Branch",
+          "city": "Vinh",
+          "swift_code": "BFTVVNVX010"
+        },
+        {
+          "branch_name": "Can Tho Branch",
+          "city": "Can Tho",
+          "swift_code": "BFTVVNVX011"
+        },
+        {
+          "branch_name": "Dong Nai Branch",
+          "city": "Dong Nai",
+          "swift_code": "BFTVVNVX012"
+        },
+        {
+          "branch_name": "Quang Ninh Branch",
+          "city": "Quang Ninh",
+          "swift_code": "BFTVVNVX014"
+        },
+        {
+          "branch_name": "An Giang Branch",
+          "city": "An Giang",
+          "swift_code": "BFTVVNVX015"
+        },
+        {
+          "branch_name": "Hue City Branch",
+          "city": "Hue City",
+          "swift_code": "BFTVVNVX016"
+        },
+        {
+          "branch_name": "South Sai Gon Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "BFTVVNVX018"
+        },
+        {
+          "branch_name": "Ca Mau Branch",
+          "city": "Ca Mau",
+          "swift_code": "BFTVVNVX019"
+        },
+        {
+          "branch_name": "Ha Tinh Branch",
+          "city": "Ha Tinh",
+          "swift_code": "BFTVVNVX020"
+        },
+        {
+          "branch_name": "Thai Binh Branch",
+          "city": "Binh City / Thai / Binh",
+          "swift_code": "BFTVVNVX021"
+        },
+        {
+          "branch_name": "Ninh Binh Branch",
+          "city": "Ninh Binh",
+          "swift_code": "BFTVVNVX022"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "BFTVVNVXXXX"
+        },
+        {
+          "branch_name": "Quang Nam Branch",
+          "city": "Quang Nam",
+          "swift_code": "BFTVVNVX065"
+        },
+        {
+          "branch_name": "Tien Giang Branch",
+          "city": "My Tho",
+          "swift_code": "BFTVVNVX067"
+        },
+        {
+          "branch_name": "Ha Tay Branch",
+          "city": "Hanoi",
+          "swift_code": "BFTVVNVX069"
+        },
+        {
+          "branch_name": "Tay Ninh Branch",
+          "city": "Tay Ninh",
+          "swift_code": "BFTVVNVX070"
+        },
+        {
+          "branch_name": "Thanh Xuan Branch",
+          "city": "Hanoi",
+          "swift_code": "BFTVVNVX071"
+        },
+        {
+          "branch_name": "Ky Dong Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "BFTVVNVX072"
+        },
+        {
+          "branch_name": "Bac Giang Branch",
+          "city": "Bac Giang",
+          "swift_code": "BFTVVNVX073"
+        },
+        {
+          "branch_name": "Tra Vinh Branch",
+          "city": "Tra Vinh",
+          "swift_code": "BFTVVNVX074"
+        },
+        {
+          "branch_name": "Phu Yen Branch",
+          "city": "Phu Yen",
+          "swift_code": "BFTVVNVX075"
+        },
+        {
+          "branch_name": "Kon Tum Branch",
+          "city": "Kon Tum",
+          "swift_code": "BFTVVNVX076"
+        },
+        {
+          "branch_name": "Quang Tri Branch",
+          "city": "Quang Tri",
+          "swift_code": "BFTVVNVX077"
+        },
+        {
+          "branch_name": "Thanh Hoa Branch",
+          "city": "Thanh Hoa",
+          "swift_code": "BFTVVNVX078"
+        },
+        {
+          "branch_name": "Vinh Long Branch",
+          "city": "Vinh Long",
+          "swift_code": "BFTVVNVX079"
+        },
+        {
+          "branch_name": "Viet Tri Branch",
+          "city": "Viet Tri",
+          "swift_code": "BFTVVNVX080"
+        },
+        {
+          "branch_name": "Ninh Thuan Branch",
+          "city": "Phan Rang",
+          "swift_code": "BFTVVNVX081"
+        },
+        {
+          "branch_name": "Thai Nguyen Branch",
+          "city": "Thai Nguyen",
+          "swift_code": "BFTVVNVX082"
+        },
+        {
+          "branch_name": "Nam Dinh Branch",
+          "city": "Nam Dinh",
+          "swift_code": "BFTVVNVX083"
+        },
+        {
+          "branch_name": "Trung Do Branch",
+          "city": "Vinh",
+          "swift_code": "BFTVVNVX086"
+        },
+        {
+          "branch_name": "Bac Lieu Branch",
+          "city": "Bac Lieu",
+          "swift_code": "BFTVVNVX089"
+        },
+        {
+          "branch_name": "Ha Nam Branch",
+          "city": "Ha Nam",
+          "swift_code": "BFTVVNVX090"
+        },
+        {
+          "branch_name": "Thanh Cong Branch",
+          "city": "Hanoi",
+          "swift_code": "BFTVVNVX045"
+        },
+        {
+          "branch_name": "Song Than Branch",
+          "city": "Binh Duong",
+          "swift_code": "BFTVVNVX046"
+        },
+        {
+          "branch_name": "Chau Doc Branch",
+          "city": "An Giang",
+          "swift_code": "BFTVVNVX047"
+        },
+        {
+          "branch_name": "Bien Hoa Branch",
+          "city": "Bien Hoa",
+          "swift_code": "BFTVVNVX048"
+        },
+        {
+          "branch_name": "Thang Long Branch",
+          "city": "Hanoi",
+          "swift_code": "BFTVVNVX049"
+        },
+        {
+          "branch_name": "Vinh Loc Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "BFTVVNVX050"
+        },
+        {
+          "branch_name": "District 5 Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "BFTVVNVX051"
+        },
+        {
+          "branch_name": "Ha Long Branch",
+          "city": "Halong",
+          "swift_code": "BFTVVNVX052"
+        },
+        {
+          "branch_name": "Binh Thanh Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "BFTVVNVX053"
+        },
+        {
+          "branch_name": "Chuong Duong Branch",
+          "city": "Hanoi",
+          "swift_code": "BFTVVNVX054"
+        },
+        {
+          "branch_name": "Mong Cai Branch",
+          "city": "Mong Cai",
+          "swift_code": "BFTVVNVX055"
+        },
+        {
+          "branch_name": "Da Lat Branch",
+          "city": "Da Lat",
+          "swift_code": "BFTVVNVX056"
+        },
+        {
+          "branch_name": "Dung Quat Branch",
+          "city": "Quang Ngai",
+          "swift_code": "BFTVVNVX057"
+        },
+        {
+          "branch_name": "Cam Ranh Branch",
+          "city": "Khanh Hoa",
+          "swift_code": "BFTVVNVX058"
+        },
+        {
+          "branch_name": "Hung Yen Branch",
+          "city": "Hung Yen",
+          "swift_code": "BFTVVNVX059"
+        },
+        {
+          "branch_name": "Dong Thap Branch",
+          "city": "Dong Thap",
+          "swift_code": "BFTVVNVX060"
+        },
+        {
+          "branch_name": "Ba Dinh Branch",
+          "city": "Hanoi",
+          "swift_code": "BFTVVNVX061"
+        },
+        {
+          "branch_name": "Binh Thuan Branch",
+          "city": "Phan Thiet",
+          "swift_code": "BFTVVNVX062"
+        },
+        {
+          "branch_name": "Long An Branch",
+          "city": "Long An",
+          "swift_code": "BFTVVNVX063"
+        },
+        {
+          "branch_name": "Bac Ha Tinh Branch",
+          "city": "Ha Tinh",
+          "swift_code": "BFTVVNVX064"
+        },
+        {
+          "branch_name": "Dak Lak Branch",
+          "city": "Buon Thuot / Ma",
+          "swift_code": "BFTVVNVX023"
+        },
+        {
+          "branch_name": "Binh Tay Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "BFTVVNVX025"
+        },
+        {
+          "branch_name": "Quang Ngai Branch",
+          "city": "Quang Ngai",
+          "swift_code": "BFTVVNVX027"
+        },
+        {
+          "branch_name": "Binh Duong Branch",
+          "city": "Binh Duong",
+          "swift_code": "BFTVVNVX028"
+        },
+        {
+          "branch_name": "Gia Lai Branch",
+          "city": "Gia Lai",
+          "swift_code": "BFTVVNVX029"
+        },
+        {
+          "branch_name": "Hoan Kiem Branch",
+          "city": "Hanoi",
+          "swift_code": "BFTVVNVX030"
+        },
+        {
+          "branch_name": "Quang Binh Branch",
+          "city": "Quang Binh",
+          "swift_code": "BFTVVNVX031"
+        },
+        {
+          "branch_name": "Soc Trang Branch",
+          "city": "Soc Trang",
+          "swift_code": "BFTVVNVX032"
+        },
+        {
+          "branch_name": "Ben Thanh Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "BFTVVNVX033"
+        },
+        {
+          "branch_name": "Hai Duong Branch",
+          "city": "Hai Duong",
+          "swift_code": "BFTVVNVX034"
+        },
+        {
+          "branch_name": "Bac Ninh Branch",
+          "city": "Bac Ninh",
+          "swift_code": "BFTVVNVX035"
+        },
+        {
+          "branch_name": "Vinh Phuc Branch",
+          "city": "Vinh Yen",
+          "swift_code": "BFTVVNVX036"
+        },
+        {
+          "branch_name": "Tan Dinh Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "BFTVVNVX037"
+        },
+        {
+          "branch_name": "Thu Duc Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "BFTVVNVX038"
+        },
+        {
+          "branch_name": "Tay Do Branch",
+          "city": "Can Tho",
+          "swift_code": "BFTVVNVX039"
+        },
+        {
+          "branch_name": "Nhon Trach Branch",
+          "city": "Dong Nai",
+          "swift_code": "BFTVVNVX040"
+        },
+        {
+          "branch_name": "Binh Duong Industrial Zone Branch",
+          "city": "Binh Duong",
+          "swift_code": "BFTVVNVX041"
+        },
+        {
+          "branch_name": "Phu Tho Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "BFTVVNVX042"
+        },
+        {
+          "branch_name": "Phu Tai Branch",
+          "city": "Qui Nhon",
+          "swift_code": "BFTVVNVX043"
+        },
+        {
+          "branch_name": "Tan Binh Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "BFTVVNVX044"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial Bank Of Korea, Vietnam",
+      "branches": [
+        {
+          "branch_name": "Hanoi Branch",
+          "city": "Hanoi",
+          "swift_code": "IBKOVNVXHAN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "IBKOVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Indovina Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "IABBVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Icbc Hanoi Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "ICBKVNVNXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thien Viet Securities Joint Stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "TVSJVNV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Shanghai Commercial And Savings Bank, Ltd., Dong Nai Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bien Hoa",
+          "swift_code": "SCSBVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Hongkong And Shanghai Banking Corporation Limited, Hanoi Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "HSBCVNVHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Bank Of Tokyo-mitsubishi Ufj, Ltd. Hanoi Branch",
+      "branches": [
+        {
+          "branch_name": "Hanoi Branch",
+          "city": "Hanoi",
+          "swift_code": "BOTKVNV5XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thang Long Securities Jsc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "TLSJVNV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taipei Fubon Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Binh Thanh Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "TPBKVNVX960"
+        },
+        {
+          "branch_name": "Hanoi Branch",
+          "city": "Hanoi",
+          "swift_code": "TPBKVNVX962"
+        },
+        {
+          "branch_name": "Ho Chi Minh City Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "TPBKVNVX963"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "TPBKVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Bank Of Vietnam",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "NABVVNV1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "STBVVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank (vietnam) Limited",
+      "branches": [
+        {
+          "branch_name": "70000 Ho Chi Minh City",
+          "city": "Ho Chi Minh City",
+          "swift_code": "SCBLVNV10VN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "SCBLVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Southern Commercial Joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Dainam Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "PNBKVNVX03P"
+        },
+        {
+          "branch_name": "Hanoi Branch",
+          "city": "Hanoi",
+          "swift_code": "PNBKVNVX06P"
+        },
+        {
+          "branch_name": "Minhphung Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "PNBKVNVX22P"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "PNBKVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Southeast Asia Commercial Joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "SEAVVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shinhan Bank Vietnam",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "SHBKVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Vina Electronics Co Ltd",
+      "branches": [
+        {
+          "branch_name": "Savina",
+          "city": "Ho Chi Minh City",
+          "swift_code": "SECTVNV1530"
+        },
+        {
+          "branch_name": "Sev",
+          "city": "Bac Ninh",
+          "swift_code": "SECTVNV15H0"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "SECTVNV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saigon Thuong Tin Commercial Joint Stock Bank (sacombank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "SGTTVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saigon Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "SACLVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Saigon Bank For Industry And Trade, The",
+      "branches": [
+        {
+          "branch_name": "Ba-chieu Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "SBITVNVX0V2"
+        },
+        {
+          "branch_name": "Tan-binh Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "SBITVNVX0V3"
+        },
+        {
+          "branch_name": "Thai-binh Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "SBITVNVX0V4"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "SBITVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sai Gon-ha Noi Commercial Joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "SHBAVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sai Gon Securities Incorporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "SAEPVNV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sacombank Securities Joint Stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "SAEMVNV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Petrolimex Group Commercial Joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "PGBLVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vietnam Russia Joint Venture Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "VRBAVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vietnam Public Joint Stock Commercial Bank (pvcombank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "WBVNVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vietnam Prosperity Joint Stock Commercial Bank (formerly:vietnam Jsc Bk For Private Enterprises",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "VPBKVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vietnam Post",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "VNPTVNV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vietnam Maritime Commercial Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Hai Phong Branch",
+          "city": "Haiphong",
+          "swift_code": "MCOBVNVX001"
+        },
+        {
+          "branch_name": "Ha Noi Branch",
+          "city": "Hanoi",
+          "swift_code": "MCOBVNVX002"
+        },
+        {
+          "branch_name": "Ho Chi Minh Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "MCOBVNVX003"
+        },
+        {
+          "branch_name": "Quang Ninh Branch",
+          "city": "Quang Ninh",
+          "swift_code": "MCOBVNVX004"
+        },
+        {
+          "branch_name": "Da Nang Branch",
+          "city": "Da Nang",
+          "swift_code": "MCOBVNVX005"
+        },
+        {
+          "branch_name": "Can Tho Branch",
+          "city": "Can Tho",
+          "swift_code": "MCOBVNVX006"
+        },
+        {
+          "branch_name": "Vung Tau Branch",
+          "city": "Vung Tau",
+          "swift_code": "MCOBVNVX007"
+        },
+        {
+          "branch_name": "Dongda Branch",
+          "city": "Hanoi",
+          "swift_code": "MCOBVNVX008"
+        },
+        {
+          "branch_name": "Industrial Zone Hoa Khanh Branch",
+          "city": "Da Nang",
+          "swift_code": "MCOBVNVX009"
+        },
+        {
+          "branch_name": "Saigon Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "MCOBVNVX010"
+        },
+        {
+          "branch_name": "Nhatrang Branch",
+          "city": "Nha Trang",
+          "swift_code": "MCOBVNVX011"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "MCOBVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vietnam Joint Stock Commercial Bank For Industry And Trade (formerly Vietnam Bank For Industry And Trade",
+      "branches": [
+        {
+          "branch_name": "Global Money Transfer",
+          "city": "Hanoi",
+          "swift_code": "ICBVVNVX096"
+        },
+        {
+          "branch_name": "Transaction Office Nr 1",
+          "city": "Hanoi",
+          "swift_code": "ICBVVNVX106"
+        },
+        {
+          "branch_name": "Hoan Kiem-branch",
+          "city": "Hanoi",
+          "swift_code": "ICBVVNVX122"
+        },
+        {
+          "branch_name": "Ba Dinh Branch",
+          "city": "Hanoi",
+          "swift_code": "ICBVVNVX124"
+        },
+        {
+          "branch_name": "Dong Da Branch",
+          "city": "Hanoi",
+          "swift_code": "ICBVVNVX126"
+        },
+        {
+          "branch_name": "Thanhxuan Branch",
+          "city": "Hanoi",
+          "swift_code": "ICBVVNVX127"
+        },
+        {
+          "branch_name": "Chuong Duong Branch",
+          "city": "Hanoi",
+          "swift_code": "ICBVVNVX128"
+        },
+        {
+          "branch_name": "Northern Hanoi Branch",
+          "city": "Hanoi Phuc Dong",
+          "swift_code": "ICBVVNVX129"
+        },
+        {
+          "branch_name": "Eastern Hanoi Branch",
+          "city": "Hanoi",
+          "swift_code": "ICBVVNVX131"
+        },
+        {
+          "branch_name": "Hoang Mai",
+          "city": "Hanoi",
+          "swift_code": "ICBVVNVX136"
+        },
+        {
+          "branch_name": "Nam Thang Long",
+          "city": "Hanoi",
+          "swift_code": "ICBVVNVX140"
+        },
+        {
+          "branch_name": "Hai Ba Trung Branch",
+          "city": "Hanoi",
+          "swift_code": "ICBVVNVX142"
+        },
+        {
+          "branch_name": "Donganh Branch",
+          "city": "Hanoi",
+          "swift_code": "ICBVVNVX144"
+        },
+        {
+          "branch_name": "Northern Thang Long Branch",
+          "city": "Hanoi",
+          "swift_code": "ICBVVNVX145"
+        },
+        {
+          "branch_name": "Western Hanoi Branch",
+          "city": "Hanoi",
+          "swift_code": "ICBVVNVX146"
+        },
+        {
+          "branch_name": "Hai Phong Branch",
+          "city": "Haiphong",
+          "swift_code": "ICBVVNVX160"
+        },
+        {
+          "branch_name": "To Hieu Branch",
+          "city": "Haiphong",
+          "swift_code": "ICBVVNVX161"
+        },
+        {
+          "branch_name": "Do Son Branch",
+          "city": "Haiphong",
+          "swift_code": "ICBVVNVX162"
+        },
+        {
+          "branch_name": "Lechan Branch",
+          "city": "Haiphong",
+          "swift_code": "ICBVVNVX164"
+        },
+        {
+          "branch_name": "Hongbang Branch",
+          "city": "Haiphong",
+          "swift_code": "ICBVVNVX166"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "ICBVVNVXXXX"
+        },
+        {
+          "branch_name": "Branch No 1",
+          "city": "Ho Chi Minh City",
+          "swift_code": "ICBVVNVX902"
+        },
+        {
+          "branch_name": "Thu Thiem Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "ICBVVNVX903"
+        },
+        {
+          "branch_name": "Branch No 2",
+          "city": "Ho Chi Minh City",
+          "swift_code": "ICBVVNVX904"
+        },
+        {
+          "branch_name": "Branch No 3",
+          "city": "Ho Chi Minh City",
+          "swift_code": "ICBVVNVX906"
+        },
+        {
+          "branch_name": "Branch No 4",
+          "city": "Ho Chi Minh City",
+          "swift_code": "ICBVVNVX908"
+        },
+        {
+          "branch_name": "Southern Saigon",
+          "city": "Ho Chi Minh City",
+          "swift_code": "ICBVVNVX910"
+        },
+        {
+          "branch_name": "Branch No 5",
+          "city": "Ho Chi Minh City",
+          "swift_code": "ICBVVNVX920"
+        },
+        {
+          "branch_name": "Branch No 6",
+          "city": "Ho Chi Minh City",
+          "swift_code": "ICBVVNVX922"
+        },
+        {
+          "branch_name": "Western Saigon Br",
+          "city": "Ho Chi Minh City",
+          "swift_code": "ICBVVNVX923"
+        },
+        {
+          "branch_name": "Branch No 7",
+          "city": "Ho Chi Minh City",
+          "swift_code": "ICBVVNVX924"
+        },
+        {
+          "branch_name": "Branch No 8",
+          "city": "Ho Chi Minh City",
+          "swift_code": "ICBVVNVX926"
+        },
+        {
+          "branch_name": "Branch No 9",
+          "city": "Ho Chi Minh City",
+          "swift_code": "ICBVVNVX928"
+        },
+        {
+          "branch_name": "Branch No 10",
+          "city": "Ho Chi Minh City",
+          "swift_code": "ICBVVNVX940"
+        },
+        {
+          "branch_name": "Branch No 11",
+          "city": "Ho Chi Minh City",
+          "swift_code": "ICBVVNVX942"
+        },
+        {
+          "branch_name": "Branch Nr 12",
+          "city": "Ho Chi Minh City",
+          "swift_code": "ICBVVNVX944"
+        },
+        {
+          "branch_name": "Tan Binh Br",
+          "city": "Ho Chi Minh City",
+          "swift_code": "ICBVVNVX945"
+        },
+        {
+          "branch_name": "East Saigon Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "ICBVVNVX946"
+        },
+        {
+          "branch_name": "Thu Duc Br",
+          "city": "Ho Chi Minh City",
+          "swift_code": "ICBVVNVX947"
+        },
+        {
+          "branch_name": "Cu Chi",
+          "city": "Ho Chi Minh City",
+          "swift_code": "ICBVVNVX948"
+        },
+        {
+          "branch_name": "Tra Vinh Branch",
+          "city": "Tra Vinh",
+          "swift_code": "ICBVVNVX980"
+        },
+        {
+          "branch_name": "Ben Luc Br",
+          "city": "Long An",
+          "swift_code": "ICBVVNVX704"
+        },
+        {
+          "branch_name": "Dong Thap Branch",
+          "city": "Dong Thap",
+          "swift_code": "ICBVVNVX720"
+        },
+        {
+          "branch_name": "Sa Dec Br",
+          "city": "Dong Thap",
+          "swift_code": "ICBVVNVX724"
+        },
+        {
+          "branch_name": "An Giang Branch",
+          "city": "An Giang",
+          "swift_code": "ICBVVNVX740"
+        },
+        {
+          "branch_name": "Chau Doc Br",
+          "city": "An Giang",
+          "swift_code": "ICBVVNVX742"
+        },
+        {
+          "branch_name": "Tien Giang Branch",
+          "city": "Tien Giang",
+          "swift_code": "ICBVVNVX760"
+        },
+        {
+          "branch_name": "Western Tien Giang Br",
+          "city": "Tien Giang",
+          "swift_code": "ICBVVNVX762"
+        },
+        {
+          "branch_name": "Ben Tre Branch",
+          "city": "Ben Tre",
+          "swift_code": "ICBVVNVX780"
+        },
+        {
+          "branch_name": "Vinh Long Branch",
+          "city": "Vinh Long",
+          "swift_code": "ICBVVNVX800"
+        },
+        {
+          "branch_name": "Can Tho Branch",
+          "city": "Can Tho",
+          "swift_code": "ICBVVNVX820"
+        },
+        {
+          "branch_name": "Hau Giang Branch",
+          "city": "Thanh",
+          "swift_code": "ICBVVNVX821"
+        },
+        {
+          "branch_name": "Soc Trang Br",
+          "city": "Soc Trang",
+          "swift_code": "ICBVVNVX822"
+        },
+        {
+          "branch_name": "Tra Noc Br",
+          "city": "Can Tho",
+          "swift_code": "ICBVVNVX824"
+        },
+        {
+          "branch_name": "Kien Giang Branch",
+          "city": "Kien Giang",
+          "swift_code": "ICBVVNVX840"
+        },
+        {
+          "branch_name": "Ca Mau Branch",
+          "city": "Ca Mau",
+          "swift_code": "ICBVVNVX860"
+        },
+        {
+          "branch_name": "Bac Lieu Branch",
+          "city": "Bac Lieu",
+          "swift_code": "ICBVVNVX862"
+        },
+        {
+          "branch_name": "Baria-vung Tau Branch",
+          "city": "Vung Tau",
+          "swift_code": "ICBVVNVX880"
+        },
+        {
+          "branch_name": "Ba Ria Br",
+          "city": "Ria",
+          "swift_code": "ICBVVNVX890"
+        },
+        {
+          "branch_name": "Transaction Office Nr 2",
+          "city": "Ho Chi Minh City",
+          "swift_code": "ICBVVNVX900"
+        },
+        {
+          "branch_name": "Binh Duong Industrial Zone Branch",
+          "city": "Binh Duong",
+          "swift_code": "ICBVVNVX901"
+        },
+        {
+          "branch_name": "Dac Lac Branch",
+          "city": "Buon Ma Thuot",
+          "swift_code": "ICBVVNVX502"
+        },
+        {
+          "branch_name": "Binh Phuoc Branch",
+          "city": "Binh Phuoc",
+          "swift_code": "ICBVVNVX504"
+        },
+        {
+          "branch_name": "Kon Tum Branch",
+          "city": "Kon Tum",
+          "swift_code": "ICBVVNVX510"
+        },
+        {
+          "branch_name": "Quang Ngai Branch",
+          "city": "Quang Ngai",
+          "swift_code": "ICBVVNVX520"
+        },
+        {
+          "branch_name": "Binh Dinh Branch",
+          "city": "Binh Dinh",
+          "swift_code": "ICBVVNVX540"
+        },
+        {
+          "branch_name": "Phu Tai Br",
+          "city": "Binh Dinh",
+          "swift_code": "ICBVVNVX542"
+        },
+        {
+          "branch_name": "Phu Yen Branch",
+          "city": "Phu Yen",
+          "swift_code": "ICBVVNVX560"
+        },
+        {
+          "branch_name": "Khanh Hoa Branch",
+          "city": "Nha Trang",
+          "swift_code": "ICBVVNVX580"
+        },
+        {
+          "branch_name": "Binh Thuan Branch",
+          "city": "Binh Thuan",
+          "swift_code": "ICBVVNVX600"
+        },
+        {
+          "branch_name": "Ninh Thuan Br",
+          "city": "Ninh Thuan",
+          "swift_code": "ICBVVNVX610"
+        },
+        {
+          "branch_name": "Lam Dong Branch",
+          "city": "Lam Dong",
+          "swift_code": "ICBVVNVX620"
+        },
+        {
+          "branch_name": "Bao Loc Br",
+          "city": "Lam Dong",
+          "swift_code": "ICBVVNVX622"
+        },
+        {
+          "branch_name": "Binh Duong Branch",
+          "city": "Binh Duong",
+          "swift_code": "ICBVVNVX640"
+        },
+        {
+          "branch_name": "Tay Ninh Branch",
+          "city": "Tay Ninh",
+          "swift_code": "ICBVVNVX660"
+        },
+        {
+          "branch_name": "Hoa Thanh Br",
+          "city": "Tay Ninh",
+          "swift_code": "ICBVVNVX662"
+        },
+        {
+          "branch_name": "Trang Bang Br",
+          "city": "Tay Ninh",
+          "swift_code": "ICBVVNVX664"
+        },
+        {
+          "branch_name": "Dong Nai Branch",
+          "city": "Dong Nai",
+          "swift_code": "ICBVVNVX680"
+        },
+        {
+          "branch_name": "Nhon Trach Br",
+          "city": "Dong Nai",
+          "swift_code": "ICBVVNVX681"
+        },
+        {
+          "branch_name": "Bien Hoa Industrial Zone",
+          "city": "Bien Hoa",
+          "swift_code": "ICBVVNVX682"
+        },
+        {
+          "branch_name": "Long An Branch",
+          "city": "Long An",
+          "swift_code": "ICBVVNVX700"
+        },
+        {
+          "branch_name": "Ninh Binh Branch",
+          "city": "Ninh Binh",
+          "swift_code": "ICBVVNVX400"
+        },
+        {
+          "branch_name": "Tam Diep Branch",
+          "city": "Ninh Binh",
+          "swift_code": "ICBVVNVX402"
+        },
+        {
+          "branch_name": "Thanh Hoa Branch",
+          "city": "Thanh Hoa",
+          "swift_code": "ICBVVNVX420"
+        },
+        {
+          "branch_name": "Sam Son Branch",
+          "city": "Thanh Hoa",
+          "swift_code": "ICBVVNVX422"
+        },
+        {
+          "branch_name": "Bim Son Branch",
+          "city": "Thanh Hoa",
+          "swift_code": "ICBVVNVX424"
+        },
+        {
+          "branch_name": "Ha Tinh Branch",
+          "city": "Ha Tinh",
+          "swift_code": "ICBVVNVX430"
+        },
+        {
+          "branch_name": "Nghe An Branch",
+          "city": "Nghe An",
+          "swift_code": "ICBVVNVX440"
+        },
+        {
+          "branch_name": "Cua Lo Branch",
+          "city": "Nghe An",
+          "swift_code": "ICBVVNVX441"
+        },
+        {
+          "branch_name": "Benthuy Branch",
+          "city": "Nghe An",
+          "swift_code": "ICBVVNVX442"
+        },
+        {
+          "branch_name": "Nothern Nghe An Branch",
+          "city": "Nghe An",
+          "swift_code": "ICBVVNVX444"
+        },
+        {
+          "branch_name": "Quang Tri Branch",
+          "city": "Quang Tri",
+          "swift_code": "ICBVVNVX450"
+        },
+        {
+          "branch_name": "Hue Branch",
+          "city": "Hue City",
+          "swift_code": "ICBVVNVX460"
+        },
+        {
+          "branch_name": "Phu Bai Branch",
+          "city": "Thua Thien Hue",
+          "swift_code": "ICBVVNVX462"
+        },
+        {
+          "branch_name": "Quang Binh Branch",
+          "city": "Quang Binh",
+          "swift_code": "ICBVVNVX470"
+        },
+        {
+          "branch_name": "Da Nang Branch",
+          "city": "Da Nang",
+          "swift_code": "ICBVVNVX480"
+        },
+        {
+          "branch_name": "Quang Nam Branch",
+          "city": "Quang Nam",
+          "swift_code": "ICBVVNVX482"
+        },
+        {
+          "branch_name": "Hoi An Branch",
+          "city": "Quang Nam",
+          "swift_code": "ICBVVNVX484"
+        },
+        {
+          "branch_name": "Ngu Hanh Son Branch",
+          "city": "Da Nang",
+          "swift_code": "ICBVVNVX486"
+        },
+        {
+          "branch_name": "Northern Danang Branch",
+          "city": "Da Nang",
+          "swift_code": "ICBVVNVX488"
+        },
+        {
+          "branch_name": "Gia Lai Branch",
+          "city": "Gia Lai",
+          "swift_code": "ICBVVNVX500"
+        },
+        {
+          "branch_name": "Bac Ninh",
+          "city": "Bac Ninh",
+          "swift_code": "ICBVVNVX289"
+        },
+        {
+          "branch_name": "Quang Ninh Branch",
+          "city": "Quang Ninh",
+          "swift_code": "ICBVVNVX300"
+        },
+        {
+          "branch_name": "Cam Pha Br",
+          "city": "Quang Ninh",
+          "swift_code": "ICBVVNVX302"
+        },
+        {
+          "branch_name": "Uong Bi Br",
+          "city": "Quang Ninh",
+          "swift_code": "ICBVVNVX304"
+        },
+        {
+          "branch_name": "Bai Chay Br",
+          "city": "Quang Ninh",
+          "swift_code": "ICBVVNVX306"
+        },
+        {
+          "branch_name": "Mong Cai Br",
+          "city": "Quang Ninh",
+          "swift_code": "ICBVVNVX308"
+        },
+        {
+          "branch_name": "Ha Tay Branch",
+          "city": "Ha Tay",
+          "swift_code": "ICBVVNVX320"
+        },
+        {
+          "branch_name": "Song Nhue Br",
+          "city": "Ha Tay",
+          "swift_code": "ICBVVNVX322"
+        },
+        {
+          "branch_name": "Quang Trung Br",
+          "city": "Ha Tay",
+          "swift_code": "ICBVVNVX324"
+        },
+        {
+          "branch_name": "Nguyen Trai Br",
+          "city": "Ha Tay",
+          "swift_code": "ICBVVNVX326"
+        },
+        {
+          "branch_name": "Hai Duong Branch",
+          "city": "Hai Duong",
+          "swift_code": "ICBVVNVX340"
+        },
+        {
+          "branch_name": "Hung Yen Branch",
+          "city": "Hung Yen",
+          "swift_code": "ICBVVNVX342"
+        },
+        {
+          "branch_name": "My Hao Br",
+          "city": "Hung Yen",
+          "swift_code": "ICBVVNVX343"
+        },
+        {
+          "branch_name": "Nhi Chieu Br",
+          "city": "Hai Duong",
+          "swift_code": "ICBVVNVX344"
+        },
+        {
+          "branch_name": "Hai Duong Industrial Zone",
+          "city": "Hai Duong",
+          "swift_code": "ICBVVNVX346"
+        },
+        {
+          "branch_name": "Thai Binh Branch",
+          "city": "Thai Binh",
+          "swift_code": "ICBVVNVX360"
+        },
+        {
+          "branch_name": "Diem Dien Br",
+          "city": "Thai Binh",
+          "swift_code": "ICBVVNVX362"
+        },
+        {
+          "branch_name": "Nam Dinh Branch",
+          "city": "Nam Dinh",
+          "swift_code": "ICBVVNVX380"
+        },
+        {
+          "branch_name": "Namdinh City Branch",
+          "city": "Nam Dinh",
+          "swift_code": "ICBVVNVX382"
+        },
+        {
+          "branch_name": "Ha Nam Branch",
+          "city": "Ha Nam",
+          "swift_code": "ICBVVNVX384"
+        },
+        {
+          "branch_name": "Ngoquyen Branch",
+          "city": "Haiphong",
+          "swift_code": "ICBVVNVX168"
+        },
+        {
+          "branch_name": "Kien An Branch",
+          "city": "Haiphong",
+          "swift_code": "ICBVVNVX169"
+        },
+        {
+          "branch_name": "Lao Cai Branch",
+          "city": "Lao Cai",
+          "swift_code": "ICBVVNVX180"
+        },
+        {
+          "branch_name": "Lang Son Branch",
+          "city": "Lang Son",
+          "swift_code": "ICBVVNVX200"
+        },
+        {
+          "branch_name": "Thai Nguyen Branch",
+          "city": "Thai Nguyen",
+          "swift_code": "ICBVVNVX220"
+        },
+        {
+          "branch_name": "Song Cong Branch",
+          "city": "Thai Nguyen",
+          "swift_code": "ICBVVNVX222"
+        },
+        {
+          "branch_name": "Luu Xa Branch",
+          "city": "Thai Nguyen",
+          "swift_code": "ICBVVNVX224"
+        },
+        {
+          "branch_name": "Phu Tho Branch",
+          "city": "Phu Tho",
+          "swift_code": "ICBVVNVX240"
+        },
+        {
+          "branch_name": "Hung Vuong Branch",
+          "city": "Phu Tho",
+          "swift_code": "ICBVVNVX242"
+        },
+        {
+          "branch_name": "Phu Tho Town Br",
+          "city": "Phu Tho",
+          "swift_code": "ICBVVNVX244"
+        },
+        {
+          "branch_name": "Vinh Phuc Branch",
+          "city": "Vinh Phuc",
+          "swift_code": "ICBVVNVX246"
+        },
+        {
+          "branch_name": "Den Hung Br",
+          "city": "Phu Tho",
+          "swift_code": "ICBVVNVX248"
+        },
+        {
+          "branch_name": "Hoa Binh Branch",
+          "city": "Hoa Binh",
+          "swift_code": "ICBVVNVX250"
+        },
+        {
+          "branch_name": "Phuc Yen Br",
+          "city": "Vinh Phuc",
+          "swift_code": "ICBVVNVX260"
+        },
+        {
+          "branch_name": "Binh Xuyen Br",
+          "city": "Vinh Phuc",
+          "swift_code": "ICBVVNVX262"
+        },
+        {
+          "branch_name": "Quang Minh Industrial Zone Br",
+          "city": "Vinh Phuc",
+          "swift_code": "ICBVVNVX264"
+        },
+        {
+          "branch_name": "Bac Giang Branch",
+          "city": "Bac Giang",
+          "swift_code": "ICBVVNVX280"
+        },
+        {
+          "branch_name": "Bac Ninh Branch",
+          "city": "Bac Ninh",
+          "swift_code": "ICBVVNVX282"
+        },
+        {
+          "branch_name": "Tien Son Br",
+          "city": "Bac Ninh",
+          "swift_code": "ICBVVNVX284"
+        },
+        {
+          "branch_name": "Tien Son Industrial Zone",
+          "city": "Bac Ninh",
+          "swift_code": "ICBVVNVX285"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vietnam International Commercial Joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "VNIBVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vietnam Export Import Commercial Joint-stock Bank",
+      "branches": [
+        {
+          "branch_name": "District 3 Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "EBVIVNVX03D"
+        },
+        {
+          "branch_name": "District 10 Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "EBVIVNVX10D"
+        },
+        {
+          "branch_name": "District 11 Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "EBVIVNVX11D"
+        },
+        {
+          "branch_name": "Main Transaction Office No 1",
+          "city": "Ho Chi Minh City",
+          "swift_code": "EBVIVNVX1CB"
+        },
+        {
+          "branch_name": "An Giang Branch",
+          "city": "Long Xuyen",
+          "swift_code": "EBVIVNVXAGG"
+        },
+        {
+          "branch_name": "Binh Duong Branch",
+          "city": "Binh Duong",
+          "swift_code": "EBVIVNVXBDG"
+        },
+        {
+          "branch_name": "Bac Lieu Branch",
+          "city": "Bac Lieu",
+          "swift_code": "EBVIVNVXBLU"
+        },
+        {
+          "branch_name": "Buon Ma Thuot Br",
+          "city": "Buon Ma Thuot",
+          "swift_code": "EBVIVNVXBMT"
+        },
+        {
+          "branch_name": "Binh Phu Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "EBVIVNVXBPU"
+        },
+        {
+          "branch_name": "Ba Ria-vung Tau Branch",
+          "city": "Ba Ria",
+          "swift_code": "EBVIVNVXBRA"
+        },
+        {
+          "branch_name": "Binh Tan Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "EBVIVNVXBTN"
+        },
+        {
+          "branch_name": "Cau Giay Branch",
+          "city": "Hanoi",
+          "swift_code": "EBVIVNVXCGY"
+        },
+        {
+          "branch_name": "Cong Hoa Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "EBVIVNVXCHA"
+        },
+        {
+          "branch_name": "Tay Do Branch",
+          "city": "Can Tho",
+          "swift_code": "EBVIVNVXCKH"
+        },
+        {
+          "branch_name": "Can Tho Branch",
+          "city": "Can Tho",
+          "swift_code": "EBVIVNVXCTH"
+        },
+        {
+          "branch_name": "Dong Da Branch",
+          "city": "Hanoi",
+          "swift_code": "EBVIVNVXDDA"
+        },
+        {
+          "branch_name": "Da Lat Branch",
+          "city": "Da Lat",
+          "swift_code": "EBVIVNVXDLT"
+        },
+        {
+          "branch_name": "Da Nang Branch",
+          "city": "Da Nang",
+          "swift_code": "EBVIVNVXDNG"
+        },
+        {
+          "branch_name": "Dong Nai Branch",
+          "city": "Dong Nai",
+          "swift_code": "EBVIVNVXDNI"
+        },
+        {
+          "branch_name": "Hoa Binh Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "EBVIVNVXHBH"
+        },
+        {
+          "branch_name": "Sai Gon Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "EBVIVNVXTTD"
+        },
+        {
+          "branch_name": "Vinh Branch",
+          "city": "8438 Nghe An",
+          "swift_code": "EBVIVNVXVIN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "EBVIVNVXXXX"
+        },
+        {
+          "branch_name": "Hai Ba Trung Branch",
+          "city": "Hanoi",
+          "swift_code": "EBVIVNVXHBT"
+        },
+        {
+          "branch_name": "Ha Noi Branch",
+          "city": "Hanoi",
+          "swift_code": "EBVIVNVXHNO"
+        },
+        {
+          "branch_name": "Hai Phong Branch",
+          "city": "Haiphong",
+          "swift_code": "EBVIVNVXHPH"
+        },
+        {
+          "branch_name": "Hue Branch",
+          "city": "Hue City",
+          "swift_code": "EBVIVNVXHUE"
+        },
+        {
+          "branch_name": "Hung Vuong Branch",
+          "city": "Da Nang",
+          "swift_code": "EBVIVNVXHVG"
+        },
+        {
+          "branch_name": "Long An Branch",
+          "city": "Long An",
+          "swift_code": "EBVIVNVXLAN"
+        },
+        {
+          "branch_name": "Long Bien Branch",
+          "city": "Hanoi",
+          "swift_code": "EBVIVNVXLBN"
+        },
+        {
+          "branch_name": "Lang Ha Branch",
+          "city": "Hanoi",
+          "swift_code": "EBVIVNVXLHA"
+        },
+        {
+          "branch_name": "My Tho Branch",
+          "city": "My Tho",
+          "swift_code": "EBVIVNVXMTO"
+        },
+        {
+          "branch_name": "Nha Trang Branch",
+          "city": "Nha Trang",
+          "swift_code": "EBVIVNVXNTR"
+        },
+        {
+          "branch_name": "Phu My Hung Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "EBVIVNVXPMH"
+        },
+        {
+          "branch_name": "District 4 Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "EBVIVNVXQ04"
+        },
+        {
+          "branch_name": "District 7 Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "EBVIVNVXQ07"
+        },
+        {
+          "branch_name": "Quang Ngai Branch",
+          "city": "Quang Ngai",
+          "swift_code": "EBVIVNVXQNG"
+        },
+        {
+          "branch_name": "Quang Ninh Branch",
+          "city": "Quang Ninh",
+          "swift_code": "EBVIVNVXQNI"
+        },
+        {
+          "branch_name": "Quang Nam Branch",
+          "city": "Quang Nam",
+          "swift_code": "EBVIVNVXQNM"
+        },
+        {
+          "branch_name": "Cho Lon Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "EBVIVNVXSG5"
+        },
+        {
+          "branch_name": "Thu Duc Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "EBVIVNVXTDC"
+        },
+        {
+          "branch_name": "Tan Dinh Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "EBVIVNVXTDH"
+        },
+        {
+          "branch_name": "Tan Son Nhat Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "EBVIVNVXTSN"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vietnam Construction Joint Stock Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tan An",
+          "swift_code": "GTBAVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vietnam Cong Thuong Ngan-hang",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "VCTNVNV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vietnam Bank For Agriculture And Rural Development",
+      "branches": [
+        {
+          "branch_name": "Ho Chi Minh City",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNV10VN"
+        },
+        {
+          "branch_name": "Laocai Branch",
+          "city": "Lao Cai",
+          "swift_code": "VBAAVNVX200"
+        },
+        {
+          "branch_name": "Laocai City Branch",
+          "city": "Lao Cai",
+          "swift_code": "VBAAVNVX202"
+        },
+        {
+          "branch_name": "Phutho Branch",
+          "city": "Viet Tri",
+          "swift_code": "VBAAVNVX210"
+        },
+        {
+          "branch_name": "Vinhphuc Branch",
+          "city": "Vinh Yen",
+          "swift_code": "VBAAVNVX211"
+        },
+        {
+          "branch_name": "Phuc Yen Branch",
+          "city": "Phuc Yen",
+          "swift_code": "VBAAVNVX212"
+        },
+        {
+          "branch_name": "Me Linh Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX213"
+        },
+        {
+          "branch_name": "Cao Bang Branch",
+          "city": "Cao Bang",
+          "swift_code": "VBAAVNVX220"
+        },
+        {
+          "branch_name": "Ha Giang Branch",
+          "city": "Ha Giang",
+          "swift_code": "VBAAVNVX230"
+        },
+        {
+          "branch_name": "Hoa Binh Branch",
+          "city": "Hoa Binh",
+          "swift_code": "VBAAVNVX231"
+        },
+        {
+          "branch_name": "Bacgiang Branch",
+          "city": "Bac Giang",
+          "swift_code": "VBAAVNVX240"
+        },
+        {
+          "branch_name": "Bacninh Branch",
+          "city": "Bac Ninh",
+          "swift_code": "VBAAVNVX241"
+        },
+        {
+          "branch_name": "Tu Son Branch",
+          "city": "Bac Ninh",
+          "swift_code": "VBAAVNVX242"
+        },
+        {
+          "branch_name": "Langson Branch",
+          "city": "Lang Son",
+          "swift_code": "VBAAVNVX250"
+        },
+        {
+          "branch_name": "Dong Dang Lang Son Branch",
+          "city": "Lang Son",
+          "swift_code": "VBAAVNVX251"
+        },
+        {
+          "branch_name": "Thanh Pho Lang Son Branch",
+          "city": "Lang Son",
+          "swift_code": "VBAAVNVX252"
+        },
+        {
+          "branch_name": "Tuyen Quang Branch",
+          "city": "Tuyen Quang",
+          "swift_code": "VBAAVNVX260"
+        },
+        {
+          "branch_name": "Yen Bai Branch",
+          "city": "Yen Bai",
+          "swift_code": "VBAAVNVX270"
+        },
+        {
+          "branch_name": "Thainguyen Branch",
+          "city": "Thai Nguyen",
+          "swift_code": "VBAAVNVX280"
+        },
+        {
+          "branch_name": "Son La Branch",
+          "city": "Son La",
+          "swift_code": "VBAAVNVX290"
+        },
+        {
+          "branch_name": "Branch 11",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX818"
+        },
+        {
+          "branch_name": "Tan Phu Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX819"
+        },
+        {
+          "branch_name": "Branch 4",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX820"
+        },
+        {
+          "branch_name": "Branch 8",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX821"
+        },
+        {
+          "branch_name": "Binh Tan Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX822"
+        },
+        {
+          "branch_name": "Quan 3 Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX824"
+        },
+        {
+          "branch_name": "Phu Nhuan Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX825"
+        },
+        {
+          "branch_name": "Phumyhuong Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX826"
+        },
+        {
+          "branch_name": "Pho Duc Chinh Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX829"
+        },
+        {
+          "branch_name": "Cangio Branch",
+          "city": "Can Gio",
+          "swift_code": "VBAAVNVX830"
+        },
+        {
+          "branch_name": "Anphu Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX831"
+        },
+        {
+          "branch_name": "District 1 Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX833"
+        },
+        {
+          "branch_name": "District 5 Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX834"
+        },
+        {
+          "branch_name": "Phandinhphung Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX835"
+        },
+        {
+          "branch_name": "Truong Son Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX836"
+        },
+        {
+          "branch_name": "Lythuongkiet Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX837"
+        },
+        {
+          "branch_name": "Tantao Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX838"
+        },
+        {
+          "branch_name": "Hiepphuoc Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX839"
+        },
+        {
+          "branch_name": "Benthanh Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX840"
+        },
+        {
+          "branch_name": "Miendong Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX841"
+        },
+        {
+          "branch_name": "Baclieu Branch",
+          "city": "Bac Lieu",
+          "swift_code": "VBAAVNVX781"
+        },
+        {
+          "branch_name": "Soctrang Branch",
+          "city": "Soc Trang",
+          "swift_code": "VBAAVNVX790"
+        },
+        {
+          "branch_name": "Branch 6",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX800"
+        },
+        {
+          "branch_name": "Hochiminh Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX801"
+        },
+        {
+          "branch_name": "Dong Sai Gon Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX802"
+        },
+        {
+          "branch_name": "Macthibuoi Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX803"
+        },
+        {
+          "branch_name": "Taysaigon Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX804"
+        },
+        {
+          "branch_name": "Cholon Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX805"
+        },
+        {
+          "branch_name": "Saigon Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX806"
+        },
+        {
+          "branch_name": "Binhchanh Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX807"
+        },
+        {
+          "branch_name": "Namsaigon Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX808"
+        },
+        {
+          "branch_name": "District 9 Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX809"
+        },
+        {
+          "branch_name": "District 10 Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX810"
+        },
+        {
+          "branch_name": "Thuduc Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX811"
+        },
+        {
+          "branch_name": "Hocmon Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX812"
+        },
+        {
+          "branch_name": "Binhthanh Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX813"
+        },
+        {
+          "branch_name": "Gia Dinh Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX814"
+        },
+        {
+          "branch_name": "Cuchi Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX815"
+        },
+        {
+          "branch_name": "Nhabe Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX816"
+        },
+        {
+          "branch_name": "Tanbinh Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX817"
+        },
+        {
+          "branch_name": "Baria Vungtau Branch",
+          "city": "Ria",
+          "swift_code": "VBAAVNVX640"
+        },
+        {
+          "branch_name": "Vungtau Branch",
+          "city": "Vung Tau",
+          "swift_code": "VBAAVNVX645"
+        },
+        {
+          "branch_name": "Binhduong Branch",
+          "city": "Binh Duong",
+          "swift_code": "VBAAVNVX650"
+        },
+        {
+          "branch_name": "Ban Cat Sub Branch",
+          "city": "Binh Duong",
+          "swift_code": "VBAAVNVX651"
+        },
+        {
+          "branch_name": "Songthan Branch",
+          "city": "Binh Duong",
+          "swift_code": "VBAAVNVX652"
+        },
+        {
+          "branch_name": "Tayninh Branch",
+          "city": "Tay Ninh",
+          "swift_code": "VBAAVNVX660"
+        },
+        {
+          "branch_name": "Binh Phuoc Branch",
+          "city": "Binh Phuoc",
+          "swift_code": "VBAAVNVX670"
+        },
+        {
+          "branch_name": "Ninhthuan Branch",
+          "city": "Phan Rang",
+          "swift_code": "VBAAVNVX680"
+        },
+        {
+          "branch_name": "Vinhlong Branch",
+          "city": "Vinh Long",
+          "swift_code": "VBAAVNVX700"
+        },
+        {
+          "branch_name": "Vinhlong City Branch",
+          "city": "Vinh Long",
+          "swift_code": "VBAAVNVX705"
+        },
+        {
+          "branch_name": "Cantho Branch",
+          "city": "Can Tho",
+          "swift_code": "VBAAVNVX710"
+        },
+        {
+          "branch_name": "Ninhkieu Branch",
+          "city": "Can Tho",
+          "swift_code": "VBAAVNVX715"
+        },
+        {
+          "branch_name": "Longan Branch",
+          "city": "Tan An",
+          "swift_code": "VBAAVNVX720"
+        },
+        {
+          "branch_name": "Tiengiang Branch",
+          "city": "My Tho",
+          "swift_code": "VBAAVNVX730"
+        },
+        {
+          "branch_name": "Dong Thap Branch",
+          "city": "Dong Thap",
+          "swift_code": "VBAAVNVX740"
+        },
+        {
+          "branch_name": "Bentre Branch",
+          "city": "Ben Tre",
+          "swift_code": "VBAAVNVX750"
+        },
+        {
+          "branch_name": "Angiang Branch",
+          "city": "Long Xuyen",
+          "swift_code": "VBAAVNVX760"
+        },
+        {
+          "branch_name": "Kiengiang Branch",
+          "city": "Kien Giang",
+          "swift_code": "VBAAVNVX770"
+        },
+        {
+          "branch_name": "Phuquoc Branch",
+          "city": "Kien Giang",
+          "swift_code": "VBAAVNVX775"
+        },
+        {
+          "branch_name": "Camau Branch",
+          "city": "Ca Mau",
+          "swift_code": "VBAAVNVX780"
+        },
+        {
+          "branch_name": "Quangtri Branch",
+          "city": "Quang Tri",
+          "swift_code": "VBAAVNVX530"
+        },
+        {
+          "branch_name": "Lao Bao Branch",
+          "city": "Quang Tri",
+          "swift_code": "VBAAVNVX531"
+        },
+        {
+          "branch_name": "Hue Branch",
+          "city": "Hue City",
+          "swift_code": "VBAAVNVX540"
+        },
+        {
+          "branch_name": "Quangngai Branch",
+          "city": "Quang Ngai",
+          "swift_code": "VBAAVNVX550"
+        },
+        {
+          "branch_name": "Quy Nhon Branch",
+          "city": "Qui Nhon",
+          "swift_code": "VBAAVNVX560"
+        },
+        {
+          "branch_name": "Hoi So Binh Dinh Branch",
+          "city": "Binh Dinh",
+          "swift_code": "VBAAVNVX561"
+        },
+        {
+          "branch_name": "Phuyen Branch",
+          "city": "Phu Yen",
+          "swift_code": "VBAAVNVX570"
+        },
+        {
+          "branch_name": "Khanhhoa Branch",
+          "city": "Nha Trang",
+          "swift_code": "VBAAVNVX580"
+        },
+        {
+          "branch_name": "Thanh Pho Nha Trang Branch",
+          "city": "Khanh Hoa",
+          "swift_code": "VBAAVNVX581"
+        },
+        {
+          "branch_name": "Gialai Branch",
+          "city": "Pleiku",
+          "swift_code": "VBAAVNVX590"
+        },
+        {
+          "branch_name": "Kontum Branch",
+          "city": "Kon Tum",
+          "swift_code": "VBAAVNVX600"
+        },
+        {
+          "branch_name": "Dongnai Branch",
+          "city": "Bien Hoa",
+          "swift_code": "VBAAVNVX610"
+        },
+        {
+          "branch_name": "Tamphuoc Branch",
+          "city": "Dong Nai",
+          "swift_code": "VBAAVNVX611"
+        },
+        {
+          "branch_name": "Nhon Trach Branch",
+          "city": "Dong Nai",
+          "swift_code": "VBAAVNVX612"
+        },
+        {
+          "branch_name": "Bien Hoa Industrial Zone Branch",
+          "city": "Bien Hoa",
+          "swift_code": "VBAAVNVX613"
+        },
+        {
+          "branch_name": "Binhthuan Branch",
+          "city": "Phan Thiet",
+          "swift_code": "VBAAVNVX620"
+        },
+        {
+          "branch_name": "Lagi Branch",
+          "city": "Binh Thuan",
+          "swift_code": "VBAAVNVX621"
+        },
+        {
+          "branch_name": "Tuyphong Branch",
+          "city": "Binh Thuan",
+          "swift_code": "VBAAVNVX622"
+        },
+        {
+          "branch_name": "Lamdong Branch",
+          "city": "Da Lat",
+          "swift_code": "VBAAVNVX630"
+        },
+        {
+          "branch_name": "Dautamto Branch",
+          "city": "Lam Dong",
+          "swift_code": "VBAAVNVX631"
+        },
+        {
+          "branch_name": "Tayho Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX434"
+        },
+        {
+          "branch_name": "Thanh Xuan Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX435"
+        },
+        {
+          "branch_name": "Daklak Branch",
+          "city": "Buon Ma Thuot",
+          "swift_code": "VBAAVNVX500"
+        },
+        {
+          "branch_name": "Buon Ho Branch",
+          "city": "Dac Lac",
+          "swift_code": "VBAAVNVX501"
+        },
+        {
+          "branch_name": "Daknong Branch",
+          "city": "Gianghia",
+          "swift_code": "VBAAVNVX505"
+        },
+        {
+          "branch_name": "Quangnam Branch",
+          "city": "Quang Nam",
+          "swift_code": "VBAAVNVX510"
+        },
+        {
+          "branch_name": "Thanhpho Danang Branch",
+          "city": "Da Nang",
+          "swift_code": "VBAAVNVX511"
+        },
+        {
+          "branch_name": "Haichau Branch",
+          "city": "Da Nang",
+          "swift_code": "VBAAVNVX512"
+        },
+        {
+          "branch_name": "Chulai Branch",
+          "city": "Quang Nam",
+          "swift_code": "VBAAVNVX513"
+        },
+        {
+          "branch_name": "Hoian Branch",
+          "city": "Hoi An",
+          "swift_code": "VBAAVNVX514"
+        },
+        {
+          "branch_name": "Diennam Dienngoc Branch",
+          "city": "Quang Nam",
+          "swift_code": "VBAAVNVX515"
+        },
+        {
+          "branch_name": "Da Nang Branch",
+          "city": "Da Nang",
+          "swift_code": "VBAAVNVX516"
+        },
+        {
+          "branch_name": "Lien Chieu Branch",
+          "city": "Da Nang",
+          "swift_code": "VBAAVNVX517"
+        },
+        {
+          "branch_name": "Cua Dai Branch",
+          "city": "Quang Nam",
+          "swift_code": "VBAAVNVX518"
+        },
+        {
+          "branch_name": "Thanh Khe Branch",
+          "city": "Da Nang",
+          "swift_code": "VBAAVNVX519"
+        },
+        {
+          "branch_name": "Quangbinh Branch",
+          "city": "Quang Binh",
+          "swift_code": "VBAAVNVX520"
+        },
+        {
+          "branch_name": "Son Tra Branch",
+          "city": "Da Nang",
+          "swift_code": "VBAAVNVX521"
+        },
+        {
+          "branch_name": "Ngu Hanh Son Branch",
+          "city": "Da Nang",
+          "swift_code": "VBAAVNVX522"
+        },
+        {
+          "branch_name": "Da Nang Industrial Zone Branch",
+          "city": "Da Nang",
+          "swift_code": "VBAAVNVX523"
+        },
+        {
+          "branch_name": "Hoa Khanh Industrial Zone Branch",
+          "city": "Da Nang",
+          "swift_code": "VBAAVNVX524"
+        },
+        {
+          "branch_name": "Tayhanoi Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX412"
+        },
+        {
+          "branch_name": "Bachanoi Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX413"
+        },
+        {
+          "branch_name": "Thanhtri Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX414"
+        },
+        {
+          "branch_name": "Socson Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX415"
+        },
+        {
+          "branch_name": "Long Bien Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX416"
+        },
+        {
+          "branch_name": "Hong Ha Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX417"
+        },
+        {
+          "branch_name": "Hoang Mai Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX418"
+        },
+        {
+          "branch_name": "Hung Vuong Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX419"
+        },
+        {
+          "branch_name": "Cau Giay Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX420"
+        },
+        {
+          "branch_name": "Mydinh Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX421"
+        },
+        {
+          "branch_name": "Hanoi",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX422"
+        },
+        {
+          "branch_name": "Thu Do Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX423"
+        },
+        {
+          "branch_name": "Hoang Quoc Viet Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX425"
+        },
+        {
+          "branch_name": "Taydo Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX426"
+        },
+        {
+          "branch_name": "Trang An Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX427"
+        },
+        {
+          "branch_name": "Dongda Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX428"
+        },
+        {
+          "branch_name": "Hoan Kiem Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX429"
+        },
+        {
+          "branch_name": "Tamtrinh Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX430"
+        },
+        {
+          "branch_name": "Bachkhoa Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX432"
+        },
+        {
+          "branch_name": "Mydinh Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX433"
+        },
+        {
+          "branch_name": "Industrial Zone Hoa Xa Branch",
+          "city": "Nam Dinh",
+          "swift_code": "VBAAVNVX349"
+        },
+        {
+          "branch_name": "Namdinh Branch",
+          "city": "Nam Dinh",
+          "swift_code": "VBAAVNVX350"
+        },
+        {
+          "branch_name": "Hanam Branch",
+          "city": "Ha Nam",
+          "swift_code": "VBAAVNVX351"
+        },
+        {
+          "branch_name": "Thai Binh Branch",
+          "city": "Thai Binh",
+          "swift_code": "VBAAVNVX360"
+        },
+        {
+          "branch_name": "Thanhhoa Branch",
+          "city": "Thanh Hoa",
+          "swift_code": "VBAAVNVX370"
+        },
+        {
+          "branch_name": "Sam Son Branch",
+          "city": "Sam Son",
+          "swift_code": "VBAAVNVX371"
+        },
+        {
+          "branch_name": "Nghean Branch",
+          "city": "Vinh",
+          "swift_code": "VBAAVNVX380"
+        },
+        {
+          "branch_name": "Vinh City Branch",
+          "city": "Vinh",
+          "swift_code": "VBAAVNVX381"
+        },
+        {
+          "branch_name": "Ha Tinh Branch",
+          "city": "Ha Tinh",
+          "swift_code": "VBAAVNVX390"
+        },
+        {
+          "branch_name": "Hanoi Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX401"
+        },
+        {
+          "branch_name": "Langha Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX402"
+        },
+        {
+          "branch_name": "Thanglong Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX403"
+        },
+        {
+          "branch_name": "Hathanh Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX404"
+        },
+        {
+          "branch_name": "Sogiaodich Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX405"
+        },
+        {
+          "branch_name": "Tuliem Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX406"
+        },
+        {
+          "branch_name": "Gialam Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX407"
+        },
+        {
+          "branch_name": "Donganh Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX408"
+        },
+        {
+          "branch_name": "Namhanoi Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX409"
+        },
+        {
+          "branch_name": "Donghanoi Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX410"
+        },
+        {
+          "branch_name": "Batrieu Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX411"
+        },
+        {
+          "branch_name": "Laichau Branch",
+          "city": "Lai",
+          "swift_code": "VBAAVNVX295"
+        },
+        {
+          "branch_name": "Backan Branch",
+          "city": "Bac Can",
+          "swift_code": "VBAAVNVX296"
+        },
+        {
+          "branch_name": "Dienbien Branch",
+          "city": "Dien Bien",
+          "swift_code": "VBAAVNVX297"
+        },
+        {
+          "branch_name": "Ninh Binh Branch",
+          "city": "Ninh Binh",
+          "swift_code": "VBAAVNVX300"
+        },
+        {
+          "branch_name": "Haiphong Branch",
+          "city": "Haiphong",
+          "swift_code": "VBAAVNVX310"
+        },
+        {
+          "branch_name": "Hai Ang Branch",
+          "city": "Haiphong",
+          "swift_code": "VBAAVNVX311"
+        },
+        {
+          "branch_name": "Ngo Quyen Branch",
+          "city": "Haiphong",
+          "swift_code": "VBAAVNVX312"
+        },
+        {
+          "branch_name": "Le Chan Branch",
+          "city": "Haiphong",
+          "swift_code": "VBAAVNVX313"
+        },
+        {
+          "branch_name": "Hong Bang Branch",
+          "city": "Haiphong",
+          "swift_code": "VBAAVNVX314"
+        },
+        {
+          "branch_name": "Tran Phu Branch",
+          "city": "Haiphong",
+          "swift_code": "VBAAVNVX315"
+        },
+        {
+          "branch_name": "An Lao Branch",
+          "city": "Haiphong",
+          "swift_code": "VBAAVNVX316"
+        },
+        {
+          "branch_name": "Haiduong Branch",
+          "city": "Hai Duong",
+          "swift_code": "VBAAVNVX320"
+        },
+        {
+          "branch_name": "Hungyen Branch",
+          "city": "Hung Yen",
+          "swift_code": "VBAAVNVX321"
+        },
+        {
+          "branch_name": "Myhao Branch",
+          "city": "Hung Yen",
+          "swift_code": "VBAAVNVX322"
+        },
+        {
+          "branch_name": "Chi Linh Branch",
+          "city": "Hai Duong",
+          "swift_code": "VBAAVNVX323"
+        },
+        {
+          "branch_name": "Quangninh Branch",
+          "city": "Ha Long",
+          "swift_code": "VBAAVNVX330"
+        },
+        {
+          "branch_name": "Mongcai Branch",
+          "city": "Mong Cai",
+          "swift_code": "VBAAVNVX331"
+        },
+        {
+          "branch_name": "Dongtrieu Branch",
+          "city": "Quang Ninh",
+          "swift_code": "VBAAVNVX332"
+        },
+        {
+          "branch_name": "Hatay Branch",
+          "city": "Ha Dong",
+          "swift_code": "VBAAVNVX340"
+        },
+        {
+          "branch_name": "Son Tay Branch",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVX341"
+        },
+        {
+          "branch_name": "Namhoa Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX842"
+        },
+        {
+          "branch_name": "Thanh Do Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX843"
+        },
+        {
+          "branch_name": "Bac Sai Gon Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX845"
+        },
+        {
+          "branch_name": "Hungvuong Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX846"
+        },
+        {
+          "branch_name": "Xuyen A Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX847"
+        },
+        {
+          "branch_name": "Ansuong Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX848"
+        },
+        {
+          "branch_name": "Quan 7 Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX849"
+        },
+        {
+          "branch_name": "Phuoc Kieng Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX850"
+        },
+        {
+          "branch_name": "Binh Trieu Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX851"
+        },
+        {
+          "branch_name": "Haugiang Branch",
+          "city": "Hai Giang",
+          "swift_code": "VBAAVNVX900"
+        },
+        {
+          "branch_name": "Cai Tac Branch",
+          "city": "Ha Giang",
+          "swift_code": "VBAAVNVX905"
+        },
+        {
+          "branch_name": "Travinh Branch",
+          "city": "Tra Vinh",
+          "swift_code": "VBAAVNVX910"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "VBAAVNVXXXX"
+        },
+        {
+          "branch_name": "Binh Phu Branch",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VBAAVNVX827"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vietnam Asia Commercial Joint-stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VNACVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vietcapital Securities Joint Stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VCSCVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Viet-nam Ngan-hang (joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "VINGVNV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Viet Nam Thuong Tin Commercial Joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Soc Trang",
+          "swift_code": "VNTTVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Viet Capital Securities Joint Stock Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VCSJVNV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Viet Capital Commercial Joint Stock Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "VCBCVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vid Public Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hanoi",
+          "swift_code": "VIDPVNV5XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Overseas Bank Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "UOVBVNVXXXX"
+        }
+      ]
+    }
+  ]
+}

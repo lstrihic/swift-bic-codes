@@ -1,0 +1,227 @@
+{
+  "country_name": "Malawi",
+  "alpha_2": "MW",
+  "country_code": "454",
+  "banks": [
+    {
+      "bank_name": "Trust Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Blantyre",
+          "swift_code": "TRETMWM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stockbrokers Malawi Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Blantyre",
+          "swift_code": "SBMWMWM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Bank Limited-malawi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Blantyre",
+          "swift_code": "SBICMWMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Reserve Bank Of Malawi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lilongwe",
+          "swift_code": "RBMAMWMWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nedbank (malawi) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Blantyre",
+          "swift_code": "NEDMMWMWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nbs Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Blantyre",
+          "swift_code": "NBSTMWMWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Malawi",
+      "branches": [
+        {
+          "branch_name": "Henderson Street Branch",
+          "city": "Blantyre",
+          "swift_code": "NBMAMWMW001"
+        },
+        {
+          "branch_name": "Victoria Avenue Branch",
+          "city": "Blantyre",
+          "swift_code": "NBMAMWMW002"
+        },
+        {
+          "branch_name": "Chichiri Branch",
+          "city": "Chichiri",
+          "swift_code": "NBMAMWMW003"
+        },
+        {
+          "branch_name": "Customs Road Branch",
+          "city": "Limbe",
+          "swift_code": "NBMAMWMW004"
+        },
+        {
+          "branch_name": "Churchill Road Branch",
+          "city": "Limbe",
+          "swift_code": "NBMAMWMW005"
+        },
+        {
+          "branch_name": "Capital City Branch",
+          "city": "Lilongwe",
+          "swift_code": "NBMAMWMW007"
+        },
+        {
+          "branch_name": "Lilongwe Branch",
+          "city": "Lilongwe",
+          "swift_code": "NBMAMWMW008"
+        },
+        {
+          "branch_name": "Financial Management Services",
+          "city": "Blantyre",
+          "swift_code": "NBMAMWMW044"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Blantyre",
+          "swift_code": "NBMAMWMWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Malawi Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Blantyre",
+          "swift_code": "XMSWMWM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Malawi Savings Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Blantyre",
+          "swift_code": "MSBLMWMWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Commercial Bank Malawi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Blantyre",
+          "swift_code": "ICBMMWMWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Indebank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Blantyre",
+          "swift_code": "INNKMWMWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Merchant Bank Ltd., Malawi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Blantyre",
+          "swift_code": "FMERMWMWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fdh Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Blantyre",
+          "swift_code": "FDHFMWMWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Malawi Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Blantyre",
+          "swift_code": "ECOCMWMWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Continental Discount House Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Blantyre",
+          "swift_code": "CODHMWM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fincom Bank Of Malawi Limited (fincom",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Blantyre",
+          "swift_code": "FIMWMWM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cdh Investment Bank (cdhib",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Blantyre",
+          "swift_code": "CDHIMWMWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Opportunity International Bank Of Malawi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Lilongwe",
+          "swift_code": "OPILMWMWXXX"
+        }
+      ]
+    }
+  ]
+}

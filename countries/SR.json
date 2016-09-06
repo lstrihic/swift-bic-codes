@@ -1,0 +1,127 @@
+{
+  "country_name": "Suriname",
+  "alpha_2": "SR",
+  "country_code": "740",
+  "banks": [
+    {
+      "bank_name": "Surinaamse Volkscredietbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Paramaribo",
+          "swift_code": "VCBSSRPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Surinaamse Postspaarbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Paramaribo",
+          "swift_code": "SDPOSRPAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Paramaribo",
+          "swift_code": "SDPOSRP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Surichange Bank N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Paramaribo",
+          "swift_code": "SURCSRPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbc Royal Bank (suriname) N.v. (formerly Rbtt Banksuriname) N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Paramaribo",
+          "swift_code": "RBTTSRPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Landbouwbank N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Paramaribo",
+          "swift_code": "LBNKSRPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hakrinbank N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Paramaribo",
+          "swift_code": "HAKRSRPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finatrust, De Trustbank N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Paramaribo",
+          "swift_code": "ICTBSRPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finabank N.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Paramaribo",
+          "swift_code": "FBNASRPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dsb Bank Also Known As De Surinaamsche Bank N.v. Paramaribo Sr",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Paramaribo",
+          "swift_code": "SURBSRPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cooperatieve Spaar-en Kredietbank Godo G.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Paramaribo",
+          "swift_code": "GODOSRPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Centrale Bank Van Suriname",
+      "branches": [
+        {
+          "branch_name": "Centrale Bank Van Suriname",
+          "city": "Paramaribo",
+          "swift_code": "CBVSSRPASUR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Paramaribo",
+          "swift_code": "CBVSSRPAXXX"
+        }
+      ]
+    }
+  ]
+}

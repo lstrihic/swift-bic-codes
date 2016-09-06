@@ -1,0 +1,507 @@
+{
+  "country_name": "Syrian Arab Republic",
+  "alpha_2": "SY",
+  "country_code": "760",
+  "banks": [
+    {
+      "bank_name": "Syria International Islamic Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Damascus",
+          "swift_code": "SIIBSYDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Syria Gulf Bank, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Damascus",
+          "swift_code": "SGBSSYDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Real Estate Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Damascus",
+          "swift_code": "REBSSYDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Bank For Trade And Finance, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Damascus",
+          "swift_code": "GBTFSYDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fransabank Syria Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Damascus",
+          "swift_code": "FSBSSYDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commercial Bank Of Syria",
+      "branches": [
+        {
+          "branch_name": "Aleppo Free Zone Branch",
+          "city": "Aleppo",
+          "swift_code": "CMSYSYDAAFZ"
+        },
+        {
+          "branch_name": "Aleppo 1 Branch",
+          "city": "Aleppo",
+          "swift_code": "CMSYSYDAAL1"
+        },
+        {
+          "branch_name": "Aleppo 2 Branch",
+          "city": "Aleppo",
+          "swift_code": "CMSYSYDAAL2"
+        },
+        {
+          "branch_name": "Aleppo 3 Branch",
+          "city": "Aleppo",
+          "swift_code": "CMSYSYDAAL3"
+        },
+        {
+          "branch_name": "Aleppo Branch Nr 4",
+          "city": "Aleppo",
+          "swift_code": "CMSYSYDAAL4"
+        },
+        {
+          "branch_name": "Aleppo Branch Nr 5",
+          "city": "Aleppo",
+          "swift_code": "CMSYSYDAAL5"
+        },
+        {
+          "branch_name": "Aleppo 6 Branch",
+          "city": "Aleppo",
+          "swift_code": "CMSYSYDAAL6"
+        },
+        {
+          "branch_name": "Aleppo Branch Nr 7",
+          "city": "Aleppo",
+          "swift_code": "CMSYSYDAAL7"
+        },
+        {
+          "branch_name": "Aleppo 8 Branch",
+          "city": "Aleppo",
+          "swift_code": "CMSYSYDAAL8"
+        },
+        {
+          "branch_name": "Masakin Barzeh Br",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDABA1"
+        },
+        {
+          "branch_name": "Bou Kamal",
+          "city": "Deir Alzzor",
+          "swift_code": "CMSYSYDABK1"
+        },
+        {
+          "branch_name": "Tartous",
+          "city": "Tartous",
+          "swift_code": "CMSYSYDABM1"
+        },
+        {
+          "branch_name": "0101 Tartous",
+          "city": "Tartous",
+          "swift_code": "CMSYSYDABS1"
+        },
+        {
+          "branch_name": "Branch Nr 10 Damascus",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDAD10"
+        },
+        {
+          "branch_name": "Branch Nr 11 Damascus",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDAD11"
+        },
+        {
+          "branch_name": "Branch Nr 12 Damascus",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDAD12"
+        },
+        {
+          "branch_name": "Branch Nr 13 Damascus",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDAD13"
+        },
+        {
+          "branch_name": "Damascus",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDAD14"
+        },
+        {
+          "branch_name": "Branch Nr 15 Damascus",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDAD15"
+        },
+        {
+          "branch_name": "Damascus 16 Branch",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDAD16"
+        },
+        {
+          "branch_name": "Al Rakka Branch",
+          "city": "Al Rakka",
+          "swift_code": "CMSYSYDARK1"
+        },
+        {
+          "branch_name": "Safita",
+          "city": "Tartous",
+          "swift_code": "CMSYSYDASA1"
+        },
+        {
+          "branch_name": "Al Suwaida Branch",
+          "city": "Al Suwaida",
+          "swift_code": "CMSYSYDASW1"
+        },
+        {
+          "branch_name": "Tartous 1 Branch",
+          "city": "Tartous",
+          "swift_code": "CMSYSYDATA1"
+        },
+        {
+          "branch_name": "Tartous Branch Nr 2",
+          "city": "Tartous",
+          "swift_code": "CMSYSYDATA2"
+        },
+        {
+          "branch_name": "Tartous Free Zone Branch",
+          "city": "Tartous",
+          "swift_code": "CMSYSYDATFZ"
+        },
+        {
+          "branch_name": "Al Tel",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDATL1"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDAXXX"
+        },
+        {
+          "branch_name": "Zabadani",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDAZA1"
+        },
+        {
+          "branch_name": "Douma Branch",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDADUM"
+        },
+        {
+          "branch_name": "Deir Alzzor Branch",
+          "city": "Deir Alzzor",
+          "swift_code": "CMSYSYDADZ1"
+        },
+        {
+          "branch_name": "Hama 1 Branch",
+          "city": "Hama",
+          "swift_code": "CMSYSYDAHA1"
+        },
+        {
+          "branch_name": "Hama Branch Nr 2",
+          "city": "Hama",
+          "swift_code": "CMSYSYDAHA2"
+        },
+        {
+          "branch_name": "Hama Branch Nr 3",
+          "city": "Hama",
+          "swift_code": "CMSYSYDAHA3"
+        },
+        {
+          "branch_name": "Hama",
+          "city": "Hama",
+          "swift_code": "CMSYSYDAHA4"
+        },
+        {
+          "branch_name": "Homs 1 Branch",
+          "city": "Homs",
+          "swift_code": "CMSYSYDAHO1"
+        },
+        {
+          "branch_name": "Branch Nr 2 Homs",
+          "city": "Homs",
+          "swift_code": "CMSYSYDAHO2"
+        },
+        {
+          "branch_name": "Branch Nr 3 Homs",
+          "city": "Homs",
+          "swift_code": "CMSYSYDAHO3"
+        },
+        {
+          "branch_name": "Branch Nr 4 Homs",
+          "city": "Homs",
+          "swift_code": "CMSYSYDAHO4"
+        },
+        {
+          "branch_name": "Hassakah Branch",
+          "city": "Hassakah",
+          "swift_code": "CMSYSYDAHS1"
+        },
+        {
+          "branch_name": "Idlib Branch",
+          "city": "Idlib",
+          "swift_code": "CMSYSYDAID1"
+        },
+        {
+          "branch_name": "Jableh Br",
+          "city": "Latakia",
+          "swift_code": "CMSYSYDAJA1"
+        },
+        {
+          "branch_name": "Kamechli Branch",
+          "city": "Kamechli",
+          "swift_code": "CMSYSYDAKA1"
+        },
+        {
+          "branch_name": "Latakia 1 Branch",
+          "city": "Latakia",
+          "swift_code": "CMSYSYDALA1"
+        },
+        {
+          "branch_name": "Latakia Branch Nr 2",
+          "city": "Latakia",
+          "swift_code": "CMSYSYDALA2"
+        },
+        {
+          "branch_name": "Latakia Branch Nr 3",
+          "city": "Latakia",
+          "swift_code": "CMSYSYDALA3"
+        },
+        {
+          "branch_name": "Latakia",
+          "city": "Latakia",
+          "swift_code": "CMSYSYDALA4"
+        },
+        {
+          "branch_name": "Latakia Free Zone Branch",
+          "city": "Latakia",
+          "swift_code": "CMSYSYDALFZ"
+        },
+        {
+          "branch_name": "Mayadine",
+          "city": "Deir Alzzor",
+          "swift_code": "CMSYSYDAMA1"
+        },
+        {
+          "branch_name": "Damascus 17 Branch",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDAD17"
+        },
+        {
+          "branch_name": "Branch Nr 18 Damascus",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDAD18"
+        },
+        {
+          "branch_name": "Mallieh Br",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDAD21"
+        },
+        {
+          "branch_name": "Dahet Assad Br",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDAD24"
+        },
+        {
+          "branch_name": "Deir Attieh Br",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDAD25"
+        },
+        {
+          "branch_name": "Damascus",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDAD26"
+        },
+        {
+          "branch_name": "Damascus",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDAD27"
+        },
+        {
+          "branch_name": "Damascus",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDAD28"
+        },
+        {
+          "branch_name": "Damascus 1 Branch",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDADA1"
+        },
+        {
+          "branch_name": "Damascus 2 Branch",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDADA2"
+        },
+        {
+          "branch_name": "Damascus 3 Branch",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDADA3"
+        },
+        {
+          "branch_name": "Damascus 4 Branch",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDADA4"
+        },
+        {
+          "branch_name": "Damascus 5 Branch",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDADA5"
+        },
+        {
+          "branch_name": "Damascus 6 Branch",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDADA6"
+        },
+        {
+          "branch_name": "Branch Nr 7 Damascus",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDADA7"
+        },
+        {
+          "branch_name": "Branch Nr 8 Damascus",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDADA8"
+        },
+        {
+          "branch_name": "Branch Nr 9 Damascus",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDADA9"
+        },
+        {
+          "branch_name": "Damascus Free Zone Branch",
+          "city": "Damascus",
+          "swift_code": "CMSYSYDADFZ"
+        },
+        {
+          "branch_name": "Dreikish Br",
+          "city": "Tartous",
+          "swift_code": "CMSYSYDADK1"
+        },
+        {
+          "branch_name": "Daraa Branch",
+          "city": "Daraa",
+          "swift_code": "CMSYSYDADR1"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cham Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Damascus",
+          "swift_code": "CHMMSYDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Syria",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Damascus",
+          "swift_code": "CBSYSYDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Byblos Bank Syria Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Damascus",
+          "swift_code": "BYBASYDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Bemo Saudi Fransi S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Damascus",
+          "swift_code": "BBSFSYDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Syria And Overseas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Damascus",
+          "swift_code": "BSOMSYDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Jordan-syria-",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Damascus",
+          "swift_code": "BJORSYDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Audi Syria S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Damascus",
+          "swift_code": "BASYSYDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Al-sharq S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Damascus",
+          "swift_code": "SHRQSYDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arab Bank-syria",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Damascus",
+          "swift_code": "ARBXSYDAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Al Baraka Bank Syria",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Damascus",
+          "swift_code": "BBSYSYDAXXX"
+        }
+      ]
+    }
+  ]
+}

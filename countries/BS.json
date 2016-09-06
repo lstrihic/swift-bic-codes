@@ -1,0 +1,932 @@
+{
+  "country_name": "Bahamas",
+  "alpha_2": "BS",
+  "country_code": "044",
+  "banks": [
+    {
+      "bank_name": "Winterbotham Trust Company Limited, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "WNTRBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Votorantim Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "VBLTBSNXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Bancaire Privee (bahamas) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "UBPGBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Bancaire Privee",
+      "branches": [
+        {
+          "branch_name": "Fund Administration Department",
+          "city": "Nassau",
+          "swift_code": "NFZBBSNSFND"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "NFZBBSNSXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Amsterdam",
+          "swift_code": "UNBVNL21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs (bahamas) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "UBSWBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Syz And Co Bank And Trust Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "SYCOBSN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Bank Of India, Nassau Obu",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "SBINBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scotiabank (bahamas) Ltd",
+      "branches": [
+        {
+          "branch_name": "Freeport Branch",
+          "city": "Freeport",
+          "swift_code": "NOSCBSNSFPO"
+        },
+        {
+          "branch_name": "Caribbean Treasury Unit",
+          "city": "Nassau",
+          "swift_code": "NOSCBSNSTMK"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "NOSCBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rural International Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "RUBABSN1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "RUBABSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Royal Bank Of Scotland (nassau) Limited, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "RBOSBSN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Royal Bank Of Canada Trust Company (bahamas) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "RCTCBSN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbc Royal Bank (bahamas) Limited (formerly Known As Royal Bank Of Canada Nassau",
+      "branches": [
+        {
+          "branch_name": "Freeport",
+          "city": "Freeport",
+          "swift_code": "ROYCBSN10FR"
+        },
+        {
+          "branch_name": "Freeport Branch",
+          "city": "Freeport",
+          "swift_code": "ROYCBSNSFRE"
+        },
+        {
+          "branch_name": "Main Branch",
+          "city": "Nassau",
+          "swift_code": "ROYCBSNSMAI"
+        },
+        {
+          "branch_name": "Head Office Operations Centre",
+          "city": "Nassau",
+          "swift_code": "ROYCBSNSOPC"
+        },
+        {
+          "branch_name": "Palmdale Branch",
+          "city": "Nassau",
+          "swift_code": "ROYCBSNSPAL"
+        },
+        {
+          "branch_name": "All Offices",
+          "city": "Nassau",
+          "swift_code": "ROYCBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Private Investment Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "DWCIBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pnc Bank, N.a. Nassau Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "PNCCBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pictet Bank And Trust Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "PICTBSNXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pasche Bank And Trust Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "BPGEBSN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oceanic Bank And Trust Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "OBATBSN1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "RAWTBSN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mmg Bank And Trust",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "MMGBBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mc. Dermott International Investments Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "DEIIBSN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lombard Odier And Cie (bahamas) Limited",
+      "branches": [
+        {
+          "branch_name": "Ndp Dept",
+          "city": "Nassau",
+          "swift_code": "LOCYBSNSNDP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "LOCYBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Votorantim S/a-nassau Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "BAVOBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Santander Bahamas Intl. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "SCHTBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Santander Bahamas International Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "BSCHBSN1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "BSCHBSNXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Popular International Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "BPOIBSN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional De Mexico",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "BNMXBSNXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Itau Bba S.a.-nassau Branch",
+      "branches": [
+        {
+          "branch_name": "Cash Customers Tranfs",
+          "city": "Nassau",
+          "swift_code": "CBBABSNSBNF"
+        },
+        {
+          "branch_name": "Nassau",
+          "city": "Nassau",
+          "swift_code": "CBBABSNSGCH"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "CBBABSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Bogota (nassau) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "BBOGBSNXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bilbao Vizcaya",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "BBVIBSN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Del Sempione (overseas) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "BASEBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bahamas Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "BAHDBSN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Arner Bank And Trust (bahamas) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "ARNEBSN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ansbacher (bahamas) Limited (formerly Finter Bank And Trust Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "FBZUBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ansbacher (bahamas) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "BITCBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Andbanc (bahamas) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "BACABSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Allied Bank And Trust Company (bahamas) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "ALBTBSN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alliance Bank And Trust",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "ABATBSN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Adanac Investment Co Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Freeport",
+          "swift_code": "ADAIBSF1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Guaranty Trust Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "GTBLBSN1XXX"
+        },
+        {
+          "branch_name": "Info Pool",
+          "city": "Lagos",
+          "swift_code": "GTBINGLAIFP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lagos",
+          "swift_code": "GTBINGLAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citicorp Banking Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "CITIBSN1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "CITIJEHXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kenforth Life Insurance Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "KENFBSNSXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "KENFBSN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Ag, Nassau Branch, Private Banking",
+      "branches": [
+        {
+          "branch_name": "Private Banking",
+          "city": "Nassau",
+          "swift_code": "CRESBSNSCRE"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Ag, Nassau Branch, Latam Investment Banking",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "GBLIBSNXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Ag, Nassau Branch",
+      "branches": [
+        {
+          "branch_name": "Structured Products",
+          "city": "Nassau",
+          "swift_code": "CRESBSNSSIP"
+        },
+        {
+          "branch_name": "Nassau Branch",
+          "city": "Nassau",
+          "swift_code": "CRESBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Agricole Suisse (bahamas) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "AGRIBSNXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commonwealth Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "COMWBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cititrust (bahamas) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "CIBABSN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Na",
+      "branches": [
+        {
+          "branch_name": "Cititrust Bahamas Third Party Statements",
+          "city": "Nassau",
+          "swift_code": "CITIBSNATPS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "CITIBSNAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citco Bank And Trust Company (bahamas) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "CITCBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cibc Trust Company (bahamas) Ltd Solomon's Building",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "CIBCBSNBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chase Manhattan Trust Corporation Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "CHASBSN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of The Bahamas,the",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "CBBHBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cbh (bahamas) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "BSSABSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bsi Overseas (bahamas) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "BSIOBSNXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bbm Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "BBINBSN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Privee Edmond De Rothschild Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "PRIBBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankamerica Trust Banking Corporation (bahamas) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "BOFABSN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of The Bahamas Limited",
+      "branches": [
+        {
+          "branch_name": "Freeport",
+          "city": "Freeport",
+          "swift_code": "BOTBBSNS0FR"
+        },
+        {
+          "branch_name": "Inagua",
+          "city": "Inagua",
+          "swift_code": "BOTBBSNS0N2"
+        },
+        {
+          "branch_name": "Main Branch",
+          "city": "Nassau",
+          "swift_code": "BOTBBSNS0N3"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "BOTBBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Nova Scotia Trust Company (bahamas) Ltd,the",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "NOSCBSNTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Baroda, Offshorebanking Unit, Nassau, Bahamas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "BARBBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank J. Safra Sarasin (bahamas) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "BSAFBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Karla Derivatives Strategies Fund Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "KARLBSN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Julius Baer Bank And Trust (bahamas) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "JBBTBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J. Safra Bank (bahamas) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "JSBBBSN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Nominees Nassau Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "HSNNBSN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hottinger Bank And Trust Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "HOBTBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hongkong And Shanghai Banking Corporation Limited,the",
+      "branches": [
+        {
+          "branch_name": "Nassau Branch",
+          "city": "Nassau",
+          "swift_code": "HSBCBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hang Seng Bank (bahamas) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "HASEBSN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gonet Bank And Trust Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "GONEBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gilingam Bank And Trust Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "GLNGBSN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Firstcaribbean International Bank (bahamas) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "FCIBBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Overseas Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "FOBLBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finance Corporation Of Bahamas Ltd.",
+      "branches": [
+        {
+          "branch_name": "Palmdale Branch",
+          "city": "Nassau",
+          "swift_code": "FICBBSN10N2"
+        },
+        {
+          "branch_name": "Robinson Road Branch",
+          "city": "Nassau",
+          "swift_code": "FICBBSN10N3"
+        },
+        {
+          "branch_name": "Freeport Branch",
+          "city": "Freeport",
+          "swift_code": "FICBBSN10N4"
+        },
+        {
+          "branch_name": "Main Branch",
+          "city": "Nassau",
+          "swift_code": "FICBBSN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fidelity Bank (bahamas) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "BTAMBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "European Investments Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "EIMLBSN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Efg Bank And Trust (bahamas) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "EFGBBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deltec Bank And Trust Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "DBTLBSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Brazil (bahamas) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "BIGABSNSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Ag, Nassau Branch, Wealth Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nassau",
+          "swift_code": "CRESBSNXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Ag, Nassau Branch, Treasury And Issuance",
+      "branches": [
+        {
+          "branch_name": "Nassau Branch",
+          "city": "Nassau",
+          "swift_code": "CRESBSNSNAS"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "country_name": "Mongolia",
+  "alpha_2": "MN",
+  "country_code": "496",
+  "banks": [
+    {
+      "bank_name": "Xacbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ulaanbaatar",
+          "swift_code": "CAXBMNUBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ulaanbaatar City Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ulaanbaatar",
+          "swift_code": "CIBMMNUBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Transport Development Bank Of Mongolia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ulaanbaatar",
+          "swift_code": "TRDMMNU1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ulaanbaatar",
+          "swift_code": "TRDMMNUBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trade And Development Bank Of Mongolia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ulaanbaatar",
+          "swift_code": "TDBMMNUBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ulaanbaatar",
+          "swift_code": "STBMMNUBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Khan Bank Of Mongolia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ulaanbaatar",
+          "swift_code": "AGMOMNUBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Erelbank Of Mongolia (erelbank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ulaanbaatar",
+          "swift_code": "ERELMNUBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Golomt Bank Of Mongolia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ulaanbaatar",
+          "swift_code": "GLMTMNUBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Investment Bank Of Mongolia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ulaanbaatar",
+          "swift_code": "NAIMMNUBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Development Bank Of Mongolia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ulaanbaatar",
+          "swift_code": "DBOMMNUBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Bank Of Mongolia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ulaanbaatar",
+          "swift_code": "CRMNMNUBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Chinggis Khaan Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ulaanbaatar",
+          "swift_code": "CHKHMNUBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Transbank",
+      "branches": [
+        {
+          "branch_name": "Transbank",
+          "city": "Ulaanbaatar",
+          "swift_code": "TBOMMNU1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capitron Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ulaanbaatar",
+          "swift_code": "CPITMNUBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capital Bank Of Mongolia",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ulaanbaatar",
+          "swift_code": "CBMNMNUBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Mongolia, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ulaanbaatar",
+          "swift_code": "BOMUMNUBXXX"
+        }
+      ]
+    }
+  ]
+}

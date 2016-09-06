@@ -1,0 +1,837 @@
+{
+  "country_name": "Jersey",
+  "alpha_2": "JE",
+  "country_code": "832",
+  "banks": [
+    {
+      "bank_name": "Baloise Finance (jersey) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "BAFJJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "B.a.i.i. Trust Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "BTRUJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ashburton (jersey) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "ASHMJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asahi Life Investment Europe Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "ALIEJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alpha Bank Jersey Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "ALJEJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abn Amro Trust Company (jersey) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "ATCJJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abn Amro Bank N.v. Jersey Branch",
+      "branches": [
+        {
+          "branch_name": "All Offices",
+          "city": "St. Helier",
+          "swift_code": "ABNAJESHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abbey National International Limited",
+      "branches": [
+        {
+          "branch_name": "Treasury Operations",
+          "city": "St. Helier",
+          "swift_code": "ANILJESHTSY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "ANILJESHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vistra (jersey) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "VISTJESHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Natwest-jersey",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "RBOSJESHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fenchurch Trust Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "FETRJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Efg Private Bank (c.i.) Lt, Jersey Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "EFGBJESHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ebc Trust Company (jersey) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "EBCJJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Ag Jersey Branch",
+      "branches": [
+        {
+          "branch_name": "Jersey Branch",
+          "city": "St. Helier",
+          "swift_code": "UBSWJESHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tintrade Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "TINRJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stonehage Trust Holdings (jersey) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "SFSHJESHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche International Corporate Services Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "DICEJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stonehage Dealing And Treasury Services (jersey) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "SDTSJESHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Trust Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "SDCTJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Chartered Bank, Jersey Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "SCBLJESHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Bank Stockbrokers (c.i.) Ltd",
+      "branches": [
+        {
+          "branch_name": "St Helier",
+          "city": "St. Helier",
+          "swift_code": "SBICJES1243"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "SBICJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Bank Jersey Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "SBICJESHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Soditic And Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "SOFLJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe General Investment Management (channel Is Lands) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "SGIMJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sg Hambros Bank (channel Islands",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "HAMBJESXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "R And H Fund Services (jersey) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "FUSJJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Quilter And Co Channel Islands",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "QUITJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sanne Trust Company Ltd",
+      "branches": [
+        {
+          "branch_name": "Sanne Trust Company Ltd",
+          "city": "St. Helier",
+          "swift_code": "SNLTJESHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pershing (channel Islands) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "PERLJESHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Royal Bank Of Scotland Jersey St. Helier (plc",
+      "branches": [
+        {
+          "branch_name": "Jersey St Helier Branch",
+          "city": "St. Helier",
+          "swift_code": "RBOSJES1028"
+        },
+        {
+          "branch_name": "St Helier",
+          "city": "St. Helier",
+          "swift_code": "RBOSJES1560"
+        },
+        {
+          "branch_name": "Jersey St Helier Branch",
+          "city": "St. Helier",
+          "swift_code": "RBOSJES1891"
+        },
+        {
+          "branch_name": "Jersey St Helier Branch",
+          "city": "St. Helier",
+          "swift_code": "RBOSJES1893"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "RBOSJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Newton Fund Managers (c.i.) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "NEFAJEH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Net-gold Services Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "GMNYJESHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nedbank Private Wealth Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "RFLCJESXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nautilus Trust Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "NAUTJESHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Collins Stewart (offshore) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "MATSJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cfp Energy Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "CFPEJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cazenove Portfolio Management Jersey",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "CAZEJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cater Allen Stockbrokers Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "JEFEJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank (channel Islands) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "CITIJEJXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Capita Fiduciary Group Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "CFGRJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brevan Howard Investment Products Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "BHIRJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Securities Services Jersey Branch",
+      "branches": [
+        {
+          "branch_name": "Jersey",
+          "city": "St. Helier",
+          "swift_code": "PARBJESHFDA"
+        },
+        {
+          "branch_name": "Global Custody",
+          "city": "St. Helier",
+          "swift_code": "PARBJESHISI"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "PARBJESHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas (suisse) Sa Jersey Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "BPPBJESHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bedell Trust Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "BEDLJESHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Private Clients International Limited, Jersey Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "BARCJESAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Bank Plc Fiduciary Deposit Business",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "BARCJESXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Scotland-jersey Treasury",
+      "branches": [
+        {
+          "branch_name": "Jersey R 12 47 53",
+          "city": "St. Helier",
+          "swift_code": "BOFSJES1011"
+        },
+        {
+          "branch_name": "Jersey Money Mkt Ac Ctre R 12 47 54",
+          "city": "St. Helier",
+          "swift_code": "BOFSJES1012"
+        },
+        {
+          "branch_name": "Don Road Offshore",
+          "city": "St. Helier",
+          "swift_code": "BOFSJES1DRO"
+        },
+        {
+          "branch_name": "International , Jersey",
+          "city": "St. Helier",
+          "swift_code": "BOFSJES1JER"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "BOFSJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Scotland (jersey) Limited",
+      "branches": [
+        {
+          "branch_name": "Jersey Money Market Accounts Centre",
+          "city": "St. Helier",
+          "swift_code": "BOFSJES1001"
+        },
+        {
+          "branch_name": "Personal Financial Services Jersey",
+          "city": "St. Helier",
+          "swift_code": "BOFSJES1002"
+        },
+        {
+          "branch_name": "Speirs And Jeffrey Jersey Branch",
+          "city": "St. Helier",
+          "swift_code": "BOFSJES1SPJ"
+        },
+        {
+          "branch_name": "Turcan Connell Offshore Branch",
+          "city": "St. Helier",
+          "swift_code": "BOFSJES1TCO"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of India, Jersey Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "BKIDJESHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Leumi Jersey Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "LUMIJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Natwest Offshore-jersey",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "RBOSJE41XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mourant And Co. Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "MOURJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Morgan Guaranty Trust Co. Of New York",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "MGTCJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moore Stephens",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "MSJYJESHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Minerva Trust And Corporate Services Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "MTCSJESHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch Portfolio Managers (channel Islands",
+      "branches": [
+        {
+          "branch_name": "St Helier",
+          "city": "St. Helier",
+          "swift_code": "MLPMJESXCIT"
+        },
+        {
+          "branch_name": "St Helier",
+          "city": "St. Helier",
+          "swift_code": "MLPMJESXFST"
+        },
+        {
+          "branch_name": "Hld",
+          "city": "St. Helier",
+          "swift_code": "MLPMJESXHLD"
+        },
+        {
+          "branch_name": "Stp",
+          "city": "St. Helier",
+          "swift_code": "MLPMJESXSTP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "MLPMJESXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lyxor/black Diamond Arbitrage",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "LYDAJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lombard Odier Darier Hentsch (jersey) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "LOCYJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lloyds Tsb Offshore Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "LOYDJEH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "L.b.i. Finance (jersey) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "LBFJJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lloyds Bank Plc-jersey",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "LOYDJEJ1XXX"
+        },
+        {
+          "branch_name": "St Helier",
+          "city": "St. Helier",
+          "swift_code": "LOYDJES1001"
+        },
+        {
+          "branch_name": "St Helier",
+          "city": "St. Helier",
+          "swift_code": "LOYDJES1002"
+        },
+        {
+          "branch_name": "St Brelade",
+          "city": "St. Brelade",
+          "swift_code": "LOYDJES1003"
+        },
+        {
+          "branch_name": "Five Oaks",
+          "city": "St. Helier",
+          "swift_code": "LOYDJES1004"
+        },
+        {
+          "branch_name": "Five Oaks",
+          "city": "St. Helier",
+          "swift_code": "LOYDJES1005"
+        },
+        {
+          "branch_name": "Jersey Offshore Centre",
+          "city": "St. Helier",
+          "swift_code": "LOYDJES1006"
+        },
+        {
+          "branch_name": "Jersey Offshore Centre",
+          "city": "St. Helier",
+          "swift_code": "LOYDJES1007"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "LOYDJESHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J. P. Morgan International Derivatives Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "MOIEJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Income Partners",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "ICMEJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Jersey St. Brelade",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Brelade",
+          "swift_code": "MIDLJEJ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Global Asset Management (international) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "JCCLJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank International Limited",
+      "branches": [
+        {
+          "branch_name": "St Helier",
+          "city": "St. Helier",
+          "swift_code": "MIDLJESH01A"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "MIDLJESHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hawksford Trust Company Jersey Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "HAWKJESHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gartmore Fund Managers International Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "GRTLJES1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Forten Asset Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Helier",
+          "swift_code": "FOSNJES1XXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "country_name": "Guatemala",
+  "alpha_2": "GT",
+  "country_code": "320",
+  "banks": [
+    {
+      "bank_name": "Primer Bco. De Ahorro Y Prestamo Vivienda Familiar S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "PBAPGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Occidente International Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "OCICGTGCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Imagenes Computarizadas De Guatemala, S. A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "ICGSGTGCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fitch Centroamerica (guatemala",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "FRIPGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera Uno S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "FIUNGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera Summa, S.a. Centro Gerencial Las Margaritas",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "FSCGGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera San Miguel, S. A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "FSMCGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera Reforma S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "FIRFGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera Latinoamericana, S. A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "FILMGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera Industrial, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "FIUDGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Industrial, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "INDLGTGCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco G And T Continental, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "GTCOGTGCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Ficohsa Guatemala",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "FCOHGTGCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Del Ejercito S.a.",
+      "branches": [
+        {
+          "branch_name": "Agencia Roosevelt",
+          "city": "Guatemala",
+          "swift_code": "BAEJGTG10G2"
+        },
+        {
+          "branch_name": "Agencia Aguilar Batres",
+          "city": "Guatemala",
+          "swift_code": "BAEJGTG10G3"
+        },
+        {
+          "branch_name": "Agencia Geminis 10",
+          "city": "Guatemala",
+          "swift_code": "BAEJGTG10G4"
+        },
+        {
+          "branch_name": "Agencia Quezaltenango",
+          "city": "Quezaltenango",
+          "swift_code": "BAEJGTG10G5"
+        },
+        {
+          "branch_name": "Agencia Chichicastenango",
+          "city": "Chichicastenango",
+          "swift_code": "BAEJGTG10G6"
+        },
+        {
+          "branch_name": "Agencia Esquipulas",
+          "city": "Esquipulas",
+          "swift_code": "BAEJGTG10G7"
+        },
+        {
+          "branch_name": "Agencia Gualan Zacapa",
+          "city": "Gualan Zacapa",
+          "swift_code": "BAEJGTG10G8"
+        },
+        {
+          "branch_name": "Agencia Coban",
+          "city": "Coban",
+          "swift_code": "BAEJGTG10GA"
+        },
+        {
+          "branch_name": "Agencia El Patio",
+          "city": "Guatemala",
+          "swift_code": "BAEJGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Los Trabajadores",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "TRAJGTGCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De La Republica S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "REBLGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Guatemala",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "BAGUGTGBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "BAGUGTGCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Credito, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "BDCTGTGTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Comercio S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "CMMEGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Antigua, S A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "ANTGGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Corporativo, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "COPVGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Citibank De Guatemala, S.a.",
+      "branches": [
+        {
+          "branch_name": "Citibank Central America Nassau",
+          "city": "Guatemala",
+          "swift_code": "BACUGTGCNAS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "BACUGTGCXXX"
+        },
+        {
+          "branch_name": "Banco Citibank De Guatemala, S.a.",
+          "city": "Guatemala",
+          "swift_code": "CITBGTGCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Azteca De Guatemala",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "AZTKGTGCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Americano, S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "AMRIGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco America Central Sociedad Anonima",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "AMCNGTGTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco America Central",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "AMCNGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Agromercantil De Guatemala, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "AGROGTGCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Promerica, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "BPRCGTGCXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "BPRKGTG1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "BPRHHNTEXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Antiguo",
+          "swift_code": "BPRASVSSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Centroamericano De Integracion Economica",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "BCIEGTG1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tegucigalpa",
+          "swift_code": "BCIEHNTEXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Managua",
+          "swift_code": "BCIENIM1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "San Salvador",
+          "swift_code": "BCIESVS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Metropolitano S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "BMETGTG1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "La Habana",
+          "swift_code": "BMNBCUHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera Guatemalteca S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "FIGAGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera Del Pais S A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "FNPAGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera De Occidente, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "FIOCGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera De Inversion, S. A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "FIVNGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera De Credito S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "FCREGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera De Capitales, S. A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "FIRCGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera Corporativa S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "FCORGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera Consolidada, S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "FCOOGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Financiera Agromercantil S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "FAGOGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "El Credito Hipotecario Nacional De Guatemala",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "CHNAGTGCXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "CHNAGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Corporacion Bursatil Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "CORRGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank N.a. Guatemala",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "CITIGTGCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central De Valores Nacional, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "CEVIGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bolsa De Valores Nacional Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "XGTGGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banrural S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "BRRLGTGCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Sci S. A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "CIICGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Reformador, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "CTRCGTGCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional De La Vivienda",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "BNVIGTG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Inmobiliario, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "BINMGTGCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Internacional, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guatemala",
+          "swift_code": "DIBIGTGCXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "BIMEESM1XXX"
+        }
+      ]
+    }
+  ]
+}

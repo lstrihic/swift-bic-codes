@@ -1,0 +1,1282 @@
+{
+  "country_name": "Mexico",
+  "alpha_2": "MX",
+  "country_code": "484",
+  "banks": [
+    {
+      "bank_name": "Vw De Mexico",
+      "branches": [
+        {
+          "branch_name": "Vw De Mexico",
+          "city": "Puebla",
+          "swift_code": "MEXCMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Volkswagen De Mexico S.a. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "VWAGMXMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vanguardia Casa De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "VACLMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Value, S.a. De C.v., Casa De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "VACBMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Valores Mexicanos Casa De Bolsa, S.a. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "VMXSMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Valores Finamex, S.a. De C.v., Casa De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "VFMXMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Valores Bursatiles De Mexico, S.a. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "VBMXMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Invermexico, S.a. De C.v., Casa De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "INVMMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interacciones Casa De Bolsa, S.a. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "ICDBMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Casa De Bolsa Bancomer, S.a. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "CBOBMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Casa De Bolsa Arka S.a De C.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "CBAKMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bancomer Renta Fija Internacional",
+      "branches": [
+        {
+          "branch_name": "Bancomer Renta Fija Internacional",
+          "city": "Mexico",
+          "swift_code": "BCMRMXMMRFI"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bolsa Mexicana De Valores, S. A. De C. V.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "XMEXMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional De Credito Rural Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "NCRUMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Casa De Bolsa Banorte, S.a. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "BAOTMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Monex, S.a. Institucion De Banca Multiple",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "MNBDMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional Pesquero Y Portuario, S.n.c.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Hermosillo",
+          "swift_code": "BNPPMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Multiva S.a. Institucion De Banca Multiple, Grupo Financiero Multiva",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "MIMMMXM1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "MIMMMXMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bansi, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Guadalajara",
+          "swift_code": "SNABMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Oriente, S A",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Puebla",
+          "swift_code": "BAORMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Credito Rural Del Golfo S.n.c.",
+      "branches": [
+        {
+          "branch_name": "Xalapa",
+          "city": "Xalapa",
+          "swift_code": "RUGOMXM10M3"
+        },
+        {
+          "branch_name": "86000 Villahermosa",
+          "city": "Villahermosa",
+          "swift_code": "RUGOMXM10M4"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Veracruz",
+          "swift_code": "RUGOMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Audi Mexico",
+      "branches": [
+        {
+          "branch_name": "Audi Mexico",
+          "city": "Puebla",
+          "swift_code": "AUMXMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Actinver Casa De Bolsa Sa De Cv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Centro De Ciudad Santa Fe",
+          "swift_code": "ACAOMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Afin, Casa De Bolsa, S.a. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "AFINMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vector Casa De Bolsa, Sa De Cv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monterrey",
+          "swift_code": "VECRMXMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Baring Grupo Financiero (mexico) S.a. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "BRRNMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Abaco Casa De Bolsa, S.a. De C.v.",
+      "branches": [
+        {
+          "branch_name": "66260 Garza Garcia",
+          "city": "Garza Garcia",
+          "swift_code": "ACBOMXM10G2"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "ACBOMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Invex S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "INXXMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Goldman Sachs Mexico Casa De Bolsa, Sa De Cv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "GOLDMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gbm Grupo Bursatil Mexicano, Sa De Cv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "GBMSMXMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Grupo Investa Sa Pi De Cv",
+      "branches": [
+        {
+          "branch_name": "Grupo Investa Sa Pi De Cv",
+          "city": "Mexico",
+          "swift_code": "GINSMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fitch Mexico S.a. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monterrey,n.l.",
+          "swift_code": "FRIPMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Casa De Bolsa, S.a. De C.v., Grupo Financierhsbc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "BITLMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First National Bank, S.a. De C.v",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tijuana",
+          "swift_code": "FNAIMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gbm Grupo Bursatil Mexicano, S.a.b. De C.v. Casa E Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "GBMSMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fimsa Casa De Bolsa, S.a. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "FMCBMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Mifel Sa Institucion De Banca Multiple Grupo Financiero Mifel",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "MIFEMXMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Estrategia Cambiaria Case De Cambio S.a. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "ECAMMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Casa De Bolsa Union Sa De Cv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "CABUMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Estrategia Bursatil, S.a. De C.v., Casa De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "ESTBMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Casa De Bolsa Santander, S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "CABDMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Casa De Bolsa Prime, S.a. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "CBPRMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Casa De Cambio Tiber Sa De Cv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "CTIBMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Casa De Bolsa Del Valle De Mexico, S.a. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "VALMMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scotia Inverlat Casa De Bolsa, S.a. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "CBOIMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Casa De Bolsa Finamex, S.a.b. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "CBFAMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Santander Serfin",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Veracruz",
+          "swift_code": "SAEFMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vactor Casa De Bolsa, S.a. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Garza Garcia",
+          "swift_code": "VCCBMXG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rabo Financiera Mexico S.a.",
+      "branches": [
+        {
+          "branch_name": "Rabo Financiera Mexico S.a.",
+          "city": "Mexico",
+          "swift_code": "RABOMXMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Probursa Casa De Bolsa, S.a. De C.v. Casa De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "PBSAMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Operadora De Bolsa, S.a. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "OPBOMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Casa De Bolsa Mexico, S.a. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "CBMXMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Mexicana, S.a. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Samex",
+          "city": "Tijuana",
+          "swift_code": "SECTMXM1350"
+        },
+        {
+          "branch_name": "Sem",
+          "city": "Tijuana",
+          "swift_code": "SECTMXM1390"
+        },
+        {
+          "branch_name": "Sedam",
+          "city": "Queretaro",
+          "swift_code": "SECTMXM1394"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tijuana",
+          "swift_code": "SECTMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Multivalores Casa De Bolsa, S.a. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "MLVLMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mittal Steel Lazaro Cardenas Sa De Cv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "USINMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moody's De Mexico S.a. De C.v",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "MOMXMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Operadora De Bolsa Serfin, S.a. De C.v., Casa De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "OPBSMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Masttro Capital Sapi De Cv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Pedro Garza Garcia",
+          "swift_code": "MSAAMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lg Display Reynosa Sa De Cv",
+      "branches": [
+        {
+          "branch_name": "Lg Display Reynosa Sa De Cv",
+          "city": "Reynosa",
+          "swift_code": "LGDRMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercado Mexicano De Derivados, S.a. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "XEMDMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Invex Casa De Bolsa, S.a. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "IVXBMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ixe Casa De Bolsa, S.a. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "IXEEMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inversora Bursatil, S.a. De C.v., Casa De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "IVSBMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mexival Banpais Casa De Bolsa, S.a. De C.v.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "MXBCMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mercury Bank And Trust Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "MTRLMXM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of America, Mexico S.A.",
+      "branches": [
+        {
+          "branch_name": "Mexico",
+          "city": "Mexico",
+          "swift_code": "BOFAMXMXMEX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "BOFAMXMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Regional De Monterrey, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monterrey",
+          "swift_code": "RGIOMXMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional Del Ejercito, Fuerza Aerea Y Armada, S.N.C.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "EJERMXMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Tokyo-Mitsubishi Ufj (Mexico) S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "BOTKMXMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional De Mexico S.A.",
+      "branches": [
+        {
+          "branch_name": "Leon",
+          "city": "Leon",
+          "swift_code": "BNMXMXMMLEO"
+        },
+        {
+          "branch_name": "Puebla",
+          "city": "Puebla",
+          "swift_code": "BNMXMXMMPUE"
+        },
+        {
+          "branch_name": "Vostro Accounts Dept",
+          "city": "Mexico",
+          "swift_code": "BNMXMXMMCVT"
+        },
+        {
+          "branch_name": "International Custody",
+          "city": "Mexico",
+          "swift_code": "BNMXMXMMINV"
+        },
+        {
+          "branch_name": "Money Transfer Investigations",
+          "city": "Mexico",
+          "swift_code": "BNMXMXMMMTI"
+        },
+        {
+          "branch_name": "Payment Orders Dept",
+          "city": "Mexico",
+          "swift_code": "BNMXMXMMPYM"
+        },
+        {
+          "branch_name": "Head Office And For All Remaining Unlisted Branches",
+          "city": "Mexico",
+          "swift_code": "BNMXMXMMXXX"
+        },
+        {
+          "branch_name": "Monterrey",
+          "city": "Monterrey",
+          "swift_code": "BNMXMXMMMTY"
+        },
+        {
+          "branch_name": "Guadalajara",
+          "city": "Guadalajara",
+          "swift_code": "BNMXMXMMGUA"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Santander (Mexico), S.A., Institucion De Banca Multiple, Grupo Financiero Santander",
+      "branches": [
+        {
+          "branch_name": "Chihuahua",
+          "city": "Chihuahua",
+          "swift_code": "BMSXMXMMCHI"
+        },
+        {
+          "branch_name": "Acapulco",
+          "city": "Acapulco",
+          "swift_code": "BMSXMXMMACA"
+        },
+        {
+          "branch_name": "Hermosillo",
+          "city": "Hermosillo",
+          "swift_code": "BMSXMXMMHMO"
+        },
+        {
+          "branch_name": "Leon",
+          "city": "Leon",
+          "swift_code": "BMSXMXMMLEO"
+        },
+        {
+          "branch_name": "Merida",
+          "city": "Merida",
+          "swift_code": "BMSXMXMMMER"
+        },
+        {
+          "branch_name": "Guadalajara",
+          "city": "Guadalajara",
+          "swift_code": "BMSXMXMMGUA"
+        },
+        {
+          "branch_name": "Mazatlan",
+          "city": "Mazatlan",
+          "swift_code": "BMSXMXMMMAZ"
+        },
+        {
+          "branch_name": "Puebla",
+          "city": "Puebla",
+          "swift_code": "BMSXMXMMPUE"
+        },
+        {
+          "branch_name": "Mexico",
+          "city": "Mexico",
+          "swift_code": "BMSXMXMMMEX"
+        },
+        {
+          "branch_name": "Securities Services",
+          "city": "Mexico",
+          "swift_code": "BMSXMXMMSSS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "BMSXMXMMXXX"
+        },
+        {
+          "branch_name": "Monterrey",
+          "city": "Monterrey",
+          "swift_code": "BMSXMXMMMTY"
+        },
+        {
+          "branch_name": "Veracruz",
+          "city": "Veracruz",
+          "swift_code": "BMSXMXMMVER"
+        },
+        {
+          "branch_name": "Tijuana",
+          "city": "Tijuana",
+          "swift_code": "BMSXMXMMTIJ"
+        },
+        {
+          "branch_name": "Toluca",
+          "city": "Toluca",
+          "swift_code": "BMSXMXMMTOL"
+        },
+        {
+          "branch_name": "Mexico",
+          "city": "Mexico",
+          "swift_code": "BMSXMXM1NAS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional De Comercio Exterior, S.N.C.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "BNCEMXMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Monex, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "MONXMXMMXXX"
+        },
+        {
+          "branch_name": "06600 Mexico",
+          "city": "Mexico",
+          "swift_code": "MONXMXM1TFI"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Mercantil Del Norte, S.A.",
+      "branches": [
+        {
+          "branch_name": "06500 Mexico",
+          "city": "Mexico",
+          "swift_code": "MENOMXMTMEX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "MENOMXMTXXX"
+        },
+        {
+          "branch_name": "Custody And Cash Management",
+          "city": "Mexico",
+          "swift_code": "MENOMXMTCCM"
+        },
+        {
+          "branch_name": "Derivatives",
+          "city": "Monterrey,n.l.",
+          "swift_code": "MENOMXMTDER"
+        },
+        {
+          "branch_name": "Foreign Exchange",
+          "city": "Monterrey,n.l.",
+          "swift_code": "MENOMXMTFEX"
+        },
+        {
+          "branch_name": "Wire Transfer Dept",
+          "city": "Monterrey,n.l.",
+          "swift_code": "MENOMXMTPYM"
+        },
+        {
+          "branch_name": "Wholesale Banking",
+          "city": "Monterrey,n.l.",
+          "swift_code": "MENOMXMTWLS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Inbursa S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "INBUMXMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Del Bajio, S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Leon",
+          "swift_code": "BJIOMXMLXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Interacciones",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "BITEMXMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Mexico",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "BDEMMXMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Del Ahorro Nacional Y Servicios Financieros S.N.C Institucion De Banca De Desarrollo",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "SEFIMXMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Azteca, S.A. Institucion De Banca Multiple",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "AZTKMXMMXXX"
+        },
+        {
+          "branch_name": "Mexico",
+          "city": "Mexico",
+          "swift_code": "AZTKMXMMEKT"
+        },
+        {
+          "branch_name": "Mexico",
+          "city": "Mexico",
+          "swift_code": "AZTKMXMMTVA"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Credit Suisse (Mexico) S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "CSFBMXMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Actinver Sa Institucion De Banca Multiple Grupo Financiero Actinver",
+      "branches": [
+        {
+          "branch_name": "01210 Mexico",
+          "city": "Mexico",
+          "swift_code": "ACIOMXMMACB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "ACIOMXMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Acciones Y Valores De Mexico, S.A. De C.V. Casa De Bolsa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "ACVLMXMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Afirme S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Monterrey",
+          "swift_code": "AFIRMXMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Royal Bank Of Scotland Mexico, S. A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "ABNAMXMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scotiabank Inverlat, S.A.",
+      "branches": [
+        {
+          "branch_name": "Guadalajara",
+          "city": "Guadalajara",
+          "swift_code": "MBCOMXMMGUA"
+        },
+        {
+          "branch_name": "Puebla",
+          "city": "Puebla",
+          "swift_code": "MBCOMXMMPUE"
+        },
+        {
+          "branch_name": "Monterrey",
+          "city": "Monterrey",
+          "swift_code": "MBCOMXMMMTY"
+        },
+        {
+          "branch_name": "Departamento De Inversion",
+          "city": "Mexico",
+          "swift_code": "MBCOMXMMINV"
+        },
+        {
+          "branch_name": "Securities Department",
+          "city": "Mexico",
+          "swift_code": "MBCOMXMMSEC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "MBCOMXMMXXX"
+        },
+        {
+          "branch_name": "Mexico",
+          "city": "Mexico",
+          "swift_code": "MBCOMXMMFXA"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Bank Of New York Mellon, Mexico City Representative Office",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "IRVTMXMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Bank Mexico, S.A. Institucion De Banca Multiple, Ubs Grupo Financiero",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "UBSWMXMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "S.D. Indeval S.A. De C.V.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "INDEMXMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Intercam Casa De Bolsa S.A. De C.V.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "ICABMXMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Inter Banco Sa Institucion De Banca Multiple",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "INTEMXMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Mexico, S.A. Institucion De Banca Multiple, Grupo Financier Hsbc",
+      "branches": [
+        {
+          "branch_name": "Securities Services Cnc Mexico",
+          "city": "Mexico",
+          "swift_code": "BIMEMXMM397"
+        },
+        {
+          "branch_name": "Cls Hsbc Mexico",
+          "city": "Mexico",
+          "swift_code": "BIMEMXMMCLS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "BIMEMXMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Grupo Televisa, S.A.B.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "TVSAMXMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daimler Mexico, Sa De Cv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "DCAGMXMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ixe Banco S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "IXEBMXMMXXX"
+        },
+        {
+          "branch_name": "Derivatives",
+          "city": "Mexico",
+          "swift_code": "IXEBMXMMDER"
+        },
+        {
+          "branch_name": "Foreign Exchange",
+          "city": "Mexico",
+          "swift_code": "IXEBMXMMFEX"
+        },
+        {
+          "branch_name": "Wire Transfer Dept",
+          "city": "Mexico",
+          "swift_code": "IXEBMXMMPYM"
+        },
+        {
+          "branch_name": "Wholesale Banking",
+          "city": "Mexico",
+          "swift_code": "IXEBMXMMWLS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cemex S.A.B. De C.V.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "San Pedro Garza Garcia",
+          "swift_code": "CXCXMXMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cibanco Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "CIMXMXMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Casa De Bolsa Credit Suisse (Mexico), S.A. De C.V.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "CSFBMXMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Bank Mexico S.A.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "BARCMXMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Base Internacional Casa De Bolsa Sa De Cv",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "BBSEMXMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Mexico, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mexico",
+          "swift_code": "DEUTMXMMXXX"
+        }
+      ]
+    }
+  ]
+}

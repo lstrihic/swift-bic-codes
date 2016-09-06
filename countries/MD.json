@@ -1,0 +1,262 @@
+{
+  "country_name": "Moldova (Republic of)",
+  "alpha_2": "MD",
+  "country_code": "498",
+  "banks": [
+    {
+      "bank_name": "Trans-dniester Republican Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tiraspol",
+          "swift_code": "PRBTMD21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Romanian Commercial Bank Chisinau S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chisinau",
+          "swift_code": "RNCBMD2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Bank Of Moldova",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chisinau",
+          "swift_code": "NBMDMD2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moldindconbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chisinau",
+          "swift_code": "MOLDMD2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Joint Stock Commercial Bank Unibank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chisinau",
+          "swift_code": "JSCUMD2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jscb Ipotechniy",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tiraspol",
+          "swift_code": "IPOJMD21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Joint-stock Commercial Victoriabank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chisinau",
+          "swift_code": "VICBMD2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Comertbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chisinau",
+          "swift_code": "CMTBMD2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Closed Joint Stock Company (cjsc) 'trans-dniester Savings Bank' ('sberbank'",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tiraspol",
+          "swift_code": "CJSMMD21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gazprombank Joint-stock Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tiraspol",
+          "swift_code": "GAJCMD21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cjsc Tiraspromstroybank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tiraspol",
+          "swift_code": "CJTIMD21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cjsc Agroprombank'",
+      "branches": [
+        {
+          "branch_name": "Bendery Branch",
+          "city": "Bendery",
+          "swift_code": "AGRRMD21BEN"
+        },
+        {
+          "branch_name": "Dnestrovsk Branch",
+          "city": "Dnestrovsk",
+          "swift_code": "AGRRMD21DNK"
+        },
+        {
+          "branch_name": "Dubossary Branch",
+          "city": "Dubossary",
+          "swift_code": "AGRRMD21DUB"
+        },
+        {
+          "branch_name": "Grigoriopol Branch",
+          "city": "Grigoriopol",
+          "swift_code": "AGRRMD21GRI"
+        },
+        {
+          "branch_name": "Kamenka Branch",
+          "city": "Kamenka",
+          "swift_code": "AGRRMD21KAM"
+        },
+        {
+          "branch_name": "Rybnitsa Branch",
+          "city": "Rybnitsa",
+          "swift_code": "AGRRMD21RYB"
+        },
+        {
+          "branch_name": "Slobodzeya Branch",
+          "city": "Slobodzeya",
+          "swift_code": "AGRRMD21SLB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tiraspol",
+          "swift_code": "AGRRMD21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cb Moldova-agroindbank Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chisinau",
+          "swift_code": "AGRNMD2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bc Energbank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chisinau",
+          "swift_code": "ENEGMD22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bc Banca Sociala Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chisinau",
+          "swift_code": "BSOCMD2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bc Eurocreditbank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chisinau",
+          "swift_code": "ECBMMD2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bc Procredit Bank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chisinau",
+          "swift_code": "PRCBMD22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca Comerciala Eximbank-gruppo Veneto Banca S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chisinau",
+          "swift_code": "EXMMMD22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca De Economii S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chisinau",
+          "swift_code": "BECOMD2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banca De Finante Si Comert S.a. (fincombank S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chisinau",
+          "swift_code": "FTMDMD2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bc 'mobiasbanca-groupe Societe Generale' S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Chisinau",
+          "swift_code": "MOBBMD22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Benderysocbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bendery",
+          "swift_code": "BENRMD21XXX"
+        }
+      ]
+    }
+  ]
+}

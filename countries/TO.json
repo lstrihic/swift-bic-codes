@@ -1,0 +1,67 @@
+{
+  "country_name": "Tonga",
+  "alpha_2": "TO",
+  "country_code": "776",
+  "banks": [
+    {
+      "bank_name": "Westpac Bank Of Tonga",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nuku'alofa",
+          "swift_code": "BTONTONUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pacific International Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Pacific International Commercial Bank",
+          "city": "Nuku'alofa",
+          "swift_code": "PICBTON1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "National Reserve Bank Of Tonga",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nuku ' Alofa",
+          "swift_code": "NRBTTONUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mbf Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nuku'alofa",
+          "swift_code": "MBFMTONUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bat Tonga",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nuku'alofa",
+          "swift_code": "BATSTOA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Anz Banking Group Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Nuku'alofa",
+          "swift_code": "ANZBTONNXXX"
+        }
+      ]
+    }
+  ]
+}

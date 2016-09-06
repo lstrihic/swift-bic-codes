@@ -1,0 +1,152 @@
+{
+  "country_name": "Guinea-Bissau",
+  "alpha_2": "GW",
+  "country_code": "624",
+  "banks": [
+    {
+      "bank_name": "Ecobank Guinee Bissau",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bissau",
+          "swift_code": "ECOCGWGWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Regionale De Solidarite-guinee Bissau",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bissau",
+          "swift_code": "BRSWGWGWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Da Uniao",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bissau",
+          "swift_code": "BDUGGWGWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Da Africa Ocidental Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bissau",
+          "swift_code": "BAOBGWGWXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Centrale Des Etats De L'afrique De L'ouest",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bissau",
+          "swift_code": "BCAOGWG1XXX"
+        },
+        {
+          "branch_name": "Parakou Branch",
+          "city": "Parakou",
+          "swift_code": "BCAOBJBJPAR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cotonou",
+          "swift_code": "BCAOBJBJXXX"
+        },
+        {
+          "branch_name": "Bobo-dioulasso Branch",
+          "city": "Dioulasso",
+          "swift_code": "BCAOBFBFBOB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ouagadougou",
+          "swift_code": "BCAOBFBFXXX"
+        },
+        {
+          "branch_name": "Agence Nationale",
+          "city": "Dakar",
+          "swift_code": "BCAOSNDA001"
+        },
+        {
+          "branch_name": "Kaolack Branch",
+          "city": "Kaolack",
+          "swift_code": "BCAOSNDAKAO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dakar",
+          "swift_code": "BCAOSNDAXXX"
+        },
+        {
+          "branch_name": "Ziguinchor Branch",
+          "city": "Ziguinchor",
+          "swift_code": "BCAOSNDAZIG"
+        },
+        {
+          "branch_name": "Kara Branch",
+          "city": "Kara",
+          "swift_code": "BCAOTGTGKAR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lome",
+          "swift_code": "BCAOTGTGXXX"
+        },
+        {
+          "branch_name": "Sikasso Branch",
+          "city": "Sikasso",
+          "swift_code": "BCAOMLBASIK"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bamako",
+          "swift_code": "BCAOMLBAXXX"
+        },
+        {
+          "branch_name": "Abengourou Branch",
+          "city": "Abengourou",
+          "swift_code": "BCAOCIABABE"
+        },
+        {
+          "branch_name": "Bouake Branch",
+          "city": "Bouake",
+          "swift_code": "BCAOCIABBOU"
+        },
+        {
+          "branch_name": "Daloa Branch",
+          "city": "Daloa",
+          "swift_code": "BCAOCIABDAL"
+        },
+        {
+          "branch_name": "Korhogo Branch",
+          "city": "Korhogo",
+          "swift_code": "BCAOCIABKOR"
+        },
+        {
+          "branch_name": "Man Branch",
+          "city": "Man",
+          "swift_code": "BCAOCIABMAN"
+        },
+        {
+          "branch_name": "San Pedro Branch",
+          "city": "San Pedro",
+          "swift_code": "BCAOCIABSAN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Abidjan",
+          "swift_code": "BCAOCIABXXX"
+        }
+      ]
+    }
+  ]
+}

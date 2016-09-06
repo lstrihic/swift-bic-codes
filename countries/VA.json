@@ -1,0 +1,37 @@
+{
+  "country_name": "Holy See",
+  "alpha_2": "VA",
+  "country_code": "336",
+  "banks": [
+    {
+      "bank_name": "Poste Vaticane",
+      "branches": [
+        {
+          "branch_name": "Poste Vaticane",
+          "city": "Citta Del",
+          "swift_code": "VATIVAV1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Istituto Per Le Opere Di Religione",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vatican City",
+          "swift_code": "IOPRVAVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Amministrazione Del Patrimonio Della Sede Apostolica",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "I-vatican City",
+          "swift_code": "APDEVAVAXXX"
+        }
+      ]
+    }
+  ]
+}

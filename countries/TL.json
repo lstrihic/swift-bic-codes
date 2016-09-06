@@ -1,0 +1,27 @@
+{
+  "country_name": "Timor-Leste",
+  "alpha_2": "TL",
+  "country_code": "626",
+  "banks": [
+    {
+      "bank_name": "Caixa Geral De Depositos, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dili",
+          "swift_code": "CGDITLDIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banking And Payments Authority Of East Timor",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dili",
+          "swift_code": "BCTLTLDIXXX"
+        }
+      ]
+    }
+  ]
+}

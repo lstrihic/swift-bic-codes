@@ -1,0 +1,302 @@
+{
+  "country_name": "Paraguay",
+  "alpha_2": "PY",
+  "country_code": "600",
+  "banks": [
+    {
+      "bank_name": "Vision Banco S.a.e.c.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "VISCPYPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Summa Asesories",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "SUMSPYP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sudameris Bank S.a.e.c.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "BSUDPYPXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank Paraguay S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "HSBCPYPXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fonplata-fondo Financiero Para El Desarollo De La Cuenca Del Plata",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "FOPLPYPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bolsa De Valores Y Productos De Asuncion S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "XVPAPYP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bolpar Sociedad Anonima",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "BOSNPYP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Regional S.a.e.c.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Encarnacion",
+          "swift_code": "RGSAPYPEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Paraguayo Oriental De Inversion Y Fomento S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "POIFPYP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Para La Comercializacion Y La Produccion Sociedad Anonima (bancop S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "BCOPPYPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Itau Paraguay S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "UBBRPYPXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Itapua Saeca",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Encarnacion",
+          "swift_code": "BISAPYPEXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco General S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "GENBPYP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional De Trabajadores",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "BNTRPYP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Desarrollo Del Paraguay S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "PADEPYP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Finamerica Saeca.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "BAFAPYP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Continental Saeca",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "BCNAPYPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Comercial Paraguayo Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "PCOMPYP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Central Del Paraguay",
+      "branches": [
+        {
+          "branch_name": "Aim-poms Service",
+          "city": "Asuncion",
+          "swift_code": "BCPAPYPBXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "BCPAPYPDXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "BCPAPYPRXXX"
+        },
+        {
+          "branch_name": "Operaciones Nacionales-dpto De Credito Y Ctas Ctes",
+          "city": "Asuncion",
+          "swift_code": "BCPAPYPXGON"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "BCPAPYPXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Atlas S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "BNITPYPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Corporacion S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "BBCNPYP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Busaif S.a. De Inversion Y Fomento",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "BOUIPYP1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Familiar S.a.e.c.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "FAMIPYPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Bilbao Vizcaya Argentaria Paraguay S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "BBVAPYPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Amambay S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "AMAMPYPAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional De Fomento",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "BNFAPYPAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Quito",
+          "swift_code": "BNFEECEQXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Inversiones Del Paraguay",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Asuncion",
+          "swift_code": "INVPPYP1XXX"
+        }
+      ]
+    }
+  ]
+}

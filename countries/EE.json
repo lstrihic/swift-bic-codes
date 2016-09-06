@@ -1,0 +1,327 @@
+{
+  "country_name": "Estonia",
+  "alpha_2": "EE",
+  "country_code": "233",
+  "banks": [
+    {
+      "bank_name": "Tallinn Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tallinn",
+          "swift_code": "XTALEE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scania Finans Ab Eesti Filial",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tallinn",
+          "swift_code": "SFEFEE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moneyexpress",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tallinn",
+          "swift_code": "MOEXEE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kit Finance Europe As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tallinn",
+          "swift_code": "AUASEE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gfc Good Finance Company As",
+      "branches": [
+        {
+          "branch_name": "Gfc Good Finance Company As",
+          "city": "Tallinn",
+          "swift_code": "GFCBEE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Folkia As Eesti Filiaal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tallinn",
+          "swift_code": "FOEFEE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Evli Securities As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tallinn",
+          "swift_code": "SUSCEE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Evli Bank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tallinn",
+          "swift_code": "EVSEEE21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Vilnius",
+          "swift_code": "EVSELT21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "EVSELV21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Estonian Csd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tallinn",
+          "swift_code": "ECSDEE2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Estonian Credit Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tallinn",
+          "swift_code": "EKRDEE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cresco Vaartpaberite As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tallinn",
+          "swift_code": "CRVTEE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "As Lohmus, Haavel And Viisemann",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tallinn",
+          "swift_code": "LHVBEE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "As Gild Financial Advisory Services",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tallinn",
+          "swift_code": "GFASEE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Allied Irish Banks P.l.c Estonian Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tallinn",
+          "swift_code": "AIEBEE21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Versobank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "SBMBEE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tallinna \u00c4ripanga",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "TABUEE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swedbank As",
+      "branches": [
+        {
+          "branch_name": "Hansa Asset Managment",
+          "city": "Tallinn",
+          "swift_code": "HABAEE2XHAM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tallinn",
+          "swift_code": "HABAEE2XXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Riga",
+          "swift_code": "HABALV22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sampo Pank (Danske Bank A/S Estonia Branch)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tallinn",
+          "swift_code": "FOREEE2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pohjola Bank Plc Estonian Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tallinn",
+          "swift_code": "OKOYEE2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Krediidipank",
+      "branches": [
+        {
+          "branch_name": "Krediidipank",
+          "city": null,
+          "swift_code": "EE100054325"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lhv Pank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "LHVBEE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nordea Bank Finland Plc Estonia Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tallinn",
+          "swift_code": "NDEAEE2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eesti Pank (Bank Of Estonia)",
+      "branches": [
+        {
+          "branch_name": "Eesti Pank (Bank Of Estonia)",
+          "city": "Tallinn",
+          "swift_code": "EPBEEE2XCCB"
+        },
+        {
+          "branch_name": "Mirror Technical Account",
+          "city": "Tallinn",
+          "swift_code": "EPBEEE2XCSD"
+        },
+        {
+          "branch_name": "Clearing Department",
+          "city": "Tallinn",
+          "swift_code": "EPBEEE2XERT"
+        },
+        {
+          "branch_name": "Esta",
+          "city": "Tallinn",
+          "swift_code": "EPBEEE2XRPS"
+        },
+        {
+          "branch_name": "Target 2",
+          "city": "Tallinn",
+          "swift_code": "EPBEEE2XTGT"
+        },
+        {
+          "branch_name": "Eesti Pank (Bank Of Estonia)",
+          "city": "Tallinn",
+          "swift_code": "EPBEEE2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citadele Pank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "PARXEE22XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bigbank As",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "BIGKEEB1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tallinn",
+          "swift_code": "BIGKEE2BXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "As Seb Pank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tallinn",
+          "swift_code": "EEUHEE2XXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aktsiaselts Dnb Pank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": null,
+          "swift_code": "RIKOEE22XXX"
+        }
+      ]
+    }
+  ]
+}

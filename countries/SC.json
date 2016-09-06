@@ -1,0 +1,87 @@
+{
+  "country_name": "Seychelles",
+  "alpha_2": "SC",
+  "country_code": "690",
+  "banks": [
+    {
+      "bank_name": "Seychelles Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Victoria",
+          "swift_code": "SEYSSCSCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rm International Holdings Ag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Providence",
+          "swift_code": "INHLSCS1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nouvobanq",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Victoria",
+          "swift_code": "NOVHSCSCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mauritius Commercial Bank (seychelles) Limited, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Victoria",
+          "swift_code": "MCBLSCSCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Seychelles",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Victoria",
+          "swift_code": "SSCBSCSCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bmi Offshore Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Providence Mahe",
+          "swift_code": "BMUSSCSCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Bank (seychelles) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Victoria",
+          "swift_code": "BARCSCSCXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Ceylon, Seychelles Branch",
+      "branches": [
+        {
+          "branch_name": "Bank Of Ceylon, Seychelles Branch",
+          "city": "Victoria",
+          "swift_code": "BCEYSCSCXXX"
+        }
+      ]
+    }
+  ]
+}

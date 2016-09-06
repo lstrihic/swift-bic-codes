@@ -1,0 +1,92 @@
+{
+  "country_name": "Kosovo (Republic Of)",
+  "alpha_2": "XX",
+  "country_code": "000",
+  "banks": [
+    {
+      "bank_name": "Turkiye Is Bankasi A.s.pristina Branch",
+      "branches": [
+        {
+          "branch_name": "Turkiye Is Bankasi A.s.pristina Branch",
+          "city": "Pristina",
+          "swift_code": "ISBKXKPRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Procredit Bank Kosovo (formerly Micro Enterprise Bank, Pristina, Kosovo",
+      "branches": [
+        {
+          "branch_name": "Procredit Bank Kosovo (formerly Micro Enterprise Bank, Pristina, Kosovo",
+          "city": "Pristina",
+          "swift_code": "MBKOXK21HDO"
+        },
+        {
+          "branch_name": "Procredit Bank Kosovo (formerly Micro Enterprise Bank, Pristina, Kosovo",
+          "city": "Pristina",
+          "swift_code": "MBKOXKPRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jugobanka, Jugobanka A.d. Kosovska Mitrovica",
+      "branches": [
+        {
+          "branch_name": "Jugobanka, Jugobanka A.d. Kosovska Mitrovica",
+          "city": "Kosovska Mitrovica",
+          "swift_code": "JJKMXK21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nlb Prishtina Sh.a.",
+      "branches": [
+        {
+          "branch_name": "Nlb Prishtina Sh.a.",
+          "city": "Pristina",
+          "swift_code": "NLPRXKPRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of The Republic Of Kosovo",
+      "branches": [
+        {
+          "branch_name": "Central Bank Of The Republic Of Kosovo",
+          "city": "Pristina",
+          "swift_code": "CBRKXKPRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banka Per Biznes Sh.a.",
+      "branches": [
+        {
+          "branch_name": "Banka Per Biznes Sh.a.",
+          "city": "Pristina",
+          "swift_code": "BPBXXKPRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banka Kombetare Tregtare Sh.a",
+      "branches": [
+        {
+          "branch_name": "Banka Kombetare Tregtare Sh.a",
+          "city": "Pristina",
+          "swift_code": "NCBAXKPRXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banka Ekonomike Sh.a",
+      "branches": [
+        {
+          "branch_name": "Banka Ekonomike Sh.a",
+          "city": "Pristina",
+          "swift_code": "EKOMXKP1XXX"
+        }
+      ]
+    }
+  ]
+}

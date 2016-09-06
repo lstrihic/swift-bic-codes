@@ -1,0 +1,27 @@
+{
+  "country_name": "Montserrat",
+  "alpha_2": "MS",
+  "country_code": "500",
+  "banks": [
+    {
+      "bank_name": "Government Of Montserrat",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Brades",
+          "swift_code": "GVMSMSMSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Montserrat Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. Peters",
+          "swift_code": "BKMOMSMSXXX"
+        }
+      ]
+    }
+  ]
+}

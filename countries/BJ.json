@@ -1,0 +1,132 @@
+{
+  "country_name": "Benin",
+  "alpha_2": "BJ",
+  "country_code": "204",
+  "banks": [
+    {
+      "bank_name": "Societe Generale De Banques Au Benin",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cotonou",
+          "swift_code": "SOGEBJBJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Orabank Benin",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cotonou",
+          "swift_code": "ORBKBJBJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Benin",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cotonou",
+          "swift_code": "ECOCBJBJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Diamond Bank Benin Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cotonou",
+          "swift_code": "DBLNBJBJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Depositaire Central-banque De Reglement (dcbr Benin",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cotonou",
+          "swift_code": "DCRDBJB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Continental Bank-benin",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cotonou",
+          "swift_code": "COBBBJBJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bgfibank Benin",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cotonou",
+          "swift_code": "BGFIBJBJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Sahelo-saharienne Pour L'investissement Et Le Commerce (benin) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cotonou",
+          "swift_code": "BSAHBJBJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Regionale De Solidarite-benin",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cotonou",
+          "swift_code": "BRSWBJBJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Internationale Du Benin",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cotonou",
+          "swift_code": "BIBEBJBJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Atlantique Du Benin",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cotonou",
+          "swift_code": "ATBJBJBJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Africa-benin",
+      "branches": [
+        {
+          "branch_name": "Cotonou",
+          "city": "Cotonou",
+          "swift_code": "AFRIBJB1BWB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Cotonou",
+          "swift_code": "AFRIBJBJXXX"
+        }
+      ]
+    }
+  ]
+}

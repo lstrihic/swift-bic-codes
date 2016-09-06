@@ -1,0 +1,77 @@
+{
+  "country_name": "Fiji",
+  "alpha_2": "FJ",
+  "country_code": "242",
+  "banks": [
+    {
+      "bank_name": "Reserve Bank Of Fiji",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Suva",
+          "swift_code": "RBFJFJFJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hfc Bank",
+      "branches": [
+        {
+          "branch_name": "Hfc Bank",
+          "city": "Suva",
+          "swift_code": "HFCLFJFJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fiji Development Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Suva",
+          "swift_code": "FDEVFJF1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Manufacturing Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Suva",
+          "swift_code": "BATSFJA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bred Bank (fiji) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Suva",
+          "swift_code": "BREDFJFJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of South Pacific Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Suva",
+          "swift_code": "BOSPFJFJXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Baroda, Suva Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Suva",
+          "swift_code": "BARBFJFJXXX"
+        }
+      ]
+    }
+  ]
+}

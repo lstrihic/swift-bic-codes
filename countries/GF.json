@@ -1,0 +1,27 @@
+{
+  "country_name": "French Guiana",
+  "alpha_2": "GF",
+  "country_code": "254",
+  "banks": [
+    {
+      "bank_name": "Banque Nationale De Paris Guyane",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cayenne",
+          "swift_code": "BNPAGFGXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Moderne Guyane",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Cayenne",
+          "swift_code": "CMOGGFG1XXX"
+        }
+      ]
+    }
+  ]
+}

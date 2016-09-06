@@ -1,0 +1,57 @@
+{
+  "country_name": "Grenada",
+  "alpha_2": "GD",
+  "country_code": "308",
+  "banks": [
+    {
+      "bank_name": "Sterling International Bank And Trust Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. George ' S",
+          "swift_code": "STLGGDG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Republic Bank Grenada Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. George ' S",
+          "swift_code": "NCBGGDGDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbtt Bank Grenada Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. George ' S",
+          "swift_code": "RBTTGDGDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Grenada Co-operative Bank Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. George ' S",
+          "swift_code": "GROAGDGDXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Government Of Grenada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St. George's",
+          "swift_code": "GVGDGDGDXXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "country_name": "Mozambique",
+  "alpha_2": "MZ",
+  "country_code": "508",
+  "banks": [
+    {
+      "bank_name": "Uba Mocambique,sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maputo",
+          "swift_code": "UNAFMZMAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moza Banco Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maputo",
+          "swift_code": "MOZAMZMAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Icb-banco Internacional De Comercio, S.a.r.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maputo",
+          "swift_code": "IBICMZMAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credicoop",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maputo",
+          "swift_code": "CRECMZM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Mauritius Commercial Bank (mocambique) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maputo",
+          "swift_code": "MCBLMZMAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Unico, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maputo",
+          "swift_code": "UNICMZMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Terra, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maputo",
+          "swift_code": "TERRMZMAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Bank Mocambique, S.a.",
+      "branches": [
+        {
+          "branch_name": "Beira",
+          "city": "Beira",
+          "swift_code": "ABMZMZM10MB"
+        },
+        {
+          "branch_name": "Nampula",
+          "city": "Nampula",
+          "swift_code": "ABMZMZM10MN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Maputo",
+          "swift_code": "ABMZMZMAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Procredit S.a.r.l.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maputo",
+          "swift_code": "PRCBMZMPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Nacional De Investimento, Sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maputo",
+          "swift_code": "BNIMMZMPXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Mercantil E De Investimentos",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maputo",
+          "swift_code": "MERVMZMAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco De Mocambique",
+      "branches": [
+        {
+          "branch_name": "Beira",
+          "city": "Beira",
+          "swift_code": "BMOCMZM10MB"
+        },
+        {
+          "branch_name": "Nampula",
+          "city": "Nampula",
+          "swift_code": "BMOCMZM10MN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Maputo",
+          "swift_code": "BMOCMZMAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Comercial E De Investimentos Sarl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maputo",
+          "swift_code": "CGDIMZMAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Internacional De Mocambique, S.a",
+      "branches": [
+        {
+          "branch_name": "Direccao Financeira",
+          "city": "Maputo",
+          "swift_code": "BIMOMZMXFIN"
+        },
+        {
+          "branch_name": "Direccao Internacional",
+          "city": "Maputo",
+          "swift_code": "BIMOMZMXINT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Maputo",
+          "swift_code": "BIMOMZMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "African Banking Corporation (mozambique) Sarl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maputo",
+          "swift_code": "FMBZMZMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Standard Bank Sarl",
+      "branches": [
+        {
+          "branch_name": "Beira",
+          "city": "Beira",
+          "swift_code": "SBICMZM10MB"
+        },
+        {
+          "branch_name": "Nampula",
+          "city": "Nampula",
+          "swift_code": "SBICMZM10MN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Maputo",
+          "swift_code": "SBICMZMXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Portugues Atlantico",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maputo",
+          "swift_code": "ILBKMZM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fnb Mozambique,sa",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Maputo",
+          "swift_code": "FIRNMZMXXXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1892 @@
+{
+  "country_name": "Hungary",
+  "alpha_2": "HU",
+  "country_code": "348",
+  "banks": [
+    {
+      "bank_name": "Wood And Company Tanacsado Rt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "WOODHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Uniqa Asset Management Company Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "UAMCHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tiszantuli Elsoe Hitelszoevetkezet",
+      "branches": [
+        {
+          "branch_name": "Tiszantuli Elsoe Hitelszoevetkezet",
+          "city": "Debrecen",
+          "swift_code": "TEHDHUH1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Debrecen",
+          "swift_code": "TEHDHUHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tiszafoeldvar Es Videke Takarekszoevetkezet",
+      "branches": [
+        {
+          "branch_name": "Tiszafoeldvar Es Videke Takarekszoevetkezet",
+          "city": "Tiszafoldvar",
+          "swift_code": "TISZHUH1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Tiszafoldvar",
+          "swift_code": "TISZHUHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Teszt Broker",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "TEBRHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Takarek Fund Management Plc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "TAFMHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Takarek Broker Rt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "TAKRHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Szegvar Es Videke Takarekszovetkezet",
+      "branches": [
+        {
+          "branch_name": "Szegvar Es Videke Takarekszovetkezet",
+          "city": "Szegvar",
+          "swift_code": "SZGTHUH1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Szegvar",
+          "swift_code": "SZGTHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Szechenyi Istvan Hitelszovetkezet",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Zalaegerszeg",
+          "swift_code": "SZIHHUH1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Zalaegerszeg",
+          "swift_code": "SZIHHUHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Szarvas Es Videke Koerzeti Takarekszoevetkezet",
+      "branches": [
+        {
+          "branch_name": "Szarvas Es Videke Koerzeti Takarekszoevetkezet",
+          "city": "Szarvas",
+          "swift_code": "SZTAHUH1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Szarvas",
+          "swift_code": "SZTAHUHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Swap Zrt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "SWZRHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Strategon Securities Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "STEEHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Spb Befektetesi Zrt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "SPBZHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Solar Capita Markets Zrt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "SCAZHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronics Hungrian",
+      "branches": [
+        {
+          "branch_name": "Seh",
+          "city": "Jaszfenyszaru",
+          "swift_code": "SECTHUH1490"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Jaszfenyszaru",
+          "swift_code": "SECTHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Realszisztema Securities Trading And Investments Ltd",
+      "branches": [
+        {
+          "branch_name": "Realszisztema Securities Trading And Investments Ltd",
+          "city": "Budapest",
+          "swift_code": "RSTIHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Realszisztema Investment Fund Management Company Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "RIFNHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Random Capital Zrt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "RACZHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hanwha Bank Hungary Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "KULBHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Granit Bank Zrt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "GNBAHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Giro Zrt.",
+      "branches": [
+        {
+          "branch_name": "Budapest",
+          "city": "Budapest",
+          "swift_code": "GHUNHUHBGIR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "GHUNHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fundamenta-Lakaskassza Lakastakarekpenztar Rt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "FLTPHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Foldhitel Es Jelzalogbank Rt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "FHJBHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fhb Kereskedelmi Bank Zrt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "FHKBHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Erste Bank Hungary Nyrt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "GIBAHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Europe Gmbh Hungary Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "DEUTHU2BXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Del-Dunantuli Regionalis Bank Zrt. (Siklos Es Videke Takarekszovetkezet)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Siklos",
+          "swift_code": "SIKLHUHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credigen Bank Zrt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "CRDGHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commerzbank (Budapest) Rt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "COBAHUHXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Europe Plc Hungarian Branch",
+      "branches": [
+        {
+          "branch_name": "Custody Department",
+          "city": "Budapest",
+          "swift_code": "CITIHUHXCUS"
+        },
+        {
+          "branch_name": "Trade Services Dept",
+          "city": "Budapest",
+          "swift_code": "CITIHUHXTRD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "CITIHUHXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cib Bank Ltd. (Formerly Central-European Int.Bank Ltd.)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "CIBHHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Budapest Bank Rt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "BUDAHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas, Hungary Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "BNPAHUHXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Securities Hungary Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "PARBHUHXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of China (Hungary) Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "BKCHHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banco Popolare Hungary Zrt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "INCNHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alsonemedi Es Videke Takarekszoevetkezet",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Alsonemedi",
+          "swift_code": "AVTEHUHAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Allamadossag Kezelo Kozpont Rt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "AKKHHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Raiffeisen Investment Fund Management Company Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "RIFMHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Magyar Paribas S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "PARBHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Generali Alapkezelo Zrt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "GEAZHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Budapest Investment Management Company Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "BIMCHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Porsche Bank Hungaria Zrt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "POHZHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Otp Mortgagebank Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "OTPJHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Otp Bank Plc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "OTPVHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oberbank Ag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "OBKLHUHBXXX"
+        },
+        {
+          "branch_name": "Debrecen",
+          "city": "Debrecen",
+          "swift_code": "OBKLHUHBDEB"
+        },
+        {
+          "branch_name": "Altheim",
+          "city": "Altheim",
+          "swift_code": "OBKLAT2LALH"
+        },
+        {
+          "branch_name": "Amstetten",
+          "city": "Amstetten",
+          "swift_code": "OBKLAT2LAMS"
+        },
+        {
+          "branch_name": "Attnang-puchheim",
+          "city": "Attnang-Puchheim",
+          "swift_code": "OBKLAT2LATP"
+        },
+        {
+          "branch_name": "Bad Aussee",
+          "city": "Bad Aussee",
+          "swift_code": "OBKLAT2LBDA"
+        },
+        {
+          "branch_name": "Bad Gastein",
+          "city": "Bad Gastein",
+          "swift_code": "OBKLAT2LBDG"
+        },
+        {
+          "branch_name": "Bad Ischl",
+          "city": "Bad Ischl",
+          "swift_code": "OBKLAT2LBDI"
+        },
+        {
+          "branch_name": "Bad Hofgastein",
+          "city": "Bad Hofgastein",
+          "swift_code": "OBKLAT2LBHG"
+        },
+        {
+          "branch_name": "Baden 2500",
+          "city": "Baden",
+          "swift_code": "OBKLAT2LBAD"
+        },
+        {
+          "branch_name": "Bischofshofen",
+          "city": "Bischofshofen",
+          "swift_code": "OBKLAT2LBIS"
+        },
+        {
+          "branch_name": "Braunau",
+          "city": "Braunau",
+          "swift_code": "OBKLAT2LBRA"
+        },
+        {
+          "branch_name": "Ebensee",
+          "city": "Ebensee",
+          "swift_code": "OBKLAT2LEBE"
+        },
+        {
+          "branch_name": "Eferding",
+          "city": "Eferding",
+          "swift_code": "OBKLAT2LEFE"
+        },
+        {
+          "branch_name": "Eisenstadt",
+          "city": "Eisenstadt",
+          "swift_code": "OBKLAT2LEIS"
+        },
+        {
+          "branch_name": "Enns",
+          "city": "Enns",
+          "swift_code": "OBKLAT2LENN"
+        },
+        {
+          "branch_name": "Frankenmarkt",
+          "city": "Frankenmarkt",
+          "swift_code": "OBKLAT2LFRA"
+        },
+        {
+          "branch_name": "Freistadt",
+          "city": "Freistadt",
+          "swift_code": "OBKLAT2LFRE"
+        },
+        {
+          "branch_name": "Gallneukirchen",
+          "city": "Gallneukirchen",
+          "swift_code": "OBKLAT2LGAL"
+        },
+        {
+          "branch_name": "Gmunden",
+          "city": "Gmunden",
+          "swift_code": "OBKLAT2LGMU"
+        },
+        {
+          "branch_name": "Grieskirchen",
+          "city": "Grieskirchen",
+          "swift_code": "OBKLAT2LGRI"
+        },
+        {
+          "branch_name": "Haid",
+          "city": "Haid",
+          "swift_code": "OBKLAT2LHAI"
+        },
+        {
+          "branch_name": "Schwanenstadt",
+          "city": "Schwanenstadt",
+          "swift_code": "OBKLAT2LSWA"
+        },
+        {
+          "branch_name": "Schwechat",
+          "city": "Schwechat",
+          "swift_code": "OBKLAT2LSWE"
+        },
+        {
+          "branch_name": "Seekirchen",
+          "city": "Seekirchen",
+          "swift_code": "OBKLAT2LSEK"
+        },
+        {
+          "branch_name": "St Poelten 3100",
+          "city": "St. Poelten",
+          "swift_code": "OBKLAT2LSTP"
+        },
+        {
+          "branch_name": "Steyr",
+          "city": "Steyr",
+          "swift_code": "OBKLAT2LSTE"
+        },
+        {
+          "branch_name": "Stockerau 2000",
+          "city": "Stockerau",
+          "swift_code": "OBKLAT2LSTO"
+        },
+        {
+          "branch_name": "Traun 4050",
+          "city": "Traun",
+          "swift_code": "OBKLAT2LSTM"
+        },
+        {
+          "branch_name": "Traun",
+          "city": "Traun",
+          "swift_code": "OBKLAT2LTRA"
+        },
+        {
+          "branch_name": "Tulln",
+          "city": "Tulln",
+          "swift_code": "OBKLAT2LTUL"
+        },
+        {
+          "branch_name": "Vienna 1030",
+          "city": "Vienna",
+          "swift_code": "OBKLAT2LWIE"
+        },
+        {
+          "branch_name": "Voecklabruck",
+          "city": "Voecklabruck",
+          "swift_code": "OBKLAT2LVOE"
+        },
+        {
+          "branch_name": "Waidhofen An Der Ybbs",
+          "city": "Waidhofen An Der Ybbs",
+          "swift_code": "OBKLAT2LWAI"
+        },
+        {
+          "branch_name": "Wels",
+          "city": "Wels",
+          "swift_code": "OBKLAT2LWEL"
+        },
+        {
+          "branch_name": "Wels 4600",
+          "city": "Wels",
+          "swift_code": "OBKLAT2LWLG"
+        },
+        {
+          "branch_name": "Wiener Neustadt",
+          "city": "Wiener Neustadt",
+          "swift_code": "OBKLAT2LWRN"
+        },
+        {
+          "branch_name": "Zwettl",
+          "city": "Zwettl",
+          "swift_code": "OBKLAT2LZWE"
+        },
+        {
+          "branch_name": "Hallein",
+          "city": "Hallein",
+          "swift_code": "OBKLAT2LHAN"
+        },
+        {
+          "branch_name": "Kirchdorf (krems)",
+          "city": "Kirchdorf (Krems)",
+          "swift_code": "OBKLAT2LKIR"
+        },
+        {
+          "branch_name": "Klosterneuburg",
+          "city": "Klosterneuburg",
+          "swift_code": "OBKLAT2LKLB"
+        },
+        {
+          "branch_name": "Krems (donau)",
+          "city": "Krems (Donau)",
+          "swift_code": "OBKLAT2LKRE"
+        },
+        {
+          "branch_name": "Kremsmuenster",
+          "city": "Kremsmuenster",
+          "swift_code": "OBKLAT2LKRM"
+        },
+        {
+          "branch_name": "Laakirchen",
+          "city": "Laakirchen",
+          "swift_code": "OBKLAT2LLAA"
+        },
+        {
+          "branch_name": "Lenzing",
+          "city": "Lenzing",
+          "swift_code": "OBKLAT2LLEN"
+        },
+        {
+          "branch_name": "Leonding",
+          "city": "Leonding",
+          "swift_code": "OBKLAT2LLOG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Linz",
+          "swift_code": "OBKLAT2LXXX"
+        },
+        {
+          "branch_name": "Marchtrenk",
+          "city": "Marchtrenk",
+          "swift_code": "OBKLAT2LMAR"
+        },
+        {
+          "branch_name": "Mattighofen",
+          "city": "Mattighofen",
+          "swift_code": "OBKLAT2LMAT"
+        },
+        {
+          "branch_name": "Moedling",
+          "city": "Moedling",
+          "swift_code": "OBKLAT2LMOE"
+        },
+        {
+          "branch_name": "Mondsee 5310",
+          "city": "Mondsee",
+          "swift_code": "OBKLAT2LMON"
+        },
+        {
+          "branch_name": "Ottensheim",
+          "city": "Ottensheim",
+          "swift_code": "OBKLAT2LOTT"
+        },
+        {
+          "branch_name": "Perg",
+          "city": "Perg",
+          "swift_code": "OBKLAT2LPER"
+        },
+        {
+          "branch_name": "Ried Im Innkreis",
+          "city": "Ried Im Innkreis",
+          "swift_code": "OBKLAT2LRIE"
+        },
+        {
+          "branch_name": "Rohrbach",
+          "city": "Rohrbach",
+          "swift_code": "OBKLAT2LROB"
+        },
+        {
+          "branch_name": "Saalfelden",
+          "city": "Saalfelden",
+          "swift_code": "OBKLAT2LSAA"
+        },
+        {
+          "branch_name": "Salzburg",
+          "city": "Salzburg",
+          "swift_code": "OBKLAT2LSAL"
+        },
+        {
+          "branch_name": "Schaerding",
+          "city": "Schaerding",
+          "swift_code": "OBKLAT2LSRD"
+        },
+        {
+          "branch_name": "Brno",
+          "city": "Brno",
+          "swift_code": "OBKLCZ2XBRN"
+        },
+        {
+          "branch_name": "38101 Cesky Krumlov",
+          "city": "Cesky Krumlov",
+          "swift_code": "OBKLCZ2XCKR"
+        },
+        {
+          "branch_name": "Hradec Kralove",
+          "city": "Hradec Kralove",
+          "swift_code": "OBKLCZ2XHRA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ceske Budejovice",
+          "swift_code": "OBKLCZ2XXXX"
+        },
+        {
+          "branch_name": "Kladno",
+          "city": "Kladno",
+          "swift_code": "OBKLCZ2XKLA"
+        },
+        {
+          "branch_name": "Mlada Boleslav",
+          "city": "Mlada Boleslav",
+          "swift_code": "OBKLCZ2XMLA"
+        },
+        {
+          "branch_name": "Opava",
+          "city": "Opava",
+          "swift_code": "OBKLCZ2XOPA"
+        },
+        {
+          "branch_name": "Ostrava",
+          "city": "Ostrava",
+          "swift_code": "OBKLCZ2XOST"
+        },
+        {
+          "branch_name": "Pardubice",
+          "city": "Pardubice",
+          "swift_code": "OBKLCZ2XPAR"
+        },
+        {
+          "branch_name": "39701 Pisek",
+          "city": "Pisek",
+          "swift_code": "OBKLCZ2XPIS"
+        },
+        {
+          "branch_name": "Plzen",
+          "city": "Plzen",
+          "swift_code": "OBKLCZ2XPLZ"
+        },
+        {
+          "branch_name": "Prague",
+          "city": "Prague",
+          "swift_code": "OBKLCZ2XPRA"
+        },
+        {
+          "branch_name": "Usti Nad Labem",
+          "city": "Usti Nad Labem",
+          "swift_code": "OBKLCZ2XUST"
+        },
+        {
+          "branch_name": "39001 Tabor",
+          "city": "Tabor",
+          "swift_code": "OBKLCZ2XTAB"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bratislava",
+          "swift_code": "OBKLSKBAXXX"
+        },
+        {
+          "branch_name": "Nitra",
+          "city": "Nitra",
+          "swift_code": "OBKLSKBANIT"
+        },
+        {
+          "branch_name": "Zilina",
+          "city": "Zilina",
+          "swift_code": "OBKLSKBAZIL"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mkb Bank Zrt (Formerly Magyar Kulkereskedelmi Bank Rt.)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "MKKBHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merkantil Valto Es Vagyonbefekteto Bank Rt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "MRKBHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Magyarorszagi Volksbank Rt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "MAVOHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Magyar Takarekszovetkezeti Bank Rt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "TAKBHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Magyar Posta Zrt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "HUPOHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Magyar Nemzeti Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "MANEHUHBXXX"
+        },
+        {
+          "branch_name": "Domestic Payment System",
+          "city": "Budapest",
+          "swift_code": "MANEHUHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Magyar Export Import Bank Zrt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "HEXIHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Magyar Cetelem Bank Zrt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "MCBHHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Magnet Bank Zrt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "HBWEHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kozponti Elszamolohaz Es Ertektar (Budapest), Zrt.",
+      "branches": [
+        {
+          "branch_name": "Viber Department",
+          "city": "Budapest",
+          "swift_code": "KELRHUHBABC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "KELRHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kdb Bank (Hungary) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "KODBHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "K And H Bank Zrt.(Formerly Kereskedelmi Es Hitelbank Rt)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "OKHBHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Bank N.V. Hungary Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "INGBHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hungarian State Treasury",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "HUSTHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hungarian Development Bank Plc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "HBIDHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hungarian Branch Office Of Axa Bank Europe Sa.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "EUDIHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Budapest Commodity Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "XBCEHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Budapest Alapkezelo Zrt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "BUAZHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Buda-cash Brokerhaz Zartkoruen Mukodo Reszvenytarsasag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "BBZMHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Dresdner Ertekpapir Rt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "BDEKHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Biztonsag Invest Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "BISIHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bankar Befektetesi Rt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "BABFHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banif Plus Bank Zrt. 5th Floor",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "BPZFHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Axa Magyarororszag Befektetesi Alapkezelo Zrt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "AMBLHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agrokont Zrt.",
+      "branches": [
+        {
+          "branch_name": "Management",
+          "city": "Budapest",
+          "swift_code": "AGZRHUH1MMD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "AGZRHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agrimpex Kft.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "AGKFHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Agribroker Kft.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "AGRFHUH1AAA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "AGRFHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aegon Magyarorszag Befektetesi Jegy Forgalmazo Zrt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "AMBJHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aegon Hungary Investment Fund Management Company Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "AHIFHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Access Investment Fund Management Company Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "AIFMHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "'europa' Investment Fund Management Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "EIFAHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Unicredit Bank Hungary Zrt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "BACXHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Szechenyi Kereskedelmi Bank Zrt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "SPEUHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sopron Bank Burgenland Zrt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Sopron",
+          "swift_code": "EHBBHUHSXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Raiffeisen Bank Zrt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "UBRTHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Futureal Investment Fund Management Company Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "FIFMHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fuezes Takarek Szovetkezeti Hitelintezet",
+      "branches": [
+        {
+          "branch_name": "Fuezes Takarek Szovetkezeti Hitelintezet",
+          "city": "Fuzesabony",
+          "swift_code": "FUVTHUH1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Fuzesabony",
+          "swift_code": "FUVTHUHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Erste Investment Fund Management Company Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "EIFMHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Erste Befektetesi Zrt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "ERSKHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Erste Bank Hungary Zrt",
+      "branches": [
+        {
+          "branch_name": "Custody Department",
+          "city": "Budapest",
+          "swift_code": "GIBAHUH1CUS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Equilor Investment Plc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "EQIEHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Eastbrokers",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "EASBHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dunakanyar Takarekszovetkezet",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dunabogdany",
+          "swift_code": "DUNAHUHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse-budapest",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "CSBUHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Asset Management Hungary Investment Fund Management Company Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "CSAGHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Concorde Investment Fund Management Company Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "CIUAHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Concorde Ertekpapir Ugynokseg Rt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "COEGHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Codex Ertektar Es Ertekpapir Zrt.",
+      "branches": [
+        {
+          "branch_name": "Securities Markets",
+          "city": "Budapest",
+          "swift_code": "CEEZHUH1SMK"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "CEEZHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cib Investment Fund Management Company Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "CINNHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cee Active Asset Management Zrt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "CCSNHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ce Central European Broker Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "CEBRHUH1001"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "CEBRHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cashline Ertekpapir Zartkoer En M Koed Reszvenytarsasag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "CLINHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ca Ib Investment Fund Management Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "IFMAHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Budapesti Ertekt Zsde Zartkoer En M Koed Reszvenytarsasag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "XBUDHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kormend Es Videke Takarekszovetkezet",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Kormend",
+          "swift_code": "KOVTHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kbc Securities N.v. Hungarian Branch Office",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "KBSEHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kbc Equitas Zrt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "KBEQHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "K And H Securities Investment Fund Management Company Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "SIFNHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "K And H Equities Tanacsado Zartkoer En M Koed Reszvenytarsasag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "AAHTHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Investment Fund Management Company Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "IIFMHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ing Baring Ertekpapir Rt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "IBARHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ikr-broker Tozsdeugynoki Kft.",
+      "branches": [
+        {
+          "branch_name": "Back Office",
+          "city": "Babolna",
+          "swift_code": "IKTKHUH1BKO"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Babolna",
+          "swift_code": "IKTKHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ie-new York Broker Befektetes Es Penzuegyi Koezvetit Zarkoer En M Koed Reszventytarsasag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "NYBBHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ie Investment Fund Management Company Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "IFMCHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hungarograin Zrt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "HUZRHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hungarian Registry",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "HRNWHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hungaria Order Kft",
+      "branches": [
+        {
+          "branch_name": "Commodities",
+          "city": "Budapest",
+          "swift_code": "HUOKHUH1MMD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "HUOKHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hataridos Tozsdeipar Kft.",
+      "branches": [
+        {
+          "branch_name": "Bekescsaba",
+          "city": "Bekescsaba",
+          "swift_code": "HATKHUH1HA1"
+        },
+        {
+          "branch_name": "Money Markets And Derivatives",
+          "city": "Bekescsaba",
+          "swift_code": "HATKHUH1MMD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bekescsaba",
+          "swift_code": "HATKHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hamilton Zrt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "HAMZHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hajdudorog Es Videke Takarekszoevetkezet",
+      "branches": [
+        {
+          "branch_name": "Hajdudorog Es Videke Takarekszoevetkezet",
+          "city": "Hajdudorog",
+          "swift_code": "HAVTHUH1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Hajdudorog",
+          "swift_code": "HAVTHUHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gog Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "GOSCHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Glencore Grain Hungary Kft.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "GGHKHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Generali Investment Fund Management Company Ltd.",
+      "branches": [
+        {
+          "branch_name": "All Branches",
+          "city": "Budapest",
+          "swift_code": "GIFGHUH1ALL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "GIFGHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Raiffeisen Gazdasagi Szolgaltato Zartkoer En M Koed Reszventytarsasag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "REBKHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Quote Mtf Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budaors",
+          "swift_code": "QUMTHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Quantis Alpha Befektetesi Zrt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "QAWMHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Quaestor Penzuegyi Tanacsado Zartkoer En M Koed Reszvenytarsasag",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "WEIVHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Quaestor Investment Fund Management Company Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "QIFMHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Quaestor Ertekpapir Nyrt.",
+      "branches": [
+        {
+          "branch_name": "Budapest",
+          "city": "Budapest",
+          "swift_code": "QUENHUH1STY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "QUENHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prudent-invest Investment Fund Management Company Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "PIFMHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Planinvest Broker Zrt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Keszthely",
+          "swift_code": "PLBZHU21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pilisvoeroesvar Es Videke Takarekszoevetkezet",
+      "branches": [
+        {
+          "branch_name": "Pilisvoeroesvar Es Videke Takarekszoevetkezet",
+          "city": "Pilisvorosvar",
+          "swift_code": "PVVTHUH1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Pilisvorosvar",
+          "swift_code": "PVVTHUHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Otp Real Estate Investment Fund Management Company Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "OREIHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Otp Investment Fund Management Company Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "OIFMHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Otp Ertekpapir Rt",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "OTPEHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Oerkenyi Takarekszoevetkezet",
+      "branches": [
+        {
+          "branch_name": "Oerkenyi Takarekszoevetkezet",
+          "city": "Orkeny",
+          "swift_code": "ORTAHUH1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Orkeny",
+          "swift_code": "ORTAHUHHXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "O.f.sz. Orszagos Fizetesi Szolgaltato Zartkoruen Mukodo Reszvenytarsasag",
+      "branches": [
+        {
+          "branch_name": "O.f.sz. Orszagos Fizetesi Szolgaltato Zartkoruen Mukodo Reszvenytarsasag",
+          "city": "Budapest",
+          "swift_code": "OFSZHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nomura Securities Hungary Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "NOMSHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mkb Investment Fund Management Company Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "MIFNHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merlito Zrt.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Budapest",
+          "swift_code": "MRZRHUH1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mecsekvideke Takarekszoevetkezet Mecseknadasd",
+      "branches": [
+        {
+          "branch_name": "Mecsekvideke Takarekszoevetkezet Mecseknadasd",
+          "city": "Mecseknadasd",
+          "swift_code": "MEVIHUH1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Mecseknadasd",
+          "swift_code": "MEVIHUHBXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mecsekkornyek Hitelszovetkezet",
+      "branches": [
+        {
+          "branch_name": "Mecsekkornyek Hitelszovetkezet",
+          "city": "Pecs",
+          "swift_code": "MEHIHUH1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Pecs",
+          "swift_code": "MEHIHUHHXXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4537 @@
+{
+  "country_name": "Canada",
+  "alpha_2": "CA",
+  "country_code": "124",
+  "banks": [
+    {
+      "bank_name": "Montreal Exchange The/bourse De Montreal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "XMOOCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Leith Wheeler Investment Counsel Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "LWICCA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Huronia Trust Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Orillia",
+          "swift_code": "HUCTCA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Trust Company (canada",
+      "branches": [
+        {
+          "branch_name": "Ottawa K1p 6l2",
+          "city": "Ottawa",
+          "swift_code": "METCCAT1022"
+        },
+        {
+          "branch_name": "Halifax B3l 4p8",
+          "city": "Halifax",
+          "swift_code": "METCCAT102H"
+        },
+        {
+          "branch_name": "Edmonton T5j 3n6",
+          "city": "Edmonton",
+          "swift_code": "METCCAT106E"
+        },
+        {
+          "branch_name": "Vancouver V6c 2t6",
+          "city": "Vancouver",
+          "swift_code": "METCCAT108V"
+        },
+        {
+          "branch_name": "Montreal H3a 1t5",
+          "city": "Montreal",
+          "swift_code": "METCCAT10MM"
+        },
+        {
+          "branch_name": "Toronto",
+          "city": "Toronto",
+          "swift_code": "METCCAT1GWM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "METCCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Securities (canada) Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "HJCCCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Capital (canada) Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "WRCICA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Howson Tattersall Investment Counsel",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "HTICCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hewlett-packard (canada) Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mississauga",
+          "swift_code": "HECDCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Haywood Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "HASRCA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hamblin, Watsa Investment Counsel Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "HWICCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Griffiths Mcburney And Partners",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "GRMPCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Greystone Managed Investments Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Regina",
+          "swift_code": "GRMNCA51XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Grey Horse Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "GHCACAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Greenline Investor Services",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "GRISCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Great Pacific Management Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "GPMACA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gordon Capital Corporation",
+      "branches": [
+        {
+          "branch_name": "Toronto M5k 1e7",
+          "city": "Toronto",
+          "swift_code": "GOCCCAM10TT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "GOCCCAM1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "GOCCGB21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Goldman Sachs Canada Inc.",
+      "branches": [
+        {
+          "branch_name": "Gs And Co-gs International Clearance Department",
+          "city": "Toronto",
+          "swift_code": "GSLTCAT10GS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "GSLTCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wells Fargo Bank, N. A. Canadian Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "PNBPCATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wellington West Capital Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Winnipeg",
+          "swift_code": "WLWECA41XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wealhouse Capital Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "WECTCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "W.d. Latimer Co. Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "LATLCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vw Group Canada",
+      "branches": [
+        {
+          "branch_name": "Vw Group Canada",
+          "city": "Ontario",
+          "swift_code": "GRCDCA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vw Credit Canada",
+      "branches": [
+        {
+          "branch_name": "Vw Credit Canada",
+          "city": "Saint-laurent, Quebec",
+          "swift_code": "CRNDCA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Versus Brokerage Services",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "VERBCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Vancouver Stock Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "XVSECA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Valeurs Mobilieres Dubeau Ltee.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quebec",
+          "swift_code": "VMDUCAQ1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Valeurs Mobilieres Desjardins Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "VAMDCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Union Securities Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "UNSRCA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Securities Canada Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "BUNWCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tullett Prebon Canada Limited",
+      "branches": [
+        {
+          "branch_name": "Tullett Prebon Canada Limited",
+          "city": "Toronto",
+          "swift_code": "TPCACAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tsx Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "XTSECAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trust General Du Canada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "TGCACAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tristone Capital Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Calgary",
+          "swift_code": "TRPLCA61XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Trilon Securities Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "TRLSCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Toronto Options Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "XTOECAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yorkton Securities, Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "YKSECAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yorkton Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "YKSECA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Yamaichi International (can",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "YINCCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "World Wide Payments On Demand",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "WWPDCA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Wolverton Securities Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "WLVSCA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Toronto Futures Exchange",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "XTFECAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Toronto Dominion Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "TDSECAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Golden Capital Securities Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "GLCSCA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gluskin Sheff And Associates Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "GLSACAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Global Securities Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "GSECCA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ghs Securities Canada Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Calgary",
+          "swift_code": "GHSCCA61XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Gestion De Placements Helene Dion Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "GPHDCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Leede Financial Markets Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Calgary",
+          "swift_code": "RPSICA61XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Laurentian Bank Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "BLCSCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lallemand Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "LALLCAMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jones, Gable And Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "JGCLCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jennings Capital Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "JECACAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kash Mart Financial Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "KAMFCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.d. Mack Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Halifax",
+          "swift_code": "JDMACA91XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J. Pasztor And Associates Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "JPSACAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Itg Canada Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "ITGCCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ipo Capital Corp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "IPCCCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investpro Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "INVTCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Discovery Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Edmonton",
+          "swift_code": "INDYCA61XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Zagreb",
+          "swift_code": "IDISHR21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "International Air Transport Association",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "IATACAMMXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "IATACAM1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Geneva",
+          "swift_code": "IATACHG1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Instinet Canada Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "INCDCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Instantlink",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "INLKCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial Alliance Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quebec",
+          "swift_code": "LAHPCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ice Clear Canada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Winnipeg",
+          "swift_code": "XWCECA4WXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hydro-quebec Pension Fund",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "HQPFCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hydro-quebec",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "HQQCCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Montreal Exchange The / Bourse De Montreal",
+      "branches": [
+        {
+          "branch_name": "Options And Other Derivative Products",
+          "city": "Montreal",
+          "swift_code": "XMOOCAM1ODP"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mf Global Canada Co.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "RFFUCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch Canada Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "MLYCCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merit Investment Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "MINCCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meridian Securities International Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "MESICAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Meridian Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "St",
+          "swift_code": "MRCUCA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mcdermid St. Lawrence Chisholm Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "MALHCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Marleau Lemire Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "MALECAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Manulife Financial Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "MFCTCATTXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "MFCTCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Manulife Bank Of Canada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Waterloo",
+          "swift_code": "MCBTCA2WXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maison Placements Canada Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "MAIPCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maison Placements Ca Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "MAPCCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mackenzie Financial Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "MAFCCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Macdougall, Meyer Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "MCMYCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Macdougall, Macdougall And Mactier Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "MCMCCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "M. Cousineau And Associes Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Laval",
+          "swift_code": "MCOACAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Loewen, Ondaatje, Mccutcheon",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "LWOHCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Liquidnet Canada Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "LICDCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Levesque Beaubien Geoffrion Inc.",
+      "branches": [
+        {
+          "branch_name": "Toronto M5h 3t9",
+          "city": "Toronto",
+          "swift_code": "LBGECAM10TT"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pershing Securities Canada Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Saint John",
+          "swift_code": "PRSHCA91XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Penson Financial Services Canada Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "PFSICAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Penson Financial Services Canada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "PFSICAT1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "PFSICATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Paysystems Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "PAYSCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Paradigm Capital Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "PARDCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pacnet Services Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "PNSVCA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ontario Teachers' Pension Plan Board",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "OTPBCA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Omni Capital Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "OMNICAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Odlum Brown Limited",
+      "branches": [
+        {
+          "branch_name": "Toronto M5c 1b5",
+          "city": "Toronto",
+          "swift_code": "ODLUCA810TT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "ODLUCA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Octagon Capital Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "OCCCCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Northland Capital Partners Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "NOAPCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Norstar Securities International Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "NOSICAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nomura Canada Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto M5x1000",
+          "swift_code": "NMUCCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nikko Securities Co. Cda, Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "NKSCCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nike Canada Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Thornhill",
+          "swift_code": "NIKECA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Newfoundland Capital Corporation Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dartmouth",
+          "swift_code": "NECCCA91XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Nbc Clearing Services Incorporated",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "LBGECAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mutual Trust Company, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "MCOTCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mulvihill Capital Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "MUCGCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Moody's Canada Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "MODDCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Toron Capital Markets Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "TOCRCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sprung And Co. Investment Counsel Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "SPIUCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Resolution Capital Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "MNTBCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Research Capital Corporation",
+      "branches": [
+        {
+          "branch_name": "Foreign Settlements Department",
+          "city": "Toronto",
+          "swift_code": "RECCCAT1SET"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "RECCCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbcroyal-bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "RBCRCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbc Investor Services Trust",
+      "branches": [
+        {
+          "branch_name": "Cross Border Settlement",
+          "city": "Toronto",
+          "swift_code": "ROTRCAT1CRB"
+        },
+        {
+          "branch_name": "Physical Settlement",
+          "city": "Toronto",
+          "swift_code": "ROTRCAT1PYS"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbc Dominion Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "RBDSCAT1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Lausanne",
+          "swift_code": "RBDSCH21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "RBCDGB21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbc Dominion Securities Capital Markets",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "RBDSCAW1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbc Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "RBAACAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Raymond James Ltd.",
+      "branches": [
+        {
+          "branch_name": "Toronto",
+          "city": "Toronto",
+          "swift_code": "RJAMCA81TOR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "RJAMCA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rabobank Nederland, Canadian Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "RABOCATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "R.j. Beatty Financial Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "RJBFCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Questrade Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "QUERCA21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "QUERCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pro-genesis Securities Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "PGNSCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Presima Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "PESMCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Prebon Yamane (canada) Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "PYCLCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pope And Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "PPECCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pollitt And Co. Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "POLLCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Placements La Laurentienne Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "PLALCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Picton Mahoney Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "PIMHCA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pi Financial Corp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "PISICA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Peters And Co. Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Calgary",
+          "swift_code": "PTCOCA61XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sprott Asset Management Lp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto Ontario",
+          "swift_code": "SRAMCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Solium Capital Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Calgary",
+          "swift_code": "SOALCA61XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale Valeurs Mobilieres Inc.",
+      "branches": [
+        {
+          "branch_name": "Societe Generale Valeurs Mobilieres Inc.",
+          "city": "Montreal",
+          "swift_code": "SGVMCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sionna Investment Managers Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "SIIMCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sectoral Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "SATMCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scotia Capital Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "SCAMCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sceptre Investment Counsel Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "SCPTCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Savings And Investment Trust",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "SAVICAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sanwa Mccarthy Securities Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "SWNLCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sanwa Bank Canada",
+      "branches": [
+        {
+          "branch_name": "Vancouver V6b 4nb",
+          "city": "Vancouver",
+          "swift_code": "SANCCAT108V"
+        },
+        {
+          "branch_name": "Sanwa Bank Canada",
+          "city": "Toronto",
+          "swift_code": "SANCCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sanders Wealth Management Group Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Edmonton",
+          "swift_code": "SBESCA61XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Samsung Electronics Canada, Inc.",
+      "branches": [
+        {
+          "branch_name": "Seca",
+          "city": "Mississauga",
+          "swift_code": "SECTCAT1330"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Mississauga",
+          "swift_code": "SECTCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Salomon Brothers Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "SBNYCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Salman Partners Inc.",
+      "branches": [
+        {
+          "branch_name": "Toronto M5c1t4",
+          "city": "Toronto",
+          "swift_code": "SAPRCA81TOR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "SAPRCA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sakura Bank (canada",
+      "branches": [
+        {
+          "branch_name": "Toronto M5l 1b9",
+          "city": "Toronto",
+          "swift_code": "MITKCA810TT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "MITKCA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Royal Bank Action Direct Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "RBITCAR1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Robert Caldwell Capital Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "RCCCCAK1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ridgewood Capital Asset Management Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "RCAACAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Richardson Greenshields Of Canada",
+      "branches": [
+        {
+          "branch_name": "Toronto M5h 1t8",
+          "city": "Toronto",
+          "swift_code": "RIGRCAM10TT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "RIGRCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Timbercreek Asst Management Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto Ontario",
+          "swift_code": "TIAGCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Thomson Kernaghan And Co. Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "THOKCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Royal Bank Of Scotland Plc Canada (formerly Known As Rbs Nv",
+      "branches": [
+        {
+          "branch_name": "Montreal",
+          "city": "Montreal",
+          "swift_code": "ABNACAT10MM"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Royal Bank Of Scotland Plc Canada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "RBOSCATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Canadian Depository For Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "CADSCA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Td Pd Clearing",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "CLENCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Td Ms Clearing",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "CLERCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Td Evergreen Investment Services Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "TDEICAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Td Custody, C And Is",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "CUSOCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Taurus Capital Markets, Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "TCAPCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sun Life Financial Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "SULFCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sun Life Assurance Co Of Canada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "SLADCA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stuart Investment Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "STUICAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stifel Nicolaus Canada Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "WBASCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Street Bank And Trust Co., Canada Branch",
+      "branches": [
+        {
+          "branch_name": "Canada Settlements",
+          "city": "Toronto",
+          "swift_code": "SBOSCAA1STB"
+        },
+        {
+          "branch_name": "Canada Settlements",
+          "city": "Toronto",
+          "swift_code": "SBOSCAA1STE"
+        },
+        {
+          "branch_name": "Canada Settlements",
+          "city": "Toronto",
+          "swift_code": "SBOSCAA1STI"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "SBOSCAA1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Stanton Asset Management Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "STTNCAM1XXX"
+        },
+        {
+          "branch_name": "Aim-poms Service",
+          "city": "Montreal",
+          "swift_code": "STTNCAM2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "St. Stanislaus-st. Casimir's Polish Parishes Credit Union Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "SCPCCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ssq, Societe D'assurance-vie Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quebec",
+          "swift_code": "SSQSCA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ss And C",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mississauga",
+          "swift_code": "SANECAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Georgia Pacific Securities Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "GEPSCA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Genus Capital Management Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "GCMICA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Genuity Capital Markets",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "GECRCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fundsserv Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "FSRVCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Freedom International Brokerage Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "FRDMCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fraser Mackenzie Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "FRMCCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Foyston, Gordon And Payne Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "FOGYCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Formula Growth Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "FOGOCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Firstenergy Capital Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Calgary",
+          "swift_code": "FENGCA61XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First City Capital Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "CCAFCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Canada Securities Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "FCSCCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Associates Investments Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "FAIICAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fiducie Desjardins",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "FIDDCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Fidelity Clearing Canada, Ulc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "FCCLCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Federation Des Caisses Populaires Du Manitoba",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Winnipeg",
+          "swift_code": "FCPMCA41XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Federation De Caisses Populaires Desjardins De Montreal",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "FCPOCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Family Trust Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Markham",
+          "swift_code": "FACTCA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Expertus Technologies Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "EXTCCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Euro Pacific Canada Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "EUPCCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Equity Financial Fx Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "EQFXCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Canada",
+      "branches": [
+        {
+          "branch_name": "Citt",
+          "city": "Toronto",
+          "swift_code": "CITICATT615"
+        },
+        {
+          "branch_name": "Citn",
+          "city": "Toronto",
+          "swift_code": "CITICATT617"
+        },
+        {
+          "branch_name": "Securities Services Department",
+          "city": "Toronto",
+          "swift_code": "CITICATT623"
+        },
+        {
+          "branch_name": "Citibank Na Canadian Branch",
+          "city": "Toronto",
+          "swift_code": "CITICATTBCH"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "CITICATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citco Bank Canada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "CITCCATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central 1 Credit Union",
+      "branches": [
+        {
+          "branch_name": "Alberta Payments Services",
+          "city": "Calgary",
+          "swift_code": "CUCXCATTCAL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Mississauga",
+          "swift_code": "CUCXCATTXXX"
+        },
+        {
+          "branch_name": "Saskatchewan Payment Services",
+          "city": "Regina",
+          "swift_code": "CUCXCATTREG"
+        },
+        {
+          "branch_name": "Investment Department",
+          "city": "Toronto",
+          "swift_code": "CUCXCATTINV"
+        },
+        {
+          "branch_name": "Central 1 Credit Union Ontario Payment Services",
+          "city": "Toronto",
+          "swift_code": "CUCXCATTONT"
+        },
+        {
+          "branch_name": "Central 1 Credit Union Bc Payment Services",
+          "city": "Vancouver",
+          "swift_code": "CUCXCATTVAN"
+        },
+        {
+          "branch_name": "Manitoba Payments Services",
+          "city": "Winnipeg",
+          "swift_code": "CUCXCATTWPG"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cds Clearing And Depository Services Inc.",
+      "branches": [
+        {
+          "branch_name": "Toronto",
+          "city": "Toronto",
+          "swift_code": "CDSLCATTSMD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "CDSLCATTXXX"
+        },
+        {
+          "branch_name": "Calgary T2p 3h2",
+          "city": "Calgary",
+          "swift_code": "CDSLCAT106C"
+        },
+        {
+          "branch_name": "Vancouver V6c 1e5",
+          "city": "Vancouver",
+          "swift_code": "CDSLCAT108V"
+        },
+        {
+          "branch_name": "Montreal H3a 3j2",
+          "city": "Montreal",
+          "swift_code": "CDSLCAT10MM"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cds Clearing And Depository",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "CDSLCAT2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Canada Pension Plan Investment Board",
+      "branches": [
+        {
+          "branch_name": "Aim-poms Service",
+          "city": "Toronto",
+          "swift_code": "CPPBCATAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "CPPBCATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cambridge Mercantile Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "CMFXCATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caisse Centrale Desjardins",
+      "branches": [
+        {
+          "branch_name": "Treasury And International Money Markets",
+          "city": "Montreal",
+          "swift_code": "CCDQCAMMIMM"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "CCDQCAMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brockhouse And Cooper Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "BRCOCAMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bombardier Inc.",
+      "branches": [
+        {
+          "branch_name": "Bombardier Transportation",
+          "city": "Montreal",
+          "swift_code": "BIHOCAMMBTG"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "BIHOCAMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas Canada, Montreal",
+      "branches": [
+        {
+          "branch_name": "Montreal Branch",
+          "city": "Montreal",
+          "swift_code": "BNPACAMMXXX"
+        },
+        {
+          "branch_name": "Toronto Branch",
+          "city": "Toronto",
+          "swift_code": "BNPACAMMTTT"
+        },
+        {
+          "branch_name": "Vancouver Branch",
+          "city": "Vancouver",
+          "swift_code": "BNPACAMMVVV"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Nationale Du Canada",
+      "branches": [
+        {
+          "branch_name": "Treasury Department",
+          "city": "Montreal",
+          "swift_code": "BNDCCAMMIMM"
+        },
+        {
+          "branch_name": "International Department",
+          "city": "Montreal",
+          "swift_code": "BNDCCAMMINT"
+        },
+        {
+          "branch_name": "Securities",
+          "city": "Montreal",
+          "swift_code": "BNDCCAMMVAL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "BNDCCAMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Tokyo-Mitsubishi Ufj (Canada)",
+      "branches": [
+        {
+          "branch_name": "Toronto Head Office",
+          "city": "Toronto",
+          "swift_code": "BOTKCATXXXX"
+        },
+        {
+          "branch_name": "Vancouver Office",
+          "city": "Vancouver",
+          "swift_code": "BOTKCATXVCR"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Nova Scotia",
+      "branches": [
+        {
+          "branch_name": "Calgary",
+          "city": "Calgary",
+          "swift_code": "NOSCCATTCGY"
+        },
+        {
+          "branch_name": "Halifax",
+          "city": "Halifax",
+          "swift_code": "NOSCCATTHFX"
+        },
+        {
+          "branch_name": "Montreal",
+          "city": "Montreal",
+          "swift_code": "NOSCCATTMTL"
+        },
+        {
+          "branch_name": "Ottawa",
+          "city": "Ottawa",
+          "swift_code": "NOSCCATTOTT"
+        },
+        {
+          "branch_name": "Saskatoon",
+          "city": "Saskatoon",
+          "swift_code": "NOSCCATTSKN"
+        },
+        {
+          "branch_name": "Toronto",
+          "city": "Toronto",
+          "swift_code": "NOSCCATMCMS"
+        },
+        {
+          "branch_name": "Toronto",
+          "city": "Toronto",
+          "swift_code": "NOSCCATMGTB"
+        },
+        {
+          "branch_name": "Securities",
+          "city": "Toronto",
+          "swift_code": "NOSCCATMSEC"
+        },
+        {
+          "branch_name": "Balance Sheet Management",
+          "city": "Toronto",
+          "swift_code": "NOSCCATTBSM"
+        },
+        {
+          "branch_name": "Continuous Link Settlement",
+          "city": "Toronto",
+          "swift_code": "NOSCCATTCLS"
+        },
+        {
+          "branch_name": "Collection Department",
+          "city": "Toronto",
+          "swift_code": "NOSCCATTCOL"
+        },
+        {
+          "branch_name": "Cdn Short Term Funding",
+          "city": "Toronto",
+          "swift_code": "NOSCCATTCST"
+        },
+        {
+          "branch_name": "Toronto",
+          "city": "Toronto",
+          "swift_code": "NOSCCATTFXA"
+        },
+        {
+          "branch_name": "Tor Shorttermfunding",
+          "city": "Toronto",
+          "swift_code": "NOSCCATTSTF"
+        },
+        {
+          "branch_name": "Term Funding And Securitization",
+          "city": "Toronto",
+          "swift_code": "NOSCCATTTFS"
+        },
+        {
+          "branch_name": "Toronto M5h 1h1",
+          "city": "Toronto",
+          "swift_code": "NOSCCATTTOR"
+        },
+        {
+          "branch_name": "All Offices In Canada",
+          "city": "Toronto",
+          "swift_code": "NOSCCATTXXX"
+        },
+        {
+          "branch_name": "Vancouver",
+          "city": "Vancouver",
+          "swift_code": "NOSCCATTVCR"
+        },
+        {
+          "branch_name": "Winnipeg",
+          "city": "Winnipeg",
+          "swift_code": "NOSCCATTWPG"
+        },
+        {
+          "branch_name": "Wealth Mgmt",
+          "city": "Toronto",
+          "swift_code": "NOSCCATMWM1"
+        },
+        {
+          "branch_name": "Calgary",
+          "city": "Calgary",
+          "swift_code": "NOSCCATTTPC"
+        },
+        {
+          "branch_name": "Toronto",
+          "city": "Toronto",
+          "swift_code": "NOSCCATTTPG"
+        },
+        {
+          "branch_name": "Montreal",
+          "city": "Montreal",
+          "swift_code": "NOSCCATTTPM"
+        },
+        {
+          "branch_name": "Toronto",
+          "city": "Toronto",
+          "swift_code": "NOSCCATTTPT"
+        },
+        {
+          "branch_name": "Vancouver",
+          "city": "Vancouver",
+          "swift_code": "NOSCCATTTPV"
+        },
+        {
+          "branch_name": "Winnipeg",
+          "city": "Winnipeg",
+          "swift_code": "NOSCCATTTPW"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Georgetown",
+          "swift_code": "NOSCKYKGXXX"
+        },
+        {
+          "branch_name": "New York Ny",
+          "city": "New York,Ny",
+          "swift_code": "NOSCUS33GSL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "New York,Ny",
+          "swift_code": "NOSCUS33XXX"
+        },
+        {
+          "branch_name": "Boston Ma 02110-1800",
+          "city": "Boston",
+          "swift_code": "NOSCUS3103B"
+        },
+        {
+          "branch_name": "Portland Branch",
+          "city": "Portland",
+          "swift_code": "NOSCUS3106P"
+        },
+        {
+          "branch_name": "New York Ny",
+          "city": "New York",
+          "swift_code": "NOSCUS33TPS"
+        },
+        {
+          "branch_name": "Scotiamocatta",
+          "city": "London",
+          "swift_code": "NOSCGB22MOC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "NOSCGB22XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Dubai",
+          "swift_code": "NOSCAEADXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Montreal, The",
+      "branches": [
+        {
+          "branch_name": "International Branch",
+          "city": "Montreal",
+          "swift_code": "BOFMCAM2XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "BOFMCAM3XXX"
+        },
+        {
+          "branch_name": "Bmo Nesbitt Burns",
+          "city": "Toronto",
+          "swift_code": "BOFMCAM2NBB"
+        },
+        {
+          "branch_name": "Bmo-brokers",
+          "city": "Toronto",
+          "swift_code": "BOFMCAT2BMO"
+        },
+        {
+          "branch_name": "Cls Payments Only",
+          "city": "Toronto",
+          "swift_code": "BOFMCAT2CLS"
+        },
+        {
+          "branch_name": "Foreign Exchange And Money Market",
+          "city": "Toronto",
+          "swift_code": "BOFMCAT2FXM"
+        },
+        {
+          "branch_name": "International Branch",
+          "city": "Toronto",
+          "swift_code": "BOFMCAT2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of China (Canada)",
+      "branches": [
+        {
+          "branch_name": "Chinatown Branch",
+          "city": "Toronto",
+          "swift_code": "BKCHCATTCTX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "BKCHCATTXXX"
+        },
+        {
+          "branch_name": "Vancouver Branch",
+          "city": "Vancouver",
+          "swift_code": "BKCHCATTVAN"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Canada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ottawa",
+          "swift_code": "BCANCAW2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of America, National Association, Canada Branch",
+      "branches": [
+        {
+          "branch_name": "Foreign Currency Services",
+          "city": "Toronto",
+          "swift_code": "BOFACATTFCS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "BOFACATTXXX"
+        },
+        {
+          "branch_name": "Vancouver",
+          "city": "Vancouver",
+          "swift_code": "BOFACATTVAN"
+        },
+        {
+          "branch_name": "Global Derivatives And Foreign Exchange",
+          "city": "Toronto",
+          "swift_code": "BOFACATTGRC"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alberta Treasury Branches",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Edmonton",
+          "swift_code": "ATBRCA6EXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Entermoney Exchange (enmonex) Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "EEECCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Commission Direct Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "CHDICAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caisse Populaire",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Dieppe",
+          "swift_code": "CAUOCA91XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Beacon Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Halifax",
+          "swift_code": "BEAOCA91XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "United Overseas Bank Limited Vancouver Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "UOVBCA8VXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pictet Overseas Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "PICTCAM2XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "J.P. Morgan Securities Canada Inc.",
+      "branches": [
+        {
+          "branch_name": "Test Key And Bke Administration",
+          "city": "Toronto",
+          "swift_code": "JPMSCATTKEY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "JPMSCATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Investors Group Financial Services",
+      "branches": [
+        {
+          "branch_name": "Winnipeg",
+          "city": "Winnipeg",
+          "swift_code": "IGMFCA44001"
+        },
+        {
+          "branch_name": "Winnipeg",
+          "city": "Winnipeg",
+          "swift_code": "IGMFCA44002"
+        },
+        {
+          "branch_name": "Winnipeg",
+          "city": "Winnipeg",
+          "swift_code": "IGMFCA44003"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Winnipeg",
+          "swift_code": "IGMFCA44XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Invesco Trimark",
+      "branches": [
+        {
+          "branch_name": "Aimpoms Service",
+          "city": "Toronto",
+          "swift_code": "AFMICATAXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "AFMICATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Industrial And Commercial Bank Of China (Canada)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "ICBKCAT2XXX"
+        },
+        {
+          "branch_name": "Vancouver",
+          "city": "Vancouver",
+          "swift_code": "ICBKCAT2VAN"
+        }
+      ]
+    },
+    {
+      "bank_name": "Icici Bank Canada",
+      "branches": [
+        {
+          "branch_name": "Central Operations-canada",
+          "city": "Toronto",
+          "swift_code": "ICICCATTCOP"
+        },
+        {
+          "branch_name": "Global Trade Service Unit-canada",
+          "city": "Toronto",
+          "swift_code": "ICICCATTGTS"
+        },
+        {
+          "branch_name": "Treasury",
+          "city": "Toronto",
+          "swift_code": "ICICCATTRTL"
+        },
+        {
+          "branch_name": "Treasury",
+          "city": "Toronto",
+          "swift_code": "ICICCATTTSY"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "ICICCATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Securities Canada Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "HSCICATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank Usa (Toronto Branch)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "HSBCCATXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hsbc Bank Canada",
+      "branches": [
+        {
+          "branch_name": "Montreal H1v 3r9",
+          "city": "Montreal",
+          "swift_code": "HKBCCATTMON"
+        },
+        {
+          "branch_name": "Cls Department",
+          "city": "Toronto",
+          "swift_code": "HKBCCATTCLS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "HKBCCATTXXX"
+        },
+        {
+          "branch_name": "Vancouver",
+          "city": "Vancouver",
+          "swift_code": "HKBCCATTVAN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "HKBCCA81XXX"
+        },
+        {
+          "branch_name": "Calgary Branch",
+          "city": "Calgary",
+          "swift_code": "HKBCCATTCAL"
+        }
+      ]
+    },
+    {
+      "bank_name": "Habib Canadian Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mississauga",
+          "swift_code": "HBZUCATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Globaltrade Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "GLCRCATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "First Commercial Bank",
+      "branches": [
+        {
+          "branch_name": "Vancouver Branch",
+          "city": "Richmond",
+          "swift_code": "FCBKCA8VXXX"
+        },
+        {
+          "branch_name": "Toronto Branch",
+          "city": "Toronto",
+          "swift_code": "FCBKCA8V909"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Brisbane",
+          "swift_code": "FCBKAU4BXXX"
+        },
+        {
+          "branch_name": "Guam Branch",
+          "city": "Los Angeles",
+          "swift_code": "FCBKUS66901"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Singapore",
+          "swift_code": "FCBKSGSGXXX"
+        },
+        {
+          "branch_name": "30006 Hsinchu",
+          "city": "Hsinchu",
+          "swift_code": "FCBKTWTP301"
+        },
+        {
+          "branch_name": "Taichung",
+          "city": "Taichung",
+          "swift_code": "FCBKTWTP401"
+        },
+        {
+          "branch_name": "Tainan",
+          "city": "Tainan",
+          "swift_code": "FCBKTWTP601"
+        },
+        {
+          "branch_name": "Kaohsiung",
+          "city": "Kaohsiung",
+          "swift_code": "FCBKTWTP701"
+        },
+        {
+          "branch_name": "Offshore Banking Branch",
+          "city": "Taipei",
+          "swift_code": "FCBKTWTPOBU"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Taipei",
+          "swift_code": "FCBKTWTPXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "FCBKGB2LXXX"
+        },
+        {
+          "branch_name": "Hanoi Branch",
+          "city": "Hanoi",
+          "swift_code": "FCBKVNVXHAN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ho Chi Minh City",
+          "swift_code": "FCBKVNVXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Firma Foreign Exchange Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Edmonton",
+          "swift_code": "FFFXCA66XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Export Development Canada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ottawa",
+          "swift_code": "EDCOCAW2XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Ottawa",
+          "swift_code": "EDCOCA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Ag, Canada Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "DEUTCATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daimler Canada Finance Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "DCAGCAMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Custom House Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Victoria",
+          "swift_code": "CHFXCA8VXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ctc Bank Of Canada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "CTCBCA8VXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Suisse Ag, Toronto Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "CRESCATTXXX"
+        },
+        {
+          "branch_name": "Calgary",
+          "city": "Calgary",
+          "swift_code": "CRESCAT106C"
+        },
+        {
+          "branch_name": "Vancouver",
+          "city": "Vancouver",
+          "swift_code": "CRESCAT108V"
+        },
+        {
+          "branch_name": "Montreal",
+          "city": "Montreal",
+          "swift_code": "CRESCAT10MM"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citizens Bank Of Canada",
+      "branches": [
+        {
+          "branch_name": "Vancity",
+          "city": "Vancouver",
+          "swift_code": "CTZNCA8V001"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "CTZNCA8VXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Pictet Canada L.P.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "PICTCAMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Northern Trust (Canada)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "CNORCATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Newedge Canada Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "NEWGCAMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Morgan Stanley Canada Limited",
+      "branches": [
+        {
+          "branch_name": "Montreal Branch",
+          "city": "Montreal",
+          "swift_code": "MSCACATXMON"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "MSCACATXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mizuho Corporate Bank, Ltd., Canada Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "MHCBCATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mirabaud Canada Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "MIRICAMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mfc Global Investment Management (U.S.A) Limited",
+      "branches": [
+        {
+          "branch_name": "Aim-poms Service",
+          "city": "Toronto",
+          "swift_code": "MFCGCATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Merrill Lynch Canada, Inc",
+      "branches": [
+        {
+          "branch_name": "Canadian Fx",
+          "city": "Toronto",
+          "swift_code": "MLCICATTTOR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "MLCICATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Mega International Commercial Bank (Canada)",
+      "branches": [
+        {
+          "branch_name": "Richmond Branch",
+          "city": "Richmond",
+          "swift_code": "ICBCCATTRMD"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "ICBCCATTXXX"
+        },
+        {
+          "branch_name": "Vancouver Branch",
+          "city": "Vancouver",
+          "swift_code": "ICBCCATTVAN"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maple Securities Cda Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "MAPLCATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Maple Bank Gmbh",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "MPBKCAT1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Frankfurt Am Main",
+          "swift_code": "MPBKDEFFXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Manulife Asset Management Limited",
+      "branches": [
+        {
+          "branch_name": "Aim-poms Service",
+          "city": "Toronto",
+          "swift_code": "MAMGCATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Magna International Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Aurora",
+          "swift_code": "MAINCA2AXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Lombard Odier Darier Hentsch",
+      "branches": [
+        {
+          "branch_name": "Ndp Dept",
+          "city": "Montreal",
+          "swift_code": "LOCYCAMMNDP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "LOCYCAMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Laurentian Bank Of Canada",
+      "branches": [
+        {
+          "branch_name": "All Offices In Canada",
+          "city": "Montreal",
+          "swift_code": "BLCMCAMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Korea Exchange Bank Of Canada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "KOEXCATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jim Pattison Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "JPGCCA8VXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Jameson Bank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "JMSNCATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ubs Bank (Canada)",
+      "branches": [
+        {
+          "branch_name": "Montreal Branch",
+          "city": "Montreal",
+          "swift_code": "UBSWCATTMTL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "UBSWCATTXXX"
+        },
+        {
+          "branch_name": "Vancouver Branch",
+          "city": "Vancouver",
+          "swift_code": "UBSWCATTVAN"
+        }
+      ]
+    },
+    {
+      "bank_name": "Travelex Canada Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "COOKCATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Travelex Canada Limited",
+      "branches": [
+        {
+          "branch_name": "Toronto",
+          "city": "Toronto",
+          "swift_code": "TRAVCATTCUR"
+        },
+        {
+          "branch_name": "Toronto",
+          "city": "Toronto",
+          "swift_code": "TRAVCATTRTL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "TRAVCATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Transatlantic Securities Company Limited Partnership",
+      "branches": [
+        {
+          "branch_name": "Ndp Dept",
+          "city": "Montreal",
+          "swift_code": "TRACCAMMNDP"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "TRACCAMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Toronto Dominion Bank, The",
+      "branches": [
+        {
+          "branch_name": "Calgary T2p 2z2",
+          "city": "Calgary",
+          "swift_code": "TDOMCATTCAL"
+        },
+        {
+          "branch_name": "Montreal",
+          "city": "Montreal",
+          "swift_code": "TDOMCATTMTL"
+        },
+        {
+          "branch_name": "Toronto M5k 1a2",
+          "city": "Toronto",
+          "swift_code": "TDOMCATTTOR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "TDOMCATTXXX"
+        },
+        {
+          "branch_name": "Vancouver V7y 1a2",
+          "city": "Vancouver",
+          "swift_code": "TDOMCATTVAN"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Houston,Tx",
+          "swift_code": "TDOMUS4HXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "New York,Ny",
+          "swift_code": "TDOMUS33XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "TDOMGB3LXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Royal Bank Of Scotland N.V. (Canada) Branch",
+      "branches": [
+        {
+          "branch_name": "Montreal Branch",
+          "city": "Montreal",
+          "swift_code": "ABNACATTMTL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "ABNACATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "The Bank Of New York Mellon, Toronto Branch",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "MELNCATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Sumitomo Mitsui Banking Corporation Of Canada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "SMTOCATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Street Bank And Trust Company, Canada Branch",
+      "branches": [
+        {
+          "branch_name": "Integrated Financial Systems",
+          "city": "Toronto",
+          "swift_code": "SBOSCATXIFS"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "SBOSCATXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "State Bank Of India (Canada)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "SBINCATXXXX"
+        },
+        {
+          "branch_name": "Vancouver V5w 3a6",
+          "city": "Vancouver",
+          "swift_code": "SBINCATXVAN"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ss And C Technologies Canada Corp",
+      "branches": [
+        {
+          "branch_name": "Sscnet Etc Acu",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMACU"
+        },
+        {
+          "branch_name": "Sscnet Etc Aeg",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMAEG"
+        },
+        {
+          "branch_name": "Sscnet Etc",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMAGF"
+        },
+        {
+          "branch_name": "Sscnet Etc Anz",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMANZ"
+        },
+        {
+          "branch_name": "Sscnet Etc",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMAUR"
+        },
+        {
+          "branch_name": "Sscnet Etc",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMBUD"
+        },
+        {
+          "branch_name": "Sscnet Etc Bur",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMBUR"
+        },
+        {
+          "branch_name": "Sscnet Etc",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMCAL"
+        },
+        {
+          "branch_name": "Sscnet Etc Cam",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMCAM"
+        },
+        {
+          "branch_name": "Sscnet Etc Cba",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMCBA"
+        },
+        {
+          "branch_name": "Sscnet Etc Cdp",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMCDP"
+        },
+        {
+          "branch_name": "Sscnet Etc Ddj",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMDDJ"
+        },
+        {
+          "branch_name": "Sscnet Etc Dpw",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMDPW"
+        },
+        {
+          "branch_name": "Ssc Etc",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMFII"
+        },
+        {
+          "branch_name": "Sscnet Etc Gma",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMGMA"
+        },
+        {
+          "branch_name": "Sscnet Etc Good",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMGOO"
+        },
+        {
+          "branch_name": "Sscnet Etc Gua",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMGUA"
+        },
+        {
+          "branch_name": "Sscnet Etc",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMHEX"
+        },
+        {
+          "branch_name": "Sscnet Etc His",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMHIS"
+        },
+        {
+          "branch_name": "Sscnet Etc Ias",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMIAS"
+        },
+        {
+          "branch_name": "Sscnet Etc",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMFCC"
+        },
+        {
+          "branch_name": "Sscnet Etc",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMGLS"
+        },
+        {
+          "branch_name": "Sscnet Etc",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMGRY"
+        },
+        {
+          "branch_name": "Mississauga",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMOME"
+        },
+        {
+          "branch_name": "Sscnet Etc",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMOTP"
+        },
+        {
+          "branch_name": "Mississauga",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMPEM"
+        },
+        {
+          "branch_name": "Sscnet Etc",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMPYR"
+        },
+        {
+          "branch_name": "Ss And C Technologies Canada Corp",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMSPR"
+        },
+        {
+          "branch_name": "Sscnet Etc",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMANC"
+        },
+        {
+          "branch_name": "Sscnet Etc Arr",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMARR"
+        },
+        {
+          "branch_name": "Sscnet Etc",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMASH"
+        },
+        {
+          "branch_name": "Sscnet Etc Bla",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMBLA"
+        },
+        {
+          "branch_name": "Sscnet Etc",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMHFM"
+        },
+        {
+          "branch_name": "Sscnet Etc Kcl",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMKCL"
+        },
+        {
+          "branch_name": "Sscnet Etc Ope",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMOPE"
+        },
+        {
+          "branch_name": "Sscnet Etc Iga",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMIGA"
+        },
+        {
+          "branch_name": "Sscnet Etc Ing",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMING"
+        },
+        {
+          "branch_name": "Sscnet Etc Kap",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMKAP"
+        },
+        {
+          "branch_name": "Sscnet Etc Mon",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMMON"
+        },
+        {
+          "branch_name": "Sscnet Etc",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMOST"
+        },
+        {
+          "branch_name": "Sscnet Etc Phn",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMPHN"
+        },
+        {
+          "branch_name": "Platinum",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMPLA"
+        },
+        {
+          "branch_name": "Ss And C Technologies Canada Corp",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMPNB"
+        },
+        {
+          "branch_name": "Sscnet Ets",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMPRE"
+        },
+        {
+          "branch_name": "Sscnet Etc Psp",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMPSP"
+        },
+        {
+          "branch_name": "Sscnet Etc Sam",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMSAM"
+        },
+        {
+          "branch_name": "Sscnet Etc Spg",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMSPG"
+        },
+        {
+          "branch_name": "Sscnet Etc",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMSTD"
+        },
+        {
+          "branch_name": "Sscnet Etc Stw",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMSTW"
+        },
+        {
+          "branch_name": "Ss And C Trilogy",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMTRI"
+        },
+        {
+          "branch_name": "Sscnet Etc War",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMWAR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMXXX"
+        },
+        {
+          "branch_name": "Montreal",
+          "city": "Montreal",
+          "swift_code": "FMCCCATMSEC"
+        },
+        {
+          "branch_name": "Karara",
+          "city": "Toronto",
+          "swift_code": "FMCCCAT1BAM"
+        },
+        {
+          "branch_name": "Ss And C Technologies Canada Corp",
+          "city": "Mississauga",
+          "swift_code": "FMCCCATMDEA"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale (Canada)",
+      "branches": [
+        {
+          "branch_name": "Valeurs Mobilieres",
+          "city": "Montreal",
+          "swift_code": "SOGECAMMVAL"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "SOGECAMMXXX"
+        },
+        {
+          "branch_name": "Toronto",
+          "city": "Toronto",
+          "swift_code": "SOGECAMMTOR"
+        }
+      ]
+    },
+    {
+      "bank_name": "Societe Generale (Canada Branch)",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "SOGECAMBXXX"
+        },
+        {
+          "branch_name": "Toronto",
+          "city": "Toronto",
+          "swift_code": "SOGECAMBTOR"
+        }
+      ]
+    },
+    {
+      "bank_name": "Shinhan Bank Canada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "SHBKCATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Scotia Mcleod Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "SCMCCATTXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "SCMCGB21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Research In Motion Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Waterloo",
+          "swift_code": "RIMMCA2WXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Rbc Dexia Investor Services",
+      "branches": [
+        {
+          "branch_name": "Quebec",
+          "city": "Montreal",
+          "swift_code": "ROTRCATTMPC"
+        },
+        {
+          "branch_name": "Derivatives",
+          "city": "Toronto",
+          "swift_code": "ROTRCATTDER"
+        },
+        {
+          "branch_name": "Securities Lending Department",
+          "city": "Toronto",
+          "swift_code": "ROTRCATTLEN"
+        },
+        {
+          "branch_name": "Global Services",
+          "city": "Toronto",
+          "swift_code": "ROTRCATTTIC"
+        },
+        {
+          "branch_name": "Insurance Services",
+          "city": "Toronto",
+          "swift_code": "ROTRCATTTSC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "ROTRCATTXXX"
+        },
+        {
+          "branch_name": "London",
+          "city": "London",
+          "swift_code": "RTBSGB22ADM"
+        },
+        {
+          "branch_name": "London",
+          "city": "London",
+          "swift_code": "RTBSGB22TPA"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "RTBSGB22XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "London",
+          "swift_code": "RTBSGB2LXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Public Sector Pension Investment Board",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "PSPBCAMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bcpbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "BCOMCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bbn James Capel Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "BBNJCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Barclays Mcconnell Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "BMCCCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Royale Du Canada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Victoriaville",
+          "swift_code": "ROYACA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De Developpement Du Canada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "BAFDCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Montreal Shorcan",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "BAMSCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aviva Investors North America",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "AINMCAT1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Des Moines",
+          "swift_code": "AINAUS41XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aureus Capital Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "AURCCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Asia Pacific Financial Services Canada Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Victoria",
+          "swift_code": "APFICA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Aquilon Capital Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "MMIGCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Altacorp Capital Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Calgary",
+          "swift_code": "ALTTCA61XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alphafixe Capital",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "ALPICAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alpha Capital Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "ALPHCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alberta Teachers Retirement Fund Board",
+      "branches": [
+        {
+          "branch_name": "Alberta Teachers Retirement Fund Board",
+          "city": "Edmonton",
+          "swift_code": "ATRFCA61XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Alberta Stock Exchange, The",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Calgary",
+          "swift_code": "XALBCA61XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Acumen Capital Partners",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Calgary",
+          "swift_code": "ACCTCA61XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Acker Finley Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "ACKFCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Accu-rate Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ottawa",
+          "swift_code": "ACFXCAW1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "A.c. Macpherson And Co. Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "ACMCCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caisse Desjardins Des Chutes Montmorency",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Quebec",
+          "swift_code": "CDCNCA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caisse De Depot Et Placement Du Quebec",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "CDPECA21XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "CDPECAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "C.s. First Boston (canada) Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "CSFBCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "C.m. Oliver And Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "CHOLCA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Business Development Bank Of Canada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "FBDBCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Burns Fry Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "BFRLCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Burgundy Asset Management Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "BUAMCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brookfield Brp Canada Corp.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ottawa",
+          "swift_code": "BBRPCAWAXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brink, Hudson And Lefever Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "BHLLCA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brightway Capital (canada) Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "BRPDCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Brawley Cathers Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "BRWLCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bnp Paribas (canada) Valeurs Mobilieres Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "BNPVCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bmo Nesbitt Burns Inc",
+      "branches": [
+        {
+          "branch_name": "Toronto M5x 1h3",
+          "city": "Toronto",
+          "swift_code": "NESUCAM10TT"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "NESUCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bmo Harris Investment Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "BHIMCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bluechive Processing Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "BLPCCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bloomberg Tradebook Canada Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "BTRBCATTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Blackrock Asset Management Canada Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto Ontario",
+          "swift_code": "BAGNCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Black Creek Investment Management Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto Ontario",
+          "swift_code": "BCNGCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Berner And Company Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "BERCCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Coerente Capital Management Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal Quebec",
+          "swift_code": "CCTMCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cma Leduc Valeurs Mobilieres Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "VLMOCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Clarus Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "CLSTCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citibank Canada Securities Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "CICSCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Citco Bank Csv Processing",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "CISGCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cibc Global Asset Management Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "CGAACAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Casgrain And Company Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "CASCCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Canso Investment Counsel Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Richmond Hill",
+          "swift_code": "CAVUCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Canoe Financial Lp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto Ontario",
+          "swift_code": "CNFNCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Canadian Western Bank",
+      "branches": [
+        {
+          "branch_name": "Vancouver V7x 1m8",
+          "city": "Vancouver",
+          "swift_code": "CWBKCA6108V"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Edmonton",
+          "swift_code": "CWBKCA61XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Canadian National Railway Company",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "CNRRCAMTXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Canadian Financial Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "CNFCCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Canadian Derivatives Clearing Corp",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "CDCCCAMMXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Canadas Kyoto Protocol National Registry",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Gatineau",
+          "swift_code": "CKPNCA21XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Canada Money Tt Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Burnaby",
+          "swift_code": "CMTTCA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Canaccord Capital Corporation",
+      "branches": [
+        {
+          "branch_name": "Vancouver",
+          "city": "Vancouver",
+          "swift_code": "CANCCA81DTC"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "CANCCA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Camlin Asset Management",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "CMAMCA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Calgary Foreign Exchange Ltd.",
+      "branches": [
+        {
+          "branch_name": "Calgary Foreign Exchange Ltd.",
+          "city": "Calgary",
+          "swift_code": "CLFXCA66XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caldwell Securities Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "CALWCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Edward D. Jones And Co",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Mississauga",
+          "swift_code": "EDDJCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Edgepoint Wealth",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "EDWECAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "E(three)m Investments Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "EMINCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dundee Securities Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "DUNSCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dominick And Dominick Securities",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "DDMSCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Doherty And Associates Co. Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Ottawa",
+          "swift_code": "DOASCAW1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deutsche Bank Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "MCMICAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Demers Conseil Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "DEMCCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Deacon Capital Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "DCCOCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Dbrs Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "DRRSCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Daiwa Securities Canada Ltd.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "DSCACAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cti Capital Group Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Montreal",
+          "swift_code": "CTICCAM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Crew Holdings Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "CRHLCA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credit Union Central Of Canada",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "CCCSCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Credifinance Securities Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "CSECCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cormark Securities Inc",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "SPSLCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Connor, Clark And Lunn Financial Group",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Vancouver",
+          "swift_code": "CCLFCA81XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Connor, Clark And Company Ltd",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Toronto",
+          "swift_code": "CONCCAT1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Concentra Financial Services Association",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Saskatoon",
+          "swift_code": "TCACCAT1XXX"
+        }
+      ]
+    }
+  ]
+}

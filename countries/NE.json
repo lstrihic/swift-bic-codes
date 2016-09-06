@@ -1,0 +1,167 @@
+{
+  "country_name": "Niger",
+  "alpha_2": "NE",
+  "country_code": "562",
+  "banks": [
+    {
+      "bank_name": "Societe Nigerienne De Banque",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Niamey",
+          "swift_code": "SOCNNENIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Depositaire Central-banque De Reglement (dcbr Niger",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Niamey",
+          "swift_code": "DCRRNEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Cbao Niger",
+      "branches": [
+        {
+          "branch_name": "Cbao Niger",
+          "city": "Niamey",
+          "swift_code": "CBAONEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Sahelo-saharienne Pour L'investissement Et Le Commerce (niger) S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Niamey",
+          "swift_code": "BSAHNENIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Niger Ecn",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Niamey",
+          "swift_code": "ECOCNENIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Regionale De Solidarite-niger",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Niamey",
+          "swift_code": "BRSWNENIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Islamique Du Niger Pour Le Commerce Et L'investissement",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Niamey",
+          "swift_code": "BICVNENIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Internationale Pour Le Commerce Et Industrie Du Niger",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Niamey",
+          "swift_code": "INNINEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Internationale Pour L'afrique Au Niger",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Niamey",
+          "swift_code": "BIANNENIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Commerciale Du Niger",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Niamey",
+          "swift_code": "BCDNNENIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Centrale Des Etats De L'afrique Et De L'ouest",
+      "branches": [
+        {
+          "branch_name": "Maradi Branch",
+          "city": "Maradi",
+          "swift_code": "BCAONENIMAR"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Niamey",
+          "swift_code": "BCAONENIXXX"
+        },
+        {
+          "branch_name": "Zinder Branch",
+          "city": "Zinder",
+          "swift_code": "BCAONENIZIN"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Agricole Du Niger",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Niamey",
+          "swift_code": "BANENENIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Atlantique Niger",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Niamey",
+          "swift_code": "ATNENENIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Commerciale Du Niger S.a.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Niamey",
+          "swift_code": "BALNNEN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Africa Niger",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Niamey",
+          "swift_code": "AFRINENIXXX"
+        }
+      ]
+    }
+  ]
+}

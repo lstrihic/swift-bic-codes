@@ -1,0 +1,167 @@
+{
+  "country_name": "Burundi",
+  "alpha_2": "BI",
+  "country_code": "108",
+  "banks": [
+    {
+      "bank_name": "Meridien Biao Bank Burundi Sarl",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bujumbura",
+          "swift_code": "MBBSBIB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Kcb Bank Burundi Limited",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bujumbura",
+          "swift_code": "KCBLBIBIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Interbank Burundi",
+      "branches": [
+        {
+          "branch_name": "Avenue De Lindustrie Branch",
+          "city": "Bujumbura",
+          "swift_code": "IBBUBIBIADI"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Bujumbura",
+          "swift_code": "IBBUBIBIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Ecobank Burundi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bujumbura",
+          "swift_code": "ECOCBIBIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Diamond Trust Bank Burundi S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bujumbura",
+          "swift_code": "DTKEBIBIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Crdb Bank Burundi S.a",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bujumbura",
+          "swift_code": "CORUBIBUXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Central Bank Of Burundi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bujumbura",
+          "swift_code": "CBBBBIB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caisse D'epargne Du Burundi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bujumbura",
+          "swift_code": "CADBBIB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Caisse Centrale De Mobilisation Et De Financement",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bujumbura",
+          "swift_code": "CCMFBIB1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De La Republique Du Burundi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bujumbura",
+          "swift_code": "BRBUBIBIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De Gestion Et De Financement",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bujumbura",
+          "swift_code": "BKGFBIBIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque De Credit De Bujumbura",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bujumbura",
+          "swift_code": "BCRBBIBIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Commerciale Du Burundi",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bujumbura",
+          "swift_code": "BCBUBIBIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Banque Burundaise Pour Le Commerce Et L'investissement",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bujumbura",
+          "swift_code": "BUCIBIBIXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Finbank",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Bujumbura",
+          "swift_code": "FIKNBIBIXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Odesa",
+          "swift_code": "FNBKUA22XXX"
+        }
+      ]
+    }
+  ]
+}

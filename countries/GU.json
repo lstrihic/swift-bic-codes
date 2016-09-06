@@ -1,0 +1,87 @@
+{
+  "country_name": "Guam",
+  "alpha_2": "GU",
+  "country_code": "316",
+  "banks": [
+    {
+      "bank_name": "Citibank N.a. Guam",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "96910 Agana",
+          "swift_code": "CITIGUGXXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Nauru",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Agana",
+          "swift_code": "BNAUGUG1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Nauru",
+          "swift_code": "BNAUNRN1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Bank Of Guam",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Agana",
+          "swift_code": "GMBKGUGUXXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "San Francisco",
+          "swift_code": "GMBKUS61XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Saipan",
+          "swift_code": "GMBKMPM1XXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Anz Guam, Inc.",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Agana",
+          "swift_code": "ANZBGUGGXXX"
+        }
+      ]
+    },
+    {
+      "bank_name": "Allied Banking Corporation",
+      "branches": [
+        {
+          "branch_name": "Head Office",
+          "city": "Tamuning",
+          "swift_code": "ABCMGUG1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manama",
+          "swift_code": "ABCMBHB1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Madrid",
+          "swift_code": "ABCMESM1XXX"
+        },
+        {
+          "branch_name": "Head Office",
+          "city": "Manila",
+          "swift_code": "ABCMPHMMXXX"
+        }
+      ]
+    }
+  ]
+}
